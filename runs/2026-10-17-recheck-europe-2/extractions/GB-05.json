@@ -1,0 +1,250 @@
+{
+ "cand_id": "GB-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-05",
+ "record": {
+  "summary": "Independent report led by Matt Clifford, with 50 recommendations for government to grow the UK's AI sector and drive AI adoption across the economy and public services. Its section on safe and trusted AI (recommendations 23 to 30) calls for continued support for the AI Safety Institute's research on model evaluations, foundational safety and societal resilience, says any regulation of frontier models should preserve the institute's capability, and recommends funding regulators' AI capabilities, regulatory sandboxes and new AI assurance tools.",
+  "notes": "Led by Matt Clifford CBE, Chair of the Advanced Research and Invention Agency, whom the Secretary of State for Science, Innovation and Technology commissioned to devise the plan; presented to Parliament as Command Paper CP 1241 in January 2025. In the government's response of the same day (CP 1242) the Prime Minister endorsed the plan, and the government agreed to the recommendations, partially agreeing to two and answering the one on text and data mining with its consultation. On recommendation 23 it said DSIT would consult on legislation on the critical risks of the most powerful AI models and that it intended to establish the AI Safety Institute as a statutory body.",
+  "scope_note": "Mainly an economic growth and adoption plan with one section on regulation, safety and assurance; included as the UK government's flagship AI plan of January 2025.",
+  "verification": {
+   "note": "Stored and read in this run: the GOV.UK publication page (title, 'Independent report', DSIT, published 13 January 2025, CP 1241, 50 recommendations, Matt Clifford), the plan's PDF (presented to Parliament in January 2025, CP 1241, section 1.4 with recommendations 23 to 30) and its HTML version (stored as the secondary source; the Secretary of State's foreword on commissioning Matt Clifford), snapshots of 11 Oct 2026, unchanged on 17 Oct; and the government's response (CP 1242, published 13 January 2025, stored 17 Oct 2026), with the Prime Minister's endorsement and a response to each recommendation (two 'Partially agree', recommendation 24 answered with the consultation, the rest 'Agree'). GOV.UK marks the response as published under the 2024 to 2026 Starmer Labour government."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "page header",
+    "quote": "Independent report AI Opportunities Action Plan",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "page header",
+    "quote": "Published: 13 January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "Documents",
+    "quote": "Ref: ISBN 978-1-5286-5362-6, E03258815 01/25, CP 1241",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 2",
+    "quote": "AI Opportunities Action Plan Presented to Parliament by the Secretary of State for Science, Innovation and Technology by Command of His Majesty January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "page header",
+    "quote": "From: Department for Science, Innovation and Technology Published: 13 January 2025 Get emails about this page",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "Foreword by the Prime Minister",
+    "quote": "Today, I am happy to endorse it and take the recommendations forward.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "page header",
+    "quote": "From: Department for Science, Innovation and Technology",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "Details",
+    "quote": "This document has 50 recommendations for government to:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "Details",
+    "quote": "The AI Opportunities Action Plan, led by Matt Clifford CBE, tech entrepreneur and Chair of the Advanced Research and Invention Agency (ARIA).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "Details",
+    "quote": "This document has 50 recommendations for government to: grow the UK’s AI sector drive adoption of AI across the economy to boost growth improve products and services",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 4",
+    "quote": "1.4 Enabling safe and trusted AI development and adoption through regulation, safety and assurance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 15",
+    "quote": "23. Continue to support and grow the AI Safety Institute (AISI) to maintain and expand its research on model evaluations, foundational safety and societal resilience research.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 15",
+    "quote": "A top priority of any such regulation should be preserving the capability, trust and collaboration that the AISI has built up since its creation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 15",
+    "quote": "25. Commit to funding regulators to scale up their AI capabilities",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 15",
+    "quote": "27. Work with regulators to accelerate AI in priority sectors and implement pro-",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 15",
+    "quote": "innovation initiatives like regulatory sandboxes. These should be targeted in areas with regulatory challenges but high-growth potential",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 16",
+    "quote": "Investing significantly in the development of new assurance tools",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-05/2026-10-11/secondary.html",
+    "sha256": "bda236342c2ff84fee00ee3ce0a61fe3dd34e24454c207b104fce8191c4a2bdc",
+    "locator": "Foreword by the Secretary of State",
+    "quote": "That is why one of my first acts as Secretary of State was to commission Matt Clifford to devise an AI Opportunities Action Plan for the British government.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/document-1.pdf",
+    "sha256": "de68eed45514303e2e0e4280b5cde8b7167aaa17d6f69e1b0716765ae4de807d",
+    "locator": "page 1",
+    "quote": "CP 1241",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-05/2026-10-11/official.html",
+    "sha256": "cc393af6034fbba8d855029f1608d10f18a9bf8c496b38ea8597619bab3a6c11",
+    "locator": "Details",
+    "quote": "Read the government response to the AI Opportunities Action Plan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "front matter",
+    "quote": "Presented to Parliament by the Secretary of State Science, Innovation and Technology by Command of His Majesty. CP 1242",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "page header",
+    "quote": "AI Opportunities Action Plan: government response Published 13 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "Foreword by the Prime Minister",
+    "quote": "Today, I am happy to endorse it and take the recommendations forward.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "Recommendation 13",
+    "quote": "Partially agree. DCMS and DSIT will engage with partner organisations and industry to consider the potential role of government in taking forward this recommendation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "Recommendation 21",
+    "quote": "Partially agree. The Industrial Strategy will set out how the UK will attract highly skilled AI workers from abroad.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "Recommendation 24",
+    "quote": "Reform the UK text and data mining regime so that it is at least as competitive as the EU. The government has launched a consultation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-05/extra-c157cdd164/2026-10-17/official.html",
+    "sha256": "06bdda072dae21fdf1b7138bda489efbe195d105f994922f05b2ebf621fad5f8",
+    "locator": "Recommendation 23",
+    "quote": "DSIT will consult on proposed legislation to provide regulatory certainty to help kickstart growth and protect UK citizens and assets from the critical risks associated with the next generation of the most powerful AI models. The government intends to establish AISI as a statutory body.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored plan: 'current flagship' and 'now Security' removed (not in this record's files), the 50 recommendations and the content of recommendations 23 to 29 stated as the plan words them",
+   "notes": "rewritten with the stored government response: the Prime Minister's endorsement, the response's treatment of the recommendations (CP 1242, the same day), and its answer to recommendation 23 (consultation on legislation on the most powerful models, AISI as a statutory body); version 1's 'accepted by government' and 'published alongside it' are now stated as the response states them",
+   "scope_note": "'current flagship AI policy' replaced by a dated description, since whether the plan is still the government's current policy is not shown by a stored file",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "official_identifier",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Non-binding recommendations published on 13 January 2025 and endorsed by the Prime Minister in the government's response the same day; neither page shows a withdrawal or update. 'Published (non-binding, current)' stands. GOV.UK marks the response as published under the 2024 to 2026 Starmer Labour government, which points to a change of government in 2026 (open question).",
+  "scope_reasoning": "Mainly a growth and adoption plan; its section 1.4 on regulation, safety and assurance (AISI, frontier model regulation, assurance) keeps it in with the existing scope_note, reworded."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response/ai-opportunities-action-plan-government-response",
+   "reason": "The government's response to the plan, linked from the stored publication page ('Read the government response'): its date and whether it accepts the recommendations, including 23 to 30, support version 1's note that the plan was accepted by government."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "GOV.UK marks the government's response to this plan (stored for this record) as 'published under the 2024 to 2026 Starmer Labour government', which suggests a change of government in 2026. Neither the plan nor the response shows a withdrawal, so the status stays current, but a later run should check whether the new government has kept or replaced the plan, and what became of the legislation on the most powerful AI models and the statutory AISI announced in the response."
+ ]
+}

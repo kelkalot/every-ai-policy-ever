@@ -1,0 +1,48 @@
+{
+ "cand_id": "FR-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "Superseded rests on the 2021 press kit saying the first phase of the national strategy ended and a second phase begins; the 2021 kit also calls the 2018 effort part of the same 'stratégie nationale pour l'IA (2018-2022)'. Whether a phased continuation is 'Superseded' or still current is a judgment; the extractor's choice is defensible, and a maintainer may want it checked."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Strategy presented by the President on 29 March 2018 at the Collège de France with 1.5 billion euros of public funding. Literal translation: 'On Thursday 29 March 2018 the colloquium on AI was held in Paris at the Collège de France. On that occasion the President of the Republic presented an ambitious strategy in favour of artificial intelligence.'",
+   "verdict": "supported",
+   "locator": "press kit p. 5"
+  },
+  {
+   "claim": "2021 press kit: second phase with 2.22 billion euros over five years, 1.5 billion of it public, with trustworthy AI ('IA de confiance')",
+   "verdict": "supported",
+   "locator": "press kit of 8 November 2021"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly a strategy for AI research, talent, data and funding with ethics as one pillar; the existing scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "The 2018 press kit (enseignementsup-recherche.gouv.fr) and the Government's 2021 press kit (presse.economie.gouv.fr) confirm the presentation date, the three axes, the funding, and that the first phase ended with a second phase launched. The status change to Superseded is a judgment call (see status). The extractor supplied no evidence entries for the new 2021 notes sentence; I found 2.22 billion, 1.5 billion public, and 'IA de confiance' in the stored 2021 PDF. The second phase is a lead and would be its own record."
+}

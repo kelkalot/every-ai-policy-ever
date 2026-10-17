@@ -1,0 +1,145 @@
+{
+ "cand_id": "FR-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "FR-02",
+ "record": {
+  "status": "Superseded",
+  "notes": "Presented at the 'AI for Humanity' conference; the government press kit of 28 November 2018 describes the strategy in three axes: talent, diffusion of AI in the economy and society, and ethics. The funding includes 100 million euros from the Fund for Innovation and Industry for AI start-ups, 70 million euros a year through the public investment bank for deep-technology start-ups and 400 million euros for innovation challenges and industrial projects, within a total of 1.5 billion euros of public money expected to bring more than 500 million euros of private investment. The President said the State would by default make public the code of all algorithms it uses, starting with Parcoursup, and announced a regulatory framework for autonomous vehicles by 2022. The national research strategy for AI of 28 November 2018 is its research component: a national programme run by Inria with interdisciplinary AI institutes (3IA), 40 chairs and a doubling of AI doctorates. A 'Grand Défi' launched on 18 July 2018 aims to secure, certify and make reliable systems that use AI. The Government's press kit of 8 November 2021 calls it the national AI strategy for 2018-2022, says its first phase had come to an end, and launches a second phase of the national AI strategy with 2.22 billion euros over five years, 1.5 billion of it public, centred on training AI talent and turning research into economic success, including trustworthy AI.",
+  "verification": {
+   "note": "Stored and read in this run: the press kit of the Ministry of Higher Education, Research and Innovation and the Secretary of State for Digital Affairs of 28 November 2018 (enseignementsup-recherche.gouv.fr, official), which confirms the presentation of the strategy by the President on 29 March 2018, the Government's mobilisation around 'la stratégie AI for Humanity', the 1.5 billion euros, the three axes and the national research strategy; the Élysée page with the text of the President's speech of 29 March 2018 (stored again on 17 October 2026; only the site's news list changed), which gives the four pillars, the funding breakdown and the ethics measures; and the Government's press kit 'Stratégie nationale pour l'intelligence artificielle – 2e phase' of 8 November 2021 (presse.economie.gouv.fr, official), which treats the 2018 strategy as the first phase (2018-2022), now ended, and launches the second phase. Host to review: elysee.fr is listed in pipeline/official-sites.json for G7 and INT but not for FR, so the speech's quotes count as secondary. There is no single strategy document; the record describes the strategy from these sources. 'AI for Humanity' is the strategy's own name; no English text of the strategy was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5, heading",
+    "quote": "LA STRATÉGIE AI FOR HUMANITY",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "Cette stratégie nationale de l’IA peut être déclinée selon trois axes : les talents, la diffusion de l’IA dans l’économie et la société, et l’éthique.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 3, édito",
+    "quote": "Gouvernement est mobilisé autour de la stratégie AI for Humanity, nourrie par le rapport préparé par le député Cédric Villani.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "À cette occasion, le Président de la République a présenté une stratégie ambitieuse en faveur de l’intelligence artificielle",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 3, édito",
+    "quote": "l’ensemble du Gouvernement est mobilisé autour de la stratégie AI for Humanity",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "Jeudi 29 mars 2018 s’est tenu, à Paris au Collège de France, le colloque sur l’intelligence artificielle (IA) rassemblant les acteurs majeurs du secteur . À cette occasion, le Président de la République a présenté une stratégie ambitieuse",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-02/extra-859ac04fb9/2026-10-17/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 4, éditorial",
+    "quote": "Le 29 mars 2018 au Collège de France, le Président de la République présentait sa vision et sa stratégie pour faire de la France un pays leader de l’intelligence artificielle",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-02/2026-10-17/secondary.html",
+    "sha256": "90a749a80d09ddbd2c4c7366df8275f84099f4f5e7effab7e589d50cfcc35098",
+    "locator": "heading of the speech",
+    "quote": "Paris Collège de France – Jeudi 29 mars 2018",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-02/extra-859ac04fb9/2026-10-17/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 1, cover",
+    "quote": "ARTIFICIELLE – 2e phase",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-02/extra-859ac04fb9/2026-10-17/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 4, éditorial",
+    "quote": "aujourd’hui au terme de la première phase de cette stratégie nationale pour l’IA.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-02/extra-859ac04fb9/2026-10-17/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 6",
+    "quote": "Le Gouvernement lance désormais une deuxième phase de la stratégi e nationale pour l’IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-02/extra-859ac04fb9/2026-10-17/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 10",
+    "quote": "Initialement dotée de près de 1,5 Md€ sur la période 2018 -2022, la Stratégie nationale pour l’IA (2018-2022) a pour vocation de positionner la France",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "Cette stratégie nationale de l’IA peut être déclinée selon trois axes : les talents, la diffusion de l’IA dans l’économie et la société, et l’éthique.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "status": "'Published (non-binding, current)' changed to 'Superseded': the Government's press kit of 8 November 2021 calls the 2018 strategy the national AI strategy for 2018-2022, says its first phase had come to an end ('au terme de la première phase') and launches a second phase",
+   "notes": "one sentence added on the second phase of 8 November 2021 (later instrument), from its stored press kit",
+   "verification.note": "rewritten for the files stored in this run (the speech PDF and the unrelated guide named in version 1 are not among the record's files)"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "legal_force"
+  ],
+  "status_reasoning": "The 2018 strategy was announced on 29 March 2018 with funding for 2018-2022. On 8 November 2021 the Government presented the 'Stratégie nationale pour l'intelligence artificielle – 2e phase', whose editorial says the first phase of the national AI strategy has reached its end and which launches a second phase with its own five-year funding (2.22 billion euros) and priorities (talent, industrialisation, trustworthy AI). The 2018 strategy is therefore no longer the current one: 'Superseded'. Unlike DE-02, where the 2020 'Fortschreibung' revised the same strategy under the same title (kept as date_last_updated), the French second phase is a new phase with its own period and budget after the first one ended, so date_last_updated stays null. Whether later phases exist after 2021 is not shown by the stored files.",
+  "scope_reasoning": "France's national AI strategy, mainly research, talent, data and funding, with ethics as one pillar; the existing scope_note fits."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Stratégie nationale pour l'intelligence artificielle – 2e phase (France 2030), press kit of 8 November 2021",
+   "url": "https://presse.economie.gouv.fr/wp-content/uploads/2021/11/8bcf2b43571df79a59055eab0cc5047e.pdf",
+   "seen_in": "archive/_runs/2026-10-17-recheck-europe-2/FR-02/extra-859ac04fb9/2026-10-17/official.pdf",
+   "why": "the second phase of France's national AI strategy, which supersedes FR-02, with a section on spreading trustworthy AI systems ('IA de confiance'); not in the register (probably a scope_note case like FR-02); once it is a record, FR-02 should relate to it"
+  }
+ ],
+ "open_questions": []
+}

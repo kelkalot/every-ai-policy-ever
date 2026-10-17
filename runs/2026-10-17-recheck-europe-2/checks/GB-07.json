@@ -1,0 +1,46 @@
+{
+ "cand_id": "GB-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "judgment-differs",
+   "why": "Quote is the GOV.UK press-release title and supports it. The record title adds a parenthetical gloss ('renaming of the AI Safety Institute to the AI Security Institute') that is not in the official title; defensible as a descriptive label."
+  },
+  "legal_force": {
+   "verdict": "judgment-differs",
+   "why": "The quote is only the heading 'Press release ...'; non-binding follows from the document type, not from a statement in the text."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "'It will not focus on bias or freedom of speech'; focus on serious AI risks with security implications (chemical and biological weapons, cyber-attacks, fraud, child sexual abuse)",
+   "verdict": "supported",
+   "locator": "press release body"
+  },
+  {
+   "claim": "New criminal misuse team working jointly with the Home Office; work with Dstl, LASR and the NCSC",
+   "verdict": "supported",
+   "locator": "press release body"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Press release on GOV.UK stored; title, 14 February 2025 and issuing departments confirmed. Summary claims found in the text. The run removed v1's claim that the institute is not a regulator because no stored file for this record supports it. GOV.UK marks the page as published under an earlier government but shows no withdrawal. No newer official version found."
+}

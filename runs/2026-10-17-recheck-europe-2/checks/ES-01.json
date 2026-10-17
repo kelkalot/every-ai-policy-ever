@@ -1,0 +1,53 @@
+{
+ "cand_id": "ES-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Agency based in A Coruña (Estatuto art. 2); voluntary certification framework for private entities (art. 10.1.d).",
+   "verdict": "supported",
+   "locator": "arts. 2, 10"
+  },
+  {
+   "claim": "Supervises AI systems used by public administrations (art. 26) and systems that may pose significant risks to health, safety and fundamental rights (art. 4.3.e).",
+   "verdict": "supported",
+   "locator": "arts. 4, 26"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "BOE text and ELI analysis give RD 729/2023 of 22 Aug 2023, BOE no. 210 of 2 Sep 2023, entry into force 3 Sep 2023, and list no later amending references. Title, identifier and dates match character by character. Dropping the unsourced 'first national AI supervisory agency in the EU' claim is correct. No newer version found."
+}

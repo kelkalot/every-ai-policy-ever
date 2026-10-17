@@ -1,0 +1,226 @@
+{
+ "cand_id": "CH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CH-01",
+ "record": {
+  "summary": "Federal Council decision setting Switzerland's approach to regulating AI. Switzerland is to ratify the Council of Europe Convention on Artificial Intelligence, which will apply primarily to state actors, and amend Swiss law accordingly. Legislative changes are to be as sector-specific as possible, with cross-sectoral rules only in key areas relevant to fundamental rights such as data protection, and non-binding measures such as self-disclosure agreements or industry solutions are to support implementation. The aims are innovation, the protection of fundamental rights and public trust in AI.",
+  "notes": "Next steps set by the decision: the FDJP, with DETEC and the FDFA, is to draft a bill for consultation by the end of 2026 implementing the Convention, in particular on transparency, data protection, non-discrimination and supervision, and DETEC, with the FDJP, the FDFA and the EAER, is to draw up a plan for further non-binding measures by the end of 2026, taking into account compatibility with the approach of Switzerland's main trading partners. The decision rests on an overview of possible regulatory approaches to AI that the Federal Council commissioned from DETEC and the FDFA in November 2023, comprising a baseline legal analysis, a sectoral analysis and an analysis of 20 countries. The Federal Office of Justice set up an accompanying group of experts from inside and outside the federal administration to prepare the consultation bill and held a participatory workshop with about 60 stakeholder representatives on 27 October 2025. As of October 2026 its page describes the bill as being prepared and says Switzerland has no AI-specific legislation.",
+  "verification": {
+   "note": "Stored and read in this run: the English media release on admin.ch, rendered in a browser and printed to PDF on 17 Oct 2026, which gives the title, the date of 12 February 2025, the decision's parameters and its next steps; the German release stored on 11 Oct 2026 (title and lead only; the page now loads as a JavaScript shell, so the earlier copy is kept); and the Federal Office of Justice's page on AI (bj.admin.ch, 17 Oct 2026), which describes the work on the consultation bill. No stored source shows that the consultation has opened."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "page heading",
+    "quote": "AI regulation: Federal Council to ratify Council of Europe Convention",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-print.pdf",
+    "sha256": "66e0093cfd47d17fbf06e6823f503b12d9e318ae581197ba8ae871348092815a",
+    "locator": "page 1",
+    "quote": "AI regulation: Federal Council to ratify Council of Europe Convention",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CH-01/2026-10-11/secondary.html",
+    "sha256": "cce73c53de0b4ea9a43ce0700b45f029a716c0d2e36340e785ed63ec79d5251c",
+    "locator": "page heading",
+    "quote": "KI-Regulierung: Bundesrat will Konvention des Europarats ratifizieren",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "page heading",
+    "quote": "Published on 12 February 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "lead",
+    "quote": "The Federal Council spoke out in favour of this approach at its meeting on 12 February.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "lead",
+    "quote": "The Federal Council spoke out in favour of this approach at its meeting on 12 February.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "next steps",
+    "quote": "The Federal Council has decided on the following next steps. The FDJP will draft a bill for consultation with DETEC and the FDFA by the end of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/CH-01/extra-4f0739b51c/2026-10-17/official.html",
+    "sha256": "eeb89db80dfb4e1e74ec2ec0e3cb35befff06e4e10a57161ce3ea155c9e81338",
+    "locator": "Worum geht es?",
+    "quote": "Mit den vorgeschlagenen Entwicklungen wird die Schweiz die KI-Konvention des Europarats ratifizieren können.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "lead",
+    "quote": "The Federal Council spoke out in favour of this approach at its meeting on 12 February.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "lead",
+    "quote": "Switzerland intends to ratify the Council of Europe Convention on Artificial Intelligence (AI) and to make the necessary amendments to Swiss law.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "parameters",
+    "quote": "The AI Convention of the Council of Europe will be incorporated into Swiss law. It will apply primarily to state actors.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "parameters",
+    "quote": "Where legislative changes are needed, they should be as sector-specific as possible. Only key areas relevant to fundamental rights, such as data protection, will be subject to general, cross-sectoral regulation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "parameters",
+    "quote": "Measures may include self-disclosure agreements or industry solutions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "parameters",
+    "quote": "reinforcing Switzerland as a centre of innovation, safeguarding fundamental rights (including economic freedom), and increasing public trust in AI",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "next steps",
+    "quote": "The bill will implement the Council of Europe's AI Convention by defining the necessary legal measures, in particular in the areas of transparency, data protection, non-discrimination and supervision.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "next steps",
+    "quote": "DETEC, together with the FDJP, the FDFA and the EAER, will also draw up a plan by the end of 2026 for further measures non-legally-binding measures.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "next steps",
+    "quote": "the compatibility of Switzerland's approach with that of its main trading partners will be taken into account",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "Report to the Federal Council",
+    "quote": "In November 2023, the Federal Council mandated DETEC and the FDFA to prepare an overview of possible regulatory approaches to AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-17/official-rendered.html",
+    "sha256": "b3e9576c8b4eb893f11b4540ae20dd1fd0e5528d9d9d91af0823b21646c16857",
+    "locator": "Report to the Federal Council",
+    "quote": "Country analysis: presents the regulatory developments in 20 selected countries.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/CH-01/extra-4f0739b51c/2026-10-17/official.html",
+    "sha256": "eeb89db80dfb4e1e74ec2ec0e3cb35befff06e4e10a57161ce3ea155c9e81338",
+    "locator": "Was ist bisher geschehen?",
+    "quote": "Das Bundesamt für Justiz hat eine Begleitgruppe für die Ausarbeitung der Vernehmlassungsvorlage eingesetzt. Diese besteht aus bundesexternen und -internen Expertinnen und Experten.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/CH-01/extra-4f0739b51c/2026-10-17/official.html",
+    "sha256": "eeb89db80dfb4e1e74ec2ec0e3cb35befff06e4e10a57161ce3ea155c9e81338",
+    "locator": "Was ist bisher geschehen?",
+    "quote": "Am 27. Oktober 2025 hat das Bundesamt für Justiz mit Unterstützung von Expedition Zukunft eine partizipative Arbeitstagung organisiert an der rund 60 Vertreter der verschiedenen Interessengruppen teilgenommen haben.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/CH-01/extra-4f0739b51c/2026-10-17/official.html",
+    "sha256": "eeb89db80dfb4e1e74ec2ec0e3cb35befff06e4e10a57161ce3ea155c9e81338",
+    "locator": "Worum geht es?",
+    "quote": "In der Schweiz gibt es aktuell keine spezifische Gesetzgebung zur KI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/CH-01/extra-4f0739b51c/2026-10-17/official.html",
+    "sha256": "eeb89db80dfb4e1e74ec2ec0e3cb35befff06e4e10a57161ce3ea155c9e81338",
+    "locator": "Worum geht es?",
+    "quote": "Auf der Grundlage der Auslegeordnung hat der Bundesrat am 12. Februar 2025 dem EJPD den Auftrag erteilt, bis Ende 2026 eine Vernehmlassungsvorlage für neue Regeln für die Nutzung von KI zu erarbeiten.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "A Federal Council policy decision of 12 Feb 2025 with next steps due by the end of 2026. The Federal Office of Justice's page (17 Oct 2026) still describes the consultation bill as in preparation, and no stored source withdraws or replaces the decision, so 'Published (non-binding, current)' stands. When the consultation bill is published it will be a new record.",
+  "scope_reasoning": "Government decision on the national approach to AI regulation, centred on ratifying the Council of Europe AI Convention; in scope without a note.",
+  "changes": {
+   "summary": "version 1's 'rather than adopting an EU-style horizontal AI act' is not in the release; rewritten from its stated parameters (Convention applying primarily to state actors, sector-specific changes, cross-sectoral rules only for fundamental-rights areas, non-binding measures, the three objectives)",
+   "notes": "the next steps, including the FDJP's consultation draft by the end of 2026, are in the stored English release; the Federal Office of Justice's page adds the expert group, the workshop of 27 Oct 2025 and the state of the bill; version 1 called the overview 'prepared by DETEC/OFCOM', but the release says the Federal Council mandated DETEC and the FDFA; process remarks removed",
+   "verification.note": "rewritten for this run's stored files"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ]
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Auslegeordnung zur Regulierung von künstlicher Intelligenz. Bericht an den Bundesrat (overview of AI regulation, report to the Federal Council, 11 February 2025), with the baseline legal analysis of 31 August 2024",
+   "url": null,
+   "seen_in": "https://www.bj.admin.ch/de/kuenstliche-intelligenz",
+   "why": "Government-commissioned report underlying CH-01; possibly in scope as a government report on AI regulation."
+  },
+  {
+   "title": "Swiss consultation draft (Vernehmlassungsvorlage) implementing the Council of Europe AI Convention, due by the end of 2026",
+   "url": "https://www.bj.admin.ch/de/kuenstliche-intelligenz",
+   "seen_in": "https://www.bj.admin.ch/de/kuenstliche-intelligenz",
+   "why": "A future bill; would be a new record once published."
+  }
+ ],
+ "open_questions": []
+}

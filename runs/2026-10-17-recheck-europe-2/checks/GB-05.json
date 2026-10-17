@@ -1,0 +1,47 @@
+{
+ "cand_id": "GB-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Recommendations 23 to 30 under the safe and trusted AI section, including continued AISI support (rec. 23) and funding regulators (rec. 25).",
+   "verdict": "supported",
+   "locator": "pp. 15-16"
+  },
+  {
+   "claim": "Government response CP 1242 of 13 Jan 2025: the Prime Minister endorses the plan; DSIT to consult on legislation on critical risks of the most powerful models.",
+   "verdict": "supported",
+   "locator": "response, foreword and rec. 23"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly a growth and adoption plan with one section on safe and trusted AI; the extractor's scope_note is adequate."
+ },
+ "overall": "accept",
+ "note": "GOV.UK page, plan PDF and the government response confirm CP 1241, 13 Jan 2025, 50 recommendations and the response. The two 'Partially agree' answers (recs 13 and 21) and the text-and-data-mining consultation (rec 24) in the notes match the response. The extractor's open question about a possible change of government and replacement of the plan is the right residue; nothing official stored shows withdrawal."
+}

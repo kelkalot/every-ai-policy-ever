@@ -1,0 +1,39 @@
+{
+ "cand_id": "GB-10",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Private Members' Bill presented under the Ten Minute Rule by Alex Sobel MP; long title: prohibit development, deployment and operation of artificial superintelligence systems and establish monitoring and control powers",
+   "verdict": "supported",
+   "locator": "Bills API, bill 4288 longTitle; bill types id 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Private member's bill with little chance of passing; the existing scope_note is kept. Its clause that the bill lacks government support rests on secondary reporting, not on a stored official file."
+ },
+ "overall": "accept",
+ "note": "Rests only on the UK Parliament Bills API (host not on the official-sites list), so quotes count as secondary and the level is C by script; the API is run by Parliament and a human may add the host. It confirms title, sponsor, Commons origin, Ten Minute Rule type, first reading 8 September 2026, second reading listed 13 November 2026, not an Act, not withdrawn. A search shows the second reading has not yet taken place. The official_identifier 'Bill 4288 (Session 2026-27)' is not supported by the stored files (4288 is the database ID; sources disagree on a printed bill number); the run leaves it unchanged and the extractor's open question covers it."
+}

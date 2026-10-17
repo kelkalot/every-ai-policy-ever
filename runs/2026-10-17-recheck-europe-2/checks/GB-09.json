@@ -1,0 +1,56 @@
+{
+ "cand_id": "GB-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "judgment-differs",
+   "why": "The quote supports 'Crime and Policing Act 2026'; the record title adds a descriptive parenthetical of the AI provisions that is not in the official title."
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "Enacting formula on the King's Printer PDF; the dropped parenthetical '(Home Office bill)' described the bill's origin, not the issuing body."
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Clearing 2026-06-29 is correct: it was the date of a commencement step (s.99, SI 2026/689), not an amendment of the text. The page says it is up to date to 17 October 2026."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Offence to make or adapt a thing for creating CSA images and to possess or supply a 'CSA image-generator' ('thing' includes a program); up to 5 years on indictment",
+   "verdict": "supported",
+   "locator": "ss.72-74, p. 117-118"
+  },
+  {
+   "claim": "s.248 power to amend the Online Safety Act 2023 to impose duties on providers of AI services and extend Ofcom functions; s.99 purported intimate image generators, up to 3 years",
+   "verdict": "supported",
+   "locator": "p. 334-335; p. 151"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Not an AI-specific law; included for its AI provisions. The extractor's scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "Stored Act PDF and revised section pages confirm Royal Assent 29 April 2026, s.248 and s.249 in force at Royal Assent, ss.111-112 in force 29 June 2026 (s.255(3)(c)), s.99 in force 29 June 2026 under SI 2026/689, and ss.72-74 prospective. A web search found no later commencement regulation for s.72, so 'Partially in force' stands. The summary now says s.111 lets the Secretary of State provide the testing defence by regulations, which matches the text and corrects v1's wording."
+}

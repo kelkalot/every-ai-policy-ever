@@ -1,0 +1,233 @@
+{
+ "cand_id": "NO-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NO-01",
+ "record": {
+  "notes": "Still Norway's national AI strategy, but due to be replaced. On 5 Oct 2026 the Ministry of Digitalisation and Public Governance (Minister Torgeir Micaelsen) announced work on a new national AI strategy, to be presented in the first half of 2027. The ministry said the 2020 strategy, presented under the Solberg government, predates the breakthrough of generative AI and language models, and that the new strategy will also set the direction for Norway's international cooperation on governing the most advanced AI models (frontier models). It is to build on the government's plan for Norway and the National Digitalisation Strategy of 2024.",
+  "scope_note": "Mainly a strategy for data, infrastructure, research, skills and adoption of AI, with its safety and risk-governance content in the chapter on trustworthy AI (ethical principles, privacy by design, security of AI systems, supervision); included as Norway's national AI strategy.",
+  "verification": {
+   "note": "Stored and read in this run: the government.no document page (English), which gives the title, the date 14/01/2020, the original publisher (Ministry of Local Government and Modernisation) and the current owner (Ministry of Digitalisation and Public Governance); the ministry's English PDF of the strategy (regjeringen.no), used for chapter 5 'Trustworthy AI' and the summary of the government's positions; the Norwegian document page on regjeringen.no and the Norwegian PDF of the strategy, which give the original title, the date 14.01.2020 and the original publisher (Kommunal- og moderniseringsdepartementet); and the ministry's press release of 5 Oct 2026 announcing a new strategy (stored as the secondary source)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NO-01/2026-10-11/official.html",
+    "sha256": "9e2cffb4d9d63e0c9c2eeeed9afbeccc7921ebd055c35f7e2e66a430a71a9b56",
+    "locator": "document page heading",
+    "quote": "The National Strategy for Artificial Intelligence Plans/strategy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 1, cover",
+    "quote": "National Strategy for Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NO-01/extra-03d4deb7ce/2026-10-17/official.html",
+    "sha256": "ae7cc13c8e29acf2eb8791a360f22796e4a508ec6ab3456b255bafc59020163e",
+    "locator": "document page header",
+    "quote": "Nasjonal strategi for kunstig intelligens Plan/strategi | Dato: 14.01.2020 | Digitaliserings- og forvaltningsdepartementet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NO-01/extra-03d4deb7ce/2026-10-17/document-1.pdf",
+    "sha256": "e6b21eed14c63db38ecc7314b3f72e1e897a17dc47eccfa403e6427e9ede150f",
+    "locator": "page 1, cover",
+    "quote": "Kommunal- og moderniseringsdepartementet Strategi Nasjonal strategi for kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NO-01/2026-10-11/official.html",
+    "sha256": "9e2cffb4d9d63e0c9c2eeeed9afbeccc7921ebd055c35f7e2e66a430a71a9b56",
+    "locator": "document page header",
+    "quote": "Plans/strategy | Date: 14/01/2020 | Ministry of Digitalisation and Public Governance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NO-01/extra-03d4deb7ce/2026-10-17/official.html",
+    "sha256": "ae7cc13c8e29acf2eb8791a360f22796e4a508ec6ab3456b255bafc59020163e",
+    "locator": "document page header",
+    "quote": "Plan/strategi | Dato: 14.01.2020 | Digitaliserings- og forvaltningsdepartementet Opprinnelig utgitt av: Kommunal- og moderniseringsdepartementet",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NO-01/2026-10-11/official.html",
+    "sha256": "9e2cffb4d9d63e0c9c2eeeed9afbeccc7921ebd055c35f7e2e66a430a71a9b56",
+    "locator": "document page header",
+    "quote": "Plans/strategy | Date: 14/01/2020 | Ministry of Digitalisation and Public Governance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/official.html",
+    "sha256": "9e2cffb4d9d63e0c9c2eeeed9afbeccc7921ebd055c35f7e2e66a430a71a9b56",
+    "locator": "document page header",
+    "quote": "Originally published by: Ministry of Local Government and Modernisation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/secondary.html",
+    "sha256": "5deb55abf5d76537dd7f1e2f8029ceddd09e158c2eb4a1bf767953a8adeee86d",
+    "locator": "press release, 05.10.2026",
+    "quote": "Regjeringen tar sikte på å legge frem strategien i første halvår 2027.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NO-01/2026-10-11/official.html",
+    "sha256": "9e2cffb4d9d63e0c9c2eeeed9afbeccc7921ebd055c35f7e2e66a430a71a9b56",
+    "locator": "document page header",
+    "quote": "Originally published by: Ministry of Local Government and Modernisation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/official.html",
+    "sha256": "9e2cffb4d9d63e0c9c2eeeed9afbeccc7921ebd055c35f7e2e66a430a71a9b56",
+    "locator": "document page header",
+    "quote": "Plans/strategy | Date: 14/01/2020 | Ministry of Digitalisation and Public Governance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 1, cover",
+    "quote": "Norwegian Ministry of Local Government and Modernisation Strategy",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 58, 5.2 Ethical principles for artificial intelligence",
+    "quote": "The Government will adopt these principles as its basis for responsible development and use of artificial intelligence in Norway.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 60, 5 Trustworthy AI",
+    "quote": "Privacy by design is a key requirement in the General Data Protection Regulation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 6, Summary",
+    "quote": "supervisory authorities should oversee that AI systems in their areas of supervision are operated in accordance with the principles for responsible and trustworthy use of AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 25, Regulatory sandboxes",
+    "quote": "The Government will establish a regulatory sandbox for data protection under the remit of the Norwegian Data Protection Authority.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 64, 5.3 Security",
+    "quote": "Security in AI-based systems Implementing an AI system entails applying conventional technologies",
+    "source_kind": "official"
+   }
+  ],
+  "scope_note": [
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 3, contents",
+    "quote": "2 A good basis for AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 3, contents",
+    "quote": "3 Developing and leveraging AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 3, contents",
+    "quote": "4 Enhancing innovation capacity using AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/document-1.pdf",
+    "sha256": "892057f082701847309642f89c2992a4e8c203f0195aa352a4b8a505daa2249f",
+    "locator": "page 4, contents",
+    "quote": "5 Trustworthy AI",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NO-01/2026-10-11/secondary.html",
+    "sha256": "5deb55abf5d76537dd7f1e2f8029ceddd09e158c2eb4a1bf767953a8adeee86d",
+    "locator": "press release, 05.10.2026",
+    "quote": "Regjeringen starter arbeidet med en ny nasjonal KI-strategi som skal sette en felles retning for KI-politikken.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/secondary.html",
+    "sha256": "5deb55abf5d76537dd7f1e2f8029ceddd09e158c2eb4a1bf767953a8adeee86d",
+    "locator": "press release, 05.10.2026",
+    "quote": "Norges nasjonale strategi for kunstig intelligens ble lagt frem i 2020 under Solberg-regjeringen. Det var før generativ KI og språkmodellene slo gjennom for alvor.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/secondary.html",
+    "sha256": "5deb55abf5d76537dd7f1e2f8029ceddd09e158c2eb4a1bf767953a8adeee86d",
+    "locator": "press release, 05.10.2026",
+    "quote": "Strategien kommer også til å sette retning for Norges internasjonale samarbeid om å styre utviklingen av de mest avanserte KI-modellene, såkalte «frontier models».",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/secondary.html",
+    "sha256": "5deb55abf5d76537dd7f1e2f8029ceddd09e158c2eb4a1bf767953a8adeee86d",
+    "locator": "press release, 05.10.2026",
+    "quote": "Den nye strategien skal bygge videre på prioriteringene i Regjeringens plan for Norge, der KI er et viktig område, og på Nasjonal digitaliseringsstrategi fra 2024.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-01/2026-10-11/secondary.html",
+    "sha256": "5deb55abf5d76537dd7f1e2f8029ceddd09e158c2eb4a1bf767953a8adeee86d",
+    "locator": "press release, 05.10.2026",
+    "quote": "sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap)",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the description of the National Digitalisation Strategy as '2024-2030 (Sept 2024)' with AI goals but no AI-safety focus is not in any stored file and was replaced by what the 5 Oct 2026 press release says (the new strategy builds on the National Digitalisation Strategy of 2024); the rest is restated from that press release",
+   "scope_note": "added: the strategy's main content is data, infrastructure, research, skills and adoption (table of contents, chapters 2 to 4), with safety and risk governance in chapter 5, which under the inclusive rule for strategies with some safety content calls for a scope_note, as on DE-02 and FR-02",
+   "verification.note": "rewritten for the files stored in this run; the earlier note named an OECD-hosted PDF, while this run stored the ministry's own English PDF"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "status",
+   "issuing_body"
+  ],
+  "status_reasoning": "A non-binding strategy of 14 Jan 2020. The government.no page, stored 11 Oct 2026, still lists it under the Ministry of Digitalisation and Public Governance; the ministry's press release of 5 Oct 2026 announces a successor for the first half of 2027, so it has not yet been replaced on 17 Oct 2026. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A national AI strategy whose main focus is data, infrastructure, research, skills and adoption, with one chapter (5) on trustworthy AI, ethics and security: in scope under the rule for strategies with some safety content, with a scope_note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

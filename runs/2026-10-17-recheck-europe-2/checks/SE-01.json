@@ -1,0 +1,53 @@
+{
+ "cand_id": "SE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Proposes eleven market surveillance authorities and two notifying authorities (Swedac and the Medical Products Agency), PTS with main responsibility.",
+   "verdict": "supported",
+   "locator": "regeringen.se page; report p. 40-41"
+  },
+  {
+   "claim": "Proposes that reprimands and administrative fines also be imposed on public authorities; IMY primarily responsible for prohibited practices.",
+   "verdict": "supported",
+   "locator": "report pp. 41, 43"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Regeringen.se page and the full SOU PDF confirm SOU 2025:101 published 6 Oct 2025 with Dir. 2024:83 as the mandate and Fi2025/01969 as the consultation number. date_last_updated null is right: 23 Feb 2026 is the consultation page update, not a new version of the report. The related-documents panel shows no Council on Legislation referral and no bill; one targeted search found no proposition either. 'Published (non-binding, current)' holds."
+}

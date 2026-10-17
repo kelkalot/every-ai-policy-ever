@@ -1,0 +1,54 @@
+{
+ "cand_id": "GB-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Clearing 2026-01-15 is correct: that is the date SI 2026/31 was made, a commencement step, not an amendment or new version of section 138. 'No known outstanding effects' on the section page."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Inserts ss.66E-66H into the Sexual Offences Act 2003; offence to create or request creation of a purported intimate image, covering images that appear to be a photograph or film but are not",
+   "verdict": "supported",
+   "locator": "s.138(2); 66E(2)(a); 66F(1)(a)"
+  },
+  {
+   "claim": "Section 138 in force 6 February 2026 by SI 2026/31 reg. 2; not in force at Royal Assent (s.142(1))",
+   "verdict": "supported",
+   "locator": "Commencement Information I1, I2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Not an AI-specific law; section 138 is the operative UK offence on creating sexually explicit deepfakes. The extractor's scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "legislation.gov.uk section page, SI 2026/31, the Act's introduction page and the King's Printer PDF confirm Royal Assent 19 June 2025, c. 18 s.138 and commencement on 6 February 2026. New note details (summary-only offences, 3-year time limit, review within two years) match the s.66E-66H text. No amendment or repeal found; the page shows no outstanding effects."
+}

@@ -1,0 +1,47 @@
+{
+ "cand_id": "FR-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Created on 31 January 2025 ahead of the Paris summit, steered by SGDSN and DGE (SGDSN mission page). Literal: 'On 31 January 2025, ahead of the French summit for action on AI, the national institute for the evaluation and security of AI was created'.",
+   "verdict": "supported",
+   "locator": "page text, paragraph 2"
+  },
+  {
+   "claim": "Roadmap project 5 targets systemic risks from large-scale information manipulation, offensive cyber and CBRN proliferation; project 6 evaluates agent systems.",
+   "verdict": "supported",
+   "locator": "roadmap pp. 20"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Official SGDSN page, roadmap PDF (French and the SGDSN English courtesy translation) and press release n. 373 of 12 Feb 2026 confirm the content. There is no founding decree; creation date and steering rest on the SGDSN page, which is an official source. english_version 'government translation' by SGDSN is right (SGDSN publishes it and it is a stored source). No newer version found."
+}

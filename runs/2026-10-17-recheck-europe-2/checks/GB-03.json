@@ -1,0 +1,50 @@
+{
+ "cand_id": "GB-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Mission to 'minimise surprise to the UK and humanity from rapid and unexpected advances in AI'; three core functions (Functions section).",
+   "verdict": "supported",
+   "locator": "Mission and scope; Functions"
+  },
+  {
+   "claim": "Institute is not a regulator and will not hold responsibility for release decisions.",
+   "verdict": "supported",
+   "locator": "Mission and scope; evaluations"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GOV.UK paper and the 'AI Safety Institute: overview' page confirm publication on 2 Nov 2023, CP 960 and the update of 17 Jan 2024. The script warning on date_published concerns only the PDF quote that shows 'November 2023'; the overview page gives the day. Status Superseded rests on DSIT's 14 Feb 2025 renaming of the institute as the AI Security Institute, a judgment unchanged from the published record. No newer version beyond GB-07."
+}

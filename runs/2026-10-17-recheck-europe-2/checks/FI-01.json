@@ -1,0 +1,53 @@
+{
+ "cand_id": "FI-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Data Protection Ombudsman supervises Article 5 prohibited practices as market surveillance authority (s. 4); Traficom supervises Article 50 and is single point of contact (ss. 5-6). Literal: 'The Data Protection Ombudsman supervises, as market surveillance authority, Article 5 of the AI Regulation'.",
+   "verdict": "supported",
+   "locator": "page 3, ss. 4-6"
+  },
+  {
+   "claim": "Maximum penalty fees EUR 35,000,000 or 7 % for s. 21 prohibited-practice fees (s. 23).",
+   "verdict": "supported",
+   "locator": "page 11, s. 23"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Statute Book PDF 1377/2025 confirms title, number, publication on 29 Dec 2025, signature 22 Dec 2025 and s. 29 entry into force on 1 Jan 2026. The identifier change to '1377/2025' (dropping the bill reference) is correct; the exclusion of Parliament, the Parliamentary Ombudsman and the Chancellor of Justice (s. 1) and the s. 21 transitional rule in the notes are in the text. No newer version found in one targeted search."
+}

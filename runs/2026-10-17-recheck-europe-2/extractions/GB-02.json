@@ -1,0 +1,196 @@
+{
+ "cand_id": "GB-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-02",
+ "record": {
+  "summary": "Overview of nine emerging safety processes and associated practices for frontier AI organisations, published by the UK government ahead of the AI Safety Summit of 1-2 November 2023 to inform companies' safety policies and help readers compare them. The processes are responsible capability scaling, model evaluations and red teaming, model reporting and information sharing, security controls including securing model weights, vulnerability reporting, identifiers of AI-generated material, prioritising research on AI risks, preventing and monitoring misuse, and data input controls and audits.",
+  "notes": "Published with a companion page collecting frontier AI companies' safety policies, which the UK had encouraged companies to publish before the summit. The document describes itself as a snapshot that is not government policy that must be enacted and will need regular updating; six of its processes correspond to commitments many leading companies made in July 2023. GOV.UK shows it as published under the 2022 to 2024 Sunak Conservative government.",
+  "verification": {
+   "note": "Stored and read in this run: the GOV.UK publication page (last checked 17 Oct 2026, unchanged since 11 Oct) and the 45-page PDF. They confirm the title, DSIT as issuer, publication on 27 October 2023, the nine processes and the document's non-binding character; the page carries no withdrawal notice. Version 1's notes that it has not been formally replaced and was the forerunner of the Frontier AI Safety Commitments (INT-06) are not in these sources and were removed; the link to INT-06 stays in related."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "page heading",
+    "quote": "Policy paper Emerging processes for frontier AI safety",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 1",
+    "quote": "Emerging Processes for Frontier AI Safety October 2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "page metadata",
+    "quote": "Published: 27 October 2023",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "page metadata",
+    "quote": "Published: 27 October 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "page metadata",
+    "quote": "This was published under the 2022 to 2024 Sunak Conservative government",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "page metadata",
+    "quote": "From: Department for Science, Innovation and Technology",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 3",
+    "quote": "It should not be read as government policy that must be enacted, but is intended as a point of reference to inform the development of frontier AI organisations' safety policies",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 4",
+    "quote": "This document sets out nine emerging processes and associated practices for frontier AI organisations' AI safety policies:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 2",
+    "quote": "The UK has therefore encouraged frontier AI organisations to publish details on their frontier AI safety policies ahead of the AI Safety Summit hosted by the UK on 1-2 November 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 2",
+    "quote": "merely detailing the current suite available so that others can understand, interpret and compare frontier companies' safety policies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 4",
+    "quote": "Responsible Capability Scaling provides a framework for managing risk as organisations scale capability of frontier AI systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 4",
+    "quote": "Security Controls Including Securing Model Weights are key underpinnings for the safety of an AI system.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 4",
+    "quote": "Identifiers of AI-generated Material provide additional information about whether content has been AI generated or modified.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 5",
+    "quote": "Prioritising Research on Risks Posed by AI will help identify and address the emerging risks posed by frontier AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 5",
+    "quote": "Preventing and Monitoring Model Misuse is important as, once deployed, AI systems can be intentionally misused for harmful outcomes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 5",
+    "quote": "Data Input Controls and Audits can help identify and remove training data likely to increase the dangerous capabilities",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "Documents",
+    "quote": "Emerging processes for frontier AI safety: companies AI safety policies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 3",
+    "quote": "This document provides a snapshot of promising ideas and emerging processes and associated practices in AI safety today.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 2",
+    "quote": "These have been gathered after extensive research and will need updating regularly given the emerging nature of this technology.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/document-1.pdf",
+    "sha256": "32c4e01c6cb8bb5d2c16027dbcc4a4d4a5dac9a7f380a863c52da4a293593388",
+    "locator": "page 4",
+    "quote": "including six that many leading companies committed to in July 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-02/2026-10-11/official.html",
+    "sha256": "5677e79654a95eb7a7cc25e342e17ff547cca366cfaf183bd108075e231945a9",
+    "locator": "page metadata",
+    "quote": "This was published under the 2022 to 2024 Sunak Conservative government",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Policy paper published on 27 Oct 2023; GOV.UK shows no later update and no withdrawal notice, only the previous government's history label. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government guidance on frontier AI safety practices; in scope without a note.",
+  "changes": {
+   "summary": "made precise from the document: nine processes (version 1 omitted 'prioritising research on risks'), the summit dates and its purpose of informing and comparing company safety policies",
+   "notes": "rewritten from the stored page and PDF; version 1's 'not formally replaced' and 'forerunner of the Frontier AI Safety Commitments' are not in this record's sources",
+   "verification.note": "rewritten for this run's stored files"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ]
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

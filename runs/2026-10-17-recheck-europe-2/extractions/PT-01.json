@@ -1,0 +1,155 @@
+{
+ "cand_id": "PT-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PT-01",
+ "record": {
+  "notes": "Approved by the Council of Ministers on 4 December 2025 and published in Diário da República n.º 5/2026, Série I, on 8 January 2026; in force from the following day. The agenda carries out Initiative 10 of the National Digital Strategy (Resolution of the Council of Ministers 207/2024) and rests on six guiding principles, the first being responsible innovation. The action plan for 2026-2030 may be updated by the government member responsible for State reform together with the member responsible for finance; commitments depend on available funding, mainly European funds, and the Council for Digital in Public Administration monitors implementation. The plan also includes a national AI literacy campaign on risks and responsible use (initiative III.8, first half of 2026) and a programme encouraging voluntary certification of AI quality management under Portuguese Standard 4595 (initiative IV.2).",
+  "scope_note": "Mainly an agenda for AI infrastructure, adoption, talent and productivity; included as Portugal's national AI agenda, whose Responsibility and Ethics axis plans the AI Act's implementation, regulatory sandboxes and national risk-assessment tools.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the Diário da República page of the resolution rendered in a browser (diariodarepublica.pt), which gives the issuer, the publication in Diário da República n.º 5/2026, Série I, of 2026-01-08, the status 'Em vigor', the operative paragraphs 1 to 6, the signature of 4 December 2025 and annexes I and II with initiatives IV.1 to IV.7; and the PDF of the same issue (files.diariodarepublica.pt, stored as the record's secondary source). The plain download of the page has no text, and the browser's print copy holds only OCR of the page frame. Version 1's notes on ANACOM (the announced AI Act designation, the Commission's list of 7 September 2026, the Article 77 list, the consultation on the Article 5 prohibitions and two later resolutions) rest on pages not stored in this run and were removed; they are listed as leads. No English version was found: the Government's digital.gov.pt page on the agenda (not stored) says the document is available in Portuguese only."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "page title and summary",
+    "quote": "Resolução do Conselho de Ministros n.º 2/2026, de 8 de janeiro | DR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "SUMÁRIO",
+    "quote": "SUMÁRIO Aprova a Agenda Nacional de Inteligência Artificial e o respetivo modelo de governação.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "operative paragraph 2",
+    "quote": "2 - Aprovar o Plano de Ação da Agenda Nacional de Inteligência Artificial (PAANIA) para o quinquénio 2026-2030",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "TEXTO, heading",
+    "quote": "TEXTO Resolução do Conselho de Ministros n.º 2/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "SUMÁRIO",
+    "quote": "Aprova a Agenda Nacional de Inteligência Artificial e o respetivo modelo de governação.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "publication details",
+    "quote": "Emitente: Presidência do Conselho de Ministros",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "publication details",
+    "quote": "Publicação:Diário da República n.º 5/2026, Série I de 2026-01-08",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "signature",
+    "quote": "Presidência do Conselho de Ministros, 4 de dezembro de 2025. - O Primeiro-Ministro, Luís Montenegro.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "page title",
+    "quote": "Resolução do Conselho de Ministros n.º 2/2026, de 8 de janeiro",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "operative paragraph 6",
+    "quote": "6 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "publication details",
+    "quote": "Resolução do Conselho de Ministros n.º 2/2026, de 8 de janeiro Em vigor",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PT-01/2026-10-12/official-rendered.html",
+    "sha256": "10459e49d69aa40d712f7011b51ad35aa9f4678817d379cc95d098cfa73fbfb2",
+    "locator": "operative paragraph 4",
+    "quote": "4 - Determinar que a assunção de compromissos para a execução das iniciativas que decorrem do PAANIA depende da existência de dotação disponível por parte das entidades públicas competentes",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the resolution (paragraphs 3 to 6, principles, initiatives III.8 and IV.2); the ANACOM statements, the Commission's list of 7 September 2026 and the later resolutions rest on pages not stored in this run and moved to leads; the repeated 'Adopted on 4 December 2025' removed",
+   "scope_note": "added: the agenda's main focus is infrastructure, adoption, talent and productivity, with safety and regulation in one of its four axes, the same case as DE-02 and FR-02",
+   "english_version": "the field was missing; no English version was found",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 4 December 2025, published on 8 January 2026, in force from the day after publication (paragraph 6), so from 9 January 2026; the Diário da República page shows 'Em vigor' and no revocation or replacement. A strategy approved by resolution: 'Published (non-binding, current)'.",
+  "scope_reasoning": "Portugal's national AI agenda: four axes, of which Responsibility and Ethics (initiatives IV.1 to IV.7) covers AI Act implementation, sandboxes, risk-assessment tools and responsible-AI research. Safety is not its main content, so it is in with a scope_note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "ANACOM draft recommendations on implementing the AI Act's Article 5 prohibitions (public consultation, 16 June to 16 July 2026)",
+   "url": null,
+   "seen_in": "version 1 of this record's notes (ANACOM's site, not stored)",
+   "why": "AI-specific guidance by Portugal's designated market surveillance authority; in scope as a supervisory statement if issued; no record in the register"
+  },
+  {
+   "title": "Portugal's designation of AI Act authorities (ANACOM as market surveillance authority and single point of contact, announced 19 September 2025)",
+   "url": null,
+   "seen_in": "version 1 of this record's notes (press reports, not stored)",
+   "why": "the law or decree designating Portugal's AI Act authorities (initiative IV.4 of this agenda) would be its own record; none found in the stored files"
+  }
+ ],
+ "open_questions": []
+}

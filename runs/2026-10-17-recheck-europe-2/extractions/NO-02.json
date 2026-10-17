@@ -1,0 +1,244 @@
+{
+ "cand_id": "NO-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NO-02",
+ "record": {
+  "summary": "Draft Norwegian Act on artificial intelligence (KI-loven) under which the EU AI Act, Regulation (EU) 2024/1689, would apply as Norwegian law with the adaptations made in the EEA Agreement, plus national provisions. The Norwegian Communications Authority (Nkom) would be the coordinating market surveillance authority and national contact point, and Norsk akkreditering the accreditation body for conformity assessment bodies. Breaches could be sanctioned with administrative fines, which public authorities could also incur, and coercive fines; no criminal penalties are proposed. The ministry could set rules for AI regulatory sandboxes.",
+  "date_last_updated": null,
+  "notes": "The consultation ran from 30 Jun to 30 Sep 2025 and drew just under 150 responses. The consultation paper aimed for entry into force in late summer 2026, when most of the AI Act applies in the EU, on condition that the AI Act is incorporated into the EEA Agreement with the Storting's consent; it also proposed that Norway ratify the Council of Europe Framework Convention on AI. On 4 Aug 2026, after the EU adopted amendments to the AI Act in July 2026, the ministry announced a new consultation on the bill in autumn 2026 and aimed to put it to the Storting in spring 2027. At that date the AI Act had not been incorporated into the EEA Agreement and the necessary EEA adaptations were being negotiated.",
+  "related": [
+   "NO-03",
+   "NO-01",
+   "EU-03",
+   "EU-18",
+   "COE-01"
+  ],
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the regjeringen.no consultation page (dated 30.06.2025, consultation deadline 30.09.2025, ref. 25/2019, status 'Under behandling'); the consultation paper with the draft Act (63 pages, regjeringen.no PDF); the unofficial Norwegian translation of the Council of Europe Framework Convention published with the consultation; and the ministry's press release of 4 Aug 2026 announcing a new consultation (stored as the secondary source). The regjeringen.no pages state that they are not available in English, and no English translation of the draft was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "consultation page heading",
+    "quote": "Høring – utkast til ny lov om kunstig intelligens – gjennomføring av EUs forordning om kunstig intelligens i norsk rett",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "consultation page heading",
+    "quote": "Høring – utkast til ny lov om kunstig intelligens – gjennomføring av EUs forordning om kunstig intelligens i norsk rett",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "consultation letter",
+    "quote": "Digitaliserings- og forvaltningsdepartementet (DFD) sender med dette på høring forslag til ny lov om kunstig intelligens (KI-loven)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "consultation page header",
+    "quote": "Høring | Dato: 30.06.2025 | Digitaliserings- og forvaltningsdepartementet",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "Høringsbrev",
+    "quote": "Vår ref.: 25/2019",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "consultation page header",
+    "quote": "Høring | Dato: 30.06.2025 | Digitaliserings- og forvaltningsdepartementet",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NO-02/2026-10-11/official.html",
+    "sha256": "2e6b0872feee01418185f6c715ee1534260ef4b099afcf04e566f9cb0f69dc51",
+    "locator": "consultation page",
+    "quote": "Status: Under behandling Høringsfrist: 30.09.2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/secondary.html",
+    "sha256": "1be585826ea184fa4cdc46fee0651acc6491ef5b2db5c329f4e2d3fb39bb889c",
+    "locator": "press release, 04.08.2026",
+    "quote": "Min ambisjon er å fremme KI-loven for Stortinget våren 2027",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 62, Utkast til lov om kunstig intelligens",
+    "quote": "Utkast til lov om kunstig intelligens § 1 Gjennomføring av forordning (EU) 2024/1689 om kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 62, draft Act, § 1",
+    "quote": "(KI-forordningen) gjelder som lov med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 62, draft Act, § 3",
+    "quote": "Nasjonal kommunikasjonsmyndighet er koordinerende markedstilsynsmyndighet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 62, draft Act, § 3",
+    "quote": "Nasjonal kommunikasjonsmyndighet er nasjonalt kontaktpunkt for de nasjonale vedkommende myndighetene etter artikkel 70 nr. 2.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 62, draft Act, § 4",
+    "quote": "Norsk akkreditering er nasjonalt akkrediteringsorgan etter KI-forordningen artikkel 28 nr. 2.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 29, 9.4",
+    "quote": "skal ha ansvaret for vurdering og oppfølging av samsvarsvurderingsorganer etter KI-forordningen i Norge",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 62, draft Act, § 5",
+    "quote": "Offentlige myndigheter kan ilegges overtredelsesgebyr inntil de maksimale beløpssatsene som fremgår av KI-forordningen artikkel 99.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 63, draft Act, § 6",
+    "quote": "I pålegg gitt etter denne loven kan det fastsettes en tvangsmulkt",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 53, 19.2.4",
+    "quote": "Etter en samlet vurdering foreslår departementet ikke regler om straff for overtredelse av KI-loven.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 63, draft Act, § 7",
+    "quote": "Departementet kan gi forskrift om regulatoriske sandkasser etter KI-forordningen artikkel 57 til 61.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NO-02/2026-10-11/secondary.html",
+    "sha256": "1be585826ea184fa4cdc46fee0651acc6491ef5b2db5c329f4e2d3fb39bb889c",
+    "locator": "press release, 04.08.2026",
+    "quote": "Forslaget til ny KI-lov var på høring høsten 2025, og departementet mottok i underkant av 150 høringssvar",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 10, 1.6 / 3.1",
+    "quote": "Det tas sikte på at KI-loven kan tre i kraft i Norge når hoveddelen av forordningen gjelder for EUs medlemsstater sensommeren 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 10, 1.6 / 3.1",
+    "quote": "En forutsetning for ikrafttredelsen i Norge er at KI-forordningen blir innlemmet i EØS-avtalen etter samtykke fra Stortinget.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/document-1.pdf",
+    "sha256": "0d9941fff9e7b3cb55459b688c442f046103ee9398a4b7efa3ef8028b4f67621",
+    "locator": "page 4, 1.1 Hovedinnhold i høringsnotatet",
+    "quote": "Departementet foreslår at Norge ratifiserer denne konvensjonen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/secondary.html",
+    "sha256": "1be585826ea184fa4cdc46fee0651acc6491ef5b2db5c329f4e2d3fb39bb889c",
+    "locator": "press release, 04.08.2026",
+    "quote": "Som følge av disse endringene, vil regjeringen sende ut den norske KI-loven på ny høring i høst.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/secondary.html",
+    "sha256": "1be585826ea184fa4cdc46fee0651acc6491ef5b2db5c329f4e2d3fb39bb889c",
+    "locator": "press release, 04.08.2026",
+    "quote": "EU-kommisjonen foreslo 19. november 2025 å endre og forenkle deler av KI-forordningen, og i juli i år vedtok EU endringer.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-02/2026-10-11/secondary.html",
+    "sha256": "1be585826ea184fa4cdc46fee0651acc6491ef5b2db5c329f4e2d3fb39bb889c",
+    "locator": "press release, 04.08.2026",
+    "quote": "arbeidet med å innlemme forordningen i EØS-avtalen og forhandlinger om nødvendige EØS-tilpasninger",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the draft Act (ss. 1, 3 to 7) and section 19.2: adds Norsk akkreditering, administrative fines for public authorities, coercive fines and the sandbox regulation power, and says the AI Act would apply 'as law' with the EEA adaptations, as s. 1 does",
+   "date_last_updated": "set to null: 2026-08-04 is the date of a press release announcing a future second consultation, not a new version or amendment of the draft; no revised draft has been published, and the announcement stays in the notes",
+   "notes": "the 2026 budget statement (15 Oct 2025) is not among the stored files and was replaced by the consultation paper's own timing (late summer 2026, conditional on EEA incorporation); the proposal to ratify the Council of Europe Framework Convention was added; the sentence on Datatilsynet and the national AI sandbox concerns NO-03 and is not in this record's files, so it was removed; the EEA status is dated to the 4 Aug 2026 press release rather than October",
+   "related": "COE-01 added: the consultation paper proposes that Norway ratify the Council of Europe Framework Convention and was published with its Norwegian translation",
+   "english_version": "the record had none; the regjeringen.no pages are marked 'Page not available in English' and no English translation of the draft was found",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A consultation draft of 30 Jun 2025 (deadline 30 Sep 2025); the consultation page shows 'Status: Under behandling'. On 4 Aug 2026 the ministry announced a new consultation in autumn 2026 and a bill to the Storting in spring 2027, so no bill has been put to the Storting by 17 Oct 2026. 'Draft / proposed' with legal_force 'Proposed' stands.",
+  "scope_reasoning": "A draft national law implementing the AI Act; clearly in scope, no scope_note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

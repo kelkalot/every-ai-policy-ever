@@ -1,0 +1,161 @@
+{
+ "cand_id": "GB-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-07",
+ "record": {
+  "summary": "Renames the AI Safety Institute the AI Security Institute and focuses it on serious AI risks with security implications, such as the use of AI to develop chemical and biological weapons, to carry out cyber-attacks and to enable crimes such as fraud and child sexual abuse. The institute will not focus on bias or freedom of speech. It gains a criminal misuse team working jointly with the Home Office, and works with the Defence Science and Technology Laboratory, the Laboratory for AI Security Research, the National Cyber Security Centre and the national security community to assess the risks of frontier AI.",
+  "notes": "Announced by Technology Secretary Peter Kyle at the Munich Security Conference on 14 February 2025, days after the AI Action Summit in Paris. The institute's website gives its mission as 'to equip governments with a scientific understanding of the risks posed by advanced AI' and describes it as a research organisation within DSIT.",
+  "verification": {
+   "note": "Stored and read in this run: the GOV.UK press release (DSIT, AI Security Institute and Peter Kyle; published 14 February 2025; GOV.UK now marks it as published under the 2024 to 2026 Starmer Labour government) and the AI Security Institute's home page (aisi.gov.uk, stored as the secondary source; mission and place within DSIT). Snapshots of 11 Oct 2026, unchanged on 17 Oct. Version 1's note that the institute is not a regulator rests on GB-03's source, not on this record's files, and was removed here."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "page header",
+    "quote": "Press release Tackling AI security risks to unleash growth and deliver Plan for Change",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "page header",
+    "quote": "Published: 14 February 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "first paragraph",
+    "quote": "will become founding principles of the UK’s approach to the responsible development of artificial intelligence from today (Friday 14 February)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "page header",
+    "quote": "UK’s AI Safety Institute becomes ‘UK AI Security Institute’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "footer",
+    "quote": "The AI Security Institute is a research organisation within the Department of Science, Innovation and Technology.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "page header",
+    "quote": "From: Department for Science, Innovation and Technology, AI Security Institute and The Rt Hon Peter Kyle MP",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "page header",
+    "quote": "Press release Tackling AI security risks to unleash growth and deliver Plan for Change",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "second paragraph",
+    "quote": "Peter Kyle has today recast the AI Safety Institute the ‘AI Security Institute’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "second paragraph",
+    "quote": "This new name will reflect its focus on serious AI risks with security implications, such as how the technology can be used to develop chemical and biological weapons, how it can be used to carry out cyber-attacks, and enable crimes such as fraud and child sexual abuse.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "body",
+    "quote": "It will not focus on bias or freedom of speech",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "body",
+    "quote": "the Institute will also launch a new criminal misuse team which will work jointly with the Home Office",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "body",
+    "quote": "including with the Defence Science and Technology Laboratory, the Ministry of Defence’s science and technology organisation, to assess the risks posed by frontier AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "body",
+    "quote": "the Laboratory for AI Security Research (LASR), and the national security community; including building on the expertise of the National Cyber Security Centre (NCSC)",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-07/2026-10-11/official.html",
+    "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+    "locator": "second paragraph",
+    "quote": "Speaking at the Munich Security Conference and just days after the conclusion of the AI Action Summit in Paris",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "home page",
+    "quote": "Our mission is to equip governments with a scientific understanding of the risks posed by advanced AI.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-07/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "footer",
+    "quote": "The AI Security Institute is a research organisation within the Department of Science, Innovation and Technology.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "worded as the press release words it: 'uplift' and 'explicitly out of scope' replaced by the release's own terms; the Laboratory for AI Security Research added",
+   "notes": "'The institute is not a regulator' removed: it is in GB-03's source, not in this record's stored files; the AI Action Summit added",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding announcement of 14 February 2025. The institute still operates under the new name (aisi.gov.uk, stored 11 Oct 2026), so the renaming and refocus stand. GOV.UK's mark 'published under the 2024 to 2026 Starmer Labour government' is a history label, not a withdrawal. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Mandate of the state AI security institute; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,50 @@
+{
+ "cand_id": "IE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Establishes Oifig IS na hÉireann as an independent statutory body and single point of contact; distributed model with existing regulators as market surveillance authorities.",
+   "verdict": "supported",
+   "locator": "Department/AI Office page, 'Key provisions of the Act'"
+  },
+  {
+   "claim": "Act amends the Central Bank Act 1942 and the Competition and Consumer Protection Act 2014 so AI Act sanctions can be imposed.",
+   "verdict": "supported",
+   "locator": "long title; Key provisions"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Number 31 of 2026 (passed 21 July 2026), S.I. No. 403 of 2026 (commencement 31 July 2026 except paragraphs (a) and (e) of the s. 78 definition) and S.I. No. 404 of 2026 (establishment day) are all in the stored texts. 'Partially in force' is correct on the quoted exclusion, and the extractor's open question on those paragraphs is the right residue. The quotes from irishstatutebook.ie count as secondary only because that host is not yet in official-sites.json; it is the Irish Statute Book run by the Office of the Attorney General, and a person should decide the host. The date_in_force change from 2 Aug to 31 Jul 2026 follows the commencement order. One targeted search found no later order on s. 78(a) and (e)."
+}

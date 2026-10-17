@@ -1,0 +1,59 @@
+{
+ "cand_id": "MT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Clearing 2026-08-02 is correct: it is a partial commencement date, not an amendment."
+  },
+  "date_in_force": {
+   "verdict": "judgment-differs",
+   "why": "The quote is the Gazette supplement date, which shows publication; the text itself defers only regulations 4, 5, 6, 8, 9 and 10 to 2 August 2026 (reg. 1(3)) and the ELI metadata gives 10 October 2025 as first entry into force. The value is right, but the quote alone does not state it."
+  },
+  "language": {
+   "verdict": "supported",
+   "why": "The Maltese-language file at legislation.mt has the same SHA-256 (b42da6592d99) as the English PDF, so the legal notice exists in English only."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Penalty on a public authority or body capped at EUR 50,000 per infringement plus EUR 50 a day; Regulation 12 adds the regulations to the Second Schedule to the Administrative Justice Act",
+   "verdict": "supported",
+   "locator": "regulations 11, 12"
+  },
+  {
+   "claim": "Regulations 4, 5, 6, 8, 9 and 10 come into force on 2 August 2026",
+   "verdict": "supported",
+   "locator": "regulation 1(3)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Legal notice PDF and ELI page confirm L.N. 226 of 2025, Gazette supplement 21,519 of 10 October 2025 and the deferred commencement. The deferred regulations took effect on 2 August 2026, which has passed, so 'In force' stands. A search found no 2026 amendment."
+}

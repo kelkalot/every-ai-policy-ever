@@ -1,0 +1,59 @@
+{
+ "cand_id": "AT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "2024-01-31 is the Nationalrat's adoption date; the Bundesrat declined to object on 15 February 2024 and the gazette date is not in a stored file. Defensible as the adoption date."
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Both commencement clauses (§ 44 Abs. 36 KOG, § 217 Abs. 3 TKG 2021) say 'treten mit 1. Jänner 2024 in Kraft'. The stored text is the Nationalrat's adopted text with a placeholder gazette number (BGBl. I Nr. xxx/2023); the promulgated text in RIS is not stored."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English text found; acceptable."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "RTR-GmbH builds and runs a Service Centre for AI (KI-Servicestelle). Literal translation of § 17 Abs. 8 KOG: 'Under the joint responsibility of both managing directors, RTR-GmbH has the task of building and running a service centre for artificial intelligence.'",
+   "verdict": "supported",
+   "locator": "§ 17 Abs. 8 KOG"
+  },
+  {
+   "claim": "Eleven-member AI Advisory Board at RTR advising on technical, ethical and societal aspects of AI",
+   "verdict": "supported",
+   "locator": "§ 20c Abs. 6, 7 KOG"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Parliament pages, the committee report 2419 d.B. and the adopted text confirm the title, 3821/A, adoption on 31 January 2024, the Bundesrat decision of 15 February 2024 and the 1 January 2024 start. BGBl. I Nr. 6/2024 is named on the parliament page but the RIS copy could not be stored, so the issue date is unconfirmed; the run removed v1's unsupported 26 February 2024. A search found no Austrian AI Act implementing law, matching the notes' account (question 5638/J and answer 5062/AB of 2 June 2026)."
+}

@@ -1,0 +1,253 @@
+{
+ "cand_id": "ES-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ES-01",
+ "record": {
+  "summary": "Creates the Spanish Agency for the Supervision of Artificial Intelligence (AESIA), a state agency based in A Coruña, and approves its statute. The Agency supervises, advises, raises awareness and trains public and private bodies on implementing national and European AI rules, with inspection, verification and sanction functions under the applicable European rules. Its competences include promoting test environments for AI systems, a voluntary certification framework, supervising AI systems used by public administrations, and supervising AI systems that may pose significant risks to health, safety, equal treatment and other fundamental rights.",
+  "safety_topics": [
+   "evaluation & testing",
+   "accountability & liability",
+   "risk-based classification",
+   "public-sector use"
+  ],
+  "notes": "Approved by the Council of Ministers on 22 Aug 2023, published in BOE no. 210 on 2 Sep 2023 and in force from 3 Sep 2023. It was processed urgently under a Council of Ministers agreement of 13 Jun 2023, so that the Agency could prepare for the obligations of the then proposed EU AI Act. AESIA is attached to the Ministry of Economic Affairs and Digital Transformation through the State Secretariat for Digitalisation and Artificial Intelligence, and was to start operating when its Governing Council was constituted, within three months of entry into force. Its powers are without prejudice to those of the Ministry of Health and the Spanish Agency of Medicines and Medical Devices.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the BOE ELI page of Real Decreto 729/2023 with the original text and the BOE analysis (date of the decree 22/08/2023, publication 02/09/2023, entry into force 03/09/2023, no later amending references listed), the BOE PDF of BOE núm. 210, and AESIA's English home page (aesia.digital.gob.es, stored as the secondary source), which describes the Agency's mission and services. No English translation of the decree by the BOE or another public body was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "document heading",
+    "quote": "Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia Española de Supervisión de Inteligencia Artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "document heading",
+    "quote": "Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia Española de Supervisión de Inteligencia Artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "preamble, enacting formula",
+    "quote": "a propuesta de la Ministra de Hacienda y Función Pública, y de la Ministra de Asuntos Económicos y Transformación Digital, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de agosto de 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "signature",
+    "quote": "Dado en Madrid, el 22 de agosto de 2023. FELIPE R.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "document header",
+    "quote": "«BOE» núm. 210, de 2 de septiembre de 2023, páginas 122289 a 122316 (28 págs.)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "document header",
+    "quote": "Referencia: BOE-A-2023-18911",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "signature",
+    "quote": "Dado en Madrid, el 22 de agosto de 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Análisis",
+    "quote": "Fecha de disposición: 22/08/2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Análisis",
+    "quote": "Fecha de entrada en vigor: 03/09/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Disposición final tercera",
+    "quote": "El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Análisis",
+    "quote": "Fecha de entrada en vigor: 03/09/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Artículo único",
+    "quote": "se crea la Agencia Española de Supervisión de Inteligencia Artificial, a cuyo fin se aprueba el Estatuto de dicha Agencia Estatal",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Análisis",
+    "quote": "Rango: Real Decreto",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 2",
+    "quote": "La Agencia tendrá su sede institucional en la ciudad de A Coruña",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 4.1",
+    "quote": "Corresponde a la Agencia llevar a cabo tareas de supervisión, el asesoramiento, la concienciación y la formación dirigidas a entidades de derecho público y privado para la adecuada implementación de toda la normativa nacional y europea",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 4.1",
+    "quote": "la Agencia tendrá la función de inspección, comprobación, sanción y demás que le atribuya la normativa europea que le resulte de aplicación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 10.1.a",
+    "quote": "La promoción de entornos de prueba que permitan una correcta adaptación de sistemas innovadores de inteligencia artificial a los marcos jurídicos en vigor.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 10.1.d",
+    "quote": "a través de la creación de un marco de certificación voluntario para entidades privadas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 26 (Subdirección de Certificación, Evaluación de Tendencias, Coordinación y Formación)",
+    "quote": "Supervisar de oficio de los sistemas de inteligencia artificial utilizados por las administraciones públicas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 4.3.e",
+    "quote": "aquellos que puedan suponer riesgos significativos para la salud, seguridad, la igualdad de trato y no discriminación, en particular entre mujeres y hombres, y para los demás derechos fundamentales",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 26 (Subdirección de Certificación, Evaluación de Tendencias, Coordinación y Formación)",
+    "quote": "Supervisar de oficio de los sistemas de inteligencia artificial utilizados por las administraciones públicas, así como la emisión de informes vinculantes",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "document header",
+    "quote": "«BOE» núm. 210, de 2 de septiembre de 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "preamble",
+    "quote": "este real decreto se ha tramitado por la vía administrativa urgente por Acuerdo de Consejo de Ministros de fecha 13 de junio de 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 1.1",
+    "quote": "La Agencia se adscribe al Ministerio de Asuntos Económicos y Transformación Digital, a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Disposición adicional primera",
+    "quote": "La efectiva puesta en funcionamiento de la Agencia se producirá con la constitución del Consejo Rector en el plazo máximo de 3 meses desde la entrada en vigor de este real decreto.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-01/2026-10-11/official.html",
+    "sha256": "9c378ac004e31e01a9d2660190881a71ddae8bf0b479608372a073347f225803",
+    "locator": "Estatuto, artículo 4.1",
+    "quote": "Todo ello sin menoscabo de las competencias y funciones que en este ámbito vienen ejerciendo el Ministerio de Sanidad y la Agencia Española de Medicamentos y Productos Sanitarios",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from Articles 2, 4 and 10 of the Statute; the claim that AESIA is 'the first national AI supervisory agency in the EU' is not in any stored file and was removed; adds supervision of AI used by public administrations and of systems posing significant risks to health, safety and fundamental rights",
+   "safety_topics": "'public-sector use' added: the Statute gives the Agency ex officio supervision of AI systems used by public administrations, with binding reports on whether they continue",
+   "notes": "the remarks on the 2025 draft AI governance law and the European Commission's list of single points of contact are not in this record's stored files and were removed (the draft law is ES-03, already related); the urgent procedure, the attachment to the ministry, the start of operations and the reservation for health authorities were added from the decree",
+   "english_version": "the record had none; no English translation by the BOE or another public body was found",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Decree of 22 Aug 2023, published in BOE no. 210 on 2 Sep 2023; under the third final provision it entered into force the next day, 3 Sep 2023, as the BOE analysis states. The BOE page (stored 11 Oct 2026) lists no later references that amend or repeal it. 'In force' stands.",
+  "scope_reasoning": "Creates and sets the statute of the national AI supervisory agency; clearly in scope (mandate of an AI supervisory body), no scope_note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,57 @@
+{
+ "cand_id": "IT-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English text found; acceptable."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 12 inserts Art. 437-bis into the Criminal Code, one to five years where danger to life or public or individual safety results. Literal translation: 'is punished with imprisonment of one to five years, when danger to life or to public or individual safety results from such omissions.'",
+   "verdict": "supported",
+   "locator": "GU p. 12, Art. 12"
+  },
+  {
+   "claim": "Art. 18: causation between a breach of Regulation (EU) 2024/1689 and the damage is presumed unless proved otherwise; Art. 20(2): injured party has a direct action against the insurer",
+   "verdict": "supported",
+   "locator": "Arts. 18, 20"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GU Serie Generale n. 214 PDF, the GU ELI page and Normattiva confirm number, date 9 September 2026, GU 15 September 2026, 26G00179 and entry into force on 30 September 2026. Preamble confirms Council of Ministers deliberations of 10 June and 4 August 2026 and the opinions listed in the notes. The summary's addition of retrospective facial recognition under judicial authorisation matches the Chapter III heading and Art. 10. No amendment found in the stored files."
+}

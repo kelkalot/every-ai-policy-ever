@@ -1,0 +1,330 @@
+{
+ "cand_id": "GB-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-03",
+ "record": {
+  "summary": "Founding mandate of the UK AI Safety Institute, formed from the Frontier AI Taskforce as the first state-backed organisation focused on advanced AI safety for the public interest. Its mission is to 'minimise surprise to the UK and humanity from rapid and unexpected advances in AI'. Its three core functions are evaluations of advanced AI systems, foundational AI safety research and information exchange. Early evaluations cover dual-use capabilities, societal impacts, system safety and security, and loss of control. The institute is not a regulator and holds no responsibility for release decisions.",
+  "notes": "First published on GOV.UK on 2 November 2023 and presented to Parliament as Command Paper CP 960 in November 2023; GOV.UK records the update of 17 January 2024 as the addition of an AI Safety Institute page. The institute was an evolution of the Frontier AI Taskforce, announced in April 2023, whose research team became its initial core, with Ian Hogarth continuing as Chair. It was to house the secretariat for the international 'State of the Science' report on advanced AI, whose writing group Yoshua Bengio chairs. On 14 February 2025 the institute became the AI Security Institute, with a focus on serious AI risks with security implications; it now operates as a research organisation within DSIT whose stated mission is to equip governments with a scientific understanding of the risks posed by advanced AI.",
+  "verification": {
+   "note": "Stored and read in this run: the GOV.UK policy paper (snapshot of 11 Oct 2026, unchanged on 17 Oct), which gives the title, 'Updated 17 January 2024', presentation to Parliament in November 2023 as CP 960, the mission, the three core functions, the evaluation priorities (Box 1), the Taskforce origins and the statement that the institute is not a regulator; the 'AI Safety Institute: overview' publication page (stored 17 Oct 2026; published 2 November 2023, last updated 17 January 2024 when an AI Safety Institute page was added) with the print-ready PDF of the paper; DSIT's press release of 14 February 2025 on the renaming (stored 17 Oct 2026 for this record; the same text as GB-07's source); and the AI Security Institute's home page (aisi.gov.uk, stored as the secondary source), which shows the institute under its new name as a research organisation within DSIT."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "page header",
+    "quote": "Policy paper Introducing the AI Safety Institute Updated 17 January 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-3110889c41/2026-10-17/official.html",
+    "sha256": "b63374284dd5f5143f19c6a344e9150e712de3ed3531b63bce7de3d4a22ab15b",
+    "locator": "Updates to this page",
+    "quote": "From: Department for Science, Innovation and Technology and AI Safety Institute Published: 2 November 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-3110889c41/2026-10-17/official.html",
+    "sha256": "b63374284dd5f5143f19c6a344e9150e712de3ed3531b63bce7de3d4a22ab15b",
+    "locator": "Show all updates",
+    "quote": "2 November 2023 First published.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-3110889c41/2026-10-17/document-1.pdf",
+    "sha256": "2504f171494aba12c3e54f00ed2da326c8e0c5f5a0d05f846e1e32f51ae86283",
+    "locator": "page 3",
+    "quote": "Introducing the AI Safety Institute Presented to Parliament by the Secretary of State for Science, Innovation and Technology by Command of His Majesty November 2023 CP 960",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "page header",
+    "quote": "Introducing the AI Safety Institute Updated 17 January 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-3110889c41/2026-10-17/official.html",
+    "sha256": "b63374284dd5f5143f19c6a344e9150e712de3ed3531b63bce7de3d4a22ab15b",
+    "locator": "Show all updates",
+    "quote": "17 January 2024 AI Safety Institute page added.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "front matter",
+    "quote": "November 2023 CP 960 E03012924 ISBN: 978-1-5286-4538-6",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-3110889c41/2026-10-17/official.html",
+    "sha256": "b63374284dd5f5143f19c6a344e9150e712de3ed3531b63bce7de3d4a22ab15b",
+    "locator": "Documents",
+    "quote": "Introducing the AI Safety Institute Ref: ISBN 9781528645386, E03012924, CP 960",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-df214b8cfa/2026-10-17/official.html",
+    "sha256": "7a4f41f8851c958998d906ca00482ad7c783f5023133d150310cded21363d7f2",
+    "locator": "page header",
+    "quote": "UK’s AI Safety Institute becomes ‘UK AI Security Institute’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-df214b8cfa/2026-10-17/official.html",
+    "sha256": "7a4f41f8851c958998d906ca00482ad7c783f5023133d150310cded21363d7f2",
+    "locator": "second paragraph",
+    "quote": "Peter Kyle has today recast the AI Safety Institute the ‘AI Security Institute’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "page header",
+    "quote": "This was published under the 2022 to 2024 Sunak Conservative government",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "home page",
+    "quote": "The AI Security Institute is the first state-backed organisation dedicated to advancing this goal.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "footer",
+    "quote": "The AI Security Institute is a research organisation within the Department of Science, Innovation and Technology.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "page header",
+    "quote": "Department for Science, Innovation & Technology AI Safety Institute Policy paper",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "front matter",
+    "quote": "Presented to Parliament by the Secretary of State for Science, Innovation and Technology by Command of His Majesty.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Mission and scope",
+    "quote": "The Institute is not a regulator and will not determine government regulation.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Mission and scope",
+    "quote": "The Institute is the first state-backed organisation focused on advanced AI safety for the public interest. Its mission is to minimise surprise to the UK and humanity from rapid and unexpected advances in AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Functions",
+    "quote": "It will initially perform 3 core functions:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Functions",
+    "quote": "Develop and conduct evaluations on advanced AI systems, aiming to characterise safety-relevant capabilities",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Functions",
+    "quote": "Drive foundational AI safety research, including through launching a range of exploratory research projects and convening external researchers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Functions",
+    "quote": "Facilitate information exchange, including by establishing",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Box 1. Evaluation priorities",
+    "quote": "Early evaluations by the Institute will likely cover the following 4 areas of interest.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Box 1. Evaluation priorities",
+    "quote": "Dual-use capabilities: As AI systems become more capable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Box 1. Evaluation priorities",
+    "quote": "Societal impacts: As AI is integrated into society",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Box 1. Evaluation priorities",
+    "quote": "System safety and security: Current safeguards are unable to prevent determined actors",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Box 1. Evaluation priorities",
+    "quote": "Loss of control: As advanced AI systems become increasingly capable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Develop and conduct AI system evaluations",
+    "quote": "the Institute will not hold responsibility for any release decisions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Establishment",
+    "quote": "The Institute is an evolution of the UK’s Frontier AI Taskforce.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Establishment",
+    "quote": "The Frontier AI Taskforce was announced by the Prime Minister and Technology Secretary in April 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Establishment",
+    "quote": "The Taskforce research team will become the initial core of the Institute.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Establishment",
+    "quote": "Ian Hogarth will continue as Chair of the AI Safety Institute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Partnerships",
+    "quote": "the UK government has commissioned Yoshua Bengio, a pioneering and Turing Award winning AI academic, to Chair the writing group that will draft the Report.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/official.html",
+    "sha256": "173921c42311a0904feba8f8280908bc078fa44942b1efdca8b5cd047155fdfa",
+    "locator": "Partnerships",
+    "quote": "The Institute will house the Secretariat for the Chair",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "home page",
+    "quote": "Our mission is to equip governments with a scientific understanding of the risks posed by advanced AI.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-03/2026-10-11/secondary.html",
+    "sha256": "d1ff6a24dc9fa34e4d9cd4178c5cfa617310c5a070476f6f3cb31db3150a1805",
+    "locator": "footer",
+    "quote": "The AI Security Institute is a research organisation within the Department of Science, Innovation and Technology.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-3110889c41/2026-10-17/official.html",
+    "sha256": "b63374284dd5f5143f19c6a344e9150e712de3ed3531b63bce7de3d4a22ab15b",
+    "locator": "Show all updates",
+    "quote": "17 January 2024 AI Safety Institute page added.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-df214b8cfa/2026-10-17/official.html",
+    "sha256": "7a4f41f8851c958998d906ca00482ad7c783f5023133d150310cded21363d7f2",
+    "locator": "page header",
+    "quote": "Published: 14 February 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-03/extra-df214b8cfa/2026-10-17/official.html",
+    "sha256": "7a4f41f8851c958998d906ca00482ad7c783f5023133d150310cded21363d7f2",
+    "locator": "second paragraph",
+    "quote": "This new name will reflect its focus on serious AI risks with security implications",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "extended from the stored paper: Taskforce origin, the four evaluation areas of Box 1, not a regulator and no responsibility for release decisions",
+   "notes": "rewritten from the stored files: first publication on 2 November 2023, CP 960, what the 17 January 2024 update was, Taskforce origin, Hogarth as Chair, the State of the Science secretariat, the renaming on 14 February 2025 and the institute's current place and mission; the Bletchley summit dates and 'directorate of DSIT' are not in a stored file ('a research organisation within DSIT' is) and were dropped",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_last_updated",
+   "official_identifier",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding founding document, first published on 2 November 2023. DSIT's press release of 14 February 2025 (stored for this record) renamed the institute the AI Security Institute with a narrower security focus, and aisi.gov.uk gives a different mission, so the founding mandate no longer describes the body as it is; GOV.UK also marks the paper as published under the 2022 to 2024 Sunak government. 'Superseded' stands. date_last_updated stays 2024-01-17: the paper's page says 'Updated 17 January 2024', and the overview page records that update as the addition of an AI Safety Institute page.",
+  "scope_reasoning": "Mandate of a state AI safety institute; in scope with no note (AGENTS.md section 10)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.gov.uk/government/publications/ai-safety-institute-overview",
+   "reason": "The GOV.UK publication page 'AI Safety Institute: overview', linked from the stored paper's breadcrumb: its 'Published' and 'Last updated' lines and change history give the day of first publication (version 1: 2 November 2023), which the stored paper shows only as 'November 2023', and what the 17 January 2024 update changed."
+  },
+  {
+   "url": "https://www.gov.uk/government/news/tackling-ai-security-risks-to-unleash-growth-and-deliver-plan-for-change",
+   "reason": "DSIT press release of 14 February 2025 renaming the AI Safety Institute the AI Security Institute (GB-07's official source): an official quote in this record's own files for the 'Superseded' status and the renaming date in the notes."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

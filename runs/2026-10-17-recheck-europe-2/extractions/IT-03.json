@@ -1,0 +1,173 @@
+{
+ "cand_id": "IT-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IT-03",
+ "record": {
+  "summary": "Italy's second legislative decree implementing the EU AI Act under Law 132/2025. AgID is the notifying authority; ACN is the market surveillance authority and single point of contact, with the Bank of Italy, CONSOB and IVASS for high-risk AI used in financial services and the data protection authority within Article 74(8) of the AI Act. ACN has inspection powers, including unannounced checks on real-world testing. Fines follow the AI Act ceilings and add up to EUR 1 million or 0.5% of turnover for breaches of Articles 27 and 86. AgID and ACN run a national AI sandbox. Employers must leave final employment decisions to a person, and workplace AI enters the occupational risk assessment.",
+  "safety_topics": [
+   "accountability & liability",
+   "risk-based classification",
+   "evaluation & testing",
+   "human oversight",
+   "public-sector use"
+  ],
+  "notes": "Adopted under Article 24 of Law 132/2025 after a preliminary deliberation of the Council of Ministers on 10 June 2026, the opinions of AgID, ACN, the data protection authority, the Unified Conference and the parliamentary committees, and a final deliberation on 4 August 2026; issued on 7 October 2026, published in Gazzetta Ufficiale, Serie Generale n. 234, of 8 October 2026, and in force from 23 October 2026. It has 54 articles in five chapters. ACN registers the Annex III point 2 high-risk systems nationally; a coordinating committee at the Prime Minister's Office sets the sandbox's priorities, and sandboxes for dual-use and judicial AI are to follow by regulation. Follow-up acts are due within 90 days (teacher training, costs of market surveillance), six months (AI training in the professions and in continuing medical education) and twelve months (parameters adjusting professionals' fair compensation to the risk class of the AI they use). Article 52 makes data, algorithms and mathematical methods for training AI systems protectable as trade secrets under the industrial property code.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the Gazzetta Ufficiale ELI page of the decree (gazzettaufficiale.it), which gives the heading, number, date, title, the GU reference (Serie Generale n. 234 of 08-10-2026, 26G00200) and the entry into force on 23/10/2026; the PDF of Gazzetta Ufficiale Serie Generale n. 234 of 8 October 2026 (gazzettaufficiale.it, 120 pages), which holds the full text of the decree, Articles 1 to 54, with the signature 'Dato a Roma, addì 7 ottobre 2026'; and the Normattiva page of the original text (normattiva.it, stored as the record's secondary source), with the preamble and Article 1. Normattiva's complete-act export returned only a page frame. Version 1's Atto del Governo number, Senate dates, delegation deadline and the legal commentary on differences from the Council of Ministers press release are not in the stored files and were not restored. No English translation was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "heading",
+    "quote": "DECRETO LEGISLATIVO 7 ottobre 2026, n. 179",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "title",
+    "quote": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che stabilisce regole armonizzate sull'intelligenza artificiale, in materia di poteri delle Autorita' nazionali e di utilizzo dell'intelligenza",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/IT-03/2026-10-11/secondary.html",
+    "sha256": "8da27e815fe0cb8314f1355219c8096330b49a633e6a583b39b890adcf694072",
+    "locator": "heading",
+    "quote": "DECRETO LEGISLATIVO 7 ottobre 2026, n. 179",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IT-03/2026-10-11/secondary.html",
+    "sha256": "8da27e815fe0cb8314f1355219c8096330b49a633e6a583b39b890adcf694072",
+    "locator": "title",
+    "quote": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che stabilisce regole armonizzate sull'intelligenza artificiale, in materia di poteri delle Autorità nazionali e di utilizzo dell'intelligenza",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "heading",
+    "quote": "DECRETO LEGISLATIVO 7 ottobre 2026, n. 179",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-03/extra-ef50fe84ae/2026-10-17/official.pdf",
+    "sha256": "a9cf0cd55b7e37a9e24d318b293c372dda00d18db246b8bb13ca09e9c64ae34b",
+    "locator": "page 34, signature",
+    "quote": "Dato a Roma, addì 7 ottobre 2026 MATTARELLA",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "note under the title",
+    "quote": "Entrata in vigore del provvedimento: 23/10/2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "heading",
+    "quote": "DECRETO LEGISLATIVO 7 ottobre 2026, n. 179",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "note under the title",
+    "quote": "Entrata in vigore del provvedimento: 23/10/2026",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/IT-03/2026-10-11/official.html",
+    "sha256": "4765126a9c7c9aff6286f513edc4377bf068484b9b87187aee064f1521407a58",
+    "locator": "title and GU reference",
+    "quote": "nella formazione. (26G00200) (GU Serie Generale n.234 del 08-10-2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-03/extra-ef50fe84ae/2026-10-17/official.pdf",
+    "sha256": "a9cf0cd55b7e37a9e24d318b293c372dda00d18db246b8bb13ca09e9c64ae34b",
+    "locator": "page 1, issue header",
+    "quote": "Roma - Giovedì, 8 ottobre 2026 Anno 167° - Numero 234",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-03/extra-ef50fe84ae/2026-10-17/official.pdf",
+    "sha256": "a9cf0cd55b7e37a9e24d318b293c372dda00d18db246b8bb13ca09e9c64ae34b",
+    "locator": "page 18, preamble",
+    "quote": "Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 10 giugno 2026;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-03/extra-ef50fe84ae/2026-10-17/official.pdf",
+    "sha256": "a9cf0cd55b7e37a9e24d318b293c372dda00d18db246b8bb13ca09e9c64ae34b",
+    "locator": "page 18, preamble",
+    "quote": "Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli affari europei, il PNRR e le",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IT-03/2026-10-11/secondary.html",
+    "sha256": "8da27e815fe0cb8314f1355219c8096330b49a633e6a583b39b890adcf694072",
+    "locator": "preamble",
+    "quote": "Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 4 agosto 2026;",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-03/extra-ef50fe84ae/2026-10-17/official.pdf",
+    "sha256": "a9cf0cd55b7e37a9e24d318b293c372dda00d18db246b8bb13ca09e9c64ae34b",
+    "locator": "page 34, final formula",
+    "quote": "È fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the full text: Art. 4 (AgID notifying), Arts 5, 6 and 32 (ACN market surveillance and single point of contact; Bank of Italy, CONSOB, IVASS for high-risk AI in financial services; Garante within Art. 74(8)), Art. 15 (inspection powers; checks on real-world testing, also without notice), Art. 23 (fines, with the national ceiling of EUR 1 million or 0.5% for Arts 27 and 86), Art. 26 (sandbox run jointly by AgID and ACN), Arts 41 and 42 (final employment decisions by a person; AI in the occupational risk assessment)",
+   "safety_topics": "'human oversight' added for Art. 41 (final employment decisions reserved to a natural person) and Art. 48 (human supervision of AI in employment services)",
+   "notes": "rewritten from the preamble and Arts 10, 14, 27, 30, 38, 47, 49, 51 and 52; Atto del Governo n. 421, the Senate dates, the delegation deadline and the legal commentary are not in the stored files",
+   "english_version": "the field was missing; no English text of the decree was found",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "official_identifier",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 7 October 2026 ('Dato a Roma, addì 7 ottobre 2026') and published in GU n. 234 of 8 October 2026; the GU page gives 'Entrata in vigore del provvedimento: 23/10/2026', the fifteenth day after publication. Today is 17 October 2026, six days before that date, so the status stays 'Adopted, not yet in force'. The record becomes due for a refresh once 23 October 2026 has passed.",
+  "scope_reasoning": "An AI-specific national law implementing the EU AI Act; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The status changes to 'In force' on 23 October 2026, after this run; the queue's passed-in-force-date rule will bring the record into a refresh run."
+ ]
+}

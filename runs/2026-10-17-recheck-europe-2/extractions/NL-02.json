@@ -1,0 +1,334 @@
+{
+ "cand_id": "NL-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NL-02",
+ "record": {
+  "title": "Government-wide vision on generative AI of the Netherlands",
+  "language": "Dutch",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://www.government.nl/site/binaries/site-content/collections/documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands/Government-wide+vision+on+generative+AI+of+the+Netherlands.pdf",
+   "by": "Government of the Netherlands (government.nl)"
+  },
+  "summary": "Dutch government-wide vision on generative AI, sent to the House of Representatives in January 2024. It maps opportunities and risks, including mis- and disinformation and deepfakes, bias and discrimination, dependence on a few US technology companies, misuse and systemic security risks, and reviews the law, notably the EU AI Act. Four principles: generative AI is developed and applied safely and equitably, serves human welfare and safeguards autonomy, and contributes to sustainability and prosperity. Six action lines: collaborate, monitor developments, shape and apply laws and regulations, increase knowledge and skills, innovate, and strong and clear supervision and enforcement.",
+  "notes": "The report is listed on rijksoverheid.nl with the date 01-01-2024 and was sent to the House of Representatives as an annex to a cover letter listed there on 18 January 2024, from State Secretary Van Huffelen (Kingdom Relations and Digitalisation), Minister Adriaansens (Economic Affairs and Climate Policy) and Minister Dijkgraaf (Education, Culture and Science); the government's English translation of the cover letter is dated 17 January 2024. Other annexes to that letter are an overview of related motions and commitments and a request for advice to the Social and Economic Council (SER) on AI, the future of work and its socio-economic implications. The vision responds to a motion adopted by the House in April 2023. On 22 April 2025 State Secretary Szabó presented to the House a government-wide position on the use of generative AI in government, with a government-wide guide on its responsible use.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the rijksoverheid.nl document page of the vision and the page of the cover letter (both stored 11 Oct 2026), which confirm the Dutch title, the date listed for the report (01-01-2024), the date of the cover letter (18-01-2024), the four ministries, the three senders and that an English translation exists. Stored in this run: the government.nl page of the English translation (17-01-2024), the English translation of the vision and of the cover letter (PDFs on government.nl), and the rijksoverheid.nl page of the letter of 22 April 2025. The Dutch vision PDF and the Dutch cover letter on open.overheid.nl could not be stored because that site's robots.txt disallows automated downloads, so the summary is written from the government's English translation, not from the Dutch original. government.nl is not on the list of official sites for NL, so quotes from the translation count as secondary. Version 1's statement that a provisional position of December 2023 was replaced in April 2025 is not in the stored April 2025 page and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-27b2cbb680/2026-10-17/official.html",
+    "sha256": "0b70250c1a06e7db5d1514a723b8695b1f2a8fa21308b9c579f35bb69f1302a0",
+    "locator": "page heading",
+    "quote": "Government-wide vision on generative AI of the Netherlands",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "page 1, cover",
+    "quote": "The government-wide vision on Generative Al of the Netherlands",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "page heading",
+    "quote": "Overheidsbrede visie Generatieve AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "Visie in het Engels",
+    "quote": "Er is ook een Engelse vertaling van de visie beschikbaar.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "page heading",
+    "quote": "Overheidsbrede visie Generatieve AI",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "Hoort bij",
+    "quote": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "Hoort bij",
+    "quote": "Ministerie van Sociale Zaken en Werkgelegenheid",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "Hoort bij",
+    "quote": "Ministerie van Economische Zaken en Klimaat",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "Hoort bij",
+    "quote": "Ministerie van Onderwijs, Cultuur en Wetenschap",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/secondary.html",
+    "sha256": "fb4d56207886ae6f573beddc7fae298f350b8a3ca72a6aea986e7ecc7c3cae7f",
+    "locator": "summary",
+    "quote": "Staatssecretaris Van Huffelen (Koninkrijksrelaties en Digitalisering), minister Adriaansens (EZK) en minister Dijkgraaf (OCW) geven de Tweede Kamer een toelichting op de overheidsbrede visie op generatieve artificiële intelligentie (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "Dit document is een bijlage bij",
+    "quote": "Dit document is een bijlage bij Kamerbrief bij overheidsbrede visie generatieve AI Kamerstuk18-01-2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/secondary.html",
+    "sha256": "fb4d56207886ae6f573beddc7fae298f350b8a3ca72a6aea986e7ecc7c3cae7f",
+    "locator": "page heading",
+    "quote": "Kamerbrief bij overheidsbrede visie generatieve AI Kamerstuk18-01-2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "page heading and description",
+    "quote": "Overheidsbrede visie Generatieve AI Rapport01-01-2024 Deze overheidsbrede visie op generatieve artificiële intelligentie (AI) beschrijft kansen en risico's van generatieve AI.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "description",
+    "quote": "Deze overheidsbrede visie op generatieve artificiële intelligentie (AI) beschrijft kansen en risico's van generatieve AI. De visie gaat daarnaast in op wet- en regelgeving en beleid.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "page 3, Introduction",
+    "quote": "For instance, generative AI can be used to create and disseminate misinformation; it can reinforce discriminatory dynamics; and it can reinforce socio-economic inequalities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "page 2, table of contents",
+    "quote": "3 The impact of generative AI 8 a Opportunities and possibilities 8 b Challenges and risks 11 4 Vision on generative AI 19 a Current laws, regulations and policies 19 b Four principles for generative AI 24",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "page 13, Dependence and market power",
+    "quote": "There is an increasing dependence on a limited number of technology companies. The Netherlands predominantly use generative AI models and services from a limited number of US tech companies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "information ecosystem",
+    "quote": "It has been possible to generate deepfakes for some years.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "risk overview",
+    "quote": "Military security Systemic security Misuse and abuse",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "European AI Act",
+    "quote": "The AI Act is considered to be the primary legislative frame-",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Principle 1",
+    "quote": "Principle 1: Generative AI is developed and applied in a safe way",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Principle 2",
+    "quote": "Principle 2: Generative AI is developed and applied equitably",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Principle 3",
+    "quote": "Principle 3: Generative AI that serves human welfare and safeguards human autonomy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Principle 4",
+    "quote": "Principle 4: Generative AI contributes to sustainability and prosperity",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "page 2, table of contents",
+    "quote": "5 Actions 29 a Collaborate 30 b Closely monitoring all developments 35 c Shaping and applying laws and regulations 39 d Increase knowledge and skills 40 e Innovating with generative AI 44 f Strong and clear supervision and enforcement 47",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Principle 1",
+    "quote": "More specifically, this means actively contributing to the mitigation of abuse, incidents and systemic security risks of and by generative AI models.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Principle 1",
+    "quote": "This is done at national, European, and international levels because many potential security risks do not respect national borders",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-7d4e11ba87/2026-10-17/official.pdf",
+    "sha256": "478e898cd358f032260395347b0f681e2ff2693a9fb64ca5ee95523999e5a161",
+    "locator": "Rijks AI-validatieteam",
+    "quote": "The Government AI Validation Team develops (publicly available) guardrails and tools for generative AI models.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NL-02/2026-10-11/official.html",
+    "sha256": "28f158d317dd5041af85931013205595dfe361083fefb3e726a1793a0aa2c36b",
+    "locator": "page heading",
+    "quote": "Rapport01-01-2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-27b2cbb680/2026-10-17/document-1.pdf",
+    "sha256": "559ebb04181bd77ffc9fe9c089362d9c114e695e2cb5271a47ce0ecefe6c616a",
+    "locator": "page 1",
+    "quote": "Date 17 January 2024 Subject Cover letter for the (government-wide) vision on generative AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-27b2cbb680/2026-10-17/document-1.pdf",
+    "sha256": "559ebb04181bd77ffc9fe9c089362d9c114e695e2cb5271a47ce0ecefe6c616a",
+    "locator": "page 1",
+    "quote": "The presentation of this vision responds to the motion by the members Dekker-Abdulaziz and Rajkowski, which was adopted by a large majority of the House of Representatives of the Netherlands in April 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/secondary.html",
+    "sha256": "fb4d56207886ae6f573beddc7fae298f350b8a3ca72a6aea986e7ecc7c3cae7f",
+    "locator": "Bijlagen",
+    "quote": "Overzicht moties en toezeggingen die betrekking hebben op de overheidsbrede visie op generatieve AI",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NL-02/2026-10-11/secondary.html",
+    "sha256": "fb4d56207886ae6f573beddc7fae298f350b8a3ca72a6aea986e7ecc7c3cae7f",
+    "locator": "Bijlagen",
+    "quote": "SER-adviesaanvraag ‘AI, de toekomst van werk en sociaaleconomische implicaties’",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-28a0d4e378/2026-10-17/official.html",
+    "sha256": "4246d30c2ee191ab28f9d8524dd74bf8587baad7b4e3ec9222c4063abeec4b85",
+    "locator": "page heading",
+    "quote": "Aanbiedingsbrief bij Overheidsbreed standpunt voor de inzet van generatieve AI Kamerstuk22-04-2025 Staatssecretaris Szabó (Digitalisering en Koninkrijksrelaties) biedt de Tweede Kamer het overheidsbrede standpunt voor de inzet van generatieve artificiële intelligentie (AI) bij de overheid aan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-28a0d4e378/2026-10-17/official.html",
+    "sha256": "4246d30c2ee191ab28f9d8524dd74bf8587baad7b4e3ec9222c4063abeec4b85",
+    "locator": "Bijlagen",
+    "quote": "Overheidsbrede handreiking voor de verantwoorde inzet van generatieve AI",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-02/extra-27b2cbb680/2026-10-17/official.html",
+    "sha256": "0b70250c1a06e7db5d1514a723b8695b1f2a8fa21308b9c579f35bb69f1302a0",
+    "locator": "page heading",
+    "quote": "Download: Government-wide vision on generative AI of the Netherlands Parliamentary document17-01-2024PDF document607.36 KB54 pages",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the government's English translation is titled 'Government-wide vision on generative AI of the Netherlands' (government.nl page and PDF cover); AGENTS.md 5.6 takes a government translation's title as the official English title",
+   "language": "the official text is Dutch; the rijksoverheid.nl page calls the English version a translation ('Engelse vertaling'), so English moves from language to english_version",
+   "english_version": "the government's English translation, stored from government.nl in this run",
+   "summary": "rewritten from the stored English translation (the Dutch PDF cannot be stored): risks, the four principles in their own words and the six action lines",
+   "notes": "rewritten from the stored pages: senders and other annexes of the cover letter, the date of the English cover letter, the motion, and the April 2025 position presented by State Secretary Szabó",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding government vision, listed on rijksoverheid.nl as a report and sent to parliament in January 2024. The April 2025 position on the use of generative AI in government is a separate instrument; the stored pages show no withdrawal or replacement of the vision itself, so 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A government-wide vision on generative AI with risks, safety principles and action lines on legislation and supervision; in scope with no note.",
+  "date_reasoning": "date_published stays 18 January 2024, the date rijksoverheid.nl gives the cover letter that sent the vision to parliament. The government's English translation of the cover letter is dated 17 January 2024; the Dutch letter itself cannot be stored, so the discrepancy is in the notes and open_questions."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Overheidsbreed standpunt voor de inzet van generatieve AI (Government-wide position on the use of generative AI), presented 22 April 2025",
+   "url": "https://www.rijksoverheid.nl/documenten/2025/04/16/het-overheidsbrede-standpunt-voor-de-inzet-van-generatieve-ai",
+   "seen_in": "https://www.rijksoverheid.nl/documenten/kamerstukken/2025/04/22/kamerbrief-overheidsbreed-standpunt-inzet-generatieve-ai",
+   "why": "A government-wide position on the use of generative AI by government organisations, with an English translation; not in the register."
+  },
+  {
+   "title": "Overheidsbrede handreiking voor de verantwoorde inzet van generatieve AI (Responsible Use of Generative AI: Government-Wide Guide), presented 22 April 2025",
+   "url": "https://www.rijksoverheid.nl/documenten/rapporten/2025/04/16/overheidsbrede-handreiking-generatieve-ai",
+   "seen_in": "https://www.rijksoverheid.nl/documenten/kamerstukken/2025/04/22/kamerbrief-overheidsbreed-standpunt-inzet-generatieve-ai",
+   "why": "Companion guidance to that position on the responsible public-sector use of generative AI; not in the register."
+  }
+ ],
+ "open_questions": [
+  "The cover letter's date: rijksoverheid.nl lists the Dutch letter as 18-01-2024, while the government's English translation of the letter is dated 17 January 2024. The Dutch letter (open.overheid.nl) cannot be stored to settle it; date_published stays 2024-01-18.",
+  "The Dutch text of the vision and of the cover letter are on open.overheid.nl, whose robots.txt disallows automated downloads, so the summary rests on the government's English translation. government.nl and open.overheid.nl are not listed as official hosts for NL in pipeline/official-sites.json."
+ ]
+}

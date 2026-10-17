@@ -1,0 +1,118 @@
+{
+ "cand_id": "GB-01",
+ "decision": "update",
+ "target_id": "GB-01",
+ "record": {
+  "notes": "Consultation closed 21 June 2023; minor Annex C corrections on 3 August 2023. GOV.UK notes that the page was published under the 2022 to 2024 Sunak Conservative government. The approach was confirmed by the February 2024 government response and remains the basis of UK policy: as of October 2026 no comprehensive UK AI bill has been introduced."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "GOV.UK page title",
+    "quote": "AI regulation: a pro-innovation approach",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "page header \"From\"",
+    "quote": "Department for Science, Innovation and Technology and Office for Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "Documents",
+    "quote": "Ref: ISBN 978-1-5286-4009-1, E02886733 03/23, CP 815",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "Published",
+    "quote": "29 March 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-01/2026-10-11/document-1.pdf",
+    "sha256": "79d0b329134c14d0977e9819154ba1e55108b9a7d1c8890d93e6406f2ce0d9c7",
+    "locator": "page 2",
+    "quote": "Presented to Parliament",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "Last updated",
+    "quote": "3 August 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "Updates to this page",
+    "quote": "We've corrected minor errors in Annex C. See the correction slip for details.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "banner",
+    "quote": "This was published under the 2022 to 2024 Sunak Conservative government",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "Updates to this page",
+    "quote": "The consultation closed on 21 June 2023.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-01/2026-10-11/official.html",
+    "sha256": "e24e72159eb35e5a74cf0d6d1a83d1ce82216767c1e5814c9627b19c5ead943c",
+    "locator": "summary",
+    "quote": "This white paper details our plans for implementing a pro-innovation approach to AI regulation.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "GOV.UK does not mark the page as \"historic\" in the stored text; reworded to the banner it actually shows."
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force",
+   "language"
+  ],
+  "status_reasoning": "Policy paper first published 29 Mar 2023, last updated 3 Aug 2023; the page shows no withdrawal or replacement, only a banner that it was published under the 2022 to 2024 government. Published (non-binding, current) stands.",
+  "scope_reasoning": "National framework for AI regulation; clearly in scope."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The notes claims about the February 2024 government response and that no UK AI bill had been introduced as of October 2026 are not supported by any stored file of this record."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

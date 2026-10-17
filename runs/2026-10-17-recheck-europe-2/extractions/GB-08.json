@@ -1,0 +1,250 @@
+{
+ "cand_id": "GB-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-08",
+ "record": {
+  "date_last_updated": null,
+  "notes": "The Act received Royal Assent on 19 June 2025. Section 138 was not in force at Royal Assent (s.142(1)); the Data (Use and Access) Act 2025 (Commencement No. 5) Regulations 2026 (SI 2026/31), made on 15 January 2026, brought it into force on 6 February 2026. The offences in new sections 66E and 66F of the Sexual Offences Act 2003 are triable only summarily and have a reasonable-excuse defence whose operation the Secretary of State must review in a report to Parliament within two years; section 66H allows prosecution within 3 years of the offence and 6 months of the prosecutor having sufficient evidence. Courts, including service courts, can deprive the offender of the image and anything containing it. Most of the Act is a general data law and out of scope; only section 138 is recorded here.",
+  "scope_note": "Not an AI-specific law: the offence covers any image that appears to be a photograph or film of a person but is not. Included as the UK's operative instrument against creating sexually explicit deepfakes; only section 138 of a general data law is recorded.",
+  "verification": {
+   "note": "Stored and read in this run: the legislation.gov.uk page of section 138 (latest revised version; heading, text, 'no known outstanding effects', commencement annotations I1 and I2) and the Commencement No. 5 Regulations, SI 2026/31 (stored as the secondary source; made 15 January 2026, regulation 2 and the explanatory note), snapshots of 11 Oct 2026, unchanged on 17 Oct; and, stored 17 Oct 2026, the Act's introductory text on legislation.gov.uk and the King's Printer PDF as enacted, both giving Royal Assent on 19 June 2025 and the enacting formula. Version 1's remark that the Online Safety Act 2023 already criminalised sharing such images is not in a stored file and was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "breadcrumb",
+    "quote": "Data (Use and Access) Act 2025 You are here: UK Public General Acts 2025 c. 18 Part 7 Purported intimate images Section 138",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section heading",
+    "quote": "Creating, or requesting the creation of, purported intimate image of adult",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-08/extra-920caac556/2026-10-17/official.html",
+    "sha256": "64e750e0845fd2e65bfd79da636fa0aa4ddf00b7114fedcfb7fc0a01a73598a1",
+    "locator": "Introductory Text",
+    "quote": "Data (Use and Access) Act 2025 2025 CHAPTER 18",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "Commencement Information",
+    "quote": "I2S. 138 in force at 6.2.2026 by S.I. 2026/31, reg. 2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/secondary.html",
+    "sha256": "6b6b48661fb3a125840b950e09ffc4e7b1b99e1d1a7af42177792deb45d00347",
+    "locator": "regulation 2",
+    "quote": "Section 138 of the Data (Use and Access) Act 2025 (creating, or requesting the creation of, purported intimate image of adult) comes into force on 6th February 2026.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "Commencement Information",
+    "quote": "I2S. 138 in force at 6.2.2026 by S.I. 2026/31, reg. 2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "Changes to legislation",
+    "quote": "There are currently no known outstanding effects for the Data (Use and Access) Act 2025, Section 138.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "breadcrumb",
+    "quote": "UK Public General Acts 2025 c. 18 Part 7 Purported intimate images Section 138",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-08/extra-920caac556/2026-10-17/official.html",
+    "sha256": "64e750e0845fd2e65bfd79da636fa0aa4ddf00b7114fedcfb7fc0a01a73598a1",
+    "locator": "Introductory Text",
+    "quote": "Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "breadcrumb",
+    "quote": "UK Public General Acts 2025 c. 18",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66E(1)(a)",
+    "quote": "A intentionally creates a purported intimate image of another person (B),",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 138(1)-(2)",
+    "quote": "(1)The Sexual Offences Act 2003 is amended in accordance with subsections (2) and (3). (2)After section 66D insert—",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66E(2)",
+    "quote": "(a)appears to be, or to include, a photograph or film of the person (but is not, or is not only, a photograph or film of the person),",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66F(1)(a)",
+    "quote": "A intentionally requests the creation of a purported intimate image of another person (B)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/secondary.html",
+    "sha256": "6b6b48661fb3a125840b950e09ffc4e7b1b99e1d1a7af42177792deb45d00347",
+    "locator": "Explanatory Note",
+    "quote": "New section 66G sets out relevant definitions that apply to those offences, and new section 66H extends the time limit that applies to these offences",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/secondary.html",
+    "sha256": "6b6b48661fb3a125840b950e09ffc4e7b1b99e1d1a7af42177792deb45d00347",
+    "locator": "Explanatory Note",
+    "quote": "courts have the power to make a deprivation order in respect of the image to which the offence relates, and anything containing it.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-08/extra-920caac556/2026-10-17/official.html",
+    "sha256": "64e750e0845fd2e65bfd79da636fa0aa4ddf00b7114fedcfb7fc0a01a73598a1",
+    "locator": "Introductory Text",
+    "quote": "[19th June 2025]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "Commencement Information",
+    "quote": "I1S. 138 not in force at Royal Assent, see s. 142(1)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/secondary.html",
+    "sha256": "6b6b48661fb3a125840b950e09ffc4e7b1b99e1d1a7af42177792deb45d00347",
+    "locator": "heading",
+    "quote": "The Data (Use and Access) Act 2025 (Commencement No. 5) Regulations 2026 Made 15th January 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66E(6)",
+    "quote": "A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding the maximum term for summary offences or a fine (or both).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66E(5)",
+    "quote": "It is a defence for a person charged with an offence under this section to prove that the person had a reasonable excuse for creating the purported intimate image.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66E(7)",
+    "quote": "publish the outcome of the review in a report before the end of the period of two years beginning with the day on which this section comes into force",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/official.html",
+    "sha256": "e148067ecfedef781d7d8c5137c9035b8af19de31f217667791d161f7d62864a",
+    "locator": "section 66H(1)(a)",
+    "quote": "before the end of the period of 3 years beginning with the day on which the offence was committed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-08/2026-10-11/secondary.html",
+    "sha256": "6b6b48661fb3a125840b950e09ffc4e7b1b99e1d1a7af42177792deb45d00347",
+    "locator": "Explanatory Note",
+    "quote": "courts within the Service Justice System have the power to make a deprivation order in respect of the image to which the offence relates",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-08/extra-920caac556/2026-10-17/official.html",
+    "sha256": "64e750e0845fd2e65bfd79da636fa0aa4ddf00b7114fedcfb7fc0a01a73598a1",
+    "locator": "Introductory Text",
+    "quote": "[19th June 2025] Be it enacted by the King’s most Excellent Majesty",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-08/extra-b483a8bf83/2026-10-17/official.pdf",
+    "sha256": "a67c955f68a17bef5d496e0cd47aca8dbfed29574a62d8ede3717637227c163a",
+    "locator": "page 11",
+    "quote": "the creation of purported intimate images; and for connected purposes. [19th June 2025]",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "2026-01-15 was the day the commencement regulations were made, not an amendment of section 138; legislation.gov.uk shows no known outstanding effects and no amendment, so the field is empty and the commencement is in the notes",
+   "notes": "Royal Assent on 19 June 2025 kept, now from the stored introductory text and PDF; the Online Safety Act remark removed (no stored source); commencement, summary-only penalties, the reasonable-excuse review, the time limit and deprivation orders added from the stored text",
+   "scope_note": "added: a law that is not AI-specific but is the operative instrument for a deepfake question gets a scope_note (AGENTS.md section 10; compare US-FL-06 and US-FL-07)",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "official_identifier",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Section 138 was not in force at Royal Assent (annotation I1, s.142(1)); SI 2026/31 reg. 2 brought it into force on 6 February 2026, which is before today (17 October 2026), and legislation.gov.uk records no outstanding effects on it. 'In force' stands.",
+  "scope_reasoning": "Not AI-specific (it covers any purported intimate image) but the operative UK offence for creating sexual deepfakes; in with a scope_note under AGENTS.md section 10."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2025/18/introduction",
+   "reason": "Introductory text of the Data (Use and Access) Act 2025 (2025 c. 18) on legislation.gov.uk, under the same URI scheme as the stored section page: the date of Royal Assent in brackets (version 1: 19 June 2025) for date_published, and the enacting formula for issuing_body."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2025/18/pdfs/ukpga_20250018_en.pdf",
+   "reason": "The King's Printer PDF of the Act as enacted, by the URI pattern of the Crime and Policing Act PDF already stored for GB-09: a fallback with page markers for the Royal Assent date and the enacting formula if the introduction page cannot be stored."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "Version 1's notes said that sharing intimate images, including deepfakes, was already criminalised by the Online Safety Act 2023. No stored file supports this, so it was removed from the notes."
+ ]
+}

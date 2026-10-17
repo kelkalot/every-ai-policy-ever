@@ -1,0 +1,57 @@
+{
+ "cand_id": "NL-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "The government's English translation and its page both title it 'Government-wide vision on generative AI of the Netherlands', so the new title is the government's own English title."
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "2024-01-18 is the date of the cover letter on rijksoverheid.nl; the report itself is listed as 01-01-2024 and the English letter is dated 17 January 2024. The extractor keeps the letter's date and flags the discrepancy."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "language": {
+   "verdict": "supported",
+   "why": "Dutch is the language of the official text; the English is a translation by the government, now recorded in english_version."
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "kind 'government translation' is right: the translation is published on government.nl by the government; the PDF url is a stored source."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Four principles: safe, equitable, human welfare and autonomy, sustainability and prosperity",
+   "verdict": "supported",
+   "locator": "Principles 1-4"
+  },
+  {
+   "claim": "Dependence on a few US technology companies; six action lines from 'Collaborate' to 'Strong and clear supervision and enforcement'",
+   "verdict": "supported",
+   "locator": "p. 13; table of contents"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The Dutch vision PDF cannot be stored (robots.txt on open.overheid.nl), so the summary was checked against the government's English translation, as the verification note says, and not against the Dutch original; the headings and structure of the Dutch rijksoverheid.nl page agree with it. Title, issuers and dates confirmed on rijksoverheid.nl pages. The April 2025 government position on generative AI use in government is a separate instrument, listed by the extractor as leads."
+}

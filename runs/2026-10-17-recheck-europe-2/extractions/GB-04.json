@@ -1,0 +1,229 @@
+{
+ "cand_id": "GB-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-04",
+ "record": {
+  "summary": "Government response to the consultation on the March 2023 AI regulation white paper. It keeps the five cross-sectoral principles for existing regulators on a non-statutory basis, sets up a central function in DSIT for cross-sectoral AI risk monitoring and regulator coordination, and plans targeted consultation on a cross-economy AI risk register. For highly capable general-purpose AI it relies for now on voluntary measures by developers and on testing of models before and after deployment, led by the AI Safety Institute, and sets out the case for future targeted binding requirements on their developers.",
+  "notes": "Presented to Parliament on 6 February 2024 as Command Paper CP 1019, in response to the consultation on the white paper of March 2023, which ran from 29 March to 21 June 2023 and received 409 responses. It asked a number of regulators to publish their strategic approach to AI by 30 April 2024, announced £10 million for regulators' AI capabilities and a steering committee of government and regulator representatives, and left a statutory duty on regulators to have due regard to the principles for after a review of an initial period of non-statutory implementation.",
+  "secondary_url": "https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals",
+  "verification": {
+   "note": "Stored and read in this run: the GOV.UK consultation outcome page with the full text of the response (snapshot of 11 Oct 2026, unchanged on 17 Oct), which gives the title, CP 1019, presentation to Parliament on 6 February 2024 and the passages behind the summary and notes; and the consultation page (stored 17 Oct 2026 and proposed as the new secondary source), which records 'Government response to consultation published' on 6 February 2024, the consultation period and 409 responses, with the response's web-ready and print-ready PDFs. The former secondary source was the white paper's publication page (GB-01's source), and the two PDFs linked from the response page are a November 2023 response to a different review and the white paper's March 2023 impact assessment. Version 1's notes on the Labour government's plans for frontier-AI legislation are not in a stored file and were removed (see open questions)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "page header",
+    "quote": "Consultation outcome A pro-innovation approach to AI regulation: government response",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-04/extra-e35b284d4a/2026-10-17/document-1.pdf",
+    "sha256": "fe75bfce48a6dbacdf9122ee04a34c9938ae430e62bf27749bf8a5ae461f5bc9",
+    "locator": "page 2",
+    "quote": "A pro-innovation approach to AI regulation: government response to consultation Presented to Parliament",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "front matter",
+    "quote": "Presented to Parliament by the Secretary of State for Science, Innovation and Technology by Command of His Majesty on 6 February 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-04/extra-e35b284d4a/2026-10-17/official.html",
+    "sha256": "613f1993387acaa754c9a469e1680029a8affcd5272b41d8eea01349a5f49730",
+    "locator": "Updates to this page",
+    "quote": "6 February 2024 Government response to consultation published.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "front matter",
+    "quote": "Command Paper: CP 1019",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-04/extra-e35b284d4a/2026-10-17/official.html",
+    "sha256": "613f1993387acaa754c9a469e1680029a8affcd5272b41d8eea01349a5f49730",
+    "locator": "Read the full outcome",
+    "quote": "A pro-innovation approach to AI regulation: government response Ref: ISBN 978-1-5286-4565-2, E03019481 02/24, CP 1019",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "page header",
+    "quote": "A pro-innovation approach to AI regulation: government response Updated 6 February 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-04/extra-e35b284d4a/2026-10-17/official.html",
+    "sha256": "613f1993387acaa754c9a469e1680029a8affcd5272b41d8eea01349a5f49730",
+    "locator": "page body",
+    "quote": "This consultation has concluded Read the full outcome A pro-innovation approach to AI regulation: government response",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "page header",
+    "quote": "Department for Science, Innovation & Technology Consultation outcome",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "section 5.1.1, paragraph 16",
+    "quote": "We think a non-statutory approach currently offers critical adaptability",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "In March 2023, we published our AI regulation white paper",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "The proposed framework outlined five cross-sectoral principles for the UK’s existing regulators to interpret and apply within their remits.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "section 5.1.2",
+    "quote": "We have recruited a new multidisciplinary team to undertake cross-sectoral risk monitoring within the Department for Science, Innovation and Technology (DSIT)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "We have already started developing the central function to support effective risk monitoring, regulator coordination, and knowledge exchange.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "We will conduct targeted consultations on our cross-economy AI risk register",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "section 5.2.2, paragraph 69",
+    "quote": "both before and after models are deployed. In the UK, the newly established AI Safety Institute (see Box 4) leads this work.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "Here we lay out a pro-innovation case for further targeted binding requirements on the small number of organisations developing highly capable general-purpose AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "voluntary measures on developers",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "We are asking a number of regulators to publish an update outlining their strategic approach to AI by 30 April 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "£10 million to jumpstart regulator’s AI capabilities",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "2. Executive summary",
+    "quote": "including a new steering committee with government and regulator representatives",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-04/2026-10-11/official.html",
+    "sha256": "81064ffdd5f8f18770a50e18b0e61e129570cf553058c93c5d3ac86891356fa5",
+    "locator": "section 6.2, paragraph 109",
+    "quote": "we anticipate introducing a statutory duty on regulators requiring them to have due regard to the principles after reviewing an initial period of non-statutory implementation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-04/extra-e35b284d4a/2026-10-17/official.html",
+    "sha256": "613f1993387acaa754c9a469e1680029a8affcd5272b41d8eea01349a5f49730",
+    "locator": "Original consultation",
+    "quote": "This consultation ran from 11am on 29 March 2023 to 11:45pm on 21 June 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-04/extra-e35b284d4a/2026-10-17/official.html",
+    "sha256": "613f1993387acaa754c9a469e1680029a8affcd5272b41d8eea01349a5f49730",
+    "locator": "Detail of feedback received",
+    "quote": "We received 409 responses to this consultation from a wide range of stakeholders",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "reworded closer to the stored text: non-statutory principles, the central function's risk monitoring in DSIT, consultation on (not keeping) a risk register, testing before and after deployment led by the AI Safety Institute",
+   "notes": "rewritten from the stored text (CP 1019, the consultation period and 409 responses, regulators' updates by 30 April 2024, £10 million, steering committee, statutory duty left for review); version 1's statements on the Labour government and the absence of an AI bill as of October 2026 rest on no stored file and were removed",
+   "secondary_url": "the former secondary source was the white paper's page (GB-01's official URL); the consultation page, now stored, lists this outcome as published on 6 February 2024",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "official_identifier",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding consultation response presented to Parliament on 6 February 2024; the response page and the consultation page (stored 17 Oct 2026) show no withdrawal and no update after that day, and GOV.UK marks both as published under the 2022 to 2024 Sunak government. 'Published (non-binding, current)' stands; whether a later government statement replaced it is not in a stored file (open question).",
+  "scope_reasoning": "UK government framework for AI regulation with frontier-AI safety content; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals",
+   "reason": "The consultation page that the stored response names as its parent (breadcrumb link): it lists the outcome with its publication date and any later updates, and is proposed as the record's secondary_url in place of the white paper's own page."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "Version 1's notes said that the Labour government elected in July 2024 signalled targeted frontier-AI legislation, that no government AI bill had been introduced as of October 2026 and that reports in 2025 said it had been deferred. No stored file supports these statements, so they were removed. Whether a later government statement or bill has replaced this response's approach needs an official source."
+ ]
+}

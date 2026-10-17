@@ -1,0 +1,266 @@
+{
+ "cand_id": "NL-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NL-01",
+ "record": {
+  "summary": "Draft Dutch act implementing the EU AI Act, put out for consultation on 20 April 2026. It would designate ten market surveillance authorities. Existing supervisors keep AI in their fields: RDI and ILT for critical infrastructure, AFM and DNB for financial institutions, product regulators (NVWA, NLA, ILT, RDI, IGJ) for regulated products, and the Procurator General at the Supreme Court and the chair of the Council of State's judicial division for courts. The Data Protection Authority (AP) covers most high-risk areas, the transparency duties and the prohibited practices. The RDI is the single point of contact, coordinating with the AP, and the authorities jointly run one AI regulatory sandbox.",
+  "safety_topics": [
+   "accountability & liability",
+   "risk-based classification",
+   "prohibited practices",
+   "transparency & labelling"
+  ],
+  "notes": "The internet consultation ran from 20 April to 1 June 2026. The State Secretary's letter to the House of the same day (Kamerstuk 22 112, nr. 4318) says that the cabinet accepted that the implementing act will probably enter into force later than the AI Act requires; that dates in the AI Act will probably shift as a result of the negotiations on the AI omnibus, whose changes are to be reflected in the bill where necessary and possible; and that after the consultation and the mandatory reviews an amended bill goes to the Council of Ministers and the Council of State before it can be submitted to the House. Under the proposal the Minister of Economic Affairs is the notifying authority for biometric systems, with RDI officials doing the work. The government published its list of fundamental-rights authorities in autumn 2024: the Netherlands Institute for Human Rights, the AP, the Procurator General at the Supreme Court, the chair of the Council of State's judicial division and the court boards of the Central Appeals Tribunal and the Trade and Industry Appeals Tribunal.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the record's official source, the internetconsultatie.nl page, cannot be stored because the site's robots.txt disallows automated downloads, and neither can the letter's PDF on open.overheid.nl. Stored and read: the Rijksoverheid news release of 20 April 2026 (stored 11 Oct 2026 as the record's secondary source), which confirms the consultation, its end date, the State Secretary and ministry and the roles of the AP and RDI; the rijksoverheid.nl page of the letter to the House of 20 April 2026 (stored 17 Oct 2026); and the letter itself, Kamerstuk 22 112, nr. 4318, on zoek.officielebekendmakingen.nl (stored 17 Oct 2026; not on the list of official sites, so its quotes count as secondary), which gives the ten authorities, the single point of contact, the sandbox, the notifying authority, the timetable and the fundamental-rights authorities. Version 1's mention of powers and penalties was not found in these files and was removed, as was the statement on the Commission's list of single points of contact. No later stage of the bill is shown in the stored files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, paragraph 1",
+    "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "De internetconsultatie over de uitvoeringswet AI-verordening, waarin deze inrichting wordt voorgesteld",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, paragraph 1",
+    "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "Hoort bij",
+    "quote": "Ministerie van Economische Zaken en Klimaat",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-53eb087cc1/2026-10-17/official.html",
+    "sha256": "ca3679ee3a9f88ebc4c6a67404bcf399d679b294964f4a55d86e20ddf803124f",
+    "locator": "page heading",
+    "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) informeert de Tweede Kamer over de wijze waarop het kabinet van plan is het toezicht op de naleving van de Europese AI-verordening vorm te geven.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release header",
+    "quote": "Kabinet zet stap met toezicht op Europese AI-regels Nieuwsbericht20-04-2026 | 16:00",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-53eb087cc1/2026-10-17/official.html",
+    "sha256": "ca3679ee3a9f88ebc4c6a67404bcf399d679b294964f4a55d86e20ddf803124f",
+    "locator": "page heading",
+    "quote": "Kamerbrief over toezicht op naleving AI-verordening Kamerstuk20-04-2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Den Haag, 20 april 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "Consultatie",
+    "quote": "Het wetsvoorstel is tot en met 1 juni 2026 (online) opengesteld voor consultatie.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Na verwerking van het advies van de Raad van State en wanneer het wetsvoorstel volledig van dekking is voorzien kan het bij uw Kamer worden ingediend.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, paragraph 1",
+    "quote": "heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Dit mondt uit in het kabinetsvoorstel om tien markttoezichtautoriteiten aan te wijzen voor het toezicht op de naleving van de AI-verordening.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Dit is het geval voor toezicht op AI in de kritieke infrastructuur (RDI en ILT), op AI voor financiële dienstverlening door financiële instellingen (AFM en DNB) en op AI in producten die onder bestaande productregelgeving vallen (NVWA, NLA, ILT, RDI en IGJ).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "parket bij de Hoge Raad in de rechtsbedeling wordt de procureur-generaal bij de Hoge Raad (PGHR) aangewezen, en voor het toezicht op die systemen die worden ontwikkeld en gebruikt door de Afdeling bestuursrechtspraak van de Raad van State (ABRvS) wordt de voorzitter van de ABRvS aangewezen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "wordt voorgesteld om de AP als markttoezichtautoriteit aan te wijzen. Dit gaat om een groot deel van de hoog-risico toepassingsgebieden, de transparantieverplichtingen en de verboden AI-praktijken.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Bijlage 1, Centraal contactpunt",
+    "quote": "aangewezen als centraal contactpunt (single point of contact) voor zowel de Commissie als binnen de lidstaat. Deze taak wordt bij de RDI belegd.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Bijlage 1, Centraal contactpunt",
+    "quote": "De RDI en de AP borgen samen de coördinatie tussen en samenwerking met alle betrokken toezichthouders.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Bijlage 1, NL Sandbox",
+    "quote": "In Nederland zullen de markttoezichtautoriteiten gezamenlijk één multisectorale NL sandbox inrichten",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, paragraph 1",
+    "quote": "heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "Consultatie",
+    "quote": "Het wetsvoorstel is tot en met 1 juni 2026 (online) opengesteld voor consultatie.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "header",
+    "quote": "22 112 Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie Nr. 4318 BRIEF VAN DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Hierbij heeft het kabinet de consequentie geaccepteerd dat de Nederlandse uitvoeringswet naar verwachting later in werking treedt dan momenteel wordt voorgeschreven vanuit de AI-verordening.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "naar achteren zullen schuiven in de tijd als gevolg van de onderhandelingen over de AI-omnibus.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "note 1",
+    "quote": "Waar nodig en mogelijk, zullen deze wijzigingen meegenomen worden in het wetsvoorstel.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Na ontvangst van alle reacties wordt een aangepaste versie van het wetsvoorstel en de bijhorende memorie van toelichting aan de ministerraad voorgelegd met het oog op aanbieding daarvan aan de Raad van State voor advies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Bijlage 1, Aanmeldende autoriteiten",
+    "quote": "Hiervoor wordt de Minister van Economische Zaken aangewezen als aanmeldende autoriteit. Voor het uitvoeren van deze werkzaamheden worden ambtenaren van de RDI aangewezen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Kamerstuk 22 112, nr. 4318",
+    "quote": "Tot slot moet elke lidstaat een lijst publiceren waarin staat welke autoriteiten op het grondgebied reeds opereren als grondrechtenautoriteiten. Dit heeft het kabinet in het najaar van 2024 gedaan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Bijlage 1, Grondrechtenautoriteiten",
+    "quote": "In Nederland zijn dit vooralsnog het College voor de Rechten van de Mens (CRM), de AP (vanuit het toezicht op het grondrecht op gegevensbescherming), de Procureur-generaal bij de Hoge Raad (PGHR),",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/NL-01/extra-85a474c383/2026-10-17/official.html",
+    "sha256": "bf90fc1577928ff35f0463de7004ec08d62b691f5235acdd3414927fbcc7237e",
+    "locator": "Bijlage 1, Grondrechtenautoriteiten",
+    "quote": "de voorzitter van de Afdeling Bestuursrechtspraak Raad van State (ABRvS), het gerechtsbestuur van de Centrale Raad van Beroep (CRvB) en het gerechtsbestuur van het College van Beroep voor het bedrijfsleven (CBb).",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored news release and the letter to the House (Kamerstuk 22 112, nr. 4318): the ten authorities and their fields, the AP's remit, the RDI as single point of contact and the joint sandbox; powers and penalties removed because no stored file mentions them",
+   "safety_topics": "'evaluation & testing' dropped: the joint sandbox is described as legal and technical advice, not testing",
+   "notes": "rewritten from the stored letter: timetable, late entry into force, AI omnibus, notifying authority and fundamental-rights authorities; the Commission's list of single points of contact removed (no stored file)",
+   "english_version": "the draft bill exists only in Dutch; no English text was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The draft bill was put out for internet consultation from 20 April to 1 June 2026. The letter of the same day says that after the consultation an amended bill goes to the Council of Ministers and the Council of State, and only then can it be submitted to the House. No stored file shows a later stage, so the bill remains 'Draft / proposed' on 17 October 2026.",
+  "scope_reasoning": "A draft national act implementing the EU AI Act's supervision; in scope with no note (pending bills are in)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "original_title ('Wetsvoorstel tot uitvoering van de verordening artificiële intelligentie (Uitvoeringswet AI-verordening)') is left as published but no stored file supports it: the consultation page and the draft bill on internetconsultatie.nl cannot be stored because the site's robots.txt disallows automated downloads. A person could provide the draft bill with the 'Provide a document' form.",
+  "The record's official source cannot be stored, and the stored letter comes from zoek.officielebekendmakingen.nl, which is not listed as an official host for NL, so the title and status rest on the rijksoverheid.nl news release stored as the secondary source and the record can reach level B at most. If a person records zoek.officielebekendmakingen.nl as official for NL, the letter would count as official evidence."
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "cand_id": "GB-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Keeps five cross-sectoral principles on a non-statutory basis; central function in DSIT for risk monitoring and coordination; targeted consultation on a cross-economy AI risk register.",
+   "verdict": "supported",
+   "locator": "Executive summary"
+  },
+  {
+   "claim": "Case for further targeted binding requirements on developers of highly capable general-purpose AI; relies on voluntary measures for now.",
+   "verdict": "supported",
+   "locator": "Executive summary"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GOV.UK consultation outcome page and PDFs confirm CP 1019, presentation on 6 Feb 2024, 409 responses and the consultation dates. The new secondary_url (the consultation page) is a stored official page. Notes from version 1 about Labour policy and a deferred bill were removed for lack of a stored source; one targeted search found no bill on an official site, and the extractor's open question stands."
+}

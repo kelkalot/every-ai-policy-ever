@@ -1,0 +1,55 @@
+{
+ "cand_id": "DK-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Digitaliseringsstyrelsen, Datatilsynet and Domstolsstyrelsen designated as national competent authorities (s. 2); Agency is notifying authority and single point of contact (s. 2(2)). Literal: 'The Agency for Digital Government, the Data Protection Agency and the Courts Administration are designated as national competent authorities'.",
+   "verdict": "supported",
+   "locator": "s. 2"
+  },
+  {
+   "claim": "Authorities may enter business premises without a court order and order a temporary ban if an AI system may pose a risk (ss. 6, 8(2)).",
+   "verdict": "supported",
+   "locator": "ss. 6, 8"
+  }
+ ],
+ "newer_versions": [
+  "Possible Danish bill introduced 18 Feb 2026 (per lovguiden.dk, not an official site) that would repeal LOV nr 467 af 14/05/2025; no official page found or stored, adoption unconfirmed. A later run should check ft.dk and retsinformation.dk."
+ ],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the stored retsinformation text (GÆLDENDE, LOV nr 467 af 14/05/2025; signed 14 May 2025; s. 12 entry into force 2 Aug 2025). Title, identifier, dates and the summary claims checked against the Danish text. One targeted search found third-party reports (lovguiden.dk) that a new Danish bill introduced on 18 Feb 2026 would repeal this Act and replace it with a fuller AI Act; I could not find the bill on an official site or confirm its adoption, and the stored retsinformation page of 17 Oct 2026 still shows the Act as in force, so the status stands. Recorded as a possible newer version for a later run."
+}

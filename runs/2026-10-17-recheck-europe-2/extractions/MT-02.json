@@ -1,0 +1,135 @@
+{
+ "cand_id": "MT-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MT-02",
+ "record": {
+  "date_last_updated": null,
+  "notes": "Made under article 33 of the Data Protection Act and published in Government Gazette No. 21,519 of 10 October 2025, together with Legal Notice 226 of 2025 (the Artificial Intelligence Regulations, 2025), under which the MDIA is the default market surveillance authority, single point of contact and notifying authority. Regulation 1(3) deferred regulations 5 to 7 and 9 to 12 (fundamental-rights authority, real-time and post-remote biometric identification, documentation, language requirements, registry, complaints) to 2 August 2026; the designations, the notified-body role and the penalty provisions are not deferred. The Commissioner acts as notified body for high-risk systems put into service by law-enforcement, immigration or asylum authorities and keeps a registry of the high-risk systems it supervises. Post-remote biometric identification needs a Magistrate's authorisation, requested ex ante or within 48 hours. Penalties on a public authority or body are capped at EUR 50,000 per infringement plus EUR 50 a day; appeals lie to the Information and Data Protection Appeals Tribunal, and proceedings are time-barred after two years.",
+  "verification": {
+   "note": "Stored and read in this run: the English text of the legal notice as published (legislation.mt PDF, 10 pages), which gives the title, the enabling power, the commencement rule in regulation 1(3) and regulations 2 to 13 but does not print the Gazette header; the Maltese text (legislation.mt PDF, 10 pages), whose first page carries the header 'Suppliment tal-Gazzetta tal-Gvern ta’ Malta Nru. 21,519, 10 ta’ Ottubru, 2025' and the same commencement rule; and the legislation.mt ELI page, stored again on 17 October 2026 (its legal content is unchanged; only the site's list of latest updates differs), which gives the Gazette number and date. The ELI page's metadata (in the stored HTML, not in its text) gives 10 October 2025 as first date of entry into force."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MT-02/2026-10-12/official.pdf",
+    "sha256": "98233f4153e210ce101cc5f402ad71ef9b1257a869e5fb6cf85a4862ce6952f4",
+    "locator": "page 1, heading",
+    "quote": "L.N. 227 of 2025 DATA PROTECTION ACT (CAP. 586) Artificial Intelligence (Designation of the Information and Data Protection Commissioner for the purposes of Regulation (EU) 2024/ 1689) Regulations, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MT-02/2026-10-17/secondary.html",
+    "sha256": "d679e2ae03c97c2953bcf107dce17ebe0072807be0629110a9dd8cb78830c127",
+    "locator": "title",
+    "quote": "227 of 2025 - Artificial Intelligence (Designation of the Information and Data Protection Commissioner for the purposes of Regulation (EU) 2024/1689) Regulations, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/MT-02/2026-10-12/official.pdf",
+    "sha256": "98233f4153e210ce101cc5f402ad71ef9b1257a869e5fb6cf85a4862ce6952f4",
+    "locator": "page 1, enacting formula",
+    "quote": "IN EXERCISE of the powers conferred by article 33 of the Data Protection Act, the Minister responsible for data protection af ter consultation with the Information and Data Protection Commissio ner, has made the following regulations",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/MT-02/2026-10-12/official.pdf",
+    "sha256": "98233f4153e210ce101cc5f402ad71ef9b1257a869e5fb6cf85a4862ce6952f4",
+    "locator": "page 1, heading",
+    "quote": "L.N. 227 of 2025 DATA PROTECTION ACT (CAP. 586)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/MT-02/extra-e6289d233a/2026-10-17/official.pdf",
+    "sha256": "73f3c1a905d25489ab55133cb753021eb73ad8453c459d2a565b2f671279583d",
+    "locator": "page 1, Maltese text, header",
+    "quote": "Suppliment tal-Gazzetta tal-Gvern ta’ Malta Nru. 21,519, 10 ta’ Ottubru, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/MT-02/extra-e6289d233a/2026-10-17/official.pdf",
+    "sha256": "73f3c1a905d25489ab55133cb753021eb73ad8453c459d2a565b2f671279583d",
+    "locator": "page 1, Maltese text, header",
+    "quote": "Suppliment tal-Gazzetta tal-Gvern ta’ Malta Nru. 21,519, 10 ta’ Ottubru, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MT-02/2026-10-17/secondary.html",
+    "sha256": "d679e2ae03c97c2953bcf107dce17ebe0072807be0629110a9dd8cb78830c127",
+    "locator": "title",
+    "quote": "Government Gazette of Malta No. 21,519 – 10.10.2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/MT-02/extra-e6289d233a/2026-10-17/official.pdf",
+    "sha256": "73f3c1a905d25489ab55133cb753021eb73ad8453c459d2a565b2f671279583d",
+    "locator": "page 1, Maltese text, header",
+    "quote": "Suppliment tal-Gazzetta tal-Gvern ta’ Malta Nru. 21,519, 10 ta’ Ottubru, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MT-02/2026-10-17/secondary.html",
+    "sha256": "d679e2ae03c97c2953bcf107dce17ebe0072807be0629110a9dd8cb78830c127",
+    "locator": "title",
+    "quote": "Government Gazette of Malta No. 21,519 – 10.10.2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/MT-02/2026-10-12/official.pdf",
+    "sha256": "98233f4153e210ce101cc5f402ad71ef9b1257a869e5fb6cf85a4862ce6952f4",
+    "locator": "page 1, regulation 1(3)",
+    "quote": "(3) Regulations 5 to 7 and 9 to 12 shall come into force on the 2nd August 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/MT-02/extra-e6289d233a/2026-10-17/official.pdf",
+    "sha256": "73f3c1a905d25489ab55133cb753021eb73ad8453c459d2a565b2f671279583d",
+    "locator": "page 1, Maltese text, regulation 1(3)",
+    "quote": "(3) Ir-regolamenti 5 sa 7 u 9 sa 12 għandhom jidħlu fis-seħħ fit-2 ta’ Awwissu 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/MT-02/2026-10-12/official.pdf",
+    "sha256": "98233f4153e210ce101cc5f402ad71ef9b1257a869e5fb6cf85a4862ce6952f4",
+    "locator": "page 2, regulation 3",
+    "quote": "The Commissioner shall be designated as the market surveillance authority for the purpose of Regulation (EU) 2024/1689 for the following high-risk AI systems",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "set to null: 2 August 2026 is the commencement of regulations 5 to 7 and 9 to 12 under regulation 1(3), a partial commencement that belongs in the notes, not an amendment or new version; no amending legal notice is shown",
+   "notes": "rewritten from the legal notice (regulations 1, 7, 8, 11 and 13 added: deferred provisions, post-remote biometric authorisation, notified body, registry, penalties, appeals and prescription)",
+   "verification.note": "rewritten for the files stored in this run; version 1 had not read regulations 7 to 12"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Published in Government Gazette Supplement No. 21,519 of 10 October 2025 (header of the Maltese text). Regulation 1(3) defers only regulations 5 to 7 and 9 to 12, to 2 August 2026; the designations (regulations 3 and 4), the notified-body role (8) and the penalties (13) carry no deferred date and took effect on publication (the ELI page's metadata gives 10 October 2025 as first date of entry into force). 2 August 2026 has passed (today 17 October 2026), so the whole instrument is in force.",
+  "scope_reasoning": "AI Act implementing regulations of a member state; in scope with no note."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

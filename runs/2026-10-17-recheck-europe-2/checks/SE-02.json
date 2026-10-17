@@ -1,0 +1,53 @@
+{
+ "cand_id": "SE-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "PTS, IMY, Finansinspektionen, Läkemedelsverket and Swedac are assigned as national competent authorities; PTS is single point of contact and must set up a sandbox. Literal: 'The Government gives PTS, the Authority for Privacy Protection, ... the task of being national competent authorities'.",
+   "verdict": "supported",
+   "locator": "pp. 1-2"
+  },
+  {
+   "claim": "The assignment runs until 31 December 2026.",
+   "verdict": "supported",
+   "locator": "p. 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Government decision III:50 of 4 Jun 2026 (Fi2026/01365) is stored and matches. 'In force' holds as the assignment runs to 31 Dec 2026, after today. Removal of the 'Commission list' sentence from the notes was right since no stored file supported it. No newer version found."
+}

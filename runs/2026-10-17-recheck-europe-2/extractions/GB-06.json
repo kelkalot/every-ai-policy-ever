@@ -1,0 +1,270 @@
+{
+ "cand_id": "GB-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-06",
+ "record": {
+  "summary": "A voluntary Code of Practice setting baseline cyber security requirements for AI systems, including generative AI, against AI-specific risks such as data poisoning, model obfuscation and indirect prompt injection. Its 13 principles span five lifecycle phases, from secure design to secure end of life, and assign provisions to developers, system operators and data custodians, among them capabilities for human oversight, security testing before release and deployment, monitoring of system behaviour, and incident management and recovery plans. It is meant as the basis of a global ETSI standard.",
+  "safety_topics": [
+   "evaluation & testing",
+   "human oversight",
+   "accountability & liability",
+   "transparency & labelling"
+  ],
+  "notes": "Published with an implementation guide that DSIT commissioned and that DSIT and NCSC officials reviewed. The Code is an addendum to the Software Code of Practice and builds on the NCSC's Guidelines for Secure AI Development of November 2023; 80% of respondents to DSIT's call for views, held from 15 May to 9 August 2024, endorsed the intervention. DSIT, with the NCSC, will submit the Code and the guide to ETSI as the basis for a new global standard (TS 104 223) and implementation guide (TR 104 128), and the government will update the Code to mirror the ETSI standard.",
+  "verification": {
+   "note": "Stored and read in this run: the Code's GOV.UK HTML text (published 31 January 2025; scope, audience, the 13 principles and their provisions) and the GOV.UK publication page (stored as the secondary source; DCMS and DSIT, published 31 January 2025 with no later update, the implementation guide and the ETSI plan). Snapshots of 11 Oct 2026, unchanged on 17 Oct. Whether ETSI has since published TS 104 223, and whether the Code was updated to mirror it, is not in a stored file; the publication page showed no update on 11 Oct 2026."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "page header",
+    "quote": "Guidance Code of Practice for the Cyber Security of AI Published 31 January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "page header",
+    "quote": "Code of Practice for the Cyber Security of AI Published 31 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/secondary.html",
+    "sha256": "ddab8ffb20dee5fb183e79cb83fdeaddef841bdc75c934e1c1729fd66f62bd2e",
+    "locator": "page header",
+    "quote": "Published: 31 January 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "page header",
+    "quote": "Code of Practice for the Cyber Security of AI Published 31 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/secondary.html",
+    "sha256": "ddab8ffb20dee5fb183e79cb83fdeaddef841bdc75c934e1c1729fd66f62bd2e",
+    "locator": "page header",
+    "quote": "Published: 31 January 2025 Get emails about this page Documents Code of Practice for the Cyber Security of AI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "page header",
+    "quote": "Department for Digital, Culture, Media & Sport Department for Science, Innovation & Technology Guidance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/secondary.html",
+    "sha256": "ddab8ffb20dee5fb183e79cb83fdeaddef841bdc75c934e1c1729fd66f62bd2e",
+    "locator": "page header",
+    "quote": "From: Department for Digital, Culture, Media and Sport, Department for Science, Innovation and Technology",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Scope",
+    "quote": "The scope of this voluntary Code of Practice is focused on AI systems.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Scope",
+    "quote": "This includes systems that incorporate deep neural networks, such as generative AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Introduction",
+    "quote": "These include security risks from data poisoning, model obfuscation, indirect prompt injection and operational differences associated with data management.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Scope",
+    "quote": "we have separated the principles into five phases. These are secure design, secure development, secure deployment, secure maintenance and secure end of life.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Structure of the voluntary Code of Practice",
+    "quote": "Principle 13: Ensure proper data and model disposal",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 4",
+    "quote": "4.1 When designing an AI system, Developers and/or System Operators should incorporate and maintain capabilities to enable human oversight.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 9",
+    "quote": "9.1 Developers shall ensure that all models, applications and systems that are released to System Operators and/or End-users have been tested as part of a security assessment process.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 9",
+    "quote": "9.2 System Operators shall conduct testing prior to the system being deployed with support from Developers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Structure of the voluntary Code of Practice",
+    "quote": "Principle 12: Monitor your system’s behaviour",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 6",
+    "quote": "6.5 Developers and System Operators shall create, test and maintain an AI system incident management plan and an AI system recovery plan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Introduction",
+    "quote": "This involves the development of a voluntary Code of Practice which will be used to help create a global standard in the European Telecommunication Standards Institute (ETSI)",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Structure of the voluntary Code of Practice",
+    "quote": "Principle 9: Conduct appropriate testing and evaluation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Structure of the voluntary Code of Practice",
+    "quote": "Principle 4: Enable human responsibility for AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 4",
+    "quote": "4.3 Where human oversight is a risk control, Developers and/or System Operators shall design, develop, verify and maintain technical measures to reduce the risk through such oversight.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 8",
+    "quote": "8.1 Developers shall document and maintain a clear audit trail of their system design and post-deployment maintenance plans. Developers should make the documentation available to the downstream System Operators and Data Custodians.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Principle 10",
+    "quote": "10.1 System Operators shall convey to End-users in an accessible way where and how their data will be used, accessed and stored",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-06/2026-10-11/secondary.html",
+    "sha256": "ddab8ffb20dee5fb183e79cb83fdeaddef841bdc75c934e1c1729fd66f62bd2e",
+    "locator": "Details",
+    "quote": "DSIT commissioned John Sotiropoulos, Senior Security Architect at Kainos and co-lead of the OWASP Top 10 for LLM Applications, to create this implementation guide. Each iteration was reviewed by DSIT and NCSC officials.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Introduction",
+    "quote": "AI stakeholders should view this document as an addendum to the Software Code of Practice.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Introduction",
+    "quote": "This document also builds on NCSC’s Guidelines for Secure AI Development which were published in November 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/official.html",
+    "sha256": "40888dd912eb090ddf65de325e278ab87bea4680afd406a59b49a19c976a06f3",
+    "locator": "Introduction",
+    "quote": "The proposed intervention was endorsed by 80% of respondents to the Department for Science, Innovation and Technology’s (DSIT) Call for Views which was held from 15 May to 9 August 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/secondary.html",
+    "sha256": "ddab8ffb20dee5fb183e79cb83fdeaddef841bdc75c934e1c1729fd66f62bd2e",
+    "locator": "Details",
+    "quote": "DSIT, in close collaboration with NCSC, will submit the Code and the implementation guide in the European Telecommunications Standards Institute (ETSI) where it will be used as the basis for a new global standard (TS 104 223) and accompanying implementation guide (TR 104 128).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-06/2026-10-11/secondary.html",
+    "sha256": "ddab8ffb20dee5fb183e79cb83fdeaddef841bdc75c934e1c1729fd66f62bd2e",
+    "locator": "Details",
+    "quote": "The Government will update the content of the Code and Guide to mirror the future ETSI global standard and guide.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "extended with the Code's own content (AI-specific risks, the stakeholder roles, human oversight, testing, monitoring, incident and recovery plans), so that the topics rest on the summary",
+   "safety_topics": "'critical infrastructure' dropped: the Code covers AI systems in any sector, and 'Secure your infrastructure' (Principle 6) means an organisation's own infrastructure (the 2026-10-11 quality check flagged this); 'evaluation & testing' (Principle 9), 'human oversight' (Principle 4) and 'transparency & labelling' (Principles 8 and 10) added; 'accountability & liability' kept (Principle 4, audit trails)",
+   "notes": "the sentence 'Whether the ETSI standard has since been published was not verified here' is research language and moved to verification.note; notes extended with the guide, the Software Code addendum, the NCSC guidelines, the call for views and the ETSI numbers",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Voluntary guidance published on 31 January 2025; the publication page stored on 11 Oct 2026 shows no update or withdrawal. The government said it would update the Code to mirror the future ETSI standard; no stored file shows that this has happened. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government voluntary code on the security of AI systems; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "ETSI TS 104 223, Securing Artificial Intelligence (SAI): baseline cyber security requirements for AI models and systems",
+   "url": null,
+   "seen_in": "archive/GB-06/2026-10-11/secondary.html (Details: 'a new global standard (TS 104 223) and accompanying implementation guide (TR 104 128)')",
+   "why": "The ETSI standard built on this Code, with its implementation guide TR 104 128; not in the register. Standards-body cell for ETSI; if ETSI has published it, a later version of the Code may also exist."
+  }
+ ],
+ "open_questions": [
+  "The government said it would update the Code and its implementation guide to mirror the ETSI standard TS 104 223. Whether ETSI has published the standard and whether the Code was revised is not in a stored file; the GOV.UK page showed no update on 11 Oct 2026."
+ ]
+}

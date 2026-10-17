@@ -1,0 +1,340 @@
+{
+ "cand_id": "IE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IE-01",
+ "record": {
+  "summary": "Ireland's law giving effect to the EU AI Act through a distributed model in which existing sectoral regulators act as market surveillance authorities. It establishes Oifig IS na hÉireann (the AI Office of Ireland) as an independent statutory body that coordinates them, acts as single point of contact and gives access to technical expertise. Market surveillance authorities get an enforcement toolkit running from compliance notices to prohibition, seizure, fines and prosecution, with independent adjudication and court oversight, and the Central Bank Act 1942 and the Competition and Consumer Protection Act 2014 are amended so that AI Act sanctions can be imposed.",
+  "notes": "Signed into law on 21 Jul 2026 as Act No. 31 of 2026, with 10 Parts, 139 sections and 4 schedules. S.I. No. 403 of 2026 brought the Act into operation on 31 Jul 2026, except paragraphs (a) and (e) of the definition of 'applicable market surveillance authority' in section 78, which name Coimisiún na Meán and the Data Protection Commission for the adjudication and administrative fines scheme of Part 6. S.I. No. 404 of 2026 appointed 31 Jul 2026 as the establishment day of Oifig IS na hÉireann, while the Department of Enterprise, Tourism and Employment's EU AI Act page gives 2 Aug 2026 as the date the AI Office was established. Paul Byrne, previously of the Medical Council, is the Office's first CEO, and its board has held its inaugural meeting. The government said further legislation, including amendments arising from the Digital Omnibus on AI, would be brought forward in autumn 2026. Nine public authorities identified under Article 77 of the AI Act have powers to access AI Act documentation from 2 Aug 2026; they are not competent authorities under the AI Act.",
+  "verification": {
+   "note": "Stored and read in this run: the Act as enacted (Irish Statute Book PDF, Number 31 of 2026), which gives the title, the number, the date of passing (21 July 2026), the enacting formula and section 1(2) (commencement by ministerial order); S.I. No. 403 of 2026, the Commencement Order (Irish Statute Book PDF), and the Department of Enterprise, Tourism and Employment's pages on the Act and on S.I. Nos. 403 and 404 of 2026; the AI Office of Ireland's news item on the Act and its CEO (aioffice.gov.ie); and the Department's EU AI Act page (stored as the secondary source). The text of S.I. No. 404 of 2026 itself was not requested; the establishment day rests on the Department's page about it."
+  },
+  "official_identifier": "No. 31 of 2026",
+  "date_in_force": "2026-07-31"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, section 1(1)",
+    "quote": "This Act may be cited as the Regulation of Artificial Intelligence Act 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "news item, paragraph 1",
+    "quote": "Regulation of Artificial Intelligence Act 2026, which was signed into law by President Connolly on the 21st of July.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, long title",
+    "quote": "and to provide for related matters. [21st July, 2026] Be it enacted by the Oireachtas as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "news item, paragraph 1",
+    "quote": "Regulation of Artificial Intelligence Act 2026, which was signed into law by President Connolly on the 21st of July.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-8482b54b03/2026-10-17/official.html",
+    "sha256": "3b317120e6136e972194684d17b37423c7da0380b7d3177fa330391b204a5dfa",
+    "locator": "legislation page",
+    "quote": "This Order appoints 31 July 2026 as the day on which the Regulation of Artificial Intelligence Act 2026 (No 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, comes into operation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-7b1d823166/2026-10-17/official.pdf",
+    "sha256": "c1a4385856c3bd0f58f29c53221dc57a402b41b918eb20c099de355a4f666cf5",
+    "locator": "page 2, Article 2",
+    "quote": "The 31st day of July 2026 is appointed as the day on which the Regulation of Artificial Intelligence Act 2026 (No. 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, shall come into operation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 64, section 78",
+    "quote": "“applicable market surveillance authority” means each of the following relevant market surveillance authorities: (a) Coimisiún na Meán;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 64, section 78",
+    "quote": "(e) the Data Protection Commission;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "The AI Office of Ireland",
+    "quote": "The establishment of the AI Office, subsequent to commencement of the Regulation of Artificial Intelligence Act 2026, is a key part of Ireland’s digital strategy.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, long title",
+    "quote": "and to provide for related matters. [21st July, 2026] Be it enacted by the Oireachtas as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 14, section 2(1)",
+    "quote": "“Minister” means the Minister for Enterprise, Tourism and Employment;",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, long title",
+    "quote": "and to provide for related matters. [21st July, 2026] Be it enacted by the Oireachtas as follows:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "The AI Office of Ireland",
+    "quote": "To meet Ireland’s obligations under the EU AI Act we have elected for a distributed model of regulation to leverage off Ireland’s existing regulatory experience.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "Key provisions of the Act",
+    "quote": "The establishment of Oifig IS na hÉireann (AI Office of Ireland) as an independent statutory entity.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "The AI Office of Ireland",
+    "quote": "Act as the Single Point of Contact for the EU AI Act for the European Commission, national sectoral regulators and the public;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "The AI Office of Ireland",
+    "quote": "Facilitate centralised access to technical expertise for other competent authorities, as required",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "Key provisions of the Act",
+    "quote": "Provides Market Surveillance Authorities (MSAs) with a structured, proportionate enforcement toolkit, progressing from cooperative compliance (notices) to coercive measures (prohibition, seizure) and ultimately formal sanctions (fines and prosecution)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "Key provisions of the Act",
+    "quote": "with independent adjudication and court oversight built into the system throughout",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "Key provisions of the Act",
+    "quote": "Amends the Central Bank Act 1942 and Competition and Consumer Protection Act 2014 to enable these to impose administrative sanctions for the purpose of the AI Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "news item, paragraph 1",
+    "quote": "giving effect in domestic law to pioneering AI regulation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, front page",
+    "quote": "Number 31 of 2026 REGULATION OF ARTIFICIAL INTELLIGENCE ACT 2026 An Act to provide for the establishment of a body to be known as Oifig IS na hÉireann",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, long title",
+    "quote": "and for that purpose to amend the Central Bank Act 1942, the Communications Regulation Act 2002, the Competition and Consumer Protection Act 2014 and the Freedom of Information Act",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, front page",
+    "quote": "Number 31 of 2026 REGULATION OF ARTIFICIAL INTELLIGENCE ACT 2026 An Act to provide for the establishment of a body to be known as Oifig IS na hÉireann",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-7b1d823166/2026-10-17/official.pdf",
+    "sha256": "c1a4385856c3bd0f58f29c53221dc57a402b41b918eb20c099de355a4f666cf5",
+    "locator": "page 2, Article 2",
+    "quote": "The 31st day of July 2026 is appointed as the day on which the Regulation of Artificial Intelligence Act 2026 (No. 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, shall come into operation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 64, section 78",
+    "quote": "“applicable market surveillance authority” means each of the following relevant market surveillance authorities: (a) Coimisiún na Meán;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 64, section 78",
+    "quote": "(e) the Data Protection Commission;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-848b037e7c/2026-10-17/official.html",
+    "sha256": "a1eee124931d8f6d105e5b68a659500dc77c9ab6c0b9f94210358dd8f8b2ba71",
+    "locator": "legislation page",
+    "quote": "This Order establishes that 31 July 2026 is appointed to be the establishment day for the purposes of the Regulation of Artificial Intelligence Act 2026 (No 31 of 2026).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 7, Part 6",
+    "quote": "ADJUDICA TION AND ADMINISTRA TIVE FINES",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "Key provisions of the Act",
+    "quote": "The Act is structured in 10 Parts with 139 Sections and 4 Schedules.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/secondary.html",
+    "sha256": "042c43d791d431d3d53cf45322a0b6b220e382c9b170e94b51980e072a4f871b",
+    "locator": "Single point of contact",
+    "quote": "The AI Office of Ireland was established on 2 August 2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "news item",
+    "quote": "Paul Byrne joins the AI Office of Ireland from the Medical Council of Ireland",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "News and updates",
+    "quote": "Board of the AI Office of Ireland meets for its inaugural meeting",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/official.html",
+    "sha256": "1ccec59b70e86f739baf4346b2e4c21dfb185a9cccc1d56881e893b785e950a8",
+    "locator": "Notes for editors",
+    "quote": "including amendments arising from the Digital Omnibus on AI and further legislation will be brought forward in the Autumn",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/secondary.html",
+    "sha256": "042c43d791d431d3d53cf45322a0b6b220e382c9b170e94b51980e072a4f871b",
+    "locator": "Public authorities which supervise or enforce obligations protecting fundamental rights",
+    "quote": "These authorities are not Competent Authorities for the AI Act, nor are any obligations, responsibilities or tasks assigned to them under the AI Act.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IE-01/2026-10-11/secondary.html",
+    "sha256": "042c43d791d431d3d53cf45322a0b6b220e382c9b170e94b51980e072a4f871b",
+    "locator": "Public authorities which supervise or enforce obligations protecting fundamental rights",
+    "quote": "These powers will apply from 2 August 2026.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, front page",
+    "quote": "Number 31 of 2026 REGULATION OF ARTIFICIAL INTELLIGENCE ACT 2026 An Act to provide for the establishment of a body to be known as Oifig IS na hÉireann",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-7b1d823166/2026-10-17/official.pdf",
+    "sha256": "c1a4385856c3bd0f58f29c53221dc57a402b41b918eb20c099de355a4f666cf5",
+    "locator": "page 2, Article 2",
+    "quote": "Regulation of Artificial Intelligence Act 2026 (No. 31 of 2026)",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-7b1d823166/2026-10-17/official.pdf",
+    "sha256": "c1a4385856c3bd0f58f29c53221dc57a402b41b918eb20c099de355a4f666cf5",
+    "locator": "page 2, Article 2",
+    "quote": "The 31st day of July 2026 is appointed as the day on which the Regulation of Artificial Intelligence Act 2026 (No. 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, shall come into operation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-8482b54b03/2026-10-17/official.html",
+    "sha256": "3b317120e6136e972194684d17b37423c7da0380b7d3177fa330391b204a5dfa",
+    "locator": "legislation page",
+    "quote": "This Order appoints 31 July 2026 as the day on which the Regulation of Artificial Intelligence Act 2026 (No 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, comes into operation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IE-01/extra-4d9b48787c/2026-10-17/official.pdf",
+    "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+    "locator": "page 13, section 1(2)",
+    "quote": "This Act shall come into operation on such day or days as the Minister may by order",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "set from the stored Act: Number 31 of 2026",
+   "date_in_force": "changed from 2026-08-02 to 2026-07-31: S.I. No. 403 of 2026 brings the Act into operation on 31 July 2026; 2 Aug 2026 was the Department's date for the AI Office's establishment, not the Act's commencement",
+   "summary": "expanded from the stored news item: adds the enforcement toolkit and the amendments to the Central Bank Act 1942 and the Competition and Consumer Protection Act 2014 (the long title also lists the Communications Regulation Act 2002 and the Freedom of Information Act 2014)",
+   "notes": "the remark that the Act number and commencement were not verified is research-process language and is gone; the board meeting date (8 Sep 2026) was removed because no stored file gives it; the commencement order, the uncommenced paragraphs of section 78, the establishment-day order and its difference from the Department's 2 Aug 2026 date were added",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Passed on 21 Jul 2026. Section 1(2) leaves commencement to ministerial orders. S.I. No. 403 of 2026, given on 31 Jul 2026, brings the whole Act into operation on 31 Jul 2026 except paragraphs (a) and (e) of the definition of 'applicable market surveillance authority' in section 78 (Coimisiún na Meán and the Data Protection Commission). No stored file shows a later order commencing those paragraphs, so on 17 Oct 2026 the Act is in force except for them: 'Partially in force' stands, now on the evidence of the order.",
+  "scope_reasoning": "A national law implementing the AI Act's governance and enforcement provisions; clearly in scope, no scope_note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The establishment day of the AI Office: S.I. No. 404 of 2026 appoints 31 Jul 2026 (per the Department's page on the order), while the Department's EU AI Act page says the Office was established on 2 Aug 2026. The record's date_in_force follows the Act's commencement order (31 Jul 2026); the notes give both dates for the Office.",
+  "Whether a later order has commenced paragraphs (a) and (e) of the definition in section 78; none is among the stored files. If one has, the status becomes 'In force'."
+ ]
+}

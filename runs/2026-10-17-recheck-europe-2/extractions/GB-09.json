@@ -1,0 +1,447 @@
+{
+ "cand_id": "GB-09",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-09",
+ "record": {
+  "issuing_body": "UK Parliament",
+  "official_identifier": "2026 c. 20 (ss. 72-74, 99, 111-112, 248-249)",
+  "date_last_updated": null,
+  "summary": "Creates offences of making or adapting a thing for creating child sexual abuse images and of possessing or supplying such a 'CSA image-generator', where a thing includes a program or service such as an AI model optimised to produce such images (ss.72-74, up to 5 years), and lets the Secretary of State provide a defence for authorised technology testing (s.111). It makes it an offence to make, adapt or supply a generator of purported intimate images (s.99, up to 3 years) and gives the Secretary of State power to amend the Online Safety Act 2023 to place illegal-content duties on providers of AI services and extend Ofcom's functions to them (s.248).",
+  "notes": "Royal Assent on 29 April 2026. Sections 248 and 249, in Part 17, came into force on Royal Assent; s.248 inserts s.216A into the Online Safety Act 2023, which takes effect only through regulations, and s.249 requires the Secretary of State to report to Parliament by 31 December 2026 on progress towards them unless a draft of the regulations is laid first. Sections 111 and 112 came into force on 29 June 2026, at the end of the two months beginning with Royal Assent. Section 99 came into force on 29 June 2026 under the Crime and Policing Act 2026 (Commencement No.1 and Saving Provision) Regulations 2026 (SI 2026/689, made 25 June 2026). Sections 72 to 74 were not in force at Royal Assent and are still prospective: s.72 needs regulations of the Secretary of State, s.73 so far as it extends to Northern Ireland an order of the Department of Justice there, and s.74 so far as it extends to Scotland regulations of the Scottish Ministers. Section 75 extends the offence of possessing a 'paedophile manual' (s.69 Serious Crime Act 2015) to advice or guidance about creating CSA images, which the Home Office ties to AI-generated imagery. Only the AI-related parts of this large criminal justice Act are recorded here.",
+  "scope_note": "Not an AI-specific law: a broad criminal justice Act. Included for its AI provisions, the offences on CSA image-generators and purported intimate image generators and the power to extend the Online Safety Act 2023 to AI services; only those parts are recorded.",
+  "verification": {
+   "note": "Stored and read in this run: the legislation.gov.uk table of contents (new snapshot of 17 Oct 2026, in which only the 'up to date' line changed since 11 Oct), the King's Printer PDF of the Act as enacted (Royal Assent on 29 April 2026, the enacting formula, ss.72-75, 99, 111-112, 248-249 and the commencement rules in s.255) and the Home Office factsheet on child sexual abuse material (stored as the secondary source; updated 30 September 2026); and, stored 17 Oct 2026, the revised pages of ss.72, 73, 74, 99, 111 and 248 with their commencement annotations, and SI 2026/689 (made 25 June 2026; a correction slip of 14 October 2026 is listed). Sections 112 and 249 have no stored page of their own; their commencement follows from s.255(3)(c) and s.255(2)(k), as the pages of ss.111 and 248 show for those sections."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 17",
+    "quote": "c. 20 CHARLES III Crime and Policing Act 2026 2026 CHAPTER 20",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-17/official.html",
+    "sha256": "8744782153e590f6b1a1ea29cd4a1b7c202daf28e569586350d774d56774610c",
+    "locator": "Changes to legislation",
+    "quote": "Crime and Policing Act 2026 is up to date with all changes known to be in force on or before 17 October 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 17",
+    "quote": "about the criminal liability of bodies; and for connected purposes. [29th April 2026]",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 17",
+    "quote": "[29th April 2026]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 345",
+    "quote": "(2) The following provisions come into force on the day on which this Act is passed—",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 345",
+    "quote": "(k) this Part except sections 246, 247 and 250.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-480e8453a1/2026-10-17/official.html",
+    "sha256": "704b7c2a8b51245f316375541148c050ec3800cf2ddff9ad9f65b21b3591a9ee",
+    "locator": "Commencement Information",
+    "quote": "I1S. 248 in force at Royal Assent, see s. 255(2)(k)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 345",
+    "quote": "(1) Subject as follows, this Act comes into force on such day as the Secretary of State may by regulations appoint.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 345",
+    "quote": "(k) this Part except sections 246, 247 and 250.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-17/official.html",
+    "sha256": "8744782153e590f6b1a1ea29cd4a1b7c202daf28e569586350d774d56774610c",
+    "locator": "Changes to legislation",
+    "quote": "There are changes that may be brought into force at a future date.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-0def923bd5/2026-10-17/official.html",
+    "sha256": "2da79466b5b5e81251f4dbc6753101be974dd7786559c836bf3872791cbfe215",
+    "locator": "What Version",
+    "quote": "This version of this provision is prospective.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-0def923bd5/2026-10-17/official.html",
+    "sha256": "2da79466b5b5e81251f4dbc6753101be974dd7786559c836bf3872791cbfe215",
+    "locator": "Commencement Information",
+    "quote": "I1S. 72 not in force at Royal Assent, see s. 255(1)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-cb0d6ffdef/2026-10-17/official.html",
+    "sha256": "5bb42a79fd65c03afe254294cbeaabb2c1406ad0c899d26ad9f6b472d2fe54ec",
+    "locator": "Commencement Information",
+    "quote": "I2S. 99 in force at 29.6.2026 by S.I. 2026/689, reg. 2(1)(i)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-480e8453a1/2026-10-17/official.html",
+    "sha256": "704b7c2a8b51245f316375541148c050ec3800cf2ddff9ad9f65b21b3591a9ee",
+    "locator": "Commencement Information",
+    "quote": "I1S. 248 in force at Royal Assent, see s. 255(2)(k)",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GB-09/2026-10-17/official.html",
+    "sha256": "8744782153e590f6b1a1ea29cd4a1b7c202daf28e569586350d774d56774610c",
+    "locator": "breadcrumb",
+    "quote": "UK Public General Acts 2026 c. 20 Table of contents",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-17/official.html",
+    "sha256": "8744782153e590f6b1a1ea29cd4a1b7c202daf28e569586350d774d56774610c",
+    "locator": "Table of contents",
+    "quote": "72.Child sexual abuse image-generators: England and Wales",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-17/official.html",
+    "sha256": "8744782153e590f6b1a1ea29cd4a1b7c202daf28e569586350d774d56774610c",
+    "locator": "Table of contents",
+    "quote": "99.Purported intimate image generators",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-17/official.html",
+    "sha256": "8744782153e590f6b1a1ea29cd4a1b7c202daf28e569586350d774d56774610c",
+    "locator": "Table of contents",
+    "quote": "248.Power to amend Online Safety Act 2023: AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 8",
+    "quote": "111 Obscenity etc offences: technology testing defence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 14",
+    "quote": "249 Section 248: duty to make progress report",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 17",
+    "quote": "by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 117",
+    "quote": "(1) It is an offence for a person— (a) to make or adapt a thing for use for creating, or facilitating the creation of, CSA images;",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 117",
+    "quote": "(b) to possess, supply or offer to supply a thing (a “CSA image-generator”) which is made or adapted for use for creating, or facilitating the creation of, CSA images.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 111",
+    "quote": "on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 118",
+    "quote": "“thing” includes a program, information in electronic form and a service.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/secondary.html",
+    "sha256": "fde719330ad7b1f2c38046e824fcb250827d717f7bcccd1bbc5610936b6d1d47",
+    "locator": "What are we going to do?",
+    "quote": "Introduce a new criminal offence that criminalises AI models that have been optimised to create CSAM.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 176",
+    "quote": "(1) The Secretary of State may by regulations provide defences to relevant offences for persons who are authorised by the Secretary of State to carry out technology testing activities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 151",
+    "quote": "for use as a generator of purported intimate images.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 151",
+    "quote": "on conviction on indictment, to imprisonment for a term not exceeding 3 years or a fine (or both).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 334",
+    "quote": "the Secretary of State may by regulations amend any provision of this Act for or in connection with the purposes of minimising or mitigating the risks of harm to individuals in the United Kingdom presented by— (a) illegal AI-generated content;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 334",
+    "quote": "securing that any or all of the duties set out in subsection (4) are imposed on providers of AI services in relation to— (a) illegal AI-generated content;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 335",
+    "quote": "that functions conferred on OFCOM in relation to regulated services under the following provisions, or functions corresponding or similar to those functions, are conferred on OFCOM in relation to AI services",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 346",
+    "quote": "(g) section 73 so far as extending to Northern Ireland;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 346",
+    "quote": "(d) sections 74 and 76, so far as extending to Scotland;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 345",
+    "quote": "(3) The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed—",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 345",
+    "quote": "(c) sections 108 to 112;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 338",
+    "quote": "(1) The Secretary of State must, no later than 31 December 2026, lay before Parliament a report about the progress that has been made towards making regulations under section 216A of the Online Safety Act 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 338",
+    "quote": "(2) Subsection (1) does not apply if a draft of a statutory instrument containing regulations under that section is laid before Parliament before 31 December 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/document-2.pdf",
+    "sha256": "b246e1adef59161c740a395696404623c9836213a8f159ade5fdfa74b4bc7b75",
+    "locator": "page 128",
+    "quote": "(1) Section 69 of the Serious Crime Act 2015 (possession of paedophile manual) is amended as follows.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GB-09/2026-10-11/secondary.html",
+    "sha256": "fde719330ad7b1f2c38046e824fcb250827d717f7bcccd1bbc5610936b6d1d47",
+    "locator": "What are we going to do?",
+    "quote": "Update the existing law criminalising ‘paedophile manuals’ to cover Artificially Generated (AI) CSAM",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-480e8453a1/2026-10-17/official.html",
+    "sha256": "704b7c2a8b51245f316375541148c050ec3800cf2ddff9ad9f65b21b3591a9ee",
+    "locator": "Commencement Information",
+    "quote": "I1S. 248 in force at Royal Assent, see s. 255(2)(k)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-3f24f7dfa1/2026-10-17/official.html",
+    "sha256": "50bf3841f56d3734718a616ed49b512157c18c08fadd83eac0499171379f11c2",
+    "locator": "Commencement Information",
+    "quote": "I1S. 111 in force at 29.6.2026, see s. 255(3)(c)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-cb0d6ffdef/2026-10-17/official.html",
+    "sha256": "5bb42a79fd65c03afe254294cbeaabb2c1406ad0c899d26ad9f6b472d2fe54ec",
+    "locator": "Commencement Information",
+    "quote": "I2S. 99 in force at 29.6.2026 by S.I. 2026/689, reg. 2(1)(i)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-0279ffc2fe/2026-10-17/official.html",
+    "sha256": "f42f0e8ec95301b3cf4478a347562b6ea03f29e483b9ce57f218e13008786ca1",
+    "locator": "heading",
+    "quote": "The Crime and Policing Act 2026 (Commencement No.1 and Saving Provision) Regulations 2026 Made 25th June 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-0279ffc2fe/2026-10-17/official.html",
+    "sha256": "f42f0e8ec95301b3cf4478a347562b6ea03f29e483b9ce57f218e13008786ca1",
+    "locator": "regulation 2(1)",
+    "quote": "(i)section 99 (purported intimate image generators);",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-0def923bd5/2026-10-17/official.html",
+    "sha256": "2da79466b5b5e81251f4dbc6753101be974dd7786559c836bf3872791cbfe215",
+    "locator": "Changes to legislation",
+    "quote": "There are currently no known outstanding effects for the Crime and Policing Act 2026, Section 72.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-0def923bd5/2026-10-17/official.html",
+    "sha256": "2da79466b5b5e81251f4dbc6753101be974dd7786559c836bf3872791cbfe215",
+    "locator": "Commencement Information",
+    "quote": "I1S. 72 not in force at Royal Assent, see s. 255(1)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-5a04920567/2026-10-17/official.html",
+    "sha256": "2a2b59f4a24daf0997c0261e2ee76c10c34eb6234aa4734c764d5fd9be1a49a8",
+    "locator": "What Version",
+    "quote": "This version of this provision is prospective.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-5a04920567/2026-10-17/official.html",
+    "sha256": "2a2b59f4a24daf0997c0261e2ee76c10c34eb6234aa4734c764d5fd9be1a49a8",
+    "locator": "Commencement Information",
+    "quote": "I1S. 73 not in force at Royal Assent, see s. 255(1)(8)(g)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-f039bd072a/2026-10-17/official.html",
+    "sha256": "13e9bc4ad6e2bdd8de25a5cd38232d98268169d393c49d92aac0fa3b4de76f9e",
+    "locator": "What Version",
+    "quote": "This version of this provision is prospective.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-09/extra-f039bd072a/2026-10-17/official.html",
+    "sha256": "13e9bc4ad6e2bdd8de25a5cd38232d98268169d393c49d92aac0fa3b4de76f9e",
+    "locator": "Commencement Information",
+    "quote": "I1S. 74 not in force at Royal Assent, see s. 255(1)(10)(d)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the enacting formula names Parliament; the sponsoring department is not shown in the stored Act, and GB-08 uses 'UK Parliament'",
+   "official_identifier": "ss.111-112 (technology testing defence, which the summary covers) and s.249 (progress report on the s.248 regulations) added to the sections recorded",
+   "date_last_updated": "2026-06-29 was a commencement date, not an amendment; partial commencements go in the notes (AGENTS.md section 5.6), and no amendment of the Act is shown",
+   "summary": "the testing defence attributed to s.111 (a power to provide defences by regulations), the s.248 power described as the Act words it",
+   "notes": "commencement now from the stored section pages and SI 2026/689: ss.248-249 at Royal Assent, ss.111-112 and s.99 on 29 June 2026, ss.72-74 still prospective (as version 1 had it); s.249's 31 December 2026 report duty added; the paedophile-manual sentence reworded to the Act and the factsheet",
+   "scope_note": "added: the Act is a broad criminal justice Act whose AI provisions are recorded (compare US-FL-07)",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Royal Assent 29 April 2026. Sections 248 and 249 came into force that day (s.255(2)(k); annotation on the s.248 page); ss.111 and 112 on 29 June 2026 (s.255(3)(c): the two months beginning with 29 April end on 28 June, and the s.111 page says 'in force at 29.6.2026'); s.99 on 29 June 2026 by SI 2026/689 reg. 2(1)(i). Sections 72-74 are prospective on 17 October 2026, with no outstanding commencement effects recorded. With some recorded provisions in force and others not, 'Partially in force' stands; date_in_force stays at Royal Assent, when ss.248-249 took effect.",
+  "scope_reasoning": "A broad criminal justice Act; its AI provisions (s.248 names AI services, the image-generator offences target AI models) are in scope, with a scope_note as for other non-AI-specific operative laws."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2026/20/section/72",
+   "reason": "Revised section page with commencement annotations: whether s.72 (CSA image-generators, England and Wales) is in force (version 1: prospective)."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2026/20/section/73",
+   "reason": "Commencement annotations for s.73 (Northern Ireland, by Department of Justice order)."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2026/20/section/74",
+   "reason": "Commencement annotations for s.74 (Scotland, by regulations of the Scottish Ministers)."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2026/20/section/99",
+   "reason": "Commencement annotations for s.99 (purported intimate image generators; version 1: in force 29 June 2026 by SI 2026/689)."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2026/20/section/111",
+   "reason": "Commencement annotation for s.111 (technology testing defence), to confirm the 29 June 2026 date computed from s.255(3)(c)."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/ukpga/2026/20/section/248",
+   "reason": "Commencement annotation for s.248 (power to amend the Online Safety Act 2023: AI)."
+  },
+  {
+   "url": "https://www.legislation.gov.uk/uksi/2026/689/made",
+   "reason": "The commencement regulations that version 1 cited for s.99 (SI 2026/689); to confirm which provisions it commenced and when."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

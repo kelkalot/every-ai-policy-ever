@@ -1,0 +1,50 @@
+{
+ "cand_id": "GB-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Five cross-sectoral principles issued on a non-statutory basis, with a statutory duty on regulators anticipated later (white paper p. 12).",
+   "verdict": "supported",
+   "locator": "p. 12"
+  },
+  {
+   "claim": "Central functions including horizon scanning and risk monitoring (p. 45); section 3.3.3 on foundation models.",
+   "verdict": "supported",
+   "locator": "pp. 45, 62"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GOV.UK page and PDF confirm CP 815, 29 Mar 2023, last updated 3 Aug 2023 (Annex C correction slip of 4 Jul 2023). The title is the document's own title; the GOV.UK page title differs in word order, and either is official. The page is marked as published under the previous government but carries no withdrawal; the 2024 response is the related record GB-04. No official newer edition found."
+}

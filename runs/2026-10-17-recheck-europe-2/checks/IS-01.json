@@ -1,0 +1,56 @@
+{
+ "cand_id": "IS-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported",
+   "why": "Imprint of the Icelandic PDF: 'Aðgerðaáætlun um gervigreind 2025-2027, Júlí 2025'; the title matches character by character."
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "judgment-differs",
+   "why": "The ISBN is that of the English edition; the Icelandic edition has its own ISBN (978-9935-570-03-1). The extractor leaves the English edition's and asks."
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "The English edition carries the ministry's imprint and its own ISBN and does not call itself a translation, so 'authentic' (one of the issuer's own texts) is acceptable; the url is a stored source."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Twenty numbered actions in five pillars (table of contents lists actions 1 to 20 under five headings)",
+   "verdict": "supported",
+   "locator": "Table of Contents; page 9, Foundations"
+  },
+  {
+   "claim": "Action 2: assessing adaptations arising from incorporating the EU AI Act through the EEA and preparing a bill (Spring 2026); Action 5 on democratic debate; Action 16 on public-sector standards (Spring 2027)",
+   "verdict": "supported",
+   "locator": "pages 13, 16, 31"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "National AI action plan whose main focus is benefit, business, education, public services and health; its safety-governance content is Action 2 (AI Act incorporation), Action 5 (democratic debate, information disorder) and Action 16 (safe public-sector use). Included with a scope note."
+ },
+ "overall": "accept",
+ "note": "English and Icelandic plan PDFs and both ministry news items stored; the Icelandic title, July 2025, issuer and the two ISBNs confirmed. The English text letter-spaces in extraction, so script quotes match only with spacing ignored; the claims check out. EEA-Lex (efta.int, not an official-sites host) shows the AI Act still under scrutiny for incorporation. Extractor lists a 9 October 2026 working-group report as a lead; it is not a newer edition of this plan."
+}

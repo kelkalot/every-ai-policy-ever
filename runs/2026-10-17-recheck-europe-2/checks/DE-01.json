@@ -1,0 +1,58 @@
+{
+ "cand_id": "DE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "Enacting formula 'Der Bundestag hat das folgende Gesetz beschlossen' and the gesetze-im-internet footnote support Bundestag; Article 5 and the Bundesrat decision of 10 July 2026 (no mediation request) show the Bundesrat's rights were preserved."
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English text is listed on gesetze-im-internet.de; 'none found' is acceptable."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Bundesnetzagentur is the competent market surveillance authority (§ 2 Abs. 1), central contact point (§ 6 Abs. 1) and central complaints office (§ 8 Abs. 1). Literal translation of § 2 Abs. 1: 'The Federal Network Agency is the market surveillance authority responsible for compliance with Regulation (EU) 2024/1689, unless this Act provides otherwise.'",
+   "verdict": "supported",
+   "locator": "§§ 2, 6, 8"
+  },
+  {
+   "claim": "Independent AI market surveillance chamber at the Bundesnetzagentur for biometric and similar systems used for law enforcement, border management, justice and democracy; BaFin for AI linked to regulated financial activities",
+   "verdict": "supported",
+   "locator": "§ 2 Abs. 3 and 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Gesetze-im-internet text and the promulgated Bundesgesetzblatt issue (28 July 2026, No. 223) confirm title, signature 22 July 2026, Fundstelle and entry into force on 29 July 2026 (Article 5, day after promulgation). Issuing body now reads 'German Bundestag'; the act was passed without a Bundesrat consent requirement, which the Bundesrat decision of 10 July 2026 supports. recht.bund.de is not on the official-sites list, so those quotes count as secondary; the level stays A through gesetze-im-internet.de. A search found no amendment of the KI-MIG."
+}

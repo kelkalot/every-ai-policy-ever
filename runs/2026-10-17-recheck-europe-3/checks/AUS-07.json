@@ -1,0 +1,51 @@
+{
+ "cand_id": "AUS-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "judgment-differs",
+   "why": "'to become operational in early 2026' is stale: the Institute's own page now shows it operating; wording could be past tense. Defensible as describing the announcement."
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "monitor, test and share information on emerging AI technologies, risks and harms",
+   "verdict": "supported",
+   "locator": "news item"
+  },
+  {
+   "claim": "will not be a regulator; funding 29.8m over 4 years",
+   "verdict": "supported",
+   "locator": "Government response, Part 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Announcement date 25 Nov 2025 and DISR membership confirmed. Only wording issue is the tense in the summary."
+}

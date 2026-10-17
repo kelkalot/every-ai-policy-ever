@@ -1,0 +1,53 @@
+{
+ "cand_id": "AZ-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Priority direction 6.1.1 on AI governance with measure 6.1.1.2.3 normative legal framework for responsible and ethical AI",
+   "verdict": "supported",
+   "locator": "page 11"
+  },
+  {
+   "claim": "Goals 5.1.10 and 5.1.13 on responsible use and national and information security",
+   "verdict": "supported",
+   "locator": "page 10"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "The extractor's scope note is appropriate."
+ },
+ "overall": "accept",
+ "note": "Presidential order page and strategy PDF confirm title, date and signature; the order number 530 appears in the stored Cabinet orders No. 253s and No. 226 (alt-official), so the identifier is supported. Summary claims match goals 5.1.x and priority direction 6.1.1. Scope note added by the extractor is reasonable (strategy mainly about industry and skills)."
+}

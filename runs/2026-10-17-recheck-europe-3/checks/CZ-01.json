@@ -1,0 +1,50 @@
+{
+ "cand_id": "CZ-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "ČTÚ, ČNB and ÚOOÚ as market surveillance authorities",
+   "verdict": "supported",
+   "locator": "ČTÚ report page 41; Lupa.cz 29 Sep 2025 (secondary)"
+  },
+  {
+   "claim": "inter-ministerial comment procedure not completed by end of 2025",
+   "verdict": "supported",
+   "locator": "ČTÚ report page 75"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Level C rests on secondary sources plus the ČTÚ annual report (alt-official), which confirms title wording, preparing ministry, unfinished comment procedure and Resolution 394. The stage after 2025 is unknown (no newer official page found). Needs a human or a provided copy of the ministry release for date_published."
+}

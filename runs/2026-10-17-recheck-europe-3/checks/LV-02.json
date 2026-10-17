@@ -1,0 +1,50 @@
+{
+ "cand_id": "LV-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "VARAM responsible for the AI Act as a whole; Ombudsman as fundamental-rights authority; State Data Inspectorate and Bank of Latvia market surveillance",
+   "verdict": "supported",
+   "locator": "VARAM release of 25 Feb 2025"
+  },
+  {
+   "claim": "The report identifies needed legal changes and possible additional resources",
+   "verdict": "supported",
+   "locator": "VARAM release of 25 Feb 2025"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Summary rests on VARAM's press release in English and Latvian (official), not on the report itself, which is not stored; the claims match the release. The original title is now confirmed by the Latvian text. official_identifier stays null."
+}

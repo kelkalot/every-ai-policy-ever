@@ -1,0 +1,237 @@
+{
+ "cand_id": "LV-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "LV-01",
+ "record": {
+  "official_identifier": "Latvijas Vēstnesis 2025/55.1 (19.03.2025)",
+  "notes": "Adopted by the Saeima on 6 March 2025, promulgated on 19 March 2025 and in force from 20 March 2025, the day after promulgation. The centre had to be founded by 31 March 2025, the Cabinet's rules on the sandbox and on data processing in it were due by 31 May 2025, and the task of giving opinions on AI and deepfakes in elections applies from 1 June 2026. The council has nine members: one each from the Ministry of Smart Administration and Regional Development (VARAM), the Ministry of Economics and the Ministry of Defence, and members nominated by the private sector and the universities; the Saeima named the Latvian Information and Communication Technology Association and the Latvian Universities Association as the private and academic founders. VARAM supervises the centre's delegated public tasks. An amending law of 14 May 2026, in force from 1 June 2026, deleted Article 7(5). The law does not refer to Regulation (EU) 2024/1689; Latvia's AI Act authorities are set out in the Cabinet's 2025 implementation report (LV-02).",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the consolidated text on likumi.lv (version in force from 1 June 2026, stored 12 Oct 2026) and the Saeima press release of 7 March 2025 (stored again 17 Oct 2026; only the page furniture changed). likumi.lv confirms the title, adoption, promulgation, entry into force, the publication reference, the amendment of 14 May 2026 and the content of Articles 1 to 9 and the transitional provisions; the Saeima release confirms the founding members. Stored in this run: the State Language Centre's English translation on likumi.lv, which gives the English title 'Artificial Intelligence Centre Law'; it is valid for 20 March 2025 to 31 May 2026 and does not include the amendment of 14 May 2026. The bill number 811/Lp14 in version 1's identifier came from a tracker and is in no stored file, so it was removed."
+  },
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://likumi.lv/ta/en/en/id/359339",
+   "by": "Valsts valodas centrs (State Language Centre)"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-01/extra-c9ca4ec651/2026-10-17/official.html",
+    "sha256": "29cff37cd89383b2e586b489728c460bda96680acb72fac3fbc70cd2089b5699",
+    "locator": "English translation, enacting formula",
+    "quote": "the President has proclaimed the following law: Artificial Intelligence Centre Law",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-17/secondary.html",
+    "sha256": "9769e8255bacd2f5405dfc879fc8c3145ba64ae8b562f460f5cdd3912f970aeb",
+    "locator": "Saeima press release, 07.03.2025",
+    "quote": "This is stipulated in the Artificial Intelligence Centre Law, which was adopted in its final reading by the Saeima on Thursday, 6 March.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Nosaukums: Mākslīgā intelekta centra likums",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Nosaukums: Mākslīgā intelekta centra likums",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Izdevējs: Saeima Veids: likums",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Publicēts: Latvijas Vēstnesis, 55, 19.03.2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "OP numurs: 2025/55.1",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "closing formula",
+    "quote": "Likums Saeimā pieņemts 2025. gada 6. martā.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Pieņemts: 06.03.2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Stājas spēkā: 20.03.2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "closing formula",
+    "quote": "Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Article 7, amendment note",
+    "quote": "(Ar grozījumiem, kas izdarīti ar 14.05.2026. likumu, kas stājas spēkā 01.06.2026.)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Statuss: Spēkā esošs",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Stājas spēkā: 20.03.2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Tiesību akta pase",
+    "quote": "Izdevējs: Saeima Veids: likums",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Article 2(5)-(6)",
+    "quote": "nodrošināt to, ka mākslīgā intelekta sistēmas tiek izmantotas ētiski, atbildīgi un droši, ievērojot cilvēka pamattiesības",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Article 4(1)(3)",
+    "quote": "sniegt atzinumu par mākslīgā intelekta sistēmu vai dziļviltojumu tehnoloģiju izmantošanas gadījumiem priekšvēlēšanu aģitācijas periodā",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Article 8(2)",
+    "quote": "Mākslīgā intelekta sistēmas izstrāde un pārbaude nedrīkst apdraudēt valsts, sabiedrības, vides vai saimnieciskās darbības drošību vai cilvēku veselību un dzīvību.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Article 7(3)",
+    "quote": "Centra padomes sastāvā ir deviņi locekļi: pa vienam pārstāvim no Viedās administrācijas un reģionālās attīstības ministrijas, Ekonomikas ministrijas un Aizsardzības ministrijas, kā arī privātā sektora un augstskolu izvirzīti pārstāvji.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-17/secondary.html",
+    "sha256": "9769e8255bacd2f5405dfc879fc8c3145ba64ae8b562f460f5cdd3912f970aeb",
+    "locator": "Saeima press release, 07.03.2025",
+    "quote": "The private sector will be represented by the Latvian Information and Communication Technology Association, while higher education institutions will be represented by the Latvian Universities Association.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Article 7(5)",
+    "quote": "(5) (Izslēgta ar 14.05.2026. likumu)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-01/2026-10-12/official.html",
+    "sha256": "0651920f126607ab22245eb3a97764059be39181aab5f07a141880e854f15c0e",
+    "locator": "Pārejas noteikumi, point 2",
+    "quote": "Šā likuma 4. panta pirmās daļas 3. punktā minēto uzdevumu centrs īsteno no 2026. gada 1. jūnija.",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-01/extra-c9ca4ec651/2026-10-17/official.html",
+    "sha256": "29cff37cd89383b2e586b489728c460bda96680acb72fac3fbc70cd2089b5699",
+    "locator": "English translation, header",
+    "quote": "Translation validity: 20.03.2025.–31.05.2026. Amendments not included: 14.05.2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-01/extra-c9ca4ec651/2026-10-17/official.html",
+    "sha256": "29cff37cd89383b2e586b489728c460bda96680acb72fac3fbc70cd2089b5699",
+    "locator": "English translation, footer",
+    "quote": "Translation © 2025 Valsts valodas centrs (State Language Centre)",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "the bill number 811/Lp14 removed: it came from a tracker and is in no stored file; the publication reference (Latvijas Vēstnesis 55, 19.03.2025, OP 2025/55.1) is confirmed by likumi.lv",
+   "notes": "the council's composition restated as Article 7(3) gives it (three ministries plus members nominated by the private sector and universities); the ICT association and the universities' association are the founders named by the Saeima, not council seats in the law; the election task's start date added",
+   "verification.note": "rewritten for this recheck",
+   "english_version": "not recorded in version 1; the State Language Centre's English translation on likumi.lv (stored in this run) is a government translation; it predates the amendment of 14 May 2026"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The law entered into force on 20 March 2025, the day after promulgation on 19 March 2025; likumi.lv marks it 'Spēkā esošs' (in force), with the version from 1 June 2026 current after the amendment of 14 May 2026. The election-opinion task began on 1 June 2026, before today (17 October 2026). 'In force' stands.",
+  "scope_reasoning": "The statutory mandate of a national AI centre whose aims include ethical, responsible and safe AI and reducing AI risks, with tasks on AI security risks, deepfakes in elections and a regulatory sandbox; in scope with no note, as in version 1.",
+  "date_reasoning": "date_last_updated stays 1 June 2026, when the version with the amendment of 14 May 2026 took effect, as likumi.lv lists the versions; the adoption date of the amendment is in the notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

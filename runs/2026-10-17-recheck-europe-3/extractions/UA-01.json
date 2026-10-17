@@ -1,0 +1,225 @@
+{
+ "cand_id": "UA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UA-01",
+ "record": {
+  "summary": "Roadmap presented by Ukraine's Ministry of Digital Transformation on 7 October 2023 to help companies prepare for a law modelled on the EU AI Act and to help citizens learn to protect themselves from AI risks. It takes a bottom-up approach: before a law is adopted, businesses receive tools to prepare for future requirements, namely voluntary codes of conduct on the ethical use of AI, a White Paper on the approach, terms and stages of regulation, and general and sector-specific recommendations. It seeks a balance between business interests and the protection of citizens' rights, and was drafted with the ministry's AI expert committee.",
+  "notes": "Followed by the White Paper on AI regulation (UA-02). By 2026 the ministry reported 11 recommendations for safe work with algorithms in key sectors, a regulatory sandbox that received 90 applications in its first year, version 2.0 of its AI glossary (2026), and Ukraine's signature of the Bletchley Declaration and the Council of Europe Framework Convention on AI (COE-01). A joint working group on the legal regulation of AI has held its first meeting and is to draft, during 2026, an AI law that brings Ukraine's rules in line with the EU's.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Cabinet of Ministers portal's news item of 7 October 2023 on the roadmap (kmu.gov.ua, stored again 17 Oct 2026; the page around the item changed, the item did not) and the Ministry of Digital Transformation's news item on the planned AI law (thedigital.gov.ua, stored 11 Oct 2026; the page's metadata dates it 15 June 2026, a date its text does not show). The Cabinet portal confirms the title, the date, the ministry as author, the expert committee and the bottom-up tools; the ministry page confirms the later instruments and the working group. The roadmap document itself is linked from the news item only through a URL shortener (cutt.ly), which leads to a PDF on cms.thedigital.gov.ua; it was requested in this run but could not be stored (the download timed out). Removed because they rest on no stored file: 'first policy document', the regulatory sandbox as one of the roadmap's tools, the month of the White Paper (June 2024) and the statement that no draft law had been published by October 2026. No English version of the roadmap was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, first paragraph",
+    "quote": "Дорожня карта з регулювання штучного інтелекту в Україні допоможе українським компаніям підготуватися до ухвалення закону-аналога AI Act Європейського Союзу",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, first paragraph",
+    "quote": "Дорожня карта з регулювання штучного інтелекту в Україні допоможе українським компаніям",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news headline",
+    "quote": "Регулювання штучного інтелекту в Україні: Мінцифри презентувало дорожню карту",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, byline",
+    "quote": "Міністерство цифрової трансформації України, опубліковано 07 жовтня 2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, byline",
+    "quote": "Міністерство цифрової трансформації України, опубліковано 07 жовтня 2023",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "спочатку ми надамо бізнесу інструменти для підготовки до майбутніх вимог, а після цього буде ухвалено закон",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Від саморегуляції до закону",
+    "quote": "Мінцифра свідомо обрала підхід bottom-up (знизу вгору).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "спочатку ми надамо бізнесу інструменти для підготовки до майбутніх вимог, а після цього буде ухвалено закон",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, first paragraph",
+    "quote": "а громадянам — навчитися захищати себе від ризиків ШІ",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "В основі впровадження регулювання штучного інтелекту лежить bottom-up підхід",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, Borniakov",
+    "quote": "Зокрема, підписанням добровільних кодексів поведінки, які свідчитимуть про етичність використання ШІ компаніями.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, Borniakov",
+    "quote": "Ще один інструмент — Біла книга, що ознайомить бізнес із підходом, термінами та етапами впровадження регулювання.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, Borniakov",
+    "quote": "Також планується публікація рекомендацій — загальних і секторальних",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "дає змогу знайти баланс між інтересами бізнесу та захистом прав громадян",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "У розробці дорожньої карти брав участь профільний бізнес, науковці та освітяни з експертного комітету зі ШІ при Міністерстві.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Від саморегуляції до закону",
+    "quote": "Опублікували Дорожню карту та Білу книгу з регулювання ШІ, щоб бізнес міг адаптуватися до європейського AI Act.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Від саморегуляції до закону",
+    "quote": "Також створили 11 рекомендацій для безпечної роботи з алгоритмами у ключових сферах.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Від саморегуляції до закону",
+    "quote": "Запустили регуляторну пісочницю (SandBox). За рік отримали 90 заявок на тестування ШІ-продуктів.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Від саморегуляції до закону",
+    "quote": "У 2026 році випустили Словник термінів ШІ 2.0.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Від саморегуляції до закону",
+    "quote": "Україна підписала Декларацію Блетчлі та Рамкову конвенцію Ради Європи щодо ШІ",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "introduction",
+    "quote": "Саме для цього відбулося перше засідання робочої групи з правового регулювання ШІ.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Наступний крок — профільний закон",
+    "quote": "Протягом 2026 року спільна робоча група розробить закон про штучний інтелект",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "Наступний крок — профільний закон",
+    "quote": "Цей закон синхронізує наше поле з правилами ЄС.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored news item: 'first policy document' and the regulatory sandbox are not among what it says of the roadmap; the aim of helping citizens protect themselves from AI risks added",
+   "notes": "rewritten from the ministry's stored page: the White Paper's month, 'sector recommendations for media', the date of the working group's announcement and 'no draft text by October 2026' rest on no stored text; the 11 recommendations, the sandbox's 90 applications and the Bletchley Declaration added",
+   "english_version": "no English version of the roadmap was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Presented on 7 October 2023 as a non-binding plan. The ministry's 2026 page says it keeps to the bottom-up approach and is now preparing the law the roadmap foresaw; nothing stored shows the roadmap withdrawn or replaced. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A government roadmap for AI regulation; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Draft Strategy for the development of AI in Ukraine to 2030 (Ministry of Digital Transformation, for public feedback)",
+   "url": "https://thedigital.gov.ua/news/shtuchnyy-intelekt/shliakh-rozvytku-shi-do-2030-roku-znayomtesia-z-proyektom-stratehiyi-ta-davayte-fidbek",
+   "note": "Linked from the stored ministry page as 'Шлях розвитку ШІ до 2030 року: знайомтеся з проєктом Стратегії та давайте фідбек'; not in the register."
+  }
+ ],
+ "open_questions": [
+  "The roadmap document itself (a PDF on cms.thedigital.gov.ua, reached through the cutt.ly link in the news item) could not be stored; the record rests on the Cabinet portal's news item about it. A person could provide the PDF (AGENTS.md section 7.8)."
+ ]
+}

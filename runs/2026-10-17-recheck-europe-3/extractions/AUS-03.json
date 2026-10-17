@@ -1,0 +1,216 @@
+{
+ "cand_id": "AUS-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-03",
+ "record": {
+  "notes": "Published by the National Artificial Intelligence Centre on 5 September 2024 as the first version of Australia's AI safety standard. On 21 October 2025 the Centre published the Guidance for AI Adoption, which the DISR page describes as updated and simplified guidance for industry that evolves the standard. The Guidance calls itself the first update of the standard: it condensed the 10 guardrails into 6 essential practices, extended the guidance to AI developers as well as deployers, and integrated all of the standard's practices, with a crosswalk from each guardrail to the new practices.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the DISR publication page stored on 11 Oct 2026 (the archiver found it unchanged on 17 Oct 2026): title, publisher (National Artificial Intelligence Centre), 'Date published: 5 September 2024', 'Date updated: 2 December 2025', the 10 voluntary guardrails and the notice that the Guidance for AI Adoption, published on 21 October 2025, evolves the standard. Stored in this run from DISR and the National AI Centre: the standard's '10 guardrails' page (the guardrails in the summary) and the Guidance for AI Adoption implementation guidance PDF (October 2025), which calls itself the first update of the VAISS and says all VAISS practices are integrated into it. The earlier notes' statement that the standard was published together with the guardrails proposals paper is not in this record's stored files and was removed."
+  },
+  "summary": "Set 10 voluntary guardrails for organisations across the AI supply chain: an accountability process, risk management, data governance and protection of AI systems, testing and monitoring, meaningful human oversight, informing end-users about AI use and AI-generated content, processes to challenge AI outcomes, transparency across the supply chain, record-keeping, and stakeholder engagement focused on safety and fairness. It described what developers and deployers should do to use AI safely and used language aligned with international standards."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "page heading",
+    "quote": "Voluntary AI Safety Standard Guiding safe and responsible use of artificial intelligence in Australia",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "page details",
+    "quote": "Publisher National Artificial Intelligence Centre",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "page title",
+    "quote": "Voluntary AI Safety Standard | Department of Industry Science and Resources",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "page details",
+    "quote": "Date published: 5 September 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "notice above Introduction",
+    "quote": "On 21 October 2025, we published the Guidance for AI Adoption, which outlines 6 essential practices for safe and responsible AI governance.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "notice above Introduction",
+    "quote": "This updated and simplified guidance for industry evolves the Voluntary AI Safety Standard.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "Read the Voluntary AI Safety Standard",
+    "quote": "Introducing the first version of Australia's AI Safety Standard.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-1408a1e17a/2026-10-17/official.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 17, How we developed the guidance",
+    "quote": "In September 2024, we released the Voluntary AI Safety Standard (VAISS). This guidance, published in October 2025, is the first update of the VAISS.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-1408a1e17a/2026-10-17/official.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 18",
+    "quote": "For organisations that used the VAISS, all practices have now been integrated into the Implementation practices",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "About the standard",
+    "quote": "The standard consists of 10 voluntary guardrails that apply to all organisations throughout the AI supply chain.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "1. Establish, implement and publish an accountability process including governance, internal capability and a strategy for regulatory compliance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "3. Protect AI systems, and implement data governance measures to manage data quality and provenance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "5. Enable human control or intervention in an AI system to achieve meaningful human oversight across the life cycle.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "6. Inform end-users regarding AI-enabled decisions, interactions with AI and AI-generated content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "7. Establish processes for people impacted by AI systems to challenge use or outcomes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "9. Keep and maintain records to allow third parties to assess compliance with guardrails.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-a5fb4b4712/2026-10-17/official.html",
+    "sha256": "e242b1ab9b81f81a56efd0da57cf1a72016271ba5cde8a68a49bae1db8823f6a",
+    "locator": "The 10 guardrails at a glance",
+    "quote": "10. Engage your stakeholders and evaluate their needs and circumstances, with a focus on safety, diversity, inclusion and fairness.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "About the standard",
+    "quote": "They include transparency and accountability requirements across the supply chain. They also explain what developers and deployers of AI systems must do.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "About the standard",
+    "quote": "Some of the language in the standard is technical. We've chosen this language because it aligns with international standards.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AUS-03/2026-10-11/official.html",
+    "sha256": "3c901a0169c93457d7006a961691c8fb2a776c11e3fd4d9cd5f10bbb256dcf04",
+    "locator": "notice above Introduction",
+    "quote": "On 21 October 2025, we published the Guidance for AI Adoption, which outlines 6 essential practices for safe and responsible AI governance. This updated and simplified guidance for industry evolves the Voluntary AI Safety Standard.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-1408a1e17a/2026-10-17/official.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 17, How we developed the guidance",
+    "quote": "condensed 10 guardrails into 6 essential practices • removed redundant language • expanded our audience to developers as well as deployers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-03/extra-1408a1e17a/2026-10-17/official.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 2, Contents",
+    "quote": "Appendix 2 – Crosswalk VAISS x Guidance for AI adoption: Implementation practices",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored '10 guardrails' page: all 10 guardrails named, including stakeholder engagement (guardrail 10), which the earlier summary left out",
+   "notes": "rewritten from the stored DISR page and the Guidance PDF: the replacement in the words of both sources; the claims that the standard was published with the proposals paper and that the page marks it 'superseded' are not in the stored files",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The DISR page announces that the Guidance for AI Adoption, published on 21 October 2025, is the updated and simplified guidance that 'evolves' the standard, and presents the standard as the first version. The Guidance (stored in this run) calls itself 'the first update of the VAISS' and says all VAISS practices have been integrated into its implementation practices. 'Superseded' stands.",
+  "scope_reasoning": "A government voluntary AI safety standard; in scope with no note.",
+  "date_reasoning": "date_published is the page's 'Date published: 5 September 2024'. date_last_updated stays 21 October 2025, the date its new version (the Guidance for AI Adoption) was published; the page's 'Date updated: 2 December 2025' is an update of the web page, not a new version of the standard."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails",
+   "reason": "the standard's own '10 guardrails' page on industry.gov.au, stored in this run: the text of the 10 guardrails, for the summary and safety_topics"
+  },
+  {
+   "url": "https://www.ai.gov.au/sites/default/files/2026-07/Guidance-for-AI-adoption-implementation-guidance_0_0_0.pdf",
+   "reason": "the Guidance for AI Adoption: implementation guidance (National AI Centre, October 2025), stored in this run: 'the first update of the VAISS', all VAISS practices integrated; for the status 'Superseded' and the notes"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

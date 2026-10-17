@@ -1,0 +1,138 @@
+{
+ "decision": "update",
+ "target_id": "AUS-02",
+ "record": {
+  "date_in_force": "2024-09-03",
+  "summary": "Amends the Criminal Code Act 1995 so that transmitting sexual material of an adult without consent is an offence carrying up to six years' imprisonment, whether the material is unaltered or created or altered using technology, including AI-generated deepfakes. It adds aggravated offences (seven years) for repeat offenders after three or more civil penalty orders under the Online Safety Act 2021 and for those who created or altered the material, with double-jeopardy and alternative-verdict rules.",
+  "safety_topics": [
+   "deepfakes & synthetic media",
+   "accountability & liability"
+  ],
+  "notes": "Assented to on 2 September 2024; the whole Act commenced on 3 September 2024, the day after Royal Assent. The Government's response to the Senate Select Committee on Adopting AI (April 2026) cites these August 2024 Criminal Code amendments on AI-generated sexual material.",
+  "scope_note": "Not an AI-specific law: it amends the Criminal Code offence on sharing sexual material without consent and states that this covers material created or altered with AI (deepfakes). Included as the operative Australian criminal law on sexual deepfakes.",
+  "verification": {
+   "note": "Federal Register of Legislation print copy (PDF) and rendered page stored on 17 Oct 2026; title, Act No. 78 of 2024, assent date, commencement table and the offence text were read in full. The Senate committee response mentioned in the notes rests on the stored secondary source from the Department of Industry."
+  }
+ },
+ "evidence": {
+  "date_in_force": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3",
+    "quote": "The day after this Act receives the Royal",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 2",
+    "quote": "[Assented to 2 September 2024]",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4",
+    "quote": "Penalty: Imprisonment for 6 years.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4",
+    "quote": "has been created, or altered in any way, using technology.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4",
+    "quote": "Penalty: Imprisonment for 7 years.",
+    "source_kind": "official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 1",
+    "quote": "Criminal Code Amendment (Deepfake Sexual Material) Act 2024 No. 78, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 1",
+    "quote": "Criminal Code Amendment (Deepfake Sexual Material) Act 2024 No. 78, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 2",
+    "quote": "[Assented to 2 September 2024]",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3",
+    "quote": "The Parliament of Australia enacts:",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 1",
+    "quote": "Home> Acts> In force",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 2",
+    "quote": "An Act to amend the Criminal Code Act 1995, and for related purposes",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_in_force": "commencement table: the whole Act commences the day after Royal Assent, 3 September 2024",
+   "summary": "was under 250 characters and omitted offence structure",
+   "safety_topics": "child safety dropped: the Act concerns material of persons 18 or older and refers to child abuse material only in a note; accountability & liability added for the aggravated offences",
+   "notes": "commencement now confirmed",
+   "scope_note": "added: borderline, non-AI-specific law that is the operative instrument on sexual deepfakes",
+   "verification.note": "updated to what was stored"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "official_identifier",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Federal Register shows the Act as In force; commenced 3 Sep 2024; no repeal or amendment to its commencement visible in the stored print copy.",
+  "scope_reasoning": "Not AI-specific but the operative offence for AI-generated sexual deepfakes; the Act's own Note names artificial intelligence and deepfakes; borderline, included with a scope_note (section 10)."
+ },
+ "open_questions": [],
+ "cand_id": "AUS-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

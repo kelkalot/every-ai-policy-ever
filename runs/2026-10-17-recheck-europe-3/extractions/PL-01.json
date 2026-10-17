@@ -1,0 +1,370 @@
+{
+ "cand_id": "PL-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PL-01",
+ "record": {
+  "original_title": "Ustawa z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+  "issuing_body": "Sejm of the Republic of Poland",
+  "official_identifier": "Dz.U. 2026 poz. 1003",
+  "date_last_updated": null,
+  "summary": "Poland's law implementing the EU AI Act. It creates the Commission for the Development and Security of Artificial Intelligence (KRiBSI) as market surveillance authority and single point of contact: a chair, two deputies and four members nominated by the competition, financial, broadcasting and electronic communications regulators, independent in their functions. The Commission inspects compliance, handles complaints, issues warnings and binding individual opinions, can order an AI system that poses a direct risk to life, health, safety or fundamental rights to be withdrawn from the market or from use, imposes the AI Act's fines and runs a regulatory sandbox, free for SMEs.",
+  "notes": "Published in the Journal of Laws (Dziennik Ustaw) on 27 July 2026 as item 1003, with the signature of President Nawrocki. The Act entered into force 14 days after publication, on 11 August 2026; Article 125(4), on setting up the unit of the digital affairs ministry that serves the Commission, applied from 28 July 2026. Articles 8 to 18 (individual opinions and explanations) and Chapters 3 to 5 (inspections, proceedings, settlements on mitigating sanctions), 8 (administrative fines and criminal provisions) and 9 (amendments to ten other acts) apply from 28 October 2026, three months after publication. The minister responsible for digital affairs (informatisation) is the notifying authority. The Sejm, with the Senate's consent, appoints the Commission's chair within two months of entry into force, and the chair convenes the first meeting within three months. A Social Council for AI of 9 to 15 members advises the Commission. The Act caps state spending on it at PLN 9.30 million in 2026, rising to PLN 29.68 million in 2035.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Act as published in the Journal of Laws (Dz.U. 2026 poz. 1003, PDF from eli.gov.pl, stored 11 Oct 2026) and the act's ELI page (stored as the secondary source; the archiver flags it as an application shell, but its stored text holds the act's metadata: status, dates of issue, publication and entry into force, the remarks on staged entry into force and the issuing authority). The published text confirms the title, the date of the Act, publication on 27 July 2026, the President's signature, the entry-into-force rules, the Commission's composition and powers, the sandbox, the notifying authority and the fine provisions. Removed because they rest on no stored file: the Sejm vote of 11 June 2026, the Ministry of Digital Affairs' report of 27 July 2026 on the President's signature, the ministry's expected timeline for the chair and the Commission's start, and the Commission's list of single points of contact. Version 1's statement that Parliament removed the Commission's power to issue bans and orders such as market withdrawal is contradicted by Article 63(2) of the published Act and was removed. No English translation of the Act was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1",
+    "quote": "USTAWA z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "page heading",
+    "quote": "Ustawa z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1",
+    "quote": "USTAWA z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "page heading",
+    "quote": "Ustawa z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Issuing authority",
+    "quote": "Issuing authority: SEJM",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Document type",
+    "quote": "Document type: Ustawa",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1",
+    "quote": "DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lipca 2026 r. Poz. 1003",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Permalink ELI",
+    "quote": "https://eli.gov.pl/eli/DU/2026/1003/ogl",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1",
+    "quote": "USTAWA z dnia 3 lipca 2026 r.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Date of announcement",
+    "quote": "Date of announcement: 2026-07-03",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 127",
+    "quote": "Art. 127. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1",
+    "quote": "Warszawa, dnia 27 lipca 2026 r. Poz. 1003",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Date of entry into force",
+    "quote": "Date of entry into force: 2026-08-11",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 127 pkt 2",
+    "quote": "art. 8–18 oraz rozdziałów 3–5, 8 i 9, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 127",
+    "quote": "Art. 127. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Status of the legal act",
+    "quote": "Status of the legal act: obowiązujący",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Remarks",
+    "quote": "2) art. 8-18 oraz rozdziały 3-5, 8 i 9 wchodzą w życie 28 października 2026 r.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1, Art. 1",
+    "quote": "Art. 1. Ustawa określa:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34",
+    "quote": "Prezydent Rzeczypospolitej Polskiej: K. Nawrocki",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 3, Art. 5 ust. 1-2",
+    "quote": "jest organem nadzoru rynku w zakresie systemów sztucznej inteligencji w rozumieniu art. 70 ust. 1 rozporządzenia 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 3, Art. 5 ust. 2",
+    "quote": "Komisja działa jako pojedynczy punkt kontaktowy, o którym mowa w art. 70 ust. 2 rozporządzenia 2024/1689.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 6, Art. 19 ust. 1",
+    "quote": "czterech członków Komisji wskazanych przez: a) Prezesa Urzędu Ochrony Konkurencji i Konsumentów, b) Komisję Nadzoru Finansowego, c) Krajową Radę Radiofonii i Telewizji, d) Prezesa Urzędu Komunikacji Elektronicznej.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 6, Art. 19 ust. 4",
+    "quote": "Przewodniczący Komisji, Zastępcy Przewodniczącego Komisji i członkowie Komisji w zakresie sprawowania swojej funkcji w Komisji są niezależni.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 15, Art. 48 ust. 1",
+    "quote": "Komisja może prowadzić kontrolę przestrzegania rozporządzenia 2024/1689 i ustawy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 19, Art. 59 ust. 1",
+    "quote": "może złożyć do Komisji skargę",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 20, Art. 61 ust. 1",
+    "quote": "Komisja w toku postępowania może wydać stronie, w drodze postanowienia, ostrzeżenie.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 5, Art. 13 ust. 1",
+    "quote": "Opinia indywidualna jest wiążąca dla Komisji i innych organów państwowych",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 20, Art. 63 ust. 2",
+    "quote": "Komisja może wydać decyzję nakazującą operatorowi tego systemu zaprzestanie stosowania systemu lub wycofanie go z rynku lub użytkowania.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 29, Art. 104 ust. 1",
+    "quote": "administracyjną karę pieniężną w przypadkach, wysokości i na warunkach określonych w rozdziale XII rozporządzenia 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 25, Art. 91 ust. 1",
+    "quote": "Komisja ustanawia piaskownicę regulacyjną",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 26, Art. 93 ust. 1",
+    "quote": "Uczestnictwo mikroprzedsiębiorców, małych i średnich przedsiębiorców w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców w piaskownicy regulacyjnej jest nieodpłatne.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 127 pkt 1",
+    "quote": "art. 125 ust. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Remarks",
+    "quote": "1) art. 125 ust. 4 wchodzi w życie z dniem 28 lipca 2026 r.;",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/secondary-3.html",
+    "sha256": "67556484d4afa70f7bccc190cf1c449b0d8efba538d450e3a4ca03b0038caeb9",
+    "locator": "Date of publication",
+    "quote": "Date of publication: 2026-07-27",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 24, Art. 86 ust. 1",
+    "quote": "Minister właściwy do spraw informatyzacji jest organem notyfikującym",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 125 ust. 2",
+    "quote": "Sejm za zgodą Senatu powołuje Przewodniczącego Komisji Rozwoju i Bezpieczeństwa Sztucznej Inteligencji w ter- minie 2 miesięcy od dnia wejścia w życie ustawy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 125 ust. 3",
+    "quote": "Pierwsze posiedzenie Komisji Rozwoju i Bezpieczeństwa Sztucznej Inteligencji jej Przewodniczący zwołuje w ter- minie 3 miesięcy od dnia wejścia w życie ustawy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 13, Art. 45 ust. 1-2",
+    "quote": "Przy Komisji działa Rada, która jest organem opiniodawczo-doradczym Komisji. 2. W skład Rady wchodzi od 9 do 15 członków",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 9, Art. 30 ust. 2",
+    "quote": "Społeczna Rada do spraw Sztucznej Inteligencji, zwana dalej „Radą”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 126 ust. 1",
+    "quote": "1) 2026 r. – 9,30 mln zł;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 34, Art. 126 ust. 1",
+    "quote": "10) 2035 r. – 29,68 mln zł.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PL-01/2026-10-11/official.pdf",
+    "sha256": "ca0c0dbe49c2d370d2df18c23a565f74fb535673726c26f2e539a4d1c8f2b3fd",
+    "locator": "page 1, footnote 1",
+    "quote": "Niniejszą ustawą zmienia się ustawy:",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "the verbatim title in the Journal of Laws and on the ELI page includes the date of the Act ('z dnia 3 lipca 2026 r.'); version 1's short form was not verbatim",
+   "issuing_body": "the ELI page names the Sejm as issuing authority; the Ministry of Digital Affairs is the 'obligated authority' (MIN. WŁAŚCIWY DS INFORMATYZACJI), not the issuer, and the Senate is not named as issuer",
+   "official_identifier": "reduced to the citable Journal of Laws reference; the act's date and title are already in title and original_title",
+   "date_last_updated": "set to null: 27 July 2026 is the publication in the Journal of Laws, not an amendment or new version; no stored source shows an amendment of the Act",
+   "summary": "rewritten from the published text: version 1's claim that Parliament removed the Commission's power to order bans and market withdrawal is contradicted by Article 63(2); added inspections, warnings, binding individual opinions, the AI Act fines and the independence of the members (Art. 19(4))",
+   "notes": "rewritten from the published text and the ELI page: the staged entry into force with its dates, the chair's appointment, the Social Council for AI, the notifying authority and the spending cap; removed the Sejm vote of 11 June 2026, the ministry's report, the expected timeline and the single points of contact list (no stored file) and the remark that the status might be out of date",
+   "english_version": "no English translation of the Act was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Published in the Journal of Laws on 27 July 2026. Art. 127: the Act enters into force 14 days after publication (11 August 2026, which the ELI page gives as the date of entry into force); Art. 125(4) the day after publication (28 July 2026); Articles 8-18 and Chapters 3-5, 8 and 9 three months after publication, which the ELI page gives as 28 October 2026. On 17 October 2026 those provisions are not yet in force, so 'Partially in force' stands; it becomes 'In force' on 28 October 2026. The ELI page shows the act as 'obowiązujący' (in force) and no repeal.",
+  "scope_reasoning": "A national law implementing the EU AI Act and creating its market surveillance authority; in scope with no note.",
+  "date_reasoning": "date_published stays the date of the Act (3 July 2026), as the title gives it; date_in_force is the general entry into force (11 August 2026); the later and earlier commencement dates are in the notes."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Implementing regulations (executory orders) under the Act on Artificial Intelligence Systems, Dz.U. 2026 poz. 1003",
+   "url": "https://eli.gov.pl/eli/DU/2026/1003/ogl",
+   "note": "The act's ELI page lists 'Executory orders (2)'; the regulations themselves are not named in the stored text."
+  }
+ ],
+ "open_questions": [
+  "Article 63(2) gives the Commission power to order an operator to stop using an AI system that poses a direct risk to life, health, safety or fundamental rights, or to withdraw it from the market or from use; version 1 said Parliament had removed such powers. If that referred to an earlier draft, it is about the legislative process and is not stored; the published text governs."
+ ]
+}

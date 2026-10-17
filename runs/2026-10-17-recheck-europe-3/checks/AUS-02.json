@@ -1,0 +1,56 @@
+{
+ "cand_id": "AUS-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "6 years' imprisonment, applies to altered/AI-created material",
+   "verdict": "supported",
+   "locator": "page 4, s 474.17A(1)-(2) and note"
+  },
+  {
+   "claim": "aggravated offence 7 years where responsible for creation or 3+ civil penalty orders",
+   "verdict": "supported",
+   "locator": "page 4-5, s 474.17AA"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Not AI-specific, but the operative criminal offence for AI-generated deepfake sexual material; fits the precedent for non-AI-specific laws that are the operative instrument for an AI-safety question."
+ },
+ "overall": "accept",
+ "note": "Stored printed Act as made supports title, No. 78 2024, assent 2 Sep 2024, commencement 3 Sep 2024; notes on repeal of 473.1 definitions, 474.17AB and 474.17B checked in the text. Federal Register shows In force. Nothing newer found."
+}

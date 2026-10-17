@@ -1,0 +1,336 @@
+{
+ "cand_id": "UZ-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UZ-02",
+ "record": {
+  "language": "Uzbek",
+  "summary": "Amending law that writes AI into Uzbekistan's Law on Informatization and Code of Administrative Responsibility. It defines artificial intelligence as technological solutions that imitate human knowledge and skills, including independent learning and searching for solutions, and adds Article 7-1: AI-made information resources and AI-based systems must not harm a person's life, health, freedom, honour, dignity or other inalienable rights, and legally significant decisions affecting human rights and freedoms may not rest solely on their conclusions. Unlawful processing of personal data using AI, and its dissemination in the media or online, is fined 50 to 100 base calculation units.",
+  "safety_topics": [
+   "human oversight",
+   "accountability & liability"
+  ],
+  "notes": "Adopted by the Legislative Chamber on 12 August 2025, approved by the Senate on 1 November 2025, signed on 21 January 2026 and in force from its official publication (Article 4), which lex.uz dates 21 January 2026. The amendments also give the competent state body AI tasks: attracting investment in AI, building technical infrastructure to process government data with AI, and training staff. Article 3 instructs the Cabinet of Ministers to bring government decisions into line with the law. lex.uz publishes a Russian text marked as an unofficial translation.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the lex.uz Russian page (document 8011377) and the lex.uz English card (document 8011930), both stored on 11 Oct 2026, and stored the official Uzbek text (lex.uz document 8008401, Cyrillic) on 17 Oct 2026. The Uzbek text confirms the title, number, chamber dates, signature, the National Database of Legislation reference of 21 January 2026, entry into force on official publication and the full text of Articles 1-4; the summary now renders its definition of AI. The Russian page is marked 'Неофициальный перевод'; the English card says the text is given in Uzbek and Russian and offers only machine translation, so no English version was found. The archiver flagged the Uzbek page for review because the page title is short; its text is this law. Version 1's first-reading date and the press reports on a labelling duty in the first-reading draft rested on no stored file and were removed; the enacted text contains no labelling provision."
+  },
+  "original_title": "Сунъий интеллектни қўллаш орқали юзага келадиган муносабатлар тартибга солиниши муносабати билан Ўзбекистон Республикасининг айрим қонун ҳужжатларига қўшимча ва ўзгартиришлар киритиш тўғрисида",
+  "official_identifier": "Law No. ZRU-1115 (ЎРҚ-1115 / LRU-1115) of 21 January 2026 (National Database of Legislation, 21.01.2026, No. 03/26/1115/0063)"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document heading",
+    "quote": "О внесении дополнений и изменений в некоторые законодательные акты Республики Узбекистан в связи с регулированием отношений, возникающих при применении искусственного интеллекта",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/secondary.html",
+    "sha256": "ddc0c0482592d8edc55ade6ceb7902afe7fcd6ea39a5a3e789de3b29a7f2f403",
+    "locator": "document heading",
+    "quote": "On making additions and changes to certain legislative acts of the Republic of Uzbekistan in connection with the regulation of relations arising from the use of artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "document text, title",
+    "quote": "Ўзбекистон Республикасининг Қонуни Hujjatga taklif yuborishAudioni tinglashHujjat elementidan havola olish Сунъий интеллектни қўллаш орқали юзага келадиган муносабатлар тартибга солиниши муносабати билан Ўзбекистон Республикасининг айрим қонун ҳужжатларига қўшимча ва ўзгартиришлар киритиш тўғрисида",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document text",
+    "quote": "Принят Законодательной палатой 12 августа 2025 года",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document text",
+    "quote": "Одобрен Сенатом 1 ноября 2025 года",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "signature",
+    "quote": "Президент Республики Узбекистан Ш. МИРЗИЁЕВ",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "document text",
+    "quote": "Қонунчилик палатаси томонидан 2025 йил 12 августда қабул қилинган",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "document text",
+    "quote": "Сенат томонидан 2025 йил 1 ноябрда маъқулланган",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "publication reference after the signature",
+    "quote": "(Қонунчилик маълумотлари миллий базаси, 21.01.2026 й., 03/26/1115/0063-сон)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "document card",
+    "quote": "Ўзбекистон Республикасининг Қонуни, 21.01.2026 йилдаги ЎРҚ-1115-сон",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document card",
+    "quote": "Закон Республики Узбекистан, от 21.01.2026 г. № ЗРУ-1115",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/secondary.html",
+    "sha256": "ddc0c0482592d8edc55ade6ceb7902afe7fcd6ea39a5a3e789de3b29a7f2f403",
+    "locator": "document card",
+    "quote": "Law of the Republic of Uzbekistan, от 21.01.2026 г. № LRU-1115",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document card",
+    "quote": "от 21.01.2026 г. № ЗРУ-1115",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "signature block",
+    "quote": "21 января 2026 года,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "publication reference after the signature",
+    "quote": "(Қонунчилик маълумотлари миллий базаси, 21.01.2026 й., 03/26/1115/0063-сон)",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document card",
+    "quote": "Дата вступления в силу 21.01.2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 4",
+    "quote": "Статья 4. Настоящий Закон вступает в силу со дня его официального опубликования.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 4",
+    "quote": "4-модда. Ушбу Қонун расмий эълон қилинган кундан эътиборан кучга киради.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document card",
+    "quote": "Дата вступления в силу 21.01.2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 4",
+    "quote": "Статья 4. Настоящий Закон вступает в силу со дня его официального опубликования.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "document card (date of entry into force)",
+    "quote": "Kuchga kirish sanasi 21.01.2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 4",
+    "quote": "Статья 4. Настоящий Закон вступает в силу со дня его официального опубликования.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 4",
+    "quote": "4-модда. Ушбу Қонун расмий эълон қилинган кундан эътиборан кучга киради.",
+    "source_kind": "official"
+   }
+  ],
+  "language": [
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "document text, first line",
+    "quote": "Неофициальный перевод Предложения по документуПрослушать аудиоПолучить ссылку из элемента документа Закон Республики Узбекистан",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/secondary.html",
+    "sha256": "ddc0c0482592d8edc55ade6ceb7902afe7fcd6ea39a5a3e789de3b29a7f2f403",
+    "locator": "document text",
+    "quote": "The text of the act is given in uzbek and russian.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/UZ-02/2026-10-11/secondary.html",
+    "sha256": "ddc0c0482592d8edc55ade6ceb7902afe7fcd6ea39a5a3e789de3b29a7f2f403",
+    "locator": "document text",
+    "quote": "By pressing link of original text you can read the document in English and other languages using the service \"Online translation\" (unofficial translation) in the system menu.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 1(1)",
+    "quote": "«сунъий интеллект — инсоннинг билим ва кўникмаларига тақлид қилиш, шу жумладан мустақил равишда ўрганиш ва ечимларни излаш",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 1(4), new Article 7-1",
+    "quote": "инсонга, унинг ҳаётига, соғлигига, эркинлигига, шаънига, кадр-қимматига путур етказмаслиги ва унинг бошқа ажралмас ҳуқуқларини бузмаслиги шарт",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 1(4), new Article 7-1",
+    "quote": "Инсоннинг ҳуқуқи ва эркинлигига алоқадор бўлган юридик аҳамиятга эга қарорларни қабул қилиш чоғида фақат сунъий интеллектдан фойдаланган ҳолда яратилган ахборот ресурслари",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 2",
+    "quote": "базавий ҳисоблаш миқдорининг эллик бараваридан юз бараваригача миқдорда жарима солишга сабаб бўлади",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 1(1)",
+    "quote": "«искусственный интеллект — комплекс технологических решений, позволяющий имитировать когнитивные функции человека (в том числе самообучение и поиск решений)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 1(4), new Article 7-1",
+    "quote": "не должны наносить вред человеку, его жизни, здоровью, свободе, чести, достоинству и нарушать его иные неотъемлемые права",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 1(3)",
+    "quote": "давлат органларининг маълумотларини сунъий интеллект асосида қайта ишлаш учун техник инфратузилмани шакллантиради",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "Article 3",
+    "quote": "ҳукумат қарорларини ушбу Қонунга мувофиқлаштирсин",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 1(3)",
+    "quote": "формирует техническую инфраструктуру для обработки данных государственных органов на основе искусственного интеллекта",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-02/2026-10-11/official.html",
+    "sha256": "dfe087da6cb96d7690105fe8460c88212aac087f10d0e6a0ebfd60a15ce81b0e",
+    "locator": "Article 3",
+    "quote": "привести постановления правительства в соответствие с настоящим Законом",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-02/extra-63a238350d/2026-10-17/official.html",
+    "sha256": "94dcfcf5d43a4d07e147bc8d16bee1df1b6c5b12839d5670258eb05a822364b4",
+    "locator": "document text, title",
+    "quote": "Ўзбекистон Республикасининг Қонуни Hujjatga taklif yuborishAudioni tinglashHujjat elementidan havola olish Сунъий интеллектни қўллаш орқали юзага келадиган муносабатлар тартибга солиниши муносабати билан Ўзбекистон Республикасининг айрим қонун ҳужжатларига қўшимча ва ўзгартиришлар киритиш тўғрисида",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "language": "lex.uz marks the stored Russian text 'Неофициальный перевод' (unofficial translation); the official text is the stored Uzbek one",
+   "original_title": "replaced with the verbatim Uzbek title of the stored official text (Cyrillic); the Russian title of the unofficial translation dropped",
+   "official_identifier": "the National Database of Legislation reference of the official publication (21.01.2026, No. 03/26/1115/0063) added",
+   "summary": "rewritten from the official Uzbek text: the AI definition rendered from Uzbek ('imitate human knowledge and skills'), the harm-prevention duty of new Article 7-1 added; 'Uzbekistan's first AI legislation' removed (not stated in the text)",
+   "safety_topics": "'transparency & labelling' removed: the enacted text has no labelling or transparency provision",
+   "notes": "rewritten: the first-reading date, the press reports on labelling and the comparison with Kazakhstan removed (no stored file for this record); the competent body's new tasks, Article 3 and the Russian translation added",
+   "english_version": "lex.uz offers no English text, only machine translation",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 4: the law enters into force on the day of its official publication; lex.uz gives 21 January 2026 as the date of entry into force, which has passed. No repeal appears. 'In force' stands.",
+  "scope_reasoning": "Amending law whose purpose is to regulate relations arising from the use of AI: a definition, a harm-prevention rule, a ban on decisions resting solely on AI outputs and an AI-specific offence; in scope with no note.",
+  "date_reasoning": "date_published is the signing date (21 January 2026), which is also the date of official publication in the National Database of Legislation; the law entered into force that day under Article 4."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

@@ -1,0 +1,435 @@
+{
+ "cand_id": "RU-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "RU-01",
+ "record": {
+  "official_identifier": "Presidential Decree No. 490 of 10.10.2019",
+  "summary": "Presidential decree approving Russia's National Strategy for the Development of Artificial Intelligence to 2030, which federal executive bodies must follow. Its binding principles include protection of human rights and freedoms, safety (no use of AI to deliberately harm people, minimising the risk of negative consequences) and transparency. The 2024 revision defines large generative and foundation models and trusted AI technologies and adds rules for regulating AI: a risk-based approach, non-discrimination, respect for human autonomy, liability always resting with a natural or legal person, information-security requirements, and certification of AI solutions used by federal bodies.",
+  "safety_topics": [
+   "general-purpose / frontier AI",
+   "accountability & liability",
+   "risk-based classification",
+   "public-sector use",
+   "national security & military",
+   "research priorities"
+  ],
+  "notes": "In force from signature on 10 October 2019. Decree No. 124 of 15 February 2024 revised both the decree and the Strategy: it added definitions of large generative models, large foundation models (at least 1 billion parameters), strong AI and trusted AI technologies, a new section on the regulation of AI and the safety of its use, the mandatory use of trusted AI technologies where harm to the security of the Russian Federation is possible, and a register of trusted AI technologies tested against information-security threats; it also required federal executive bodies to follow the Strategy, recommended that regional and local authorities do the same, and asked state corporations and companies with state participation to add AI development measures to their strategies by 1 November 2024. The Strategy notes that creating universal ('strong') AI could have negative consequences. The English translation listed covers the 2019 text, before the 2024 amendments.",
+  "scope_note": "Mainly a development strategy; its safety content is a set of principles and, since 2024, a section on regulation and the safety of AI. Included as Russia's national AI strategy, which federal executive bodies must follow.",
+  "english_version": {
+   "kind": "third-party translation",
+   "url": "https://cset.georgetown.edu/wp-content/uploads/Decree-of-the-President-of-the-Russian-Federation-on-the-Development-of-Artificial-Intelligence-in-the-Russian-Federation-.pdf",
+   "by": "Etcetera Language Group for the Center for Security and Emerging Technology (CSET), Georgetown University"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the decree on kremlin.ru (acts bank 44731, stored 11 Oct 2026, the text as amended by Decree No. 124 of 15 February 2024; the page holds the text up to paragraph 16) and, stored in this run, the print version of the same document (kremlin.ru/acts/bank/44731/print), which holds the whole decree and Strategy. Together they confirm the title, number and date, the amending decree, entry into force on signature, the principles, the definitions, the 2024 section on regulation and safety, the duties of the Government and federal bodies and the recommendations to regions and state companies. The archiver flagged the print page because its page title barely names the document; its text is the decree. Also stored: CSET's English translation of the 2019 text (translated 28 October 2019 by Etcetera Language Group). Version 1's remark on the 2021 industry Code of Ethics rested on no stored file and was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree heading",
+    "quote": "О развитии искусственного интеллекта в Российской Федерации",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree heading",
+    "quote": "(В редакции Указа Президента Российской Федерации от 15.02.2024 № 124)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "heading",
+    "quote": "О развитии искусственного интеллекта в Российской Федерации",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "page title",
+    "quote": "Указ Президента Российской Федерации от 10.10.2019 г. № 490",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree heading",
+    "quote": "О развитии искусственного интеллекта в Российской Федерации",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree heading",
+    "quote": "(В редакции Указа Президента Российской Федерации от 15.02.2024 № 124)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "signature",
+    "quote": "Президент Российской Федерации В.Путин",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "page title",
+    "quote": "Указ Президента Российской Федерации от 10.10.2019 г. № 490",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "page title",
+    "quote": "Указ Президента Российской Федерации от 10.10.2019 г. № 490",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "signature",
+    "quote": "10 октября 2019 года",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 3",
+    "quote": "3. Настоящий Указ вступает в силу со дня его подписания.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "signature",
+    "quote": "10 октября 2019 года",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree heading",
+    "quote": "(В редакции Указа Президента Российской Федерации от 15.02.2024 № 124)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 3",
+    "quote": "3. Настоящий Указ вступает в силу со дня его подписания.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree heading",
+    "quote": "(В редакции Указа Президента Российской Федерации от 15.02.2024 № 124)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "decree, paragraph 3",
+    "quote": "3. Настоящий Указ вступает в силу со дня его подписания.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 21",
+    "quote": "Федеральным органам исполнительной власти руководствоваться положениями Национальной стратегии развития искусственного интеллекта на период до 2030 года",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 1",
+    "quote": "1. Утвердить прилагаемую Национальную стратегию развития искусственного интеллекта на период до 2030 года.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 19",
+    "quote": "Основными принципами развития и использования технологий искусственного интеллекта, соблюдение которых обязательно при реализации настоящей Стратегии, являются:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 19 а",
+    "quote": "а) защита прав и свобод человека: обеспечение защиты прав и свобод человека",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 19 б",
+    "quote": "б) безопасность: недопустимость использования искусственного интеллекта в целях умышленного причинения вреда гражданам и организациям, предупреждение и минимизация рисков возникновения негативных последствий использования технологий искусственного интеллекта",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 19 в",
+    "quote": "в) прозрачность: объяснимость работы искусственного интеллекта и процесса достижения им результатов",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "Strategy, paragraph 5 ц",
+    "quote": "доверенные технологии искусственного интеллекта - технологии, отвечающие стандартам безопасности, разработанные с учетом принципов объективности, недискриминации, этичности",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.10 д",
+    "quote": "д) риск-ориентированный подход: уровень проработки, характер и детализация изменений при регулировании вопросов в области искусственного интеллекта должны соответствовать уровню рисков",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.10 г",
+    "quote": "г) недискриминация: алгоритмы и наборы данных, методы обработки используемых для машинного обучения данных",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.10 в",
+    "quote": "в) уважение автономии и свободы воли человека: сохранение автономии и свободы воли человека в принятии им решений",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.10 е",
+    "quote": "Ответственность за все последствия работы систем искусственного интеллекта всегда несет физическое или юридическое лицо, признаваемое субъектом ответственности в соответствии с законодательством Российской Федерации",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.11 и",
+    "quote": "и) разработка требований информационной безопасности в отношении технологий искусственного интеллекта;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.8 з",
+    "quote": "з) внедрение в федеральных органах государственной власти только тех решений в области искусственного интеллекта, которые прошли сертификацию;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 21",
+    "quote": "Федеральным органам исполнительной власти руководствоваться положениями Национальной стратегии развития искусственного интеллекта на период до 2030 года",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "Strategy, paragraph 5 о",
+    "quote": "содержащие не менее 1 млрд. параметров",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "Strategy, paragraph 5 х",
+    "quote": "сильный искусственный интеллект - тип искусственного интеллекта, который способен выполнять различные задачи",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 22 а",
+    "quote": "органам государственной власти субъектов Российской Федерации и органам местного самоуправления руководствоваться положениями Национальной стратегии",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 22 б",
+    "quote": "государственным корпорациям и акционерным обществам с государственным участием включить в свои стратегии деятельности меры, направленные на обеспечение развития искусственного интеллекта",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "decree, paragraph 22 б",
+    "quote": "до 1 ноября 2024 г. направить доработанные стратегии деятельности в Министерство экономического развития Российской Федерации",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, section heading added in 2024",
+    "quote": "Создание комплексной системы нормативно-правового регулирования общественных отношений, связанных с развитием и использованием технологий искусственного интеллекта, обеспечение безопасности применения таких технологий",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 24 е",
+    "quote": "е) обязательное внедрение доверенных технологий искусственного интеллекта в тех областях его использования, в которых может быть нанесен ущерб безопасности Российской Федерации;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.8 д",
+    "quote": "д) формирование реестра апробированных доверенных технологий искусственного интеллекта, проверенных на угрозы информационной безопасности",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "Strategy, paragraph 9",
+    "quote": "Решение этой проблемы может привести не только к позитивным изменениям в ключевых сферах жизнедеятельности, но и к негативным последствиям",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-fcae74e57c/2026-10-17/official.pdf",
+    "sha256": "fd4751683724163b4bcc8d8c5057b53907626a12bcb5d30abbb104e76826bda2",
+    "locator": "page 1",
+    "quote": "Translation Date 28 October 2019",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-fcae74e57c/2026-10-17/official.pdf",
+    "sha256": "fd4751683724163b4bcc8d8c5057b53907626a12bcb5d30abbb104e76826bda2",
+    "locator": "page 1",
+    "quote": "Office of the President of the Russian Federation, 10 October 2019.",
+    "source_kind": "secondary"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/RU-01/2026-10-11/official.html",
+    "sha256": "8e7503a2b6a2f2042b4c11e2cde70e82b1241559771d7a9c8fe24f096b3c89b6",
+    "locator": "Strategy, paragraph 5 о",
+    "quote": "большие фундаментальные модели - модели искусственного интеллекта, являющиеся основой для создания и доработки различных видов программного обеспечения",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.11 в",
+    "quote": "в том числе определение границ ответственности разработчиков таких моделей",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.10 д",
+    "quote": "д) риск-ориентированный подход",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.8",
+    "quote": "Основными направлениями внедрения доверенных технологий искусственного интеллекта в органах публичной власти и организациях являются:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 51.11 з",
+    "quote": "з) формирование перечня областей использования технологий искусственного интеллекта, в которых может быть нанесен ущерб безопасности Российской Федерации;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-12f6257977/2026-10-17/official.html",
+    "sha256": "f7120a397f0c6cd0b0d1b611bd9b522b4b17373a636810c197e3a9ca384f297b",
+    "locator": "Strategy, paragraph 23",
+    "quote": "обеспечение национальной безопасности и правопорядка",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-fcae74e57c/2026-10-17/official.pdf",
+    "sha256": "fd4751683724163b4bcc8d8c5057b53907626a12bcb5d30abbb104e76826bda2",
+    "locator": "page 1",
+    "quote": "Decree of the President of the Russian Federation on the Development of Artificial Intelligence in the Russian",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RU-01/extra-fcae74e57c/2026-10-17/official.pdf",
+    "sha256": "fd4751683724163b4bcc8d8c5057b53907626a12bcb5d30abbb104e76826bda2",
+    "locator": "page 1",
+    "quote": "Etcetera Language Group, Inc.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "reduced to the decree's number and date; the amending decree is a version, already in title, notes and date_last_updated",
+   "summary": "rewritten from the whole stored text: the binding principles of paragraph 19 (human rights, safety, transparency) and the 2024 section on regulation and safety (risk-based approach, non-discrimination, autonomy, liability of persons, information-security requirements, certification for federal bodies) added; defined terms rendered literally",
+   "safety_topics": "'risk-based classification' (risk-oriented approach, 51.10 д) and 'public-sector use' (trusted AI in public authorities, 51.8) added; the four published topics are supported by the full text (foundation models and strong AI; liability of persons and of developers; harm to the security of the Russian Federation; research)",
+   "notes": "rewritten from the stored text: the changes of Decree No. 124 listed, including the new section on regulation and safety; the remark on the 2021 industry Code of Ethics (another instrument, no stored file, with research-process language) removed; a sentence on what the English translation covers",
+   "scope_note": "added: a development strategy whose safety content is one part of it is in with a scope_note under the general rule for strategies",
+   "english_version": "CSET's translation of the 2019 decree and Strategy, stored in this run; a third-party translation that predates the 2024 amendments",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Paragraph 3: the decree enters into force on signature, 10 October 2019. Both kremlin.ru copies give the text as amended by Decree No. 124 of 15 February 2024 and show no repeal; 'In force' stands.",
+  "scope_reasoning": "A presidential decree approving the national AI strategy. Its main content is AI development (goals, infrastructure, data, research, skills); safety and risk governance are one part (principles and the 2024 section on regulation and safety). It stays in with a scope_note under the general rule for strategies.",
+  "translation_reasoning": "english_version is CSET's translation because it is the only English text found; it is a third-party translation of the 2019 wording, and the notes say it does not include the 2024 amendments."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Draft federal law on the foundations of state regulation of the fields of application of AI technologies in the Russian Federation",
+   "url": "https://digitalpolicyalert.org/change/18810-testing-requirement-in-the-federal-law-on-the-foundations-of-state-regulation-of-the-fields-of-application-of-artificial-intelligence-technologies-in-the-russian-federation",
+   "note": "Seen only as a tracker entry title in a web search; an official source (sozd.duma.gov.ru or regulation.gov.ru) is needed."
+  }
+ ],
+ "open_questions": [
+  "The only English text found (CSET, 2019) does not cover the 2024 amendments, which added the definitions and the section on regulation and safety that much of the summary rests on."
+ ]
+}

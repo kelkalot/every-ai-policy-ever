@@ -1,0 +1,50 @@
+{
+ "cand_id": "RS-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Government recommends that state bodies and organisations apply the guidelines; others recommended to do so too",
+   "verdict": "supported",
+   "locator": "section 1.2, pages 4-5"
+  },
+  {
+   "claim": "Contents list high-risk AI systems (2.3) and section 4 questionnaire",
+   "verdict": "supported",
+   "locator": "contents, page 14"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Government of Serbia English news item confirms the title and the adoption on 23 March 2023; the Serbian text copy is hosted by ReSPA (alt-official). Summary and notes match the Serbian text (sections 1.2, 2.3, 3.1, 4). Instrument number of the Conclusion still unknown. No newer edition searched beyond the record's own stored sources."
+}

@@ -1,0 +1,39 @@
+{
+ "cand_id": "KG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "no stored text supports the value; stored file is a JavaScript shell with only the page title"
+  },
+  "official_identifier": {
+   "verdict": "unsupported",
+   "why": "no stored text supports the value; stored file is a JavaScript shell with only the page title"
+  },
+  "date_in_force": {
+   "verdict": "unsupported",
+   "why": "no stored text supports the value; stored file is a JavaScript shell with only the page title"
+  }
+ },
+ "summary_claims": [],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Digital Code that is not AI-specific as a whole; included because Chapter 23 is the operative law on AI systems."
+ },
+ "overall": "needs-human",
+ "note": "The Digital Code could not be stored: the stored text is the page title only. Title, original title and date are supported by that title alone; status, official_identifier, date_in_force, summary and notes have no stored evidence and cannot be checked. These values are left as published, but the evidence script reports an error for status. needs-human so that a person stores the Code (or provides it) and decides."
+}

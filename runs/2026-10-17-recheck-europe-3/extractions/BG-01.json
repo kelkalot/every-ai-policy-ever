@@ -1,0 +1,238 @@
+{
+ "cand_id": "BG-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BG-01",
+ "record": {
+  "summary": "Decision of the Bulgarian Council of Ministers under Article 77(2) of the AI Act, proposed by the Minister of e-Government, that designates seven bodies as the national authorities protecting fundamental rights, including the right to non-discrimination: the Ombudsman, the Central Election Commission, the Commission for Protection against Discrimination, the Commission for Personal Data Protection, the Consumer Protection Commission, the State Agency for Child Protection and the General Labour Inspectorate Executive Agency. The designated bodies may request and obtain access to any documentation created or kept under the AI Act when they need it to exercise their powers.",
+  "notes": "Adopted at the Council of Ministers' sitting of 18 June 2025 and entered in the Council of Ministers' register of acts on 19 June 2025. It designates only fundamental-rights authorities. In answers to BTA published on 9 January 2026, the Ministry of e-Government, the lead ministry for the AI Act, said that a draft decision naming the Bulgarian Accreditation Service as notifying authority had not yet been submitted to the Council of Ministers, that a draft decision on market surveillance had yet to go through interministerial coordination, that no decisions had been taken on the coordination model or the sanctions regime, and that the national legal framework was due by March 2026. A private members' bill with a fuller framework was filed in the National Assembly on 24 September 2026 (BG-02).",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the decision's transcript from the Council of Ministers' legal information system (pris.government.bg, stored 12 Oct 2026) is a Word .doc file for which this run has no text layer, and the portal answered HTTP 500 on 17 Oct 2026. The record therefore rests on three stored pages: the Council of Ministers' page for its sitting of 18 June 2025 on gov.bg (agenda item proposed by the Minister of e-Government, and the press summary saying the Government adopted the decision and describing the authorities' access to AI Act documentation); the decision's entry on strategy.bg (number 398/2025, issue date 18.06.2025, publication 19.06.2025, proposer, legal basis Article 77(2), keywords naming the seven bodies); and the BTA report of 9 January 2026. strategy.bg is the Council of Ministers' public consultation portal (its footer) but is not yet listed in pipeline/official-sites.json, so its quotes count as secondary, as do BTA's; the number 398 and the list of the seven bodies rest on these two. The .doc file, read outside the run's text layer, also gives point 1 with the reference to the high-risk systems of Annex III, the Minister of e-Government's duties to notify the Commission and the Member States and to publish the list, and the Prime Minister's signature; these were left out of the summary and notes because no matchable stored text supports them. No State Gazette publication and no English version were found. Version 1's sentence on the Commission's list of single points of contact and the summary's claim that this is Bulgaria's only adopted AI Act designation act as of October 2026 rested on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "press summary of the sitting of 18.06.2025",
+    "quote": "Правителството прие Решение на Министерския съвет за определяне на национални органи по защита на основните права, включително правото на недискриминация, съгласно чл. 77 от Регламент (ЕС) 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Относно",
+    "quote": "ЗА ОПРЕДЕЛЯНЕ НА НАЦИОНАЛНИ ОРГАНИ ПО ЗАЩИТА НА ОСНОВНИТЕ ПРАВА, ВКЛЮЧИТЕЛНО ПРАВОТО НА НЕДИСКРИМИНАЦИЯ, СЪГЛАСНО ЧЛ. 77 ОТ РЕГЛАМЕНТ (ЕС) 2024/1689",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry heading",
+    "quote": "Решение №398 на Министерския съвет от 2025 г.",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "press summary of the sitting of 18.06.2025",
+    "quote": "Правителството прие Решение на Министерския съвет за определяне на национални органи",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Номер",
+    "quote": "Номер №398/2025",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "section 'Определени са органи по основните права'",
+    "quote": "Решение на Министерския съвет № 398 от 18 юни 2025 г.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "page heading",
+    "quote": "Дневен ред на заседание на Министерския съвет на 18.06.2025 г.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Дата на издаване",
+    "quote": "Дата на издаване 18.06.2025",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "page heading",
+    "quote": "Дневен ред на заседание на Министерския съвет на 18.06.2025 г.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Дата на издаване",
+    "quote": "Дата на издаване 18.06.2025",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "press summary of the sitting of 18.06.2025",
+    "quote": "Правителството прие Решение на Министерския съвет за определяне на национални органи по защита на основните права, включително правото на недискриминация, съгласно чл. 77 от Регламент (ЕС) 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "section 'Определени са органи по основните права'",
+    "quote": "Като основно изпълнено задължение МЕУ отчита приемането на Решение на Министерския съвет № 398 от 18 юни 2025 г.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "press summary of the sitting of 18.06.2025",
+    "quote": "Правителството прие Решение на Министерския съвет за определяне на национални органи по защита на основните права, включително правото на недискриминация, съгласно чл. 77 от Регламент (ЕС) 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Правно основание",
+    "quote": "Правно основание чл. 77, параграф 2 от Регламент (ЕС) 2024/1689",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "agenda item",
+    "quote": "(Акт за изкуствения интелект). Внася: министърът на електронното управление",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-909a8d721a/2026-10-17/official.html",
+    "sha256": "4c01271a0069560d2b4e48162d4c6465d8cc1ab14753eb5e22114f53f3b495eb",
+    "locator": "press summary of the sitting of 18.06.2025",
+    "quote": "Определените национални органи ще имат правомощието да изискват и получават достъп до всякаква документация, създадена или поддържана съгласно Акта за изкуствения интелект",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "section 'Определени са органи по основните права'",
+    "quote": "Това са омбудсманът, Централната избирателна комисия (ЦИК), Комисията за защита от дискриминация (КЗД), Комисията за защита на личните данни (КЗЛД)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "section 'Определени са органи по основните права'",
+    "quote": "Комисията за защита на потребителите (КЗП), Държавната агенция за закрила на детето (ДАЗД) и Изпълнителната агенция „Главна инспекция по труда“",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Термини",
+    "quote": "Изпълнителна агенция Главна инспекция по труда",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/BG-01/extra-619624b565/2026-10-17/official.html",
+    "sha256": "5d15c423a35486f0886d3c9500dd56e60d0ea93b9da7d4a9065dd893c0e46809",
+    "locator": "act entry: Дата на публикуване",
+    "quote": "Дата на публикуване 19.06.2025",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "article body",
+    "quote": "като се предвижда тази функция да бъде възложена на Изпълнителна агенция „Българска служба по акредитация“. Проектът обаче все още не е внесен за разглеждане и приемане от Министерския съвет.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "article body",
+    "quote": "Срокът за изработване на националната нормативна рамка е март 2026 г.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "article body",
+    "quote": "Към момента липсват приети решения за националния координационен модел, за конкретните органи по надзор на пазара, за санкционния режим",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/BG-01/2026-10-17/secondary.html",
+    "sha256": "5f7bcfda2238eda6420780003a44767a8ff89bf1a39430386f9de6b67ad25670",
+    "locator": "article date line",
+    "quote": "09.01.2026 07:00",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from matchable stored text: the claim 'Bulgaria's only adopted AI Act designation act as of October 2026' removed (no stored source); the proposer and the bodies' access to AI Act documentation added from the gov.bg page; the Minister's notification and publication duties and the reference to the high-risk systems of Annex III left out because they rest only on the .doc file, which has no text layer",
+   "notes": "the Commission-list sentence (no stored file) and the Prime Minister's signature (.doc only) removed; adoption at the sitting of 18 June 2025 and entry in the register on 19 June 2025 added; the ministry's answers to BTA restated, with the absence of decisions on the coordination model and sanctions",
+   "english_version": "not recorded in version 1; no English version of the decision was found",
+   "verification.note": "rewritten: the record now rests on the gov.bg sitting page, the strategy.bg act entry and BTA, since the .doc transcript has no text layer"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Council of Ministers' page for its sitting of 18 June 2025 says the Government adopted the decision; strategy.bg gives the issue date 18.06.2025 and publication on 19.06.2025, and the Ministry of e-Government reported it to BTA as its main fulfilled AI Act obligation (published 9 January 2026). A Council of Ministers decision of this kind takes effect on adoption, and no repeal or amendment appears in the stored files. 'In force' stands, with date_in_force equal to the adoption date.",
+  "scope_reasoning": "A binding government act designating national authorities under Article 77 of the AI Act; the mandate of supervisory bodies under AI legislation is in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are the adoption date, 18 June 2025 (gov.bg sitting page; strategy.bg issue date), as in version 1; the register entry of 19 June 2025 is in the notes."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Draft Council of Ministers decision designating the Executive Agency 'Bulgarian Accreditation Service' as AI Act notifying authority, and a draft decision on AI Act market surveillance authorities (Bulgaria)",
+   "url": null,
+   "seen_in": "archive/BG-01/2026-10-17/secondary.html (BTA, 9 January 2026)",
+   "why": "Bulgaria's further AI Act designations, not yet adopted in January 2026; a later run should check whether either was adopted."
+  }
+ ],
+ "open_questions": [
+  "The official transcript of the decision (pris.government.bg, a Word .doc file) has no text layer in this run, so the decision number 398 and the list of the seven bodies rest on strategy.bg and BTA, which count as secondary; the gov.bg sitting page gives title, date and adoption but not the number. A text layer for .doc files, or a maintainer's decision recording strategy.bg (the Council of Ministers' public consultation portal) as official, would let them count as official evidence.",
+  "original_title is kept as in version 1; it is a shortened form of the decision's heading, which repeats the full title of Regulation (EU) 2024/1689 (as strategy.bg shows), and could not be checked against the .doc text."
+ ]
+}

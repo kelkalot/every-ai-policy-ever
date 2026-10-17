@@ -1,0 +1,57 @@
+{
+ "cand_id": "HR-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "computed from Article 14 (eighth day after publication on 5 Nov 2025 = 13 Nov 2025); consistent"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Article 215.a(1): six months to five years' imprisonment for endangering life or body by an AI system",
+   "verdict": "supported",
+   "locator": "Article 11 of the act"
+  },
+  {
+   "claim": "Serious bodily injury or large-scale damage raises the penalty to one to ten years",
+   "verdict": "supported",
+   "locator": "Article 215.a(3)-(4)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Amendment of the Criminal Code that is not AI-specific as a whole, but adds the AI-system definition and the offence in Article 215.a; included because it is the operative criminal provision on AI-caused danger to life and property."
+ },
+ "overall": "accept",
+ "note": "Penalty and definition claims match the gazette text (Article 215.a(1)-(6), Article 87(33)). In-force date 13 November 2025 follows from Article 14 and the 5 November publication. Original title is now the title as proclaimed, without the NN reference. Search found no Croatian AI Act implementing law yet. Borderline scope suggested because the amendment is not AI-specific as a whole."
+}

@@ -1,0 +1,59 @@
+{
+ "cand_id": "GR-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Article 4(1): AI-supported decisions affecting rights only where a specific law expressly provides, with safeguards",
+   "verdict": "supported",
+   "locator": "page 4"
+  },
+  {
+   "claim": "Article 5(1): algorithmic impact assessment before the system starts operating",
+   "verdict": "supported",
+   "locator": "page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Repealed AI chapter: status Superseded and date_last_updated 2026-07-20 rest on Article 26 of Law 5321/2026 stored this run. Summary claims match Articles 4, 5, 9 and 10. Two title quotes match only ignoring spacing, which is a PDF line-break effect."
+}

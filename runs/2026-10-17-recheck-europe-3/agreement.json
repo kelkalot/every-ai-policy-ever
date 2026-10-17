@@ -1,0 +1,120 @@
+{
+ "run_id": "2026-10-17-recheck-europe-3",
+ "generated": "2026-10-17",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.375,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "original_title": {
+   "compared": 2,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "issuing_body": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "official_identifier": {
+   "compared": 2,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_published": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_in_force": {
+   "compared": 1,
+   "agree": 1,
+   "rate": 1.0
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 2,
+   "agree": 2,
+   "rate": 1.0
+  }
+ },
+ "disagreements": {
+  "AUS-02": [],
+  "BG-01": [],
+  "KG-01": [],
+  "PL-01": [
+   {
+    "field": "original_title",
+    "first": "Ustawa z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+    "blind": null
+   },
+   {
+    "field": "issuing_body",
+    "first": "Sejm of the Republic of Poland",
+    "blind": null
+   },
+   {
+    "field": "official_identifier",
+    "first": "Dz.U. 2026 poz. 1003",
+    "blind": null
+   }
+  ],
+  "UZ-02": [
+   {
+    "field": "original_title",
+    "first": "Сунъий интеллектни қўллаш орқали юзага келадиган муносабатлар тартибга солиниши муносабати билан Ўзбекистон Республикасининг айрим қонун ҳужжатларига қўшимча ва ўзгартиришлар киритиш тўғрисида",
+    "blind": "Сунъий интеллектни қўллаш орқали юзага келадиган муносабатлар тартибга солиниши муносабати билан Ўзбекистон Республикасининг айрим қонун ҳужжатларига қўшимча ва ўзгартиришлар киритиш тўғрисида / О внесении дополнений и изменений в некоторые законодательные акты Республики Узбекистан в связи с регулированием отношений, возникающих при применении искусственного интеллекта"
+   },
+   {
+    "field": "official_identifier",
+    "first": "Law No. ZRU-1115 (ЎРҚ-1115 / LRU-1115) of 21 January 2026 (National Database of Legislation, 21.01.2026, No. 03/26/1115/0063)",
+    "blind": null
+   }
+  ]
+ },
+ "resulting_record_agreement": 0.922,
+ "resulting_record_fields": 64
+}

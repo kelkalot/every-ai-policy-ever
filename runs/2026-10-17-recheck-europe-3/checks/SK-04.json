@@ -1,0 +1,53 @@
+{
+ "cand_id": "SK-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. III section 6(2): remove content within 24 hours of notice where its illegality is obvious",
+   "verdict": "supported",
+   "locator": "bill text"
+  },
+  {
+   "claim": "Resolution no. 1407: NR SR will not continue deliberating the bill (status Lapsed)",
+   "verdict": "supported",
+   "locator": "resolution no. 1407"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope note kept."
+ },
+ "overall": "accept",
+ "note": "Only the verification note changes. Print 1029 page and resolution no. 1407 confirm that the National Council will not continue deliberating; status Lapsed is right. Scope note already present."
+}

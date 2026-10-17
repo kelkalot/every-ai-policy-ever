@@ -1,0 +1,37 @@
+{
+ "cand_id": "KG-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KG-02",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "PARTIAL. Recheck of 17 Oct 2026: the order could not be stored. The copy of the Ministry of Justice central register of legal acts (cbd.minjust.gov.kg) stored on 12 Oct 2026 is the register's JavaScript application shell, whose text is only the truncated page title 'Распоряжение Кабинета Министров Кыргызской Республики от 31'; the browser retry failed with an HTTP/2 protocol error, and on 17 Oct 2026 the site refused the archiver's connection (TLS protocol version). The number, the date, the status, the entry into force, the summary and the notes rest on version 1, which read the order through the site's data interface without storing it. No English translation was found."
+  }
+ },
+ "evidence": {},
+ "judgment": {
+  "changes": {
+   "english_version": "no English translation of the order was found in a search",
+   "verification.note": "rewritten: the order's text could not be stored"
+  },
+  "confirmed": [],
+  "status_reasoning": "Not settled by any stored file: the stored page title is cut off after 'от 31' and shows neither the date, the number nor the entry-into-force clause. The published status 'In force' is left as it is.",
+  "scope_reasoning": "A binding Cabinet implementing act under the Digital Code's AI chapter (conformity declaration for increased-danger AI systems); in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Resolution of the Cabinet of Ministers of the Kyrgyz Republic No. 770 of 2 December 2025 on requirements for assessing the danger of AI systems and for increased-danger AI systems",
+   "url": "https://economist.kg/novosti/2025/12/05/kyrghyzstan-zakriepil-triebovaniia-k-sistiemam-ii-s-vysokoi-stiepieniu-opasnosti/",
+   "note": "Press report: the Cabinet's requirements under Article 194(4) of the Digital Code (risk management, system characteristics, data quality, technical documentation), which KG-02's notes say were not located. Not in the register."
+  }
+ ],
+ "open_questions": [
+  "title, date_published, status and every other field have no stored evidence: the only stored text is the truncated page title 'Распоряжение Кабинета Министров Кыргызской Республики от 31'. They are left as published. The order (edition 45932) needs to be stored by a browser retry or provided by a person (AGENTS.md section 7.8).",
+  "The notes say the Cabinet's detailed requirements under Article 194(4) 'were not located'; a press report names them as Resolution No. 770 of 2 December 2025 (lead above). The notes should be corrected once that resolution is stored."
+ ]
+}

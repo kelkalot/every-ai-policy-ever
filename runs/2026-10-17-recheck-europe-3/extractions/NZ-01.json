@@ -1,0 +1,232 @@
+{
+ "cand_id": "NZ-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NZ-01",
+ "record": {
+  "summary": "Non-binding framework for the responsible use of AI across the New Zealand Public Service. It sets a vision, 5 principles informed by the OECD AI Principles (inclusive and sustainable development, human-centred values, transparency and explainability, safety and security, and accountability), the legal and policy context, and 6 pillars of the Government Chief Digital Officer's AI work programme: governance, guardrails, capability, innovation, social licence and global voice. It asks agencies to disclose when they use AI systems and to provide human oversight throughout the AI lifecycle.",
+  "safety_topics": [
+   "public-sector use",
+   "accountability & liability",
+   "transparency & labelling",
+   "human oversight"
+  ],
+  "notes": "The framework sits within New Zealand's National AI Strategy, launched in July 2025. It follows Cabinet's decision of June 2024 to promote the OECD AI principles, and it records Cabinet's light-touch, proportionate and risk-based approach to AI regulation, under which further intervention should use existing mechanisms in preference to a standalone AI Act. The page shows 'Last updated 29 January 2025' although it refers to the strategy launched in July 2025.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the plain download of the digital.govt.nz page returned a bot-check page; the page was stored with a browser on 17 Oct 2026, rendered and printed to PDF, and its text matches the 11 Oct 2026 copy except for one added menu entry. Title, the 5 principles, the 6 pillars, the non-binding character and 'Last updated 29 January 2025' confirmed. Stored in this run: the framework's A3 PDF (vision, principles, policy context and work programme, with no date) and the 'About digital.govt.nz' page (the site supports the Government Chief Digital Officer role; it does not name a department). No stored file gives a first-publication date, so date_published (January 2025) rests on the page's last-updated date, and none names the Department of Internal Affairs; both stay as published and are listed as open questions."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "page heading",
+    "quote": "Public Service AI Framework A framework supporting the responsible use of Artificial Intelligence (AI) technologies across the New Zealand Public Service.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/NZ-01/extra-654d5e7b70/2026-10-17/official.pdf",
+    "sha256": "96bcab0820bce463926204439e55ba631b53955ca1fa8ffd4a29ef91f7a5d204",
+    "locator": "page 1, heading",
+    "quote": "Public Service Artificial Intelligence Framework Vision Adopt AI responsibly to modernise public services and deliver better outcomes for all New Zealanders",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Overview of the Public Service AI Framework",
+    "quote": "outlines 6 key pillars of the Government Chief Digital Officer’s (GCDO) AI work programme.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Contact us",
+    "quote": "For further information, to ask questions or give feedback, email the Government Chief Digital Office (GCDO).",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "page information",
+    "quote": "Last updated 29 January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "page information",
+    "quote": "Last updated 29 January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Overview of the Public Service AI Framework",
+    "quote": "Agencies are encouraged to align with the direction set by this Framework, however it’s not binding.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-print.pdf",
+    "sha256": "779de534d4fd8ffdf767f96564e08511f6ee79b30cde7241151bd98c7ee0b124",
+    "locator": "page 1",
+    "quote": "The Public Service AI Framework sits within the National AI Strategy which was launched in July 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Overview of the Public Service AI Framework",
+    "quote": "Agencies are encouraged to align with the direction set by this Framework, however it’s not binding.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Overview of the Public Service AI Framework",
+    "quote": "sets a vision for AI in New Zealand’s Public Service defines 5 key principles to guide Public Service AI use outlines the policy context for Public Service AI use outlines 6 key pillars",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "The 5 principles of the Framework",
+    "quote": "We use the OECD’s values-based AI principles to inform the principles of the Public Service AI Framework.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "The 5 principles of the Framework",
+    "quote": "Inclusive, sustainable development Public Service AI systems should contribute to inclusive growth and sustainable development",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Human-centred values",
+    "quote": "Agencies need to provide human oversight throughout the AI lifecycle to ensure ethical and appropriate use.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Transparency and explainability",
+    "quote": "To support this, agencies should publicly disclose: when AI systems are used",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "The work programme's 6 pillars",
+    "quote": "Governance — to support transparency and human accountability in Public Service AI use.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "The work programme's 6 pillars",
+    "quote": "Global voice — to ensure international counterparts see New Zealand as a trusted AI partner.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/NZ-01/extra-654d5e7b70/2026-10-17/official.pdf",
+    "sha256": "96bcab0820bce463926204439e55ba631b53955ca1fa8ffd4a29ef91f7a5d204",
+    "locator": "page 1, Principles",
+    "quote": "Human-centred values • Privacy and data ethics • Upholding democracy and the rule of law • Human and labour rights • Human oversight",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/NZ-01/extra-654d5e7b70/2026-10-17/official.pdf",
+    "sha256": "96bcab0820bce463926204439e55ba631b53955ca1fa8ffd4a29ef91f7a5d204",
+    "locator": "page 1, Work programme",
+    "quote": "Guardrails Support safe and trustworthy use of AI and its underpinning data",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "Background to the Framework principles",
+    "quote": "Cabinet agreed in June 2024 to promote the OECD principles as a key direction for our approach to responsible AI in New Zealand.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "New Zealand's approach to AI regulation",
+    "quote": "Cabinet has agreed to a light-touch, proportionate and risk-based approach to AI regulation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NZ-01/2026-10-17/official-rendered.html",
+    "sha256": "9d5ce9ba150d1cbc5e774f744a1aaf900d810ad802b260ddaa99a7f355e0b32d",
+    "locator": "New Zealand's approach to AI regulation",
+    "quote": "use existing mechanisms in preference to developing a standalone AI Act.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored page: the 5 principles and the 6 pillars named (the earlier 'six focus areas' are the page's '6 key pillars'), the disclosure and human-oversight expectations",
+   "safety_topics": "'human oversight' added: the principles ask agencies to provide human oversight throughout the AI lifecycle",
+   "notes": "rewritten: the Cabinet decisions the framework builds on, and the discrepancy between the page's last-updated date and its reference to the July 2025 strategy",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The page, stored again on 17 Oct 2026, still presents the framework as current guidance within the National AI Strategy (launched July 2025) and says agencies are encouraged to align with it but it is not binding. No replacement is shown. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A government framework for responsible and safe use of AI in the public service; in scope with no note.",
+  "date_reasoning": "The only date in the stored files is the page's 'Last updated 29 January 2025'; the A3 PDF stored in this run has none. date_published stays at the month (2025-01) and date_last_updated at that day. The issuing_body evidence names the Government Chief Digital Officer; no stored file names the department in brackets."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.digital.govt.nz/assets/Documents/Public-Service-Artifical-Intelligence-Framework.pdf",
+   "reason": "the framework itself (A3 PDF), stored in this run; it carries no date"
+  },
+  {
+   "url": "https://www.digital.govt.nz/home/about-digital-govt-nz",
+   "reason": "the 'About digital.govt.nz' page, stored in this run with a browser; it names the Government Chief Digital Officer role but no department"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Responsible AI Guidance for the Public Service: GenAI (Government Chief Digital Officer, New Zealand)",
+   "url": "https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/responsible-ai-guidance-for-the-public-service-genai",
+   "seen_in": "archive/NZ-01/2026-10-17/official-rendered.html (Artificial intelligence (AI) menu)",
+   "why": "GCDO guidance on generative AI use in the public service, next to the framework; not in the register."
+  },
+  {
+   "title": "Public Service AI Toolkit (Government Chief Digital Officer, New Zealand)",
+   "url": "https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/artificial-intelligence/public-service-ai-toolkit",
+   "seen_in": "archive/NZ-01/2026-10-17/official-rendered.html (Artificial intelligence (AI) menu)",
+   "why": "GCDO toolkit for applying the framework in agencies; possibly in scope as public-sector AI guidance."
+  }
+ ],
+ "open_questions": [
+  "No stored file gives the framework's first publication date: the digital.govt.nz page shows only 'Last updated 29 January 2025' (while referring to the National AI Strategy launched in July 2025) and the A3 PDF is undated, so date_published 2025-01 rests on the last-updated date.",
+  "The record's issuing_body names the Department of Internal Affairs in brackets, but no stored file names it: the framework page and the 'About digital.govt.nz' page name only the Government Chief Digital Officer, and the page's contact address is at gdda.govt.nz."
+ ]
+}

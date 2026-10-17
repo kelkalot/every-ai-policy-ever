@@ -1,0 +1,213 @@
+{
+ "cand_id": "GR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GR-01",
+ "record": {
+  "notes": "Signed and published on 20 July 2026 and in force from publication (Article 58), unless individual provisions say otherwise. Article 11 designates the Hellenic Data Protection Authority as notified body for high-risk systems put into service by law-enforcement, migration and asylum authorities, Article 13 allows real-world testing of high-risk systems outside sandboxes, and Article 20 adds AI Act infringements to the scope of Law 4990/2022. Article 26 repeals the AI chapter of Law 4961/2022 (Chapter B of Part A); the public-sector AI register and the AI Observatory are re-established at the Special Secretariat for AI and Data Governance, and public bodies already using AI systems must register them by 31 December 2026. Part B holds other provisions of the Ministries of Digital Governance and Interior, among them Article 47 on using an AI system to evaluate and manage state-aid actions of the Partnership Agreement for Regional Development. The Commission's list of single points of contact (last updated 7 September 2026) names the Hellenic Data Protection Authority for Greece without the mark for a designation still pending.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Government Gazette PDF (ΦΕΚ Α΄ 114/20.07.2026, 46 pages) stored on 12 Oct 2026 from the National Printing House file store and unchanged on 17 Oct, and the Hellenic DPA press release of 18 August 2026 stored the same day; stored the Commission's page on market surveillance authorities under the AI Act on 17 Oct 2026. The gazette confirms the title, number, date, signatures and Articles 1-26, 47 and 58; the Commission page confirms the single point of contact. No English translation of the law was found; the DPA release gives an English rendering of the title only. Version 1's consultation dates (legal-news sites) rested on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "NOMOΣ ΥΠ’ ΑΡΙΘΜ. 5321 Μέτρα εφαρμογής του Κανονισμού(ΕΕ) 2024/1689 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 13ης Ιουνίου 2024 (Κανονισμός για την τεχνητή νοημοσύνη) - Τροποποίηση του ν. 4961/2022 (Α΄146) και άλλες διατάξεις.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/secondary.html",
+    "sha256": "8207b3117817f5568ecd904fa1fe748e7d8399a1a927fd586d37584d3c95c1bc",
+    "locator": "press release text",
+    "quote": "Law 5321/2026 (‘Measures for the implementation of Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 (Regulation on Artificial Intelligence) – Amendment of Law 4961/2022",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "NOMOΣ ΥΠ’ ΑΡΙΘΜ. 5321 Μέτρα εφαρμογής του Κανονισμού(ΕΕ) 2024/1689 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 13ης Ιουνίου 2024 (Κανονισμός για την τεχνητή νοημοσύνη) - Τροποποίηση του ν. 4961/2022 (Α΄146) και άλλες διατάξεις.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "Εκδίδομε τον ακόλουθο νόμο που ψήφισε η Βουλή:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 2",
+    "quote": "ΜΕΡΟΣ Β’: ΛΟΙΠΕΣ ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ ΚΑΙ ΥΠΟΥΡΓΕΙΟΥ ΕΣΩΤΕΡΙΚΩΝ",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "20 Ιουλίου 2026 ΤΕΥΧΟΣ ΠΡΩΤΟ Αρ. Φύλλου 114",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "NOMOΣ ΥΠ’ ΑΡΙΘΜ. 5321",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "20 Ιουλίου 2026 ΤΕΥΧΟΣ ΠΡΩΤΟ Αρ. Φύλλου 114",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 45",
+    "quote": "Θεωρήθηκε και τέθηκε η Μεγάλη Σφραγίδα του Κράτους. Αθήνα, 20 Ιουλίου 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 44, Article 58",
+    "quote": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά σε επιμέρους διατάξεις.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1",
+    "quote": "20 Ιουλίου 2026 ΤΕΥΧΟΣ ΠΡΩΤΟ Αρ. Φύλλου 114",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 44, Article 58",
+    "quote": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά σε επιμέρους διατάξεις.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 45",
+    "quote": "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 8, Article 11",
+    "quote": "Η Α.Π.Δ.Π.Χ. ορίζεται, σύμφωνα με την παρ. 1 του άρθρου 43 και την παρ. 8 του άρθρου 74 του Κανονισμού για την ΤΝ, ως κοινοποιημένος οργανισμός",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 2, table of contents",
+    "quote": "Άρθρο 13 Δοκιμές συστημάτων Τεχνητής Νοημοσύνης υψηλού κινδύνου σε πραγματικές συνθήκες εκτός ρυθμιστικών δοκιμαστηρίων Τεχνητής Νοημοσύνης",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 2, table of contents",
+    "quote": "Προσθήκη παραβάσεων των διατάξεων του Κανονισμού για την Τεχνητή Νοημοσύνη στο πεδίο εφαρμογής του ν. 4990/2022",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 14, Article 26",
+    "quote": "Από την έναρξη ισχύος του παρόντος νόμου καταργείται το Κεφάλαιο Β’ του Μέρους Α’ του ν. 4961/2022",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 14, Article 25(2)",
+    "quote": "δήλωση καταχώ- ρισης έργου ΤΝ στο Μητρώο του άρθρου 21",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-01/2026-10-12/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 3, table of contents (Article 47)",
+    "quote": "Χρήση συστήματος τεχνητής νοημοσύνης στις διαδικασίες αξιολόγησης και διαχείρισης δρά",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-01/extra-2123094e43/2026-10-17/official.html",
+    "sha256": "70b14141cdece40c8d4921e083f08cd80c4fe1806023b6dc723b6e21753fdb4a",
+    "locator": "Single Points of Contact",
+    "quote": "Greece Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα | Hellenic Data Protection Authority",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-01/extra-2123094e43/2026-10-17/official.html",
+    "sha256": "70b14141cdece40c8d4921e083f08cd80c4fe1806023b6dc723b6e21753fdb4a",
+    "locator": "Single Points of Contact",
+    "quote": "For Single Points of Contact marked with *, the national designation decision is still pending final adoption.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-01/extra-2123094e43/2026-10-17/official.html",
+    "sha256": "70b14141cdece40c8d4921e083f08cd80c4fe1806023b6dc723b6e21753fdb4a",
+    "locator": "page footer",
+    "quote": "Last update 7 September 2026",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten: consultation dates removed (no stored file); Article 11 (DPA as notified body) and Article 47 (AI in state-aid management) added; Article 20 described as in the gazette (scope of Law 4990/2022); the Commission-list sentence restored from the page now stored for this record",
+   "english_version": "no English text of the law was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 58: the law enters into force on publication in the Government Gazette, unless individual provisions say otherwise; it was published on 20 July 2026, which has passed. Part A has no deferred commencement (Article 25(2) sets a registration deadline, not a commencement). No amendment or repeal appears in the stored files. 'In force' stands.",
+  "scope_reasoning": "National law implementing the EU AI Act (authorities, sanctions, sandbox, public-sector register, deepfake-marking offence); in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are both the gazette date, 20 July 2026, which is also the date of signature."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

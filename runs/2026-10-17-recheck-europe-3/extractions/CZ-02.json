@@ -1,0 +1,164 @@
+{
+ "cand_id": "CZ-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CZ-02",
+ "record": {
+  "title": "Proposal for the Implementation of the Artificial Intelligence Act in the Czech Republic",
+  "summary": "Plan for applying the EU AI Act in Czechia, approved by the Government on 28 May 2025. The Ministry of Industry and Trade coordinates implementation, prepares a national AI law and sets up an AI competence centre for eGovernment. The Czech Telecommunication Office is the market surveillance authority; the Office for Technical Standardisation, Metrology and State Testing (ÚNMZ) is the notifying authority, which designates and monitors the bodies that assess the conformity of high-risk AI systems; and the Czech Standardisation Agency builds and runs a regulatory sandbox in which companies and researchers test AI under regulators' supervision.",
+  "notes": "At the same meeting the Government created the post of Government Commissioner for Artificial Intelligence and appointed Jan Kavalírek, Deputy Minister of Industry and Trade. The Czech Standardisation Agency signed a memorandum of cooperation with the Czech Artificial Intelligence Association on the regulatory sandbox. The draft national AI law that follows from the plan is CZ-01.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the press release of 28 May 2025 by the Office for Technical Standardisation, Metrology and State Testing (ÚNMZ) and the Czech Standardisation Agency (PDF on agenturacas.gov.cz, stored 11 Oct 2026) and the Czech Artificial Intelligence Association's note of 29 May 2025 (stored again 17 Oct 2026; the page around the note changed, the note did not). The agency release confirms the approval on 28 May 2025, the material's title and the roles of MPO, ČTÚ, ÚNMZ and ČAS; it is the release of another official body, not of the Government, hence level B. The appointment of the Government Commissioner for AI rests on the association's note only. The Government's resolution and its number are not stored and were not found. Removed because they rest on no stored file: the description of the material as non-legislative, its staffing and funding measures, and the transfer of oversight from the Deputy Prime Minister to the Ministry of Industry and Trade."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Vláda ČR schválila Návrh implementace Aktu o umělé inteligenci v České republice.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Vláda ČR schválila Návrh implementace Aktu o umělé inteligenci v České republice.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Vláda ČR schválila Návrh implementace Aktu o umělé inteligenci v České republice.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1, Role klíčových institucí",
+    "quote": "Ministerstvo průmyslu a obchodu (MPO): Jako gestor koordinuje implementaci AI Aktu v České republice.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Praha, 28. května 2025 – Vláda ČR schválila Návrh implementace Aktu o umělé inteligenci v České republice.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Praha, 28. května 2025 – Vláda ČR schválila Návrh implementace Aktu o umělé inteligenci v České republice.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Vláda ČR schválila Návrh implementace Aktu o umělé inteligenci v České republice.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1, MPO",
+    "quote": "Připraví návrh Zákona o umělé inteligenci a zřídí Kompetenční centrum AI pro eGovernment.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1, ČTÚ",
+    "quote": "Český telekomunikační úřad (ČTÚ): Jmenován orgánem dozoru nad trhem",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 2, ÚNMZ",
+    "quote": "Působí jako oznamující orgán, který bude jmenovat a oznamovat subjekty posuzování shody a monitorovat jejich činnost v souladu s požadavky AI Aktu.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Tyto systémy budou muset podstoupit certifikaci, aby bylo ověřeno, že splňují všechny zákonné požadavky.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 2, ČAS",
+    "quote": "Zodpovídá za vytvoření a správu regulatorního sandboxu, který podpoří inovace a testování AI technologií.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 1",
+    "quote": "Umožní podnikům a výzkumníkům testovat inovativní AI řešení, jako jsou autonomní systémy či pokročilé analytické nástroje, v kontrolovaném prostředí pod dohledem regulátorů",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CZ-02/2026-10-17/secondary.html",
+    "sha256": "83bc30ae40b3833c00e6489f9e485fef5dc9c24b70d9a0459f93e569869f9cb3",
+    "locator": "note of 29 May 2025",
+    "quote": "Zároveň bylo schváleno vytvoření funkce a jmenování vládního zmocněnce pro umělou inteligenci, kterým se stává Jan Kavalírek, náměstek ministra průmyslu a obchodu.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/CZ-02/2026-10-11/official.pdf",
+    "sha256": "70a0447d961669dfd9a6ce91567ee2e01f0d1ff95e5147792e73f5abe60178d3",
+    "locator": "page 2, Spolupráce se soukromým sektorem",
+    "quote": "navázala spolupráci s Českou asociací umělé inteligence a uzavřela s ní Memorandum o spolupráci",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the added '(approved by the Government on 28 May 2025)' is not part of the material's title; the approval date is in date_published",
+   "summary": "rewritten from the stored agency release: 'non-legislative', 'staffing and funding' and the commissioner's appointment are not in it (the appointment moved to the notes, from the association's note)",
+   "notes": "rewritten: the transfer of oversight from the Deputy Prime Minister and the summary of the material's contents rested on no stored file; the commissioner's appointment and the sandbox memorandum added from the stored files",
+   "english_version": "no English text of the plan was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Government approved the plan on 28 May 2025. Nothing stored shows it replaced or withdrawn; the draft law it called for (CZ-01) is still a draft. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A government plan setting up the national institutions for the AI Act, including supervision of high-risk AI systems; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The Government's resolution approving the plan, and its number, are not stored; a record of the meeting of 28 May 2025 on vlada.gov.cz would give the official identifier and let the record rest on the Government's own source (level A)."
+ ]
+}

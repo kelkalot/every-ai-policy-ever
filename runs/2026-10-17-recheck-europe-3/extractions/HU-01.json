@@ -1,0 +1,256 @@
+{
+ "cand_id": "HU-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "HU-01",
+ "record": {
+  "official_identifier": "2025. évi LXXV. törvény",
+  "notes": "Adopted by the National Assembly on 21 October 2025 and promulgated on 31 October 2025. In force on the 31st day after promulgation (1 December 2025); section 3(2) and section 10 on the AI regulatory sandbox took effect on 2 August 2026. Government Decree 344/2025 (X. 31.) (HU-02) designates the authorities and sets the detailed rules on their procedures and on fines. Until the end of the term set in Government Resolution 1028/2025 (II. 24.), the Government Commissioner for AI chairs the AI Council. The Commission's list of single points of contact (last updated 7 September 2026) showed no entry for Hungary.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the act on the National Legislation Database (njt.jog.gov.hu, ELI TV/2025/75, stored 11 Oct 2026, showing the text in force from 2 August 2026). It confirms the title, adoption by the National Assembly on 21 October 2025, promulgation on 31 October 2025, the entry-into-force rules, the authorities, the AI Council and its chair, the sandbox and the fine provision, and refers to Government Decree 344/2025 for the designations. The other file stored earlier (document-1.pdf) is the database's accessibility statement. Stored in this run: the Commission's list of AI Act single points of contact (digital-strategy.ec.europa.eu), which shows no entry for Hungary. The bill on parlament.hu (T/12632) could not be stored: the site answered with a CAPTCHA page, so the bill number was removed from the notes. The CMS Hungary legal update could not be stored (HTTP 403). The Magyar Közlöny issue number is not shown on the njt page."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "heading",
+    "quote": "2025. évi LXXV. törvény az Európai Unió mesterséges intelligenciáról szóló rendeletének magyarországi végrehajtásáról",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "heading",
+    "quote": "2025. évi LXXV. törvény az Európai Unió mesterséges intelligenciáról szóló rendeletének magyarországi végrehajtásáról",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "preamble [7]",
+    "quote": "Mindezek érdekében az Országgyűlés a következő törvényt alkotja:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "footnote 1",
+    "quote": "A törvényt az Országgyűlés a 2025. október 21-i ülésnapján fogadta el.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "heading",
+    "quote": "2025. évi LXXV. törvény",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "footnote 1",
+    "quote": "A kihirdetés napja: 2025. október 31.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "12. § (1)",
+    "quote": "Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 31. napon lép hatályba.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "footnote 1",
+    "quote": "A kihirdetés napja: 2025. október 31.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "12. § (1)",
+    "quote": "Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 31. napon lép hatályba.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "12. § (2)",
+    "quote": "A 3. § (2) bekezdés és a 10. § 2026. augusztus 2-án lép hatályba.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "preamble [7]",
+    "quote": "Mindezek érdekében az Országgyűlés a következő törvényt alkotja:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "3. § (1)",
+    "quote": "A Kormány rendeletben jelöli ki",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "4. § (1)",
+    "quote": "az MI bejelentő hatóság – akkreditált státusz alapján – értékeli, jelöli ki, jelenti be és követi nyomon",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "5. § (1)",
+    "quote": "Az MI piacfelügyeleti hatóság általános hatáskörű piacfelügyeleti hatóságként hivatalból eljár",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "3. § (2)",
+    "quote": "Az MI piacfelügyeleti hatóság a 10. § szerinti MI szabályozói tesztkörnyezetet működtet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "3. § (3)",
+    "quote": "egyedüli kapcsolattartó pont működtetésével kapcsolatos feladatokat",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "7. § (1) a)",
+    "quote": "közigazgatási bírságot alkalmaz",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "11. § (2) c)",
+    "quote": "a 7. § (1) bekezdés a) pontja szerinti közigazgatási bírság kiszabására, összegére és megfizetésére vonatkozó részletes szabályokat",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "8. § (1)",
+    "quote": "A Magyar Mesterséges Intelligencia Tanács (a továbbiakban: Tanács) testületként működő, ügydöntő jogkörrel nem rendelkező szerv",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "9. § (2)",
+    "quote": "A Tanács elnökét a miniszter és az informatikáért felelős miniszter javaslatára a miniszterelnök nevezi ki, 5 éves időtartamra.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "preamble [6]",
+    "quote": "A törvény célja a nemzeti mesterséges intelligencia stratégia és politika kialakítása",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "footnote 1",
+    "quote": "A törvényt az Országgyűlés a 2025. október 21-i ülésnapján fogadta el. A kihirdetés napja: 2025. október 31.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "12. § (2)",
+    "quote": "A 3. § (2) bekezdés és a 10. § 2026. augusztus 2-án lép hatályba.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "footnote 2",
+    "quote": "Lásd a 344/2025. (X. 31.) Korm. rendeletet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "13. §",
+    "quote": "A Tanács elnöki tisztségét a mesterséges intelligenciáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1028/2025. (II. 24.) Korm. határozat alapján",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HU-01/2026-10-11/official.html",
+    "sha256": "8713146c377590a9c7395df9dbcd42e14e3d6ee89ca32dc2ee19293fe486c7b1",
+    "locator": "13. §",
+    "quote": "a mesterséges intelligenciáért felelős kormánybiztos tölti be",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/HU-01/extra-2123094e43/2026-10-17/official.html",
+    "sha256": "70b14141cdece40c8d4921e083f08cd80c4fe1806023b6dc723b6e21753fdb4a",
+    "locator": "Single Points of Contact",
+    "quote": "Spanish Artificial Intelligence Surveillance Agency Hungary - Sweden",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/HU-01/extra-2123094e43/2026-10-17/official.html",
+    "sha256": "70b14141cdece40c8d4921e083f08cd80c4fe1806023b6dc723b6e21753fdb4a",
+    "locator": "page footer",
+    "quote": "Last update 7 September 2026",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "reduced to the act's number; the bill number is not a citation of the act",
+   "notes": "the bill number T/12632 removed (its source could not be stored); added that the Government Commissioner for AI chairs the AI Council for the rest of the term under Resolution 1028/2025 (section 13); the role of Decree 344/2025 stated as the act's footnotes give it; the single points of contact sentence now rests on the Commission's page stored in this run",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Section 12(1): in force on the 31st day after promulgation; promulgated on 31 October 2025, so the 31st day is 1 December 2025. Section 12(2): section 3(2) and section 10 from 2 August 2026, which has passed (17 October 2026). The njt page shows the text in force from 2 August 2026 and no repeal; 'In force' stands.",
+  "scope_reasoning": "A national law implementing the EU AI Act and creating its institutions; in scope with no note.",
+  "date_reasoning": "date_published stays the promulgation date (31 October 2025), as published; adoption on 21 October 2025 is in the notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The bill number T/12632, which version 1 gave in official_identifier and notes, rests on no stored file: parlament.hu answered the archiver with a CAPTCHA page. It was removed; a person could add it back from the parliament's bill page."
+ ]
+}

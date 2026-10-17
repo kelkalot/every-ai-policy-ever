@@ -1,0 +1,234 @@
+{
+ "cand_id": "LV-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "LV-02",
+ "record": {
+  "language": "Latvian",
+  "english_version": {
+   "kind": "none found"
+  },
+  "summary": "Informative report by the Ministry of Smart Administration and Regional Development (VARAM), considered by the Cabinet of Ministers on 25 February 2025, on putting the EU AI Act into effect in Latvia. It sets out the Act's requirements and what public authorities must do. VARAM is responsible for the Act as a whole; the Ministry of Economics is notifying authority and the Ombudsman the fundamental-rights authority. Twelve market surveillance authorities are named, with the State Data Inspectorate covering prohibited practices and high-risk systems and the Bank of Latvia AI used by financial institutions. It also identifies the legal changes needed and possible additional resources.",
+  "notes": "The report makes the Latvian National Accreditation Bureau the national accreditation body. The twelve market surveillance authorities are the Consumer Rights Protection Centre, the Health Inspectorate, the Civil Aviation Agency, the Latvian Maritime Administration, the State Railway Technical Inspectorate, the State Technical Supervision Agency, the Road Traffic Safety Directorate, the State Service for Quality of Education, the State Data Inspectorate, the State Security Service, the Military Intelligence and Security Service and the Office for Constitutional Protection. The Commission's list of single points of contact for market surveillance under the AI Act (last updated 7 September 2026) names the Consumer Rights Protection Centre for Latvia, without the mark for a pending designation. The Bank of Latvia's supervision was later set out in the Law on Digital Operational Resilience and Use of Artificial Intelligence in Financial Markets (LV-03), and the Artificial Intelligence Centre Law (LV-01) set up the AI Centre.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read VARAM's English press release of 25 February 2025 (stored 12 Oct 2026, unchanged on 17 Oct 2026) and the Commission's page of single points of contact for market surveillance under the AI Act (last updated 7 September 2026). Stored in this run: the same release in Latvian on LV portāls (lvportals.lv, run by the official publisher VSIA 'Latvijas Vēstnesis'), which gives the report's Latvian title. The releases confirm the title, the report's preparation by VARAM, the Cabinet's consideration on 25 February 2025 and the designated authorities; the summary and notes are written from them, not from the report itself, which is not stored (the legal-acts portal TAP, file 24-TA-2633, offers it as a Word file, which textify cannot read). Version 1's statements on PTAC's limited competence (a TAP review seen in search results) and that no general implementing law had been found rested on no stored file and were removed. The references to LV-01 and LV-03 rest on those records' own stored sources."
+  },
+  "original_title": "Informatīvais ziņojums “Par Mākslīgā intelekta akta prasību ieviešanu”"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-02/extra-4aef55e5fd/2026-10-17/official.html",
+    "sha256": "38b10065adb1f2f718be2d5681d9a50d13fa1edb93fb564a4d9252091c848b92",
+    "locator": "LV portāls, 'Latvija sper soli pretī drošam un atbildīgam mākslīgajam intelektam', body",
+    "quote": "informatīvais ziņojums “Par Mākslīgā intelekta akta prasību ieviešanu”",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "prepared by the Ministry of Smart Administration and Regional Development (VARAM)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-02/extra-4aef55e5fd/2026-10-17/official.html",
+    "sha256": "38b10065adb1f2f718be2d5681d9a50d13fa1edb93fb564a4d9252091c848b92",
+    "locator": "LV portāls, 'Latvija sper soli pretī drošam un atbildīgam mākslīgajam intelektam', body",
+    "quote": "Ministru kabinetā tika izskatīts Viedās administrācijas un reģionālās attīstības ministrijas (VARAM) sagatavotais informatīvais ziņojums",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article header",
+    "quote": "Published: 25.02.2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-02/extra-4aef55e5fd/2026-10-17/official.html",
+    "sha256": "38b10065adb1f2f718be2d5681d9a50d13fa1edb93fb564a4d9252091c848b92",
+    "locator": "LV portāls, article header",
+    "quote": "25. februārī, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "the Cabinet of Ministers considered the information report",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "the information report describes the current situation, the requirements of the AI Act and defines the actions to be taken by public authorities to ensure its national implementation",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "The VARAM is designated as the responsible authority for the implementation of the AI Act as a whole, as well as for cooperation with the European Commission. The Ministry of Economy will perform the functions and tasks of the notifying authority",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "The Ombudsman will perform the functions and tasks of the authority for the protection of fundamental rights under the AI Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "the State Data Inspectorate will provide market surveillance of prohibited AI practices and high-risk AI systems, while the Bank of Latvia will provide market surveillance of AI systems made available on the market, put into operation or used by financial institutions under its supervision",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "the Information Report identifies the necessary changes to the laws and regulations, as well as possible additional resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-02/extra-4aef55e5fd/2026-10-17/official.html",
+    "sha256": "38b10065adb1f2f718be2d5681d9a50d13fa1edb93fb564a4d9252091c848b92",
+    "locator": "LV portāls, 'Latvija sper soli pretī drošam un atbildīgam mākslīgajam intelektam', body",
+    "quote": "informatīvajā ziņojumā ir identificētas nepieciešamās izmaiņas normatīvajos aktos, kā arī iespējamie papildu resursi",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "The Latvian National Accreditation Bureau will act as the national accreditation body.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "Market surveillance of the AI Act will be carried out by the Consumer Rights Protection Centre, the Health Inspectorate, the State Agency \"Civil Aviation Agency\", the Latvian Maritime Administration, the State Railway Technical Inspectorate, the State Technical Supervision Agency",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "article 'Latvia takes a step towards safe and responsible artificial intelligence', body",
+    "quote": "the Road Traffic Safety Directorate, the State Service for Quality of Education, the State Data Inspectorate, the State Security Service, the Military Intelligence and Security Service and the Office for Constitutional Protection",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/secondary.html",
+    "sha256": "846b561e81c3257c82c75132183296cd57112fa9cbeaa9e29ed90be8fb1b0f7e",
+    "locator": "Single Points of Contact list, Latvia",
+    "quote": "Latvia Patērētāju tiesību aizsardzības centrs | Consumer Rights Protection Centre",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/secondary.html",
+    "sha256": "846b561e81c3257c82c75132183296cd57112fa9cbeaa9e29ed90be8fb1b0f7e",
+    "locator": "Single Points of Contact list",
+    "quote": "For Single Points of Contact marked with *, the national designation decision is still pending final adoption.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/secondary.html",
+    "sha256": "846b561e81c3257c82c75132183296cd57112fa9cbeaa9e29ed90be8fb1b0f7e",
+    "locator": "page footer",
+    "quote": "Last update 7 September 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-02/extra-4aef55e5fd/2026-10-17/official.html",
+    "sha256": "38b10065adb1f2f718be2d5681d9a50d13fa1edb93fb564a4d9252091c848b92",
+    "locator": "LV portāls, 'Latvija sper soli pretī drošam un atbildīgam mākslīgajam intelektam', body",
+    "quote": "Latvijas Nacionālais akreditācijas birojs pildīs valsts akreditācijas struktūras funkcijas.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/LV-02/extra-4aef55e5fd/2026-10-17/official.html",
+    "sha256": "38b10065adb1f2f718be2d5681d9a50d13fa1edb93fb564a4d9252091c848b92",
+    "locator": "LV portāls, 'Latvija sper soli pretī drošam un atbildīgam mākslīgajam intelektam', body",
+    "quote": "Otrdien, 25. februārī, Ministru kabinetā tika izskatīts Viedās administrācijas un reģionālās attīstības ministrijas (VARAM) sagatavotais informatīvais ziņojums “Par Mākslīgā intelekta akta prasību ieviešanu”",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "language": "the report is a Latvian government document; the stored Latvian release names it by its Latvian title. English is the language of VARAM's press release, not of the report",
+   "english_version": "no English text of the report was found (VARAM's English press release summarises it; it is not a translation)",
+   "summary": "rewritten from the stored press release: 'without a standalone AI law' and 'led by the Consumer Rights Protection Centre' are not in it and were dropped; the closing sentence now says 'possible additional resources' as the release does",
+   "notes": "the authorities' list and the accreditation body added from the release; the PTAC competence point (a TAP review seen only in search results) and the absence statement removed; LV-03 now named by its title in the register",
+   "verification.note": "rewritten for this recheck",
+   "original_title": "copied verbatim from the stored Latvian release, with its typographic quotation marks instead of version 1's single quotes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The press release of 25 February 2025 reports that the Cabinet of Ministers considered the report on that day. An informative report taken note of by the Cabinet is a non-binding policy document; no stored file shows it replaced or withdrawn. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A Cabinet-level plan for implementing the EU AI Act nationally, designating the responsible authorities; in scope with no note.",
+  "date_reasoning": "The release is dated 25.02.2025 and says the Cabinet considered the report on Tuesday 25 February. A TAP annotation seen in search results dates the Cabinet's protocol decision 24 February 2025; it is not stored, so the date stays 2025-02-25."
+ },
+ "extra_urls": [
+  {
+   "url": "https://lvportals.lv/dienaskartiba/373221-latvija-sper-soli-preti-drosam-un-atbildigam-maksligajam-intelektam-valdiba-izskata-mi-akta-ieviesanas-planu-2025",
+   "reason": "LV portals (VSIA 'Latvijas Vestnesis', listed official in pipeline/official-sites.json) republishes VARAM's release of 25 February 2025 in Latvian; it names the report as 'informatīvais ziņojums “Par Mākslīgā intelekta akta prasību ieviešanu”', which would support original_title, which no stored file shows now. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Informative report 'On the tasks of the defence sector in connection with the implementation of the requirements of the Artificial Intelligence Act' (Latvia, Ministry of Defence, 2025)",
+   "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/bd8a75c9-67a8-4150-a3e1-4296297f17cf/download",
+   "note": "A separate informative report on the TAP portal, seen in search results (Word file); not in the register."
+  }
+ ],
+ "open_questions": [
+  "official_identifier stays null. Search results show the report as TAP file 24-TA-2633 and the Cabinet decision as protocol No. 8, §49; neither is in a stored file, and TAP serves the report and the protocol decision as Word files, which textify does not read."
+ ]
+}

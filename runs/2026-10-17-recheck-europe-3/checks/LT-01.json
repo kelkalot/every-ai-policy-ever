@@ -1,0 +1,56 @@
+{
+ "cand_id": "LT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Notifying-authority function under Articles 28(1) and 70(1) of the AI Act assigned to the authorised institution",
+   "verdict": "supported",
+   "locator": "Article 5(4)"
+  },
+  {
+   "claim": "Sandbox under Article 57(1) of the AI Act",
+   "verdict": "supported",
+   "locator": "Article 5(5)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Law XV-105 text and the e-seimas record confirm dates and the two AI Act provisions; removing date_last_updated (partial commencement) is right. The authorised institution is still unnamed in the stored files (extractor's open question). One search found Government drafts of May 2026 for a separate AI Act implementing law, not an amendment of XV-105 and not yet adopted as far as found; they stay a lead."
+}

@@ -1,0 +1,50 @@
+{
+ "cand_id": "CY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Article 5: Commissioner of Communications is notifying and market surveillance authority and single point of contact; Central Bank for financial institutions",
+   "verdict": "supported",
+   "locator": "pages 3-4"
+  },
+  {
+   "claim": "Article 14(2): fines up to EUR 35 million or 7% of turnover",
+   "verdict": "supported",
+   "locator": "page 6"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Draft status and posting date confirmed by the e-consultation page; summary matches Articles 5 and 14 of the bill text. date_last_updated 2026-09-16 was the consultation closing date, so null is correct. One search found no sign that the bill has been tabled in the House. A companion bill and a 2025 Council of Ministers decision were dropped as unstored."
+}

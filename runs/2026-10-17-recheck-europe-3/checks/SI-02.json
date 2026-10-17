@@ -1,0 +1,53 @@
+{
+ "cand_id": "SI-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Government adopted the strategy on 5 March 2026 and asked for an action plan within nine months",
+   "verdict": "supported",
+   "locator": "release text"
+  },
+  {
+   "claim": "Draft was in public consultation for 30 days from 17 November 2025",
+   "verdict": "supported",
+   "locator": "page 80, Priloga 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title fix is supported by the Government's English release and the strategy text ('za umetno inteligenco'); the English translation is a government translation on gov.si and is stored. Notes match Priloga 2 (consultation from 17 November 2025, Economic and Social Council on 16 January per the page break). One search found no new strategy edition; the Slovenian AI Act implementing law is a separate instrument."
+}

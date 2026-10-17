@@ -1,0 +1,56 @@
+{
+ "cand_id": "AUS-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "v2.0 effective 15 December 2025",
+   "verdict": "supported",
+   "locator": "Need to know"
+  },
+  {
+   "claim": "mandatory requirements list: accountable officials, transparency statements, strategic approach, use case registers, staff training, impact assessments",
+   "verdict": "supported",
+   "locator": "Need to know"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Version 2.0 effective 15 Dec 2025 confirmed on the stored DTA page; date_published/date_in_force rest on the v1.1 effective date (1 Sep 2024), which the page gives as effect not issue date; defensible. No newer version found. Leads (technical standard, agentic AI addendum, APS AI Plan) are for later runs."
+}

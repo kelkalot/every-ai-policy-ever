@@ -1,0 +1,59 @@
+{
+ "cand_id": "HU-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI sandbox run by the market surveillance authority, in force 2 Aug 2026 (s 3(2), s 10, s 12(2))",
+   "verdict": "supported",
+   "locator": "njt text"
+  },
+  {
+   "claim": "AI Council chair appointed by the PM for 5 years (s 9(2))",
+   "verdict": "supported",
+   "locator": "njt text"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title, number, adoption 21 Oct 2025, promulgation 31 Oct 2025 and 31st-day entry into force (1 Dec 2025) confirmed on njt.jog.gov.hu. Bill number removal is correct (no stored file). The single-points-of-contact list does show Hungary without an entry (Spain, then 'Hungary - Sweden' heading with Sweden directly under it)."
+}

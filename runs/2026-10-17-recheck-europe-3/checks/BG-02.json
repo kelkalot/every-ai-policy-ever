@@ -1,0 +1,56 @@
+{
+ "cand_id": "BG-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 5(2): the Minister of Innovation and Digital Transformation is notifying authority; Art. 5(4): the Communications Regulation Commission is single point of contact",
+   "verdict": "supported",
+   "locator": "bill PDF pages 5-6"
+  },
+  {
+   "claim": "Art. 33(4) fines of BGN 1,000,000 to 5,000,000",
+   "verdict": "supported",
+   "locator": "bill PDF page 20"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Private members' bill by opposition MPs; included because it is the fullest bill before the National Assembly on applying the AI Act."
+ },
+ "overall": "accept",
+ "note": "Bill page confirms signature, filing date, sponsors and committee distribution; summary claims match the OCR bill text (Art. 5(2), 5(4), 33(4)). The bill PDF counts as alt-official only. Private members' bill; borderline note suggested. No committee report or vote found; one search found none either."
+}

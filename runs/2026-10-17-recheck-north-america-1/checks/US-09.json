@@ -1,0 +1,62 @@
+{
+ "cand_id": "US-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "judgment-differs",
+   "why": "Stored fact sheet gives only \"National Security Memorandum on Artificial Intelligence\"; the full title appears only in the NSM link URL slug in the stored HTML. Defensible, unchanged."
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "(1) ensure that the United States leads the world’s development of safe, secure, and trustworthy AI; (2) harness cutting-edge AI technologies to advance the U.S. Government’s national security mission",
+   "verdict": "supported",
+   "locator": "fact sheet, second paragraph"
+  },
+  {
+   "claim": "it also unequivocally states we must do so only in ways that align with democratic values",
+   "verdict": "supported",
+   "locator": "Enable the U.S. Government to harness cutting-edge AI"
+  },
+  {
+   "claim": "the NSM formally designates the AI Safety Institute as U.S. industry’s primary port of contact in the U.S. Government",
+   "verdict": "supported",
+   "locator": "Ensure that the United States leads the world's development of safe, secure, and trustworthy AI"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "Revocation by NSPM-11 sec. 3(f) is shown by the stored text. Title rests on the NSM link slug in the stored fact sheet. The companion Framework text is not stored, and the summary stays within the fact sheet. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

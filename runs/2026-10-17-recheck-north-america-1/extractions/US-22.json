@@ -1,0 +1,207 @@
+{
+ "cand_id": "US-22",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-22",
+ "record": {
+  "summary": "White House recommendations to Congress for a national AI policy framework, in seven parts. Congress should preempt unduly burdensome state AI laws and bar states from regulating AI development, while keeping states' general laws protecting children, preventing fraud and protecting consumers, their zoning of AI infrastructure and their own AI use. It proposes age assurance, parental tools and safeguards against sexual exploitation and self-harm on AI services likely used by minors, a federal framework against unauthorised AI digital replicas, and enough capacity in national security agencies to understand frontier model capabilities. It opposes a new federal AI rulemaking body.",
+  "related": [
+   "US-20",
+   "US-25",
+   "US-26",
+   "US-14",
+   "US-24"
+  ],
+  "notes": "Released on 20 March 2026; the document itself is dated March 2026. The White House release of that day describes six key objectives and adds that the framework can succeed only if applied uniformly across the country, the subject of the document's seventh part on preempting state AI laws. Section 8 of EO 14365 (US-20) had called for a legislative recommendation preempting conflicting state AI laws, with carve-outs for child safety, AI compute and data centre infrastructure, and state procurement and use of AI. The recommendations ask Congress to build on the TAKE IT DOWN Act (US-14). The FTC's proposed policy statement of 1 July 2026 (US-24) cites the framework. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) calls it a 'National Super Intelligence Policy Framework with legislative recommendations', following that order's renaming of AI as 'Super Intelligence'.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the whitehouse.gov PDF stored on 11 Oct 2026 (the archiver found it unchanged on 17 Oct 2026). It confirms the title, 'MARCH 2026', the seven sections and the recommendations in the summary. The PDF gives only the month; the day, 20 March 2026, rests on the White House release of that day, stored in this run, so date_published stays 2026-03-20. The White House fact sheet of 29 Sep 2026, also stored in this run, supports the notes and the current status. The earlier summary called the document recommendations 'under EO 14365 Sec. 8', which the document does not say, and said it 'creates no dedicated frontier-model regulatory regime', an inference; both were replaced with what the text says. The earlier notes rested the date on law-firm summaries."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (footer)",
+    "quote": "A National Policy Framework for Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1 (cover)",
+    "quote": "LEGISLATIVE RECOMMENDATIONS MARCH 2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1 (header)",
+    "quote": "LEGISLATIVE RECOMMENDATIONS THE WHITE HOUSE National Policy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release body",
+    "quote": "Today, the Trump Administration is demonstrating that leadership by issuing a comprehensive national legislative framework",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release heading and date",
+    "quote": "President Donald J. Trump Unveils National AI Legislative Framework The White House March 20, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release body",
+    "quote": "Today, the Trump Administration is demonstrating that leadership by issuing a comprehensive national legislative framework",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 4 (VII)",
+    "quote": "Congress should preempt state AI laws that impose undue burdens to ensure a minimally burdensome national standard",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-298d71c67d/2026-10-17/official.html",
+    "sha256": "08c7ed5d088c532bbe109c4cdfa2e26d273bebdb6783293ece7af1d8b575a54e",
+    "locator": "Fact Sheet of September 29, 2026",
+    "quote": "In March 2026, the White House unveiled a commonsense, comprehensive National Super Intelligence Policy Framework with legislative recommendations",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (I)",
+    "quote": "Congress should establish commercially reasonable, privacy protective, age-",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 4 (VII)",
+    "quote": "States should not be permitted to regulate AI development",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 4 (VII)",
+    "quote": "including particular laws to protect children, prevent fraud, and protect consumers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 4 (VII)",
+    "quote": "State zoning laws, including state authorities, to determine the placement of AI infrastructure.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (I)",
+    "quote": "to implement features that reduce the risks of sexual exploitation and self-harm to minors",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 3 (III)",
+    "quote": "from the unauthorized distribution or commercial use of AI -generated digital replicas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (II)",
+    "quote": "possess sufficient technical capacity to understand frontier AI model capabilities",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 3 (V)",
+    "quote": "Congress should not create any new federal rulemaking body to regulate AI",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release body",
+    "quote": "This framework addresses six key objectives:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release body",
+    "quote": "Importantly, this framework can succeed only if it is applied uniformly across the United States.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-298d71c67d/2026-10-17/official.html",
+    "sha256": "08c7ed5d088c532bbe109c4cdfa2e26d273bebdb6783293ece7af1d8b575a54e",
+    "locator": "Fact Sheet of September 29, 2026",
+    "quote": "National Super Intelligence Policy Framework with legislative recommendations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (I)",
+    "quote": "including the historic signing of the Take It Down Act",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the text: 'under EO 14365 Sec. 8' is not in the document and 'creates no dedicated frontier-model regulatory regime' was an inference; the bar on state regulation of AI development, digital replicas and the opposition to a new rulemaking body added",
+   "related": "US-14 added (the recommendations build on the TAKE IT DOWN Act) and US-24 added (the FTC statement cites the framework)",
+   "notes": "rewritten: the release day and the six objectives from the White House release, the EO 14365 section 8 background, the TAKE IT DOWN Act, the FTC citation and the exact wording of the September 2026 fact sheet; 'Congress had not enacted it' removed (no stored source)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A set of non-binding recommendations to Congress, released 20 March 2026; the release says the Administration looks forward to working with Congress to turn it into legislation. Nothing stored withdraws it; the White House fact sheet of 29 Sep 2026, stored in this run, refers to it as the framework the White House unveiled. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "The administration's legislative framework for AI, with child-safety, frontier-capability and preemption content; in scope with no note.",
+  "date_reasoning": "Cover: 'MARCH 2026'. The White House release dated 20 March 2026 says the Administration is issuing the framework 'today'. date_published 2026-03-20 is therefore confirmed from an official source."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.whitehouse.gov/releases/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+   "reason": "White House release 'President Donald J. Trump Unveils National AI Legislative Framework', dated 20 March 2026: the release day from the issuer itself (date_published 2026-03-20 at level A instead of the month only), and the White House's own description of the framework."
+  },
+  {
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "reason": "White House fact sheet of 29 Sep 2026 on EO 14434 (already stored as US-26's secondary source): refers to the framework as a 'National Super Intelligence Policy Framework with legislative recommendations'; supports the notes and the current status from this record's own sources."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

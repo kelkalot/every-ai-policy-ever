@@ -1,0 +1,57 @@
+{
+ "cand_id": "US-24",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported",
+   "why": "claims traced to quotes"
+  },
+  "official_identifier": {
+   "verdict": "supported",
+   "why": "empty; Federal Register citation not stored. Web search suggests FR publication 7 Jul 2026 (doc 2026-13628), not stored, so not usable"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Hallucinations alone do not raise Section 5 issues",
+   "verdict": "supported",
+   "locator": "fn 46"
+  },
+  {
+   "claim": "Disclaimer cannot be buried in terms of service",
+   "verdict": "supported",
+   "locator": "Part IV"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-22"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. Targeted search for an amendment, repeal or newer edition found nothing newer on an official site. Search found no final FTC statement; comment period closed 31 Jul 2026. Search: FR publication 7 Jul 2026 reported by secondary sources; no final statement."
+}

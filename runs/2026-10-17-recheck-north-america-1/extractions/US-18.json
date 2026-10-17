@@ -1,0 +1,246 @@
+{
+ "cand_id": "US-18",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-18",
+ "record": {
+  "summary": "Senate bill that would require the Secretary of Energy to set up an Advanced Artificial Intelligence Evaluation Program within 90 days of enactment. Developers of advanced AI systems, trained with more than 10^26 operations, would have to take part and provide code, training data, model weights and other details on request, and nobody could deploy such a system without complying, on pain of fines of at least $1,000,000 a day. The program would test for adverse AI incidents such as loss of control, weaponisation and scheming behaviour, and DOE would recommend a permanent federal oversight framework, including possible licensing.",
+  "safety_topics": [
+   "general-purpose / frontier AI",
+   "evaluation & testing",
+   "catastrophic risk",
+   "national security & military"
+  ],
+  "notes": "Introduced on 29 September 2025 by Sen. Josh Hawley (R-MO), with Sen. Richard Blumenthal (D-CT) as cosponsor, and referred to the Senate Committee on Commerce, Science, and Transportation. Sen. Marsha Blackburn (R-TN) joined as a cosponsor on 19 March 2026. The latest action is a hearing held by the Senate Committee on Homeland Security and Governmental Affairs on 30 September 2026. DOE's recommendation for a permanent oversight framework would be due within 360 days of enactment and updated every year; the program would also develop options for preventing or managing the development of artificial superintelligence. The program would end seven years after enactment unless Congress renews it. The Secretary could redefine 'advanced artificial intelligence system' only by a rule that takes effect once a joint resolution approving it is enacted.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the GovInfo bill page, the bill PDF and the bill text stored on 11 Oct 2026 (the archiver found them unchanged on 17 Oct 2026). They confirm the title, S. 2938 (119th Congress), the 29 Sep 2025 introduction by Sen. Hawley with Sen. Blumenthal, the referral to the Senate Commerce Committee and the provisions. The GovInfo bill status file (updated 7 Oct 2026), stored in this run, lists every action: after the referral, only a hearing by the Senate Homeland Security and Governmental Affairs Committee on 30 Sep 2026; it also lists Sen. Blackburn's cosponsorship of 19 Mar 2026. The GovInfo bill page's 'Last Action Date Listed' (29 Sep 2025) covers printed versions only. The earlier summary called the bill bipartisan; the summary now describes the bill and the notes give the sponsors' parties from the status file. The earlier record tagged 'incident reporting', for which the bill has no reporting duty; it was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "page heading",
+    "quote": "S. 2938 (IS) - Artificial Intelligence Risk Evaluation Act of 2025",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "Action",
+    "quote": "Mr. Hawley (for himself and Mr. Blumenthal) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "Sponsors",
+    "quote": "Sponsors Josh Hawley(MO) Cosponsors Richard Blumenthal (CT)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "sponsors",
+    "quote": "Sen. Hawley, Josh [R-MO]",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "Bill Number",
+    "quote": "Bill Number S. 2938",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "Congress Number",
+    "quote": "Congress Number 119th Congress",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 1",
+    "quote": "IN THE SENATE OF THE UNITED STATES SEPTEMBER 29, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "Document Citations",
+    "quote": "Introduced in Senate September 29, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "actions (latest action)",
+    "quote": "2026-09-30 Committee on Homeland Security and Governmental Affairs. Hearings held.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "actions",
+    "quote": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/official.html",
+    "sha256": "f214febf5a6c57e9123e7b46c7e2294a9d7bb3dbec8efb06b6492b0033da75e3",
+    "locator": "Bill Version",
+    "quote": "Bill Version Introduced in Senate (IS)",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 1",
+    "quote": "A BILL To require the Secretary of Energy to establish the Advanced Artificial Intelligence Evaluation Program",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 9 (Sec. 5(a))",
+    "quote": "Not later than 90 days after the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 2 (Sec. 3(1))",
+    "quote": "computing power greater than 10 26 integer or",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 9 (Sec. 4(a))",
+    "quote": "(C) model weights or other adjustable pa-5 rameters",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 9 (Sec. 4(b))",
+    "quote": "deploy an advanced artificial intelligence system for use",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 9 (Sec. 4(c))",
+    "quote": "shall be fined not less than $1,000,000 per day of",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 3 (Sec. 3(2))",
+    "quote": "(A) a loss-of-control scenario",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 12 (Sec. 5(c)(2)(B))",
+    "quote": "certification procedures, licensing requirements",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "sponsors",
+    "quote": "Sen. Hawley, Josh [R-MO]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "cosponsors",
+    "quote": "Sen. Blumenthal, Richard [D-CT]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "cosponsors",
+    "quote": "Sen. Blackburn, Marsha [R-TN] Marsha Blackburn R TN 2026-03-19",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-18/extra-21e0cffec2/2026-10-17/official.xml",
+    "sha256": "762ebecd770d1c8a1aafa5ded7b84f19a657f9ea1159a080d18a6cb58b62be8c",
+    "locator": "actions (latest action)",
+    "quote": "2026-09-30 Committee on Homeland Security and Governmental Affairs. Hearings held.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 11 (Sec. 5(c)(1))",
+    "quote": "Not later than 360 days",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 14 (Sec. 5(d))",
+    "quote": "date that is 7 years after the date of enactment of this",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-18/2026-10-11/document-1.pdf",
+    "sha256": "8ccc0865848a41b685c8ec5b76a858752984627c86649e16a08c1f154df049c0",
+    "locator": "page 11 (Sec. 5(b)(8))",
+    "quote": "managing the development of artificial superintel-",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "'Bipartisan' removed (not in the stored texts); deployment ban, the 90-day start and the superintelligence options stated as the bill words them",
+   "safety_topics": "'incident reporting' removed: the bill evaluates the likelihood of adverse AI incidents but imposes no incident reporting",
+   "notes": "rewritten from the bill and the bill status file: sponsors with parties, the new cosponsor, the latest action (hearing of 30 Sep 2026), deadlines, sunset and the redefinition rule; the remark about what could not be verified moved to verification.note",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An introduced Senate bill (version IS) of the 119th Congress. The bill status file lists only the introduction, the referral of 29 Sep 2025 and a committee hearing on 30 Sep 2026: no committee report, no passage by either chamber, no enactment. The 119th Congress is still sitting in October 2026, so the bill has not lapsed. 'Draft / proposed' with legal force 'Proposed' stands.",
+  "scope_reasoning": "A pending federal bill on mandatory evaluation of frontier AI systems; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2938.xml",
+   "reason": "GovInfo bill status file for S. 2938 (Library of Congress data published by GPO): lists every action on the bill, so the status rests on the full action list rather than the printed versions. When looked at on 17 Oct 2026 it listed, after the 29 Sep 2025 referral, a hearing held by the Senate Committee on Homeland Security and Governmental Affairs on 30 Sep 2026; once stored, that action belongs in the notes."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

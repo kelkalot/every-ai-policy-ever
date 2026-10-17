@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-15",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "issuing_body": {
+   "verdict": "judgment-differs",
+   "why": "stored pages show NIST only; Commerce rests on unstored statement; unchanged by this run"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "unsupported",
+   "why": "no evidence; commerce.gov statement not stored (HTTP 403); neither stored NIST page gives the statement title or date. Value unchanged by this run."
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "no evidence; commerce.gov statement not stored (HTTP 403); neither stored NIST page gives the statement title or date. Value unchanged by this run."
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "unsupported",
+   "why": "2026-09-30 appears only in page metadata, not text; unchanged by this run"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Evaluations focus on cybersecurity, biosecurity, chemical weapons",
+   "verdict": "supported",
+   "locator": "About"
+  },
+  {
+   "claim": "Voluntary agreements with developers",
+   "verdict": "supported",
+   "locator": "About"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-26"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Notes update (CAISSI renaming, EO 14434, evaluations) is supported by stored NIST pages. Title, date_published, date_last_updated and Commerce as co-issuer cannot be supported from stored text (level C); values are unchanged by the run and already raised as open questions. A person could provide the commerce.gov statement. Search: no sign of the CAISSI name outside NIST pages; no newer commerce.gov statement found."
+}

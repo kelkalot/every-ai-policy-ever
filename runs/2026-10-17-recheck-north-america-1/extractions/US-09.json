@@ -1,0 +1,263 @@
+{
+ "cand_id": "US-09",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-09",
+ "record": {
+  "issuing_body": "The White House (President Joseph R. Biden Jr.)",
+  "summary": "The first national security memorandum on AI. It directs the US Government to lead the development of safe, secure and trustworthy AI, to use AI for national security missions only in ways that align with democratic values, and to advance international AI governance. It designates the AI Safety Institute as industry's primary point of contact in government, with mechanisms to partner with national security agencies, makes collection on competitors' operations against the US AI sector a top-tier intelligence priority, and directs a companion Framework requiring risk management, evaluations, accountability and transparency for AI used in national security.",
+  "safety_topics": [
+   "national security & military",
+   "evaluation & testing",
+   "safety institute",
+   "general-purpose / frontier AI",
+   "public-sector use",
+   "international cooperation"
+  ],
+  "notes": "Issued 24 Oct 2024 together with the Framework to Advance AI Governance and Risk Management in National Security, which implements it and can be updated regularly. It builds on President Biden's executive order on AI (EO 14110, US-04). NSPM-11 of 5 Jun 2026 (US-28), section 3(f), rescinds and replaces NSM-25 and associated guidance.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: stored for this record are the White House fact sheet of 24 Oct 2024 on the NARA-archived Biden White House site (stored 11 Oct 2026) and, in this run, NSPM-11 of 5 Jun 2026 from whitehouse.gov. The fact sheet confirms the issue of the NSM on 24 Oct 2024 by President Biden, its three aims, the AI Safety Institute's role and the companion Framework published the same day. NSPM-11, section 3(f), confirms the number 25 and the rescission and replacement of the NSM and associated guidance on 5 Jun 2026. The NSM's own text could not be stored (the archiver could not resolve bidenwhitehouse.archives.gov on 17 Oct 2026), so the full title rests on the record's earlier verification and on the wording of the NSM link on the stored fact sheet. The Framework's URL on ai.gov now redirects to the si.gov home page, so the Framework's text is not stored either; the summary describes the Framework only as far as the fact sheet does."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, first paragraph",
+    "quote": "Today, President Biden is issuing the first-ever National Security Memorandum (NSM) on Artificial Intelligence (AI).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Enable the U.S. Government to harness cutting-edge AI",
+    "quote": "The NSM directs the creation of a Framework to Advance AI Governance and Risk Management in National Security, which is being published today alongside this NSM.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, first paragraph",
+    "quote": "Today, President Biden is issuing the first-ever National Security Memorandum (NSM) on Artificial Intelligence (AI).",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, dateline",
+    "quote": "October 24, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, first paragraph",
+    "quote": "Today, President Biden is issuing the first-ever National Security Memorandum (NSM) on Artificial Intelligence (AI).",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, dateline",
+    "quote": "October 24, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, first paragraph",
+    "quote": "Today, President Biden is issuing the first-ever National Security Memorandum (NSM) on Artificial Intelligence (AI).",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, second paragraph",
+    "quote": "The NSM directs the U.S. Government to implement concrete and impactful steps to",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Enable the U.S. Government to harness cutting-edge AI",
+    "quote": "These requirements require agencies to monitor, assess, and mitigate AI risks related to invasions of privacy, bias and discrimination, the safety of individuals and groups, and other human rights abuses.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, second paragraph",
+    "quote": "(1) ensure that the United States leads the world’s development of safe, secure, and trustworthy AI; (2) harness cutting-edge AI technologies to advance the U.S. Government’s national security mission; and (3) advance international consensus and governance around AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Enable the U.S. Government to harness cutting-edge AI",
+    "quote": "it also unequivocally states we must do so only in ways that align with democratic values",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Ensure that the United States leads the world's development of safe, secure, and trustworthy AI",
+    "quote": "the NSM formally designates the AI Safety Institute as U.S. industry’s primary port of contact in the U.S. Government",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Ensure that the United States leads the world's development of safe, secure, and trustworthy AI",
+    "quote": "It also lays out strengthened and streamlined mechanisms for the AI Safety Institute to partner with national security agencies, including the intelligence community, the Department of Defense, and the Department of Energy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Ensure that the United States leads the world's development of safe, secure, and trustworthy AI",
+    "quote": "This NSM makes collection on our competitors’ operations against our AI sector a top-tier intelligence priority",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Enable the U.S. Government to harness cutting-edge AI",
+    "quote": "This Framework provides further detail and guidance to implement the NSM, including requiring mechanisms for risk management, evaluations, accountability, and transparency.",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, first paragraph",
+    "quote": "The NSM’s fundamental premise is that advances at the frontier of AI will have significant implications for national security and foreign policy in the near future.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Advance international consensus and governance around AI",
+    "quote": "The NSM directs the U.S. Government to collaborate with allies and partners to establish a stable, responsible, and rights-respecting governance framework",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "Enable the U.S. Government to harness cutting-edge AI",
+    "quote": "This Framework can be updated regularly in order to keep pace with technical advances",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, first paragraph",
+    "quote": "including President Biden’s landmark Executive Order to ensure that America leads the way in seizing the promise and managing the risks of AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-09/extra-2ddce3dbab/2026-10-17/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-09/extra-2ddce3dbab/2026-10-17/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-09/extra-2ddce3dbab/2026-10-17/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, heading",
+    "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-09/extra-2ddce3dbab/2026-10-17/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, heading",
+    "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-09/extra-2ddce3dbab/2026-10-17/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-09/extra-2ddce3dbab/2026-10-17/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the fact sheet shows the President issuing the NSM; the stored file does not name the National Security Council as issuer, and the register names the White House and the President for presidential instruments (US-04, US-11)",
+   "summary": "rewritten from the stored fact sheet: the testing partnerships 'classified and unclassified' and the Framework's prohibited and high-impact use lists are not in the stored file; adds the three aims, the alignment with democratic values and the intelligence priority",
+   "safety_topics": "'human oversight' dropped (not in the stored file); 'international cooperation' added for the NSM's third aim, international consensus and governance on AI",
+   "notes": "rewritten: the old notes said both that NSPM-11 rescinded the NSM and that no rescission could be found ('In force is provisional'), which contradicted the status; the remarks on the EO 14179 review and the AISI reorganisation are dropped as superseded by the rescission",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "NSPM-11 of 5 Jun 2026 (whitehouse.gov, stored for this record in this run), section 3(f): 'This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.' That is the latest event; 'Revoked / withdrawn' stands, with date_last_updated 2026-06-05, the date of NSPM-11.",
+  "scope_reasoning": "A presidential memorandum on AI in national security with AI safety and risk-governance content (AI Safety Institute role, risk management Framework); in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are 24 Oct 2024, the date of the fact sheet announcing that the President is issuing the NSM 'today'. date_last_updated 2026-06-05 is the date of NSPM-11, the rescinding memorandum, as in other revoked records (US-04 uses the date of the revoking order).",
+  "title_reasoning": "The stored fact sheet confirms that this is the National Security Memorandum on AI with the companion Framework to Advance AI Governance and Risk Management in National Security; it does not give the memorandum's full title, which the NSM text requested in extra_urls would confirm. Its link to the NSM text ends in '...memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/', which matches the title's wording."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+   "why": "NSPM-11, section 3(f), rescinds and replaces National Security Memorandum-25: evidence for status 'Revoked / withdrawn', date_last_updated 2026-06-05 and the number 25 in official_identifier (the same page is US-28's official source)."
+  },
+  {
+   "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/",
+   "why": "The NSM's own text, linked from the stored fact sheet ('Read the NSM here'): full title, signature and provisions."
+  },
+  {
+   "url": "https://ai.gov/wp-content/uploads/2024/10/NSM-Framework-to-Advance-AI-Governance-and-Risk-Management-in-National-Security.pdf",
+   "why": "The companion Framework, linked from the stored fact sheet ('Read the frame work here'): its prohibited and high-impact AI uses and risk-management requirements, for the summary and topics."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "title: the stored files do not give the memorandum's full title (the NSM text on bidenwhitehouse.archives.gov could not be stored; the fact sheet names it only 'National Security Memorandum (NSM) on Artificial Intelligence'). The title stays as published; the link to the NSM on the stored fact sheet follows the title's wording.",
+  "The companion Framework's own text is not stored (its ai.gov URL now redirects to si.gov), so its prohibited and high-impact AI use lists, which the earlier summary described, are not in the record any more. A person could provide the Framework PDF with the 'Provide a document' form."
+ ]
+}

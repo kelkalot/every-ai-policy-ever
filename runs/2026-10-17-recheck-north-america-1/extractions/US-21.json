@@ -1,0 +1,174 @@
+{
+ "cand_id": "US-21",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-21",
+ "record": {
+  "related": [
+   "US-15",
+   "US-07",
+   "US-16",
+   "US-02"
+  ],
+  "notes": "Initial public draft dated January 2026; NIST invited public comments until 31 March 2026. NIST's guidelines page, updated 30 September 2026, still lists only the initial public draft, now under the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI), the name NIST uses for CAISI after EO 14434 (US-26). The draft answers the AI Action Plan's call (US-16) for CAISI to publish guidelines and resources for federal agencies' evaluations of AI systems, and refers to NIST AI 100-1 (US-02) and NIST AI 800-1 (US-07) for organisational evaluation practices.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the nvlpubs.nist.gov PDF and the NIST guidelines page stored on 11 Oct 2026 (the archiver found both unchanged on 17 Oct 2026). The PDF confirms the title, NIST AI 800-2 ipd, the DOI, January 2026, CAISI authorship and draft status; the guidelines page (updated 30 Sep 2026) still lists only the initial public draft and gives the 31 Mar 2026 comment deadline. The earlier notes' description of the draft as CAISI's 'main published guideline after the 2025 reorganisation' was replaced with what the page shows."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 1 (cover, line 4)",
+    "quote": "Practices for Automated",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 1 (cover, line 5)",
+    "quote": "Benchmark Evaluations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 1 (cover, line 6)",
+    "quote": "of Language Models",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/secondary.html",
+    "sha256": "e7e2e49a29159080c3dfaac77fe2eafe9d54b206c1134d104e3ab020bd3072b4",
+    "locator": "Guidelines",
+    "quote": "Practices for Automated Benchmark Evaluations of Language Models (Initial Public Draft)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 1 (cover)",
+    "quote": "Center for AI Standards and Innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 2",
+    "quote": "National Institute of Standards and Technology",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 1 (cover)",
+    "quote": "NIST AI 800-2 1 Initial Public Draft",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 1 (cover)",
+    "quote": "https://doi.org/10.6028/NIST.AI.800-2.ipd",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 3 (header)",
+    "quote": "NIST AI 800-2 ipd January 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 3",
+    "quote": "The Center for AI Standards and Innovation (CAISI) at NIST is releasing this document for public comment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/secondary.html",
+    "sha256": "e7e2e49a29159080c3dfaac77fe2eafe9d54b206c1134d104e3ab020bd3072b4",
+    "locator": "Guidelines",
+    "quote": "Practices for Automated Benchmark Evaluations of Language Models (Initial Public Draft)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 4 (Abstract)",
+    "quote": "This draft provides voluntary practices for automated benchmark",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-21/2026-10-11/secondary.html",
+    "sha256": "e7e2e49a29159080c3dfaac77fe2eafe9d54b206c1134d104e3ab020bd3072b4",
+    "locator": "Guidelines",
+    "quote": "We are soliciting public comment on this document until March 31, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/secondary.html",
+    "sha256": "e7e2e49a29159080c3dfaac77fe2eafe9d54b206c1134d104e3ab020bd3072b4",
+    "locator": "page footer",
+    "quote": "Created July 24, 2024, Updated September 30, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/secondary.html",
+    "sha256": "e7e2e49a29159080c3dfaac77fe2eafe9d54b206c1134d104e3ab020bd3072b4",
+    "locator": "Guidelines",
+    "quote": "The Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) develops and publishes voluntary guidelines",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 4 (Authority)",
+    "quote": "President Trump’s AI Action Plan tasked CAISI with publishing guidelines and resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-21/2026-10-11/official.pdf",
+    "sha256": "5ae4244d58ed472803c7f62da92b310d7167a4afa18da19edd3d1dc8109b64f7",
+    "locator": "page 6 (Introduction, footnote 2)",
+    "quote": "On such topics, practices may be obtained from NIST AI 100-1 [2] and NIST AI 800-1 [3].",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "related": "US-16 added (the draft answers the Action Plan's call for evaluation guidelines) and US-02 added (the draft refers to NIST AI 100-1 for organisational practices)",
+   "notes": "rewritten: the guidelines page of 30 Sep 2026 still lists only the draft, under the renamed CAISSI; the unsupported 'main published guideline' remark removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored PDF is the initial public draft released for comment; the comment period ended 31 Mar 2026, and NIST's guidelines page, updated 30 Sep 2026, still lists only the initial public draft. No final version is shown. 'Draft / proposed' stands.",
+  "scope_reasoning": "Draft federal guidelines by the US AI standards and evaluation centre on evaluating language models and agents; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

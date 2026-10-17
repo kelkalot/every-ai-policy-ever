@@ -1,0 +1,58 @@
+{
+ "cand_id": "US-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "each agency must designate a Chief AI Officer (CAIO) within 60 days of the date of the issuance of this memorandum.",
+   "verdict": "supported",
+   "locator": "page 1, Overview"
+  },
+  {
+   "claim": "This memorandum requires each agency identified in the Chief Financial Officers Act (CFO Act)4 to develop an enterprise strategy for how they will advance the responsible use of AI.",
+   "verdict": "supported",
+   "locator": "page 2, Overview"
+  },
+  {
+   "claim": "By December 1, 2024, agencies must implement the minimum practices in Section 5(c) of this memorandum for safety-impacting and rights-impacting AI, or else stop using any AI in their operations that i",
+   "verdict": "supported",
+   "locator": "page 14, Section 5(a)(i)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

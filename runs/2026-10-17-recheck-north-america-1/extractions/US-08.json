@@ -1,0 +1,208 @@
+{
+ "cand_id": "US-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-08",
+ "record": {
+  "notes": "Published on 26 July 2024, developed per Section 4.1(a)(i)(A) of Executive Order 14110 (US-04) as a companion resource to the AI RMF (US-02), and informed by NIST's Generative AI Public Working Group, which focused on governance, content provenance, pre-deployment testing and incident disclosure. NIST's publication page lists it as published and was last updated on 8 April 2026.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the NIST publication page was stored again on 17 Oct 2026 (only its topic keywords and 'Accessed' date changed) and confirms the title, NIST AI 600-1, its DOI, 26 Jul 2024, the link to EO 14110 and the page's last update on 8 Apr 2026. The profile itself (NIST AI 600-1 PDF on nvlpubs.nist.gov) was stored in this run and confirms the twelve risks, the suggested actions and Section 4.1(a)(i)(A) of EO 14110. Version 1's count of more than 200 suggested actions is not stated in the text and was dropped, as was its speculative remark that the profile may be affected by the AI RMF revision."
+  },
+  "summary": "Cross-sectoral profile of, and companion resource to, the AI Risk Management Framework for generative AI. It defines twelve risks unique to or exacerbated by generative AI: CBRN information or capabilities; confabulation; dangerous, violent or hateful content; data privacy; environmental impacts; harmful bias or homogenization; human-AI configuration; information integrity; information security; intellectual property; obscene, degrading or abusive content; and value chain and component integration. It sets out suggested actions, organized by AI RMF subcategories, to govern, map, measure and manage these risks.",
+  "safety_topics": [
+   "general-purpose / frontier AI",
+   "evaluation & testing",
+   "deepfakes & synthetic media",
+   "transparency & labelling",
+   "catastrophic risk",
+   "incident reporting"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "publication page heading",
+    "quote": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 2, title page",
+    "quote": "NIST AI 600-1 Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Citation",
+    "quote": "NIST Trustworthy and Responsible AI, National Institute of Standards and Technology, Gaithersburg, MD",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Citation / Report Number",
+    "quote": "NIST Trustworthy and Responsible AI - 600-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Download Paper",
+    "quote": "https://doi.org/10.6028/NIST.AI.600-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 2, title page",
+    "quote": "NIST AI 600-1 Artificial Intelligence Risk Management",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Published",
+    "quote": "Published July 26, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Published",
+    "quote": "Published July 26, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Abstract",
+    "quote": "is intended for voluntary use and to improve the ability of organizations to incorporate trustworthiness considerations",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Abstract",
+    "quote": "This document is a cross-sectoral profile of and companion resource for the AI Risk Management Framework (AI RMF 1.0) for Generative AI, pursuant to President Biden's Executive Order (EO) 14110",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "page footer",
+    "quote": "Created July 26, 2024, Updated April 8, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 5, footnote 2",
+    "quote": "This profile was developed per Section 4.1(a)(i)(A) of EO 14110, which directs the Secretary of Commerce, acting",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 6",
+    "quote": "The focus of the GAI PWG was limited to four primary considerations relevant to GAI: Governance, Content Provenance, Pre-deployment Testing, and Incident Disclosure",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Abstract",
+    "quote": "This document is a cross-sectoral profile of and companion resource for the AI Risk Management Framework (AI RMF 1.0) for Generative AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 7, section 2",
+    "quote": "a set of risks unique to or exacerbated by the development and use of GAI are defined below.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 8",
+    "quote": "1. CBRN Information or Capabilities: Eased access to or synthesis of materially nefarious",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 8",
+    "quote": "2. Confabulation: The production of confidently stated but erroneous or false content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 8",
+    "quote": "7. Human-AI Configuration: Arrangements of or interactions between a human and an AI system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 9",
+    "quote": "12. Value Chain and Component Integration: Non-transparent or untraceable integration of",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 5",
+    "quote": "the document provides a set of suggested actions to help organizations govern, map, measure, and manage these risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "section 3",
+    "quote": "The suggested actions are organized by relevant AI RMF subcategories to streamline these",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored profile: the twelve risks as the profile names them and its suggested actions; 'more than 200 actions' dropped (not stated in the text)",
+   "safety_topics": "'incident reporting' added: incident disclosure is one of the four considerations the suggested actions address",
+   "notes": "rewritten: Section 4.1(a)(i)(A) of EO 14110 and the Generative AI Public Working Group from the stored profile, the page's last update from the stored page; the speculative remark about the AI RMF revision removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The NIST publication page (stored 17 Oct 2026, updated 8 Apr 2026) lists the profile as published on 26 Jul 2024 with no withdrawal or replacement. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government risk-management guidance for generative AI; in scope with no note."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

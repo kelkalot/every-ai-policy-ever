@@ -1,0 +1,204 @@
+{
+ "cand_id": "US-28",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-28",
+ "record": {
+  "issuing_body": "The White House (President Donald J. Trump)",
+  "summary": "Presidential memorandum that rescinds and replaces NSM-25 and sets AI policy for the national security enterprise under four pillars: adoption, adaptation of commercial and open-source models, assurance (AI that is reliable, robust, steerable and controllable, that no vendor or adversary can disable or alter without government approval, and that is tested and evaluated) and accountability (no AI for censorship, ideological bias or unlawful surveillance). It orders an update of DoD Directive 3000.09 on autonomy in weapon systems, termination of contracts with companies repeatedly acting against this policy, a joint AI risk-management strategy and AI test and evaluation methods.",
+  "notes": "Section 3(f) rescinds and replaces NSM-25 (US-09) and associated guidance. The text does not use the word 'safety'; its safeguards are framed as reliability, robustness, steerability, controllability, security practices and civil liberties, terms it defines in Sec. 6. Deadlines: within 90 days (about 3 Sep 2026), the updated DoD Directive 3000.09, a policy of the Committee on National Security Systems and OMB for governing AI use in national security systems, a roadmap for advanced computing and an AI test range, and a classified annex; within 120 days (about 3 Oct 2026), updated procurement processes, private-sector partnerships to secure frontier AI (including joint red-team exercises), joint AI data and model exchanges, an AI National Security Strategic Reserve of non-governmental talent, an AI for National Security Curriculum, the joint AI risk-management and assurance strategy and the test, evaluation, verification and validation methodologies. Agencies may grant waivers of up to one year from the contract terminations under Sec. 3(b).",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the memorandum's text on whitehouse.gov stored on 17 Oct 2026 and the White House fact sheet of 5 Jun 2026 (both differ from the 11 Oct copies only in site navigation). They confirm the title, NSPM-11, the date of 5 Jun 2026, the addressees and Secs. 1 to 7, including the rescission of NSM-25 in Sec. 3(f). issuing_body now follows the form of the register's other presidential instruments. The summary was shortened to the 700-character limit and now includes the contract terminations of Sec. 3(b). The earlier notes said the rescinded guidance included the Framework to Advance AI Governance and Risk Management in National Security and that the annex and updated directive are not public; neither is in the stored sources, so both were removed. The stored sources do not show whether the 90- and 120-day deliverables have been issued."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "page heading and subject line",
+    "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "subject line",
+    "quote": "SUBJECT: Artificial Intelligence in the National Security Enterprise",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "preamble",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 7(c) and signature",
+    "quote": "its officers, employees, or agents, or any other person. DONALD J. TRUMP",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "page heading",
+    "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "page heading",
+    "quote": "Presidential Memoranda June 5, 2026 MEMORANDUM FOR THE SECRETARY OF STATE",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "page heading",
+    "quote": "Presidential Memoranda June 5, 2026 MEMORANDUM FOR THE SECRETARY OF STATE",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/secondary.html",
+    "sha256": "553d57edaecc24dfa761b2370157244322ee7bd767afb0021bbd0851f0f3d2b9",
+    "locator": "fact sheet, first paragraph",
+    "quote": "Today, President Donald J. Trump signed a National Security Presidential Memorandum on Artificial Intelligence (AI) in the National Security Enterprise",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 3(a)",
+    "quote": "(a) Within 90 days of the date of this memorandum, the Secretary of War shall issue an update to DOD Directive 3000.09 on Autonomy in Weapon Systems",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 2(c)",
+    "quote": "The national security enterprise shall assure that all AI technologies adopted are designed to be reliable, robust, steerable, and controllable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 2(c)",
+    "quote": "that no commercial entity or adversary possesses the capability to prevent use of, disable or degrade, or materially modify without Federal Government knowledge and approval, an AI system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 2(d)",
+    "quote": "American AI technologies shall neither be developed nor used by the national security enterprise to censor free speech, embed ideological bias, or conduct unauthorized or unlawful surveillance activities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 3(b)",
+    "quote": "termination for default or for convenience contracts with companies that have repeatedly demonstrated a pattern of conduct that is inconsistent with policies laid out in section 2 of this memorandum",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 5(e)",
+    "quote": "shall develop a joint strategy for AI risk management and assurance and implementation guidance that establishes baseline AI security practices for the national security enterprise",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 5(f)",
+    "quote": "shall submit standardized AI national security Test, Evaluation, Verification, and Validation methodologies",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 3(c)",
+    "quote": "the Committee on National Security Systems and the Director of the Office of Management and Budget (OMB Director), in coordination with the APST, and in consultation with the heads of relevant IC elements, shall issue an appropriate policy for governance of AI use in national security systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 4(b)",
+    "quote": "and should include the establishment of an AI test range for national security use cases",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 3(d)",
+    "quote": "(d) To address sensitive national security issues, a classified annex will be issued within 90 days of the date of this memorandum.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 4(c)",
+    "quote": "Such partnerships may include sharing threat intelligence, conducting joint AI red-team exercises",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-28/2026-10-17/official.html",
+    "sha256": "db087469eb15cb3dbd2ae5e1a382b13555aa09b2a99b4a36b6c37c09290dc5ad",
+    "locator": "Sec. 3(b)",
+    "quote": "The heads of these agencies may establish a waiver process to grant limited exceptions of a defined duration, to exceed no longer than 1 year",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "aligned with the register's other presidential instruments of this administration (US-11, US-17, US-20, US-23, US-26, US-29: 'The White House (President Donald J. Trump)'); the memorandum is signed by Donald J. Trump on whitehouse.gov",
+   "summary": "the summary was 951 characters, over the 700 limit; shortened, and the Sec. 3(b) contract terminations added, from the stored text",
+   "notes": "removed two claims not in the stored sources (that the rescinded guidance included the Framework to Advance AI Governance and Risk Management in National Security; that the annex and updated directive are not public); added the full list of 90- and 120-day deliverables and the Sec. 3(b) waiver",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A presidential memorandum signed on 5 Jun 2026 that directs agencies and takes effect on signing; the whitehouse.gov page stored on 17 Oct 2026 still carries it unchanged, and nothing stored rescinds or replaces it. Its 90- and 120-day deadlines (3 Sep and 3 Oct 2026) are tasks for agencies, not conditions of its force. 'In force' stands.",
+  "scope_reasoning": "A presidential directive on AI in the national security enterprise with assurance, testing and evaluation, risk-management and accountability requirements; AI-specific, in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are 5 Jun 2026, the date on the memorandum's page and of the fact sheet saying the President signed it 'today'."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

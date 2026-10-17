@@ -1,0 +1,59 @@
+{
+ "cand_id": "US-10",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "Quotes show an announced rescission and a non-enforcement instruction; the formal rescission regulation is announced but not shown as published. A web search found no Federal Register rescission either. Defensible, unchanged."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "With this IFR, BIS establishes a worldwide license requirement for ECCNs 3A090.a, 4A090.a, and corresponding .z items",
+   "verdict": "supported",
+   "locator": "page 6, A. New Worldwide License Requirements"
+  },
+  {
+   "claim": "BIS is adding new license exceptions and updating the Data Center Validated End User authorization to facilitate the export, reexport, and transfer (in- country) of advanced computing (ICs) to end use",
+   "verdict": "supported",
+   "locator": "page 1, SUMMARY"
+  },
+  {
+   "claim": "BIS is implementing uniform default country allocations of advanced ICs.",
+   "verdict": "supported",
+   "locator": "page 6"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "Rule text now stored from govinfo.gov and confirms identifier, dates and controls. Status rests on the BIS 13 May 2025 announcement; the formal rescission regulation was not found by a targeted search or in the stored files. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

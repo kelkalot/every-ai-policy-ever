@@ -1,0 +1,289 @@
+{
+ "cand_id": "US-24",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-24",
+ "record": {
+  "issuing_body": "Federal Trade Commission",
+  "summary": "Proposed FTC enforcement policy statement, issued as directed by Executive Order 14365, on how Section 5 of the FTC Act applies to AI systems. Since consumers reasonably expect AI systems to aim at truthful and accurate outputs, the Commission considers that companies steering outputs toward undisclosed objectives, away from those users set or reasonably expect, are likely to deceive consumers, even when they do so to comply with a state law such as Colorado's AI Act; state laws requiring such deception would be impliedly preempted. A disclaimer must be clear, conspicuous and prominent, not buried in terms of service. Hallucinations alone do not raise Section 5 issues.",
+  "notes": "Dated 1 Jul 2026. Section 7 of Executive Order 14365 (11 Dec 2025) directed the Commission to issue a policy statement on how Section 5 of the FTC Act applies to AI models and how state laws requiring alterations to their accurate outputs can conflict with it. The Commission voted 2-0 to publish the proposed statement in the Federal Register for public comment, with comments due by 31 Jul 2026, to help it formulate a final policy. The statement takes no position on whether the practices it discusses are also unfair under the FTC Act. It notes that the FTC Act does not expressly preempt state law and relies on implied conflict preemption. It cites Colorado's AI Act, repealed and re-enacted as amended by SB 26-189 (enacted 14 May 2026), as a state law that could lead AI companies to suppress accuracy to avoid liability for discriminatory outcomes. As of 17 Oct 2026 it remained a proposed statement.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the FTC legal library page stored on 17 Oct 2026 (it differs from the 11 Oct copy only in site navigation) still lists the document as a proposed policy statement dated 1 Jul 2026 by the Federal Trade Commission and links the statement's PDF, stored on 11 Oct 2026 and unchanged on 17 Oct (9 pages). The FTC press release of 1 Jul 2026, linked from that page and stored in this run, gives the 2-0 Commission vote, the Federal Register publication and the comment deadline of 31 Jul 2026. The summary and notes are now written from these sources instead of law-firm summaries. 'Bureau of Consumer Protection' appears on both pages only as a topic tag, so issuing_body is now the Commission. The date by which EO 14365 required the statement is not in the stored sources and was removed from notes. The Federal Register citation of the notice is not stored, so official_identifier stays empty. No final statement appears in the stored sources."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-24/2026-10-17/official.html",
+    "sha256": "528a42b02b3285fdab7588ccffd51222a7e5e03533586a89c8fb4f9c61140c8b",
+    "locator": "page heading (breadcrumb)",
+    "quote": "Federal Trade Commission’s Proposed Policy Statement Concerning The Suppression Of Accuracy In Artificial Intelligence Systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 1, heading",
+    "quote": "FEDERAL TRADE COMMISSION’S PROPOSED POLICY STATEMENT CONCERNING THE SUPPRESSION OF ACCURACY IN ARTIFICIAL INTELLIGENCE SYSTEMS",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-24/2026-10-17/official.html",
+    "sha256": "528a42b02b3285fdab7588ccffd51222a7e5e03533586a89c8fb4f9c61140c8b",
+    "locator": "document details (Date, By)",
+    "quote": "Date July 1, 2026 By Federal Trade Commission (FTC)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3, Part II",
+    "quote": "Order directs the Commission to issue this enforcement policy statement clarifying the application of Section 5 of the Federal Trade Commission Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release",
+    "quote": "The Commission vote authorizing the Federal Register notice was 2-0.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-24/2026-10-17/official.html",
+    "sha256": "528a42b02b3285fdab7588ccffd51222a7e5e03533586a89c8fb4f9c61140c8b",
+    "locator": "document details (Date, By)",
+    "quote": "Date July 1, 2026 By Federal Trade Commission (FTC)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 1, heading",
+    "quote": "SUPPRESSION OF ACCURACY IN ARTIFICIAL INTELLIGENCE SYSTEMS July 1, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release heading and date",
+    "quote": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy July 1, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-24/2026-10-17/official.html",
+    "sha256": "528a42b02b3285fdab7588ccffd51222a7e5e03533586a89c8fb4f9c61140c8b",
+    "locator": "page heading (breadcrumb), as of 17 Oct 2026",
+    "quote": "Federal Trade Commission’s Proposed Policy Statement Concerning The Suppression Of Accuracy In Artificial Intelligence Systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-17/official.html",
+    "sha256": "528a42b02b3285fdab7588ccffd51222a7e5e03533586a89c8fb4f9c61140c8b",
+    "locator": "Related Releases",
+    "quote": "Related Releases FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release",
+    "quote": "The public will have until July 31, 2026, to submit comments on the policy statement.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release, Chairman's statement",
+    "quote": "This crucial input will help the Commission formulate a final policy",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 1, heading",
+    "quote": "FEDERAL TRADE COMMISSION’S PROPOSED POLICY STATEMENT CONCERNING THE SUPPRESSION OF ACCURACY IN ARTIFICIAL INTELLIGENCE SYSTEMS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-17/official.html",
+    "sha256": "528a42b02b3285fdab7588ccffd51222a7e5e03533586a89c8fb4f9c61140c8b",
+    "locator": "Related Releases",
+    "quote": "Related Releases FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release, first paragraph",
+    "quote": "The Federal Trade Commission is seeking public comment on a proposed policy statement addressing concerns that AI companies may be manipulating the behavior of their AI systems",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 1, Part I",
+    "quote": "consumers have a reasonable expectation that AI systems aim to give truthful and accurate outputs",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 8, Part IV",
+    "quote": "the Commission believes that AI companies that steer the outputs of their AI systems toward unexpected objectives, and away from the objectives set by or reasonably expected by users, are likely to deceive",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 8, Part IV",
+    "quote": "These prohibitions apply even when a company engages in a deceptive act or practice in order to comply with a state law.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 1, Part I",
+    "quote": "compliance with a state law, such as Colorado’s recently revised Artificial Intelligence Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 9, Part IV",
+    "quote": "A state law that requires an AI firm to deceive its consumers obviously conflicts with Section 5’s express purpose of protecting consumers from such conduct.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 9, Part IV",
+    "quote": "A company can, for example, clearly and conspicuously disclose that its systems are designed to produce outputs that prioritize certain objectives",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 9, Part IV",
+    "quote": "disclaimer could not be buried in terms of service",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 8, footnote 46",
+    "quote": "the Commission does not believe that such hallucinations in and of themselves raise issues under Section 5",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3, Part II",
+    "quote": "On December 11, 2025, President Trump signed Executive Order 14365",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3, Part II and footnote 15",
+    "quote": "address how state laws requiring alterations to the accurate outputs of AI models can conflict with the requirements of the FTC Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release",
+    "quote": "The proposed policy statement will be published in the Federal Register. The public will have until July 31, 2026, to submit comments on the policy statement.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html",
+    "sha256": "124acbd2d8cf4346625cd150741a873fb2ff8dfb1c8dead20c4ce6df39d1bfe8",
+    "locator": "press release",
+    "quote": "The Commission vote authorizing the Federal Register notice was 2-0.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3, footnote 15",
+    "quote": "Id. at 58500 (Section 7).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 8, footnote 45",
+    "quote": "The Commission at this time takes no position on whether the practices discussed in this statement may also be unfair under the FTC Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 8, Part IV",
+    "quote": "Although the FTC Act does not expressly preempt state law, state law is impliedly preempted to the extent it conflicts with a federal",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 7, footnote 42",
+    "quote": "repealed and reenacted, as amended, by Colo. Sen. Bill 26-189 (enacted May 14, 2026).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-24/2026-10-11/document-1.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 8, Part IV",
+    "quote": "It is predictable that an AI company might suppress accuracy and interpose other objectives, such as so -called “equity,” to avoid liability under this law",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored page attributes the statement to the Federal Trade Commission ('By Federal Trade Commission (FTC)') and the statement is the Commission's; 'Bureau of Consumer Protection' is only a topic tag on the page",
+   "summary": "rewritten from the statement's own text (stored PDF) instead of law-firm summaries; adds the EO 14365 mandate, the disclaimer requirements and the hallucination carve-out",
+   "notes": "removed a hedge ('Secondary sources report' a 31 Jul 2026 comment deadline, now confirmed by the FTC press release and stated plainly), a research remark ('no final statement was found') and two claims not in the stored sources (the original EO deadline, 'courts have not ruled'); added the 2-0 vote and Federal Register publication for comment, and the statement's own points on unfairness, implied preemption and Colorado SB 26-189",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The page stored on 17 Oct 2026 still titles the document a 'Proposed Policy Statement'. The FTC press release says comments were due by 31 Jul 2026 and would help the Commission formulate a final policy; the comment period has closed, but no final statement appears in the stored sources. 'Draft / proposed' with legal_force 'Proposed' stands.",
+  "scope_reasoning": "AI-specific guidance by a horizontal supervisory authority (consumer protection); in scope with no note under the supervisory-authority rule.",
+  "date_reasoning": "1 Jul 2026 is the date on the statement itself and on the legal library page."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+   "reason": "The FTC press release linked from the stored legal library page ('Related Releases'); needed for the public comment period and deadline, and for the Commission vote, which the stored files do not give. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "FTC inquiry into AI chatbots acting as companions (press release 'FTC Launches Inquiry into AI Chatbots Acting as Companions', Sep 2025)",
+   "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions",
+   "seen_in": "archive/_runs/2026-10-17-recheck-north-america-1/US-24/extra-b2a4f5b7b2/2026-10-17/official.html (Press Release Reference)",
+   "why": "An FTC inquiry into AI companion chatbots, apparently through orders to several companies; not in the register. Possibly in scope as a consumer-protection supervisor's AI action addressed to a sector, or out if it is only orders to individual firms; needs the instrument itself."
+  }
+ ],
+ "open_questions": [
+  "The Federal Register citation of the notice publishing the proposed statement is not in the stored sources; official_identifier stays empty."
+ ]
+}

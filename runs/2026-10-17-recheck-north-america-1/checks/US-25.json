@@ -1,0 +1,52 @@
+{
+ "cand_id": "US-25",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "judgment-differs",
+   "why": "press release spells the sixth sponsor 'Subramanyan'; the record has 'Subramanyam' (stored source differs from record)"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported",
+   "why": "claims traced to quotes"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Critical safety incident report within 72 hours for frontier developers",
+   "verdict": "supported",
+   "locator": "Sec 4(h)(1)"
+  },
+  {
+   "claim": "Commerce Secretary may suspend models posing imminent catastrophic risk",
+   "verdict": "supported",
+   "locator": "Sec 8"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. Targeted search for an amendment, repeal or newer edition found nothing newer on an official site. Search: H.R. 9925 and referral to Energy and Commerce and Science committees reported by secondary trackers only; no official page found, so no verdict change."
+}

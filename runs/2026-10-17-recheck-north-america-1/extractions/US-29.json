@@ -1,0 +1,169 @@
+{
+ "cand_id": "US-29",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-29",
+ "record": {
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Federal Register print of the order stored from govinfo.gov on 16 Oct 2026 (unchanged on 17 Oct 2026; 5 pages, 85 FR 78939-78943). It confirms the title, the order number, the signing on 3 Dec 2020, publication on 8 Dec 2020 and FR Doc. 2020-27065, and the content of Secs. 1 to 10. OMB memorandum M-26-04 of 11 Dec 2025 (whitehouse.gov PDF, stored again for this run) names the order among the existing directives its guidance builds on, together with OMB memoranda M-25-22 and M-25-21. That the order is still in force rests on this and on the absence of any revocation or amendment in the stored sources."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1, heading",
+    "quote": "Executive Order 13960 of December 3, 2020 Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1, preamble",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5, signature block",
+    "quote": "THE WHITE HOUSE, December 3, 2020.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1, Federal Register header",
+    "quote": "Presidential Documents 78939 Federal Register Vol. 85, No. 236 Tuesday, December 8, 2020 Title 3— The President Executive Order 13960",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5, filing line",
+    "quote": "[FR Doc. 2020–27065 Filed 12–7–20; 8:45 am]",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1, heading",
+    "quote": "Executive Order 13960 of December 3, 2020",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5, signature block",
+    "quote": "THE WHITE HOUSE, December 3, 2020.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1, preamble",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5, Sec. 10(b)",
+    "quote": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-29/extra-69004c5fb8/2026-10-17/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 4, Appendix A (OMB M-26-04)",
+    "quote": "This guidance builds on existing directives and policies that address agencies’ acquisition and use of AI, such as President Trump’s Executive Order 13960, Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 2, Sec. 3",
+    "quote": "When designing, developing, acquiring, and using AI in the Federal Government, agencies shall adhere to the following Principles:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 2, Sec. 3(d)",
+    "quote": "(d) Safe, secure, and resilient. Agencies shall ensure the safety, security, and resiliency of their AI applications",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 3, Sec. 5(c)(i)",
+    "quote": "agencies shall develop plans either to achieve consistency with this order for each AI application or to retire AI applications",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-29/extra-69004c5fb8/2026-10-17/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1, heading (OMB M-26-04)",
+    "quote": "December 11, 2025 M-26-04 MEMORANDUM TO HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-29/extra-69004c5fb8/2026-10-17/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 4, Appendix A (OMB M-26-04)",
+    "quote": "and OMB Memoranda M-25-22, Driving Efficient Acquisition of Artificial Intelligence,10 and M-25-21, Accelerating Federal Use of AI through Innovation, Governance, and Public Trust.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 4, Sec. 8(b)",
+    "quote": "and excludes the Depart- ment of Defense and those agencies and agency components with functions that lie wholly within the Intelligence Community.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, with M-26-04 now stored for this run; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An executive order takes effect when signed (3 Dec 2020) and has no expiry clause. Nothing in the stored sources revokes or amends it, and OMB memorandum M-26-04 of 11 Dec 2025, stored for this run, names it among the existing directives its guidance builds on. 'In force' stands.",
+  "scope_reasoning": "A presidential executive order setting binding principles, including safety, security and monitoring, for agencies' use of AI; AI-specific, in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are the signing date, 3 Dec 2020; Federal Register publication on 8 Dec 2020 is in notes."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf",
+   "reason": "OMB memorandum M-26-04 (11 Dec 2025), which names EO 13960 among the existing directives it builds on; evidence that the order is still in force and the source of the last sentence of notes (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

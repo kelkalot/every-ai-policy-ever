@@ -1,0 +1,55 @@
+{
+ "cand_id": "CA-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "this strategy sets out six pillars",
+   "verdict": "supported",
+   "locator": "The Government’s vision: AI for All"
+  },
+  {
+   "claim": "This will include providing Canadians with the legal tools to combat deepfakes, ensure that interactions with chatbots are safe, and hold those responsible for online harms accountable.",
+   "verdict": "supported",
+   "locator": "Pillar 1"
+  },
+  {
+   "claim": "Canada will protect elections and democratic institutions from AI‑enabled misinformation and foreign interference.",
+   "verdict": "supported",
+   "locator": "Pillar 1, Key actions"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly adoption and sovereignty strategy with a safety pillar; the extractor's scope_note fits."
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

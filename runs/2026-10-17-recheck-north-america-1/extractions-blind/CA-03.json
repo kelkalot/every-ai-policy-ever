@@ -1,0 +1,82 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page heading",
+    "quote": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "byline",
+    "quote": "From: Innovation, Science and Economic Development Canada",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page header",
+    "quote": "September 2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page footer",
+    "quote": "2026-06-04",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "Introduction",
+    "quote": "signatories to this code commit to adopting the identified measures",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "Resources",
+    "quote": "this code does not in any way change existing legal obligations",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The page is still published under its original title and the code is voluntary; no withdrawal or replacement appears in the stored text, so the status stays 'Published (non-binding, current)'.",
+  "scope_reasoning": "Government-published voluntary code: in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The page's 'Date modified: 2026-06-04' is the only evidence for date_last_updated; the page does not say what changed."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "CA-03",
+ "decision": "update",
+ "target_id": "CA-03"
+}

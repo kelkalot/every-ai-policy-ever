@@ -1,0 +1,237 @@
+{
+ "cand_id": "CA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-01",
+ "record": {
+  "summary": "Mandatory Treasury Board directive for federal institutions that use automated decision systems, including machine learning, to make or assist administrative decisions about clients. Before production, institutions must complete and publish an Algorithmic Impact Assessment that sets one of four impact levels and apply that level's requirements: notice and explanation, peer review, Gender-based Analysis Plus, staff training, testing and monitoring for bias and unfair outcomes, human involvement (a human makes the final decision at levels III and IV), approval up to Treasury Board, recourse and public reporting.",
+  "notes": "Binding on the institutions subject to the Policy on Service and Digital, under whose authority it is issued; other departments and agencies are encouraged to meet it as good practice. Launched on 4 March 2019, it took effect on 1 April 2019, with compliance required by 1 April 2020, and applies to systems developed or procured after that date. Amended on 1 April 2021, on 25 April 2023 (third review: expanded scope and new measures on explanation, bias testing, data governance, GBA Plus and peer review) and on 24 June 2025 (fourth review: transparency of systems and their impacts, senior-level accountability, testing and monitoring; the Algorithmic Impact Assessment tool was updated with it). Systems developed or procured before 24 June 2025, and agents of Parliament, had until 24 June 2026 to comply with the new or updated requirements. The directive is reviewed every two years.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the directive's page on tbs-sct.canada.ca (stored 11 Oct 2026; the archiver found it unchanged on 17 Oct 2026) and TBS's 'Progress on AI in government' page on canada.ca (stored the same day as the secondary source, also unchanged). The directive page confirms the title, the effective date of 1 April 2019 with compliance by 1 April 2020, 'Date modified: 2025-06-24', the transition to 24 June 2026 for existing systems and agents of Parliament, and the requirements and impact levels; its archive block lists the 2021-03-24 and 2023-04-24 versions as replaced. The launch date of 4 March 2019 and the amendment dates of 1 April 2021 and 25 April 2023 rest on the progress page, which is stored as the secondary source, so date_published is supported by another official source, not by the directive page itself."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "page heading",
+    "quote": "Directive on Automated Decision-Making",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "7. Roles and responsibilities of Treasury Board of Canada Secretariat",
+    "quote": "The Treasury Board of Canada Secretariat is responsible for:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "10. Enquiries",
+    "quote": "For interpretation of any aspect of this directive, contact Treasury Board of Canada Secretariat Public Enquiries.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-01/2026-10-11/secondary.html",
+    "sha256": "b5233ca898db5f5b66e90dd936b55aba36b88d45e1dec7ea93c44eff08ecde69",
+    "locator": "Progress on AI in government",
+    "quote": "Launch of the Directive on Automated Decision-Making (March 4, 2019)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "1. Effective date",
+    "quote": "This directive takes effect on April 1, 2019, with compliance required by no later than April 1, 2020.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "page header",
+    "quote": "Date modified: 2025-06-24",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "1. Effective date",
+    "quote": "Existing automated decision systems developed or procured prior to June 24, 2025, will have until June 24, 2026 to comply with the new or updated requirements.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/secondary.html",
+    "sha256": "b5233ca898db5f5b66e90dd936b55aba36b88d45e1dec7ea93c44eff08ecde69",
+    "locator": "Progress on AI in government",
+    "quote": "Updates to the Directive on Automated Decision-Making (June 24, 2025)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "1. Effective date",
+    "quote": "This directive takes effect on April 1, 2019, with compliance required by no later than April 1, 2020.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "Archives",
+    "quote": "This directive replaces: Automated Decision-Making, Directive on [2021-03-24] Automated Decision-Making, Directive on [2023-04-24]",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "8. Application",
+    "quote": "This directive applies to all institutions subject to the Policy on Service and Digital.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "2. Authorities",
+    "quote": "This directive is issued pursuant to the same authority indicated in section 2 of the Policy on Service and Digital.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "6.1 Algorithmic impact assessment",
+    "quote": "Completing, approving and publishing the final results of an algorithmic impact assessment in an accessible format on the Open Government Portal prior to the production of any automated decision system.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "Appendix A - Definitions",
+    "quote": "These systems draw from fields like statistics, linguistics and computer science, and use techniques such as rules-based systems, regression, predictive analytics, machine learning, deep learning, and neural networks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "6.3 Quality assurance",
+    "quote": "testing the data, information, and underlying model for accuracy, unintended biases and all factors that may unintentionally or unfairly impact the outcomes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "Appendix C - Ensuring human involvement",
+    "quote": "The final decision must be made by a human.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "Appendix C - Approval for the system to operate",
+    "quote": "Assistant deputy minister responsible for the program. Same as level I Deputy head Treasury Board",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "6.4 Recourse",
+    "quote": "Informing clients of recourse options to challenge the administrative decision.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "8. Application",
+    "quote": "Other departments or separate agencies that are not subject to the Policy on Service and Digital are encouraged to meet the requirements of this directive as good practice.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "1. Effective date",
+    "quote": "Agents of Parliament will have until June 24, 2026, to comply with the requirements.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/official.html",
+    "sha256": "225f990673205a49cee216fb8fc124909e8eb917559e3e258a8dd7fb7c35a0e3",
+    "locator": "1. Effective date",
+    "quote": "This directive will be reviewed every two years, and as determined by the Chief Information Officer of Canada.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/secondary.html",
+    "sha256": "b5233ca898db5f5b66e90dd936b55aba36b88d45e1dec7ea93c44eff08ecde69",
+    "locator": "Progress on AI in government",
+    "quote": "Updates to the Directive on Automated Decision-Making (April 1, 2021) The Directive was amended based on feedback received from stakeholders",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/secondary.html",
+    "sha256": "b5233ca898db5f5b66e90dd936b55aba36b88d45e1dec7ea93c44eff08ecde69",
+    "locator": "Progress on AI in government",
+    "quote": "Key changes include an expanded scope and new measures for explanation, bias testing, data governance, GBA+, and peer review",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-01/2026-10-11/secondary.html",
+    "sha256": "b5233ca898db5f5b66e90dd936b55aba36b88d45e1dec7ea93c44eff08ecde69",
+    "locator": "Progress on AI in government",
+    "quote": "Key improvements were made to increase the transparency of systems and their impacts, strengthen senior-level accountability, enhance testing and monitoring, and increase consistency within the policy suite.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the directive text to show its structure: the Algorithmic Impact Assessment sets one of four impact levels (Appendix B) and the requirements follow the level (Appendix C), including a human final decision at levels III and IV and approval up to Treasury Board",
+   "notes": "the transition to 24 June 2026 for systems procured before 24 June 2025 and for agents of Parliament (section 1.2) added, with its outcome; application section 8 and the content of each review added; 'effective April 2019' made exact (1 April 2019)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The directive took effect on 1 April 2019 and the current text is dated 2025-06-24; the transition period it sets for existing systems and agents of Parliament ended on 24 June 2026, before today (17 Oct 2026). The page's archive block lists only the 2021-03-24 and 2023-04-24 versions as replaced, so the 2025 text is the active one; nothing shows a rescission. 'In force' stands.",
+  "scope_reasoning": "A binding government directive on automated decision systems, defined to include machine learning, deep learning and neural networks; AI-specific public-sector rule, in scope with no note.",
+  "date_reasoning": "date_published stays 4 March 2019, the launch date on TBS's progress page; the directive page gives no adoption or launch date. date_in_force 1 April 2019 from section 1.1. date_last_updated 24 June 2025, the fourth-review amendment, matches the page's 'Date modified' and section 1.2.1."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Guide to Peer Review of Automated Decision Systems (Treasury Board of Canada Secretariat, 7 January 2025)",
+   "url": "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32806",
+   "seen_in": "archive/CA-01/2026-10-11/official.html (More information); release date in archive/CA-01/2026-10-11/secondary.html",
+   "why": "TBS guidance on peer review of automated decision systems under the directive; not in the register."
+  },
+  {
+   "title": "Guide on the Scope of the Directive on Automated Decision-Making (Treasury Board of Canada Secretariat, 27 June 2024)",
+   "url": "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32789",
+   "seen_in": "archive/CA-01/2026-10-11/official.html (Hierarchy); release date in archive/CA-01/2026-10-11/secondary.html",
+   "why": "TBS guidance on which automated systems fall under the directive; not in the register."
+  }
+ ],
+ "open_questions": []
+}

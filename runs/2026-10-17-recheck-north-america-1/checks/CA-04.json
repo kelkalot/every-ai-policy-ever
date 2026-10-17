@@ -1,0 +1,55 @@
+{
+ "cand_id": "CA-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Transparent: identify content that has been produced using generative AI; notify users that they are interacting with an AI tool",
+   "verdict": "supported",
+   "locator": "Recommended approach"
+  },
+  {
+   "claim": "Apply more in-depth testing methods to identify and mitigate vulnerabilities in instances where systems will be made publicly available. This should include penetration testing, adversarial testing or",
+   "verdict": "supported",
+   "locator": "a. Protection of information"
+  },
+  {
+   "claim": "Plan independent audits for assessing generative AI systems against risk and impact frameworks.",
+   "verdict": "supported",
+   "locator": "a. Protection of information"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

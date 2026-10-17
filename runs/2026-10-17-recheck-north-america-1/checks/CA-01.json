@@ -1,0 +1,55 @@
+{
+ "cand_id": "CA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Completing, approving and publishing the final results of an algorithmic impact assessment in an accessible format on the Open Government Portal prior to the production of any automated decision syste",
+   "verdict": "supported",
+   "locator": "6.1 Algorithmic impact assessment"
+  },
+  {
+   "claim": "These systems draw from fields like statistics, linguistics and computer science, and use techniques such as rules-based systems, regression, predictive analytics, machine learning, deep learning, and",
+   "verdict": "supported",
+   "locator": "Appendix A - Definitions"
+  },
+  {
+   "claim": "testing the data, information, and underlying model for accuracy, unintended biases and all factors that may unintentionally or unfairly impact the outcomes",
+   "verdict": "supported",
+   "locator": "6.3 Quality assurance"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

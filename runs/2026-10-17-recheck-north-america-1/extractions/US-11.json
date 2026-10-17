@@ -1,0 +1,188 @@
+{
+ "cand_id": "US-11",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-11",
+ "record": {
+  "official_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02172.pdf",
+  "summary": "Sets the policy of sustaining and enhancing America's global AI dominance to promote human flourishing, economic competitiveness and national security. It orders an immediate review of all actions taken under the revoked EO 14110 and the suspension, revision or rescission of those inconsistent with that policy, requires an AI action plan within 180 days, and directs OMB to revise its federal AI governance and acquisition memoranda (M-24-10 and M-24-18) within 60 days.",
+  "safety_topics": [
+   "public-sector use",
+   "national security & military"
+  ],
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: every copy of the federalregister.gov page (stored 11 and 17 Oct 2026, including the browser and print copies) is a bot-check page. In this run the Federal Register printing of the order was stored from govinfo.gov (Government Publishing Office), the URL that the stored texts of US-16 and US-24 cite; official_url now points at it. It confirms the title, the number, the signing on 23 Jan 2025, publication on 31 Jan 2025 at 90 FR 8741 (FR Doc. 2025-02172) and the provisions in the summary. That the order has not been revoked rests on the absence of any revocation in the stored files; the implementing instruments in notes rest on the stored texts of US-12, US-13 and US-16, and the remark on EO 14434 on US-26."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "Executive Order 14179 of January 23, 2025 Removing Barriers to American Leadership in Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2, signature",
+    "quote": "THE WHITE HOUSE, January 23, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2, signature graphic",
+    "quote": "Trump.EPS</GPH>",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "Presidential Documents 8741 Federal Register Vol. 90, No. 20 Friday, January 31, 2025 Title 3— The President Executive Order 14179",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2",
+    "quote": "[FR Doc. 2025–02172 Filed 1–30–25; 11:15 am]",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2, signature",
+    "quote": "THE WHITE HOUSE, January 23, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "Executive Order 14179 of January 23, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2, signature",
+    "quote": "THE WHITE HOUSE, January 23, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1, Sec. 2",
+    "quote": "It is the policy of the United States to sustain and enhance America’s global AI dominance in order to promote human flourishing, economic competitiveness, and national security.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1, Sec. 5(a)",
+    "quote": "The APST, the Special Advisor for AI and Crypto, and the APNSA shall immediately review",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1, Sec. 5(a)",
+    "quote": "suspend, revise, or rescind such actions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1, Sec. 4(a)",
+    "quote": "Developing an Artificial Intelligence Action Plan. (a) Within 180 days of this order",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1, Sec. 5(b)",
+    "quote": "Within 60 days of this order, the OMB Director, in coordination with the APST, shall revise OMB Memoranda M–24–10 and M–24–18 as necessary",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1, Sec. 2",
+    "quote": "It is the policy of the United States to sustain and enhance America’s global AI dominance in order to promote human flourishing, economic competitiveness, and national security.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "Friday, January 31, 2025",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the Federal Register printing of the order on govinfo.gov, stored in this run; federalregister.gov serves the archiver only a bot-check page, so the record had no stored text (as done for US-04)",
+   "summary": "made precise from the order: Sec. 5(a) orders a review and the suspension, revision or rescission of inconsistent EO 14110 actions, not their rescission as such; adds the policy's three aims from Sec. 2",
+   "safety_topics": "the record had one topic, below the minimum of two; 'national security & military' added because Sec. 2 states national security as an aim of the policy and the national security adviser co-leads the action plan and the review",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed 23 Jan 2025; the order states no later effective date, so it took effect on signing. No stored file shows it revoked or amended: OMB M-25-21 and M-25-22 (US-12, US-13) implement it, and EO 14434 (US-26) does not require changes to prior presidential actions. 'In force' stands as of 18 Oct 2026.",
+  "scope_reasoning": "Executive order setting federal AI policy and directing the review of actions taken under the safety-oriented EO 14110 and the revision of the OMB AI governance memoranda; in scope, as published.",
+  "date_reasoning": "date_published and date_in_force are the signing date, 23 Jan 2025 ('THE WHITE HOUSE, January 23, 2025.'); the Federal Register publication on 31 Jan 2025 is in notes, as published.",
+  "issuing_body_reasoning": "The order is issued 'as President' and signed at the White House on 23 Jan 2025; the stored text shows the President's signature only as the graphic file name 'Trump.EPS'. The value 'The White House (President Donald J. Trump)' is kept."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02172.pdf",
+   "why": "The Federal Register printing of EO 14179 on GovInfo (stored in this run)."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

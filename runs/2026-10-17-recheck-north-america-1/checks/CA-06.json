@@ -1,0 +1,52 @@
+{
+ "cand_id": "CA-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "These frameworks will balance risk with the pace required for innovation; be scaled to system risk, sensitivity, and impact",
+   "verdict": "supported",
+   "locator": "Priority 2, Key actions"
+  },
+  {
+   "claim": "including system shutdown measures to respond to emergencies",
+   "verdict": "supported",
+   "locator": "Priority 2, Key actions"
+  },
+  {
+   "claim": "This will include an AI ethics review board responsible for providing guidance on responsible AI and for evaluating higher risk and impact projects at key stages of the project lifecycle.",
+   "verdict": "supported",
+   "locator": "Priority 2, Key actions"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

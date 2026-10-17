@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "The archive banner shows only that the site is frozen; no withdrawal is stated. Treating it as withdrawn in practice is defensible and the notes say no formal withdrawal is known."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "These principles help provide guidance whenever automated systems can meaningfully impact the public’s rights, opportunities, or access to critical needs.",
+   "verdict": "supported",
+   "locator": "introduction"
+  },
+  {
+   "claim": "Systems should undergo pre-deployment testing, risk identification and mitigation, and ongoing monitoring that demonstrate they are safe and effective based on their intended use",
+   "verdict": "supported",
+   "locator": "Safe and Effective Systems"
+  },
+  {
+   "claim": "Independent evaluation and reporting that confirms that the system is safe and effective, including reporting of steps taken to mitigate potential harms, should be performed and the results made publi",
+   "verdict": "supported",
+   "locator": "Safe and Effective Systems"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "Date narrowed to 2022-10 as the stored PDF gives only the month, and the unsupported 2025-01-20 last-updated date was removed; both follow the evidence. Status \"Revoked / withdrawn\" is a judgment the stored banner does not prove; flagged judgment-differs. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

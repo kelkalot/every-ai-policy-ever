@@ -1,0 +1,203 @@
+{
+ "cand_id": "US-23",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-23",
+ "record": {
+  "summary": "Treasury, the Department of War (through NSA) and DHS (through CISA) must develop a classified benchmarking process for AI models' advanced cyber capabilities, with the NSA Director setting the threshold for 'covered frontier models', and design a voluntary framework under which developers can give the government access to such models for up to 30 days before releasing them to other trusted partners. The order states that this authorises no mandatory licensing, preclearance or permitting of new AI models. It also directs CISA Binding Operational Directives, a Treasury-led voluntary AI cybersecurity clearinghouse, and DOJ prioritisation of prosecutions for AI-enabled hacking.",
+  "notes": "Signed 2 Jun 2026 and published in the Federal Register on 5 Jun 2026 (Vol. 91, No. 108, pp. 34565-34567). Deadlines: Sec. 2(a) to (e) within 30 days (about 2 Jul 2026); Sec. 2(f), on expanding the United States Tech Force cybersecurity hiring and placement pathways, and the Sec. 3 benchmarking process and frontier-model framework within 60 days (about 1 Aug 2026). Under Sec. 3 the Secretary of Commerce is consulted through the Director of NIST; CAISI is not named. Under Sec. 2(c)(iii) CISA is to facilitate access to cybersecurity tools and services, including covered frontier models where appropriate, for agencies, state and local authorities and critical-infrastructure operators. The order revokes no earlier instrument. Participation in the pre-release access framework is voluntary for developers.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the whitehouse.gov text of the order stored on 17 Oct 2026 (it differs from the 11 Oct copy only in site navigation and related links) and the Federal Register print of the order linked from that page (whitehouse.gov PDF, 3 pages, 91 FR 34565-34567, FR Doc. 2026-11415, unchanged since 11 Oct). Together they confirm the title, EO 14409, signing on 2 Jun 2026, publication on 5 Jun 2026 and the content of Secs. 1 to 5. The stored federalregister.gov copy is a bot-check page and was not used. The stored sources do not show whether the 30- and 60-day deliverables, including the voluntary pre-release access framework, have been completed; that remark and the earlier description of the order as the first post-2025 federal instrument with frontier-model testing content (an evaluation not in the sources) were removed from notes. The summary now renders Sec. 3(c) as the order words it (no authority for mandatory licensing, preclearance or permitting) instead of 'rules out'."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "page heading",
+    "quote": "PROMOTING ADVANCED ARTIFICIAL INTELLIGENCE INNOVATION AND SECURITY Executive Orders June 2, 2026 Executive Order 14409",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-11/document-1.pdf",
+    "sha256": "4a25c970947e7234f1a4308aca6aba62f327ac956de7caa41204c84f7f2cdcd9",
+    "locator": "page 1, heading",
+    "quote": "Executive Order 14409 of June 2, 2026 Promoting Advanced Artificial Intelligence Innovation and Security",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "signature block",
+    "quote": "DONALD J. TRUMP THE WHITE HOUSE, June 2, 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-23/2026-10-11/document-1.pdf",
+    "sha256": "4a25c970947e7234f1a4308aca6aba62f327ac956de7caa41204c84f7f2cdcd9",
+    "locator": "page 1, Federal Register header",
+    "quote": "Presidential Documents 34565 Federal Register Vol. 91, No. 108 Friday, June 5, 2026 Title 3— The President Executive Order 14409",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-11/document-1.pdf",
+    "sha256": "4a25c970947e7234f1a4308aca6aba62f327ac956de7caa41204c84f7f2cdcd9",
+    "locator": "page 3, filing line",
+    "quote": "[FR Doc. 2026–11415 Filed 6–4–26; 11:15 am]",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "page heading",
+    "quote": "Executive Orders June 2, 2026 Executive Order 14409",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-11/document-1.pdf",
+    "sha256": "4a25c970947e7234f1a4308aca6aba62f327ac956de7caa41204c84f7f2cdcd9",
+    "locator": "page 1, heading",
+    "quote": "Executive Order 14409 of June 2, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "signature block",
+    "quote": "DONALD J. TRUMP THE WHITE HOUSE, June 2, 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "preamble",
+    "quote": "Executive Order 14409 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 2(b)",
+    "quote": "(b) Within 30 days of the date of this order, the Secretary of War shall prioritize the cyber defense of Department of War information systems",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 3(a)",
+    "quote": "develop and maintain a classified benchmarking process to assess the advanced cyber capabilities of AI models and determine the threshold at which an AI model should be designated a “covered frontier model”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 3(a)",
+    "quote": "Such a determination shall be made by the Director of NSA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 3(b)(ii)",
+    "quote": "for a period of up to 30 days before they plan to release such models to other trusted partners",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 3(c)",
+    "quote": "Nothing in this section shall be construed to authorize the creation of a mandatory governmental licensing, preclearance, or permitting requirement for the development, publication, release, or distribution of new AI models, including frontier models.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 2(d)",
+    "quote": "shall form an AI cybersecurity clearinghouse, in voluntary collaboration with the AI industry and operators of critical infrastructure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 4",
+    "quote": "The Attorney General shall prioritize the enforcement of 18 U.S.C. 1028, 18 U.S.C. 1030, 18 U.S.C. 1343, and all other applicable Federal criminal laws against anyone who utilizes AI to illegally access or damage a computer without authorization",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 2(f)",
+    "quote": "(f) Within 60 days of the date of this order, the Director of the Office of Personnel Management shall expand the United States Tech Force Information Cybersecurity Specialist hiring and placement pathways.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 3",
+    "quote": "and the Secretary of Commerce, through the Director of the National Institute of Standards and Technology, and in coordination with other agencies, as appropriate, shall:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-17/official.html",
+    "sha256": "84ea376fc340b70201df69586764df2fbec8a88b9f04ca2e50a8482aabd4d4a9",
+    "locator": "Sec. 2(c)(iii)",
+    "quote": "facilitate access to cybersecurity tools and services including, where appropriate, covered frontier models for agencies, State and local authorities, and operators of critical infrastructure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-23/2026-10-11/document-1.pdf",
+    "sha256": "4a25c970947e7234f1a4308aca6aba62f327ac956de7caa41204c84f7f2cdcd9",
+    "locator": "page 1, Federal Register header",
+    "quote": "34565 Federal Register Vol. 91, No. 108 Friday, June 5, 2026",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "Sec. 3(c) says the section does not authorise mandatory licensing, preclearance or permitting; 'rules out' overstated it. Otherwise the same content, checked against the stored text",
+   "notes": "removed a research remark (implementation 'could not be verified', now in verification.note) and an evaluative claim not in the sources ('first post-2025 federal instrument'); added the Sec. 2(f) and Sec. 2(c)(iii) details and the Federal Register volume and pages",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An executive order takes effect when signed (2 Jun 2026) and has no expiry clause. The whitehouse.gov page stored on 17 Oct 2026 still carries the order unchanged, and nothing in the stored sources revokes or amends it. Its 30- and 60-day deadlines (2 Jul and 1 Aug 2026) have passed, but they are tasks for agencies, not conditions of the order's force. 'In force' stands.",
+  "scope_reasoning": "A presidential executive order on frontier AI cyber capabilities, pre-release government access to covered frontier models and AI cybersecurity; AI-specific, in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are the signing date, 2 Jun 2026, given on the whitehouse.gov page and in the Federal Register heading; Federal Register publication on 5 Jun 2026 goes in notes."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Advancing Artificial Intelligence Education for American Youth (Executive Order, 23 Apr 2025)",
+   "url": "https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/",
+   "seen_in": "archive/US-23/2026-10-17/official.html (Related)",
+   "why": "Presidential executive order with AI in its title, apparently mainly about AI education; not in the register. Possibly in scope with a scope_note under the AI-in-title rule."
+  }
+ ],
+ "open_questions": []
+}

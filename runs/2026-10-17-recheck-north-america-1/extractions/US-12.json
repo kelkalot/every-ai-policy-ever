@@ -1,0 +1,149 @@
+{
+ "cand_id": "US-12",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-12",
+ "record": {
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the whitehouse.gov PDF of M-25-21 stored on 11 Oct 2026 (the archiver found it unchanged on 17 Oct 2026; Last-Modified 4 Apr 2025). It confirms the memo number, title, 3 Apr 2025 date, the Office of Management and Budget as issuer, the rescission and replacement of M-24-10, the high-impact AI definition, the minimum risk management practices, the waiver rules and the deadlines in notes. The stored text shows no later amendment or replacement; that the memo is still in force rests on the absence of any rescission in the stored file."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "SUBJECT: Accelerating Federal Use of AI through Innovation , Governance, and Public Trust",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "EXECUTIVE OFFICE OF THE PRESIDENT OFFlCEOFMANAGEMENTANDBUDGET WASHINGTON, D.C. 20503",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "This memorandum rescinds and replaces Office of Management and Budget (0MB) Memorandum M-24-10",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "April 3, 2025 M-25-21 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "April 3, 2025 M-25-21 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "April 3, 2025 M-25-21 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "April 3, 2025 M-25-21 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "Agencies must follow the detailed implementation instructions and requirements included in the Appendix. This memorandum rescinds and replaces Office of Management and Budget (0MB) Memorandum M-24-10",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "Agencies must follow the detailed implementation instructions and requirements included in the Appendix.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 4, footnote 4",
+    "quote": "while this memorandum governs only agencies' own use of AI and does not create rights or obligations for the public",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 14, Section 4(a)",
+    "quote": "AI is considered high-impact when its output serves as a principal basis for decisions or actions that have a legal, material, binding, or significant effect on rights or safety.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 15, Section 4(b)",
+    "quote": "Agencies must implement the following minimum risk management practices for high impact AI use cases: 1. Conduct Pre-Deployment Testing.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-12/2026-10-11/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 15, Section 4(a)(i)",
+    "quote": "If a particular high-impact use case is not compliant with the minimum practices then the agency must safely discontinue use of the AI functionality.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The memo is dated 3 April 2025 and directs agencies to follow its requirements from issuance, with deadlines counted from issuance (60, 90, 180, 270 and 365 days). It rescinds and replaces M-24-10. The stored file shows no later amendment or rescission. 'In force' stands as of 17 Oct 2026.",
+  "scope_reasoning": "AI-specific, government-wide binding policy for agencies' use of AI with minimum risk management practices for high-impact AI; in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are both the memo's date, 3 April 2025; it states no separate effective date, and its deadlines run from issuance.",
+  "summary_reasoning": "The current summary is supported by Sections 3 and 4 of the memo (high-impact definition, pre-deployment testing, AI impact assessment with independent review, ongoing monitoring, operator training, human oversight and fail-safe, remedies and appeals, discontinuation of non-compliant uses, CAIO waivers, CAIOs and governance boards). It omits 'binding' from the four effects in the definition, which does not change its meaning; left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "OMB Memorandum M-21-06, Guidance for Regulation of Artificial Intelligence Applications (17 Nov 2020)",
+   "url": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/11/M-21-06.pdf",
+   "seen_in": "archive/US-12/2026-10-11/official.pdf (page 5, footnote 6)",
+   "why": "OMB guidance to agencies on regulatory and non-regulatory approaches to AI applications outside the federal government; cited by M-25-21 as current guidance; not in the register."
+  }
+ ],
+ "open_questions": []
+}

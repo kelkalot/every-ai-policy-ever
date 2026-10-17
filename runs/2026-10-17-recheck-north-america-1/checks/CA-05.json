@@ -1,0 +1,53 @@
+{
+ "cand_id": "CA-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "judgment-differs",
+   "why": "The 4 June 2026 strategy commits further funds to the institute; it is not an amendment of the launch announcement. Defensible."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "CAISI will leverage Canada’s world-leading AI research ecosystem and talent base to advance the understanding of risks associated with advanced AI systems and to drive the development of measures to a",
+   "verdict": "supported",
+   "locator": "news release"
+  },
+  {
+   "claim": "CAISI will also collaborate with safety institutes in other jurisdictions as part of the new International Network of AI Safety Institutes",
+   "verdict": "supported",
+   "locator": "news release"
+  },
+  {
+   "claim": "Applied and investigator-led research will be funded through a contribution agreement with the global Canada-based research organization, CIFAR",
+   "verdict": "supported",
+   "locator": "Quick facts"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

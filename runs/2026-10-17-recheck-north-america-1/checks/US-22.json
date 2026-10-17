@@ -1,0 +1,54 @@
+{
+ "cand_id": "US-22",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "related": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported",
+   "why": "claims traced to quotes"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Congress should not create a new federal AI rulemaking body",
+   "verdict": "supported",
+   "locator": "III/V"
+  },
+  {
+   "claim": "State zoning for AI infrastructure preserved",
+   "verdict": "supported",
+   "locator": "VII"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. Targeted search for an amendment, repeal or newer edition found nothing newer on an official site. Search: no updated edition; a Blackburn discussion draft only reported by law firms."
+}

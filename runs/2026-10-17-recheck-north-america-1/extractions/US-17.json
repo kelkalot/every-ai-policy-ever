@@ -1,0 +1,179 @@
+{
+ "cand_id": "US-17",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-17",
+ "record": {
+  "date_last_updated": null,
+  "notes": "Signed 23 July 2025 and published in the Federal Register on 28 July 2025 (90 FR 35389). It builds on Executive Order 13960 (US-29). OMB had to issue implementing guidance within 120 days and did so in Memorandum M-26-04 of 11 December 2025 (US-19). Agency heads must include in each LLM contract made after that guidance terms requiring compliance with the Unbiased AI Principles, with decommissioning costs charged to the vendor if the agency terminates for non-compliance after a reasonable period to cure; revise existing LLM contracts where practicable; and adopt compliance procedures within 90 days of the guidance. The order creates no right enforceable against the United States.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the GovInfo Federal Register text stored on 11 Oct 2026 and the White House page stored on 17 Oct 2026 (it differs from the 11 Oct copy only in a navigation menu label). Both confirm the title, EO 14319, the 23 July 2025 signature and the provisions; the GovInfo text confirms 90 FR 35389 (FR Doc. 2025-14217) of 28 July 2025. date_last_updated was 2025-12-11, the date of OMB M-26-04, which implements the order but does not amend it; neither stored text shows an amendment, so the field is now empty. The notes no longer carry the scope remark or the link to the AI Action Plan, which the order's text does not mention."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "page 35389 (heading)",
+    "quote": "Executive Order 14319 of July 23, 2025 Preventing Woke AI in the Federal Government",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "page 35389 (preamble)",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-17/secondary.html",
+    "sha256": "6671ce4be3e19149e39e1c52b8a043e24393129fbf533834cb6fd95359250253",
+    "locator": "signature",
+    "quote": "DONALD J. TRUMP THE WHITE HOUSE, July 23, 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "header",
+    "quote": "[Pages 35389-35391]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "header",
+    "quote": "[FR Doc No: 2025-14217]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "page 35389 (heading)",
+    "quote": "Executive Order 14319 of July 23, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "page 35389 (heading)",
+    "quote": "Executive Order 14319 of July 23, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "page 35391 (signature)",
+    "quote": "THE WHITE HOUSE, July 23, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "page 35391 (signature)",
+    "quote": "THE WHITE HOUSE, July 23, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-17/2026-10-17/secondary.html",
+    "sha256": "6671ce4be3e19149e39e1c52b8a043e24393129fbf533834cb6fd95359250253",
+    "locator": "Presidential Actions, Executive Orders",
+    "quote": "PREVENTING WOKE AI IN THE FEDERAL GOVERNMENT Executive Orders July 23, 2025 Executive Order 14319",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 3",
+    "quote": "agency heads shall, consistent with applicable law and in consideration",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 3",
+    "quote": "procure only those LLMs developed in accordance with the following two principles (Unbiased AI Principles)",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "header",
+    "quote": "Federal Register Volume 90, Number 142 (Monday, July 28, 2025)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 1",
+    "quote": "Building on Executive Order 13960 of December 3, 2020 (Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 4(a)",
+    "quote": "Within 120 days of the date of this order, the Director of the Office of Management and Budget (OMB)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 4(b)(i)",
+    "quote": "providing that decommissioning costs shall be charged to the vendor in the event of termination by the agency for the vendor's noncompliance with the contract following a reasonable period to cure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 4(b)(iii)",
+    "quote": "within 90 days of the OMB guidance issued under subsection (a) of this section, adopt procedures",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-17/2026-10-11/official.html",
+    "sha256": "8c48cf63a9525563b5d7839e87a5d94c7098b6e0bb0ebfe41a5b12545ed66f8c",
+    "locator": "Sec. 5(c)",
+    "quote": "This order is not intended to, and does not, create any right or benefit",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "11 Dec 2025 is the date of OMB M-26-04 (US-19), an implementing memorandum, not an amendment or new version of the order; no amendment is shown in the stored texts",
+   "notes": "rewritten from the stored text: Federal Register publication, EO 13960, the OMB guidance and the contract duties; the scope remark ('Included because ...') and the unsupported link to the AI Action Plan were removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Executive orders take effect on signature (23 July 2025); the order has no later effective date. The White House page stored on 17 Oct 2026 still presents it under Presidential Actions, and no stored text revokes or amends it. 'In force' stands.",
+  "scope_reasoning": "An AI-specific executive order setting binding requirements for federal procurement of large language models; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

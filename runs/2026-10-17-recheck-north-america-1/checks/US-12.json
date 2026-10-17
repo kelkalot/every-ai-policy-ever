@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-12",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Defines high-impact AI",
+   "verdict": "supported",
+   "locator": "page 14 Sec 4(a)"
+  },
+  {
+   "claim": "Minimum practices incl. pre-deployment testing",
+   "verdict": "supported",
+   "locator": "page 15 Sec 4(b)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. Targeted search for an amendment, repeal or newer edition found nothing newer on an official site."
+}

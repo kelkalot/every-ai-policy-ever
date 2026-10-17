@@ -1,0 +1,58 @@
+{
+ "cand_id": "US-18",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "GovInfo BILLSTATUS xml lists latest action 2026-09-30 hearing; proposed bill still in committee"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported",
+   "why": "claims traced to quotes"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "10^26 operations threshold",
+   "verdict": "supported",
+   "locator": "Sec 3(1)"
+  },
+  {
+   "claim": "Fine of not less than $1,000,000 per day",
+   "verdict": "supported",
+   "locator": "Sec 4(c)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. Targeted search for an amendment, repeal or newer edition found nothing newer on an official site."
+}

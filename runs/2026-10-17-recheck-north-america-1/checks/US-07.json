@@ -1,0 +1,55 @@
+{
+ "cand_id": "US-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "This document provides voluntary guidelines for improving the safety, security, and",
+   "verdict": "supported",
+   "locator": "page 5, 1. Introduction"
+  },
+  {
+   "claim": "the risk that such models will be deliberately misused to cause harm to public safety or national",
+   "verdict": "supported",
+   "locator": "page 5, 1. Introduction"
+  },
+  {
+   "claim": "include using a model to facilitate the development of chemical, biological, radiological, or",
+   "verdict": "supported",
+   "locator": "page 5, 1. Introduction"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

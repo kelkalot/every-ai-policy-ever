@@ -1,0 +1,160 @@
+{
+ "cand_id": "US-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-01",
+ "record": {
+  "date_published": "2022-10",
+  "date_last_updated": null,
+  "summary": "Non-binding white paper of the White House Office of Science and Technology Policy setting out five principles for automated systems that can meaningfully affect people's rights, opportunities or access to critical resources or services: safe and effective systems; algorithmic discrimination protections; data privacy; notice and explanation; and human alternatives, consideration and fallback. Systems should undergo pre-deployment testing, risk identification and mitigation and ongoing monitoring, with independent evaluation and public reporting whenever possible. A technical companion, From Principles to Practice, sets out how to put the principles into practice.",
+  "notes": "Published by OSTP in October 2022, one year after OSTP announced the process to develop a bill of rights for an AI-powered world. The Blueprint states that it is non-binding, does not constitute U.S. government policy, does not direct the interpretation of any statute or regulation and creates no legal right. It now exists only on the archived website of the Biden White House, marked as historical material that is no longer updated. No instrument formally withdrawing it is known; it is treated as withdrawn in practice.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the archived OSTP page and the Blueprint PDF stored on 11 Oct 2026 (the archiver could not reach bidenwhitehouse.archives.gov on 17 Oct 2026: DNS lookup failed). The PDF confirms the title, OSTP as issuer, the month of publication (October 2022) and the non-binding character; the page carries the archive's 'frozen in time' banner. No stored file gives the day of release, so date_published is now 2022-10; version 1's 4 Oct 2022 came from prior knowledge, and the OSTP fact sheet of 4 Oct 2022 requested in this run could not be stored (DNS lookup failed). date_last_updated (20 Jan 2025, the change of administration) was removed: it is not an amendment or new version and no stored file gives it. 'Revoked / withdrawn' is a judgment: no stored file shows a formal withdrawal."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, About this Document",
+    "quote": "The Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People was published by the White House Office of Science and Technology Policy in October 2022.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, About this Document",
+    "quote": "The Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People was published by the White House Office of Science and Technology Policy in October 2022.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, About this Document",
+    "quote": "The Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People was published by the White House Office of Science and Technology Policy in October 2022.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 1",
+    "quote": "MAKING AUTOMATED SYSTEMS WORK FOR THE AMERICAN PEOPLE OCTOBER 2022",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "archive banner at the top of the page",
+    "quote": "This is historical material “frozen in time”. The website is no longer updated and links to external websites and some internal pages may not work.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, Legal Disclaimer",
+    "quote": "The Blueprint for an AI Bill of Rights is non-binding and does not constitute U.S. government policy.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "introduction",
+    "quote": "These principles help provide guidance whenever automated systems can meaningfully impact the public’s rights, opportunities, or access to critical needs.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "Safe and Effective Systems",
+    "quote": "Systems should undergo pre-deployment testing, risk identification and mitigation, and ongoing monitoring that demonstrate they are safe and effective based on their intended use",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "Safe and Effective Systems",
+    "quote": "Independent evaluation and reporting that confirms that the system is safe and effective, including reporting of steps taken to mitigate potential harms, should be performed and the results made public whenever possible.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "introduction",
+    "quote": "this framework is accompanied by From Principles to Practice—a handbook for anyone seeking to incorporate these protections into policy and practice",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "Applying the Blueprint for an AI Bill of Rights",
+    "quote": "This framework applies to (1) automated systems that (2) have the potential to meaningfully impact the American public’s rights, opportunities, or access to critical resources or services.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, About this Document",
+    "quote": "This framework was released one year after OSTP announced the launch of a process to develop “a bill of rights for an AI-powered world.”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, Legal Disclaimer",
+    "quote": "It does not supersede, modify, or direct an interpretation of any existing statute, regulation, policy, or international instrument.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/document-1.pdf",
+    "sha256": "ab34b52e55b3f6641d5db725333129a66c0bbbb33a060f62ad44d52d98935c0a",
+    "locator": "page 2, Legal Disclaimer",
+    "quote": "The Blueprint for an AI Bill of Rights is not intended to, and does not, create any legal right, benefit, or defense",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-01/2026-10-11/official.html",
+    "sha256": "9da3ad9954dac6d7db91e3f9a90c0b0d5686983bd3bbc1e3a222a2b294feeecd",
+    "locator": "archive banner at the top of the page",
+    "quote": "This is historical material “frozen in time”. The website is no longer updated and links to external websites and some internal pages may not work.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the stored official PDF gives only 'October 2022'; the day 4 Oct 2022 rests on no stored file (AGENTS.md 7b: month precision)",
+   "date_last_updated": "removed: 20 Jan 2025 is the change of administration, not an amendment or new version, and no stored file gives it",
+   "summary": "rewritten from the stored page: scope test of the framework and the testing, monitoring and independent evaluation expectations added",
+   "notes": "rewritten from the stored files: the non-binding disclaimer and the archive banner; the 4 Oct 2022 day, the 20 Jan 2025 date and the comparison with current federal policy removed (no stored support)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Blueprint was never a binding instrument and no stored file shows a formal withdrawal. The OSTP page now exists only on the NARA-archived Biden White House site, under a banner saying it is historical material 'frozen in time' and no longer updated. Version 1's 'Revoked / withdrawn' (withdrawn in practice) stays; nothing stored contradicts it.",
+  "scope_reasoning": "A government framework of principles for automated systems and AI; in scope with no note.",
+  "date_reasoning": "Both the cover ('OCTOBER 2022') and 'About this Document' give only the month; the fact sheet that would give the day could not be stored, so date_published is 2022-10."
+ },
+ "extra_urls": [],
+ "open_questions": [
+  "date_published is 2022-10: no stored file gives the day. The OSTP fact sheet of 4 Oct 2022 (https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/) could not be stored because bidenwhitehouse.archives.gov did not resolve from the archiver's machine; a later run or a person providing it (AGENTS.md section 7.8) could restore the day."
+ ],
+ "leads": []
+}

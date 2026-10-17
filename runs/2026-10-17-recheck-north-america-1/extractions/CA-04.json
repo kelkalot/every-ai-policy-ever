@@ -1,0 +1,210 @@
+{
+ "cand_id": "CA-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-04",
+ "record": {
+  "summary": "Guidance for federal institutions on generative AI risks (inaccuracy/hallucination, bias, privacy and security, IP, procedural fairness, over-reliance, undisclosed AI interactions, environmental costs) organised around the 'FASTER' principles (fair, accountable, secure, transparent, educated, relevant). It asks institutions to label AI-generated content, tell users when they interact with AI, test deployed tools for bias and vulnerabilities, including red teaming, plan independent audits, and route administrative-decision uses through the Directive on Automated Decision-Making.",
+  "safety_topics": [
+   "public-sector use",
+   "transparency & labelling",
+   "accountability & liability",
+   "human oversight",
+   "evaluation & testing"
+  ],
+  "notes": "First released on 6 September 2023. The second version, of 20 February 2024, added enhanced definitions of the FASTER principles, sections on the responsibilities of federal institutions and on documentation requirements, and new frequently asked questions. A concise summary for public servants, Generative AI in Your Daily Work, followed on 15 October 2024. The guide says it will be updated regularly; its page was last modified on 24 September 2026. The Guide on the Use of Agentic Artificial Intelligence, published on 22 May 2026, complements it for agentic AI systems.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the guide's page on canada.ca (stored 11 Oct 2026; the archiver found it unchanged on 17 Oct 2026), which holds the full text of the second version and shows 'Page details 2026-09-24', and TBS's 'Progress on AI in government' page (stored as the secondary source), which dates the first release (6 September 2023), the second version (20 February 2024), Generative AI in Your Daily Work (15 October 2024) and the Guide on the Use of Agentic AI (22 May 2026). The guide page itself gives no release date, so date_published rests on the progress page. The page metadata date 'issued 2024-05-30' cited in the earlier notes is not part of the stored page text and was dropped."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "page heading",
+    "quote": "Guide on the use of generative artificial intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "Recommended approach",
+    "quote": "institutions should align with the “FASTER” principles that TBS has developed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "Additional support",
+    "quote": "TBS’s Responsible Data and AI team (ai-ia@tbs-sct.gc.ca)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-04/2026-10-11/secondary.html",
+    "sha256": "807883b81ac8e70ec0aa9f1ab7b2469b6773a4dea9ca39f8ed584e492aa92727",
+    "locator": "Progress on AI in government",
+    "quote": "Release of the Guide on the use of generative artificial intelligence (September 6, 2023)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "page footer",
+    "quote": "Page details 2026-09-24",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "Overview",
+    "quote": "This second version of the guide incorporates feedback from internal stakeholders and external experts. It will be updated regularly to keep pace with regulatory and technological change.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "page footer",
+    "quote": "Page details 2026-09-24",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "Use of this guide",
+    "quote": "Federal institutions are encouraged to use this guide as they continue to develop their own guidance on the use of generative AI.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "Recommended approach",
+    "quote": "Transparent: identify content that has been produced using generative AI; notify users that they are interacting with an AI tool",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "a. Protection of information",
+    "quote": "Apply more in-depth testing methods to identify and mitigate vulnerabilities in instances where systems will be made publicly available. This should include penetration testing, adversarial testing or red teaming.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "a. Protection of information",
+    "quote": "Plan independent audits for assessing generative AI systems against risk and impact frameworks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "b. Bias",
+    "quote": "Test for biases in the data, model and outputs before deploying a tool, and on an ongoing basis.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "Does the Directive on Automated Decision-Making apply?",
+    "quote": "The directive applies to generative AI systems when they are used to make or inform administrative decisions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "g. Environmental impacts",
+    "quote": "the development and use of generative AI systems can have significant environmental costs",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/CA-04/2026-10-11/official.html",
+    "sha256": "a3e077c3d54856dfa0fcfbff492cc0eaad00963ac9d9d2090fbc3050ed7b0caa",
+    "locator": "b. Bias",
+    "quote": "Test for biases in the data, model and outputs before deploying a tool, and on an ongoing basis.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CA-04/2026-10-11/secondary.html",
+    "sha256": "807883b81ac8e70ec0aa9f1ab7b2469b6773a4dea9ca39f8ed584e492aa92727",
+    "locator": "Progress on AI in government",
+    "quote": "Updates to the Guide on the use of generative artificial intelligence (February 20, 2024)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/secondary.html",
+    "sha256": "807883b81ac8e70ec0aa9f1ab7b2469b6773a4dea9ca39f8ed584e492aa92727",
+    "locator": "Progress on AI in government",
+    "quote": "Key changes include enhanced definitions for the FASTER principles, new sections on responsibilities for federal institutions and documentation requirements, and the addition of new frequently asked questions",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/secondary.html",
+    "sha256": "807883b81ac8e70ec0aa9f1ab7b2469b6773a4dea9ca39f8ed584e492aa92727",
+    "locator": "Progress on AI in government",
+    "quote": "Release of Generative AI in Your Daily Work (October 15, 2024)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/secondary.html",
+    "sha256": "807883b81ac8e70ec0aa9f1ab7b2469b6773a4dea9ca39f8ed584e492aa92727",
+    "locator": "Progress on AI in government",
+    "quote": "Publication of the Guide on the Use of Agentic Artificial Intelligence (May 22, 2026)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-04/2026-10-11/secondary.html",
+    "sha256": "807883b81ac8e70ec0aa9f1ab7b2469b6773a4dea9ca39f8ed584e492aa92727",
+    "locator": "Progress on AI in government",
+    "quote": "which require additional governance considerations beyond the material covered in the Guide on the Use of Generative Artificial Intelligence, while remaining fully aligned with its principles",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "environmental costs added to the risks, and the deployer practices of testing for bias and vulnerabilities (red teaming) and independent audits added from the guide's best practices",
+   "safety_topics": "'evaluation & testing' added: the guide asks deploying institutions to test for bias and vulnerabilities, including red teaming, and to plan independent audits",
+   "notes": "the content of the second version and the companion summary (15 Oct 2024) added from the progress page; the page-metadata issue date (2024-05-30), which is not in the page text, dropped; the agentic AI guide of 22 May 2026 noted as a complement",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The page carries the second version, says it will be updated regularly, and was last modified on 24 September 2026; the agentic AI guide of May 2026 complements rather than replaces it. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government guidance on the risks and safeguards of generative AI use in federal institutions; in scope with no note.",
+  "date_reasoning": "date_published 6 September 2023 is the first release on the progress page; the guide page gives no date. date_last_updated stays at the page's last modification, 24 September 2026, as recorded before; the text still calls itself the second version (20 February 2024), which the notes say."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Guide on the Use of Agentic Artificial Intelligence (Government of Canada, 22 May 2026; listed on TBS's 'Progress on AI in government' page)",
+   "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-agentic-artificial-antelligence.html",
+   "seen_in": "archive/CA-04/2026-10-11/secondary.html (Progress on AI in government; the link's URL is spelled 'antelligence' on the page)",
+   "why": "Risk-based TBS guidance on governance, safeguards and monitoring for agentic AI in federal institutions; not in the register."
+  }
+ ],
+ "open_questions": []
+}

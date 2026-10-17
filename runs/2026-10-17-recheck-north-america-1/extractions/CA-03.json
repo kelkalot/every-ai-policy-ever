@@ -1,0 +1,163 @@
+{
+ "cand_id": "CA-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-03",
+ "record": {
+  "notes": "Published by ISED in September 2023. The code sets measures for all organisations that develop or manage the operations of generative AI systems with general-purpose capabilities, and further measures for such systems made widely available for public use; signatories also commit to support a responsible AI ecosystem in Canada. It states that it does not change existing legal obligations, for example under the Personal Information Protection and Electronic Documents Act. The code's page lists 46 signatories as of its last modification on 4 June 2026, with a list of frequently asked questions and an implementation guide for managers of AI systems.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read ISED's page for the code (stored 11 Oct 2026; the archiver found it unchanged on 17 Oct 2026). It confirms the title, the date 'September 2023' (no day), the six outcomes, the table of measures for developers and managers, 46 signatories and 'Date modified: 2026-06-04'. The earlier note that the code was announced as an interim measure pending AIDA is not on the stored page and was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page heading",
+    "quote": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page heading",
+    "quote": "From: Innovation, Science and Economic Development Canada",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page heading",
+    "quote": "From: Innovation, Science and Economic Development Canada September 2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page footer",
+    "quote": "Date modified: 2026-06-04",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "In undertaking this voluntary commitment, developers and managers of advanced generative systems commit to working to achieve the following outcomes:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "page footer",
+    "quote": "Date modified: 2026-06-04",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "In undertaking this voluntary commitment",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "this code does not in any way change existing legal obligations that organizations may have – for example, under the Personal Information Protection and Electronic Documents Act",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "The code identifies measures that should be applied by all organizations developing",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "as well as additional measures that should be taken by organizations developing or managing the operations of these systems that are made widely available for use",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "Signatories also commit to support the ongoing development of a robust, responsible AI ecosystem in Canada.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "Resources",
+    "quote": "Implementation guide for managers of artificial intelligence systems",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "introduction",
+    "quote": "Safety – Systems are subject to risk assessments, and mitigations needed to ensure safe operation are put in place prior to deployment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "Measures",
+    "quote": "Employ adversarial testing (i.e., red-teaming) to identify vulnerabilities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-03/2026-10-11/official.html",
+    "sha256": "2ca95ff09b1f3d3cc21072e1c95bd87fd37538ac83ef3e06592837023caa0b83",
+    "locator": "Measures",
+    "quote": "Develop and implement a reliable and freely available method to detect content generated by the system, with a near-term focus on audio-visual content (e.g., watermarking).",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the stored page: the statement that the code was an interim measure pending AIDA (and AIDA's lapse) is not on the page; added the two tiers of measures, the ecosystem commitment, the PIPEDA clause and the resources the page lists; signatory count (46) re-counted and unchanged",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A voluntary code with current signatories; the page was last modified on 4 June 2026 and shows no withdrawal or replacement. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government-published voluntary commitments for developers and managers of advanced generative AI systems; voluntary codes are in scope with no note.",
+  "date_reasoning": "The page dates the code 'September 2023' with no day, so date_published stays 2023-09. date_last_updated stays at the page's 'Date modified: 2026-06-04', as recorded before; the page shows no amended version of the measures, and the notes say this is the page's last modification (the signatory list)."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Implementation guide for managers of artificial intelligence systems (Innovation, Science and Economic Development Canada)",
+   "url": "https://ised-isde.canada.ca/site/ised/en/implementation-guide-managers-artificial-intelligence-systems",
+   "seen_in": "archive/CA-03/2026-10-11/official.html (Resources)",
+   "why": "ISED guidance for managers of AI systems that accompanies the voluntary code; government guidance on AI risk management, not in the register."
+  }
+ ],
+ "open_questions": []
+}

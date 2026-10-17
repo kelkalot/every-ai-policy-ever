@@ -1,0 +1,200 @@
+{
+ "cand_id": "US-19",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-19",
+ "record": {
+  "summary": "OMB memorandum implementing EO 14319. Every agency solicitation or order for a large language model issued after it must include contract requirements on compliance with the Unbiased AI Principles of truth-seeking and ideological neutrality, and agencies must request at least the vendor's acceptable use policy, model, system or data cards, end-user resources and a feedback mechanism. Agencies may ask for more, such as bias evaluation results and pre- and post-training details, and their procurement policies must let users report outputs that violate the principles. National security systems are excluded.",
+  "notes": "Issued 11 December 2025 under section 4 of EO 14319 (US-17); it complements OMB M-25-22 (US-13). Agencies had to update their procurement policies by 11 March 2026 and should modify existing LLM contracts, where practicable, before exercising any option that extends them. Agencies need not apply it to LLMs acquired under a free, open-source licence but should check such models against the principles and against M-25-21 (US-12) before use. Agencies should make the transparency requirements material to eligibility and payment, to support termination for default. The memorandum ceases to have effect two years after its issuance (11 December 2027) unless the OMB Director provides otherwise.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the whitehouse.gov PDF stored on 11 Oct 2026 (the archiver found it unchanged on 17 Oct 2026). It confirms the title, M-26-04, the 11 Dec 2025 date, the requirements, the 11 Mar 2026 deadline and the two-year sunset. The summary now lists all four minimum transparency items (the earlier one left out end-user resources) and the reporting process. The notes drop the remark that the memo was issued the same day as EO 14365, which the memo does not mention."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1",
+    "quote": "SUBJECT: Increasing Public Trust in Artificial Intelligence Through Unbiased AI Principles",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1",
+    "quote": "December 11, 2025 M-26-04",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1 (letterhead)",
+    "quote": "EXECUTIVE OFFICE OF THE PRESIDENT OFFICE OF MANAGEMENT AND BUDGET",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1",
+    "quote": "December 11, 2025 M-26-04",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1",
+    "quote": "December 11, 2025 M-26-04",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 1",
+    "quote": "December 11, 2025 M-26-04",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 3 (Agency Actions, a)",
+    "quote": "Agencies must ensure that any solicitation or order for procurement of an LLM they issue after the date of this memorandum includes contractual requirements",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 3 (Agency Actions, d. Sunset Provision)",
+    "quote": "This memorandum shall cease to have any force or effect two years after the date of its issuance, unless the Director of OMB provides otherwise.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 3 (Agency Actions)",
+    "quote": "Agencies must comply with the following requirements",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 5 (Appendix A, 1.A)",
+    "quote": "In solicitations for LLMs, agencies must request the following from a vendor:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 5 (Appendix A, 1.A)",
+    "quote": "iii. End User Resources.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 6 (Appendix A, 1.B)",
+    "quote": "Results of bias evaluations conducted by the vendor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 3 (Agency Actions, c)",
+    "quote": "Updated policies must include processes for agency users of LLMs to report outputs that violate the Unbiased AI Principles.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 2 (Scope)",
+    "quote": "They do not apply to national security systems",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 3 (Agency Actions, c)",
+    "quote": "No later than March 11, 2026, agencies must update their policies and procedures",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 3 (Agency Actions, b)",
+    "quote": "Such a modification should occur, at the latest, prior to exercise of any option that extends the period of performance of the contract.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 2 (footnote 6)",
+    "quote": "Although agencies are not required to apply the requirements of this memorandum to LLMs acquired pursuant to a free, open-source license",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-19/2026-10-11/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "page 6 (Appendix A, 1.C)",
+    "quote": "as material to eligibility and payment under the contract",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "the list of minimum transparency items was incomplete (end-user resources missing); the user reporting process and the national security exclusion added",
+   "notes": "rewritten from the memo: legal basis, deadlines, open-source due diligence, materiality and the sunset; the same-day remark about EO 14365, which the memo does not mention, removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Issued 11 Dec 2025 with immediate effect for solicitations issued after its date. It ceases to have effect two years after issuance, i.e. on 11 Dec 2027, unless the OMB Director provides otherwise; on 17 Oct 2026 that date has not come. 'In force' stands.",
+  "scope_reasoning": "AI-specific OMB guidance binding on federal agencies' procurement of LLMs; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "DoD Directive 3000.09, Autonomy in Weapon Systems",
+   "url": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/300009p.pdf",
+   "seen_in": "archive/US-19/2026-10-11/official.pdf (page 2, footnote 5)",
+   "why": "Department of Defense policy on autonomy in weapon systems, cited by M-26-04 as governing high-risk national security applications of AI; not a record (US-28's notes mention an updated weapons-autonomy directive)."
+  },
+  {
+   "title": "Department of War (Defense) Responsible Artificial Intelligence Strategy and Implementation Pathway",
+   "url": null,
+   "seen_in": "archive/US-19/2026-10-11/official.pdf (page 2, footnote 5)",
+   "why": "DoD responsible AI governance strategy cited by M-26-04 for national security systems; not in the register."
+  },
+  {
+   "title": "ODNI Principles of Artificial Intelligence Ethics for the Intelligence Community",
+   "url": null,
+   "seen_in": "archive/US-19/2026-10-11/official.pdf (page 2, footnote 5)",
+   "why": "Intelligence Community AI ethics principles cited by M-26-04; not in the register."
+  }
+ ],
+ "open_questions": []
+}

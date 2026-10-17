@@ -1,0 +1,201 @@
+{
+ "cand_id": "US-26",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-26",
+ "record": {
+  "official_url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+  "notes": "Signed 29 Sep 2026 and published in the Federal Register on 2 Oct 2026 (Vol. 91, No. 190, pp. 63129-63130). Sec. 2(b) does not require any change to previously issued regulations, presidential actions, contracts, grants or other historical documents. Under Sec. 1 it is the administration's policy that the executive branch will not acknowledge the usage of 'Artificial Intelligence' and 'AI' in any applicable setting. The APST's legislative proposal, due about 28 Nov 2026, is also to assess whether the new definition should modify, expand upon or supersede the statutory definition of AI, and to recommend further executive action. NIST's CAISI page now names the centre the 'Center for Advancing Innovation and Standards for Super Intelligence (CAISSI)' (US-15), and the White House fact sheet on the order refers to a 'National Super Intelligence Policy Framework'. The White House Accord on Super Intelligence (US-27) is dated the same day as the order.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: stored the order's page on whitehouse.gov, linked from the White House fact sheet, and the Federal Register print linked from that page (eo-14434.pdf, 2 pages, 91 FR 63129-63130, FR Doc. 2026-20321). They confirm the title, EO 14434, signing on 29 Sep 2026, publication on 2 Oct 2026 and the content of Secs. 1 to 4. Every stored copy of the Federal Register page (plain, browser-rendered and printed, 11 and 17 Oct 2026) is a bot-check page, so official_url now points to the whitehouse.gov page of the order, whose text and linked Federal Register print the archiver can store; the Federal Register document number stays in official_identifier. The White House fact sheet of 29 Sep 2026 (secondary_url) matches. The CAISSI name rests on NIST's page stored for US-15 and the date of the accord on its copy stored for US-27; neither source states that it follows from this order, so notes no longer call them consequences."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "page heading",
+    "quote": "INAUGURATING THE ERA OF SUPER INTELLIGENCE Executive Orders September 29, 2026 Executive Order 14434",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/document-1.pdf",
+    "sha256": "55bf79ad5f80d386b4dd2e0871af7fd9190aedb7fc3769e901e7857cf0e07dc3",
+    "locator": "page 1, heading",
+    "quote": "Executive Order 14434 of September 29, 2026 Inaugurating the Era of Super Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "signature block",
+    "quote": "DONALD J. TRUMP THE WHITE HOUSE, September 29, 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/document-1.pdf",
+    "sha256": "55bf79ad5f80d386b4dd2e0871af7fd9190aedb7fc3769e901e7857cf0e07dc3",
+    "locator": "page 1, Federal Register header",
+    "quote": "63129 Federal Register / Vol. 91, No. 190 / Friday, October 2, 2026 / Presidential Documents Executive Order 14434",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/document-1.pdf",
+    "sha256": "55bf79ad5f80d386b4dd2e0871af7fd9190aedb7fc3769e901e7857cf0e07dc3",
+    "locator": "page 2, filing line",
+    "quote": "[FR Doc. 2026–20321 Filed 10–1–26; 11:15 am]",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "page heading",
+    "quote": "Executive Orders September 29, 2026 Executive Order 14434",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/document-1.pdf",
+    "sha256": "55bf79ad5f80d386b4dd2e0871af7fd9190aedb7fc3769e901e7857cf0e07dc3",
+    "locator": "page 1, heading",
+    "quote": "Executive Order 14434 of September 29, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "signature block",
+    "quote": "DONALD J. TRUMP THE WHITE HOUSE, September 29, 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "preamble",
+    "quote": "Executive Order 14434 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 2(a)",
+    "quote": "To the maximum extent permitted by law, executive departments and agencies (agencies) shall use “Super Intelligence” and “SI” in place of “Artificial Intelligence” and “AI”",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 2(a)",
+    "quote": "in official correspondence, public communications, websites, reports, policy documents, and other non-statutory documents within the executive branch.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 3(a)",
+    "quote": "the terms “Super Intelligence” and “SI” mean the technologies and systems encompassed by the term “artificial intelligence” as defined in section 9401(3) of title 15, United States Code.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 3(b)",
+    "quote": "Within 60 days of the date of this order, the Assistant to the President for Science and Technology (APST), in consultation with the heads of other agencies as the APST deems appropriate, shall submit to the President proposed legislative language",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 3(b)(ii)",
+    "quote": "any proposed conforming amendments, as appropriate, to existing statutory references to “artificial intelligence” and “AI”",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/document-1.pdf",
+    "sha256": "55bf79ad5f80d386b4dd2e0871af7fd9190aedb7fc3769e901e7857cf0e07dc3",
+    "locator": "page 1, Federal Register header",
+    "quote": "63129 Federal Register / Vol. 91, No. 190 / Friday, October 2, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 2(b)",
+    "quote": "(b) Nothing in this section requires the alteration of previously issued regulations, Presidential actions, contracts, grants, or other historical documents.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 1",
+    "quote": "will not acknowledge the usage of “Artificial Intelligence” and “AI” in any applicable setting.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-26/extra-edbf95966c/2026-10-17/official.html",
+    "sha256": "23c280da858a7f48fec0c9bde2e903ba7de3775052b2ca00a27d7a9be060c79a",
+    "locator": "Sec. 3(b)(i)",
+    "quote": "should modify, expand upon, or otherwise supersede the existing statutory definition of “artificial intelligence”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-26/2026-10-17/secondary.html",
+    "sha256": "08c7ed5d088c532bbe109c4cdfa2e26d273bebdb6783293ece7af1d8b575a54e",
+    "locator": "fact sheet, last section",
+    "quote": "In March 2026, the White House unveiled a commonsense, comprehensive National Super Intelligence Policy Framework",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the Federal Register page (the old official_url) returns a bot-check page to the archiver every time; the whitehouse.gov page of the order carries the full text and links the Federal Register print, both stored in this run, as for EO 14409 (US-23)",
+   "notes": "checked against the order's text: added the Federal Register volume and pages, the Sec. 1 policy of not acknowledging 'AI', and the scope of the APST proposal; the CAISSI rename and the accord are no longer called consequences of the order, since no stored source says so",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An executive order takes effect when signed (29 Sep 2026); the whitehouse.gov page stored on 17 Oct 2026 carries it, and nothing stored revokes or amends it. The 60-day deadline for the APST's proposal (about 28 Nov 2026) has not passed and is a task, not a condition of force. 'In force' stands.",
+  "scope_reasoning": "A presidential order that renames AI 'Super Intelligence' across the executive branch and asks for a statutory definition; it has no safety rules, so the existing scope_note stays.",
+  "date_reasoning": "date_published and date_in_force are the signing date, 29 Sep 2026, on the whitehouse.gov page and in the Federal Register heading; Federal Register publication on 2 Oct 2026 is in notes."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "reason": "The order's own text on whitehouse.gov, linked from the stored fact sheet (Related). Every stored Federal Register copy is a bot-check page, so the order number, the Federal Register citation, the 15 U.S.C. 9401(3) reference, the 60-day deadline and Sec. 3 on existing regulations need this source. If the page links the Federal Register print as a PDF (as the page of EO 14409 does), that PDF is wanted too. (stored in this run, with its linked Federal Register print)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Genesis Mission (executive order announced 24 Nov 2025: national effort to apply AI to scientific discovery)",
+   "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/",
+   "seen_in": "archive/US-26/2026-10-17/secondary.html (Related; and 'more than $5 billion for the Genesis Mission')",
+   "why": "Presidential AI initiative cited in the fact sheets of US-26 and NSPM-11 (US-28 Sec. 4(d)); not in the register. Mainly AI for science; possibly in scope with a scope_note if it has safety or security content."
+  }
+ ],
+ "open_questions": []
+}

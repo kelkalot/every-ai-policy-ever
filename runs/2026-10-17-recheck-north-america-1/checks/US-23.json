@@ -1,0 +1,57 @@
+{
+ "cand_id": "US-23",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported",
+   "why": "claims traced to quotes"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Classified benchmarking process; NSA Director designates covered frontier models",
+   "verdict": "supported",
+   "locator": "Sec 3(a)"
+  },
+  {
+   "claim": "Up to 30 days pre-release access, no mandatory licensing",
+   "verdict": "supported",
+   "locator": "Sec 3(b)(ii), 3(c)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. Targeted search for an amendment, repeal or newer edition found nothing newer on an official site."
+}

@@ -1,0 +1,106 @@
+{
+ "run_id": "2026-10-17-recheck-north-america-1",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.5,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "original_title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "issuing_body": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "official_identifier": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_published": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_in_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 2,
+   "agree": 1,
+   "rate": 0.5
+  }
+ },
+ "disagreements": {
+  "CA-03": [],
+  "CA-05": [],
+  "US-08": [
+   {
+    "field": "safety_topics",
+    "first": [
+     "general-purpose / frontier AI",
+     "evaluation & testing",
+     "deepfakes & synthetic media",
+     "transparency & labelling",
+     "catastrophic risk",
+     "incident reporting"
+    ],
+    "blind": null
+   }
+  ],
+  "US-11": [],
+  "US-29": []
+ },
+ "resulting_record_agreement": 1.0,
+ "resulting_record_fields": 57
+}

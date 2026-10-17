@@ -1,0 +1,72 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "page heading",
+    "quote": "Canada launches Canadian Artificial Intelligence Safety Institute",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "byline",
+    "quote": "Innovation, Science and Economic Development Canada",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "dateline",
+    "quote": "November 12, 2024 – Montréal, Quebec",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "CAISI page, intro",
+    "quote": "CAISI is led by Innovation, Science and Economic Development Canada, leveraging the research capabilities of the National Research Council of Canada",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "body",
+    "quote": "CAISI will leverage Canada’s world-leading AI research ecosystem and talent base",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The ISED CAISI page (modified 2026-07-08) describes the institute in the present tense, so the launch announcement's subject is current; the announcement is a non-binding news release.",
+  "scope_reasoning": "AI safety institute mandate: in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_last_updated (2026-06-04) is not stated on the stored launch release; the stored strategy page (modified 2026-06-08) commits a further CAD 50 million to CAISI. The ISED CAISI page is dated 2026-07-08. Which date the register should carry is for the checker."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "CA-05",
+ "decision": "update",
+ "target_id": "CA-05"
+}

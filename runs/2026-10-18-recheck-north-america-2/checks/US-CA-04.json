@@ -1,0 +1,47 @@
+{
+ "cand_id": "US-CA-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The group was asked in September 2024 by the Governor; the report does not argue for or against any legislation",
+   "verdict": "supported",
+   "locator": "report page 6 (Origins), page 4 (Executive Summary)"
+  },
+  {
+   "claim": "Principles include independent verification, whistleblower protections and safe harbors for evaluators, adverse event reporting and adaptable thresholds",
+   "verdict": "supported",
+   "locator": "report page 5 (Key Principles 4, 6, 7, 8)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title, date (17 Jun 2025) and non-binding character are supported by the report's cover, executive summary and the Governor's release. Search found no 2026 update or second edition. The notes' statement that SB 53 built on the report is backed by the stored EO recital."
+}

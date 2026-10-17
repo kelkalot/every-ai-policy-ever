@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-FL-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Covered platforms must set up a removal process by 31 Dec 2025 and remove within 48 hours",
+   "verdict": "supported",
+   "locator": "s. 836.13(8)(a) and (d)"
+  },
+  {
+   "claim": "Good-faith removal shield and FDUTPA violation for failure",
+   "verdict": "supported",
+   "locator": "s. 836.13(8)(e) and (f)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Added note on the 2026 amendments (ch. 2026-14, 2026-18, 2026-20) rests on the statute history note. date_last_updated stays null since the amended subsections are not shown. No contrary finding."
+}

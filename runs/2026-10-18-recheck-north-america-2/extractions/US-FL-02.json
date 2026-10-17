@@ -1,0 +1,253 @@
+{
+ "cand_id": "US-FL-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-02",
+ "record": {
+  "summary": "Requires political advertisements, electioneering communications and other advertisements of a political nature that contain images, video, audio, graphics or other digital content made wholly or partly with generative AI, appearing to show a real person doing something that did not happen and created with intent to injure a candidate or deceive about a ballot issue, to carry the disclaimer 'Created in whole or in part with the use of generative artificial intelligence (AI).' It sets format rules per medium, makes failure by the payer, sponsor or approver a first-degree misdemeanour, adds civil penalties, and allows complaints to the Florida Elections Commission with expedited hearings.",
+  "notes": "Passed the House 104-8 on 28 Feb 2024 and the Senate 32-0 on 1 Mar 2024, where it was substituted for the similar CS/CS/SB 850; approved by the Governor on 26 Apr 2024 and effective 1 Jul 2024. The AI disclaimer is in addition to the disclaimers the Florida Election Code already requires. 'Generative artificial intelligence' is defined as a machine-based system that can, for a given set of human-defined objectives, emulate the structure and characteristics of input data to generate derived synthetic content, including images, videos, audio, text and other digital content. In cases referred to the Division of Administrative Hearings, an administrative law judge must hold an expedited hearing. The law is codified as s. 106.145, F.S. (Use of artificial intelligence), which the 2026 Florida Statutes show unamended since ch. 2024-126.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for HB 919 (2024) and the two House staff analyses linked from it, stored on 14 Oct 2026 from flsenate.gov (the archiver found them unchanged on 17 Oct 2026), and the 2026 Florida Statutes page for s. 106.145, stored in this run. The bill page confirms the title, sponsors, history, floor votes (104-8 and 32-0), approval by the Governor on 26 Apr 2024, Chapter No. 2024-126, the 1 Jul 2024 effective date and the statute citation s. 106.145; the House staff final bill analysis of 30 Apr 2024 confirms approval, chapter and effective date and describes the enacted provisions. The statute page gives the codified text, on which the summary now rests, and the history note 's. 1, ch. 2024-126' only, so date_last_updated stays empty: no later amendment. The codified disclaimer ends with '(AI)', which the House analysis leaves out; the summary follows the statute. The enrolled bill text was not stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "bill heading",
+    "quote": "CS/HB 919: Artificial Intelligence Use in Political Advertising",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "bill heading",
+    "quote": "GENERAL BILL by State Affairs Committee; Rizo; (CO-INTRODUCERS)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "Bill History, 4/26/2024",
+    "quote": "4/26/2024 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "Last Action",
+    "quote": "Last Action: 4/29/2024 - Chapter No. 2024-126",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "Citations - Statutes (1)",
+    "quote": "Location in Bill Location In Bill Help 106.145 Page 1 (pdf)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on April 26, 2024, ch. 2024-126, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "page heading",
+    "quote": "106.145 Use of artificial intelligence.—",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "Bill History, 4/26/2024",
+    "quote": "4/26/2024 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on April 26, 2024, ch. 2024-126, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "bill heading",
+    "quote": "Effective Date: 7/1/2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 1, Summary Analysis",
+    "quote": "and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "Bill History, 4/29/2024",
+    "quote": "4/29/2024 • Chapter No. 2024-126",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "bill heading",
+    "quote": "Effective Date: 7/1/2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/official.html",
+    "sha256": "4c858a90ae0e5e31ea2155756adf268e78e95c1ec37db2c95f9dd5ed78f6429b",
+    "locator": "Bill History, 4/26/2024",
+    "quote": "4/26/2024 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 1, header",
+    "quote": "GOVERNOR’S ACTION: Approved",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(2)",
+    "quote": "the political advertisement, electioneering communication, or other miscellaneous advertisement must prominently state the following disclaimer: “Created in whole or in part with the use of generative artificial intelligence (AI).”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(2)",
+    "quote": "if the generated content appears to depict a real person performing an action that did not actually occur, and if the generated content was created with intent to injure a candidate or to deceive regarding a ballot issue",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(4)(a)",
+    "quote": "who fails to include the required disclaimer commits a misdemeanor of the first degree",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(4)(b)",
+    "quote": "Any person may file a complaint with the Florida Elections Commission pursuant to s. 106.25 alleging a violation of this section.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(4)(b)",
+    "quote": "The commission shall adopt rules to provide an expedited hearing of complaints filed under this section",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 6, Effect of the Bill",
+    "quote": "real person performing an action that did not occur in reality, and was created with intent to injure a candidate or to deceive regarding a ballot issue, to prominently include the following disclaimer:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 6, Effect of the Bill",
+    "quote": "“Created in whole or in part with the use of generative artificial intelligence.”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 6, Effect of the Bill",
+    "quote": "political nature that is required to include the AI disclaimer and fails to do so commits a first-degree misdemeanor.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C001/2026-10-14/document-1.pdf",
+    "sha256": "05f3ac99c502b905606f783b69b4037603393020732acb6a53ded5cb175b60ce",
+    "locator": "page 6, Effect of the Bill",
+    "quote": "The bill requires the Commission to adopt rules to provide for an expedited hearing of such complaints or, in cases referred to DOAH, requires the director to assign an ALJ to provide an expedited hearing.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145, history note",
+    "quote": "History.—s. 1, ch. 2024-126.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(1)",
+    "quote": "the term “generative artificial intelligence” means a machine-based system that can, for a given set of human-defined objectives, emulate the structure and characteristics of input data in order to generate derived synthetic content including images, videos, audio, text, and other digital content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(2)",
+    "quote": "The disclaimer required in this section is in addition to any other disclaimer required under this chapter.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-02/extra-936c2c7692/2026-10-17/official.html",
+    "sha256": "e38593eecf07c7b988d3e439796e79c9d32b2ed746396ad91e5a85cbd8360b95",
+    "locator": "s. 106.145(4)(b)",
+    "quote": "in cases referred to the Division of Administrative Hearings pursuant to s. 106.25(5), the director shall assign an administrative law judge to provide an expedited hearing.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "the disclaimer is quoted as codified in s. 106.145(2), F.S., ending in '(AI)' (the House analysis omits it); 'for each medium' shortened to 'per medium' to stay within 700 characters",
+   "notes": "one sentence added: codified as s. 106.145, F.S., unamended since ch. 2024-126 (2026 Florida Statutes history note)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill page records approval by the Governor on 4/26/2024 and Chapter No. 2024-126 on 4/29/2024, with 'Effective Date: 7/1/2024'; the House final analysis says it 'will become effective on July 1, 2024'. That date is past (18 Oct 2026) and no stored file shows a repeal. 'In force' stands.",
+  "scope_reasoning": "An AI-specific state law requiring disclaimers on political advertising made with generative AI; in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the Governor's approval, 26 Apr 2024; date_in_force is the effective date, 1 Jul 2024; both from the bill page and the final analysis. date_last_updated stays null: the 2026 Florida Statutes history note for s. 106.145 lists only s. 1, ch. 2024-126.",
+  "summary_reasoning": "Checked against the codified text of s. 106.145, F.S. (2026), unamended since enactment: scope of the duty, the disclaimer text, the media-specific format rules in subsection (3), the first-degree misdemeanour, complaints to the Florida Elections Commission and expedited hearings. Only the disclaimer wording changes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

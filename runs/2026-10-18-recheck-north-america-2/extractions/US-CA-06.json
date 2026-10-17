@@ -1,0 +1,318 @@
+{
+ "cand_id": "US-CA-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-06",
+ "record": {
+  "official_identifier": "Chapter 677, Statutes of 2025 (Senate Bill 243)",
+  "date_last_updated": null,
+  "summary": "Requires operators of companion chatbot platforms to disclose that interactions are artificially generated and to keep protocols for detecting and responding to suicidal ideation and self-harm, including crisis referrals. For minors it requires break reminders and blocks sexually explicit images. Operators must report self-harm protocols and crisis-referral statistics to public health authorities, and families have a private right of action against noncompliant and negligent developers.",
+  "notes": "Passed the Assembly 59-1 on 10 Sep 2025 and the Senate 33-3 on 11 Sep 2025; signed on 13 Oct 2025 as Chapter 677, Statutes of 2025, in a package on children's online safety that also included AB 1043 (age verification signals), AB 316 (artificial intelligence: defenses), AB 621 (deepfake pornography) and AB 853 (California AI Transparency Act amendments). Effective 1 Jan 2026. On 10 Sep 2026 the Governor signed SB 1119 ('Companion chatbots: children's safety') and SB 867 ('Toys: companion chatbots'); his release says the 2025 protections for AI companion chatbots were strengthened again that day.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Governor's release of 13 Oct 2025 (gov.ca.gov, copy of 17 Oct 2026), which lists SB 243 (Padilla), 'Companion chatbots', among the bills signed that day and describes its duties; Senator Padilla's release of 13 Oct 2025 (sd18.senate.ca.gov), which gives the signing, the floor votes, the private right of action and 'The bill becomes law on January 1st, 2026'; the Assembly Privacy and Consumer Protection Committee's 2025 bill summary (apcp.assembly.ca.gov), which gives Chapter 677, Statutes of 2025; and the Governor's release of 10 Sep 2026 (gov.ca.gov), which lists SB 1119 and SB 867. The bill's page on leginfo.legislature.ca.gov refused automated downloads (HTTP 403). Version 1's date_last_updated (10 Sep 2026, the signing of SB 1119) was removed: the release of 10 Sep 2026 says the 2025 protections were 'again strengthened', and Senator Padilla's release of 31 Aug 2026 (stored for US-CA-08) says SB 1119 builds on SB 243, but no stored file shows that SB 1119 amends SB 243's sections. Version 1's reporting start of 1 Jul 2027 rests on no source and was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "SB 243 by Senator Steve Padilla (D-San Diego). Companion chatbots.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 11",
+    "quote": "SB-243 (Padilla) - Companion chatbots. This bill imposes a number of obligations on operators of “companion chatbot platforms” in order to safeguard users",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 11",
+    "quote": "ideations or self-harm. Status: Chapter 677, Statutes of 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 11",
+    "quote": "SB-243 (Padilla) - Companion chatbots. This bill imposes a number of obligations on operators of “companion chatbot platforms” in order to safeguard users",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "SB 243 by Senator Steve Padilla (D-San Diego). Companion chatbots.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "release, first paragraph",
+    "quote": "Governor Newsom today signed new landmark legislation to further strengthen the state’s protections for children online and create safeguards for new and emerging technology, such as artificial intelligence (AI).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "The full list of the signed bills to protect children and strengthen the safety of technology and online platforms include:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Today, California Governor Gavin Newsom signed into law Senate Bill 243, authored by Senator Steve Padilla (D-San Diego).",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "release header",
+    "quote": "Oct 13, 2025 Governor Newsom signs bills to further strengthen California’s leadership in protecting children online",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "release, first paragraph",
+    "quote": "Governor Newsom today signed new landmark legislation to further strengthen the state’s protections for children online and create safeguards for new and emerging technology, such as artificial intelligence (AI).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "SB 243 by Senator Steve Padilla (D-San Diego). Companion chatbots.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release date",
+    "quote": "October 13, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Today, California Governor Gavin Newsom signed into law Senate Bill 243, authored by Senator Steve Padilla (D-San Diego).",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, last paragraph on the bill",
+    "quote": "The bill becomes law on January 1st, 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, last paragraph on the bill",
+    "quote": "The bill becomes law on January 1st, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Today, California Governor Gavin Newsom signed into law Senate Bill 243, authored by Senator Steve Padilla (D-San Diego).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 11",
+    "quote": "ideations or self-harm. Status: Chapter 677, Statutes of 2025",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Today, California Governor Gavin Newsom signed into law Senate Bill 243, authored by Senator Steve Padilla (D-San Diego).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 11",
+    "quote": "ideations or self-harm. Status: Chapter 677, Statutes of 2025",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "release, list 'The bills will help protect children online by creating'",
+    "quote": "New safeguards on AI chatbots by establishing requirements that “companion chatbot” platforms create protocols to identify and address users’ suicidal ideation or expressions of self-harm.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "release, same item",
+    "quote": "Platforms must also disclose that interactions are artificially generated, and minors must be provided break reminders and prevented from viewing sexually explicit images generated by the chatbot.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "release, same item",
+    "quote": "Platforms will be required to share protocols for dealing with self-harm and statistics regarding how often they provided users with crisis center prevention notifications to the Department of Public Health.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, first paragraph",
+    "quote": "provide families with a private right to pursue legal actions against noncompliant and negligent developers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, paragraph on what SB 243 would do",
+    "quote": "require annual reporting on the connection between chatbot use and suicidal ideation",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, last paragraph on the bill",
+    "quote": "Senate Bill 243 passed the Senate with bipartisan support by a vote of 33 to 3 on September 11th, and passed in the Assembly on September 10th with bipartisan support by a vote of 59 to 1.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 11",
+    "quote": "ideations or self-harm. Status: Chapter 677, Statutes of 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "AB 1043 by Assemblymember Buffy Wicks (D-Oakland). Age verification signals: software applications and online services.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "AB 316 by Assemblymember Maggy Krell (D-Sacramento). Artificial intelligence: defenses.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "AB 621 by Assemblymember Rebecca Bauer-Kahan (D-Orinda). Deepfake pornography.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "AB 853 by Assemblymember Buffy Wicks (D-Oakland). California AI Transparency Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7b262f97c0/2026-10-17/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "release, last paragraph on the bill",
+    "quote": "The bill becomes law on January 1st, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7762cb8691/2026-10-17/official.html",
+    "sha256": "2df652b03629c800bdd6113c4e783646a154cc66175916701125a5c9787c515a",
+    "locator": "release header",
+    "quote": "Sep 10, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7762cb8691/2026-10-17/official.html",
+    "sha256": "2df652b03629c800bdd6113c4e783646a154cc66175916701125a5c9787c515a",
+    "locator": "release, list of signed bills",
+    "quote": "SB 1119 by Senator Steve Padilla (D-San Diego), Assemblymembers Buffy Wicks (D-Oakland) and Rebecca Bauer-Kahan (D-Orinda) – Companion chatbots: children’s safety.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7762cb8691/2026-10-17/official.html",
+    "sha256": "2df652b03629c800bdd6113c4e783646a154cc66175916701125a5c9787c515a",
+    "locator": "release, list of signed bills",
+    "quote": "SB 867 by Senator Steve Padilla (D-San Diego) – Toys: companion chatbots.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-06/extra-7762cb8691/2026-10-17/official.html",
+    "sha256": "2df652b03629c800bdd6113c4e783646a154cc66175916701125a5c9787c515a",
+    "locator": "release, paragraph before the list of protections",
+    "quote": "California was also the first state to create child online safety protections around AI companion chatbots – which are being again strengthened today.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "chapter from the committee's 2025 bill summary ('Status: Chapter 677, Statutes of 2025'); version 1's session label is not in any stored file",
+   "date_last_updated": "removed: version 1 took the signing of SB 1119 (10 Sep 2026) as an amendment of SB 243, but the stored releases say only that SB 1119 strengthens or builds on the 2025 law; no stored file shows it amends SB 243's sections",
+   "summary": "private right of action added from Senator Padilla's release",
+   "notes": "floor votes and chapter added; effective date now rests on Senator Padilla's release; the SB 1119 and SB 867 sentence rewritten from the Governor's release of 10 Sep 2026 (SB 867 is listed there, not described as building on SB 243); 'with annual reporting from 1 Jul 2027' removed (no source gives the date)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 13 Oct 2025 (both releases of that day); Senator Padilla's release says 'The bill becomes law on January 1st, 2026'. That date has passed (today 18 Oct 2026), so 'In force' stands. SB 1119 (signed 10 Sep 2026) adds protections in a separate record (US-CA-08); no stored file shows a repeal of SB 243.",
+  "scope_reasoning": "An AI-specific state law on companion chatbots and child safety; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "California AB 316 (Krell, 2025), Artificial intelligence: defenses",
+   "url": "https://www.gov.ca.gov/2025/10/13/governor-newsom-signs-bills-to-further-strengthen-californias-leadership-in-protecting-children-online/",
+   "seen_in": "archive/US-CA-06/2026-10-17/official.html (list of signed bills)",
+   "why": "Signed 13 Oct 2025; bars those who develop, alter or use AI from escaping liability by asserting that the technology acted autonomously; an AI liability law not in the register."
+  },
+  {
+   "title": "California AB 489 (Bonta, 2025) and SB 524 (Arreguín, 2025): AI posing as health care professionals; law enforcement agencies' use of AI",
+   "url": "https://www.gov.ca.gov/2025/10/13/governor-newsom-signs-bills-to-further-strengthen-californias-leadership-in-protecting-children-online/",
+   "seen_in": "archive/US-CA-06/2026-10-17/official.html (list of signed bills, marked previously signed)",
+   "why": "AI-specific state laws signed in 2025; not in the register."
+  }
+ ],
+ "open_questions": [
+  "date_last_updated is now empty. If the chaptered text of SB 1119 (2026) amends SB 243's sections of the Business and Professions Code, date_last_updated should be 10 Sep 2026 again; the bill text on leginfo.legislature.ca.gov could not be stored, and the stored releases say only that SB 1119 strengthens or builds on SB 243."
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "run_id": "2026-10-18-recheck-north-america-2",
+ "type": "recheck",
+ "scope": "ids:US-CA-01,US-CA-02,US-CA-03,US-CA-04,US-CA-06,US-CA-09,US-CO-01,US-CO-02,US-IL-02,US-ME-01,US-ME-02,US-NV-01,US-CT-01,US-IL-03,US-GA-01,US-HI-01,US-AR-01,US-CA-10,US-CA-11,US-CA-12,US-CA-13,US-CA-14,US-CA-15,US-NV-02,US-FL-02,US-FL-03,US-FL-04,US-FL-05,US-FL-06,US-FL-07,US-FL-08,US-FL-09,US-FL-10,US-FL-11,US-FL-12,US-FL-15,US-FL-16",
+ "started": "2026-10-18",
+ "coordinator": {
+  "tool": "Claude Code",
+  "model": "claude-opus-5-5"
+ },
+ "stages": {
+  "collect": {
+   "tool": null,
+   "model": null,
+   "date": null
+  },
+  "extract": {
+   "tool": "Claude Code",
+   "model": "claude-opus-5-5",
+   "date": "2026-10-18",
+   "tokens": 1717316
+  },
+  "blind": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 108628
+  },
+  "check": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 359915
+  }
+ },
+ "status": "merged",
+ "record_ids": [
+  "US-CA-01",
+  "US-CA-02",
+  "US-CA-03",
+  "US-CA-04",
+  "US-CA-06",
+  "US-CA-09",
+  "US-CO-01",
+  "US-CO-02",
+  "US-IL-02",
+  "US-ME-01",
+  "US-ME-02",
+  "US-NV-01",
+  "US-CT-01",
+  "US-IL-03",
+  "US-GA-01",
+  "US-HI-01",
+  "US-AR-01",
+  "US-CA-10",
+  "US-CA-11",
+  "US-CA-12",
+  "US-CA-13",
+  "US-CA-14",
+  "US-CA-15",
+  "US-NV-02",
+  "US-FL-02",
+  "US-FL-03",
+  "US-FL-04",
+  "US-FL-05",
+  "US-FL-06",
+  "US-FL-07",
+  "US-FL-08",
+  "US-FL-09",
+  "US-FL-10",
+  "US-FL-11",
+  "US-FL-12",
+  "US-FL-15",
+  "US-FL-16"
+ ],
+ "steps": [
+  {
+   "step": "archive",
+   "who": "script",
+   "do": "python3 tools/archive.py --run 2026-10-18-recheck-north-america-2 --browser"
+  },
+  {
+   "step": "textify",
+   "who": "script",
+   "do": "python3 tools/pipeline.py textify --run 2026-10-18-recheck-north-america-2"
+  },
+  {
+   "step": "extract",
+   "who": "extractors, about 8 candidates each",
+   "do": "pipeline/roles/extract.md -> extractions/<ID>.json; for extra_urls the coordinator (not the extractor) archives and textifies again, then sends the candidates back once"
+  },
+  {
+   "step": "evidence",
+   "who": "script",
+   "do": "python3 tools/pipeline.py evidence --run 2026-10-18-recheck-north-america-2"
+  },
+  {
+   "step": "sample",
+   "who": "script",
+   "do": "python3 tools/pipeline.py sample --run 2026-10-18-recheck-north-america-2"
+  },
+  {
+   "step": "blind",
+   "who": "a fresh extractor",
+   "do": "pipeline/roles/extract.md -> extractions-blind/<ID>.json; never opens extractions/"
+  },
+  {
+   "step": "agreement",
+   "who": "script",
+   "do": "python3 tools/pipeline.py compare --run 2026-10-18-recheck-north-america-2"
+  },
+  {
+   "step": "check",
+   "who": "the checker, in a fresh context",
+   "do": "pipeline/roles/check.md -> checks/<ID>.json"
+  },
+  {
+   "step": "assemble",
+   "who": "script",
+   "do": "python3 tools/pipeline.py assemble --run 2026-10-18-recheck-north-america-2"
+  },
+  {
+   "step": "merge",
+   "who": "script",
+   "do": "python3 tools/merge.py runs/2026-10-18-recheck-north-america-2/pass.json --dry-run, then without --dry-run; python3 tools/build.py"
+  },
+  {
+   "step": "report",
+   "who": "script",
+   "do": "python3 tools/pipeline.py report --run 2026-10-18-recheck-north-america-2; frame --report; questions --sync; intake"
+  },
+  {
+   "step": "gate",
+   "who": "script",
+   "do": "python3 tools/gate.py: every change against the rules; fix what fails, never skip it"
+  },
+  {
+   "step": "commit",
+   "who": "coordinator",
+   "do": "one commit on the branch run/2026-10-18-recheck-north-america-2"
+  }
+ ]
+}

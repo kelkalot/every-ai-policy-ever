@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-CA-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The Government Operations Agency, with Cal OES, must submit recommendations by 16 Nov 2026",
+   "verdict": "supported",
+   "locator": "EO page 2"
+  },
+  {
+   "claim": "Recommendations on onsite independent verification organisations, a verified 'kill switch' and loss-of-control incidents",
+   "verdict": "supported",
+   "locator": "EO page 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Signed 18 Sep 2026; the order is an official PDF. Search found no amendment; the 16 Nov 2026 deadline has not passed. The expert names rest on the Governor's release of 23 Sep 2026."
+}

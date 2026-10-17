@@ -1,0 +1,239 @@
+{
+ "cand_id": "US-CA-12",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-12",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: the official bill page and text on leginfo.legislature.ca.gov could not be stored again (HTTP 403 on 16 and 17 Oct 2026; the browser retry timed out). Stored in this run: the Governor's release of 10 Sep 2026 (gov.ca.gov, the record's secondary source), which lists 'SB 867 by Senator Steve Padilla (D-San Diego) – Toys: companion chatbots' among the 13 bills signed that day and is the only stored source for the signature and its date; Senator Padilla's release of 1 Sep 2026 on final passage (sd18.senate.ca.gov), with the four-year moratorium, the findings on AI toys, the sponsor and the floor votes; and the Assembly Committee on Privacy and Consumer Protection analysis of the bill as amended 14 May 2026 (apcp.assembly.ca.gov, hearing 16 Jun 2026), with the prohibition, the definition of toy, the sunset and the enforcement by civil action under SB 243. Amendments after 14 May 2026 cannot be seen, so the final age limit, the chapter number and the operative date are not in a stored source. The status follows California's general rule that a non-urgency statute takes effect on 1 January after enactment, which is not in a stored source."
+  },
+  "summary": "Places a four-year moratorium on manufacturing, selling or offering for sale in California any toy that includes a companion chatbot, to give lawmakers time to modernise safety rules before such products reach children. It builds on the state's companion chatbot law, SB 243 (2025), whose civil action for injured persons applies to violations. It responds to findings that AI toys discussed sexually explicit topics in depth, told children where to find dangerous objects such as matches or knives, used addictive features to increase use, and posed data privacy risks.",
+  "notes": "Passed by the Legislature on 31 Aug 2026 (Senate unanimously, Assembly 74-1) and signed on 10 Sep 2026 in a 13-bill child online-safety package that also included SB 1119 (US-CA-08), SB 1276 and AB 1159. Sponsored by Children Now. In the version analysed by the Assembly Committee on Privacy and Consumer Protection (as amended 14 May 2026, hearing 16 Jun 2026), a toy is a product designed or intended by the manufacturer for play by children under 18, and the prohibition ends on 1 Jan 2031. The author's release of 1 Sep 2026 on final passage gives the age limit as under 16 in two places and under 18 in one."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 867 by Senator Steve Padilla (D-San Diego) – Toys: companion chatbots.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 867 by Senator Steve Padilla (D-San Diego) – Toys: companion chatbots.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "date line and headline",
+    "quote": "Sep 10, 2026 Governor Newsom signs the strongest child safety chatbot and social media laws in the nation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "fourth paragraph",
+    "quote": "With the Governor’s signature on these bills, California is taking the lead, with the strongest bills regulating chatbots and social media nationwide.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 3, THIS BILL, item 2",
+    "quote": "Prohibits a person from manufacturing, selling, or exchanging, possessing with intent to sell or exchange, or exposing or offering for sale or exchange to any retailer any toy that includes a companion chatbot.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 1, synopsis",
+    "quote": "This bill expands SB 243 by imposing a four-year moratorium on making or selling any toy that includes a companion chatbot.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 9, comment",
+    "quote": "As these provisions are placed in the existing law established by SB 243, violations are subject to the same enforcement mechanism, which authorizes a person who suffers injury in fact as a result of a violation to bring a civil action",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 1, synopsis",
+    "quote": "SB 243 (Padilla, Ch. 677, Stats. 2025)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "eighth paragraph",
+    "quote": "SB 867 proposes a moratorium on the sale and manufacturing of toys with AI chatbot capabilities for children under 16 for a period of four years to allow time for lawmakers to modernize frameworks before making an entirely new class of products available to children.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "second paragraph",
+    "quote": "Researchers have found that AI toys will talk in-depth about sexually explicit topics, give kids advice on where to find dangerous objects such as matches or knives, promote increased usage through addictive features, and pose data privacy risks.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "date line and first paragraph",
+    "quote": "September 1, 2026 SACRAMENTO – Last night, the California State Legislature approved Senate Bill 867, authored by Senator Steve Padilla (D-San Diego).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "ninth paragraph",
+    "quote": "SB 867 passed the Senate unanimously and the Assembly with bipartisan support 74-1.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "sixth paragraph",
+    "quote": "SB 867 is sponsored by Children Now.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "fifth paragraph",
+    "quote": "SB 867 proposes a moratorium on the sale and manufacturing of toys with AI chatbot capabilities for children under 18 for a period of four years",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1119 by Senator Steve Padilla (D-San Diego), Assemblymembers Buffy Wicks (D-Oakland) and Rebecca Bauer-Kahan (D-Orinda) – Companion chatbots: children’s safety.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1276 by Senator Susan Rubio (D-Baldwin Park) – Crimes: sexual exploitation of a child.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-12/2026-10-17/secondary.html",
+    "sha256": "8535d5d6991bfcfb142e937fa115f3bdae130e84df05538e65491a3d05e02bc2",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "AB 1159 by Assemblymember Dawn Addis (D-Morro Bay) – Student personal information.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 1",
+    "quote": "Date of Hearing: June 16, 2026 Fiscal: No ASSEMBLY COMMITTEE ON PRIVACY AND CONSUMER PROTECTION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 1",
+    "quote": "SB 867 (Padilla) – As Amended May 14, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 3, THIS BILL, item 1",
+    "quote": "Defines “toy” as a product designed or intended by the manufacturer for use in play by children under 18 years of age.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-b1e4d9068f/2026-10-17/official.pdf",
+    "sha256": "ad42f89e4a0dec75d2b490b4e64e74e7244534781e5923720a51c20d3426cef0",
+    "locator": "page 3, THIS BILL, item 3",
+    "quote": "Sunsets the above provision on January 1, 2031.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-12/extra-4da52b1210/2026-10-17/official.html",
+    "sha256": "eee40acba2b15a90b8085a31a9c11217cf2556e7f22e8287a258dc94187a4ad0",
+    "locator": "first paragraph",
+    "quote": "This first-in-the-nation legislation places a 4-year moratorium on the sale and manufacturing of toys with artificial intelligence (AI) chatbot capabilities for children under 16.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "made precise from the Assembly analysis: the prohibition covers any toy that includes a companion chatbot, and violations fall under SB 243's civil action; the last sentence on the signing package moved out (it is in the notes)",
+   "notes": "added the definition of toy (under 18) and the sunset on 1 Jan 2031 in the version of 14 May 2026, against the author's release on final passage",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The latest event in the stored files is the Governor's signature on 10 Sep 2026 (Governor's release of that date). No stored file gives the bill's operative date or an urgency clause. Under California's general rule a non-urgency statute takes effect on 1 January after enactment, i.e. 1 Jan 2027; that rule is not in a stored source. Today is 18 Oct 2026, before 1 Jan 2027, so 'Adopted, not yet in force' holds; date_in_force stays null until the chaptered text or a legislature page giving it is stored.",
+  "scope_reasoning": "An AI-specific state law banning toys with companion chatbots; in scope with no note.",
+  "date_reasoning": "date_published is the signing date, 10 Sep 2026, from the dated release that announces the signing."
+ },
+ "extra_urls": [
+  {
+   "url": "https://sd18.senate.ca.gov/node/422",
+   "reason": "Senator Padilla's release of 1 Sep 2026 on final passage (votes, sponsor, four-year moratorium); the summary and notes rest on it, and it is not among this record's stored files (it was stored only in run 2026-10-14-discover-leads-2026-10-14)."
+  },
+  {
+   "url": "https://apcp.assembly.ca.gov/media/1168",
+   "reason": "Assembly Committee on Privacy and Consumer Protection analysis of SB 867 as amended 14 May 2026 (hearing 16 Jun 2026): defines 'toy' (under 18), the prohibition on making or selling toys that include a companion chatbot, and the sunset on 1 Jan 2031; would settle the age discrepancy in the notes for that version."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The chaptered text of SB 867 is not stored (leginfo.legislature.ca.gov returns HTTP 403 to the archiver), so the final age limit (under 18 in the version of 14 May 2026; under 16 and under 18 in the author's release on final passage), the chapter number and the operative date are unsettled. A person could provide the chaptered text (AGENTS.md section 7.8)."
+ ]
+}

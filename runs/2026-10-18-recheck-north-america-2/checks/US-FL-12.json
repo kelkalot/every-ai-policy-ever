@@ -1,0 +1,64 @@
+{
+ "cand_id": "US-FL-12",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Grants for AI in grades 6 to 12 with GPT-4-class LLM on a closed system, tutoring, reporting and parental access",
+   "verdict": "supported",
+   "locator": "s. 1002.321(3)(a), (e), 2026 statute page"
+  },
+  {
+   "claim": "USD 2 million recurring appropriation to the Lastinger Center",
+   "verdict": "supported",
+   "locator": "enrolled text page 24, s. 1004.561(6)(b)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  {
+   "url": "https://www.flsenate.gov/Laws/Statutes/2026/1004.561",
+   "reason": "official page found by the targeted search for a newer or fuller text; not stored"
+  }
+ ],
+ "related_missing": [
+  "US-FL-04",
+  "US-FL-14"
+ ],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: an education omnibus whose AI provisions set conditions on funded AI platforms."
+ },
+ "overall": "accept",
+ "note": "Only the verification note changes. The 2026 text of s. 1004.561 is not stored; its current statute page would settle whether subsection (6) was amended."
+}

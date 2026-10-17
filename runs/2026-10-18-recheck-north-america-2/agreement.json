@@ -1,0 +1,105 @@
+{
+ "run_id": "2026-10-18-recheck-north-america-2",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.0,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "original_title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "issuing_body": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "official_identifier": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_published": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_in_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  }
+ },
+ "disagreements": {
+  "US-CA-06": [
+   {
+    "field": "official_identifier",
+    "first": "Chapter 677, Statutes of 2025 (Senate Bill 243)",
+    "blind": "California Senate Bill 243 (2025-2026 Regular Session); Chapter 677, Statutes of 2025"
+   }
+  ],
+  "US-CA-11": [],
+  "US-FL-04": [],
+  "US-FL-07": [],
+  "US-FL-09": [
+   {
+    "field": "title",
+    "first": "CS/CS/HB 527 (2026): Mandatory Human Reviews of Insurance Claim Denials",
+    "blind": null
+   }
+  ]
+ },
+ "resulting_record_agreement": 0.951,
+ "resulting_record_fields": 61
+}

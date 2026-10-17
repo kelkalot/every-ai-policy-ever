@@ -1,0 +1,210 @@
+{
+ "cand_id": "US-FL-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-07",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for SB 1798 (2022), the Senate Criminal Justice Committee analyses of January 2022 and the enrolled text of CS/CS/SB 1798 (20221798er, 62 pages), stored on 14 Oct 2026 from flsenate.gov (the archiver found them unchanged on 17 Oct 2026), and the 2026 Florida Statutes page for s. 836.13, stored in this run. The bill page confirms the title, sponsors, history, floor votes (37-0 and 117-0), approval by the Governor on 24 Jun 2022, Chapter No. 2022-212 and the 1 Oct 2022 effective date; the enrolled text confirms every provision in the summary and notes about the act itself (sections 1, 3, 5 and 6) and the effective-date clause (section 13); the statute page shows s. 836.13 in force in the 2026 edition with a history note citing ch. 2025-99, ch. 2025-133, ch. 2026-14, ch. 2026-18 and ch. 2026-20. The statute page gives no amendment dates, so date_last_updated stays the year 2026. The Criminal Justice analyses describe an earlier version (for example renaming child pornography as child sexual abuse material, which the enacted act does not do) and were not used for the summary."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "bill heading",
+    "quote": "CS/CS/SB 1798: Sexually Related Offenses",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "bill heading",
+    "quote": "GENERAL BILL by Appropriations; Criminal Justice; Book",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "Bill History, 6/24/2022",
+    "quote": "6/24/2022 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "Last Action",
+    "quote": "Last Action: 6/27/2022 - Chapter No. 2022-212",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 12, Section 5",
+    "quote": "Section 5. Section 836.13, Florida Statutes, is created to",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 15, Section 6",
+    "quote": "Section 6. Section 836.14, Florida Statutes, is created to",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "Bill History, 6/24/2022",
+    "quote": "6/24/2022 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "bill heading",
+    "quote": "Effective Date: 10/1/2022",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 62, Section 13",
+    "quote": "Section 13. This act shall take effect October 1, 2022.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "Bill History, 6/27/2022",
+    "quote": "6/27/2022 • Chapter No. 2022-212",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "bill heading",
+    "quote": "Effective Date: 10/1/2022",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C006/2026-10-14/official.html",
+    "sha256": "18f9df404709ab2355e8b883578e7c87a7393061614d35df2c61cc3f677fddab",
+    "locator": "Bill History, 6/24/2022",
+    "quote": "6/24/2022 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 2",
+    "quote": "Be It Enacted by the Legislature of the State of Florida:",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 12, s. 836.13(1)(a)",
+    "quote": "2. With computer-generated nude body parts as the nude body",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 13, s. 836.13(2)",
+    "quote": "(2) A person who willfully and maliciously promotes any",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 13, s. 836.13(4)",
+    "quote": "a defense and does not relieve a person of criminal liability",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 6, s. 827.071(1)(b)",
+    "quote": "modified by electronic, mechanical, or other means, to portray",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-07/2026-10-14/secondary.pdf",
+    "sha256": "4b3c5d7b63f6639709acdccc30ca5c096b4b395b9ef2048ec2295961a0950c9e",
+    "locator": "page 15, s. 836.14",
+    "quote": "836.14 Theft or unauthorized promotion of a sexually",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-07/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "d5976a74b9cdbeea95ce3df78343ac86bb0b7fafec77c9d807fa6950a8933720",
+    "locator": "s. 836.13, history note",
+    "quote": "History.—s. 5, ch. 2022-212; s. 3, ch. 2025-99; s. 2, ch. 2025-133; s. 52, ch. 2026-14; s. 10, ch. 2026-18; s. 11, ch. 2026-20.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-07/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "d5976a74b9cdbeea95ce3df78343ac86bb0b7fafec77c9d807fa6950a8933720",
+    "locator": "s. 836.13, history note",
+    "quote": "History.—s. 5, ch. 2022-212; s. 3, ch. 2025-99; s. 2, ch. 2025-133; s. 52, ch. 2026-14; s. 10, ch. 2026-18; s. 11, ch. 2026-20.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-07/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "d5976a74b9cdbeea95ce3df78343ac86bb0b7fafec77c9d807fa6950a8933720",
+    "locator": "s. 836.13(8)(a)",
+    "quote": "(8)(a) No later than December 31, 2025, a covered platform shall establish a process",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-07/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "d5976a74b9cdbeea95ce3df78343ac86bb0b7fafec77c9d807fa6950a8933720",
+    "locator": "s. 836.13(2)",
+    "quote": "(2) A person who willfully generates any altered sexual depiction of an identifiable person, without the consent of the identifiable person, commits a felony of the third degree",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, with the s. 836.13 statute page now stored; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill page records approval by the Governor on 6/24/2022 and Chapter No. 2022-212 on 6/27/2022, with 'Effective Date: 10/1/2022'; section 13 of the enrolled text says 'This act shall take effect October 1, 2022.' That date is past (18 Oct 2026). Section 836.13, which the act created, is in the 2026 Florida Statutes, amended in 2025 and 2026 but not repealed. 'In force' stands.",
+  "scope_reasoning": "A broad sexual offences act that created Florida's offence for promoting sexual deepfakes, including computer-generated nude body parts; the existing scope_note stands (unchanged).",
+  "date_reasoning": "date_published is the Governor's approval (24 Jun 2022), date_in_force the effective date (1 Oct 2022). date_last_updated stays 2026: the history note of s. 836.13 ends with three 2026 chapter laws (ch. 2026-14, ch. 2026-18, ch. 2026-20); this record's stored files give no dates for those laws, so only the year is given.",
+  "summary_reasoning": "The summary matches sections 3, 5 and 6 of the enrolled text (definition of altered sexual depiction with computer-generated nude body parts, the third-degree felony for willful and malicious promotion, no disclaimer defence, the identifiable-minor extension of child pornography, theft of sexually explicit images); left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

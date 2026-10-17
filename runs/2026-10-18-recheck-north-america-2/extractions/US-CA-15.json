@@ -1,0 +1,183 @@
+{
+ "cand_id": "US-CA-15",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-15",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: the official bill page and text on leginfo.legislature.ca.gov could not be stored again (HTTP 403 on 16 and 17 Oct 2026; the browser retry timed out). Stored in this run: the Governor's release of 10 Sep 2026 (gov.ca.gov, the record's secondary source), which lists 'AB 1159 by Assemblymember Dawn Addis (D-Morro Bay) – Student personal information' among the bills signed that day, says the package 'regulates the use of K-12 pupil data in AI systems', and is the only stored source for the signature and its date; and the Senate Committee on Education agenda of 10 Jun 2026 (sedn.senate.ca.gov), whose analysis of the version of 16 Jan 2026 is the source for the summary and notes. Amendments made after that version cannot be seen. The chaptered text, the chapter number and the operative dates are not in a stored source. The status follows California's general rule that a non-urgency statute takes effect on 1 January after enactment, which is not in a stored source."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "AB 1159 by Assemblymember Dawn Addis (D-Morro Bay) – Student personal information.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "AB 1159 by Assemblymember Dawn Addis (D-Morro Bay) – Student personal information.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "date line and headline",
+    "quote": "Sep 10, 2026 Governor Newsom signs the strongest child safety chatbot and social media laws in the nation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "fourth paragraph",
+    "quote": "With the Governor’s signature on these bills, California is taking the lead, with the strongest bills regulating chatbots and social media nationwide.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 6, Analysis, item 1",
+    "quote": "prohibiting operators from using covered information, including persistent unique identifiers, to train or develop AI systems unless the use is in furtherance of K–12 school purposes and for the use and benefit of the school and the teacher, pupil, or parent.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 6, Analysis, item 3",
+    "quote": "Establishes, operative July 1, 2027, the Higher Education Student Information Protection Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 6, Analysis, item 3a",
+    "quote": "or using covered information to train or develop AI systems, as specified.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 6, Analysis, item 3b",
+    "quote": "including information relating to reproductive or sexual health, immigration status, precise geolocation, and sexual orientation or gender identity",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "Today's bills will help protect children by",
+    "quote": "Protects kids from targeted advertising and regulates the use of K-12 pupil data in AI systems.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 3",
+    "quote": "Version: January 16, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 7, Analysis, item 4",
+    "quote": "Creates a private right of action for specified violations of pupil and student privacy protections.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-15/extra-d87188d6ca/2026-10-17/official.pdf",
+    "sha256": "d33f94b476ac9c3efc8b4b229d6125f6f0aa109684889fcf6173b8a336f5cf94",
+    "locator": "page 7, Analysis, item 5",
+    "quote": "including extracurricular activities, biometric or behavioral information, device identifiers, search activity, photographs, and voice recordings.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1119 by Senator Steve Padilla (D-San Diego), Assemblymembers Buffy Wicks (D-Oakland) and Rebecca Bauer-Kahan (D-Orinda) – Companion chatbots: children’s safety.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 867 by Senator Steve Padilla (D-San Diego) – Toys: companion chatbots.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-15/2026-10-17/secondary.html",
+    "sha256": "1bbcc7633567d216cc51f692f237ed855d4ba6b3221b9fc00aec45b3daee24a9",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1276 by Senator Susan Rubio (D-Baldwin Park) – Crimes: sexual exploitation of a child.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; no factual field changed"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "confirmed_text": "summary, notes and scope_note re-read against the analysis stored in this run and left unchanged; evidence under 'summary' and 'notes'",
+  "status_reasoning": "The latest event in the stored files is the Governor's signature on 10 Sep 2026 (Governor's release of that date). No stored file gives the bill's operative date or an urgency clause. Under California's general rule a non-urgency statute takes effect on 1 January after enactment, i.e. 1 Jan 2027; that rule is not in a stored source. Today is 18 Oct 2026, before 1 Jan 2027, so 'Adopted, not yet in force' holds; date_in_force stays null until the chaptered text or a legislature page giving it is stored. The analysed version makes the Higher Education Student Information Protection Act operative on 1 Jul 2027.",
+  "scope_reasoning": "Mainly a student privacy law; included because it restricts training or developing AI systems with student data. The existing scope_note stays.",
+  "date_reasoning": "date_published is the signing date, 10 Sep 2026, from the dated release that announces the signing."
+ },
+ "extra_urls": [
+  {
+   "url": "https://sedn.senate.ca.gov/media/1639",
+   "reason": "Senate Committee on Education agenda of 10 Jun 2026 with the analysis of AB 1159 (version 16 Jan 2026); the summary and notes rest on it, and it is not among this record's stored files (it was stored only in run 2026-10-14-discover-leads-2026-10-14)."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The chaptered text of AB 1159 is not stored (leginfo.legislature.ca.gov returns HTTP 403 to the archiver), so amendments after the version of 16 Jan 2026, the chapter number and the operative dates are unsettled. A person could provide the chaptered text (AGENTS.md section 7.8)."
+ ]
+}

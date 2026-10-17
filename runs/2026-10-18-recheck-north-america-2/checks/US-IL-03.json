@@ -1,0 +1,54 @@
+{
+ "cand_id": "US-IL-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "judgment-differs",
+   "why": "'SB 315' is shown in the release; '104th General Assembly' and the Public Act number are not in a stored file. The 104th General Assembly is right for 2025-2026 but unsupported by the stored text."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Largest developers must disclose safety practices, report incidents and undergo independent third-party audits",
+   "verdict": "supported",
+   "locator": "Governor's release, 'First-in-the-Nation AI Safety Law'"
+  },
+  {
+   "claim": "Confidential reporting channels and whistleblower protections for employees",
+   "verdict": "supported",
+   "locator": "same"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Signed 6 Jul 2026 and effective 1 Jan 2027 per the Governor's own release (official newsroom host). The sponsors and 'builds on California and New York' lines come from statements inside the release. Search found no Public Act number and no amendment."
+}

@@ -1,0 +1,215 @@
+{
+ "cand_id": "US-CA-13",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-13",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: the official bill page and text on leginfo.legislature.ca.gov could not be stored again (HTTP 403 on 14, 16 and 17 Oct 2026; the browser retries timed out). Stored in this run: the Governor's release of 10 Sep 2026 (gov.ca.gov, the record's secondary source), which lists 'SB 1276 by Senator Susan Rubio (D-Baldwin Park) – Crimes: sexual exploitation of a child' among the bills signed that day and is the only stored source for the signature and its date; the Assembly Committee on Privacy and Consumer Protection analysis (hearing 1 Jul 2026) of the bill as introduced on 20 Feb 2026 (apcp.assembly.ca.gov), on which the summary and notes rest; and Senator Rubio's release of 2 Sep 2026 (sd22.senate.ca.gov), which lists 'SB 1276 – End Child Exploitation Act' among her bills sent to the Governor. Amendments made after the introduced version cannot be seen. The chaptered text, the chapter number (a collector's lead gave chapter 192) and the operative date are not in a stored source. The status follows California's general rule that a non-urgency statute takes effect on 1 January after enactment, which is not in a stored source."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1276 by Senator Susan Rubio (D-Baldwin Park) – Crimes: sexual exploitation of a child.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1276 by Senator Susan Rubio (D-Baldwin Park) – Crimes: sexual exploitation of a child.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "date line and headline",
+    "quote": "Sep 10, 2026 Governor Newsom signs the strongest child safety chatbot and social media laws in the nation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "fourth paragraph",
+    "quote": "With the Governor’s signature on these bills, California is taking the lead, with the strongest bills regulating chatbots and social media nationwide.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation strengthening California’s nation-leading protections for children online and when using artificial intelligence (AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 3, THIS BILL, item 1",
+    "quote": "Expands the crime of sexual exploitation of a child to apply to anyone who downloads, streams, or accesses through electronic or digital media any representation of information, data, or image that depicts a person under 18 years of age engaged in an act of sexual conduct.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 3, THIS BILL, item 1a",
+    "quote": "Exempts a child under 18 years of age alleged to have solely engaged in viewing sexual conduct through a video stream.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 5, comment 4",
+    "quote": "the bill requires mandated reporters to report any knowledge or reasonable suspicion of digitally altered or AI-generated matter that depicts a",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-5f4ed09d21/2026-10-17/official.html",
+    "sha256": "9b8830af78cc0d89b8dc4ae8023ba4287b603fb89b7ec6a210839ce218530d30",
+    "locator": "list of bills in the Governor's hands",
+    "quote": "SB 1276 – End Child Exploitation Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "Today's bills will help protect children by",
+    "quote": "Expands the scope of child sexual exploitation to include any digitally altered or AI-generated matter that depicts a person under 18 engaged in an act of sexual conduct.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 3, comment 1",
+    "quote": "SB 1276, the End Child Exploitation Act, closes those loopholes once and for all.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 1",
+    "quote": "Date of Hearing: July 1, 2026 Fiscal: Yes ASSEMBLY COMMITTEE ON PRIVACY AND CONSUMER PROTECTION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 1",
+    "quote": "SB 1276 (Rubio) – As Introduced February 20, 2026 SENATE VOTE: 33-0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 1, synopsis",
+    "quote": "This bill is sponsored by the Los Angeles City Attorney",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 4, footnote 3",
+    "quote": "SB 1381 (Wahab), Ch. 926, Stats. of 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-60c4472e86/2026-10-17/official.pdf",
+    "sha256": "bececa9165d32b322f1a9efe41483e3bd5000e55803f1192a986d8fdc0bdd946",
+    "locator": "page 5",
+    "quote": "in 2024 California updated its sexual exploitation statutes to include digital and AI-generated images of children.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 1119 by Senator Steve Padilla (D-San Diego), Assemblymembers Buffy Wicks (D-Oakland) and Rebecca Bauer-Kahan (D-Orinda) – Companion chatbots: children’s safety.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "SB 867 by Senator Steve Padilla (D-San Diego) – Toys: companion chatbots.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-13/2026-10-17/secondary.html",
+    "sha256": "60116b9c4e5d0e1b89c6643b03f83dc94938c221befcbf5bc87c3d52c409234c",
+    "locator": "New legislation to keep kids safe online (list of bills signed)",
+    "quote": "AB 1159 by Assemblymember Dawn Addis (D-Morro Bay) – Student personal information.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-13/extra-5f4ed09d21/2026-10-17/official.html",
+    "sha256": "9b8830af78cc0d89b8dc4ae8023ba4287b603fb89b7ec6a210839ce218530d30",
+    "locator": "date line and first paragraph",
+    "quote": "September 2, 2026 SACRAMENTO, Calif. – Senator Susan Rubio (D-Baldwin Park) announced that eight of her bills have cleared the Legislature and are now headed to the Governor's desk.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; no factual field changed"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "confirmed_text": "summary, notes and scope_note re-read against the analysis and releases stored in this run and left unchanged; evidence under 'summary' and 'notes'",
+  "status_reasoning": "The latest event in the stored files is the Governor's signature on 10 Sep 2026 (Governor's release of that date). No stored file gives the bill's operative date or an urgency clause. Under California's general rule a non-urgency statute takes effect on 1 January after enactment, i.e. 1 Jan 2027; that rule is not in a stored source. Today is 18 Oct 2026, before 1 Jan 2027, so 'Adopted, not yet in force' holds; date_in_force stays null until the chaptered text or a legislature page giving it is stored.",
+  "scope_reasoning": "Not AI-specific (it amends the crime of sexual exploitation of a child and the Child Abuse and Neglect Reporting Act) but brings digitally altered and AI-generated child sexual abuse material within mandated reporting; the existing scope_note stays.",
+  "date_reasoning": "date_published is the signing date, 10 Sep 2026, from the dated release that announces the signing."
+ },
+ "extra_urls": [
+  {
+   "url": "https://apcp.assembly.ca.gov/media/1202",
+   "reason": "Assembly Committee on Privacy and Consumer Protection analysis of SB 1276 (hearing 1 Jul 2026); the summary and notes rest on it, and it is not among this record's stored files (it was stored only in run 2026-10-14-discover-leads-2026-10-14)."
+  },
+  {
+   "url": "https://sd22.senate.ca.gov/node/764",
+   "reason": "Senator Rubio's release of 2 Sep 2026 listing SB 1276 (End Child Exploitation Act) among her bills sent to the Governor; confirms final passage and the short name from the author's own site."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The chaptered text of SB 1276 is not stored (leginfo.legislature.ca.gov returns HTTP 403 to the archiver), so amendments after the introduced version, the chapter number and the operative date are unsettled. A person could provide the chaptered text (AGENTS.md section 7.8)."
+ ]
+}

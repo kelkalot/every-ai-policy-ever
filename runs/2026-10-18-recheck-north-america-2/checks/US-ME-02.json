@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-ME-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "No one may provide, advertise or offer therapy or psychotherapy, including through Internet-based AI, unless a licensed professional provides it; violation is an unfair trade practice",
+   "verdict": "supported",
+   "locator": "bill text page 2, 1500-EE(2), (3)"
+  },
+  {
+   "claim": "Supplementary AI use requires written notice and the client's consent; AI may not make independent therapeutic decisions",
+   "verdict": "supported",
+   "locator": "bill text page 4, 2113(3)(B), (4)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Signed 13 Apr 2026, Public Law 2025 chapter 687, in force 29 Jul 2026 per the Legislative Digest: all official. Search found no amendment. One thing to look at later: Maine's online statutes list one of the Title 32 sections as 3300-J-1, which may be a revisor renumbering of the section the notes call 3300-J."
+}

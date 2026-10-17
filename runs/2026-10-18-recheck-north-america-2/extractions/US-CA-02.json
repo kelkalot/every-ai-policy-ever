@@ -1,0 +1,380 @@
+{
+ "cand_id": "US-CA-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-02",
+ "record": {
+  "date_published": "2024-09-19",
+  "official_identifier": "Chapter 291, Statutes of 2024 (Senate Bill 942); amended by Chapter 674, Statutes of 2025 (Assembly Bill 853)",
+  "status": "Partially in force",
+  "summary": "Requires providers of generative AI systems with over 1,000,000 monthly users that are publicly accessible in California to offer a free AI detection tool, to give users the option of a visible (manifest) disclosure, and to embed a latent disclosure in AI-generated image, video and audio content that conveys the provider, the system and version, the time of creation and a unique identifier. Violations carry a civil penalty of $5,000 each. As amended by AB 853 (2025), large online platforms must let users inspect provenance data from 2027, and capture-device makers must offer and by default embed latent disclosures from 2028.",
+  "notes": "Signed on 19 Sep 2024 as Chapter 291, Statutes of 2024, and originally to become operative on 1 Jan 2026. AB 853 (Wicks), Chapter 674, Statutes of 2025, signed on 13 Oct 2025, strengthened the Act; as amended, the covered-provider duties apply from 2 Aug 2026, the duties of large online platforms from 1 Jan 2027 and those of capture-device makers, for devices first produced for sale from that date, from 1 Jan 2028. In his AB 853 signing message the Governor asked the Legislature for follow-up legislation in 2026, before the law took effect, on technical feasibility and user privacy. AB 2713 (Wicks, 2026) proposed further amendments on provenance data that users download from platforms.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Governor's releases of 19 Sep 2024 (signing of SB 942 that day), 29 Sep 2024 and 13 Oct 2025 (signing of AB 853, 'California AI Transparency Act', that day), all on gov.ca.gov; his AB 853 signing message of 13 Oct 2025 (a scan, read by OCR); the Senate Judiciary Committee's analysis of AB 853 (hearing of 15 Jul 2025), which gives SB 942's chapter, the original operative date of 1 Jan 2026 and the covered-provider duties and penalty as existing law; the Assembly Privacy and Consumer Protection Committee's analysis of AB 2713 (hearing of 16 Apr 2026), which gives both chapters and the operative dates of the Act as amended (2 Aug 2026, 1 Jan 2027, 1 Jan 2028); and the same committee's 2025 bill summary (AB 853, Chapter 674). The statute's text on leginfo.legislature.ca.gov refused automated downloads (HTTP 403), so the summary rests on the two committee analyses' descriptions of existing law. No stored file says which act moved the operative date from 1 Jan 2026 to 2 Aug 2026; the record states both dates without attributing the change. Version 1's note on the House Great American AI Act discussion draft rested on no stored source and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-02/2026-10-17/official.html",
+    "sha256": "d86653010a097d9b6f9f93b632a1fe4d3e1d749b7aacf68560d7ba448d3bac0c",
+    "locator": "Governor's release of Sep 29, 2024, list 'Over the past 30 days, Governor Newsom has signed the following bills concerning GenAI technology'",
+    "quote": "SB 942 by Senator Josh Becker (D-Menlo Park) – Requires the developers of covered GenAI systems to both include provenance disclosures in the original content their systems produce and make tools available to identify GenAI content produced by their systems. (previously signed)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2 (existing law)",
+    "quote": "1) Establishes the California AI Transparency Act, which becomes operative on January 1, 2026. (Bus. & Prof. Code § 22757 et seq.)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-02/2026-10-17/secondary.html",
+    "sha256": "44b99737f7df22da5be8c09f9eb76c09161ba3fcff8367daf0c6b7182f3b93c9",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "AB 853 by Assemblymember Buffy Wicks (D-Oakland). California AI Transparency Act. A signing message can be found here.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 7 (comment 2)",
+    "quote": "the Legislature passed SB 942 (Becker, Stats. 2024, Ch. 291).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 7 (comment 2)",
+    "quote": "AB 853 (Wicks, Stats. 2025, Ch. 674) imposed disclosure requirements on large online platforms and manufacturers of devices capable of capturing digital content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 8 (comment 3)",
+    "quote": "SB 942 (Becker, Ch. 291, Stats. 2024), which is set to become operative on January 1, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 8",
+    "quote": "Status: Chapter 674, Statutes of 2025 AB-979 (Irwin)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today signed three significant pieces of legislation designed to address the ethical concerns surrounding artificial intelligence (AI) and protect individuals from the misuse of digital content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release, section on SB 942",
+    "quote": "SB 942 by Senator Josh Becker (D-Menlo Park) focuses on helping the public more reliably identify AI-generated content. It requires widely-used generative AI systems to include provenance disclosures in the content they generate.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release header",
+    "quote": "Sep 19, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today signed three significant pieces of legislation designed to address the ethical concerns surrounding artificial intelligence (AI) and protect individuals from the misuse of digital content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release, section on SB 942",
+    "quote": "SB 942 by Senator Josh Becker (D-Menlo Park) focuses on helping the public more reliably identify AI-generated content. It requires widely-used generative AI systems to include provenance disclosures in the content they generate.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 2)",
+    "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 1 (synopsis)",
+    "quote": "Beginning this August, SB 942 (Becker, 2024) requires large GenAI platforms to include machine-detectable “latent disclosures” in their outputs.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-610ea73b2f/2026-10-17/official.pdf",
+    "sha256": "e7280af3033a2ed9aaaf1700fe26649ba1566b725ece5bf9887959d249db08aa",
+    "locator": "page 1",
+    "quote": "OCT 13 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-610ea73b2f/2026-10-17/official.pdf",
+    "sha256": "e7280af3033a2ed9aaaf1700fe26649ba1566b725ece5bf9887959d249db08aa",
+    "locator": "page 1",
+    "quote": "which strengthens the California A! Transparency Act to ensure that Californians can begin to reliably assess whether digital content is generated or modified using artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-02/2026-10-17/secondary.html",
+    "sha256": "44b99737f7df22da5be8c09f9eb76c09161ba3fcff8367daf0c6b7182f3b93c9",
+    "locator": "release header",
+    "quote": "Oct 13, 2025 Governor Newsom signs bills to further strengthen California’s leadership in protecting children online",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-02/2026-10-17/secondary.html",
+    "sha256": "44b99737f7df22da5be8c09f9eb76c09161ba3fcff8367daf0c6b7182f3b93c9",
+    "locator": "Governor's release of Oct 13, 2025, list of signed bills",
+    "quote": "AB 853 by Assemblymember Buffy Wicks (D-Oakland). California AI Transparency Act. A signing message can be found here.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 1",
+    "quote": "AB 2713 Page 1 Date of Hearing: April 16, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 2)",
+    "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 4)",
+    "quote": "Beginning January 1, 2027, requires a large online platform to allow a user to inspect all available system provenance data embedded into or attached to content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 3)",
+    "quote": "Beginning January 1, 2028, requires a capture device manufacturer to, with respect to any capture device the capture device manufacturer first produced for sale in the state on or after January 1, 2028, provide a user with the option to include a latent disclosure",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today signed three significant pieces of legislation designed to address the ethical concerns surrounding artificial intelligence (AI) and protect individuals from the misuse of digital content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2 (existing law)",
+    "quote": "Provides that a covered provider that violates the above provisions is liable for a civil penalty in the amount of $5,000 per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2 (existing law, item 2)",
+    "quote": "Requires a “covered provider,” a person that creates, codes, or otherwise produces a GenAI system that has over 1,000,000 monthly visitors or users and is publicly accessible within the geographic boundaries of the state, to make an AI detection tool available at no cost",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2 (existing law, item 4)",
+    "quote": "Requires a covered provider to offer users the option to include in AI-generated image, video, or audio content created by its own generative AI system a manifest disclosure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2 (existing law, item 5)",
+    "quote": "Requires a covered provider to include in AI-generated image, audio, and video content created by its generative AI system a latent disclosure that is detectable by the tool specified above",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 2)",
+    "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 2)",
+    "quote": "reasonable, conveys the name of the covered provider, the name and version number of the GenAI system that created or altered the content, the time and date of the content’s creation or alteration, and a unique identifier",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2 (existing law, item 6)",
+    "quote": "Provides that a covered provider that violates the above provisions is liable for a civil penalty in the amount of $5,000 per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 4)",
+    "quote": "Beginning January 1, 2027, requires a large online platform to allow a user to inspect all available system provenance data embedded into or attached to content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 3)",
+    "quote": "Beginning January 1, 2028, requires a capture device manufacturer to, with respect to any capture device the capture device manufacturer first produced for sale in the state on or after January 1, 2028, provide a user with the option to include a latent disclosure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 3)",
+    "quote": "and to embed latent disclosures in content captured by the device by default",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-9c0012e53f/2026-10-17/official.html",
+    "sha256": "acd2a3b1ca34951ea5abc356d9a89efcf48304efe2f88fcb98076d6b39ebabaa",
+    "locator": "release, first paragraph",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today signed three significant pieces of legislation designed to address the ethical concerns surrounding artificial intelligence (AI) and protect individuals from the misuse of digital content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-e6e5ca0e1a/2026-10-17/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 8 (comment 3)",
+    "quote": "SB 942 (Becker, Ch. 291, Stats. 2024), which is set to become operative on January 1, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 8",
+    "quote": "AB-853 (Wicks) - California AI Transparency Act. This bill requires large online platforms to develop a way for users to easily access provenance data of uploaded content.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-fd6deb148a/2026-10-17/official.pdf",
+    "sha256": "8ae20f8e26f8d90ddca5c87e5a1e51b1194a7e6c44ca44548acf594bae5e457a",
+    "locator": "page 8",
+    "quote": "Status: Chapter 674, Statutes of 2025 AB-979 (Irwin)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-610ea73b2f/2026-10-17/official.pdf",
+    "sha256": "e7280af3033a2ed9aaaf1700fe26649ba1566b725ece5bf9887959d249db08aa",
+    "locator": "page 1",
+    "quote": "which strengthens the California A! Transparency Act to ensure that Californians can begin to reliably assess whether digital content is generated or modified using artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 2)",
+    "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 4)",
+    "quote": "Beginning January 1, 2027, requires a large online platform to allow a user to inspect all available system provenance data embedded into or attached to content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2 (existing law, item 3)",
+    "quote": "Beginning January 1, 2028, requires a capture device manufacturer to, with respect to any capture device the capture device manufacturer first produced for sale in the state on or after January 1, 2028, provide a user with the option to include a latent disclosure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-610ea73b2f/2026-10-17/official.pdf",
+    "sha256": "e7280af3033a2ed9aaaf1700fe26649ba1566b725ece5bf9887959d249db08aa",
+    "locator": "page 1",
+    "quote": "follow-up legislation in 2026, before the law takes effect, to address these technical feasibility issues",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-610ea73b2f/2026-10-17/official.pdf",
+    "sha256": "e7280af3033a2ed9aaaf1700fe26649ba1566b725ece5bf9887959d249db08aa",
+    "locator": "page 1",
+    "quote": "including impairment of user privacy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 1 (synopsis)",
+    "quote": "This bill attempts to address that concern by clarifying that the download of content by users is “subject to any applicable federal laws.”",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the Governor's release of 19 Sep 2024 says he 'today signed' SB 942; the day replaces version 1's month",
+   "official_identifier": "chapters from the committee analyses (SB 942: Stats. 2024, Ch. 291; AB 853: Stats. 2025, Ch. 674); version 1's session label is not in any stored file",
+   "status": "'Partially in force': the covered-provider duties apply from 2 Aug 2026, but the duties AB 853 added for large online platforms (1 Jan 2027) and capture-device makers (1 Jan 2028) do not yet apply; the register uses 'Partially in force' for phased laws (EU-03, US-CT-01)",
+   "summary": "rewritten from the committee analyses: user threshold, free detection tool, optional manifest and mandatory latent disclosures with their content, the $5,000 penalty, and AB 853's later duties",
+   "notes": "signing day, chapters and the operative dates of the Act as amended added from stored files; the signing message's request for follow-up legislation and AB 2713 added; the claim that AB 853 itself delayed the operative date replaced by the two dates, since no stored file says which act moved it; House discussion draft removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_in_force",
+   "date_last_updated",
+   "legal_force"
+  ],
+  "status_reasoning": "The Assembly committee analysis of AB 2713 (hearing of 16 Apr 2026) states as existing law that 'Beginning August 2, 2026' covered providers must embed latent disclosures, that large online platforms have duties 'Beginning January 1, 2027' and capture-device makers 'Beginning January 1, 2028'. Today is 18 Oct 2026: the first date has passed, the other two have not. So the Act as amended is partly applicable: 'Partially in force' (version 1: 'In force'). date_in_force stays 2 Aug 2026, the first operative date. No stored file shows a later delay; whether a 2026 bill changed the Act stays an open question.",
+  "date_reasoning": "date_published 2024-09-19: the release dated Sep 19, 2024 says the Governor 'today signed three significant pieces of legislation' and describes SB 942 as one of them. date_last_updated 2025-10-13: the AB 853 signing message is stamped 'OCT 13 2025' and the release of that date lists AB 853 among the bills signed that day.",
+  "scope_reasoning": "An AI-specific state law on provenance disclosures and detection tools for AI-generated content; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "California AB 2713 (Wicks, 2026), California AI Transparency Act: system provenance data: inspection",
+   "url": "https://apcp.assembly.ca.gov/system/files/2026-04/ab-2713-wicks-apcp-analysis.pdf",
+   "seen_in": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-02/extra-42c6840283/2026-10-17/official.pdf (committee analysis of 16 Apr 2026)",
+   "why": "A 2026 bill amending the AI Transparency Act (provenance data that users can download from large online platforms); if enacted it is a later amendment of US-CA-02 and may change date_last_updated."
+  }
+ ],
+ "open_questions": [
+  "The Governor's AB 853 signing message (13 Oct 2025) asked the Legislature for follow-up legislation in 2026 before the law took effect, and AB 2713 (Wicks, 2026) was pending in mid-2026. No stored file shows whether a 2026 act changed the Act's duties or operative dates; a later run should check, and update date_last_updated if it did.",
+  "The summary rests on two committee analyses' descriptions of existing law, not on the statute: leginfo.legislature.ca.gov refuses automated downloads. A person could provide the chaptered texts of SB 942 and AB 853 (AGENTS.md section 7.8)."
+ ]
+}

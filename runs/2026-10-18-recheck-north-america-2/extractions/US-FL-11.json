@@ -1,0 +1,286 @@
+{
+ "cand_id": "US-FL-11",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-11",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for HB 369 (2025) and the House Information Technology Budget & Policy Subcommittee (20 Mar 2025) and Economic Infrastructure Subcommittee (1 Apr 2025) analyses, stored from flsenate.gov on 14 Oct 2026 and found unchanged by the archiver on 17 Oct 2026, and stored again for this run, on 17 Oct 2026, the text of the third committee substitute (CS/CS/CS/HB 369, c3) and the House Commerce Committee analysis of 17 Apr 2025 (flsenate.gov; both byte-identical to the copies of 14 Oct 2026). The bill page confirms the title, sponsors, filing date, the four versions (c3 posted 16 Apr 2025), the committee actions and the 'Died on Second Reading Calendar' action of 16 Jun 2025; the c3 text, the last version of the bill, gives s. 501.9741, the July 1, 2026 effective date and the provisions on which the summary rests; the Commerce analysis gives the 25-0 vote of 15 Apr 2025 and the changes that committee adopted."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "bill heading",
+    "quote": "CS/CS/CS/HB 369: Provenance of Digital Content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b22e518528/2026-10-17/official.pdf",
+    "sha256": "c1484b835b593af5d65488f01b216e007392fb04b20ef482616c163cb49df197",
+    "locator": "page 1, header",
+    "quote": "TITLE: Provenance of Digital Content",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "bill heading, sponsors",
+    "quote": "Commerce Committee; Economic Infrastructure Subcommittee; Information Technology Budget & Policy Subcommittee; McFarland; (CO-INTRODUCERS)",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "bill heading",
+    "quote": "CS/CS/CS/HB 369: Provenance of Digital Content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b22e518528/2026-10-17/official.pdf",
+    "sha256": "c1484b835b593af5d65488f01b216e007392fb04b20ef482616c163cb49df197",
+    "locator": "page 1, header",
+    "quote": "BILL #: CS/CS/CS/HB 369",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "Bill Text table",
+    "quote": "H 369 Filed 2/4/2025 10:05 AM",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "Bill Text table",
+    "quote": "H 369 c3 4/16/2025 1:22 PM",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "Last Action",
+    "quote": "Last Action: 6/16/2025 House - Died on Second Reading Calendar",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "Last Action",
+    "quote": "Last Action: 6/16/2025 House - Died on Second Reading Calendar",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "bill summary",
+    "quote": "Requires certain artificial intelligence developers make provenance data available through specified options; requires such developers to make provenance readers available in specified manner;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "bill summary",
+    "quote": "requires certain social media platforms to retain & make available certain provenance data; provides that violation constitutes unfair or deceptive act or practice.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/document-2.pdf",
+    "sha256": "eb47d42f603d8eb241d99f906d8ded4cb0bb72c2077bbaed383e12839ac967cd",
+    "locator": "page 1, Effect of the Bill",
+    "quote": "“Provenance data” means information about the origin of digital content and the history of modifications to such content in a format that is compliant with widely adopted guidelines or specifications promulgated by an established standard-setting body.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 1, lines 22-24",
+    "quote": "\"Generative artificial intelligence developer\" means",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 1, line 24",
+    "quote": "intelligence tool that is publicly available.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 2, line 37",
+    "quote": "content in a format that is compliant with widely adopted",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 3, line 68",
+    "quote": "\"Synthetic content\" means any visual content that has",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 4, line 78",
+    "quote": "Apply provenance data, in a manner that is technically",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 4, line 85",
+    "quote": "to the public for free, either directly or through the use of",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 4, line 87",
+    "quote": "A social media platform must retain all available",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 4, line 96",
+    "quote": "be exclusively enforced in a civil action by the Attorney",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 4, line 99",
+    "quote": "platform 30 calendar days to cure the alleged violation before",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/document-2.pdf",
+    "sha256": "eb47d42f603d8eb241d99f906d8ded4cb0bb72c2077bbaed383e12839ac967cd",
+    "locator": "page 4, Bill History",
+    "quote": "Removes provisions pertaining to disclaimers on election materials;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/document-2.pdf",
+    "sha256": "eb47d42f603d8eb241d99f906d8ded4cb0bb72c2077bbaed383e12839ac967cd",
+    "locator": "page 4, Bill History",
+    "quote": "Removes provisions pertaining to a pilot program at the Division of Emergency Management;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "Bill History, 4/23/2025",
+    "quote": "Temporarily postponed, on 2nd Reading",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "Related Bills",
+    "quote": "Last Action: 6/16/2025 S Died in Ethics and Elections",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C010/2026-10-14/official.html",
+    "sha256": "b34c021313e1ddc25f6e93097174cbf3f46dbefd03e26fff762d1c7777704ec0",
+    "locator": "bill summary",
+    "quote": "Effective Date: 7/1/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b22e518528/2026-10-17/official.pdf",
+    "sha256": "c1484b835b593af5d65488f01b216e007392fb04b20ef482616c163cb49df197",
+    "locator": "page 4, Bill History",
+    "quote": "Commerce Committee 25 Y, 0 N, As CS 4/15/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b22e518528/2026-10-17/official.pdf",
+    "sha256": "c1484b835b593af5d65488f01b216e007392fb04b20ef482616c163cb49df197",
+    "locator": "page 4, Bill History",
+    "quote": "Removed “audio” from the definition of “synthetic content.”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b22e518528/2026-10-17/official.pdf",
+    "sha256": "c1484b835b593af5d65488f01b216e007392fb04b20ef482616c163cb49df197",
+    "locator": "page 4, Bill History",
+    "quote": "Replaced the term “generative artificial intelligence provider” with “generative artificial intelligence developer”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 5, line 104",
+    "quote": "website, or application that exclusively provides video game",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 1, line 16",
+    "quote": "Section 501.9741, Florida Statutes, is created",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-11/extra-b00b76c772/2026-10-17/official.pdf",
+    "sha256": "5f9407aa50ae5fa88b95b2fa983f688dbf8c56b3a1cd783c37de0aa60ab9b758",
+    "locator": "page 5, line 106",
+    "quote": "This act shall take effect July 1, 2026.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, with the c3 text and the Commerce Committee analysis now stored for this run; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "After the Commerce Committee's substitute (c3, 16 Apr 2025) the bill went to the House Second Reading Calendar, was temporarily postponed on 23 Apr 2025, indefinitely postponed and withdrawn on 3 May 2025, and died on the Second Reading Calendar on 16 Jun 2025 (last action on the bill page). It never passed either chamber; 'Proposed' with status 'Lapsed' stands.",
+  "scope_reasoning": "An AI-specific bill on provenance data for content made with generative AI; in scope with no note.",
+  "date_reasoning": "date_published is the filing date, 4 Feb 2025; date_last_updated is the posting of c3, the last version, on 16 Apr 2025.",
+  "summary_reasoning": "The c3 text, stored for this run, supports every claim of the current summary: generative AI developers (an organization that develops a publicly available generative AI tool), the choice between a provenance application tool for content made with the developer's tool and applying provenance data where technically feasible, the free provenance reader, provenance data compliant with widely adopted standards that shows synthetic (visual) content and names the developer without personally identifying information, the social media platforms' duty, and enforcement only by the Attorney General after a 30-day cure period. Left unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.flsenate.gov/Session/Bill/2025/369/BillText/c3/PDF",
+   "reason": "text of CS/CS/CS/HB 369 (c3, 16 Apr 2025), the last version of the bill, on which the summary rests (stored in this run)"
+  },
+  {
+   "url": "https://www.flsenate.gov/Session/Bill/2025/369/Analyses/h0369e.COM.PDF",
+   "reason": "House Commerce Committee analysis (17 Apr 2025): the 25-0 vote of 15 Apr 2025 and the committee's changes stated in notes (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

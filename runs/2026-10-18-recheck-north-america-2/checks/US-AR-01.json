@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-AR-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Public entities must create an AI and automated decision tool policy requiring a human to make any final decision",
+   "verdict": "supported",
+   "locator": "page 4 s. 25-1-128(b)(3)(B), stored Act 848 PDF"
+  },
+  {
+   "claim": "Training on the appropriate use of such tools and disciplinary procedure for violations",
+   "verdict": "supported",
+   "locator": "page 4 (b)(4)(A); page 5 (e)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The effective date 2025-08-05 rests on Attorney General Opinion 2025-032, stored from ag-opinions.s3.amazonaws.com, which the script counts as secondary (host not recorded as official); it is consistent with the Act having no emergency clause. A person should decide on the host. No 2026 amendment found."
+}

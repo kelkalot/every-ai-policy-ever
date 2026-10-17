@@ -1,0 +1,57 @@
+{
+ "cand_id": "US-FL-16",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported",
+   "why": "the opinion states it is guidance to Florida Bar members"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Lawyers must verify the accuracy and sufficiency of AI research and may not delegate the practice of law",
+   "verdict": "supported",
+   "locator": "page 4 of stored copy"
+  },
+  {
+   "claim": "Chatbots that communicate with clients must follow advertising rules and disclose they are AI",
+   "verdict": "supported",
+   "locator": "page 1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Advisory opinion of an integrated state bar, which is also a professional association (an excluded issuer type in section 10). No precedent settles state bars; the record stays included with its scope_note and the question stays open for a maintainer."
+ },
+ "overall": "accept",
+ "note": "Level C: only a copy on law.buffalo.edu is stored. The reworded scope_note is a fair description. The search found no revision or withdrawal, though one practitioner article says Florida later amended competence and verification rules; that is not an official page and is not used."
+}

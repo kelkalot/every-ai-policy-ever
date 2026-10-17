@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-CA-14",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Version of 23 May 2025 defined covered products including companion chatbots that can foreseeably attempt therapy or cause harmful attachment, and AI that generates social scores",
+   "verdict": "supported",
+   "locator": "Senate Judiciary analysis (extra-ea823a4315) pages 2-3"
+  },
+  {
+   "claim": "The Governor said he would build on SB 243 with a bill the next year",
+   "verdict": "supported",
+   "locator": "veto message page 2 (OCR)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Veto on 13 Oct 2025 is shown by the veto message and the Governor's list. Search found no reintroduced AB 1064; a Common Sense Media ballot initiative with similar language is reported only by secondary pages and is not an official instrument yet."
+}

@@ -1,0 +1,175 @@
+{
+ "cand_id": "US-IL-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-IL-03",
+ "record": {
+  "official_url": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+  "summary": "Illinois law on the developers of the largest advanced AI systems, signed on 6 July 2026 and taking effect on 1 January 2027. It requires them to publicly disclose their safety practices, report significant safety incidents, maintain compliance processes and undergo regular independent third-party safety audits of covered systems by qualified experts without financial conflicts of interest. It also creates confidential reporting channels and whistleblower protections for employees who raise AI safety concerns.",
+  "notes": "Sponsored by Senator Mary Edly-Allen and Representative Daniel Didech and passed with bipartisan support. It builds on the frameworks California and New York had already passed (SB 53 and the RAISE Act, US-CA-05 and US-NY-01) and adds mandatory independent third-party audits.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Governor's press release of 6 Jul 2026 on the State of Illinois Newsroom (gov-pritzker-newsroom.prezly.com, listed as the Governor's official newsroom), stored 11 Oct 2026. The copy stored on 11 Oct 2026 is a Prezly preview with a temporary URL; the published release at its permanent URL was stored in this run (same text, without the preview banner), and official_url now points at it. The release confirms the bill number, the act's name, the signing on 6 Jul 2026, passage by the General Assembly, the 1 Jan 2027 effective date, the core obligations and the sponsors. It gives no Public Act number, thresholds (revenue, compute), penalties or enforcing authority; the earlier note's thresholds rested on a law-firm summary and press reports, and those sentences were moved out of the notes. The '104th General Assembly' in official_identifier is not shown in the stored file. The enrolled text and the bill-status page on ilga.gov were not stored: ilga.gov refused connections in this run, as it did before."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "press release, first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-03/2026-10-11/official.html",
+    "sha256": "613f4389633d836ffc177a860768101688af52de27443c87801fe875101d06d4",
+    "locator": "press release, first paragraph (preview copy)",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "press release, first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "press release header",
+    "quote": "FOR IMMEDIATE RELEASE: July 6, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "press release, first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "press release header",
+    "quote": "FOR IMMEDIATE RELEASE: July 6, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "press release, first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "First-in-the-Nation AI Safety Law",
+    "quote": "The Artificial Intelligence Safety Measures Act establishes a framework requiring developers of the largest advanced AI systems to publicly disclose safety practices, report significant safety incidents, and maintain robust compliance processes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "First-in-the-Nation AI Safety Law",
+    "quote": "The law also creates confidential reporting channels and whistleblower protections for employees raising AI safety concerns.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "First-in-the-Nation AI Safety Law",
+    "quote": "require regular independent third-party safety audits of covered AI systems, ensuring oversight is conducted by qualified experts without financial conflicts of interest.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "statement of Anthropic",
+    "quote": "the sponsors, Senator Mary Edly-Allen and Representative Daniel Didech",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "statement of Encode AI",
+    "quote": "It builds on the frameworks California and New York have already passed and goes one step further by requiring independent audits",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-IL-03/extra-2db1ba0c98/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "the clause 'which the Governor's office describes as a first among US states' removed (attribution and evaluation do not belong in the summary); 'frontier-model safety law' replaced by the release's own wording; audits by qualified experts without financial conflicts of interest added",
+   "notes": "the sentence on thresholds, penalties and the enforcing authority resting on law-firm and press summaries moved to verification.note; sponsors added; the comparison with SB 53 and the RAISE Act kept, as the release states it",
+   "official_url": "the temporary Prezly preview URL replaced by the published release's permanent URL, stored in this run with the same text",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 6 Jul 2026; the release says it takes effect on 1 Jan 2027. Today is 18 Oct 2026, before that date, so 'Adopted, not yet in force' stands.",
+  "scope_reasoning": "AI-specific state law on safety frameworks, incident reporting and audits for developers of the largest AI systems; in scope with no note.",
+  "date_reasoning": "date_published 6 Jul 2026, the release date on which it says the Governor signed the bill 'today'; date_in_force 1 Jan 2027 from the release."
+ },
+ "extra_urls": [
+  {
+   "url": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+   "reason": "The published version of the stored press release (the stored copy is a Prezly preview with a temporary URL); same title and date, no preview banner. Needed so that official_url points at a stable URL. Stored in this run."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "official_identifier 'SB 315 (104th General Assembly)': the stored releases show SB 315 but not the General Assembly; the Public Act number (a tracker gives 104-0538) is not stored. Both need the ILGA bill-status page or the Public Act text; ilga.gov refused connections in this run.",
+  "The thresholds, penalties and enforcing authority of the Act are not in any stored file; the summary leaves them out until the enrolled text is stored."
+ ]
+}

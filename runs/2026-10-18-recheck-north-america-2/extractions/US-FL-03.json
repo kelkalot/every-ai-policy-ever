@@ -1,0 +1,280 @@
+{
+ "cand_id": "US-FL-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-03",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for SB 1680 (2024), the Senate Judiciary Committee analyses of January 2024 and the enrolled text of CS/CS/SB 1680 (20241680er, 6 pages), stored on 14 Oct 2026 from flsenate.gov (the archiver found them unchanged on 17 Oct 2026), and, stored in this run, the 2026 Florida Statutes pages for ss. 827.072 and 282.802 and the bill page and House final analysis of CS/CS/HB 1159 (2026). The bill page confirms the title, sponsors, history, floor votes (40-0 and 114-0), approval by the Governor on 26 Apr 2024, Chapter No. 2024-118 and the 1 Jul 2024 effective date; the enrolled text confirms every provision in the summary, the council details in the notes and the effective-date clause. The statute pages show both sections in force in the 2026 edition, s. 827.072 renamed 'Generated child sexual abuse material' with second-degree felonies for creating and transmitting it, and history notes citing ch. 2026-18 and ch. 2026-20 (s. 827.072) and ch. 2026-66 (s. 282.802); s. 282.802 now refers to s. 286.101(1) for foreign countries of concern instead of s. 287.138(1). The statute pages give no amendment dates, so date_last_updated stays the year 2026; the approval (31 Mar 2026) and effective date (1 Jul 2026) of ch. 2026-20 come from the HB 1159 bill page and final analysis. The Judiciary analyses describe an earlier version (for example 13 appointed experts on the council rather than five) and were not used for the summary."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "bill heading",
+    "quote": "CS/CS/SB 1680: Advanced Technology",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "bill heading",
+    "quote": "GENERAL BILL by Rules; Judiciary; Bradley",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "Bill History, 4/26/2024",
+    "quote": "4/26/2024 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "Last Action",
+    "quote": "Last Action: 4/29/2024 - Chapter No. 2024-118",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 1, Section 1",
+    "quote": "Section 1. Section 282.802, Florida Statutes, is created to",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 5, Section 2",
+    "quote": "Section 2. Section 827.072, Florida Statutes, is created to",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "Bill History, 4/26/2024",
+    "quote": "4/26/2024 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "bill heading",
+    "quote": "Effective Date: 7/1/2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 6, Section 4",
+    "quote": "Section 4. This act shall take effect July 1, 2024.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "Bill History, 4/29/2024",
+    "quote": "4/29/2024 • Chapter No. 2024-118",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "bill heading",
+    "quote": "Effective Date: 7/1/2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C002/2026-10-14/official.html",
+    "sha256": "f7388b616dd3f0c852f55cae8de660af0aea0095f45c2f47262d911d0d696c65",
+    "locator": "Bill History, 4/26/2024",
+    "quote": "4/26/2024 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 1",
+    "quote": "Be It Enacted by the Legislature of the State of Florida:",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 2, s. 282.802(2)",
+    "quote": "development and deployment of new technologies and provide",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 3, s. 282.802(7)(a)2.",
+    "quote": "reforms and the creation of a state code of ethics for",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 3, s. 282.802(7)(a)4.",
+    "quote": "4. Evaluate common standards for artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 4, s. 282.802(7)(a)6.",
+    "quote": "6. Determine the manner in which artificial intelligence is",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 5, s. 827.072(2)(b)",
+    "quote": "(b) A person who intentionally creates generated child",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-29f99abefe/2026-10-17/official.html",
+    "sha256": "86b62f7328a4f5ecb17b8b92999f1a2b35688f8a2b1798bb55042b7be0f0a995",
+    "locator": "s. 827.072, history note",
+    "quote": "History.—s. 2, ch. 2024-118; s. 9, ch. 2026-18; s. 9, ch. 2026-20.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-7f21100d3d/2026-10-17/official.html",
+    "sha256": "433aed12e1975e9d71fde45726df58f8660c204d30e0b0d42b4f436638ec7967",
+    "locator": "s. 282.802, history note",
+    "quote": "History.—s. 1, ch. 2024-118; s. 13, ch. 2026-66.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-29f99abefe/2026-10-17/official.html",
+    "sha256": "86b62f7328a4f5ecb17b8b92999f1a2b35688f8a2b1798bb55042b7be0f0a995",
+    "locator": "s. 827.072 heading",
+    "quote": "827.072 Generated child sexual abuse material.—",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-29f99abefe/2026-10-17/official.html",
+    "sha256": "86b62f7328a4f5ecb17b8b92999f1a2b35688f8a2b1798bb55042b7be0f0a995",
+    "locator": "s. 827.072(2)(c)",
+    "quote": "(c) A person who intentionally creates generated child sexual abuse material commits a felony of the second degree",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-29f99abefe/2026-10-17/official.html",
+    "sha256": "86b62f7328a4f5ecb17b8b92999f1a2b35688f8a2b1798bb55042b7be0f0a995",
+    "locator": "s. 827.072(2)(b)1.",
+    "quote": "was transmitting generated child sexual abuse material to another person in this state or in another jurisdiction commits a felony of the second degree",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-29f99abefe/2026-10-17/official.html",
+    "sha256": "86b62f7328a4f5ecb17b8b92999f1a2b35688f8a2b1798bb55042b7be0f0a995",
+    "locator": "s. 827.072, history note",
+    "quote": "History.—s. 2, ch. 2024-118; s. 9, ch. 2026-18; s. 9, ch. 2026-20.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-8dfce91819/2026-10-17/official.html",
+    "sha256": "49cfb8d9875cf1a80f8708c9663ab711675a9ab7392bdc88947447c1a58fd433",
+    "locator": "Bill History, 3/31/2026",
+    "quote": "3/31/2026 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-8dfce91819/2026-10-17/official.html",
+    "sha256": "49cfb8d9875cf1a80f8708c9663ab711675a9ab7392bdc88947447c1a58fd433",
+    "locator": "bill heading",
+    "quote": "Effective Date: 7/1/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-8dfce91819/2026-10-17/document-1.pdf",
+    "sha256": "e074b23f2f2a360aad874a79525dd633d1f6dbcaaab597a0d3d96a021166d810",
+    "locator": "page 3",
+    "quote": "The bill was approved by the Governor on March 31, 2026, ch. 2026-20, L.O.F., and will become effective on July 1, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-7f21100d3d/2026-10-17/official.html",
+    "sha256": "433aed12e1975e9d71fde45726df58f8660c204d30e0b0d42b4f436638ec7967",
+    "locator": "s. 282.802(7)(a)6.",
+    "quote": "Determine the manner in which artificial intelligence is being exploited by bad actors, including foreign countries of concern as defined in s. 286.101(1).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-FL-03/2026-10-14/secondary.pdf",
+    "sha256": "14bd2de473d7ea8010a7b57914fbab3eb99279bc868e21a9c5eebadfe1a2701d",
+    "locator": "page 4, s. 282.802(7)(a)6.",
+    "quote": "concern as defined in s. 287.138(1).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-7f21100d3d/2026-10-17/official.html",
+    "sha256": "433aed12e1975e9d71fde45726df58f8660c204d30e0b0d42b4f436638ec7967",
+    "locator": "s. 282.802, history note",
+    "quote": "History.—s. 1, ch. 2024-118; s. 13, ch. 2026-66.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-7f21100d3d/2026-10-17/official.html",
+    "sha256": "433aed12e1975e9d71fde45726df58f8660c204d30e0b0d42b4f436638ec7967",
+    "locator": "s. 282.802(3)(g)",
+    "quote": "Five representatives with senior level experience or expertise in artificial intelligence, cloud computing, identity management, data science, machine learning, government procurement",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-03/extra-7f21100d3d/2026-10-17/official.html",
+    "sha256": "433aed12e1975e9d71fde45726df58f8660c204d30e0b0d42b4f436638ec7967",
+    "locator": "s. 282.802(8)(a)3.",
+    "quote": "Protect Floridians from bad actors who use artificial intelligence.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, with the statute pages and the HB 1159 sources now stored; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill page records approval by the Governor on 4/26/2024 and Chapter No. 2024-118 on 4/29/2024, with 'Effective Date: 7/1/2024'; the enrolled text says 'This act shall take effect July 1, 2024.' That date is past (18 Oct 2026). Both sections the law created are in the 2026 Florida Statutes, amended but not repealed (history notes citing ch. 2026-18, ch. 2026-20 and ch. 2026-66). 'In force' stands.",
+  "scope_reasoning": "Creates a state council whose duties include AI safety and security standards and AI ethics in state government, and an offence for AI-generated child sexual abuse material; in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the Governor's approval (26 Apr 2024) and date_in_force the effective date (1 Jul 2024). date_last_updated stays 2026: the history notes of ss. 827.072 and 282.802 cite three 2026 chapter laws; only ch. 2026-20 has dates in the stored files (approved 31 Mar 2026, effective 1 Jul 2026), so the year of the last amendment is known but not its day.",
+  "summary_reasoning": "The summary matches the enrolled text (council purpose and duties under s. 282.802(2) and (7), the AI safety and provenance standards duty, bad actors, the generated child pornography offences in s. 827.072); left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,229 @@
+{
+ "cand_id": "US-HI-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-HI-01",
+ "record": {
+  "summary": "Establishes consumer protections for AI companions. Operators must disclose that users are interacting with AI, provide crisis resources, adopt response protocols for user prompts about suicidal ideation or self-harm and report annually to the Behavioral Health Administration of the Department of Health. The Act sets guidelines against addictive software patterns aimed at minors and against chatbots presenting themselves as human; AI companions may not pose as licensed mental health professionals or encourage harmful behaviour, and violations are subject to Hawaii's consumer protection laws.",
+  "notes": "SB 3001, 'Relating to Artificial Intelligence', was signed by Governor Josh Green on 14 July 2026 as Act 248, at a bill-signing ceremony on AI together with HB 2137 (Act 247), which provides civil remedies against unauthorized AI-generated realistic digital imitations of individuals. Senator Jarrett Keohokalole co-introduced the bill. The Governor's release of 15 July 2026 closing the 2026 bill-signing period lists it among the 266 of 267 measures of the 2026 session that became law.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Office of the Governor of Hawaii news release of 15 Jul 2026 ('Gov. Green Completes Bill Signing Season and Issues Veto Decision', governor.hawaii.gov, stored 12 Oct 2026) and the Transparency Coalition's tracker article (transparencycoalition.ai, not an official site; stored again on 17 Oct 2026 with only a byline change). The 15 Jul release confirms that SB 3001 became Act 248 and describes its content. Stored in this run: the Governor's release of 14 Jul 2026 ('Gov. Green Signs Legislation to Support Kupuna Care and Strengthen AI Protection', governor.hawaii.gov/?p=12919), which says the Governor 'today signed' three measures including SB 3001, Act 248, and describes its disclosures, response protocols, annual reports and protections for minors; it supports date_published from an official source. Governor's Message No. 1350 (data.capitol.hawaii.gov), which would carry the Act text and its effective-date section, was requested but could not be stored. The 14 Jul 2026 effective date therefore rests only on the tracker, and the Act's own text has not been read; the summary follows the two Governor's releases."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions by requiring operators to disclose AI interactions, provide crisis resources and implement additional safeguards for minors.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "GOVERNOR GREEN COMPLETES BILL SIGNING SEASON",
+    "quote": "Governor Josh Green concluded this year's bill signing period and issued his final veto decision with 266 of the 267 measures becoming law",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "release header",
+    "quote": "FOR IMMEDIATE RELEASE July 14, 2026 HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "release header",
+    "quote": "FOR IMMEDIATE RELEASE July 14, 2026 HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "quote": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-17/secondary.html",
+    "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+    "locator": "SB 3001: Chatbot disclosures and safety protocols",
+    "quote": "Sponsors: Keohokalole, et al. Enacted July 14, 2026. Effective July 14, 2026.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-HI-01/2026-10-17/secondary.html",
+    "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+    "locator": "SB 3001: Chatbot disclosures and safety protocols",
+    "quote": "Sponsors: Keohokalole, et al. Enacted July 14, 2026. Effective July 14, 2026.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "quote": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-17/secondary.html",
+    "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+    "locator": "SB 3001: Chatbot disclosures and safety protocols",
+    "quote": "Enacted July 14, 2026. Effective July 14, 2026.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "It also prohibits AI companions from posing as licensed mental health professionals or encouraging harmful behavior",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "quote": "SB 3001, Act 248, requires operators of AI companions to issue certain disclosures, develop comprehensive response protocols for user prompts regarding suicidal ideation or self-harm, as well as make annual reports to the Behavioral Health Administration of the Department of Health.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "quote": "this measure establishes guidelines to prevent addictive software patterns targeted at minors and misrepresentations that a chatbot is of human likeness.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions by requiring operators to disclose AI interactions, provide crisis resources and implement additional safeguards for minors.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "It also prohibits AI companions from posing as licensed mental health professionals or encouraging harmful behavior, with violations subject to",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "release header",
+    "quote": "FOR IMMEDIATE RELEASE July 14, 2026 HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "HB 2137: RELATING TO ARTIFICIAL INTELLIGENCE, Act 247",
+    "quote": "enables victims of deepfake content to bring civil action for injunctive relief, punitive damages and monetary damages up to $25,000 per piece of content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html",
+    "sha256": "bd42925875f9686dea4804cefdf95551eab8e5deab598a3cb2a2b304483193db",
+    "locator": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "quote": "said Senator Jarrett Keohokālole, co-introducer of the bill and chair of the Senate Committee on Commerce and Consumer Protection",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "release header",
+    "quote": "Posted on Jul 15, 2026 in Latest Department News",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "GOVERNOR GREEN COMPLETES BILL SIGNING SEASON",
+    "quote": "with 266 of the 267 measures becoming law following the 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "As artificial intelligence (AI) continues to advance",
+    "quote": "HB 2137, Act 247, prohibits the harmful, unauthorized use of AI-generated realistic digital imitations of individuals.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "hedges removed ('According to the Governor's end-of-session release', 'Secondary trackers describe ... in line with the 2026 wave of state companion-chatbot statutes'); rewritten from the Governor's releases of 14 and 15 Jul 2026: response protocols for suicidal ideation or self-harm, annual reports to the Department of Health's Behavioral Health Administration, and guidelines against addictive patterns aimed at minors and human-likeness misrepresentation added",
+   "notes": "the sentences on secondary sources and unreadable pages moved to verification.note; the signing on 14 Jul 2026, the bill's title, the co-introducer and Act 247 (HB 2137) added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Governor signed SB 3001 as Act 248 on 14 Jul 2026 (release of that date). The tracker gives 14 Jul 2026 as both the enactment and the effective date; if the Act takes effect on approval, it has been in force since then (today 18 Oct 2026). 'In force' is kept, but the effective-date section of the Act could not be read: Governor's Message No. 1350 was not stored.",
+  "scope_reasoning": "AI-specific state law on AI companions; in scope with no note.",
+  "date_reasoning": "date_published 14 Jul 2026 from the Governor's release of that date, which says he 'today signed' SB 3001, Act 248. date_in_force 14 Jul 2026 rests only on the Transparency Coalition tracker (secondary)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://governor.hawaii.gov/?p=12919",
+   "reason": "Office of the Governor release 'Gov. Green Signs Legislation to Support Kupuna Care and Strengthen AI Protection', dated 14 Jul 2026 (posted 15 Jul 2026), which says the Governor 'today signed' SB 3001 (Act 248) and describes its disclosures, response protocols for suicidal ideation or self-harm, annual reports to the Department of Health's Behavioral Health Administration and protections for minors. Needed for date_published from an official source and for the summary."
+  },
+  {
+   "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/GM1350_.PDF",
+   "reason": "Governor's Message No. 1350, which search results tie to SB 3001 (Act 248, 14 Jul 2026): the Act as approved, its approval date and its effective-date section. Needed for date_in_force and the summary. Could not be stored in this run."
+  }
+ ],
+ "leads": [
+  {
+   "title": "HB 2137 (2026), Act 247, Hawaii, 'Relating to Artificial Intelligence': consumer protection standards and civil remedies against unauthorized AI-generated realistic digital imitations (deepfakes)",
+   "url": "https://governor.hawaii.gov/?p=12919",
+   "seen_in": "archive/US-HI-01/2026-10-12/official.html and archive/_runs/2026-10-18-recheck-north-america-2/US-HI-01/extra-20e3fe89a5/2026-10-17/official.html (Governor's releases of 15 and 14 Jul 2026)",
+   "why": "Hawaii deepfake law signed on 14 Jul 2026 with injunctive relief, punitive damages and up to USD 25,000 per piece of content; not in the register."
+  }
+ ],
+ "open_questions": [
+  "date_in_force (2026-07-14) rests only on a secondary tracker; the Act's effective-date section (Governor's Message No. 1350 on data.capitol.hawaii.gov) could not be stored. A person could provide it with tools/archive.py --provide.",
+  "The Act text has not been read: the summary follows the Governor's releases, and details such as the definition of AI companion, the minors' safeguards and the enforcement provisions are unconfirmed."
+ ]
+}

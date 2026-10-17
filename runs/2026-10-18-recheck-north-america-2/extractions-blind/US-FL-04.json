@@ -1,0 +1,127 @@
+{
+ "cand_id": "US-FL-04",
+ "decision": "update",
+ "target_id": "US-FL-04",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "bill header",
+    "quote": "SB 2-D: Artificial Intelligence Bill of Rights",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 1",
+    "quote": "INTRODUCER: Senator Brodeur",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "page header",
+    "quote": "Home > Session > 2026D > Senate Bill 2D",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 1",
+    "quote": "BILL: SB 2-D",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill Text",
+    "quote": "S 2D Filed 4/24/2026 11:27 AM",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/29/2026",
+    "quote": "4/29/2026 House • Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/28/2026",
+    "quote": "Passed; YEAS 37 NAYS 1",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "bill header",
+    "quote": "GENERAL BILL by Brodeur",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/29/2026",
+    "quote": "4/29/2026 House • Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-2.pdf",
+    "sha256": "41c97fe1ec05dff6c9beb9ced0b8acd8360e9de83a1dbdc71d01776000c92513",
+    "locator": "page 1",
+    "quote": "Yeas - 37 Nays - 1 Not Voting - 2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Related Bills",
+    "quote": "Last Action: 4/29/2026 H Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 1",
+    "quote": "The bill provides an effective date of July 1, 2026.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Passed the Senate 37-1 on 28 Apr 2026; the bill page records 'Died in Information Technology Budget & Policy Subcommittee' on 29 Apr 2026 and no later action. A bill that died in a special session cannot commence, so Lapsed.",
+  "scope_reasoning": "Companion chatbot and AI consumer-protection bill; in scope as a pending/lapsed bill."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The bill text itself was not stored; the summary rests on the Senate Rules Committee analysis of the filed version.",
+  "The notes claim that the title matches CS/SB 482 of the 2026 Regular Session (US-FL-01); that comparison is not checkable from this record's stored files."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,323 @@
+{
+ "cand_id": "US-FL-12",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-12",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for HB 1361 (2024), the Senate Education Pre-K-12 Committee's House message summary of 7 Mar 2024 and the House staff final bill analysis, stored from flsenate.gov on 14 Oct 2026 and found unchanged by the archiver on 17 Oct 2026, and stored again for this run, on 17 Oct 2026, the enrolled text of CS/HB 1361 and the page for s. 1002.321 in the 2026 Florida Statutes (flsenate.gov). The bill page confirms the title, sponsors, history and votes, approval by the Governor on 9 May 2024, Chapter No. 2024-162 and the 7/1/2024 effective date; the final analysis confirms approval, chapter and effective date. The enrolled text gives s. 1002.321(3) (grants during the school day and the platform conditions), s. 1004.561(6) (grants and the $2 million recurring appropriation) and the July 1, 2024 effective date; the 2026 statute shows subsection (3) with the same wording, apart from a hyphen ('district- and school-level'), and a history ending with s. 1, ch. 2024-162. Whether s. 1004.561(6) has been amended since 2024 was not checked: its 2026 text was not stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/official.html",
+    "sha256": "75150b0a42a97f17daa9d1be5dd40020df0ce59096578485072a4bb119fcf928",
+    "locator": "bill heading",
+    "quote": "CS/HB 1361: Education",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/official.html",
+    "sha256": "75150b0a42a97f17daa9d1be5dd40020df0ce59096578485072a4bb119fcf928",
+    "locator": "Last Action",
+    "quote": "Chapter No. 2024-162",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 1, header",
+    "quote": "CS/HB 1361, Engrossed 1  2024 Legislature",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, header",
+    "quote": "SPONSOR(S): Education & Employment Committee, Temple and others",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on May 9, 2024, ch. 2024-162, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on May 9, 2024, ch. 2024-162, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/official.html",
+    "sha256": "75150b0a42a97f17daa9d1be5dd40020df0ce59096578485072a4bb119fcf928",
+    "locator": "Last Action",
+    "quote": "Chapter No. 2024-162",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on May 9, 2024, ch. 2024-162, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on May 9, 2024, ch. 2024-162, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/official.html",
+    "sha256": "75150b0a42a97f17daa9d1be5dd40020df0ce59096578485072a4bb119fcf928",
+    "locator": "bill summary",
+    "quote": "Effective Date: 7/1/2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 31, Section 10",
+    "quote": "This act shall take effect July 1, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on May 9, 2024, ch. 2024-162, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 31, Section 10",
+    "quote": "This act shall take effect July 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "page title",
+    "quote": "Chapter 1002 Section 321 - 2026 Florida Statutes - The Florida Senate",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "s. 1002.321, History",
+    "quote": "History.—s. 1, ch. 2011-137; s. 2, ch. 2012-192; s. 1, ch. 2013-225; s. 23, ch. 2014-39; s. 3, ch. 2021-35; s. 23, ch. 2023-16; s. 31, ch. 2024-160; s. 1, ch. 2024-162.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill was approved by the Governor on May 9, 2024, ch. 2024-162, L.O.F., and will become effective on July 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, header",
+    "quote": "GOVERNOR’S ACTION: Approved",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 10, Digital Learning",
+    "quote": "The bill authorizes grants funds for subscription fees and professional learning to support and accelerate learning for students in grades 6 through 12 for artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 10, Digital Learning",
+    "quote": "Uses large language models based on GPT-4, its equivalent, or a successor and be on a closed-system.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 10, Digital Learning",
+    "quote": "Provides one-on-one tutoring aligned to the Benchmarks for Excellent Student Thinking (B.E.S.T.) Standards for reading and mathematics.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 10, Digital Learning",
+    "quote": "Provides district and school-level reporting and parental access to artificial intelligence interactions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-1.pdf",
+    "sha256": "d46f0dd5179a9f6d52292a1381afcbc745a5812d023655d4a6644506d92a85ee",
+    "locator": "page 1",
+    "quote": "an appropriation of $2 million in recurring funds from the General Revenue Fund to the University of Florida Lastinger Center for Learning to administer grants for artificial intelligence tutoring platforms",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "s. 1002.321(3)",
+    "quote": "A school district may receive grant funds for subscription fees and professional learning to support and accelerate learning for students in grades 6 through 12 during the school day.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "s. 1002.321(3)(a)",
+    "quote": "Uses large language models based on GPT-4, its equivalent, or a successor, and is on a closed system.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "s. 1002.321(3)(e)",
+    "quote": "Provides district- and school-level reporting and parental access to artificial intelligence interactions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 24, s. 1004.561(6)(a)",
+    "quote": "implementation of s. 1002.321(3) and award grant funds to",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 24, s. 1004.561(6)(b)",
+    "quote": "The sum of $2 million in recurring funds from the",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The House concurred in the Senate amendment as amended by the House on March 7, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/official.html",
+    "sha256": "75150b0a42a97f17daa9d1be5dd40020df0ce59096578485072a4bb119fcf928",
+    "locator": "Vote History - Floor",
+    "quote": "40 Yeas - 0 Nays",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/official.html",
+    "sha256": "75150b0a42a97f17daa9d1be5dd40020df0ce59096578485072a4bb119fcf928",
+    "locator": "Vote History - Floor",
+    "quote": "38 Yeas - 0 Nays",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill designates the University of Florida Lastinger Center for Learning (Center) as the administrator for the New Worlds Reading Initiative, codifies the Center into law, and establishes duties for the Center.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C011/2026-10-14/document-2.pdf",
+    "sha256": "656a83712b2a734af0df859a903b5b742b29b30415084ae49b3e1815260fc4d5",
+    "locator": "page 1, Summary Analysis",
+    "quote": "The bill establishes the New Worlds Tutoring Program, administered by the Center",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 3, Section 1",
+    "quote": "respectively, and subsection (3) of that section is amended to",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 23, Section 7",
+    "quote": "Section 7.  Section 1004.561, Florida Statutes, is created",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-3be957bf10/2026-10-17/official.pdf",
+    "sha256": "72e82dda52d86b19313675ace7d3ae7a9ab8bd91bc57c49a473226e2406ad31a",
+    "locator": "page 24, s. 1004.561(6)",
+    "quote": "(6)(a)  Collaborate with school districts on the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "s. 1002.321(3)",
+    "quote": "(3) CUSTOMIZED AND ACCELERATED LEARNING.—Artificial intelligence provides opportunities to customize and accelerate learning for students and reduce teacher workload.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-12/extra-34e0378984/2026-10-17/official.html",
+    "sha256": "007d3a2c592dc301989c35968dea052963c7913f048dae72bf608b664d1ad018",
+    "locator": "s. 1002.321, History",
+    "quote": "History.—s. 1, ch. 2011-137; s. 2, ch. 2012-192; s. 1, ch. 2013-225; s. 23, ch. 2014-39; s. 3, ch. 2021-35; s. 23, ch. 2023-16; s. 31, ch. 2024-160; s. 1, ch. 2024-162.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, with the enrolled text and the 2026 statute now stored for this run; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Approved by the Governor on 9 May 2024 as ch. 2024-162, L.O.F.; Section 10 of the enrolled text says the act takes effect July 1, 2024. The 2026 Florida Statutes still carry s. 1002.321(3) as the act enacted it, with a history ending in s. 1, ch. 2024-162, so no later law has amended or repealed the AI grant conditions. 'In force' stands.",
+  "scope_reasoning": "An education omnibus act whose AI content is a grant programme with conditions on the AI platforms it funds; borderline and included with the existing scope_note.",
+  "date_reasoning": "date_published is the Governor's approval, 9 May 2024; date_in_force is 1 Jul 2024. The chapter number was recorded on 13 May 2024, which is not an adoption date.",
+  "summary_reasoning": "The 2026 text of s. 1002.321(3) and the enrolled text support every claim of the current summary: grants for subscription fees and professional learning for grades 6 to 12 during the school day, the platform conditions (GPT-4, its equivalent or a successor on a closed system, one-on-one tutoring aligned to the B.E.S.T. Standards, district- and school-level reporting and parental access to AI interactions) and, in s. 1004.561(6), the Lastinger Center's grants with $2 million in recurring funds. Left unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.flsenate.gov/Session/Bill/2024/1361/BillText/er/PDF",
+   "reason": "enrolled text of CS/HB 1361: s. 1002.321(3), s. 1004.561(6) and the effective date, cited in summary and notes (stored in this run)"
+  },
+  {
+   "url": "https://www.flsenate.gov/Laws/Statutes/2026/1002.321",
+   "reason": "s. 1002.321, F.S., in the 2026 Florida Statutes: subsection (3) still in force, history ending with ch. 2024-162 (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "Notes say s. 1004.561(6), F.S. holds the grants and the $2 million recurring appropriation; this rests on the enrolled text of 2024. The current (2026) text of s. 1004.561 was not stored, so a later amendment of subsection (6) is not ruled out."
+ ]
+}

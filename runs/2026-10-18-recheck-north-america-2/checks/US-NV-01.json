@@ -1,0 +1,49 @@
+{
+ "cand_id": "US-NV-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AB 406 bars AI providers from offering a system programmed to provide professional mental or behavioral health care, civil penalty up to $15,000 per violation",
+   "verdict": "supported",
+   "locator": "secondary page, What Is Prohibited Under AB406, 1 and 4"
+  },
+  {
+   "claim": "Public schools may not use AI for school counsellor, psychologist or social worker duties; Department of Education to adopt an AI-use policy",
+   "verdict": "supported",
+   "locator": "secondary page, What Is Allowed Under AB406, 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  {
+   "url": "https://archive.leg.state.nv.us/Session/83rd2025/Bills/AB/AB406_EN.pdf",
+   "reason": "official page found by the targeted search for a newer or fuller text; not stored"
+  }
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Only the verification note changes. The sole stored file is the NASW Nevada page (secondary), which supports title, status, summary and the sponsor. Date, effective date, chapter number, issuing-body details and the NRS chapters are not supported by any stored file and are not changed by this run; the record stays at level C. The targeted search found no amendment or repeal; it did find the enrolled text on the Nevada Legislature's site (AB406_EN.pdf), which the archiver could not fetch (HTTP 403), so a person could provide it."
+}

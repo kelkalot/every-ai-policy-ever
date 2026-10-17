@@ -1,0 +1,115 @@
+{
+ "cand_id": "US-FL-09",
+ "decision": "update",
+ "target_id": "US-FL-09",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "bill header",
+    "quote": "CS/CS/HB 527: Mandatory Human Reviews of Insurance Claim Denials",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "bill header",
+    "quote": "by Commerce Committee; Insurance & Banking Subcommittee; Cassel;",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/document-2.pdf",
+    "sha256": "aec0556acefd07784be146c97e87f93c20db7f62fb2ec77beb768abd4af9bde4",
+    "locator": "page 1",
+    "quote": "BILL #: CS/CS/HB 527",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "Bill History, 11/24/2025",
+    "quote": "11/24/2025 House • Filed",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "Bill Text",
+    "quote": "H 527 c2 2/27/2026 6:15 PM",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "Bill History, 3/13/2026",
+    "quote": "3/13/2026 Senate • Died in Rules",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "Bill History, 3/5/2026",
+    "quote": "CS passed; YEAS 108, NAYS 0",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "bill header",
+    "quote": "GENERAL BILL by Commerce Committee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/official.html",
+    "sha256": "aa043b42ed2d1903aa908eb484326a03886585d0e665b8e5eb8f76b251413a34",
+    "locator": "Bill History, 3/13/2026",
+    "quote": "3/13/2026 Senate • Died in Rules",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C008/2026-10-14/document-2.pdf",
+    "sha256": "aec0556acefd07784be146c97e87f93c20db7f62fb2ec77beb768abd4af9bde4",
+    "locator": "page 1",
+    "quote": "The bill provides an effective date of July 1, 2026.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Passed the House 108-0 on 5 Mar 2026 and was referred to Senate Rules, where it 'Died in Rules' on 13 Mar 2026; no later action, so Lapsed.",
+  "scope_reasoning": "Bill on human review of AI-assisted insurance claim denials; in scope as a lapsed bill."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The bill text itself was not stored; the summary rests on the House Commerce Committee analysis of CS/CS/HB 527."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,55 @@
+{
+ "cand_id": "US-CO-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "judgment-differs",
+   "why": "The legislature page says 'EFFECTIVE May 17, 2024' and the safety clause makes the act effective on signature, so the quote supports 2024-05-17; but the duties were deferred to 30 Jun 2026 and the act was then repealed and reenacted, so a reader may expect a later date. The notes explain it."
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "SB 26-189 (signed 14 May 2026, effective 1 Jan 2027) repeals and reenacts part 17, so Superseded is defensible; the extractor's open question about whether the old duties applied between 30 Jun 2026 and 1 Jan 2027 is a human call."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Deployers must implement a risk management policy and program and complete impact assessments",
+   "verdict": "supported",
+   "locator": "session law pages 8-9, 6-1-1703 (2)(a), (3)(a)"
+  },
+  {
+   "claim": "Attorney General has exclusive enforcement authority",
+   "verdict": "supported",
+   "locator": "session law page 17, 6-1-1706 (1)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title, signing date and identifier are supported by official sources. Targeted search found nothing newer than SB 26-189 (US-CO-02); the xAI/DOJ litigation and stipulated order are described in the notes from a DOJ release and a law-firm page. The issuing_body naming the Governor is unchanged and is covered by the extractor's open question."
+}

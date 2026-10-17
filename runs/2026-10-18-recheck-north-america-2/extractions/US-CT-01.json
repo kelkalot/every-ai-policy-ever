@@ -1,0 +1,364 @@
+{
+ "cand_id": "US-CT-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CT-01",
+ "record": {
+  "summary": "Omnibus AI and online-safety law. Frontier developers (over 10^26 operations) may not adopt rules or contracts allowing retaliation against employees reporting catastrophic-risk dangers (over 50 deaths or USD 1 billion in damage from expert CBRN weapons help or unsupervised cyberattacks), and large ones need anonymous internal reporting. AI companion operators must detect suicide and self-harm risk, refer users to 988, disclose that the companion is not human and shield minors from harmful or manipulative conduct. It also requires notices on AI in employment decisions, provenance data in AI-generated media, state agencies' AI impact assessments and limits on minors' algorithmic feeds.",
+  "notes": "Approved by the Governor on 27 May 2026; the Governor's press release announcing the signing is dated 2 June 2026, and a sponsor calls the law the C.A.R.T. Act. Effective dates are staggered: sections 16, 28, 29, 32 and 35 on passage; the AI Academy, the legislative AI working group and several education and workforce sections on 1 July 2026; the subscription, frontier-developer, employment-decision, anti-discrimination, provenance and state-agency sections on 1 October 2026, with large frontier developers' internal reporting due by 1 January 2027 and the duties on automated employment-related decision technology applying to technology deployed from 1 October 2027; the AI companion sections 4 to 6 on 1 January 2027; the regulatory sandbox plan (section 3), the Department of Consumer Protection's pilot of independent verification organisations for AI models (section 33, until 30 June 2030) and the Chief Data Officer changes on 1 July 2027; and the minors' social media section 39 on 1 January 2028. Violations of the subscription, AI companion, employment-decision and provenance sections are unfair or deceptive trade practices enforced solely by the Attorney General, and sections 1, 5, 12 and 15 rule out a private right of action; a frontier developer is liable for civil penalties of up to USD 1,000 per violation of section 2. Under sections 13 and 14 the use of automated employment-related decision technology is no defence to a discrimination complaint.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Public Act PDF from cga.ct.gov (74 pages, copy of 17 Oct 2026) and the Governor's press release of 2 Jun 2026 on portal.ct.gov (stored 11 Oct 2026 as the secondary source). The Act confirms the title, the Public Act and bill numbers, 'Approved May 27, 2026', every provision and the effective date of each section; the press release confirms that Governor Lamont signed Public Act 26-15. The passage dates in each chamber (21 Apr and 1 May 2026), given earlier from the General Assembly's bill-status page, the expansion of 'CART' and the statement that the Act replaced the failed SB 2 rest on no stored file and were dropped from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 1",
+    "quote": "Substitute Senate Bill No. 5 Public Act No. 26-15 AN ACT CONCERNING ONLINE SAFETY.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 1",
+    "quote": "Be it enacted by the Senate and House of Representatives in General Assembly convened:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 74",
+    "quote": "Governor's Action: Approved May 27, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-11/secondary.html",
+    "sha256": "61429e946078872dfd935b88adbc33766ff278d780ba08ee645bd582772ecdc2",
+    "locator": "press release",
+    "quote": "Governor Ned Lamont today announced that he has signed into law a multi-pronged, bipartisan piece of legislation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 1",
+    "quote": "Substitute Senate Bill No. 5 Public Act No. 26-15",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-11/secondary.html",
+    "sha256": "61429e946078872dfd935b88adbc33766ff278d780ba08ee645bd582772ecdc2",
+    "locator": "press release",
+    "quote": "The legislation, Public Act 26-15, was written as a collaborative effort",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 74",
+    "quote": "Governor's Action: Approved May 27, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 1",
+    "quote": "Section 1. (NEW) (Effective October 1, 2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 3",
+    "quote": "Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section:",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 74",
+    "quote": "Governor's Action: Approved May 27, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 3",
+    "quote": "Sec. 2. (NEW) (Effective October 1, 2026) (a) As used in this section:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 8",
+    "quote": "Sec. 4. (NEW) ( Effective January 1, 2027 ) As used in this section and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 67",
+    "quote": "Sec. 39. (NEW) (Effective January 1, 2028) (a) As used in this section:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 1",
+    "quote": "Be it enacted by the Senate and House of Representatives in General Assembly convened:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 5, section 2(a)(8)",
+    "quote": "power that is greater than ten to the twen ty-sixth power integer or floating-point operations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 3, section 2(a)(1)",
+    "quote": "will materially contribute to the death of, or serious injury to, more than fifty individuals, or more than one billion dollars in damage to covered property",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 3, section 2(a)(1)",
+    "quote": "provides expert -level assistance in the creation or release of a chemical, biological, radiological or nuclear weapon",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 3, section 2(a)(1)",
+    "quote": "engages in any conduct, with no meaningful human oversight, intervention or supervision, that constitutes a cyberattack",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 5, section 2(b)",
+    "quote": "No frontier developer shall make, adopt, enforce or enter into any rule, regulation, policy or contract that provides that:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 6, section 2(b)(2)",
+    "quote": "may discipline or retaliate against such covered employee if such covered employee has reasonable cause to believe that an issue reported by such covered employee indicates",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 6, section 2(c)(1)",
+    "quote": "each large frontier developer shall establish and maintain a reasonable internal process through which (A) a covered employee of such large frontier developer may anonymously submit a report",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 11, section 5(a)(1)(A)",
+    "quote": "including, but not limited to, the 9 -8-8 Nati onal Suicide Prevention Lifeline",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 11, section 5(a)(1)(B)",
+    "quote": "Claiming that the artificial intelligence companion is a human being",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 12, section 5(b)",
+    "quote": "than eighteen years of age, at least once hourly during any continuous artificial intelligence companion interaction",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 13, section 6(a)(1)",
+    "quote": "(E) Engaging in any romantic, erotic or sexually explicit interaction with such user;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 13, section 6(a)(1)(F)",
+    "quote": "Engaging such user through any manipulative technique that is intended to extend interaction between such user and such artificial intelligence companion",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 18, section 10",
+    "quote": "provide to such employee or applicant a written notice disclosing: (1) That the deployer has deployed an automated employment -related decision technology;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 28, section 15(b)(1)(A)",
+    "quote": "include provenance data in any audio, image or video content, or in any content that is a combination thereof, that is created or materially altered by such covered provider's generative artificial  intelligence system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 67, section 38(b)(3)",
+    "quote": "the state agency shall complete an artificial intelligence impact assessment in compliance with policies and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 72, section 39(d)(2)(A)",
+    "quote": "media items in the manner set forth in subdivision (1) of subsection (b) of this section to a maximum period of one hour per day",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-CT-01/2026-10-11/secondary.html",
+    "sha256": "61429e946078872dfd935b88adbc33766ff278d780ba08ee645bd582772ecdc2",
+    "locator": "press release date",
+    "quote": "Initiatives to Upskill Connecticut's Workforce 6/02/2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-11/secondary.html",
+    "sha256": "61429e946078872dfd935b88adbc33766ff278d780ba08ee645bd582772ecdc2",
+    "locator": "press release",
+    "quote": "With the C.A.R.T. Act, Connecticut is choosing to lead with clear rules, public trust, and real accountability.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 29",
+    "quote": "Sec. 16. (NEW) (Effective from passage) (a) As used in this section:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 31",
+    "quote": "Sec. 17. (NEW) ( Effective July 1, 2026 ) (a) As used in this section,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 33",
+    "quote": "Sec. 18. (Effective July 1, 2026) (a) As used in this section:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 6, section 2(c)(1)",
+    "quote": "Not later than January 1, 2027, each large frontier developer shall establish and maintain a reasonable internal process",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 17, section 9(a)",
+    "quote": "a deployer who, on or after October 1, 2027, deploys one or more automated employment-related decision technologies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 8",
+    "quote": "Sec. 3. ( Effective July 1, 2027 ) The Commissioner of Economic and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 53",
+    "quote": "The pilot program shall terminate on June 30, 2030.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 60",
+    "quote": "Sec. 36. Section 4 -67p of the general statutes is repealed and the following is substituted in lieu thereof (Effective July 1, 2027):",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 12, section 5(c)",
+    "quote": "shall be enforced solely by the Attorney  General. The provisions of section 42 -110g of the general statutes shall not apply to any such violation. Nothing in this section shall be construed as providing the basis for a private right of action.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 7, section 2(e)",
+    "quote": "penalty in an amount that does not exceed one thousand dollars per violation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 19, section 13",
+    "quote": "The use of an automated employment-related decision technology, as defined in section 7 of this act, shall not be a defense against a complaint alleging a discriminatory practice",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CT-01/2026-10-17/official.pdf",
+    "sha256": "98052c119778bff6d594a94c4a9f927f75212a2d814cf27afcf30d9274c11fbf",
+    "locator": "page 38, section 18(f)",
+    "quote": "Not later than February 1, 2027, the working group shall submit a report on its findings and recommendations",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the Act: adds the provenance duty for generative AI providers with over a million monthly users (section 15), state agencies' AI impact assessments (section 38) and the employment-decision notices; 'AI in hiring and minors' social media' made specific",
+   "notes": "unsupported passage dates, the expansion of 'CART' and the claim about SB 2 removed; effective dates of every group of sections added (on passage, 1 Jul 2026, 1 Oct 2026, 1 Jan 2027, 1 Jul 2027, 1 Jan 2028), with the 2027 dates inside sections 2 and 9 and 10, the verification pilot, enforcement and the anti-discrimination rule",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Approved 27 May 2026. Sections effective on passage, on 1 Jul 2026 and on 1 Oct 2026 (sections 1, 2, 7 to 15, 26, 30, 37, 38) are in force as of today, 18 Oct 2026; sections 4 to 6 and 19 to 22 take effect on 1 Jan 2027, sections 3, 33 and 36 on 1 Jul 2027 and section 39 on 1 Jan 2028. 'Partially in force' stands.",
+  "scope_reasoning": "AI-specific omnibus state law (frontier-model whistleblowing, AI companions, automated employment decisions, provenance, state agency AI) with minors' social media rules attached; in scope with no note.",
+  "date_reasoning": "date_published 27 May 2026 from 'Governor's Action: Approved May 27, 2026'; the press release of 2 Jun 2026 is the announcement. date_in_force 1 Oct 2026 is kept as the date the AI provisions of sections 1 and 2 (and 7 to 15 and 38) take effect; a few non-regulatory sections took effect earlier, on passage or on 1 Jul 2026, as the notes say."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

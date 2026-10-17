@@ -1,0 +1,65 @@
+{
+ "cand_id": "US-ME-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "judgment-differs",
+   "why": "The stored session law gives Public Law 2025, chapter 294 and section 1500-Y. The official Maine Revised Statutes page (not stored) now codifies it as 10 M.R.S. section 1500-DD in chapter 241, with the history note 'PL 2025, c. 294, sec. 1 (NEW). RR 2025, c. 1, Pt. A, sec. 16 (RAL)'. The record's '10 M.R.S. 1500-Y' is the bill's section number, not the current citation."
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "A person may not use an AI chatbot in trade or commerce in a way that may mislead a consumer into believing it is a human unless clearly notified",
+   "verdict": "supported",
+   "locator": "bill text page 1, 1500-Y(2)"
+  },
+  {
+   "claim": "A violation is a violation of the Maine Unfair Trade Practices Act",
+   "verdict": "supported",
+   "locator": "bill text page 1, 1500-Y(3)"
+  }
+ ],
+ "newer_versions": [
+  {
+   "what": "Codified text at 10 M.R.S. section 1500-DD (renumbered from 1500-Y by the Revisor)",
+   "url": "https://legislature.maine.gov/statutes/10/title10sec1500-DD-1.html",
+   "affects": [
+    "official_identifier",
+    "notes"
+   ]
+  }
+ ],
+ "extra_urls": [
+  "https://legislature.maine.gov/statutes/10/title10sec1500-DD-1.html"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Newer form on an official site: legislature.maine.gov/statutes/10/title10sec1500-DD-1.html shows the Act codified as section 1500-DD after revisor renumbering. Nothing changed in substance, so only official_identifier (a value this run does not change) and the notes' 'chapter 239' wording (true of the enacted bill, now chapter 241) are affected; the summary, dates and status are supported and can be merged. I list the statute URL in extra_urls to store it. Effective date 24 Sep 2025 is supported by the Legislative Digest."
+}

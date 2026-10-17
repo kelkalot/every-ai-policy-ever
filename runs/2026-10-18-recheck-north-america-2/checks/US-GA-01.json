@@ -1,0 +1,63 @@
+{
+ "cand_id": "US-GA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Disclosure at the start of each session and at least every three hours, hourly for minors",
+   "verdict": "supported",
+   "locator": "page 4 s. 39-5-6(b)(1) and (b)(2)"
+  },
+  {
+   "claim": "Civil penalty of up to $10,000 per knowing violation, Attorney General enforcement, 30-day cure for first non-knowing violations",
+   "verdict": "supported",
+   "locator": "page 7 s. 39-5-6(k)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  {
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248169",
+   "reason": "official page found by the targeted search for a newer or fuller text; not stored"
+  }
+ ],
+ "related_missing": [
+  "US-HI-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The stored official text is the 'as passed' version hosted by the Governor; the Senate release confirms signing. The signing day stays out (month only). The legis.ga.gov document in the search results may be the final text and could be stored for a later run. No amendment found."
+}

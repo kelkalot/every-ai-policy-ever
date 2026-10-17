@@ -1,0 +1,291 @@
+{
+ "cand_id": "US-AR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-AR-01",
+ "record": {
+  "issuing_body": "Arkansas General Assembly (95th General Assembly, Regular Session 2025; sponsors Rep. S. Meeks and Sen. J. English); approved by the Governor",
+  "summary": "Amends Arkansas Code § 25-1-128 to require every taxpayer-funded public entity to create an artificial intelligence and automated decision tool policy. The policy must define the authorized use of AI and of automated decision tools (systems using AI developed or modified to make, or be a controlling factor in, consequential decisions) and require an authorized human employee or designee to make any final decision, whatever the tool recommends. Employees must be trained on the appropriate use of such tools in deciding outcomes, state entities' policies must be available to the public on request, and public entities must set a disciplinary procedure for violations.",
+  "notes": "Filed on 1 Apr 2025; passed the House on 7 Apr 2025 and the Senate on 10 Apr 2025 with Senate Amendment No. 1, which only added Sen. J. English as a cosponsor; the House concurred on 14 Apr 2025 and the bill became Act 848, approved on 17 Apr 2025. The Act has no emergency clause or specified effective date, so it took effect on 5 Aug 2025, the effective date of such acts of the 2025 regular session, which adjourned sine die on 5 May 2025. It amends § 25-1-128 as already amended by Act 205 of 2025. Each policy must also prohibit using a public entity's technology resources to express personal political opinions to elected officials or lobby them (with exceptions), to engage in illegal activities or to override security procedures. The Department of Education, with the State Cybersecurity Office, must develop the technology resources and AI and automated decision tool policies used by each type of state educational institution.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Arkansas General Assembly bill page for HB1958 (2025R), the engrossed bill, Senate Amendment No. 1 and the Act 848 PDF, all stored on 12 Oct 2026 from arkleg.state.ar.us (the archiver found them unchanged on 17 Oct 2026). The bill page confirms the title, the sponsors, the history, the Act number and the Act date (4/17/2025); the Act confirms the provisions in the summary and notes, the absence of an emergency clause and its approval on 4/17/25. The stored files give the sponsors' initials only and do not name the Governor, so the issuing body no longer gives full names. The effective date of 5 Aug 2025 comes from Arkansas Attorney General Opinion No. 2025-032 of 12 May 2025 to the Secretary of State, stored in this run from ag-opinions.s3.amazonaws.com; that host is not listed as official, so the date rests on a source the evidence script counts as secondary until a person records who runs the host. That the Act is in force rests on that general rule and on the absence of any repeal in the stored files; no current text of Ark. Code § 25-1-128 was stored, so later amendments were not checked."
+  },
+  "date_in_force": "2025-08-05"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "bill heading",
+    "quote": "HB1958 - TO REQUIRE PUBLIC ENTITIES TO CREATE A POLICY CONCERNING THE AUTHORIZED USE OF ARTIFICIAL INTELLIGENCE.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History",
+    "quote": "Notification that HB1958 is now Act 848",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "page header",
+    "quote": "95th General Assembly - Regular Session, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "bill details",
+    "quote": "Lead Sponsor: S. Meeks Other Primary Sponsor: J. English",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History, 4/15/2025",
+    "quote": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 5",
+    "quote": "APPROVED: 4/17/25",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History, 4/17/2025",
+    "quote": "Notification that HB1958 is now Act 848",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 1, SECTION 1",
+    "quote": "Arkansas Code § 25-1-128(a) — (e), as amended by Acts 2025,",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "bill details",
+    "quote": "Act Date: 4/17/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 5",
+    "quote": "APPROVED: 4/17/25",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "bill details",
+    "quote": "Status: House -- Notification that HB1958 is now Act 848",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "bill details",
+    "quote": "Act Date: 4/17/2025",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History",
+    "quote": "Notification that HB1958 is now Act 848",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 1",
+    "quote": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 1, s. 25-1-128(a)(2)",
+    "quote": "marketed, or specifically modified, to make or to be a controlling factor in",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 1, s. 25-1-128(a)(4)",
+    "quote": "“Public entity” means an instrumentality funded in whole",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 4, s. 25-1-128(b)(3)",
+    "quote": "Create an artificial intelligence and automated decision",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 4, s. 25-1-128(b)(3)(B)",
+    "quote": "make any final decision in the course of his or her employment, regardless of",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 4, s. 25-1-128(b)(4)(A)",
+    "quote": "tool policy, including training on the appropriate use of artificial",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 4, s. 25-1-128(c)(1)",
+    "quote": "automated decision tool policy for each state entity shall be available to",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 5, s. 25-1-128(e)",
+    "quote": "A public entity shall create a disciplinary procedure for a",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History, 4/1/2025",
+    "quote": "4/1/2025 2:30:17 PM Filed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History, 4/7/2025",
+    "quote": "4/7/2025 4:39:12 PM Read the third time and passed and ordered transmitted to the Senate.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History, 4/10/2025",
+    "quote": "4/10/2025 4:10:31 PM Read the third time and passed.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/official.html",
+    "sha256": "0b28cb1e49a21812a0ef1e957d61d2b2ab12f0d98047af2a64f7b42ebcc846f8",
+    "locator": "Bill Status History, 4/14/2025",
+    "quote": "4/14/2025 2:56:31 PM Senate amendment # 1 read and concurred in.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/document-2.pdf",
+    "sha256": "41fdc599fb780ffe51463bde0f05c69dd1c23ef5de3caaa265ca0e1562b61db6",
+    "locator": "page 1, Amendment No. 1",
+    "quote": "Add Senator J. English as a cosponsor of the bill",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 1, SECTION 1",
+    "quote": "No. 205, concerning the creation of a policy regarding use of technology",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 5, s. 25-1-128(d)(4)",
+    "quote": "Intentionally override or avoid the security and system",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 4, s. 25-1-128(c)(2)",
+    "quote": "The Department of Education, in coordination with the State",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-AR-01/extra-9769e58a04/2026-10-17/official.pdf",
+    "sha256": "a31ae86186a70227c8d65b431d4705722620f899e73b160445083efa079ddf9d",
+    "locator": "page 1",
+    "quote": "Thus, acts without an emergency clause or a specified effective date become effective on Tuesday, August 5, 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-AR-01/extra-9769e58a04/2026-10-17/official.pdf",
+    "sha256": "a31ae86186a70227c8d65b431d4705722620f899e73b160445083efa079ddf9d",
+    "locator": "page 1",
+    "quote": "Thus, acts without an emergency clause or a specified effective date become effective on Tuesday, August 5, 2025.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-AR-01/extra-9769e58a04/2026-10-17/official.pdf",
+    "sha256": "a31ae86186a70227c8d65b431d4705722620f899e73b160445083efa079ddf9d",
+    "locator": "page 1",
+    "quote": "General Assembly, which adjourned sine die May 5, 2025. As explained below, the effective date is August 5, 2025.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-AR-01/2026-10-12/secondary.pdf",
+    "sha256": "34ba7a9be7a1e9f501cbdf5b0a34ca9fed05001906a2f28ec62c86b566ce20c2",
+    "locator": "page 1",
+    "quote": "Act 848 of the Regular Session",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored files name the sponsors only as 'S. Meeks' and 'J. English' and do not name the Governor; the full first names and the Governor's name are removed",
+   "summary": "the vague last sentence ('made available as specified') replaced by what the Act requires: state entities' policies available to the public on request, and a disciplinary procedure for violations",
+   "notes": "rewritten from the stored files: filing date, the content of Senate Amendment No. 1, the effective date of 5 Aug 2025 and the sine die date, the Act 205 base text, the prohibitions and the Department of Education's duty added; the remark on what the fetched pages did not confirm moved to verification.note",
+   "verification.note": "rewritten for this recheck",
+   "date_in_force": "set to 5 Aug 2025: the Act has no emergency clause or effective-date section, and Attorney General Opinion No. 2025-032 gives 5 Aug 2025 as the effective date of such acts of the 2025 regular session"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The latest event on the bill page is 'Notification that HB1958 is now Act 848' with Act Date 4/17/2025; the Act PDF shows 'APPROVED: 4/17/25' and contains only Section 1 (the amendment of § 25-1-128), with no emergency clause or effective-date section. Attorney General Opinion No. 2025-032 says acts of the 2025 regular session without an emergency clause or a specified effective date 'become effective on Tuesday, August 5, 2025'. 5 Aug 2025 is before 18 Oct 2026, and no stored file shows a repeal. 'In force' stands.",
+  "scope_reasoning": "An AI-specific state law requiring public entities to adopt AI and automated decision tool policies with human final decisions; in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the Act date, 17 Apr 2025 (bill page 'Act Date: 4/17/2025'; Act 'APPROVED: 4/17/25'). date_in_force is 5 Aug 2025, the general effective date the Attorney General gives for acts of the 2025 regular session without an emergency clause (session adjourned sine die 5 May 2025; 90-day referendum window ending on Monday 4 Aug 2025)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_in_force (5 Aug 2025) rests on Attorney General Opinion No. 2025-032, stored from ag-opinions.s3.amazonaws.com, a host not listed in pipeline/official-sites.json; a person can record whether the Arkansas Attorney General runs it (tools/pipeline.py hosts --add)."
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "cand_id": "US-IL-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-IL-02",
+ "record": {
+  "summary": "Limits the use of artificial intelligence in therapy and psychotherapy services. It prohibits anyone from using AI to provide mental health care and therapeutic decision-making, while allowing licensed behavioural health professionals to use AI for administrative and supplementary support services. Its stated aims are to protect patients from unregulated and unqualified AI products and to protect children amid concerns over AI chatbot use in youth mental health services. The Department of Financial and Professional Regulation may investigate suspected violations, and each confirmed violation carries a fine of up to $10,000.",
+  "notes": "Signed by Governor Pritzker on Friday 1 Aug 2025 and announced by the Department of Financial and Professional Regulation (IDFPR) on 4 Aug 2025; it took effect on signature. The Act passed both chambers of the General Assembly unanimously and was developed with IDFPR and the National Association of Social Workers, Illinois Chapter.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the IDFPR press release of 4 Aug 2025 (idfpr.illinois.gov PDF, stored 11 Oct 2026), the only stored source. It confirms the title, that Governor Pritzker signed the Act 'on Friday' before the Monday release (1 Aug 2025), that it passed both chambers unanimously and took effect on signature, the prohibition and the permitted administrative and supplementary uses, IDFPR's power to investigate and the fine of up to $10,000. The summary was narrowed to what the release states: version 1's claims about advertising therapy services and about therapeutic communication with clients rest on the Act's text, which is not stored. The ILGA Public Act page and bill status page could not be stored: the connection to ilga.gov timed out on 17 Oct 2026, as in earlier runs, and robots.txt could not be checked. The Public Act number and the General Assembly in official_identifier are therefore not in a stored source."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "The Wellness and Oversight for Psychological Resources Act prohibits anyone from using AI to provide mental health and therapeutic decision-making, while allowing the use of AI for administrative and supplementary support services for licensed behavioral health professionals.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, first paragraph",
+    "quote": "With HB1806, Illinois sets the standard for regulating the use of AI in mental health",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial intelligence (AI) in therapy and psychotherapy services.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, last paragraph",
+    "quote": "Act was unanimously passed in each chamber of the Illinois General Assembly and goes into effect immediately with Governor Pritzker’s signature.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph (release dated August 4, 2025)",
+    "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial intelligence (AI) in therapy and psychotherapy services.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, last paragraph",
+    "quote": "Act was unanimously passed in each chamber of the Illinois General Assembly and goes into effect immediately with Governor Pritzker’s signature.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, last paragraph",
+    "quote": "Act was unanimously passed in each chamber of the Illinois General Assembly and goes into effect immediately with Governor Pritzker’s signature.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial intelligence (AI) in therapy and psychotherapy services.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, last paragraph",
+    "quote": "Act was unanimously passed in each chamber of the Illinois General Assembly and goes into effect immediately with Governor Pritzker’s signature.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "The Wellness and Oversight for Psychological Resources Act prohibits anyone from using AI to provide mental health and therapeutic decision-making, while allowing the use of AI for administrative and supplementary support services for licensed behavioral health professionals.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "This will protect patients from unregulated and unqualified AI products, while also protecting the jobs of Illinois’ thousands of qualified behavioral health providers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "This will also protect vulnerable children amid the rising concerns over AI chatbot use in youth mental health services.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, last paragraph",
+    "quote": "IDFPR will have the authority to investigate all suspected violations of the Act. All confirmed violations will result in a fine of up to $10,000 to IDFPR.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, release header",
+    "quote": "For Immediate Release: Contact: Chris Slaby August 4, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, first paragraph",
+    "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial intelligence (AI) in therapy and psychotherapy services.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2, last paragraph",
+    "quote": "Act was unanimously passed in each chamber of the Illinois General Assembly and goes into effect immediately with Governor Pritzker’s signature.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1, third paragraph",
+    "quote": "This Act is the result of productive collaboration between the Illinois Department of Financial and Professional Regulation (IDFPR) , lawmakers in the Illinois General Assembly, and the National Association of Social Workers, Illinois Chapter (NASW-IL)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "narrowed to the stored release: the prohibition on AI-provided mental health care and therapeutic decision-making, the permitted administrative and supplementary uses, the stated aims, IDFPR investigation and the $10,000 fine; the claims on advertising and on therapeutic communication with clients (Act text not stored) removed",
+   "notes": "process remarks (Public Act number not verified, ILGA unreachable, how the official source was added) moved to verification.note; the passage, collaboration and announcement facts from the release kept or added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "not_confirmed": {
+   "official_identifier": "the release gives 'HB1806' but not the 104th General Assembly or the Public Act number"
+  },
+  "status_reasoning": "The release says the Act 'goes into effect immediately with Governor Pritzker's signature', and the signature was on Friday 1 Aug 2025. No stored file shows an amendment or repeal since. Status 'In force' stays; date_in_force is the signing date.",
+  "scope_reasoning": "AI-specific state law prohibiting AI therapy; in scope with no note.",
+  "date_reasoning": "The release is dated Monday 4 August 2025 and says the Governor signed 'on Friday', which is 1 August 2025. The quote for date_published is the signing sentence; the release date is quoted under notes (quoting it for the field would show 4 Aug 2025, the announcement, not the signature)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The Act's text is not stored: the archiver could not reach ilga.gov (connection timed out on 17 Oct 2026) for https://ilga.gov/legislation/PublicActs/View/104-0054 and https://www.ilga.gov/ftp/legislation/104/BillStatus/HTML/10400HB1806.html. The summary therefore rests on IDFPR's press release, and the Public Act number and the General Assembly in official_identifier ('HB 1806 (104th General Assembly)') are not in a stored source. A person could provide the Public Act text (AGENTS.md section 7.8)."
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "cand_id": "US-ME-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-ME-01",
+ "record": {
+  "issuing_body": "Maine Legislature (132nd Legislature, First Special Session); signed by the Governor",
+  "summary": "Prohibits a person from using an artificial intelligence chatbot or any other computer technology to engage in trade and commerce with a consumer in a manner that may mislead or deceive a reasonable consumer into believing that the consumer is engaging with a human being, unless the consumer is notified in a clear and conspicuous manner that the consumer is not. An artificial intelligence chatbot is a software application, web interface or computer program that simulates human conversation and interaction through textual or aural communications. A violation is a violation of the Maine Unfair Trade Practices Act.",
+  "notes": "Signed on 12 June 2025 as Public Law 2025, chapter 294, which adds chapter 239, 'Communications with Consumers via Artificial Intelligence', to Title 10 of the Maine Revised Statutes. Enacted as amended by committee amendment C-A (H-544) of the Committee on Health Coverage, Insurance and Financial Services. As a non-emergency law of the First Special Session of the 132nd Legislature, which adjourned sine die on 25 June 2025, it took effect on the session's general effective date, 24 September 2025. Maine added a 2026 law restricting AI therapy services (US-ME-02).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Maine Legislature's status page for LD 1727 (stored 11 Oct 2026, unchanged on 17 Oct 2026), the chaptered law PDF of chapter 294 (stored as the secondary source, from legislature.maine.gov) and the two fiscal notes. The status page confirms the title, enactment and the Governor's signature on 12 Jun 2025, chapter 294 and committee amendment C-A (H-544); the chapter PDF confirms the text and the approval on 12 Jun 2025. The Legislative Digest of Bills and Summaries of Enacted Laws for the First Regular and First Special Sessions (Office of Policy and Legal Analysis, legislature.maine.gov/doc/11927, stored in this run, 690 pages) gives 25 Jun 2025 as the First Special Session's sine die adjournment and 24 Sep 2025 as the effective date of its non-emergency legislation, and its enacted law summary of LD 1727 (Public Law 2025, chapter 294) names no emergency effective date. The Governor's name was removed from issuing_body because no stored file names the Governor; the earlier note's tracker dates (16 or 23 Sep 2025) rest on no stored source and were dropped."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "page heading (LD 1727, HP 1154)",
+    "quote": "An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "H.P. 1154 - L.D. 1727 An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "page header",
+    "quote": "132nd Maine Legislature, First Special Session",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Documents and Disposition",
+    "quote": "Governor's Action: Signed, Jun 12, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Documents and Disposition",
+    "quote": "Chaptered LawACTPUB , Chapter 294",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "H.P. 1154 - L.D. 1727",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "§1500-Y. Required disclosure of use of artificial intelligence chatbot to engage in trade and commerce",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Documents and Disposition",
+    "quote": "Governor's Action: Signed, Jun 12, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "APPROVED JUNE 12, 2025 BY GOVERNOR",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Documents and Disposition",
+    "quote": "Final DispositionEnacted, Jun 12, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "CHAPTER 294 PUBLIC LAW",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "Be it enacted by the People of the State of Maine as follows:",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Affected Statute Titles and Sections",
+    "quote": "1500-Y NEW Public Law 294",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1, §1500-Y(2)",
+    "quote": "A person may not use an artificial intelligence chatbot or any other computer technology to engage in trade and commerce with a consumer in a manner that may mislead or deceive a reasonable consumer into believing that the consumer is engaging with a human being",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1, §1500-Y(2)",
+    "quote": "unless the consumer is notified in a clear and conspicuous manner that the consumer is not engaging with a human being.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1, §1500-Y(1)(A)",
+    "quote": "\"Artificial intelligence chatbot\" means a software application, web interface or computer program that simulates human conversation and interaction through textual or aural communications.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1, §1500-Y(3)",
+    "quote": "A violation of subsection 2 is a violation of the Maine Unfair Trade Practices Act.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-01/extra-37e7919c53/2026-10-17/official.pdf",
+    "sha256": "860511b1b14e08298bb00729a605297a5f6559334736e8b798812ce107e7481a",
+    "locator": "page 3",
+    "quote": "The effective date for non-emergency legislation enacted in the First Regular and First Special Sessions of the 132nd Legislature is Friday, June 20, 2025 and Wednesday, September 24, 2025, respectively.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-01/extra-37e7919c53/2026-10-17/official.pdf",
+    "sha256": "860511b1b14e08298bb00729a605297a5f6559334736e8b798812ce107e7481a",
+    "locator": "page 314, enacted law summary of LD 1727",
+    "quote": "Public Law 2025, chapter 294 prohibits a person from using an artificial intelligence chatbot to engage in trade or commerce with a consumer",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-01/extra-37e7919c53/2026-10-17/official.pdf",
+    "sha256": "860511b1b14e08298bb00729a605297a5f6559334736e8b798812ce107e7481a",
+    "locator": "page 1",
+    "quote": "First Special Session adjourned sine die Wednesday, June 25, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/secondary.pdf",
+    "sha256": "3e72fdc61c95add6c40397c9d68015a8e0779edcd4947de1df6dcfede6ddb274",
+    "locator": "page 1",
+    "quote": "Sec. 1. 10 MRSA c. 239 is enacted to read: CHAPTER 239 COMMUNICATIONS WITH CONSUMERS VIA ARTIFICIAL INTELLIGENCE",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Documents and Disposition",
+    "quote": "Adopted Amendments C-A (H-544)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-11/official.html",
+    "sha256": "0e54128e9ecfdc94988e87a1debc26fb16044c9652e710514de37e91e87fb806",
+    "locator": "Status In Committee",
+    "quote": "Referred to Committee on Health Coverage, Insurance and Financial Services on Apr 17, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-01/2026-10-17/document-2.pdf",
+    "sha256": "d49835c7ddf56e76065c27d9f14c78421363f17d608e391136ae1c362db3cdf9",
+    "locator": "page 1",
+    "quote": "Fiscal Note for Bill as Engrossed with: C \"A\" (H-544)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "Governor's name removed: the stored files show the Governor's signature but do not name the Governor",
+   "summary": "'enforceable by the Attorney General' removed (the chaptered text makes a violation a violation of the Maine Unfair Trade Practices Act and names no enforcer); wording aligned with the chaptered text of 10 M.R.S. §1500-Y",
+   "notes": "new chapter 239 of Title 10 and committee amendment C-A (H-544) added; the unsupported tracker dates (16 or 23 Sep 2025) removed; the adjournment and effective date now rest on the stored Legislative Digest",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "LD 1727 was enacted and signed on 12 Jun 2025 as Public Law 2025, chapter 294. The chaptered text has no emergency preamble or effective-date clause, and the digest's enacted law summary names no emergency effective date, so it took effect on the effective date of non-emergency legislation of the First Special Session, which the stored Legislative Digest gives as 24 Sep 2025 (the session adjourned sine die on 25 Jun 2025). Today is 18 Oct 2026, after that date, and nothing in the stored files shows a repeal or amendment, so 'In force' stands.",
+  "scope_reasoning": "AI-specific state law requiring disclosure of AI chatbots in consumer transactions; in scope with no note.",
+  "date_reasoning": "date_published 12 Jun 2025 is the Governor's signature and approval date on the status page and the chapter PDF. date_in_force 24 Sep 2025 is the digest's effective date for non-emergency legislation of the First Special Session."
+ },
+ "extra_urls": [
+  {
+   "url": "https://legislature.maine.gov/doc/11927",
+   "reason": "Legislative Digest of Bills and Summaries of Enacted Laws, 132nd Legislature, First Regular and First Special Sessions (Office of Policy and Legal Analysis): page 1 gives the First Special Session's adjournment (25 Jun 2025), page 3 the effective date of non-emergency laws of that session (24 Sep 2025), and the enacted law summary of LD 1727 (PUBLIC 294). Needed for date_in_force and the notes."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

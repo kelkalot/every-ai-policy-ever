@@ -1,0 +1,120 @@
+{
+ "cand_id": "US-CA-11",
+ "decision": "update",
+ "target_id": "US-CA-11",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 1",
+    "quote": "EXECUTIVE ORDER N-12-23",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 1",
+    "quote": "Generative Artificial Intelligence (\"GenAI\") represents a significant leap forward in technology",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 2",
+    "quote": "NOW, THEREFORE, I, GAVIN NEWSOM, Governor of the State of California,",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 1",
+    "quote": "EXECUTIVE ORDER N-12-23",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 7",
+    "quote": "California to be affixed this 6th day of September 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-11/2026-10-17/secondary.html",
+    "sha256": "28d16549a3da8ddac0641114f4e2a1e191d8249e5b99ca1c216c1e40298528ae",
+    "locator": "headline",
+    "quote": "Governor Newsom Signs Executive Order to Prepare California for the Progress of Artificial Intelligence",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 2",
+    "quote": "do hereby issue the following Order to become effective immediately:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 7",
+    "quote": "California to be affixed this 6th day of September 2023.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 2",
+    "quote": "do hereby issue the following Order to become effective immediately:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 7",
+    "quote": "ATTEST: SHIRLEY N. WEBER, Ph.D. Secretary of State",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C033/2026-10-14/official.pdf",
+    "sha256": "62b2f985ebde0a397679162aed5b66e1403a1c10a92e636eda6683cdf8886b2e",
+    "locator": "page 7",
+    "quote": "This Order is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Issued 6 Sep 2023, effective immediately; the stored text has no sunset and no later stored text rescinds or supersedes it, so In force.",
+  "scope_reasoning": "Governor's order on state use and risk assessment of generative AI, including catastrophic-risk analysis; clearly in scope."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The stored files cannot show whether a later order has replaced N-12-23; the record's status rests on the absence of a rescission in the stored text."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

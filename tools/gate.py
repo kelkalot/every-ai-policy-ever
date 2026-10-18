@@ -201,7 +201,12 @@ def main(argv=None):
     g.check("definitions kept", probs, "%d before, %d now" % (len(od), len(nd)))
 
     # 7. provenance: every run named in the new history has its folder and report
-    runs = sorted({e.get("run_id") for e in new_events if e.get("run_id")})
+    def run_of(r):  # a maintainer's decision carries its question's key: record:<ID>@<run>, sample:<run>, host:<host>
+        kind, colon, rest = r.partition(":")
+        if not colon:
+            return r
+        return rest.rsplit("@", 1)[1] if "@" in rest else (rest if kind == "sample" else None)
+    runs = sorted({run_of(e["run_id"]) for e in new_events if e.get("run_id")} - {None})
     probs = ["runs/%s/report.md is missing" % r for r in runs if not (ROOT / "runs" / r / "report.md").is_file()]
     g.check("run reports", probs, ", ".join(runs) if runs else "no run in the new history")
 

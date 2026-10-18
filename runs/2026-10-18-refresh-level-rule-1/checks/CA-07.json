@@ -1,0 +1,42 @@
+{
+ "cand_id": "CA-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Rule 7b: the strategy's own text gives only the year 2026 (copyright, catalogue number); the day, 4 June 2026, comes from announcements and is in the notes."
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Canada Trusted AI Certification program",
+   "verdict": "supported",
+   "locator": "PDF, first pillar"
+  },
+  {
+   "claim": "more than 11,000 submissions and a 28-member task force (notes)",
+   "verdict": "supported",
+   "locator": "PDF/page text"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly an adoption and sovereignty strategy, with a first pillar on safety, online harms and transparency; the existing scope_note is right."
+ },
+ "overall": "accept",
+ "note": "Supported. The change from 2026-06-04 to 2026 follows rule 7b and keeps the date on official evidence. The existing scope_note stands. No later edition found."
+}

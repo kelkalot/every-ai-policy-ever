@@ -1,0 +1,51 @@
+{
+ "cand_id": "US-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "\"Superseded\" is not shown by any stored file of this record: the commitments text says they stay in effect until regulations come into force, and the stored text of US-27 does not mention them. The run leaves the value as published; a maintainer question exists (issue #134)."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Companies commit to internal and external red-teaming before release",
+   "verdict": "supported",
+   "locator": "document-1.pdf page 2"
+  },
+  {
+   "claim": "seven companies named",
+   "verdict": "supported",
+   "locator": "fact sheet first paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: company commitments brokered and published by the White House."
+ },
+ "overall": "needs-human",
+ "note": "Only the status is a problem and the run does not change it, so the run's corrections (official_url now the commitments text, fact sheet as secondary, verification note) can be merged while the status question stays with the maintainers (issue #134). Title wording, date and the seven companies rest on the fact sheet, an announcement, correctly labelled alt-official (level B). No official source found that withdraws or replaces the commitments."
+}

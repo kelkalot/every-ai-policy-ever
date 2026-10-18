@@ -1,0 +1,114 @@
+{
+ "cand_id": "US-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-03",
+ "record": {
+  "official_url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf",
+  "secondary_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the two files stored on 11 Oct 2026 on the NARA-archived Biden White House site (both found unchanged by the archiver on 18 Oct 2026): the White House fact sheet of 21 July 2023 and the commitments' own text, a four-page PDF headed 'Ensuring Safe, Secure, and Trustworthy AI' with the list 'Voluntary AI Commitments'. The PDF confirms the eight commitments, their scope, the three principles and the companies' intention to keep them until regulations covering the same issues come into force; it carries no date and does not name the companies. The title wording, the date of 21 July 2023 and the seven companies rest on the fact sheet, an announcement, so they count as alt-official. official_url now points at the commitments' text and the fact sheet becomes secondary_url. 'Superseded' is a judgment resting on record US-27, whose own sources are secondary; no stored file of this record shows the commitments withdrawn or replaced (open question, issue #134). The White House fact sheet of 12 Sep 2023 on eight further companies was requested in an earlier run but could not be stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "fact sheet heading",
+    "quote": "Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "fact sheet, first paragraph",
+    "quote": "President Biden is convening seven leading AI companies at the White House today – Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI – to announce that the Biden-Harris Administration has secured voluntary commitments from these companies",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Voluntary AI Commitments",
+    "quote": "The following is a list of commitments that companies are making to promote the safe, secure, and transparent development and use of AI technology.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "fact sheet, date line above the heading",
+    "quote": "July 21, 2023",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "fact sheet, first paragraph",
+    "quote": "President Biden is convening seven leading AI companies at the White House today",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Voluntary AI Commitments",
+    "quote": "Companies intend these voluntary commitments to remain in effect until regulations covering substantially the same issues come into force.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "archive banner at the top of the page",
+    "quote": "This is historical material “frozen in time”. The website is no longer updated and links to external websites and some internal pages may not work.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 1",
+    "quote": "These voluntary commitments are only a first step in developing and enforcing binding obligations to ensure safety, security, and trust.",
+    "source_kind": "official"
+   }
+  ],
+  "official_url": [
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, heading",
+    "quote": "Voluntary AI Commitments The following is a list of commitments that companies are making",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at the White House fact sheet, an announcement; the commitments' own text (the PDF linked from it, stored as document-1 on 11 Oct 2026) is published, so it becomes official_url (extract.md rule 7c)",
+   "secondary_url": "the fact sheet, which gives the date and the seven companies, moves here from official_url",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "title_reasoning": "The record title is the wording of the fact sheet heading ('Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI'). The commitments' own text is headed 'Ensuring Safe, Secure, and Trustworthy AI' on page 1 and 'Voluntary AI Commitments' on page 2. The established title is kept; its wording is supported only by the fact sheet, so the title counts as alt-official. The PDF headings are given in the verification note.",
+  "date_reasoning": "The commitments' text says the companies are making them 'today' but carries no date. The date, 21 July 2023, comes only from the fact sheet, an announcement, so date_published is supported at alt-official level and the record is level B however the title is worded.",
+  "status_reasoning": "Unchanged and still a judgment. The stored files show voluntary commitments the companies intended to keep 'until regulations covering substantially the same issues come into force' and a fact sheet now on the archived Biden White House site; neither shows the commitments withdrawn or replaced. 'Superseded' rests on record US-27 (29 Sep 2026), whose stored text does not mention the 2023 commitments. Issue #134 already asks a maintainer to decide; the value is left as published.",
+  "scope_reasoning": "Commitments made by AI companies that the White House brokered and published: in, with the existing scope_note (AGENTS.md section 10)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "Status 'Superseded' is not shown by any stored file of this record or by the stored text of US-27; issue #134 asks a maintainer to decide. Left as published."
+ ]
+}

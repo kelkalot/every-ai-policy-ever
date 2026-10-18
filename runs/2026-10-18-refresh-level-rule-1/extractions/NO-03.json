@@ -1,0 +1,221 @@
+{
+ "cand_id": "NO-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NO-03",
+ "record": {
+  "notes": "The ministry's allocation letter for 2026 to Digdir, dated 6 Feb 2026, made establishing KI Norge as a national arena for responsible and value-creating use of AI one of Digdir's main priorities for the year. It places the statutory AI regulatory sandbox under the AI Act in KI Norge, to be set up and run in formal cooperation between Digdir, Nkom and Datatilsynet, gives Digdir the task of a joint national portal for information and guidance on AI, and allocates NOK 10 million for KI Norge as a separate unit in Digdir, with a further NOK 4.8 million for the sandbox. The post of director was advertised on 11 Feb 2026, the appointment of Hans Christian Holte as director was announced on 7 May 2026, and KI Norge opened on 12 Jun 2026. The director is part of Digdir's top management group.",
+  "verification": {
+   "note": "Stored and read: the Ministry of Digitalisation and Public Governance's press release of 12 Jun 2026 on the opening of KI Norge (regjeringen.no), which gives its mandate, its place within Digdir, its director and the national AI sandbox it runs with Datatilsynet and Nkom; the ministry's press release of 11 Feb 2026 advertising the director post (stored as the secondary source), which describes the mandate and the sandbox and lists the press release of 7 May 2026 on the director's appointment; and, stored in this run, the ministry's allocation letter for 2026 to the Norwegian Digitalisation Agency (Tildelingsbrev 2026 – Digitaliseringsdirektoratet, ref. 25/2333, 6 Feb 2026, regjeringen.no), the instruction that makes establishing KI Norge a task of Digdir, places the AI sandbox in it and funds it. The record is about KI Norge's opening on 12 Jun 2026, whose title and date rest on the press release, an announcement, so the level is B; the allocation letter confirms the issuing bodies, the mandate and the status as the instrument's own text. Both press releases state that they are not available in English, and no English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release heading",
+    "quote": "Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release heading",
+    "quote": "Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release header",
+    "quote": "Pressemelding | Dato: 12.06.2026 | Digitaliserings- og forvaltningsdepartementet",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 2, 1. Innleiing",
+    "quote": "I dette tildelingsbrevet melder vi Stortingets budsjettvedtak og Digitaliserings- og forvaltningsdepartementet sine styringssignal for Digitaliseringsdirektoratet (Digdir) i 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 6, 3.2",
+    "quote": "Frå 2026 vil Digdir òg ha ansvar for å fremje ansvarleg innovasjon med KI, ved at KI Noreg blir etablert som ein del av verksemda.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release header",
+    "quote": "Pressemelding | Dato: 12.06.2026 | Digitaliserings- og forvaltningsdepartementet",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release, lead",
+    "quote": "Regjeringens spydspiss for ansvarlig og innovativ bruk av kunstig intelligens – KI Norge er klar.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release, lead",
+    "quote": "KI Norge skal hjelpe både offentlige og private virksomheter som trenger råd og veiledning. Nå åpner dørene!",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 3, hovudprioriteringar for 2026",
+    "quote": "1. Etablere KI Noreg som ein nasjonal arena for ansvarleg og verdiskapande bruk av kunstig intelligens, sjå mål 3.2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 7, 3.2.1",
+    "quote": "Sandkassa skal vere plassert i KI Noreg og etablerast og driftast innanfor eit formalisert samarbeid mellom Digdir, Nasjonal kommunikasjonsmyndigheit og Datatilsynet.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release",
+    "quote": "Alle offentlige og private virksomheter skal kunne ta kontakt med KI Norge og få veiledning",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 6, 3.2.1",
+    "quote": "Etablere KI Noreg som ein nasjonal arena for ansvarleg innovasjon, utvikling og bruk av kunstig intelligens, med mål om styrkje rettleiingsarbeidet og fremje betre utnytting av kunstig intelligens i både offentleg og privat sektor.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 1, letter head",
+    "quote": "Vår ref 25/2333 Dato 06.02.2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 3, hovudprioriteringar for 2026",
+    "quote": "1. Etablere KI Noreg som ein nasjonal arena for ansvarleg og verdiskapande bruk av kunstig intelligens, sjå mål 3.2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 7, 3.2.1",
+    "quote": "Den lovpålagde KI-regulatoriske sandkassa etter KI-forordninga er eit sentralt verkemiddel for å fremje innovasjon med kunstig intelligens.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 7, Oppdrag under mål 3.2",
+    "quote": "I samband med etableringa av KI Noreg skal Digdir, i samarbeid med Nasjonal kommunikasjonsmyndigheit og Datatilsynet, utvikle og drifte éin felles portal som skal fungere som éin nasjonal inngang til felles informasjon og rettleiing",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 17, Post 28 (ny) KI Noreg",
+    "quote": "Løyvinga på 10. mill. kroner i 2026 dekker utgifter i samband med etablering og drift av KI Noreg som ei eiga eining i Digdir",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 15, Post 21",
+    "quote": "auka med 4,8 mill. kroner til arbeidet med å etablere, utvikle og drifte den regulatoriske KI-sandkassa etter KI-forordninga",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/secondary.html",
+    "sha256": "86fbf62c95e4ccecc847f7ab2fadd1b7f06a8f5a3dbee76ddfe42464635b5575",
+    "locator": "press release header",
+    "quote": "Pressemelding | Dato: 11.02.2026 | Digitaliserings- og forvaltningsdepartementet Regjeringen styrker Norges evne",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/secondary.html",
+    "sha256": "86fbf62c95e4ccecc847f7ab2fadd1b7f06a8f5a3dbee76ddfe42464635b5575",
+    "locator": "Relatert",
+    "quote": "Hans Christian Holte blir direktør for KI Norge Pressemelding | 07.05.2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/secondary.html",
+    "sha256": "86fbf62c95e4ccecc847f7ab2fadd1b7f06a8f5a3dbee76ddfe42464635b5575",
+    "locator": "Direktørrolle med stor gjennomslagskraft",
+    "quote": "Direktøren blir en del av toppledergruppen i Digdir",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "Om KI Norge",
+    "quote": "Formålet er å gjøre det enklere for norske virksomheter å ta i bruk kunstig intelligens på en måte som er trygg, lovlig og verdiskapende.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+    "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+    "locator": "page 7, 3.2.1",
+    "quote": "Sandkassa skal vere plassert i KI Noreg og etablerast og driftast innanfor eit formalisert samarbeid mellom Digdir, Nasjonal kommunikasjonsmyndigheit og Datatilsynet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/secondary.html",
+    "sha256": "86fbf62c95e4ccecc847f7ab2fadd1b7f06a8f5a3dbee76ddfe42464635b5575",
+    "locator": "Nasjonalt samarbeid om KI-sandkassen",
+    "quote": "Sandkassen skal gi virksomheter mulighet til å utvikle, teste og ta i bruk KI-systemer innenfor trygge rammer før bredere bruk.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the allocation letter of 6 Feb 2026, stored in this run, added: KI Norge as a main priority of Digdir for 2026, the statutory AI sandbox placed in it and run with Nkom and Datatilsynet, the national AI guidance portal, and the funding (NOK 10 million for KI Norge, NOK 4.8 million for the sandbox)",
+   "verification.note": "the two press releases count as announcements (alt-official); the note says the title and date rest on them (level B) and that the allocation letter, stored in this run, confirms the issuing bodies, mandate and status as the instrument's own text"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The allocation letter (6 Feb 2026) makes establishing KI Norge a main priority of Digdir for 2026 and funds it; the press release of 12 Jun 2026 says it is ready and opening ('KI Norge er klar', 'Nå åpner dørene!'). Nothing stored shows it was wound up. 'Published (non-binding, current)' stands; legal force stays Non-binding, as KI Norge gives guidance to organisations (the letter binds Digdir, not the public).",
+  "date_reasoning": "date_published stays 2026-06-12, the opening of KI Norge, from the press release (alt-official). The allocation letter is dated 6 Feb 2026; anchoring the record on it (official_url, date, title) would change what the record is about, from KI Norge's opening to the instruction that set it up, so the record keeps its anchor, the letter's date goes into the notes, and the choice is listed in open_questions. official_url therefore stays the opening press release: rule 7c is not applied, because the letter is a general allocation letter whose title and date are not this record's.",
+  "scope_reasoning": "Unchanged: a guidance and sandbox body for safe and lawful AI use within Digdir, not an AI safety institute; the existing scope_note fits."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "NO-03 rests on the opening press release of 12 Jun 2026 (level B). The instrument that set KI Norge up is the ministry's allocation letter for 2026 to Digdir (ref. 25/2333, 6 Feb 2026), now stored; it is a general allocation letter in which KI Norge is one priority. Should the record be anchored on it (official_url, date_published 2026-02-06, a title such as 'Establishment of KI Norge'), which would make it level A, or stay on the opening as now?"
+ ]
+}

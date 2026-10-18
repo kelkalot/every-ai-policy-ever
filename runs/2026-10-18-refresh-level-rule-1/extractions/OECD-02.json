@@ -1,0 +1,158 @@
+{
+ "cand_id": "OECD-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "OECD-02",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored for this record: the OECD's overview page of the Reporting Framework on OECD.AI (the official URL, 17 Oct 2026), the framework's own page, which sets who may take part and how reports are submitted and published and gives the launch on 7 February 2025, the G7 mandate under the Trento Declaration, the 25 reports of the first round and version 2.0; and MIC Japan's Hiroshima AI Process page on the framework (secondary source), which gives the same launch date, the first responses from 19 companies in April 2025 and the 31 reports under version 2.0 published on 2 October 2026. Stored in this run: the blank questionnaire of version 2.0 (Word file, oecd.ai), headed 'Hiroshima AI Process Voluntary Reporting Framework V2.0', whose seven sections, each tied to actions of the Code of Conduct, confirm the summary's list of what the questionnaire covers. The OECD.AI 'about' and 'reports' pages and the OECD.AI announcement of version 2.0 (launched 28 May 2026; the announcement is dated 29 May 2026) were stored by the recheck of 17 Oct 2026. The February 2025 OECD press release on oecd.org refuses the archiver (HTTP 403)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, heading",
+    "quote": "HIROSHIMA AI PROCESS VOLUNTARY REPORTING FRAMEWORK V2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/OECD-02/2026-10-17/official.html",
+    "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+    "locator": "The Hiroshima AI Reporting Framework, Overview",
+    "quote": "The Hiroshima AI Process Reporting Framework, launched in February 2025, provides a standardised structure for organisations to report on their alignment with the Hiroshima AI Process International Code of Conduct for Organisations Developing Advanced AI Systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/OECD-02/2026-10-17/secondary.html",
+    "sha256": "348bf2a18e4c8f013bb6cb7d44954aa55e2b1bce00968e7aac6efabeedb56bc4",
+    "locator": "Reporting Framework",
+    "quote": "It builds on the Hiroshima AI Process International Code of Conduct for Organizations Developing Advanced AI Systems",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/OECD-02/2026-10-17/official.html",
+    "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+    "locator": "The Hiroshima AI Reporting Framework, Overview, background",
+    "quote": "The Reporting Framework, launched on February 7 2025, is a direct outcome of the G7 Hiroshima AI Process",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/OECD-02/2026-10-17/secondary.html",
+    "sha256": "348bf2a18e4c8f013bb6cb7d44954aa55e2b1bce00968e7aac6efabeedb56bc4",
+    "locator": "Reporting Framework",
+    "quote": "The Reporting Framework, launched on February 7, 2025, is a direct outcome of the G7 Hiroshima AI Process",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, heading",
+    "quote": "HIROSHIMA AI PROCESS VOLUNTARY REPORTING FRAMEWORK V2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/OECD-02/2026-10-17/official.html",
+    "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+    "locator": "The Hiroshima AI Reporting Framework, Overview",
+    "quote": "Organisations can submit reports on a rolling basis.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/OECD-02/2026-10-17/secondary.html",
+    "sha256": "348bf2a18e4c8f013bb6cb7d44954aa55e2b1bce00968e7aac6efabeedb56bc4",
+    "locator": "Reporting Framework",
+    "quote": "The responses to the \"Reporting Framework 2.0\" were published on October 2, 2026, with submissions from 31 companies.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/OECD-02/2026-10-17/official.html",
+    "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+    "locator": "The Hiroshima AI Reporting Framework, Overview, background",
+    "quote": "At the G7's request and in line with the Trento Declaration, the OECD was tasked with identifying mechanisms to monitor the voluntary adoption of the Code.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, heading",
+    "quote": "HIROSHIMA AI PROCESS VOLUNTARY REPORTING FRAMEWORK V2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/OECD-02/2026-10-17/official.html",
+    "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+    "locator": "The Hiroshima AI Reporting Framework, introduction",
+    "quote": "Participants are invited to report on their practices for managing risks and advancing trustworthy AI.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, Section 1",
+    "quote": "Section 1: RISK IDENTIFICATION AND EVALUATION (Actions 1, 4, 6, 10)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, Section 2",
+    "quote": "Section 2: RISK MANAGEMENT AND INFORMATION SECURITY (Actions 1, 2, 4, 6, 10, 11)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, Section 4",
+    "quote": "Section 4: ORGANIZATIONAL GOVERNANCE, INCIDENT MANAGEMENT, AND TRANSPARENCY (Actions 2, 4, 5, 10, 11)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, Section 5",
+    "quote": "Section 5: CONTENT AUTHENTICATION & PROVENANCE MECHANISMS (Actions 7, 10)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+    "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+    "locator": "questionnaire, Section 6",
+    "quote": "Section 6: RESEARCH & INVESTMENT TO ADVANCE AI SAFETY & MITIGATE SOCIETAL RISKS (Actions 1, 7, 8)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this run: what the overview page, MIC Japan's page and the version 2.0 questionnaire stored in this run confirm, and what rests on files stored by the recheck of 17 Oct 2026"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "The OECD's overview page says organisations can submit reports on a rolling basis, and MIC Japan's page says the reports under version 2.0 were published on 2 October 2026. The framework is in operation and participation is voluntary. Published (non-binding, current) stands.",
+  "date_reasoning": "The questionnaire (version 2.0) carries no date. The overview page gives the launch on 7 February 2025 (MIC Japan's page gives the same day). date_last_updated (2026-05-28, version 2.0) is not re-confirmed here; it rests on the OECD.AI announcement stored by the recheck of 17 Oct 2026.",
+  "source_kind_reasoning": "The questionnaire is the framework's own text (official). The OECD.AI overview is the framework's own page on the platform where it is run and sets who may take part and how reports are submitted and published; it is not a press release or news item, so its quotes are labelled official. MIC Japan's page is another government's page and the record's secondary source (alt-official).",
+  "title_reasoning": "The questionnaire heads itself 'Hiroshima AI Process Voluntary Reporting Framework V2.0'; the overview page names the 'Hiroshima AI Process Reporting Framework' and the Code of Conduct it reports against. The register's title, which adds the Code's name, describes the same framework and is kept as published.",
+  "summary_check": "The questionnaire's sections: 1 Risk identification and evaluation, 2 Risk management and information security, 3 Transparency reporting on advanced AI systems, 4 Organizational governance, incident management, and transparency, 5 Content authentication & provenance mechanisms, 6 Research & investment to advance AI safety & mitigate societal risks, 7 Advancing human and global interests; each names the Code's actions (1 to 11) it covers. The summary is supported and left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

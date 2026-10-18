@@ -1,0 +1,2381 @@
+{
+ "provenance": {
+  "date": "2026-10-18",
+  "agent": "Claude Code",
+  "model": "claude-opus-5-5",
+  "scope": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh: ids:ASEAN-01,ASEAN-02,INT-11,OECD-02,UN-02,AUS-07,CA-05,CA-07,CN-17,DK-02,IN-01,IE-01,JP-06,MY-01,MY-03,NO-03,SG-02,SG-03,SG-04,SG-08,ES-03,CH-01,GB-07,US-03,US-09,US-16,US-22,US-25,HK-01)",
+  "run_id": "2026-10-18-refresh-level-rule-1",
+  "stages": {
+   "collect": {
+    "tool": null,
+    "model": null,
+    "date": null
+   },
+   "extract": {
+    "tool": "Claude Code",
+    "model": "claude-opus-5-5",
+    "date": "2026-10-18",
+    "tokens": 1223752
+   },
+   "blind": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 107240
+   },
+   "check": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 326036
+   }
+  }
+ },
+ "records": [],
+ "updates": [
+  {
+   "official_url": "https://asean.org/wp-content/uploads/2024/02/ASEAN-Guide-on-AI-Governance-and-Ethics_beautified_201223_v2.pdf",
+   "secondary_url": "https://asean.org/book/asean-guide-on-ai-governance-and-ethics/",
+   "id": "ASEAN-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored in this run: the guide itself (asean.org PDF, 87 pages), now the official URL, which confirms the title, that it is an ASEAN-endorsed framework, its voluntary nature and 'Copyright 2024'; and the endorsed Joint Media Statement of the 4th ASEAN Digital Ministers' Meeting (asean.org PDF), the ministers' formal record that they endorsed the guide at their meeting in Singapore on 1-2 February 2024. The ASEAN Secretariat's publication page for the guide (rendered in a browser on 11 Oct 2026 and printed to PDF on 18 Oct 2026; the plain download fails with HTTP 307), which gives the ASEAN Secretariat as author and publisher and the year 2024, becomes the secondary URL: it is a catalogue entry about the guide, not its text. Neither source gives the day of endorsement, so date_published stays at the month. The Joint Media Statement's header reads 'as of 31 January 2023', an evident slip for 2024 in a statement on a February 2024 meeting.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://asean.org/wp-content/uploads/2025/01/Expanded-ASEAN-Guide-on-AI-Governance-and-Ethics-Generative-AI.pdf",
+   "secondary_url": "https://asean.org/book/expanded-asean-guide-on-ai-governance-and-ethics-generative-ai/",
+   "id": "ASEAN-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored in this run: the guide itself (asean.org PDF, 52 pages), now the official URL, which confirms the title, the risks, the recommendation areas, the use cases and its voluntary application but carries no date of its own; and the endorsed Joint Media Statement of the 5th ASEAN Digital Ministers' Meeting (asean.org PDF), the ministers' formal record that they welcomed the guide at their meeting in Bangkok on 16-17 January 2025, which dates it to January 2025. The ASEAN Secretariat's publication page for the guide (rendered in a browser on 11 Oct 2026 and printed to PDF on 18 Oct 2026; the plain download fails with HTTP 307; its 'Year' field is empty), which gives the ASEAN Secretariat as author and publisher, becomes the secondary URL: it is a catalogue entry about the guide, not its text. No source gives the day of release, so date_published stays at the month.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2024-11-21",
+   "id": "INT-11",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored for this record: the mission statement itself on nist.gov (2 pages, the official URL, stored 17 Oct 2026), which gives its title, the ten members, the four priority areas and the launch at the gathering in San Francisco on 21 November 2024, and the GOV.UK press release of 9 December 2025 (secondary source), which confirms the rename to the International Network for Advanced AI Measurement, Evaluation and Science and the UK's role as Network Coordinator. date_published follows the date the statement itself gives, 21 November 2024; the US launch fact sheet, released on 20 November 2024, gives the day before (its nist.gov copy was stored by the recheck of 17 Oct 2026; the commerce.gov copy refuses the archiver). The later work in the notes (consensus areas of 13 February 2026, best-practice guidance of July 2026, the G7 ministers' declaration of 29 May 2026) rests on the NIST news item, the UK AI Security Institute post and the G7 declaration stored by that recheck.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "OECD-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored for this record: the OECD's overview page of the Reporting Framework on OECD.AI (the official URL, 17 Oct 2026), the framework's own page, which sets who may take part and how reports are submitted and published and gives the launch on 7 February 2025, the G7 mandate under the Trento Declaration, the 25 reports of the first round and version 2.0; and MIC Japan's Hiroshima AI Process page on the framework (secondary source), which gives the same launch date, the first responses from 19 companies in April 2025 and the 31 reports under version 2.0 published on 2 October 2026. Stored in this run: the blank questionnaire of version 2.0 (Word file, oecd.ai), headed 'Hiroshima AI Process Voluntary Reporting Framework V2.0', whose seven sections, each tied to actions of the Code of Conduct, confirm the summary's list of what the questionnaire covers. The OECD.AI 'about' and 'reports' pages and the OECD.AI announcement of version 2.0 (launched 28 May 2026; the announcement is dated 29 May 2026) were stored by the recheck of 17 Oct 2026. The February 2025 OECD press release on oecd.org refuses the archiver (HTTP 403).",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "UN-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The resolution's own text could not be stored: the UN Digital Library record (official_url) returns a bot-check page, the press.un.org meeting coverage GA/12588 returns a JavaScript 'Client Challenge' page also in a browser, and documents.un.org is closed to automated downloads by robots.txt. Stored for this record: the UN News article of 21 March 2024 (secondary source), a news item that gives the date, the adoption without a vote and quotations of the operative text; its quotes count as alt-official. The General Assembly's list of the resolutions of its 78th session (un.org) was stored in this run, but the stored copy lists only resolutions 78/319 to 78/331 and does not show 78/265. The recheck of 17 Oct 2026 stored further un.org pages that name the resolution, its number and date: the spokesperson's briefing of the President of the General Assembly of 21 March 2024, the UN Photo caption of the adoption, A/RES/79/325, which recalls '78/265 of 21 March 2024', and the High-level Advisory Body's final report. The summary is written from the operative text that UN News quotes.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "AUS-07",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The Institute was set up by a government decision announced on 25 November 2025; the stored files hold no text of an establishing instrument, so title, date and status rest on announcements and government documents about the Institute, which count as alt-official. Stored for this record: the Department of Industry, Science and Resources news item of 25 November 2025 (the official URL; stored 11 Oct 2026 and found unchanged since), which gives the announcement, the Institute's tasks, its complementary role, operation from early 2026, membership of the international network and the 17 December update on the network's new name; and the Government response to the Senate Select Committee on Adopting Artificial Intelligence (industry.gov.au, tabled 1 April 2026; secondary source), which gives the funding, the testing of frontier AI models and that the Institute will not be a regulator. The minister's joint media release of 25 November 2025 and the Institute's own page on industry.gov.au, which shows it as part of the department with 3 goals, joint testing and publications up to October 2026, were stored by the recheck of 17 Oct 2026.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "CA-05",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The institute was launched by ministerial announcement within ISED; the stored files hold no text of an establishing instrument, so title, date and status rest on announcements and pages about the institute, which count as alt-official. Stored for this record: ISED's news release of 12 November 2024 (the official URL; stored 11 Oct 2026 and found unchanged since), which gives the launch, the initial CAD 50 million over five years, the home at ISED and the CIFAR and NRC research streams; and the page of Canada's National Artificial Intelligence Strategy: AI for All (secondary source), which commits a further CAD 50 million to expand the institute. The institute's own page on ised-isde.canada.ca (date modified 2026-07-08), which gives its focus, research streams, partners and publications, and ISED's news release of 5 June 2026, which dates the strategy's launch to 4 June 2026 (date_last_updated), were stored by the recheck of 17 Oct 2026.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 4 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2026",
+   "notes": "Launched by Prime Minister Mark Carney on 4 June 2026 (Prime Minister's news release of 4 June 2026; ISED news release of 5 June 2026); the strategy page was last modified on 8 June 2026. The Prime Minister's release says that over the next five years the strategy will introduce new legislation, investments and programs. It draws on national consultations in 2025, with more than 11,000 submissions, and a 28-member AI Strategy Task Force. Its legislative commitments concern consumer privacy legislation, online safety laws (including legal tools against deepfakes and for safe chatbot interactions) and the continued review of the Privacy Act. Further measures include applied AI research and testing with law enforcement and security agencies for fraud prevention, cyber defence and threat detection, a National AI Literacy Initiative, and, under the Canada-Germany Sovereign Technology Alliance launched in February 2026, shared AI evaluation standards and benchmarks. The government says it will review and update the plan.",
+   "scope_note": "Mainly an adoption and sovereignty strategy, with a first pillar on safety, online harms and transparency; the existing scope_note is right.",
+   "id": "CA-07",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored for this record: the strategy page on ised-isde.canada.ca (the official URL; date modified 2026-06-08) and the strategy's PDF (Iu4-458/2026E-PDF, ISBN 978-0-662-35657-8), both stored 11 Oct 2026 and found unchanged since, which are the strategy's own text; and ISED's news release of 5 June 2026 (secondary source). The strategy's own text gives only the year 2026 (copyright line and catalogue number). The launch day, 4 June 2026, comes from ISED's news release and from the Prime Minister's news release of 4 June 2026 (pm.gc.ca, stored by the recheck of 17 Oct 2026), both announcements, so date_published is written at the year and the day is in the notes. The other notes rest on the strategy's text and the Prime Minister's release.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 4 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "official_url": "https://www.tc260.org.cn/tc260/xwdt1/202609/e879077a3caa4722b2206d1bcaed5a6c/files/%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%86%E6%A1%86%E6%9E%B63.0%E3%80%8B.pdf.pdf",
+   "date_published": "2026-09",
+   "issuing_body": "National Technical Committee 260 on Cybersecurity of the Standardization Administration of China (TC260), under the guidance of the Cyberspace Administration of China",
+   "notes": "TC260 released it on 14 Sept 2026, the day both its own release notice and the CAC's notice carry, at the opening ceremony of the 2026 National Cybersecurity Publicity Week (CAC notice); the framework itself is dated September 2026. TC260 prepared it under the guidance of the Cyberspace Administration of China, with the China Academy of Cyberspace Studies, the CAC Data and Technology Support Center and other specialist institutions, research institutes and companies. It builds on versions 1.0 (2024) and 2.0 (2025) and replaces version 2.0. Compared with version 2.0 it adds the annex on AI agents and the section on sandbox supervision, which includes exploring liability exemptions for faultless conduct in sandbox tests; the risk-grading and trustworthy-AI annexes carry over, the latter extended to respect for digital sovereignty and international mutual recognition of model evaluations.",
+   "id": "CN-17",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text. Stored in this run: the framework PDF attached to TC260's release notice (tc260.org.cn, 136 pages: the Chinese text, then TC260's English text), now the official_url; stored on 11 Oct 2026: TC260's release notice of 14 Sept 2026 (the previous official_url, an announcement in TC260's news section, with browser-rendered and printed copies) and the CAC release notice of the same day (the secondary source). The PDF confirms the title, the issuer and its English name, and gives only the month (2026年9月), so date_published is 2026-09; the release day, 14 Sept 2026, is in the notes from the two notices. The identical PDF linked from the CAC notice was stored on 14 Oct 2026. The summary and notes were rewritten from the Chinese text in October 2026. The comparison with version 2.0 in the notes rests on the version 2.0 PDF stored for CN-13. The notices do not say in words that version 3.0 replaces 2.0; this follows from the version sequence.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "title": "Bill amending the Copyright Act (protection of personal characteristics, etc. and changed procedure for review by the Copyright Licence Tribunal)",
+   "original_title": "Forslag til lov om ændring af lov om ophavsret. (Beskyttelse af personlige kendetegn m.v. og ændret proces for prøvelse ved Ophavsretslicensnævnet)",
+   "official_identifier": "L 49 (2026-27)",
+   "scope_note": "A copyright-law bill rather than an AI-specific law; included because it is Denmark's operative instrument against sharing realistic digitally generated imitations of people (deepfakes).",
+   "notes": "Implements the political agreement of 26 June 2025 between the then SVM government (Social Democrats, Venstre and Moderates) and six other parties to create protection against the sharing of digital imitations by amending the Copyright Act. A draft was notified under the EU TRIS procedure as 2025/0654/DK (received 31 October 2025, replacing the withdrawn notification 2025/642/DK; standstill to 3 February 2026, with comments from the Commission). The notified draft, titled in English 'Draft act amending the Copyright Act (Introduction of performance and presentation protection and protection against digitally generated imitations, etc.)', would add a Section 73a (personal characteristics) and a Section 65a (performances and artistic presentations) to the Copyright Act, protect both until 50 years after the year of death of the person imitated or the performer, let courts order infringing copies removed from the medium where they are made available, and enter into force on 1 July 2026; its exception did not yet mention danger to life or property. Culture Minister Zenia Stampe introduced the bill in the Folketing on 8 October 2026 as L 49, under a new title, and hopes it can enter into force at the turn of the year 2026/27. The bill also changes the rules of the Copyright Licence Tribunal (Ophavsretslicensnævnet) so that the same dispute cannot run before the tribunal and the courts in parallel.",
+   "id": "DK-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored and read: the Ministry of Culture press release of 8 Oct 2026 (kum.dk, Danish, the official_url), which says the minister introduces the bill that day and is not the bill text; the Folketing's open-data case record for the bill (oda.ft.dk, case 106034, stored in this run), which gives its official title and the number L 49 and shows no decision and no law number (oda.ft.dk is not yet listed as an official host, so these quotes count as secondary); and the EU IP Helpdesk news item of 1 Jun 2026 on the TRIS notification (stored as the secondary source). The English title renders the Danish title of the bill as introduced; the earlier English title was that of the 2025 notified draft, whose TRIS English text was stored on 14 Oct 2026 and backs the notes on that draft. The session 2026-27 in the identifier follows from the date of introduction. The bill text as introduced and the minister's written introduction on ft.dk could not be stored (HTTP 403, browser timeout), so the date of introduction rests on the press release, the summary rests on the press release, and the record is level B.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "id": "IN-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Every source of this record is an announcement about the institute: the IndiaAI article (the official_url), which could not be stored on any attempt (robots.txt unreachable, DNS failures, then a TLS certificate that could not be verified) and of which the Office of the Principal Scientific Adviser's PDF copy (psa.gov.in, the secondary_url, dated 31 Jan 2025) is stored; and the PIB release of MeitY of 30 Jan 2025 (PRID 2097709, pib.gov.in), stored on 18 Oct 2026 in run 2026-10-18-recheck-south-asia-1 but not reachable again in this refresh (DNS failure). No document that is itself the instrument, such as an order establishing the institute, is known, so the record is level B. The day of the announcement (30 Jan 2025) rests on the PIB release. The PSA copy confirms the announcement by the minister, the Safe and Trusted pillar, the mandate, the hub-and-spoke model and the second Expression of Interest themes (watermarking and labelling, AI risk assessment and management, stress-testing tools, deepfake detection) used in the summary. The India AI Governance Guidelines (IN-02) confirm the institute's later role. No stored source gives the institute's legal form or a date of formal operational launch.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 3 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://www.irishstatutebook.ie/eli/2026/act/31/enacted/en/pdf",
+   "id": "IE-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored in this run (Irish Statute Book PDFs): the Act as enacted (Number 31 of 2026), now the official_url, which gives the title, the number, the date of passing (21 July 2026), the enacting formula and section 1(2) (commencement by ministerial order); S.I. No. 403 of 2026, the Commencement Order; and S.I. No. 404 of 2026, the Establishment Day Order, which appoints 31 July 2026 as the establishment day. Stored on 11 Oct 2026: the AI Office of Ireland's news item on the Act and its CEO (aioffice.gov.ie, the previous official_url, an announcement), which backs the notes on the CEO, the board and further legislation; and the Department of Enterprise, Tourism and Employment's EU AI Act page (the secondary source), which gives 2 Aug 2026 as the date the AI Office was established and lists the Article 77 authorities.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2025-12-23",
+   "date_last_updated": "2026-07-14",
+   "scope_note": "Statutory national AI plan whose main content is promoting AI development and adoption; included for its pillar on leading AI governance, which strengthens the AI Safety Institute's technical evaluation of AI models.",
+   "notes": "The Cabinet first decided the AI Basic Plan on 23 Dec 2025. The current text is the plan's second term (第Ⅱ期計画), decided by the Cabinet on 14 Jul 2026; the Cabinet Office lists the 2025 plan under past plans. The AI Strategic Headquarters, headed by the Prime Minister with all Cabinet ministers as members, follows up the plan, sets benchmarks and monitors progress. The plan is to be reviewed and changed as needed and, for the time being, every year (当面は毎年変更を行う); the government's provisional English translation renders this as 'in principle annually'. The plan's subtitle, ～日本ＡＸ、より強く、より豊かに～, is rendered in that translation as 'Japan AI Transformation; A Stronger Nation. Greater Prosperity.'",
+   "id": "JP-06",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored and read: the Cabinet Office AI Basic Plan page (Japanese, stored 11 Oct 2026), which lists the plan decided on 14 Jul 2026 and, under past plans, the plan decided on 23 Dec 2025; the second-term plan in Japanese (22 pages, 令和８年７月14日 閣議決定, stored again in this run), whose Chapter 1 says the Cabinet decided Japan's first AI Basic Plan under Article 18(1) of the AI Act on 23 Dec 2025 and that this text is the plan's second term (第Ⅱ期計画); the Cabinet Office's provisional English translation of the second plan; the English summary of the first plan; and the English Interim Report of the AI Strategic Council and AI Institutional Study Group (4 Feb 2025), a different document. The two dates belong to two versions of one statutory plan: date_published is the first Cabinet decision and date_last_updated the second. This agrees with the Digital Agency's guideline DS-920 version 2.0 (JP-13), whose revision of 12 Jun 2026, before the second plan, cites the plan of 23 Dec 2025. The summary is checked against the Japanese text, with the subtitle and the pillar name as the government's translation renders them. The public comment period from 19 Jun 2026, given in earlier notes, is not shown in a stored file.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "notes": "MOSTI's press release of 20 Sep 2024 says Deputy Prime Minister Fadillah Yusof launched the guidelines that day; the MASTIC publication page dates them September 2024. They were developed as an action plan of the National AI Roadmap 2021-2025 (AI-RMAP), with input from the working committee of the National Blockchain and Artificial Intelligence Committee (NBAIC), Universiti Teknologi Malaysia, industry and civil society. The guidelines call themselves a living document to be reviewed and updated regularly and say they will be made available in Malay and English. The National AI Action Plan 2026-2030 cites them as published by MOSTI in 2023. AI Malaysia's voluntary AI Code of Ethics (AICE) puts their seven principles into practice.",
+   "id": "MY-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored and read: the MASTIC (MOSTI) publication page (mastic.mosti.gov.my, copy of 18 Oct 2026; its text differs from the copy of 11 Oct 2026 only in the page's last-modified line), which gives the title, 'Sep 2024' and the type 'MOSTI Related Policies'; the guidelines PDF embedded in that page (140 pages, stored again in this run), which confirms the title, the publisher and the voluntary character and carries no date; MOSTI's Malay press release of 20 Sep 2024 on the launch (mosti.gov.my, stored again in this run); and AI Malaysia's AICE page (ai.gov.my, the secondary source). Because the guidelines carry no date and the issuer's publication page gives only the month, date_published is 2024-09 and the launch day from the press release is in the notes. The National AI Action Plan's citation of a 2023 publication rests on that plan's text (MY-03), not on a file of this record.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 3 field(s) supported, fixes applied to date_published, status."
+   }
+  },
+  {
+   "official_url": "https://strapi.naio.okie.my/uploads/AI_Nation_2030_National_AI_Action_Plan_2026_2030_EN_V_180826_ddf0221683.pdf",
+   "secondary_url": "https://strapi.naio.okie.my/uploads/28072026_SIARAN_MEDIA_AI_MALAYSIA_PEMACU_UTAMA_MENUJU_NEGARA_AI_2030_a6f8fbbbf3.pdf",
+   "date_published": "2026",
+   "notes": "The Ministry of Digital's press statement of 28 Jul 2026 says the government introduced the plan that day, at the launch of AI Malaysia Berhad, which institutionalised the National AI Office set up on 12 Dec 2024. At the same launch it announced the Malaysia AI Safety Institute (Institut Keselamatan AI Malaysia), a role AI Malaysia is to carry out, and an AI Governance Bill (RUU Tadbir Urus AI) being drafted on a risk-based approach, open to public consultation and targeted for completion by the end of 2026. The plan is published in English and Malay and bears a 2026 copyright of the Ministry of Digital. Oversight lies with the National Digital Economy and 4IR Council (MED4IRN), chaired by the Prime Minister, with AI Malaysia as central secretariat. The plan builds on the National Guidelines on AI Governance and Ethics (AIGE), which it cites as published by MOSTI in 2023, and on the Data Sharing Act 2025 (Act 864). E14 proposes amendments to the Malaysian Code on Corporate Governance on board oversight and disclosure of AI.",
+   "scope_note": "A national AI action plan mainly about adoption and growth, with enablers on governance, an AI Trust Function and safety standards; suggested scope_note: 'National AI plan whose main content is adoption and economic growth; included for its Trust via Responsible Governance enablers on risk-based regulation, safety standards, testing and incident reporting.'",
+   "id": "MY-03",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. Stored in this run: the plan's English PDF (104 pages, from strapi.naio.okie.my, AI Malaysia's content server, which a maintainer recorded as an official host; identical to the copy stored on 11 Oct 2026), now the official_url; the plan's Malay PDF (same host), the source of original_title; and the Ministry of Digital's Malay press statement of 28 Jul 2026 (same host), now the secondary_url. Also stored: AI Malaysia's homepage (ai.gov.my, the previous official_url, copy of 18 Oct 2026), which links both PDFs. The plan states no date beyond its 2026 copyright, so date_published is 2026 and the day the plan was introduced, from the press statement, is in the notes. The file names of both PDFs refer to a version of 18 Aug 2026, three weeks after the launch, so the text read may be a revised edition of what was introduced on 28 Jul 2026. The stored English text is complete, including E11 to E14 and Part 5; E11 proposes a regulatory framework as the foundation for future AI legislation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "notes": "The ministry's allocation letter for 2026 to Digdir, dated 6 Feb 2026, made establishing KI Norge as a national arena for responsible and value-creating use of AI one of Digdir's main priorities for the year. It places the statutory AI regulatory sandbox under the AI Act in KI Norge, to be set up and run in formal cooperation between Digdir, Nkom and Datatilsynet, gives Digdir the task of a joint national portal for information and guidance on AI, and allocates NOK 10 million for KI Norge as a separate unit in Digdir, with a further NOK 4.8 million for the sandbox. The post of director was advertised on 11 Feb 2026, the appointment of Hans Christian Holte as director was announced on 7 May 2026, and KI Norge opened on 12 Jun 2026. The director is part of Digdir's top management group.",
+   "scope_note": "Existing scope_note kept: an institutional mandate whose own text is a general allocation letter; the press release of the opening is an announcement, so title and date are alt-official (level B).",
+   "id": "NO-03",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Stored and read: the Ministry of Digitalisation and Public Governance's press release of 12 Jun 2026 on the opening of KI Norge (regjeringen.no), which gives its mandate, its place within Digdir, its director and the national AI sandbox it runs with Datatilsynet and Nkom; the ministry's press release of 11 Feb 2026 advertising the director post (stored as the secondary source), which describes the mandate and the sandbox and lists the press release of 7 May 2026 on the director's appointment; and, stored in this run, the ministry's allocation letter for 2026 to the Norwegian Digitalisation Agency (Tildelingsbrev 2026 – Digitaliseringsdirektoratet, ref. 25/2333, 6 Feb 2026, regjeringen.no), the instruction that makes establishing KI Norge a task of Digdir, places the AI sandbox in it and funds it. The record is about KI Norge's opening on 12 Jun 2026, whose title and date rest on the press release, an announcement, so the level is B; the allocation letter confirms the issuing bodies, the mandate and the status as the instrument's own text. Both press releases state that they are not available in English, and no English version was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "id": "SG-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the joint press release of the Ministry of Communications and Information, IMDA and the PDPC on MDDI's newsroom (copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site's last-updated footer), which gives the name A.I. Verify, the date 26 May 2022, IMDA and PDPC as developers, the MVP and pilot status and the caveats; its Annex B (isomer-user-content.by.gov.sg, Government of Singapore), with the 11 principles, the 8 selected for the MVP and the toolkit's limitations; and IMDA's copy of the press release (secondary source, copy of 18 Oct 2026), whose text layer now includes the body as well as the dateline 'SWITZERLAND, DAVOS – 25 MAY 2022'. All three are announcements about the framework, so the title, date and status rest on another official source, not on the framework's own text (level B). No text of the 2022 testing framework itself was found on an official host; the AI Verify testing framework is now published by the AI Verify Foundation on aiverifyfoundation.sg, which is listed as not official.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "summary": "Designates the Digital Trust Centre, which IMDA had appointed Nanyang Technological University to establish in June 2022, as Singapore's AI Safety Institute. Building on the Centre's work, the AISI is to address gaps in global AI safety science using Singapore's work in AI evaluation and testing, pull together the national research ecosystem, collaborate with other countries' AISIs and give science-based input to AI governance. Its initial research areas are testing and evaluation; safe model design, development and deployment; content assurance; and governance and policy. IMDA is the overall government agency for the AISI and the Centre does its technical work.",
+   "safety_topics": [
+    "safety institute",
+    "evaluation & testing",
+    "international cooperation",
+    "research priorities"
+   ],
+   "notes": "IMDA's factsheet announcing the designation carries the dateline Singapore, 22 May 2024; IMDA last updated the page on 10 Oct 2024. The Digital Trust Centre was set up with initial funding of S$50 million to drive research and innovation in trust technologies, with AI testing and privacy-enhancing technologies among its research areas; its work is funded by a $50 million grant from the National Research Foundation and IMDA starting from 1 Oct 2022. At the designation, Singapore was in discussions with the US and UK AISIs on collaboration, particularly on generative AI evaluations, and presented the designation as an extension of work such as expanding AI Verify to test generative AI safety. The AISI's technical testing now covers multilingual and agentic AI, partly jointly with other members of the international Network for Advanced AI Measurement, Evaluation and Science (NAAIMES), and it studies societal impacts such as emotional dependency.",
+   "id": "SG-03",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: IMDA's factsheet on the designation (imda.gov.sg, copy of 18 Oct 2026), whose text layer now includes its body as well as the heading 'Digital Trust Centre designated as Singapore's AISI', the dateline 'SINGAPORE – 22 MAY 2024' and the page's last update (10 Oct 2024); and the Singapore AISI's About page (sgaisi.sg, run by the AISI and listed as official; stored as the secondary source, copy of 18 Oct 2026), which describes the mandate, IMDA's and the Digital Trust Centre's roles, the Centre's hosting at NTU and its funding, and the AISI's current work. The factsheet is an announcement of the designation and no separate designation instrument was found, so the title, date and status rest on another official source (level B). The summary, topics and notes now follow the factsheet's body, which gives the AISI's tasks, its initial research areas and the Centre's set-up in June 2022; the AISI page supports IMDA's and the Centre's roles and the current work in the notes.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "IMDA and the AI Verify Foundation released a proposed framework for international views on 16 Jan 2024, announced at Davos. They received over 70 responses from local and international companies, technology multinationals, audit firms and government agencies, and finalised the framework on 30 May 2024, when IMDA also announced that Singapore would lead, with Rwanda, the development of an AI Governance Playbook for the Digital Forum of Small States. The framework builds on the June 2023 Discussion Paper on Generative AI by IMDA, Aicadium and the AI Verify Foundation, and is meant as a first step: implementation guidelines and resources are to follow under each of the nine dimensions.",
+   "id": "SG-04",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: IMDA's factsheet of 30 May 2024 (imda.gov.sg, copy of 11 Oct 2026, unchanged when checked on 18 Oct 2026), whose text layer now includes its body: the proposed framework of January 2024, the more than 70 responses, the statement that the framework 'is finalised today' and the Digital FOSS playbook; and the AI Verify Foundation's framework page (aiverifyfoundation.sg, copy of 18 Oct 2026), which gives the full title, the nine dimensions and the release dates of 16 Jan 2024 and 30 May 2024. The framework's own text is published on aiverifyfoundation.sg, which is listed as not official, so it counts as secondary; the factsheet is an announcement, so the title, date and status rest on another official source (level B). The framework's PDF on aiverifyfoundation.sg (stored in this run; its file name says 19 June 2024, its text layer carries no date) gives the text behind the summary, the June 2023 Discussion Paper and the guidelines to follow, and the IMDA and AI Verify Foundation copyright (2024).",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+   "secondary_url": "https://www.mddi.gov.sg/newsroom/singapore-launches-new-model-ai-governance-framework-for-agentic-ai--/",
+   "id": "SG-08",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the framework's own text on imda.gov.sg, stored again in this run as the official source (same file as the record's earlier copy of 11 Oct 2026), whose cover reads 'Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)' and which says the version incorporates feedback received since v1.0; and MDDI's press release of 22 Jan 2026 (mddi.gov.sg, copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site footer), which gives the launch of Version 1.0 at Davos on 22 Jan 2026, IMDA as developer and the four dimensions. official_url now points to the framework's text and the press release becomes the secondary source. The framework's text confirms the title, the current version and its status, but not the date of Version 1.0, which rests on the press release, an announcement; so the date has another official source only (level B). No copy of Version 1.0 on an official host was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF",
+   "secondary_url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2025/20250311-referencia-rueda-de-prensa-ministros.aspx",
+   "id": "ES-03",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Stored and read in this run: the BOCG, Congreso de los Diputados, Serie A, núm. 97-1 of 12 June 2026 (congreso.es, listed as official), with the bill's full text, file 121/000096, the committee referral and the amendment deadline of 30 June 2026; and the La Moncloa referencias of the Council of Ministers, the Council's record of the agreements of each meeting, of 11 March 2025 (anteproyecto approved in first reading, with urgent processing) and 26 May 2026 (proyecto de ley orgánica approved for submission to the Congress; the archiver flagged this page for review because the AI item is one of many items on it, and the item is there). official_url now points to the bill's text in the BOCG, and the referencia of 11 March 2025, which gives date_published, becomes the secondary source. No later parliamentary stage (extension of the amendment period, committee report, plenary vote) is in the stored sources. No English translation of the bill was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 10 field(s) supported."
+   }
+  },
+  {
+   "id": "CH-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Stored and read: the Federal Council's English media release of 12 February 2025 on admin.ch, rendered in a browser and printed to PDF on 18 Oct 2026 (its text is the same as the print of 17 Oct 2026), which gives the title, the date, the decision's parameters and its next steps; the plain download of the same page (17 Oct 2026, title and lead only); the German release stored on 11 Oct 2026 (title and lead only; the page now loads as a JavaScript shell, so the earlier copy is kept); and, stored in this run, the Federal Office of Justice's page on AI (bj.admin.ch, printed to PDF on 18 Oct 2026; the archiver flagged it for review because it does not repeat the record's title, and it is the office's page on the follow-up to the decision), which describes the work on the consultation bill. The media release is an announcement of the Federal Council's decision, and no separate text of the decision was found, so the title, date and status rest on another official source (level B). No stored source shows that the consultation has opened.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "id": "GB-07",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the GOV.UK press release of DSIT, the AI Security Institute and Peter Kyle, published 14 February 2025 (stored 11 Oct 2026; the archiver found it unchanged on 18 Oct 2026), and the AI Security Institute's home page (aisi.gov.uk, stored as the secondary source; mission and place within DSIT). The press release confirms the title, the date, the renaming and the institute's new focus; the home page shows the institute operating under the new name. The record rests on the press release, which is an announcement of the decision: no separate text of the decision to rename and refocus the institute is among the stored files, and the press release links none. Its quotes therefore count as alt-official, not as the instrument's own text. GOV.UK marks the release as published under the 2024 to 2026 Starmer Labour government.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf",
+   "secondary_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/",
+   "scope_note": "Existing scope_note kept: company commitments brokered and published by the White House.",
+   "id": "US-03",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the two files stored on 11 Oct 2026 on the NARA-archived Biden White House site (both found unchanged by the archiver on 18 Oct 2026): the White House fact sheet of 21 July 2023 and the commitments' own text, a four-page PDF headed 'Ensuring Safe, Secure, and Trustworthy AI' with the list 'Voluntary AI Commitments'. The PDF confirms the eight commitments, their scope, the three principles and the companies' intention to keep them until regulations covering the same issues come into force; it carries no date and does not name the companies. The title wording, the date of 21 July 2023 and the seven companies rest on the fact sheet, an announcement, so they count as alt-official. official_url now points at the commitments' text and the fact sheet becomes secondary_url. 'Superseded' is a judgment resting on record US-27, whose own sources are secondary; no stored file of this record shows the commitments withdrawn or replaced (open question, issue #134). The White House fact sheet of 12 Sep 2023 on eight further companies was requested in an earlier run but could not be stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "official_url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/",
+   "secondary_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/",
+   "summary": "Presidential memorandum on AI and national security, with a classified annex. Its three objectives: lead the world's development of safe, secure and trustworthy AI; harness AI with safeguards for national security; and cultivate a stable, responsible framework for international AI governance. It makes the AI Safety Institute the government's primary point of contact with AI developers for voluntary pre- and post-deployment testing of frontier models, including for cyber and biological and chemical weapons risks, and requires a Framework to Advance AI Governance and Risk Management in National Security setting prohibited and high-impact AI uses with minimum risk management practices.",
+   "notes": "Signed by President Biden on 24 Oct 2024. It fulfils the directive in subsection 4.8 of his executive order on AI (EO 14110, US-04). The companion Framework to Advance AI Governance and Risk Management in National Security was published the same day; the memorandum has the NSC Deputies Committee approve the Framework and review it periodically. The White House fact sheet of the same day also says the memorandum makes collection on competitors' operations against the US AI sector a top-tier intelligence priority; the memorandum's public text directs a review of the intelligence priorities to improve the identification of foreign intelligence threats to the US AI ecosystem. NSPM-11 of 5 Jun 2026 (US-28), section 3(f), rescinds and replaces NSM-25 and associated guidance.",
+   "id": "US-09",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run and read: the memorandum's own text on the NARA-archived Biden White House site (presidential actions, page dated 24 Oct 2024, signed 'JOSEPH R. BIDEN JR.') and NSPM-11 of 5 Jun 2026 on whitehouse.gov. Also re-read: the White House fact sheet of 24 Oct 2024 (stored 11 Oct 2026, unchanged on 18 Oct 2026). The memorandum's text confirms the full title, the date, the President as issuer, its binding directions to agencies and the content of the summary; official_url now points at it and the fact sheet becomes secondary_url. NSPM-11, section 3(f), confirms the number 25 and the rescission and replacement of the memorandum and associated guidance on 5 Jun 2026. The summary was rewritten from the memorandum's text instead of the fact sheet. The Framework's own text is not stored (its ai.gov URL redirected to the si.gov home page on 17 Oct 2026); the record describes it only as far as the memorandum does.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 12 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2025-07",
+   "notes": "The White House announced the plan's release on 23 July 2025; the document itself is dated July 2025. The plan follows Executive Order 14179 (US-11), which directed the creation of an AI Action Plan. The announcement calls it 'Winning the AI Race: America's AI Action Plan' and counts over 90 federal policy actions. The plan is signed by Michael J. Kratsios (Assistant to the President for Science and Technology), David O. Sacks (Special Advisor for AI and Crypto) and Marco A. Rubio (Assistant to the President for National Security Affairs). It says AI-related federal funding should not go to states with burdensome AI regulations, but that the federal government should not interfere with states' rights to pass prudent laws that are not unduly restrictive to innovation, and it asks agencies to consider a state's AI regulatory climate in funding decisions; EO 14365 of December 2025 (US-20) later directed action against state AI laws. It asks NIST to revise the AI RMF (US-02) to remove references to misinformation, diversity, equity and inclusion, and climate change. CAISI's draft NIST AI 800-2 (US-21) answers the plan's call for evaluation guidelines. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) still cites the plan and its more than 90 federal actions.",
+   "id": "US-16",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the plan's PDF on whitehouse.gov (stored 11 Oct 2026; the archiver found it unchanged on 18 Oct 2026). It confirms the title, the White House as issuer and the three signatories, 'JULY 2025' on the cover, and the recommended actions in the summary. The plan's own text gives only the month, so date_published is now 2025-07 instead of 2025-07-23. The release day, 23 July 2025, is kept in the notes; it rests on the White House announcement of that day (whitehouse.gov/articles, stored on 17 Oct 2026 in run 2026-10-17-recheck-north-america-1), which counts as an announcement, not as the plan's text. The count of more than 90 federal policy actions also comes from that announcement and from the White House fact sheet of 29 Sep 2026 stored in the same run; it is not in the plan.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2026-03",
+   "notes": "The White House announced the framework on 20 March 2026; the document itself is dated March 2026. The White House release of that day describes six key objectives and adds that the framework can succeed only if applied uniformly across the country, the subject of the document's seventh part on preempting state AI laws. Section 8 of EO 14365 (US-20) had called for a legislative recommendation preempting conflicting state AI laws, with carve-outs for child safety, AI compute and data centre infrastructure, and state procurement and use of AI. The recommendations ask Congress to build on the TAKE IT DOWN Act (US-14). The FTC's proposed policy statement of 1 July 2026 (US-24) cites the framework. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) calls it a 'National Super Intelligence Policy Framework with legislative recommendations', following that order's renaming of AI as 'Super Intelligence'.",
+   "id": "US-22",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the framework's PDF on whitehouse.gov (stored 11 Oct 2026; the archiver found it unchanged on 18 Oct 2026). It confirms the title, the White House as issuer, 'MARCH 2026' on the cover, the seven parts and the recommendations in the summary. The document's own text gives only the month, so date_published is now 2026-03 instead of 2026-03-20; the PDF's file name on whitehouse.gov begins '03.20.26', but that is not part of the text. The day, 20 March 2026, is kept in the notes; it rests on the White House release of that day (whitehouse.gov/releases, stored on 17 Oct 2026 in run 2026-10-17-recheck-north-america-1), an announcement about the framework. The White House fact sheet of 29 Sep 2026, stored in the same run, supports the notes and shows the framework still cited.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/oberno_079_xml-the-frontier-act-final-text.pdf",
+   "secondary_url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+   "id": "US-25",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the files stored on 11 Oct 2026 on obernolte.house.gov (all found unchanged by the archiver on 18 Oct 2026): the sponsors' press release of 23 Jul 2026, the bill text linked from it (74 pages, headed '119TH CONGRESS 2D SESSION H. R. __' with the number and the committee left blank, stamped 22 Jul 2026 by the drafters) and the section-by-section summary. The bill text confirms the full title, the sponsor and that it is a bill, and the provisions in the summary; it does not give the introduction date. The introduction on 23 Jul 2026 and the five co-sponsors rest on the press release, an announcement, so the date counts as alt-official and the record is level B until the House's record of the bill is stored. The bill's congress.gov page was requested in this run but could not be stored on 18 Oct 2026 (HTTP 403, and the browser retry timed out), so the bill number, committee referral and later actions are still not in a stored source. official_url now points at the bill text and the press release becomes secondary_url; the section-by-section summary stays stored with the record. The release spells the sixth sponsor 'Subramanyan'; the record keeps 'Subramanyam'. The 1 Oct 2026 statement of Reps. Obernolte and Trahan is stored as US-27's source (archive/US-27/2026-10-11/secondary.html).",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "HK-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the framework PDF, version 2.0 dated December 2025 (digitalpolicy.gov.hk, stored 11 Oct 2026, unchanged on 18 Oct 2026), and the Digital Policy Office's page 'AI and Data Ethics' that presents it and links the PDF (same dates). The PDF confirms the title, the issuer, the version and its date, the amendment history from version 1.1 (June 2023) and the content of the summary. Neither the PDF nor the page dates the first version: date_published, the year 2021, rests on a speech by the Secretary for Innovation, Technology and Industry of 30 Oct 2025 on the bureau's site (itib.gov.hk, stored again in this run on 18 Oct 2026), which says the framework was 'first introduced in 2021' and updated in 2023. A speech is an announcement, so the date counts as alt-official and the record is level B until the framework's first version or an official record of its issue is stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  }
+ ],
+ "history_context": {
+  "ASEAN-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate ASEAN-01",
+   "fields": {
+    "official_url": {
+     "reason": "the asean.org /book/ page (a catalogue entry about the guide) -> the guide's own PDF on asean.org, stored in this run (rule 7c)",
+     "evidence": []
+    },
+    "secondary_url": {
+     "reason": "null -> the asean.org /book/ publication page, which gives the ASEAN Secretariat as author and publisher",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+     "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+     "locator": "page 1, cover",
+     "quote": "ASEAN Guide on AI Governance and Ethics"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+     "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+     "locator": "page 1, heading",
+     "quote": "The 4th ASEAN Digital Ministers’ Meeting and Related Meetings Singapore, 1 - 2 February 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+     "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+     "locator": "page 9, 3. Target Audience",
+     "quote": "The ASEAN Guide on AI Governance and Ethics is an ASEAN-endorsed framework for organisations in the region to refer to when designing, developing, and deploying traditional AI technologies."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+     "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+     "locator": "page 1, paragraph 1",
+     "quote": "The 4th ASEAN Digital Ministers Meeting (ADGMIN) was held in Singapore on 1-2 February 2024."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+     "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+     "locator": "page 8, 1. Objectives",
+     "quote": "While adoption of the framework laid out herein is voluntary, this Guide can help organisations build trust"
+    }
+   ],
+   "cand_id": "ASEAN-01"
+  },
+  "ASEAN-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate ASEAN-02",
+   "fields": {
+    "official_url": {
+     "reason": "the asean.org /book/ page (a catalogue entry about the guide) -> the guide's own PDF on asean.org, stored in this run (rule 7c)",
+     "evidence": []
+    },
+    "secondary_url": {
+     "reason": "null -> the asean.org /book/ publication page, which gives the ASEAN Secretariat as author and publisher",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+     "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+     "locator": "page 2, running header",
+     "quote": "Expanded ASEAN Guide on AI Governance and Ethics – Generative AI 2 Executive Summary"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+     "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+     "locator": "page 1, heading",
+     "quote": "The 5th ASEAN Digital Ministers’ Meeting and Related Meetings Bangkok, Thailand, 16 - 17 January 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+     "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+     "locator": "page 39, Conclusion",
+     "quote": "This Guide is collaboratively developed by all ASEAN Member States and will serve as a foundation for ASEAN to take forward future work."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+     "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+     "locator": "page 1, paragraph 1",
+     "quote": "The 5 th ASEAN Digital Ministers Meeting (ADGMIN) was held in Bangkok, Thailand on 16 - 17 January 2025"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+     "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+     "locator": "page 39, Conclusion",
+     "quote": "ASEAN Member States are recommended to apply, on a voluntary basis, the recommendations in this Guide. Nothing in this Guide may be interpreted as replacing or changing any party’s legal obligations or rights under any ASEAN Member State’s laws."
+    }
+   ],
+   "cand_id": "ASEAN-02"
+  },
+  "INT-11": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate INT-11",
+   "fields": {
+    "date_published": {
+     "reason": "2024-11-20 -> 2024-11-21: the mission statement dates itself ('gathered today in San Francisco on November 21, 2024 to launch the International Network'); 20 November 2024 is the release date of the US fact sheet, an announcement about it. A statement's date is taken from the document itself (extract.md step 1), and the notes already give both days.",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/INT-11/2026-10-17/official.pdf",
+       "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+       "locator": "page 1, first paragraph",
+       "quote": "have gathered today in San Francisco on November 21, 2024 to launch the International Network of AI Safety Institutes"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "status",
+    "legal_force",
+    "date_last_updated"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/INT-11/2026-10-17/official.pdf",
+     "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+     "locator": "page 1, heading",
+     "quote": "International Network of AI Safety Institutes Mission Statement"
+    },
+    {
+     "field": "status",
+     "file": "archive/INT-11/2026-10-17/official.pdf",
+     "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+     "locator": "page 1, second paragraph",
+     "quote": "The International Network of AI Safety Institutes is intended to be a forum that brings together technical expertise from around the world."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/INT-11/2026-10-17/official.pdf",
+     "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+     "locator": "page 2, first paragraph",
+     "quote": "As a first step, we intend to prioritize our collective efforts, in line with our mandates, in the following four areas crucial to international AI safety"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/INT-11/2026-10-17/secondary.html",
+     "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+     "locator": "Press release, header",
+     "quote": "Published: 9 December 2025"
+    }
+   ],
+   "cand_id": "INT-11"
+  },
+  "OECD-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate OECD-02",
+   "fields": {},
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+     "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+     "locator": "questionnaire, heading",
+     "quote": "HIROSHIMA AI PROCESS VOLUNTARY REPORTING FRAMEWORK V2.0"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/OECD-02/2026-10-17/official.html",
+     "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+     "locator": "The Hiroshima AI Reporting Framework, Overview, background",
+     "quote": "The Reporting Framework, launched on February 7 2025, is a direct outcome of the G7 Hiroshima AI Process"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+     "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+     "locator": "questionnaire, heading",
+     "quote": "HIROSHIMA AI PROCESS VOLUNTARY REPORTING FRAMEWORK V2.0"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/OECD-02/2026-10-17/official.html",
+     "sha256": "46d38f702a5553d84e2db9b78460ede78b258752faaa28ac3c1f10ddd9fe7197",
+     "locator": "The Hiroshima AI Reporting Framework, Overview, background",
+     "quote": "At the G7's request and in line with the Trento Declaration, the OECD was tasked with identifying mechanisms to monitor the voluntary adoption of the Code."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/OECD-02/extra-941d14834e/2026-10-18/official.docx",
+     "sha256": "7bce83fd8e8e4372a0f3b6a5cc63db7b4755b28ad234f664822f5cf3ea83966a",
+     "locator": "questionnaire, heading",
+     "quote": "HIROSHIMA AI PROCESS VOLUNTARY REPORTING FRAMEWORK V2.0"
+    }
+   ],
+   "cand_id": "OECD-02"
+  },
+  "UN-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate UN-02",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/UN-02/2026-10-17/secondary.html",
+     "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+     "locator": "General Assembly adopts landmark resolution on artificial intelligence, first paragraph",
+     "quote": "The UN General Assembly on Thursday adopted a landmark resolution on the promotion of “safe, secure and trustworthy” artificial intelligence (AI) systems that will also benefit sustainable development for all."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/UN-02/2026-10-17/secondary.html",
+     "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+     "locator": "General Assembly adopts landmark resolution on artificial intelligence, dateline",
+     "quote": "21 March 2024 SDGs The UN General Assembly on Thursday adopted a landmark resolution"
+    },
+    {
+     "field": "status",
+     "file": "archive/UN-02/2026-10-17/secondary.html",
+     "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+     "locator": "General Assembly adopts landmark resolution on artificial intelligence, second paragraph",
+     "quote": "Adopting a United States-led draft resolution without a vote"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/UN-02/2026-10-17/secondary.html",
+     "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+     "locator": "General Assembly adopts landmark resolution on artificial intelligence, first paragraph",
+     "quote": "The UN General Assembly on Thursday adopted a landmark resolution"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/UN-02/2026-10-17/secondary.html",
+     "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+     "locator": "Same rights, online and offline",
+     "quote": "The Assembly also urged all States, the private sector, civil society, research organizations and the media, to develop and support regulatory and governance approaches and frameworks related to safe, secure and trustworthy use of AI."
+    }
+   ],
+   "cand_id": "UN-02"
+  },
+  "AUS-07": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate AUS-07",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/AUS-07/2026-10-11/official.html",
+     "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+     "locator": "Australia to establish new institute to strengthen AI safety, lead paragraph",
+     "quote": "The Australian Government is establishing an Australian Artificial Intelligence Safety Institute to respond to AI-related risks and harms."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/AUS-07/2026-10-11/official.html",
+     "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+     "locator": "Australia to establish new institute to strengthen AI safety, More information",
+     "quote": "The minister announced the Australian AI Safety Institute on 25 November 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/AUS-07/2026-10-11/official.html",
+     "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+     "locator": "Australia to establish new institute to strengthen AI safety, lead paragraph",
+     "quote": "The AI Safety Institute will become operational in early 2026."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/AUS-07/2026-10-11/official.html",
+     "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+     "locator": "page title",
+     "quote": "Australia to establish new institute to strengthen AI safety | Department of Industry Science and Resources"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/AUS-07/2026-10-11/secondary.html",
+     "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+     "locator": "Government response, regulatory approach",
+     "quote": "The AI Safety Institute will not be a regulator."
+    }
+   ],
+   "cand_id": "AUS-07"
+  },
+  "CA-05": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate CA-05",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CA-05/2026-10-11/official.html",
+     "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+     "locator": "news release, heading",
+     "quote": "Canada launches Canadian Artificial Intelligence Safety Institute From: Innovation, Science and Economic Development Canada News release"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CA-05/2026-10-11/official.html",
+     "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+     "locator": "news release, dateline",
+     "quote": "November 12, 2024 – Montréal, Quebec"
+    },
+    {
+     "field": "status",
+     "file": "archive/CA-05/2026-10-11/official.html",
+     "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+     "locator": "news release, second paragraph",
+     "quote": "Today, the Honourable François-Philippe Champagne, Minister of Innovation, Science and Industry, announced the launch of the Canadian Artificial Intelligence Safety Institute (CAISI)"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CA-05/2026-10-11/official.html",
+     "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+     "locator": "news release, Quick facts",
+     "quote": "CAISI will be housed at Innovation, Science and Economic Development Canada, with a dedicated office responsible for overseeing the research agenda and engaging with international partners."
+    }
+   ],
+   "cand_id": "CA-05"
+  },
+  "CA-07": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate CA-07",
+   "fields": {
+    "date_published": {
+     "reason": "2026-06-04 -> 2026: the strategy's own text (page and PDF) gives only the year 2026; the launch day, 4 June 2026, is given only by announcements (the Prime Minister's and ISED's news releases). Rule 7b: write the date at the precision of the instrument's own text and put the day, with its source, in the notes.",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/CA-07/2026-10-11/document-1.pdf",
+       "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+       "locator": "page 2, copyright notice",
+       "quote": "©His Majesty the King in Right of Canada, as represented by the Minister of Innovation, Science and Industry, 2026"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence: the launch day now names its sources (the Prime Minister's news release of 4 June 2026 and ISED's of 5 June 2026); the rest is unchanged",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/CA-07/2026-10-11/secondary.html",
+       "sha256": "6fa43aeedbc9acf7969583f6198888ac14813cf747f8c8d82240363828e997b3",
+       "locator": "news release, dateline",
+       "quote": "June 5, 2026 – Montréal, Quebec"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "status"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CA-07/2026-10-11/official.html",
+     "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+     "locator": "strategy page, heading",
+     "quote": "Canada’s National Artificial Intelligence Strategy: AI for All (PDF, 2.37 MB)"
+    },
+    {
+     "field": "status",
+     "file": "archive/CA-07/2026-10-11/document-1.pdf",
+     "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+     "locator": "page 50, Conclusion",
+     "quote": "Canada’s AI for All strategy represents a significant new investment in our future."
+    }
+   ],
+   "cand_id": "CA-07"
+  },
+  "CN-17": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate CN-17",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at TC260's release notice, an announcement that attaches the framework; the framework PDF itself is now stored and becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+       "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+       "locator": "page 1, cover",
+       "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0 全国网络安全标准化技术委员会 National Technical Committee 260 on Cybersecurity of SAC 2026年9月"
+      }
+     ]
+    },
+    "date_published": {
+     "reason": "the framework's own text gives only 2026年9月 on its cover; the day (14 Sept 2026) comes from the release notices, which are announcements, so it moves to the notes (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+       "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+       "locator": "page 1, cover",
+       "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0 全国网络安全标准化技术委员会 National Technical Committee 260 on Cybersecurity of SAC 2026年9月"
+      }
+     ]
+    },
+    "issuing_body": {
+     "reason": "the issuer's own English name as the framework's English text gives it ('National Technical Committee 260 on Cybersecurity of the Standardization Administration of China'), with the CAC's guiding role kept",
+     "evidence": [
+      {
+       "field": "issuing_body",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+       "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+       "locator": "page 55, Preface",
+       "quote": "under the guidance of the Cyberspace Administration of China (CAC), the National Technical Committee 260 on Cybersecurity of the Standardization Administration of China organized relevant professional institutions"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence now gives the release day with its sources and says the framework is dated September 2026",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "status"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+     "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+     "locator": "page 1, cover",
+     "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+     "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+     "locator": "page 1, cover",
+     "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+     "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+     "locator": "page 1, cover",
+     "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0 全国网络安全标准化技术委员会 National Technical Committee 260 on Cybersecurity of SAC 2026年9月"
+    }
+   ],
+   "cand_id": "CN-17"
+  },
+  "DK-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate DK-02",
+   "fields": {
+    "title": {
+     "reason": "the bill introduced on 8 Oct 2026 has a different title from the 2025 notified draft; the English title now renders the Folketing's title of L 49 (no official English text of the bill is known)",
+     "evidence": [
+      {
+       "field": "title",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+       "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+       "locator": "case record, titel",
+       "quote": "\"titel\":\"Forslag til lov om \\u00e6ndring af lov om ophavsret. (Beskyttelse af personlige kendetegn m.v. og \\u00e6ndret proces for pr\\u00f8velse ved Ophavsretslicensn\\u00e6vnet).\""
+      }
+     ]
+    },
+    "original_title": {
+     "reason": "replaced the unverified wording with the bill's title verbatim from the Folketing's case record (the record's closing full stop dropped)",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+       "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+       "locator": "case record, titel",
+       "quote": "\"titel\":\"Forslag til lov om \\u00e6ndring af lov om ophavsret. (Beskyttelse af personlige kendetegn m.v. og \\u00e6ndret proces for pr\\u00f8velse ved Ophavsretslicensn\\u00e6vnet).\""
+      }
+     ]
+    },
+    "official_identifier": {
+     "reason": "the citable number of a bill is its Folketing number, L 49; the TRIS number of the 2025 draft stays in the notes",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+       "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+       "locator": "case record, nummer",
+       "quote": "\"nummer\":\"L 49\",\"nummerprefix\":\"L\",\"nummernumerisk\":\"49\""
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "the published scope_note was a reviewer's remark (it cites 'section 10' and says 'A scope_note is advisable'); rewritten as a public statement of why the bill is borderline and included",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "gives the notified draft's English title, which no longer serves as the record's title, and the bill number; drops the remark that the English title is that of the notified draft",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "date_published",
+    "status",
+    "legal_force",
+    "issuing_body"
+   ],
+   "evidence": [
+    {
+     "field": "date_published",
+     "file": "archive/DK-02/2026-10-11/official.html",
+     "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+     "locator": "press release, label and date",
+     "quote": "Pressemeddelelse 08.10.2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+     "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+     "locator": "case record, decision and law number",
+     "quote": "\"lovnummer\":null,\"lovnummerdato\":null,\"retsinformationsurl\":null"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/DK-02/2026-10-11/official.html",
+     "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+     "locator": "press release, paragraph 2",
+     "quote": "Med lovforslaget bliver det ulovligt at dele eksempelvis virkelighedstro gengivelser af en person, herunder vedkommendes udseende og stemme."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/DK-02/2026-10-11/official.html",
+     "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+     "locator": "press release, lead",
+     "quote": "Kulturminister Zenia Stampe fremsætter i dag et lovforslag"
+    }
+   ],
+   "cand_id": "DK-02"
+  },
+  "IN-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate IN-01",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "issuing_body"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/IN-01/2026-10-18/secondary.pdf",
+     "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+     "locator": "page 1, heading",
+     "quote": "India Takes the Lead: Establishing the IndiaAI Safety Institute for Responsible AI Innovation"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/IN-01/2026-10-18/secondary.pdf",
+     "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+     "locator": "page 2",
+     "quote": "The Hon’ble Minister has announced the setting up of IndiaAI Safety Institute under the Safe and Trusted Pillar of the IndiaAI Mission to address AI risks & Safety Challenges."
+    },
+    {
+     "field": "status",
+     "file": "archive/IN-01/2026-10-18/secondary.pdf",
+     "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+     "locator": "page 2",
+     "quote": "The Institute, incubated by IndiaAI Mission will be set up on a hub and spoke model with various research and academic institutions, private sector partners joining the hub"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/IN-01/2026-10-18/secondary.pdf",
+     "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+     "locator": "page 1",
+     "quote": "Hon’ble Minister of Electronics & IT, Shri Ashwini Vaishnaw in presence of Hon’ble MoS of E&IT"
+    }
+   ],
+   "cand_id": "IN-01"
+  },
+  "IE-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate IE-01",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at the AI Office's news item, an announcement; the Act as enacted (Irish Statute Book, ELI) is now stored and becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-4d9b48787c/2026-10-18/official.pdf",
+       "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+       "locator": "page 1",
+       "quote": "Number 31 of 2026 Regulation of Artificial Intelligence Act 2026"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-4d9b48787c/2026-10-18/official.pdf",
+     "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+     "locator": "page 13, section 1(1)",
+     "quote": "1. (1) This Act may be cited as the Regulation of Artificial Intelligence Act 2026."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-4d9b48787c/2026-10-18/official.pdf",
+     "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+     "locator": "page 1",
+     "quote": "Number 31 of 2026 Regulation of Artificial Intelligence Act 2026"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-4d9b48787c/2026-10-18/official.pdf",
+     "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+     "locator": "page 13, long title and date of passing",
+     "quote": "2014; and to provide for related matters. [21st July, 2026] Be it enacted by the Oireachtas as follows:"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-7b1d823166/2026-10-18/official.pdf",
+     "sha256": "c1a4385856c3bd0f58f29c53221dc57a402b41b918eb20c099de355a4f666cf5",
+     "locator": "page 2, article 2",
+     "quote": "2. The 31st day of July 2026 is appointed as the day on which the Regulation of Artificial Intelligence Act 2026 (No. 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, shall come into operation."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-7b1d823166/2026-10-18/official.pdf",
+     "sha256": "c1a4385856c3bd0f58f29c53221dc57a402b41b918eb20c099de355a4f666cf5",
+     "locator": "page 2, article 2",
+     "quote": "2. The 31st day of July 2026 is appointed as the day on which the Regulation of Artificial Intelligence Act 2026 (No. 31 of 2026), other than paragraphs (a) and (e) of the definition of “applicable market surveillance authority” in section 78, shall come into operation."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-4d9b48787c/2026-10-18/official.pdf",
+     "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+     "locator": "page 13, enacting formula",
+     "quote": "2014; and to provide for related matters. [21st July, 2026] Be it enacted by the Oireachtas as follows:"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/IE-01/extra-4d9b48787c/2026-10-18/official.pdf",
+     "sha256": "ee7e5819f2e85e1997f130140b0d3ee0fbdab4f0872e5d69c995ce9d89f58bbb",
+     "locator": "page 13, enacting formula",
+     "quote": "2014; and to provide for related matters. [21st July, 2026] Be it enacted by the Oireachtas as follows:"
+    }
+   ],
+   "cand_id": "IE-01"
+  },
+  "JP-06": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate JP-06",
+   "fields": {
+    "date_published": {
+     "reason": "the plan's own text says the Cabinet decided the first AI Basic Plan on 23 Dec 2025; the text of 14 Jul 2026 is its second term (第Ⅱ期計画), a new version of the same statutory plan, so 2025-12-23 is the adoption date",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+       "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+       "locator": "page 3, Chapter 1",
+       "quote": "2025 年 12 月 23 日、 「人工知能関連技術の研究開発及び活用の推進に関する法律」 （令 和７年法律第 53 号。以下「ＡＩ法」という。 ）第 18 条第１項に規定する我が国初の「人 工知能基本計画」を閣議決定した。"
+      }
+     ]
+    },
+    "date_last_updated": {
+     "reason": "14 Jul 2026, the Cabinet decision of the current second-term version (cover of the plan)",
+     "evidence": [
+      {
+       "field": "date_last_updated",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+       "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+       "locator": "page 1, cover",
+       "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "the published scope_note was a reviewer's remark (it names the 'include-and-flag rule' and says 'the record has none'); rewritten as a public statement of why the plan is borderline and included",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "first two sentences describe the two versions as one plan; the rest unchanged",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "status",
+    "issuing_body"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+     "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+     "locator": "page 1, cover",
+     "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+     "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+     "locator": "page 1, cover",
+     "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+     "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+     "locator": "page 1, cover",
+     "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+     "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+     "locator": "page 1, cover",
+     "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定"
+    }
+   ],
+   "cand_id": "JP-06"
+  },
+  "MY-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate MY-01",
+   "fields": {
+    "notes": {
+     "reason": "first sentence now names the press release as the source of the day",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "status",
+    "issuing_body",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+     "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+     "locator": "page 1, cover",
+     "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS"
+    },
+    {
+     "field": "status",
+     "file": "archive/MY-01/2026-10-18/official.html",
+     "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+     "locator": "publication entry",
+     "quote": "Publication Date :- Sep 2024 Type :- MOSTI Related Policies"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+     "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+     "locator": "page 2",
+     "quote": "Published by: Ministry of Science, Technology and Innovation"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+     "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+     "locator": "page 15, 1.3 Objectives",
+     "quote": "As mentioned in the Preamble section, these national guidelines are on a voluntary for the stakeholders."
+    }
+   ],
+   "cand_id": "MY-01"
+  },
+  "MY-03": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate MY-03",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at AI Malaysia's homepage, which links the plan but is not its text; the English PDF, the plan's own text, becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+       "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+       "locator": "page 11",
+       "quote": "The National AI Action Plan 2026-2030 (AI Nation 2030)"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the Ministry of Digital's press statement of 28 Jul 2026, which gives the day the plan was introduced and backs the notes on the launch, replaces the English PDF, now the official_url",
+     "evidence": []
+    },
+    "date_published": {
+     "reason": "the plan's own text gives only the year (its 2026 copyright); the day (28 Jul 2026) rests on the press statement, an announcement, so it moves to the notes (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+       "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+       "locator": "page 3, copyright notice",
+       "quote": "Copyright Notice© [2026] MINISTRY OF DIGITAL MALAYSIA. All rights reserved."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence now names the press statement as the source of the day",
+     "evidence": []
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "status",
+    "issuing_body"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+     "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+     "locator": "page 11",
+     "quote": "The National AI Action Plan 2026-2030 (AI Nation 2030)"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-c79afc3184/2026-10-18/official.pdf",
+     "sha256": "efee68ee99a7a91691e0207b2180816e4ca5c1d96ada1ef40ab16713173208e7",
+     "locator": "page 11",
+     "quote": "Pelan Tindakan AI Kebangsaan 2026-2030 (Negara AI 2030)"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+     "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+     "locator": "page 3, copyright notice",
+     "quote": "Copyright Notice© [2026] MINISTRY OF DIGITAL MALAYSIA. All rights reserved."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+     "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+     "locator": "page 3, publisher",
+     "quote": "© MINISTRY OF DIGITAL MALAYSIA AI MALAYSIA BERHAD [202601028115 (1690210-V)] (National AI Office)"
+    }
+   ],
+   "cand_id": "MY-03"
+  },
+  "NO-03": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate NO-03",
+   "fields": {
+    "notes": {
+     "reason": "the allocation letter of 6 Feb 2026, stored in this run, added: KI Norge as a main priority of Digdir for 2026, the statutory AI sandbox placed in it and run with Nkom and Datatilsynet, the national AI guidance portal, and the funding (NOK 10 million for KI Norge, NOK 4.8 million for the sandbox)",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/NO-03/extra-0afa15e7f2/2026-10-18/official.pdf",
+       "sha256": "af018b90f466c41a74ca9ee2edaf394e3e586047e1f7baec1f3dc171b81e2bc1",
+       "locator": "page 1, letter head",
+       "quote": "Vår ref 25/2333 Dato 06.02.2026"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/NO-03/2026-10-11/official.html",
+     "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+     "locator": "press release heading",
+     "quote": "Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/NO-03/2026-10-11/official.html",
+     "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+     "locator": "press release heading",
+     "quote": "Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/NO-03/2026-10-11/official.html",
+     "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+     "locator": "press release header",
+     "quote": "Pressemelding | Dato: 12.06.2026 | Digitaliserings- og forvaltningsdepartementet"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/NO-03/2026-10-11/official.html",
+     "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+     "locator": "press release header",
+     "quote": "Pressemelding | Dato: 12.06.2026 | Digitaliserings- og forvaltningsdepartementet"
+    },
+    {
+     "field": "status",
+     "file": "archive/NO-03/2026-10-11/official.html",
+     "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+     "locator": "press release, lead",
+     "quote": "KI Norge skal hjelpe både offentlige og private virksomheter som trenger råd og veiledning. Nå åpner dørene!"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/NO-03/2026-10-11/official.html",
+     "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+     "locator": "press release",
+     "quote": "Alle offentlige og private virksomheter skal kunne ta kontakt med KI Norge og få veiledning"
+    }
+   ],
+   "cand_id": "NO-03"
+  },
+  "SG-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate SG-02",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SG-02/2026-10-18/official.html",
+     "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+     "locator": "press release, paragraph 1",
+     "quote": "Singapore launches A.I. Verify - the world’s first AI Governance Testing Framework and Toolkit for companies who want to demonstrate responsible AI"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SG-02/2026-10-18/official.html",
+     "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+     "locator": "press release byline",
+     "quote": "Joint Press Release by Ministry of Communications and Information, Infocomm Media Development Authority and Personal Data Protection Commission"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SG-02/2026-10-18/official.html",
+     "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+     "locator": "press release heading and date",
+     "quote": "Singapore launches worlds first AI testing framework and toolkit to promote transparency 26 May 2022"
+    },
+    {
+     "field": "status",
+     "file": "archive/SG-02/2026-10-18/official.html",
+     "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+     "locator": "press release, paragraph 10",
+     "quote": "As AI governance and testing is nascent, Singapore welcomes organisations to participate in piloting the MVP."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SG-02/2026-10-18/official.html",
+     "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+     "locator": "press release, paragraph 5",
+     "quote": "Allows AI system developers/owners to conduct self-testing – to maintain commercial requirements while providing a common basis to declare results."
+    }
+   ],
+   "cand_id": "SG-02"
+  },
+  "SG-03": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate SG-03",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the factsheet's body, which the text layer now includes: the AISI's tasks as the designation states them, its four initial research areas and the Centre's set-up in June 2022; IMDA's role and the Centre's technical role stay from the AISI page; the current work moved to the notes",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/SG-03/2026-10-18/official.html",
+       "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+       "locator": "factsheet, paragraph 2",
+       "quote": "Singapore first set up the Digital Trust Centre (DTC) in June 2022 to lead Singapore’s research and development efforts for trust technologies."
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "research priorities added: the factsheet sets the AISI's initial research areas",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/SG-03/2026-10-18/official.html",
+       "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+       "locator": "factsheet, paragraph 4",
+       "quote": "The Singapore AISI will work with other countries’ AI Safety Institutes to collectively address AI safety research."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "the Centre's set-up funding and early research focus, the 2024 discussions with the US and UK AISIs and the link to expanding AI Verify added from the factsheet; the current testing and societal-impact work kept from the AISI page",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/SG-03/2026-10-18/official.html",
+       "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+       "locator": "factsheet, paragraph 2",
+       "quote": "With an initial funding of S$50million, the Infocomm Media Development Authority (IMDA) had appointed Nanyang Technological University (NTU) to establish the DTC"
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SG-03/2026-10-18/official.html",
+     "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+     "locator": "factsheet heading",
+     "quote": "Press Releases, Factsheets and Speeches Digital Trust Centre designated as Singapore's AISI SINGAPORE – 22 MAY 2024"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SG-03/2026-10-18/official.html",
+     "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+     "locator": "page title",
+     "quote": "Digital Trust Centre designated as Singapore's AISI | IMDA"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SG-03/2026-10-18/official.html",
+     "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+     "locator": "dateline under the heading",
+     "quote": "Digital Trust Centre designated as Singapore's AISI SINGAPORE – 22 MAY 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/SG-03/2026-10-18/official.html",
+     "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+     "locator": "factsheet, paragraph 1",
+     "quote": "The Digital Trust Centre has been designated as Singapore’s AI Safety Institute (AISI)."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SG-03/2026-10-18/official.html",
+     "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+     "locator": "factsheet, paragraph 3",
+     "quote": "provide science-based input to our work in AI governance"
+    }
+   ],
+   "cand_id": "SG-03"
+  },
+  "SG-04": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate SG-04",
+   "fields": {
+    "notes": {
+     "reason": "the factsheet's body, now in the text layer, gives the more than 70 responses and the kind of respondents, and that the playbook for small states is developed with Rwanda; added. The 2023 Discussion Paper and the guidelines to follow rest on the framework PDF, stored in this run",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/SG-04/2026-10-11/official.html",
+       "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+       "locator": "factsheet, paragraph 3",
+       "quote": "AI Verify Foundation and IMDA have since received over 70 responses on the MGF-Gen AI, from a mix of local and international companies (Mediacorp, SIA), tech MNCs (Microsoft, OpenAI, Google), audit firms (KPMG, Ernst & Young) and Government agencies"
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SG-04/2026-10-11/official.html",
+     "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+     "locator": "factsheet, paragraph 2",
+     "quote": "The Proposed Model AI Governance Framework for Generative AI (MGF-Gen AI) was announced at Davos by Minister for Communications and Information for international views."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SG-04/2026-10-11/official.html",
+     "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+     "locator": "factsheet, paragraph 2",
+     "quote": "In January 2024, AI Verify Foundation and IMDA extended the work done for Traditional AI and proposed the first comprehensive framework for Generative AI governance"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SG-04/2026-10-11/official.html",
+     "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+     "locator": "factsheet heading and dateline",
+     "quote": "SG launches Gen AI and AI Governance Playbook for Digital FOSS SINGAPORE – 30 MAY 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/SG-04/2026-10-11/official.html",
+     "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+     "locator": "factsheet, paragraph 4",
+     "quote": "The MGF-Gen AI is finalised today and can be accessed here: https://aiverifyfoundation.sg/resources/mgf-gen-ai/."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SG-04/2026-10-11/official.html",
+     "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+     "locator": "factsheet, paragraph 2",
+     "quote": "Within these nine dimensions, the framework calls for all key stakeholders, including policymakers, industry, the research community, and the broader public, to collectively do their part."
+    }
+   ],
+   "cand_id": "SG-04"
+  },
+  "SG-08": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate SG-08",
+   "fields": {
+    "official_url": {
+     "reason": "the record's official_url was MDDI's press release, an announcement; the framework's own text is published on imda.gov.sg and already stored as the record's secondary source, so it becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+       "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+       "locator": "page 1, cover",
+       "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the press release, previously official_url, becomes the secondary source",
+     "evidence": [
+      {
+       "field": "secondary_url",
+       "file": "archive/SG-08/2026-10-18/official.html",
+       "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+       "locator": "press release heading",
+       "quote": "Singapore Launches New Model AI Governance Framework for Agentic AI 22 January 2026"
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+     "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+     "locator": "page 1, cover",
+     "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SG-08/2026-10-18/official.html",
+     "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+     "locator": "press release, paragraph 1",
+     "quote": "Developed by the Infocomm Media Development Authority (IMDA), this first-of-its-kind framework for reliable and safe agentic AI deployment builds upon the governance foundations of MGF for AI"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SG-08/2026-10-18/official.html",
+     "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+     "locator": "press release, paragraph 1",
+     "quote": "DAVOS , 22 January 2026 – Minister for Digital Development and Information, Mrs Josephine Teo, announced the launch of the new Model AI Governance Framework for Agentic AI"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+     "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+     "locator": "page 1, cover",
+     "quote": "Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+     "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+     "locator": "page 1, cover",
+     "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+     "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+     "locator": "page 3, Executive Summary",
+     "quote": "The Model AI Governance Framework (MGF) for Agentic AI gives organisations a structured overview of the risks of agentic AI and emerging best practices in managing these risks."
+    }
+   ],
+   "cand_id": "SG-08"
+  },
+  "ES-03": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate ES-03",
+   "fields": {
+    "official_url": {
+     "reason": "the bill's own text, published in the BOCG and stored in this run, replaces the referencia of 11 March 2025, which recorded the earlier anteproyecto (rule 7c: official_url points at the instrument)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+       "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+       "locator": "page 1",
+       "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial."
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the referencia of 11 March 2025, previously official_url, becomes the secondary source; it gives date_published",
+     "evidence": [
+      {
+       "field": "secondary_url",
+       "file": "archive/ES-03/2026-10-11/official.html",
+       "sha256": "9bb4d546d44af384abf09fd3fc0167a81cd7214a9bae5a27f9b80847659e880c",
+       "locator": "page heading",
+       "quote": "La Moncloa. Referencia del Consejo de Ministros | 11/03/2025"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+     "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+     "locator": "page 1",
+     "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial."
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+     "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+     "locator": "page 1",
+     "quote": "Autor: Gobierno Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+     "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+     "locator": "page 1",
+     "quote": "(121) Proyecto de ley. Autor: Gobierno"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+     "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+     "locator": "page 1",
+     "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/ES-03/2026-10-11/official.html",
+     "sha256": "9bb4d546d44af384abf09fd3fc0167a81cd7214a9bae5a27f9b80847659e880c",
+     "locator": "page heading",
+     "quote": "La Moncloa. Referencia del Consejo de Ministros | 11/03/2025"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-33095e52a9/2026-10-18/official.html",
+     "sha256": "8b2eacc318e5ab29f62adacfa92862b9b69b9b9fdde6cfb88d6f078abe4daf98",
+     "locator": "page heading",
+     "quote": "Referencia Consejo Ministros 26.5.2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+     "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+     "locator": "page 1, Acuerdo de la Mesa",
+     "quote": "Encomendar Dictamen, conforme al artículo 109 del Reglamento, a la Comisión de Economía, Comercio y Transformación Digital. Asimismo, publicar en el Boletín Oficial de las Cortes Generales, estableciendo plazo de enmiendas"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+     "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+     "locator": "page 1",
+     "quote": "(121) Proyecto de ley. Autor: Gobierno"
+    }
+   ],
+   "cand_id": "ES-03"
+  },
+  "CH-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate CH-01",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CH-01/2026-10-18/official-print.pdf",
+     "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+     "locator": "page 1, heading",
+     "quote": "AI regulation: Federal Council to ratify Council of Europe Convention Published on 12 February 2025"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CH-01/2026-10-11/secondary.html",
+     "sha256": "cce73c53de0b4ea9a43ce0700b45f029a716c0d2e36340e785ed63ec79d5251c",
+     "locator": "Medienmitteilung, heading",
+     "quote": "KI-Regulierung: Bundesrat will Konvention des Europarats ratifizieren"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CH-01/2026-10-18/official-print.pdf",
+     "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+     "locator": "page 1, lead",
+     "quote": "The Federal Council spoke out in favour of this approach at its meeting on 12 February."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CH-01/2026-10-18/official-print.pdf",
+     "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+     "locator": "page 1, lead",
+     "quote": "Bern, 12.2.2025 - Switzerland intends to ratify the Council of Europe Convention on Artificial Intelligence (AI) and to make the necessary amendments to Swiss law."
+    },
+    {
+     "field": "status",
+     "file": "archive/CH-01/2026-10-18/official-print.pdf",
+     "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+     "locator": "page 2",
+     "quote": "The Federal Council has decided on the following next steps. The FDJP will draft a bill for consultation with DETEC and the FDFA by the end of 2026."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CH-01/2026-10-18/official-print.pdf",
+     "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+     "locator": "page 2",
+     "quote": "The Federal Council has decided to focus on the following parameters:"
+    }
+   ],
+   "cand_id": "CH-01"
+  },
+  "GB-07": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate GB-07",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/GB-07/2026-10-11/official.html",
+     "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+     "locator": "page header",
+     "quote": "Press release Tackling AI security risks to unleash growth and deliver Plan for Change"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/GB-07/2026-10-11/official.html",
+     "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+     "locator": "page header",
+     "quote": "From: Department for Science, Innovation and Technology, AI Security Institute and The Rt Hon Peter Kyle MP"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/GB-07/2026-10-11/official.html",
+     "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+     "locator": "page header",
+     "quote": "Published: 14 February 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/GB-07/2026-10-11/official.html",
+     "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+     "locator": "second paragraph",
+     "quote": "Peter Kyle has today recast the AI Safety Institute the ‘AI Security Institute’."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/GB-07/2026-10-11/official.html",
+     "sha256": "c9aecd756c124a9be46124e850183d0b925cdd6620b86051f9a8b30a2ef746eb",
+     "locator": "page header",
+     "quote": "Press release Tackling AI security risks to unleash growth and deliver Plan for Change"
+    }
+   ],
+   "cand_id": "GB-07"
+  },
+  "US-03": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate US-03",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at the White House fact sheet, an announcement; the commitments' own text (the PDF linked from it, stored as document-1 on 11 Oct 2026) is published, so it becomes official_url (extract.md rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/US-03/2026-10-11/document-1.pdf",
+       "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+       "locator": "page 2, heading",
+       "quote": "Voluntary AI Commitments The following is a list of commitments that companies are making"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the fact sheet, which gives the date and the seven companies, moves here from official_url",
+     "evidence": []
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/US-03/2026-10-11/official.html",
+     "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+     "locator": "fact sheet heading",
+     "quote": "Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-03/2026-10-11/official.html",
+     "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+     "locator": "fact sheet, first paragraph",
+     "quote": "President Biden is convening seven leading AI companies at the White House today – Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI – to announce that the Biden-Harris Administration has secured voluntary commitments from these companies"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/US-03/2026-10-11/official.html",
+     "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+     "locator": "fact sheet, date line above the heading",
+     "quote": "July 21, 2023"
+    },
+    {
+     "field": "status",
+     "file": "archive/US-03/2026-10-11/document-1.pdf",
+     "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+     "locator": "page 2, Voluntary AI Commitments",
+     "quote": "Companies intend these voluntary commitments to remain in effect until regulations covering substantially the same issues come into force."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-03/2026-10-11/document-1.pdf",
+     "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+     "locator": "page 1",
+     "quote": "These voluntary commitments are only a first step in developing and enforcing binding obligations to ensure safety, security, and trust."
+    }
+   ],
+   "cand_id": "US-03"
+  },
+  "US-09": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate US-09",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at the White House fact sheet, an announcement; the memorandum's own text, linked from it and stored in this run, becomes official_url (extract.md rule 7c)",
+     "evidence": []
+    },
+    "secondary_url": {
+     "reason": "the fact sheet moves here from official_url",
+     "evidence": []
+    },
+    "summary": {
+     "reason": "rewritten from the memorandum's own text instead of the fact sheet: its three objectives, the AI Safety Institute's role in voluntary pre- and post-deployment testing of frontier models (cyber, biological and chemical weapons), the classified annex and the Framework's prohibited and high-impact uses; the fact sheet's 'top-tier intelligence priority' is not in the public text and moved to the notes with its source",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+       "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+       "locator": "Sec. 1(a)",
+       "quote": "A classified annex to this memorandum addresses additional sensitive national security issues"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten from the memorandum: signature date, subsection 4.8 of EO 14110, approval and periodic review of the Framework by the NSC Deputies Committee; the fact sheet's intelligence-priority claim set beside what the public text directs",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+       "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+       "locator": "Sec. 1(a)",
+       "quote": "This memorandum fulfills the directive set forth in subsection 4.8 of Executive Order 14110 of October 30, 2023"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+     "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+     "locator": "page heading (presidential action)",
+     "quote": "Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+     "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+     "locator": "Sec. 8 and signature",
+     "quote": "or any other person. JOSEPH R. BIDEN JR."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+     "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+     "locator": "NSPM-11, Sec. 3(f)",
+     "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+     "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+     "locator": "page date and heading",
+     "quote": "October 24, 2024 Memorandum on Advancing the United States’ Leadership in Artificial Intelligence"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+     "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+     "locator": "page date and heading",
+     "quote": "October 24, 2024 Memorandum on Advancing the United States’ Leadership in Artificial Intelligence"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+     "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+     "locator": "NSPM-11, heading",
+     "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+     "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+     "locator": "NSPM-11, Sec. 3(f)",
+     "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+     "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+     "locator": "Sec. 3.3(c)",
+     "quote": "Commerce, acting through the AI Safety Institute (AISI) within the National Institute of Standards and Technology (NIST), shall serve as the primary United States Government point of contact with private sector AI developers"
+    }
+   ],
+   "cand_id": "US-09"
+  },
+  "US-16": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate US-16",
+   "fields": {
+    "date_published": {
+     "reason": "the plan's own text gives only 'JULY 2025'; the day, 23 July 2025, rests on the White House announcement, so the date is written at the month's precision and the day stays in the notes with its source (extract.md rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/US-16/2026-10-11/official.pdf",
+       "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+       "locator": "page 1 (cover)",
+       "quote": "AI ACTION PLAN JULY 2025 THE WHITE HOUSE"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence reworded so that the release day names its source, the White House announcement of 23 July 2025; the rest is unchanged",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+       "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+       "locator": "article heading and date",
+       "quote": "White House Unveils America’s AI Action Plan The White House July 23, 2025"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/US-16/2026-10-11/official.pdf",
+     "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+     "locator": "page 1 (cover)",
+     "quote": "Winning the Race AMERICA’S AI ACTION PLAN"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-16/2026-10-11/official.pdf",
+     "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+     "locator": "page 1 (cover)",
+     "quote": "AI ACTION PLAN JULY 2025 THE WHITE HOUSE"
+    },
+    {
+     "field": "status",
+     "file": "archive/US-16/2026-10-11/official.pdf",
+     "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+     "locator": "page 5 (Introduction)",
+     "quote": "This Action Plan sets forth clear policy goals for near -term execution by the Federal government."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-16/2026-10-11/official.pdf",
+     "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+     "locator": "page 5 (Introduction)",
+     "quote": "The Action Plan’s objective is to articulate policy recommendations that this Administration can deliver for the American people"
+    }
+   ],
+   "cand_id": "US-16"
+  },
+  "US-22": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate US-22",
+   "fields": {
+    "date_published": {
+     "reason": "the document's own text gives only 'MARCH 2026'; the day, 20 March 2026, rests on the White House release of that day, so the date is written at the month's precision and the day stays in the notes with its source (extract.md rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/US-22/2026-10-11/official.pdf",
+       "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+       "locator": "page 1 (cover)",
+       "quote": "LEGISLATIVE RECOMMENDATIONS MARCH 2026"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence reworded so that the day names its source, the White House release of 20 March 2026; the rest is unchanged",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+       "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+       "locator": "release heading and date",
+       "quote": "President Donald J. Trump Unveils National AI Legislative Framework The White House March 20, 2026"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/US-22/2026-10-11/official.pdf",
+     "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+     "locator": "page 2 (footer)",
+     "quote": "A National Policy Framework for Artificial Intelligence"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-22/2026-10-11/official.pdf",
+     "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+     "locator": "page 1 (header)",
+     "quote": "LEGISLATIVE RECOMMENDATIONS THE WHITE HOUSE National Policy"
+    },
+    {
+     "field": "status",
+     "file": "archive/US-22/2026-10-11/official.pdf",
+     "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+     "locator": "page 4 (VII. Establishing a Federal Policy Framework, Preempting Cumbersome State AI Laws)",
+     "quote": "Congress should preempt state AI laws that impose undue burdens to ensure a minimally burdensome national standard"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-22/2026-10-11/official.pdf",
+     "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+     "locator": "page 3 (III)",
+     "quote": "Congress should not create any new federal rulemaking body to regulate AI"
+    }
+   ],
+   "cand_id": "US-22"
+  },
+  "US-25": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate US-25",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at the sponsors' press release, an announcement; the bill's own text, linked from it and stored as document-1 on 11 Oct 2026, becomes official_url (extract.md rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/US-25/2026-10-11/document-1.pdf",
+       "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+       "locator": "page 1",
+       "quote": "(Original Signature of Member) 119TH CONGRESS 2D SESSION"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the press release, which gives the introduction date and the co-sponsors, replaces the section-by-section summary here; the summary remains among the record's stored files",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/US-25/2026-10-11/document-1.pdf",
+     "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+     "locator": "page 1, Sec. 1 Short title",
+     "quote": "This Act may be cited as the ‘‘Frontier Risk Over-4 sight, National Transparency, Independent Evaluation, 5 and Reporting Act’’ or the ‘‘FRONTIER Act’’."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-25/2026-10-11/document-1.pdf",
+     "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+     "locator": "page 1",
+     "quote": "IN THE HOUSE OF REPRESENTATIVES Mr. OBERNOLTE introduced the following bill"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/US-25/2026-10-11/official.html",
+     "sha256": "4f11b8a1aeefb537a81396906aa00b9b72db6d331178b631f92b7f38f82f817c",
+     "locator": "press release heading and date",
+     "quote": "Obernolte, Trahan Introduce Bipartisan FRONTIER Act to Strengthen Oversight of Advanced AI Image July 23, 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/US-25/2026-10-11/document-1.pdf",
+     "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+     "locator": "page 1",
+     "quote": "119TH CONGRESS 2D SESSION H. R. ll"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-25/2026-10-11/document-1.pdf",
+     "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+     "locator": "page 1",
+     "quote": "A BILL To provide for Federal oversight of the development and deployment of frontier artificial intelligence in interstate and foreign commerce, and for other purposes."
+    }
+   ],
+   "cand_id": "US-25"
+  },
+  "HK-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-1 (refresh), candidate HK-01",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Digital Policy Office Ethical Artificial Intelligence Framework Version: 2.0"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Digital Policy Office Ethical Artificial Intelligence Framework Version: 2.0"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+     "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+     "locator": "speech of 30 Oct 2025, paragraph on AI governance",
+     "quote": "One of the cornerstones is the Ethical Artificial Intelligence Framework, first introduced in 2021, which covers 12 core principles"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Version: 2.0 December 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Version: 2.0 December 2025"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 6, 1.2 What is the Ethical AI Framework?",
+     "quote": "this version of framework is suitably revised (e.g. removal or adjustment of government specific terms) for general reference by organsiations when adopting AI and big data analytics in their IT projects"
+    }
+   ],
+   "cand_id": "HK-01"
+  }
+ },
+ "assigned": {
+  "ASEAN-01": "ASEAN-01",
+  "ASEAN-02": "ASEAN-02",
+  "INT-11": "INT-11",
+  "OECD-02": "OECD-02",
+  "UN-02": "UN-02",
+  "AUS-07": "AUS-07",
+  "CA-05": "CA-05",
+  "CA-07": "CA-07",
+  "CN-17": "CN-17",
+  "DK-02": "DK-02",
+  "IN-01": "IN-01",
+  "IE-01": "IE-01",
+  "JP-06": "JP-06",
+  "MY-01": "MY-01",
+  "MY-03": "MY-03",
+  "NO-03": "NO-03",
+  "SG-02": "SG-02",
+  "SG-03": "SG-03",
+  "SG-04": "SG-04",
+  "SG-08": "SG-08",
+  "ES-03": "ES-03",
+  "CH-01": "CH-01",
+  "GB-07": "GB-07",
+  "US-03": "US-03",
+  "US-09": "US-09",
+  "US-16": "US-16",
+  "US-22": "US-22",
+  "US-25": "US-25",
+  "HK-01": "HK-01"
+ },
+ "not_added": [],
+ "needs_human": [],
+ "questions": [
+  {
+   "cand_id": "IN-01",
+   "record_id": "IN-01",
+   "why": "checker: All stored evidence is an announcement, labelled alt-official, so level B is right. The one open point is date_published: the day is real but its file belongs to another run and is not linked to this record. Attach the PIB release to the record (extra_urls) so the date has accepted evidence. Search found no establishing order; a secondary report says a consultation paper is due, not a newer version.; date_published is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: {'url': 'https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097709', 'reason': 'PIB release of 30 Jan 2025 (stored in run 2026-10-18-recheck-south-asia-1, not linked to IN-01); it gives the announcement date for date_published.'}"
+  },
+  {
+   "cand_id": "US-03",
+   "record_id": "US-03",
+   "why": "checker: Only the status is a problem and the run does not change it, so the run's corrections (official_url now the commitments text, fact sheet as secondary, verification note) can be merged while the status question stays with the maintainers (issue #134). Title wording, date and the seven companies rest on the fact sheet, an announcement, correctly labelled alt-official (level B). No official source found that withdraws or replaces the commitments.; status is unsupported and the checker gave no evidence-backed fix"
+  }
+ ],
+ "unchecked": [],
+ "summary": "0 new, 29 update(s), 0 not added, 0 need a human, 2 merged with an open question, 0 not ready"
+}

@@ -1,0 +1,87 @@
+{
+ "cand_id": "MY-01",
+ "decision": "update",
+ "target_id": "MY-01",
+ "record": {
+  "date_published": "2024-09"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "page heading",
+    "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 1",
+    "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 2",
+    "quote": "Published by: Ministry of Science, Technology and Innovation",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "page heading",
+    "quote": "Publication Date :- Sep 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-e8b8be85ad/2026-10-18/official.pdf",
+    "sha256": "9e9f56fecf8182a988784364115c6017a08dc98877c4dcec374f4a546151db78",
+    "locator": "page 1",
+    "quote": "PUTRAJAYA, 20 September 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 14",
+    "quote": "these National Guidelines will be reviewed regularly and updated to meet the requirements and expectations of stakeholders",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 15",
+    "quote": "these national guidelines are on a voluntary for the stakeholders",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "MASTIC's publication page and the guidelines give only 'Sep 2024' (the PDF has no date); the day, 20 Sept 2024, is the launch date in MOSTI's press release, an announcement, so the date is written 2024-09 and the day stays in notes (rule 7b)"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Published Sep 2024 and launched 20 Sept 2024; a living document to be reviewed regularly, with no stored revision or withdrawal.",
+  "scope_reasoning": "Unchanged; national AI governance and ethics guidelines."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

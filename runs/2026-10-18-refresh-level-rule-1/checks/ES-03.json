@@ -1,0 +1,59 @@
+{
+ "cand_id": "ES-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "fines up to EUR 35 million or 7% of turnover for very serious infringements",
+   "verdict": "supported",
+   "locator": "BOCG page 31, Article 30"
+  },
+  {
+   "claim": "AI delegate in each state public entity",
+   "verdict": "supported",
+   "locator": "Article 12"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The BOCG text is the bill itself (official, congreso.es). The La Moncloa referencias are the Council of Ministers' own record of agreements, not announcements, so official is right for them; the date 2025-03-11 is the first approval (anteproyecto), which the notes explain. Status Draft / proposed holds: amendment period ended 30 June 2026 and one search (including the Congress dossier of August 2026) found no committee report or vote."
+}

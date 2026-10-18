@@ -1,0 +1,79 @@
+{
+ "cand_id": "UN-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UN-02",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. The resolution's own text could not be stored: the UN Digital Library record (official_url) returns a bot-check page, the press.un.org meeting coverage GA/12588 returns a JavaScript 'Client Challenge' page also in a browser, and documents.un.org is closed to automated downloads by robots.txt. Stored for this record: the UN News article of 21 March 2024 (secondary source), a news item that gives the date, the adoption without a vote and quotations of the operative text; its quotes count as alt-official. The General Assembly's list of the resolutions of its 78th session (un.org) was stored in this run, but the stored copy lists only resolutions 78/319 to 78/331 and does not show 78/265. The recheck of 17 Oct 2026 stored further un.org pages that name the resolution, its number and date: the spokesperson's briefing of the President of the General Assembly of 21 March 2024, the UN Photo caption of the adoption, A/RES/79/325, which recalls '78/265 of 21 March 2024', and the High-level Advisory Body's final report. The summary is written from the operative text that UN News quotes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UN-02/2026-10-17/secondary.html",
+    "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+    "locator": "General Assembly adopts landmark resolution on artificial intelligence, first paragraph",
+    "quote": "The UN General Assembly on Thursday adopted a landmark resolution on the promotion of “safe, secure and trustworthy” artificial intelligence (AI) systems that will also benefit sustainable development for all.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UN-02/2026-10-17/secondary.html",
+    "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+    "locator": "General Assembly adopts landmark resolution on artificial intelligence, dateline",
+    "quote": "21 March 2024 SDGs The UN General Assembly on Thursday adopted a landmark resolution",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UN-02/2026-10-17/secondary.html",
+    "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+    "locator": "General Assembly adopts landmark resolution on artificial intelligence, second paragraph",
+    "quote": "Adopting a United States-led draft resolution without a vote",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UN-02/2026-10-17/secondary.html",
+    "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+    "locator": "General Assembly adopts landmark resolution on artificial intelligence, first paragraph",
+    "quote": "The UN General Assembly on Thursday adopted a landmark resolution",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UN-02/2026-10-17/secondary.html",
+    "sha256": "1dade5416724fb5ba5274d74f86fa927272b374babd538b616c23c23cc4b7be8",
+    "locator": "Same rights, online and offline",
+    "quote": "The Assembly also urged all States, the private sector, civil society, research organizations and the media, to develop and support regulatory and governance approaches and frameworks related to safe, secure and trustworthy use of AI.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this run: UN News is a news item, so its quotes count as alt-official; the stored list of resolutions does not reach 78/265; the files of the recheck of 17 Oct 2026 are named"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Adopted by the General Assembly without a vote on 21 March 2024 (UN News). A General Assembly resolution of this kind calls on and urges States and others; it does not bind them. Nothing stored shows it replaced. Published (non-binding, current) stands.",
+  "title_reasoning": "UN News paraphrases the title ('safe, secure and trustworthy' AI systems for sustainable development); the exact title is shown by the files stored on 17 Oct 2026. The list of resolutions stored in this run does not show 78/265, so official_identifier (A/RES/78/265) is not shown by any file stored for this run and is left as published.",
+  "source_kind_reasoning": "UN News is a news item about the resolution and the record's secondary source: alt-official. The General Assembly's list of resolutions would be an official register, but its stored copy shows only the latest resolutions of the session and nothing on 78/265."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The resolution's own text cannot be stored by the archiver (Digital Library bot-check, documents.un.org robots.txt, press.un.org Client Challenge), and the stored copy of the General Assembly's list of resolutions of the 78th session shows only 78/319 to 78/331. The record stays at level B, and its summary and topics rest on the operative text that UN News quotes, until a person provides the resolution (AGENTS.md section 7.8, 'Provide a document')."
+ ]
+}

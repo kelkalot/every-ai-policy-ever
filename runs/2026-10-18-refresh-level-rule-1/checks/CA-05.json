@@ -1,0 +1,43 @@
+{
+ "cand_id": "CA-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "initial CAD 50 million over five years",
+   "verdict": "supported",
+   "locator": "news release"
+  },
+  {
+   "claim": "housed at ISED",
+   "verdict": "supported",
+   "locator": "news release, Quick facts"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "INT-11"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The news release is correctly labelled alt-official, so the level is B. Search found no new CAISI instrument; 2026 pages match the notes."
+}

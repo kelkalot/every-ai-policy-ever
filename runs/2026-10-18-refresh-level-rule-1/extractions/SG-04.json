@@ -1,0 +1,251 @@
+{
+ "cand_id": "SG-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-04",
+ "record": {
+  "notes": "IMDA and the AI Verify Foundation released a proposed framework for international views on 16 Jan 2024, announced at Davos. They received over 70 responses from local and international companies, technology multinationals, audit firms and government agencies, and finalised the framework on 30 May 2024, when IMDA also announced that Singapore would lead, with Rwanda, the development of an AI Governance Playbook for the Digital Forum of Small States. The framework builds on the June 2023 Discussion Paper on Generative AI by IMDA, Aicadium and the AI Verify Foundation, and is meant as a first step: implementation guidelines and resources are to follow under each of the nine dimensions.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: IMDA's factsheet of 30 May 2024 (imda.gov.sg, copy of 11 Oct 2026, unchanged when checked on 18 Oct 2026), whose text layer now includes its body: the proposed framework of January 2024, the more than 70 responses, the statement that the framework 'is finalised today' and the Digital FOSS playbook; and the AI Verify Foundation's framework page (aiverifyfoundation.sg, copy of 18 Oct 2026), which gives the full title, the nine dimensions and the release dates of 16 Jan 2024 and 30 May 2024. The framework's own text is published on aiverifyfoundation.sg, which is listed as not official, so it counts as secondary; the factsheet is an announcement, so the title, date and status rest on another official source (level B). The framework's PDF on aiverifyfoundation.sg (stored in this run; its file name says 19 June 2024, its text layer carries no date) gives the text behind the summary, the June 2023 Discussion Paper and the guidelines to follow, and the IMDA and AI Verify Foundation copyright (2024)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet, paragraph 2",
+    "quote": "The Proposed Model AI Governance Framework for Generative AI (MGF-Gen AI) was announced at Davos by Minister for Communications and Information for international views.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet, paragraph 4",
+    "quote": "The MGF-Gen AI is finalised today and can be accessed here: https://aiverifyfoundation.sg/resources/mgf-gen-ai/.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "page heading",
+    "quote": "Model AI Governance Framework for Generative AI",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 3, Executive Summary",
+    "quote": "This Model AI Governance Framework for Generative AI therefore seeks to set forth a systematic and balanced approach to address generative AI concerns",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet, paragraph 2",
+    "quote": "In January 2024, AI Verify Foundation and IMDA extended the work done for Traditional AI and proposed the first comprehensive framework for Generative AI governance",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "page title",
+    "quote": "SG launches Gen AI and AI Governance Playbook for Digital FOSS | IMDA",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Background",
+    "quote": "MGF for GenAI was first developed by the Foundation and IMDA and released for international views on 16 January 2024.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 36, back cover",
+    "quote": "© COPYRIGHT IMDA AND AI VERIFY FOUNDATION 2024. ALL RIGHTS RESERVED.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet heading and dateline",
+    "quote": "SG launches Gen AI and AI Governance Playbook for Digital FOSS SINGAPORE – 30 MAY 2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Background",
+    "quote": "The feedback received on the Proposed Framework was instructive in finalising MGF for GenAI, released on 30 May 2024.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet, paragraph 4",
+    "quote": "The MGF-Gen AI is finalised today and can be accessed here: https://aiverifyfoundation.sg/resources/mgf-gen-ai/.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Background",
+    "quote": "The feedback received on the Proposed Framework was instructive in finalising MGF for GenAI, released on 30 May 2024.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet, paragraph 2",
+    "quote": "Within these nine dimensions, the framework calls for all key stakeholders, including policymakers, industry, the research community, and the broader public, to collectively do their part.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Fostering a Trusted AI Ecosystem",
+    "quote": "the framework offers a set of practical suggestions that apply as initial steps, expanding on the existing Model AI Governance Framework for Traditional AI.",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "factsheet, paragraph 3",
+    "quote": "AI Verify Foundation and IMDA have since received over 70 responses on the MGF-Gen AI, from a mix of local and international companies (Mediacorp, SIA), tech MNCs (Microsoft, OpenAI, Google), audit firms (KPMG, Ernst & Young) and Government agencies",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-11/official.html",
+    "sha256": "2e3b60ff0859981dcf70d1be947f222a4b3a1f33fecd57a79eaec78af990497b",
+    "locator": "Digital FOSS AI Governance Playbook, paragraph 1",
+    "quote": "Singapore will be working with Rwanda to lead the development of a Digital Forum of Small States (Digital FOSS) AI Governance Playbook.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Background",
+    "quote": "MGF for GenAI was first developed by the Foundation and IMDA and released for international views on 16 January 2024.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Fostering a Trusted AI Ecosystem",
+    "quote": "This is the first step towards developing more detailed guidelines and resources under each of the 9 dimensions",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 3, Executive Summary",
+    "quote": "These concerns were highlighted in our earlier Discussion Paper on Generative AI: Implications for Trust and Governance,4 issued in June 2023.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 3, footnote 4",
+    "quote": "The Discussion Paper was jointly published by the Infocomm Media Development Authority of Singapore (IMDA), Aicadium and AI Verify Foundation.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 34, Further Development",
+    "quote": "there is further work to be done in providing greater certainty through implementation guidelines and resources.",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 3, Executive Summary",
+    "quote": "It requires all key stakeholders, including policymakers, industry, the research community and the broader public, to collectively do their part. There are nine dimensions which the Framework proposes to be looked at in totality, to foster a trusted ecosystem.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 3, Executive Summary",
+    "quote": "Accountability is a key consideration to incentivise players along the AI development chain to be responsible to end-users.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 4, Executive Summary",
+    "quote": "In cases where the use of data for model training is potentially contentious, such as personal data and copyright material",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 4, Executive Summary",
+    "quote": "This involves industry adopting best practices in development, evaluation, and thereafter “food label”-type transparency and disclosure.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 4, Executive Summary",
+    "quote": "it is valuable for companies to adopt third-party testing and assurance to demonstrate trust with their end-users.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 4, Executive Summary",
+    "quote": "Generative AI introduces the potential for new threat vectors against the models themselves.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-04/extra-f5bb0daad3/2026-10-18/official.pdf",
+    "sha256": "24656605edf3186e4a10aac59d1ff7fb712e7524368a14cf5f165e664dd31490",
+    "locator": "page 4, Executive Summary",
+    "quote": "Governments are looking to technical solutions like digital watermarking and cryptographic provenance.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/SG-04/2026-10-18/secondary.html",
+    "sha256": "92233b748ab792b4c4b5a37f4875eb4f7c91c822ab9cbece08009e16c5178eb6",
+    "locator": "Fostering a Trusted AI Ecosystem",
+    "quote": "expanding on the existing Model AI Governance Framework for Traditional AI.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the factsheet's body, now in the text layer, gives the more than 70 responses and the kind of respondents, and that the playbook for small states is developed with Rwanda; added. The 2023 Discussion Paper and the guidelines to follow rest on the framework PDF, stored in this run",
+   "verification.note": "the factsheet is an announcement (alt-official) and the framework's own text is on a host listed as not official, so the note says the record rests on another official source; it also records that the factsheet's body is now in the text layer and that the framework PDF was stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Finalised and released on 30 May 2024 ('The MGF-Gen AI is finalised today'; the Foundation's page: 'released on 30 May 2024'). The Foundation's page, stored on 18 Oct 2026, still offers it for download. Nothing stored shows a newer version or withdrawal. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2024-05-30 from the factsheet's dateline and its statement that the framework is finalised that day; the factsheet is an announcement, and the framework's own text gives no date, so the date has alt-official support only.",
+  "scope_reasoning": "Unchanged: a government framework on generative AI governance; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

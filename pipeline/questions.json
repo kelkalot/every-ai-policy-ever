@@ -199,11 +199,14 @@
    "records": [
     "DK-02"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 16,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/16",
    "opened": "2026-10-14",
-   "title": null
+   "title": null,
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "record:TH-03@2026-10-14-refresh-translation-fixes",
@@ -288,12 +291,12 @@
     "checked_on": "2026-10-14"
    },
    "records": [],
-   "state": "open",
+   "state": "decided",
    "issue": 21,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/21",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "host not official"
   },
   {
    "key": "host:kmp.respaweb.eu",
@@ -1735,12 +1738,12 @@
     "DE-01"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 123,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/123",
    "opened": "2026-10-17",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-18",
+   "resolution": "host official",
    "title": "Is recht.bund.de an official site for DE?"
   },
   {
@@ -1752,12 +1755,12 @@
     "ES-03"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 124,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/124",
    "opened": "2026-10-17",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-18",
+   "resolution": "host official",
    "title": "Is congreso.es an official site for ES?"
   },
   {
@@ -1769,12 +1772,12 @@
     "GB-10"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 125,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/125",
    "opened": "2026-10-17",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-18",
+   "resolution": "host official",
    "title": "Is bills-api.parliament.uk an official site for GB?"
   },
   {
@@ -1786,12 +1789,12 @@
     "IE-01"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 126,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/126",
    "opened": "2026-10-17",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-18",
+   "resolution": "host official",
    "title": "Is irishstatutebook.ie an official site for IE?"
   },
   {
@@ -1803,12 +1806,12 @@
     "NL-01"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 127,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/127",
    "opened": "2026-10-17",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-18",
+   "resolution": "host official",
    "title": "Is zoek.officielebekendmakingen.nl an official site for NL?"
   },
   {
@@ -1936,12 +1939,13 @@
     "US-03"
    ],
    "title": "US-03 White House Voluntary AI Commitments (2023): open question from run 2026-10-17-recheck-north-america-1",
-   "state": "open",
+   "state": "settled",
    "issue": 134,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/134",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "record:US-05@2026-10-17-recheck-north-america-1",
@@ -2397,12 +2401,13 @@
     "SG-08"
    ],
    "title": "SG-08 Singapore MGF for Agentic AI: open question from run 2026-10-18-recheck-south-asia-1",
-   "state": "open",
+   "state": "settled",
    "issue": 159,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/159",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "record:BD-01@2026-10-18-recheck-south-asia-1",
@@ -2524,12 +2529,12 @@
     "MU-01"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 166,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/166",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-18",
+   "resolution": "host official",
    "title": "Is pmo.govmu.org an official site for MU?"
   },
   {
@@ -2552,6 +2557,80 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-recheck-mena-africa-1 (5 records)"
+  },
+  {
+   "key": "record:US-03@2026-10-18-refresh-level-rule-1",
+   "kind": "record",
+   "subject": "US-03",
+   "run_id": "2026-10-18-refresh-level-rule-1",
+   "held_back": false,
+   "why": "checker: Only the status is a problem and the run does not change it, so the run's corrections (official_url now the commitments text, fact sheet as secondary, verification note) can be merged while the status question stays with the maintainers (issue #134). Title wording, date and the seven companies rest on the fact sheet, an announcement, correctly labelled alt-official (level B). No official source found that withdraws or replaces the commitments.; status is unsupported and the checker gave no evidence-backed fix",
+   "records": [
+    "US-03"
+   ],
+   "title": "US-03 White House Voluntary AI Commitments (2023): open question from run 2026-10-18-refresh-level-rule-1",
+   "state": "open",
+   "issue": 180,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/180",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:IN-01@2026-10-18-refresh-level-rule-1",
+   "kind": "record",
+   "subject": "IN-01",
+   "run_id": "2026-10-18-refresh-level-rule-1",
+   "held_back": false,
+   "why": "checker: All stored evidence is an announcement, labelled alt-official, so level B is right. The one open point is date_published: the day is real but its file belongs to another run and is not linked to this record. Attach the PIB release to the record (extra_urls) so the date has accepted evidence. Search found no establishing order; a secondary report says a consultation paper is due, not a newer version.; date_published is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: {'url': 'https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097709', 'reason': 'PIB release of 30 Jan 2025 (stored in run 2026-10-18-recheck-south-asia-1, not linked to IN-01); it gives the announcement date for date_published.'}",
+   "records": [
+    "IN-01"
+   ],
+   "title": "IN-01 IndiaAI Safety Institute: open question from run 2026-10-18-refresh-level-rule-1",
+   "state": "open",
+   "issue": 181,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/181",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "host:oda.ft.dk",
+   "kind": "host",
+   "subject": "oda.ft.dk",
+   "code": "DK",
+   "records": [
+    "DK-02"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 182,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/182",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Is oda.ft.dk an official site for DK?"
+  },
+  {
+   "key": "sample:2026-10-18-refresh-level-rule-1",
+   "kind": "sample",
+   "subject": "2026-10-18-refresh-level-rule-1",
+   "run_id": "2026-10-18-refresh-level-rule-1",
+   "records": [
+    "CA-05",
+    "CN-17",
+    "HK-01",
+    "SG-08",
+    "UN-02"
+   ],
+   "why": "Human sample of run 2026-10-18-refresh-level-rule-1: check each record against its stored sources.",
+   "state": "open",
+   "issue": 183,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/183",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-refresh-level-rule-1 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

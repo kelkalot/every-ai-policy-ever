@@ -1,0 +1,45 @@
+{
+ "cand_id": "INT-11",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The mission statement's own text says the Network was launched at the gathering 'on November 21, 2024'; the US fact sheet's 20 November 2024 is the day before and stays in the notes."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "ten initial members incl. Australia, Canada, EU, France, Japan, Kenya, Korea, Singapore, UK, US",
+   "verdict": "supported",
+   "locator": "page 1"
+  },
+  {
+   "claim": "four priority areas: research, testing, guidance, inclusion",
+   "verdict": "supported",
+   "locator": "page 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Supported by the stored mission statement (nist.gov) and the GOV.UK press release (alt-official, correctly labelled). Search found no new mission text or a further rename; sources match the notes (rename, UK coordinator)."
+}

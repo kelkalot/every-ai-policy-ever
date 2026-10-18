@@ -1,0 +1,99 @@
+{
+ "run_id": "2026-10-18-refresh-level-rule-1",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.8,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "original_title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "issuing_body": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "official_identifier": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_published": {
+   "compared": 4,
+   "agree": 4,
+   "rate": 1.0
+  },
+  "date_in_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  }
+ },
+ "disagreements": {
+  "CH-01": [],
+  "CN-17": [
+   {
+    "field": "issuing_body",
+    "first": "National Technical Committee 260 on Cybersecurity of the Standardization Administration of China (TC260), under the guidance of the Cyberspace Administration of China",
+    "blind": null
+   }
+  ],
+  "INT-11": [],
+  "MY-01": [],
+  "US-22": []
+ },
+ "resulting_record_agreement": 0.981,
+ "resulting_record_fields": 53
+}

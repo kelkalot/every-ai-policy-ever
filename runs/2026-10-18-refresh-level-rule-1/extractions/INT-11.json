@@ -1,0 +1,95 @@
+{
+ "cand_id": "INT-11",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "INT-11",
+ "record": {
+  "date_published": "2024-11-21",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored for this record: the mission statement itself on nist.gov (2 pages, the official URL, stored 17 Oct 2026), which gives its title, the ten members, the four priority areas and the launch at the gathering in San Francisco on 21 November 2024, and the GOV.UK press release of 9 December 2025 (secondary source), which confirms the rename to the International Network for Advanced AI Measurement, Evaluation and Science and the UK's role as Network Coordinator. date_published follows the date the statement itself gives, 21 November 2024; the US launch fact sheet, released on 20 November 2024, gives the day before (its nist.gov copy was stored by the recheck of 17 Oct 2026; the commerce.gov copy refuses the archiver). The later work in the notes (consensus areas of 13 February 2026, best-practice guidance of July 2026, the G7 ministers' declaration of 29 May 2026) rests on the NIST news item, the UK AI Security Institute post and the G7 declaration stored by that recheck."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 1, heading",
+    "quote": "International Network of AI Safety Institutes Mission Statement",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "Press release, summary",
+    "quote": "The International Network of AI Safety Institutes becomes the International Network for Advanced AI Measurement, Evaluation and Science",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 1, first paragraph",
+    "quote": "have gathered today in San Francisco on November 21, 2024 to launch the International Network of AI Safety Institutes",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 1, second paragraph",
+    "quote": "The International Network of AI Safety Institutes is intended to be a forum that brings together technical expertise from around the world.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "Press release, body",
+    "quote": "The meeting confirmed the International Network of AI Safety Institutes’ transition into the International Network for Advanced AI Measurement Evaluation and Science",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 2, first paragraph",
+    "quote": "As a first step, we intend to prioritize our collective efforts, in line with our mandates, in the following four areas crucial to international AI safety",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "Press release, header",
+    "quote": "Published: 9 December 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "Press release, summary",
+    "quote": "Group’s re-focus reflects long-term priorities and pace of AI development, with the UK taking on the role of Network Coordinator",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "2024-11-20 -> 2024-11-21: the mission statement dates itself ('gathered today in San Francisco on November 21, 2024 to launch the International Network'); 20 November 2024 is the release date of the US fact sheet, an announcement about it. A statement's date is taken from the document itself (extract.md step 1), and the notes already give both days.",
+   "verification.note": "rewritten for this run: what the two stored files confirm, why the date follows the statement, and where the later events in the notes rest"
+  },
+  "confirmed": ["title", "status", "legal_force", "date_last_updated"],
+  "status_reasoning": "A non-binding mission statement of the network's members. The GOV.UK release of 9 December 2025 says the network continues under a new name with the UK as Network Coordinator; nothing stored shows the statement withdrawn or replaced. Published (non-binding, current) stands.",
+  "date_reasoning": "The statement is the instrument's own text and gives 21 November 2024 as the day the members gathered to launch the network; the evidence for date_published is that sentence (official). The fact sheet's 20 November release stays in the notes.",
+  "title_reasoning": "The statement's heading is 'International Network of AI Safety Institutes Mission Statement'. The register's title adds 'Joint' (from the US fact sheet) and the later name; both parts are kept as published, since the rename is supported by the GOV.UK release.",
+  "source_kind_reasoning": "The nist.gov PDF is the mission statement itself (official). The GOV.UK page is a press release and the record's secondary source (alt-official)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

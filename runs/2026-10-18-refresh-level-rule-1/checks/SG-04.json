@@ -1,0 +1,50 @@
+{
+ "cand_id": "SG-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "nine dimensions incl. incident reporting and AI for public good",
+   "verdict": "supported",
+   "locator": "official.pdf page 2 contents and Executive Summary"
+  },
+  {
+   "claim": "over 70 responses; finalised 30 May 2024 (notes)",
+   "verdict": "supported",
+   "locator": "factsheet paragraphs 3 and 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The framework PDF is on aiverifyfoundation.sg (not official) and is labelled secondary; the IMDA factsheet is an announcement labelled alt-official, so level B. No 2026 revision of the Generative AI framework found on an official site (the 2026 update found is the Agentic AI framework, SG-08)."
+}

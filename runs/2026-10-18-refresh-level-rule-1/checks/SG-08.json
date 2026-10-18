@@ -1,0 +1,53 @@
+{
+ "cand_id": "SG-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "four dimensions of the framework",
+   "verdict": "supported",
+   "locator": "press release and framework summary"
+  },
+  {
+   "claim": "Version 1.5 published 20 May 2026 (Updated 5 June 2026); OpenClaw case study (notes)",
+   "verdict": "supported",
+   "locator": "cover page 1 and page 14 of the framework text"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The framework PDF is the instrument's own text (official); the 22 Jan 2026 launch date rests on the press release, an announcement, labelled alt-official, hence level B. The press release and the framework text are correctly swapped between official_url and secondary_url. No version later than 1.5 found on an official site."
+}

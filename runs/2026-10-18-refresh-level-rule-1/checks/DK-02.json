@@ -1,0 +1,60 @@
+{
+ "cand_id": "DK-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "judgment-differs",
+   "why": "'L 49' is in the Folketing case record; the session '(2026-27)' is not in any stored file and is derived from the date of introduction."
+  },
+  "english_version": {
+   "verdict": "judgment-differs",
+   "why": "The record's english_version is the TRIS English text of the 2025 notified draft, a different text from the bill L 49 introduced on 8 October 2026 under a new title; it should not be presented as a translation of L 49 until a person decides."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "exception for caricature, parody, satire and criticism of power and society",
+   "verdict": "supported",
+   "locator": "press release, Fakta om lovforslaget"
+  },
+  {
+   "claim": "performances such as improvisations that are not artistic works are protected",
+   "verdict": "supported",
+   "locator": "press release"
+  },
+  {
+   "claim": "aims to get tech giants to take manipulated content down quickly",
+   "verdict": "supported",
+   "locator": "press release"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Copyright-law bill; operative instrument against deepfakes; the extractor's scope_note is right."
+ },
+ "overall": "accept",
+ "note": "Supported at level B: the date, issuer and legal force rest on the Ministry's press release (alt-official), and the Folketing case record on oda.ft.dk counts as secondary because the host is not listed as official; the bill text could not be stored (open questions already raised). Search found no first reading or adoption yet; a secondary report gives 1 January 2027 as intended entry into force, consistent with the notes. Flags: the session suffix of the identifier, and the english_version mismatch."
+}

@@ -1,0 +1,53 @@
+{
+ "cand_id": "ASEAN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The month rests on the Joint Media Statement of the 4th ADGMIN, an endorsed outcome document that records the ministers' decision to endorse the guide on 1-2 February 2024; I read it as the deciding body's formal record of its decision (official), not as a press release, although its title says 'media statement'. The guide's own text gives only 'Copyright 2024'. A maintainer may prefer alt-official, which would make the record level B."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "seven guiding principles",
+   "verdict": "supported",
+   "locator": "page 17 ('The seven guiding principles below')"
+  },
+  {
+   "claim": "human-in-the-loop, over-the-loop, out-of-the-loop",
+   "verdict": "supported",
+   "locator": "risk impact assessment section"
+  },
+  {
+   "claim": "recommends an ASEAN Working Group on AI Governance",
+   "verdict": "supported",
+   "locator": "national and regional recommendations"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Fields supported by the stored guide and the endorsed Joint Media Statement. One judgment call: the statement is titled 'Joint Media Statement' but is the ministers' endorsed record of the decision, so it keeps the official label and the record stays level A. No newer version found. Its header 'as of 31 January 2023' is an evident slip for 2024, as the extractor says."
+}

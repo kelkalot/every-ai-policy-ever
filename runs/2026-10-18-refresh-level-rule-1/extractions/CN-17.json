@@ -1,0 +1,126 @@
+{
+ "cand_id": "CN-17",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-17",
+ "record": {
+  "official_url": "https://www.tc260.org.cn/tc260/xwdt1/202609/e879077a3caa4722b2206d1bcaed5a6c/files/%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%86%E6%A1%86%E6%9E%B63.0%E3%80%8B.pdf.pdf",
+  "date_published": "2026-09",
+  "issuing_body": "National Technical Committee 260 on Cybersecurity of the Standardization Administration of China (TC260), under the guidance of the Cyberspace Administration of China",
+  "notes": "TC260 released it on 14 Sept 2026, the day both its own release notice and the CAC's notice carry, at the opening ceremony of the 2026 National Cybersecurity Publicity Week (CAC notice); the framework itself is dated September 2026. TC260 prepared it under the guidance of the Cyberspace Administration of China, with the China Academy of Cyberspace Studies, the CAC Data and Technology Support Center and other specialist institutions, research institutes and companies. It builds on versions 1.0 (2024) and 2.0 (2025) and replaces version 2.0. Compared with version 2.0 it adds the annex on AI agents and the section on sandbox supervision, which includes exploring liability exemptions for faultless conduct in sandbox tests; the risk-grading and trustworthy-AI annexes carry over, the latter extended to respect for digital sovereignty and international mutual recognition of model evaluations.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text. Stored in this run: the framework PDF attached to TC260's release notice (tc260.org.cn, 136 pages: the Chinese text, then TC260's English text), now the official_url; stored on 11 Oct 2026: TC260's release notice of 14 Sept 2026 (the previous official_url, an announcement in TC260's news section, with browser-rendered and printed copies) and the CAC release notice of the same day (the secondary source). The PDF confirms the title, the issuer and its English name, and gives only the month (2026年9月), so date_published is 2026-09; the release day, 14 Sept 2026, is in the notes from the two notices. The identical PDF linked from the CAC notice was stored on 14 Oct 2026. The summary and notes were rewritten from the Chinese text in October 2026. The comparison with version 2.0 in the notes rests on the version 2.0 PDF stored for CN-13. The notices do not say in words that version 3.0 replaces 2.0; this follows from the version sequence."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 1, cover",
+    "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0 全国网络安全标准化技术委员会 National Technical Committee 260 on Cybersecurity of SAC 2026年9月",
+    "source_kind": "official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 1, cover",
+    "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-17/2026-10-11/official.html",
+    "sha256": "356aa2b5966f799d5071ba637f708685ffdccde52647ffd73686d7e161b4ca4e",
+    "locator": "page heading",
+    "quote": "《人工智能安全治理框架3.0》",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 1, cover",
+    "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 1, cover",
+    "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0 全国网络安全标准化技术委员会 National Technical Committee 260 on Cybersecurity of SAC 2026年9月",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-17/2026-10-11/official.html",
+    "sha256": "356aa2b5966f799d5071ba637f708685ffdccde52647ffd73686d7e161b4ca4e",
+    "locator": "page heading, release time",
+    "quote": "发布时间： 2026-09-14",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 1, cover",
+    "quote": "人工智能 安全治理框架3.0 AI Safety Governance Framework 3.0 全国网络安全标准化技术委员会 National Technical Committee 260 on Cybersecurity of SAC 2026年9月",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-17/2026-10-11/secondary.html",
+    "sha256": "72415a6f4f8cd2a7b3d2b8b8080247676393d12a7711f81e8907ef3e3c19f24a",
+    "locator": "notice, paragraph 1",
+    "quote": "9月14日，在2026年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会（以下简称“网安标委”）发布《人工智能安全治理框架3.0》",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 55, Preface",
+    "quote": "under the guidance of the Cyberspace Administration of China (CAC), the National Technical Committee 260 on Cybersecurity of the Standardization Administration of China organized relevant professional institutions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CN-17/extra-c482b2fdef/2026-10-18/official.pdf",
+    "sha256": "cff709d8b1b2a0dfd2ff24df4d6b942b160975331e44c918e14a47d5c86da43d",
+    "locator": "page 6, 前言",
+    "quote": "在国家互联网信息办公室的指导下，全国网络安全标准化技 术委员会组织有关专业机构、科研院所、行业企业",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at TC260's release notice, an announcement that attaches the framework; the framework PDF itself is now stored and becomes official_url (rule 7c)",
+   "date_published": "the framework's own text gives only 2026年9月 on its cover; the day (14 Sept 2026) comes from the release notices, which are announcements, so it moves to the notes (rule 7b)",
+   "issuing_body": "the issuer's own English name as the framework's English text gives it ('National Technical Committee 260 on Cybersecurity of the Standardization Administration of China'), with the CAC's guiding role kept",
+   "notes": "first sentence now gives the release day with its sources and says the framework is dated September 2026",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "status"
+  ],
+  "status_reasoning": "TC260 released version 3.0 on 14 Sept 2026 (CAC notice; framework dated 2026年9月). A non-binding framework; nothing stored shows a later version, so Published (non-binding, current).",
+  "date_reasoning": "Rule 7b: the instrument's own text gives the month only (2026年9月); the two notices that give 14 Sept are announcements.",
+  "scope_reasoning": "Government AI safety governance framework issued by the national cybersecurity standardisation committee under CAC guidance; clearly in scope, no note.",
+  "secondary_url_reasoning": "secondary_url stays the CAC notice, which gives the release at the opening ceremony and links the same PDF; TC260's release notice leaves the record's URLs."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.tc260.org.cn/tc260/xwdt1/202609/e879077a3caa4722b2206d1bcaed5a6c/files/%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%86%E6%A1%86%E6%9E%B63.0%E3%80%8B.pdf.pdf",
+   "reason": "The framework's own text (stored in this run, round 1 request); now official_url."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

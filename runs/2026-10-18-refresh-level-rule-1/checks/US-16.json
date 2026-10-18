@@ -1,0 +1,51 @@
+{
+ "cand_id": "US-16",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "The cover supports 2025-07, so the value is supported. But the White House article of 23 July 2025 (stored, alt-official) dates the release to the day, and the register's rule is a full date where an official source gives one; the partial date is chosen to keep level A."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "nucleic acid synthesis screening for federally funded research institutions",
+   "verdict": "supported",
+   "locator": "page 8 of the plan"
+  },
+  {
+   "claim": "deepfake forensic benchmark/guideline led by NIST",
+   "verdict": "supported",
+   "locator": "plan, Recommended Policy Actions"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-26",
+  "US-21"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found; the plan PDF is the instrument's own text, so official is right. The date is the one point where I would choose differently: 2025-07-23 rests on an announcement (alt-official) and would make the record level B; the extractor traded precision for level A. Not blocking. Search found no revised edition of the plan on an official site."
+}

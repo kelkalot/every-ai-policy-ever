@@ -1,0 +1,138 @@
+{
+ "cand_id": "US-16",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-16",
+ "record": {
+  "date_published": "2025-07",
+  "notes": "The White House announced the plan's release on 23 July 2025; the document itself is dated July 2025. The plan follows Executive Order 14179 (US-11), which directed the creation of an AI Action Plan. The announcement calls it 'Winning the AI Race: America's AI Action Plan' and counts over 90 federal policy actions. The plan is signed by Michael J. Kratsios (Assistant to the President for Science and Technology), David O. Sacks (Special Advisor for AI and Crypto) and Marco A. Rubio (Assistant to the President for National Security Affairs). It says AI-related federal funding should not go to states with burdensome AI regulations, but that the federal government should not interfere with states' rights to pass prudent laws that are not unduly restrictive to innovation, and it asks agencies to consider a state's AI regulatory climate in funding decisions; EO 14365 of December 2025 (US-20) later directed action against state AI laws. It asks NIST to revise the AI RMF (US-02) to remove references to misinformation, diversity, equity and inclusion, and climate change. CAISI's draft NIST AI 800-2 (US-21) answers the plan's call for evaluation guidelines. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) still cites the plan and its more than 90 federal actions.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the plan's PDF on whitehouse.gov (stored 11 Oct 2026; the archiver found it unchanged on 18 Oct 2026). It confirms the title, the White House as issuer and the three signatories, 'JULY 2025' on the cover, and the recommended actions in the summary. The plan's own text gives only the month, so date_published is now 2025-07 instead of 2025-07-23. The release day, 23 July 2025, is kept in the notes; it rests on the White House announcement of that day (whitehouse.gov/articles, stored on 17 Oct 2026 in run 2026-10-17-recheck-north-america-1), which counts as an announcement, not as the plan's text. The count of more than 90 federal policy actions also comes from that announcement and from the White House fact sheet of 29 Sep 2026 stored in the same run; it is not in the plan."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 1 (cover)",
+    "quote": "Winning the Race AMERICA’S AI ACTION PLAN",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 1 (cover)",
+    "quote": "AI ACTION PLAN JULY 2025 THE WHITE HOUSE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction, signatures)",
+    "quote": "Michael J. Kratsios Assistant to the President for Science and Technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction, signatures)",
+    "quote": "David O. Sacks Special Advisor for AI and Crypto Marco A. Rubio Assistant to the President for National Security Affairs",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 1 (cover)",
+    "quote": "AI ACTION PLAN JULY 2025 THE WHITE HOUSE",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction)",
+    "quote": "This Action Plan sets forth clear policy goals for near -term execution by the Federal government.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction)",
+    "quote": "The Action Plan’s objective is to articulate policy recommendations that this Administration can deliver for the American people",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article heading and date",
+    "quote": "White House Unveils America’s AI Action Plan The White House July 23, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article body",
+    "quote": "The White House today released “Winning the AI Race: America’s AI Action Plan”, in accordance with President Trump’s January executive order on Removing Barriers to American Leadership in AI.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article body",
+    "quote": "The Plan identifies over 90 Federal policy actions across three pillars",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 4 (Introduction)",
+    "quote": "directing the creation of an AI Action Plan",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 6 (Remove Red Tape and Onerous Regulation)",
+    "quote": "but should also not interfere with states’ rights to pass prudent laws that are not unduly restrictive to innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 7 (Ensure that Frontier AI Protects Free Speech and American Values)",
+    "quote": "revise the NIST AI Risk Management Framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate change.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the plan's own text gives only 'JULY 2025'; the day, 23 July 2025, rests on the White House announcement, so the date is written at the month's precision and the day stays in the notes with its source (extract.md rule 7b)",
+   "notes": "first sentence reworded so that the release day names its source, the White House announcement of 23 July 2025; the rest is unchanged",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding plan of recommended federal policy actions dated July 2025. No stored file withdraws or replaces it; the White House fact sheet of 29 Sep 2026 (stored in run 2026-10-17-recheck-north-america-1) still cites it. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "The federal government's AI action plan with substantial safety content (frontier model evaluation for CBRNE and cyber risks, biosecurity screening, AI-ISAC, incident response); in scope with no note.",
+  "date_reasoning": "The cover reads 'JULY 2025' and nothing else in the plan dates it. The day comes only from the White House announcement, an announcement about the plan, so under rule 7b the field keeps the plan's own precision (2025-07) and the day moves to the notes. With the cover quote the date keeps official evidence."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

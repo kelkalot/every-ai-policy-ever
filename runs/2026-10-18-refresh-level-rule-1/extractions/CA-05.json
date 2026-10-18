@@ -1,0 +1,70 @@
+{
+ "cand_id": "CA-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-05",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. The institute was launched by ministerial announcement within ISED; the stored files hold no text of an establishing instrument, so title, date and status rest on announcements and pages about the institute, which count as alt-official. Stored for this record: ISED's news release of 12 November 2024 (the official URL; stored 11 Oct 2026 and found unchanged since), which gives the launch, the initial CAD 50 million over five years, the home at ISED and the CIFAR and NRC research streams; and the page of Canada's National Artificial Intelligence Strategy: AI for All (secondary source), which commits a further CAD 50 million to expand the institute. The institute's own page on ised-isde.canada.ca (date modified 2026-07-08), which gives its focus, research streams, partners and publications, and ISED's news release of 5 June 2026, which dates the strategy's launch to 4 June 2026 (date_last_updated), were stored by the recheck of 17 Oct 2026."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release, heading",
+    "quote": "Canada launches Canadian Artificial Intelligence Safety Institute From: Innovation, Science and Economic Development Canada News release",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release, dateline",
+    "quote": "November 12, 2024 – Montréal, Quebec",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release, second paragraph",
+    "quote": "Today, the Honourable François-Philippe Champagne, Minister of Innovation, Science and Industry, announced the launch of the Canadian Artificial Intelligence Safety Institute (CAISI)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/secondary.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Ensure Canadian AI infrastructure is safe and trustworthy, Key actions",
+    "quote": "Canada will invest $50 million to expand the capabilities of the Canadian AI Safety Institute to track emerging AI risks, advance technical research, and to conduct transparent evaluations of AI models.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release, Quick facts",
+    "quote": "CAISI will be housed at Innovation, Science and Economic Development Canada, with a dedicated office responsible for overseeing the research agenda and engaging with international partners.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this run: the record rests on announcements and pages about the institute, which count as alt-official (level B); no establishing instrument is among the stored files"
+  },
+  "confirmed": ["title", "date_published", "status", "issuing_body"],
+  "status_reasoning": "Launched on 12 November 2024 by the Minister of Innovation, Science and Industry. The national AI strategy launched in June 2026 commits a further CAD 50 million to expand the institute, so it is in operation; nothing stored shows it closed or renamed. Published (non-binding, current) stands.",
+  "source_kind_reasoning": "The official URL is an ISED news release (/news/), an announcement: alt-official. The strategy page is another instrument (CA-07) and the record's secondary source: alt-official. Rule 7c does not apply: no statute, order or other text establishing the institute is published among the stored sources, so the official URL stays and the record stays at level B.",
+  "date_reasoning": "12 November 2024, the dateline of the launch release. No official text gives another date.",
+  "not_confirmed": "legal_force (Non-binding) and date_last_updated (2026-06-04) are left as published; the files stored for this record do not show them directly (the strategy page carries no launch date)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

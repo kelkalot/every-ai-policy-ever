@@ -1,0 +1,82 @@
+{
+ "cand_id": "MY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "2b: the quote labelled official is the MASTIC publication entry, a catalogue page about the guide, not its text; the PDF carries no date. Same treatment as the ASEAN publication pages. MOSTI's press release (alt-official) gives the day of launch, so the date can keep its day.",
+   "fix": {
+    "value": "2024-09-20",
+    "evidence": [
+     {
+      "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-e8b8be85ad/2026-10-18/official.pdf",
+      "sha256": "9e9f56fecf8182a988784364115c6017a08dc98877c4dcec374f4a546151db78",
+      "locator": "page 1, dateline",
+      "quote": "PUTRAJAYA, 20 September 2024 – YAB Dato' Sri Haji Fadillah bin Haji Yusof",
+      "source_kind": "alt-official"
+     },
+     {
+      "file": "archive/MY-01/2026-10-18/official.html",
+      "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+      "locator": "publication entry",
+      "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS Publication Date :- Sep 2024",
+      "source_kind": "alt-official"
+     }
+    ]
+   }
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "The quote is the MASTIC catalogue entry, labelled official; it is not the instrument's text. Same value, relabelled alt-official.",
+   "fix": {
+    "value": "Published (non-binding, current)",
+    "evidence": [
+     {
+      "file": "archive/MY-01/2026-10-18/official.html",
+      "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+      "locator": "publication entry",
+      "quote": "Publication Date :- Sep 2024 Type :- MOSTI Related Policies",
+      "source_kind": "alt-official"
+     }
+    ]
+   }
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "seven principles incl. human benefit and happiness",
+   "verdict": "supported",
+   "locator": "PDF principles"
+  },
+  {
+   "claim": "human oversight: human-in-the-loop, on-the-loop, in-command",
+   "verdict": "supported",
+   "locator": "PDF"
+  },
+  {
+   "claim": "feasibility study for independent national AI advisory agency",
+   "verdict": "supported",
+   "locator": "PDF recommendations (advisory)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "Title, issuer and voluntary nature rest on the guidelines' own PDF. Date and status rested only on the issuer's publication catalogue page, labelled official; I relabelled it alt-official and restored the launch day from the press release, which the extractor had cut to the month only to keep level A. The level becomes B. The MOSTI-to-legislation shift (AI Governance Bill consultation paper of July 2026) is a proposed replacement, not a newer version of these guidelines."
+}

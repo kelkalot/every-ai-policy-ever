@@ -1,0 +1,44 @@
+{
+ "cand_id": "UN-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "calls on States to refrain from or cease using AI systems that cannot comply with international human rights law",
+   "verdict": "supported",
+   "locator": "UN News, 'Same rights, online and offline'"
+  },
+  {
+   "claim": "co-sponsored by more than 120 Member States (notes)",
+   "verdict": "supported",
+   "locator": "UN News"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All evidence is the UN News article, labelled alt-official, so the level is B as the extractor says; the resolution text itself could not be stored and a person can provide it (open question already raised). No follow-up or amending resolution found."
+}

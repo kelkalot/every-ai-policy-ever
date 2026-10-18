@@ -1,0 +1,44 @@
+{
+ "cand_id": "SG-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "8 of 11 principles in five pillars",
+   "verdict": "supported",
+   "locator": "Annex B (document-1.pdf)"
+  },
+  {
+   "claim": "tested or reviewed by 10 companies (notes)",
+   "verdict": "supported",
+   "locator": "press release paragraph 8"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All quotes found. Title, issuer, date, status and legal force rest on the joint press release and IMDA's copy, labelled alt-official; Annex B is part of the release. Level B is right under rule 2b. Date discrepancy (26 May on MDDI, 25 May on IMDA) is already in the notes. Search found no new AI Verify testing framework version in 2026 on an official site; later versions (May 2025 enhancement) are not this announcement."
+}

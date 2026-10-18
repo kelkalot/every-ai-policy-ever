@@ -1,0 +1,51 @@
+{
+ "cand_id": "JP-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The plan's own Chapter 1 says the Cabinet decided Japan's first plan on 23 December 2025; the extractor treats the two terms as one statutory plan and puts the first decision in date_published and the second (14 July 2026) in date_last_updated, as for an amended instrument. Defensible, though the Cabinet Office lists the 2025 plan as a past plan."
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Cover: Cabinet decision of 14 July 2026."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AISI international network is covered",
+   "verdict": "supported",
+   "locator": "Japanese text, 国際ネットワーク"
+  },
+  {
+   "claim": "allocating responsibility for harm from agentic AI",
+   "verdict": "supported",
+   "locator": "Japanese text, agent chapter (責任の所在)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "INT-11"
+ ],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Statutory plan mainly about AI promotion and adoption; included for its pillar on AI governance and the AI Safety Institute."
+ },
+ "overall": "accept",
+ "note": "Supported by the Japanese plan and the Cabinet Office page, both official. Search confirms 14 July 2026 as the latest Cabinet decision. The extractor's scope_note is right."
+}

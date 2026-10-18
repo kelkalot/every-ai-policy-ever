@@ -1013,6 +1013,21 @@
    "note": "decided in issue #65"
   },
   {
+   "code": "DE",
+   "host": "recht.bund.de",
+   "status": "official",
+   "operator": "Bundesministerium der Justiz und für Verbraucherschutz",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/123#issuecomment-6246362716",
+    "quote": null,
+    "checked_on": "2026-10-18"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #123"
+  },
+  {
    "code": "DK",
    "host": "intellectual-property-helpdesk.ec.europa.eu",
    "status": "official",
@@ -1129,6 +1144,21 @@
    "decided_by": "seed",
    "decided_on": "2026-10-14",
    "note": "Seeded from the hosts of records' official_url when the frame was built; not yet reviewed by a person."
+  },
+  {
+   "code": "ES",
+   "host": "congreso.es",
+   "status": "official",
+   "operator": "Congreso de los Diputados",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/124#issuecomment-6246370173",
+    "quote": null,
+    "checked_on": "2026-10-18"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #124"
   },
   {
    "code": "ES",
@@ -1522,6 +1552,21 @@
   },
   {
    "code": "GB",
+   "host": "bills-api.parliament.uk",
+   "status": "official",
+   "operator": "UK Parliament",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/125#issuecomment-6246375760",
+    "quote": null,
+    "checked_on": "2026-10-18"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #125"
+  },
+  {
+   "code": "GB",
    "host": "bills.parliament.uk",
    "status": "official",
    "operator": null,
@@ -1750,6 +1795,21 @@
     "decided_on": "2026-10-14",
     "note": "Seeded from the hosts of records' official_url when the frame was built; not yet reviewed by a person."
    }
+  },
+  {
+   "code": "IE",
+   "host": "irishstatutebook.ie",
+   "status": "official",
+   "operator": "Government of Ireland",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/126#issuecomment-6246381720",
+    "quote": null,
+    "checked_on": "2026-10-18"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #126"
   },
   {
    "code": "IL",
@@ -2472,6 +2532,21 @@
    "note": "Re-added after the host cleanup of October 2026, with the operator checked."
   },
   {
+   "code": "MU",
+   "host": "pmo.govmu.org",
+   "status": "official",
+   "operator": "Government of Mauritius",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/166#issuecomment-6246353914",
+    "quote": null,
+    "checked_on": "2026-10-18"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #166"
+  },
+  {
    "code": "MX",
    "host": "basham.com.mx",
    "status": "not official",
@@ -2630,6 +2705,21 @@
    "decided_by": "seed",
    "decided_on": "2026-10-14",
    "note": "Seeded from the hosts of records' official_url when the frame was built; not yet reviewed by a person."
+  },
+  {
+   "code": "NL",
+   "host": "zoek.officielebekendmakingen.nl",
+   "status": "official",
+   "operator": "Dutch government",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/127#issuecomment-6246397234",
+    "quote": null,
+    "checked_on": "2026-10-18"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #127"
   },
   {
    "code": "NO",
@@ -2961,17 +3051,23 @@
   {
    "code": "QA",
    "host": "prod16-assets.sprinklr.com",
-   "status": "proposed",
+   "status": "not official",
    "operator": "Sprinklr (vendor DAM/CDN platform); content owner appears to be the Qatar MCIT",
-   "kind": "official channel on a vendor platform",
+   "kind": null,
    "evidence": {
-    "url": "https://prod16-assets.sprinklr.com/",
-    "quote": "",
-    "checked_on": "2026-10-14"
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/21#issuecomment-6246347144",
+    "quote": null,
+    "checked_on": "2026-10-18"
    },
-   "decided_by": null,
-   "decided_on": null,
-   "note": "Operator check unclear: Both the host (HTTP 400) and mcit.gov.qa (HTTP 403) blocked fetching, so I could not find an MCIT page linking to this host; the file name MCIT_National_AI_Strategy suggests MCIT content. Needs a decision."
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-18",
+   "note": "decided in issue #21",
+   "previous": {
+    "status": "proposed",
+    "decided_by": null,
+    "decided_on": null,
+    "note": "Operator check unclear: Both the host (HTTP 400) and mcit.gov.qa (HTTP 403) blocked fetching, so I could not find an MCIT page linking to this host; the file name MCIT_National_AI_Strategy suggests MCIT content. Needs a decision."
+   }
   },
   {
    "code": "QA",

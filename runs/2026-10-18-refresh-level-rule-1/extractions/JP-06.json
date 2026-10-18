@@ -1,0 +1,140 @@
+{
+ "cand_id": "JP-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-06",
+ "record": {
+  "date_published": "2025-12-23",
+  "date_last_updated": "2026-07-14",
+  "scope_note": "Statutory national AI plan whose main content is promoting AI development and adoption; included for its pillar on leading AI governance, which strengthens the AI Safety Institute's technical evaluation of AI models.",
+  "notes": "The Cabinet first decided the AI Basic Plan on 23 Dec 2025. The current text is the plan's second term (第Ⅱ期計画), decided by the Cabinet on 14 Jul 2026; the Cabinet Office lists the 2025 plan under past plans. The AI Strategic Headquarters, headed by the Prime Minister with all Cabinet ministers as members, follows up the plan, sets benchmarks and monitors progress. The plan is to be reviewed and changed as needed and, for the time being, every year (当面は毎年変更を行う); the government's provisional English translation renders this as 'in principle annually'. The plan's subtitle, ～日本ＡＸ、より強く、より豊かに～, is rendered in that translation as 'Japan AI Transformation; A Stronger Nation. Greater Prosperity.'",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored and read: the Cabinet Office AI Basic Plan page (Japanese, stored 11 Oct 2026), which lists the plan decided on 14 Jul 2026 and, under past plans, the plan decided on 23 Dec 2025; the second-term plan in Japanese (22 pages, 令和８年７月14日 閣議決定, stored again in this run), whose Chapter 1 says the Cabinet decided Japan's first AI Basic Plan under Article 18(1) of the AI Act on 23 Dec 2025 and that this text is the plan's second term (第Ⅱ期計画); the Cabinet Office's provisional English translation of the second plan; the English summary of the first plan; and the English Interim Report of the AI Strategic Council and AI Institutional Study Group (4 Feb 2025), a different document. The two dates belong to two versions of one statutory plan: date_published is the first Cabinet decision and date_last_updated the second. This agrees with the Digital Agency's guideline DS-920 version 2.0 (JP-13), whose revision of 12 Jun 2026, before the second plan, cites the plan of 23 Dec 2025. The summary is checked against the Japanese text, with the subtitle and the pillar name as the government's translation renders them. The public comment period from 19 Jun 2026, given in earlier notes, is not shown in a stored file."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 1, cover",
+    "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-06/2026-10-11/official.html",
+    "sha256": "129b63a8cf205cbc13329b73fb92e8116e503f3d90c27e3dde8dd4aed488850f",
+    "locator": "page heading",
+    "quote": "人工知能基本計画 令和８年７月14日 閣議決定",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 1, cover",
+    "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 3, Chapter 1",
+    "quote": "2025 年 12 月 23 日、 「人工知能関連技術の研究開発及び活用の推進に関する法律」 （令 和７年法律第 53 号。以下「ＡＩ法」という。 ）第 18 条第１項に規定する我が国初の「人 工知能基本計画」を閣議決定した。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-06/2026-10-11/official.html",
+    "sha256": "129b63a8cf205cbc13329b73fb92e8116e503f3d90c27e3dde8dd4aed488850f",
+    "locator": "past plans",
+    "quote": "（過去の人工知能基本計画） 令和7年12月23日 閣議決定",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 1, cover",
+    "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-06/2026-10-11/official.html",
+    "sha256": "129b63a8cf205cbc13329b73fb92e8116e503f3d90c27e3dde8dd4aed488850f",
+    "locator": "page heading",
+    "quote": "人工知能基本計画 令和８年７月14日 閣議決定",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 1, cover",
+    "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 5, Chapter 1",
+    "quote": "この実現に資する戦略としてＡＩ法第18条第１項の規定に基づく 「人工知能基本計画」 の第Ⅱ期計画を策定し",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-06/2026-10-11/official.html",
+    "sha256": "129b63a8cf205cbc13329b73fb92e8116e503f3d90c27e3dde8dd4aed488850f",
+    "locator": "past plans",
+    "quote": "（過去の人工知能基本計画） 令和7年12月23日 閣議決定",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/JP-06/extra-6275977d22/2026-10-18/official.pdf",
+    "sha256": "4e63dfe86c6a3516e708a031b0d4ad1c85e42f5362f8ccc71975a243ebf747d6",
+    "locator": "page 1, cover",
+    "quote": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ 令和８年７月 14 日 閣議決定",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-06/2026-10-11/secondary.pdf",
+    "sha256": "c65419ac8c02ca52559b19dd7d7ab11274763a60144cbd81f2f6300d81abd3c5",
+    "locator": "page 2, Chapter 1",
+    "quote": "On December 23, 2025, the Cabinet decided Japan’s first “Artificial Intelligence Basic Plan,” as provided for in Article 18, paragraph (1)",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the plan's own text says the Cabinet decided the first AI Basic Plan on 23 Dec 2025; the text of 14 Jul 2026 is its second term (第Ⅱ期計画), a new version of the same statutory plan, so 2025-12-23 is the adoption date",
+   "date_last_updated": "14 Jul 2026, the Cabinet decision of the current second-term version (cover of the plan)",
+   "scope_note": "the published scope_note was a reviewer's remark (it names the 'include-and-flag rule' and says 'the record has none'); rewritten as a public statement of why the plan is borderline and included",
+   "notes": "first two sentences describe the two versions as one plan; the rest unchanged",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "status",
+   "issuing_body"
+  ],
+  "status_reasoning": "The current version was decided by the Cabinet on 14 Jul 2026 and the Cabinet Office lists the 2025 version under past plans. The plan is changed rather than replaced (当面は毎年変更), so the record stays Published (non-binding, current).",
+  "date_reasoning": "One plan or two? The 14 Jul 2026 text calls itself the second-term plan (第Ⅱ期計画) of the AI Basic Plan under Article 18(1), records the first Cabinet decision of 23 Dec 2025, and provides for yearly changes (第２節 基本計画の変更). By AGENTS.md section 5.6, date_published is the adoption date and date_last_updated the last new version. DS-920 version 2.0 (revised 12 Jun 2026) cites the 2025 decision because the second version did not yet exist.",
+  "scope_reasoning": "Strategy with a governance pillar but a different main focus: in, with a scope_note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
+   "reason": "The second-term AI Basic Plan in Japanese (stored in this run, round 1 request)."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

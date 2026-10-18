@@ -1,0 +1,85 @@
+{
+ "cand_id": "AUS-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-07",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. The Institute was set up by a government decision announced on 25 November 2025; the stored files hold no text of an establishing instrument, so title, date and status rest on announcements and government documents about the Institute, which count as alt-official. Stored for this record: the Department of Industry, Science and Resources news item of 25 November 2025 (the official URL; stored 11 Oct 2026 and found unchanged since), which gives the announcement, the Institute's tasks, its complementary role, operation from early 2026, membership of the international network and the 17 December update on the network's new name; and the Government response to the Senate Select Committee on Adopting Artificial Intelligence (industry.gov.au, tabled 1 April 2026; secondary source), which gives the funding, the testing of frontier AI models and that the Institute will not be a regulator. The minister's joint media release of 25 November 2025 and the Institute's own page on industry.gov.au, which shows it as part of the department with 3 goals, joint testing and publications up to October 2026, were stored by the recheck of 17 Oct 2026."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "Australia to establish new institute to strengthen AI safety, lead paragraph",
+    "quote": "The Australian Government is establishing an Australian Artificial Intelligence Safety Institute to respond to AI-related risks and harms.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "Australia to establish new institute to strengthen AI safety, More information",
+    "quote": "The minister announced the Australian AI Safety Institute on 25 November 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "Australia to establish new institute to strengthen AI safety, lead paragraph",
+    "quote": "The AI Safety Institute will become operational in early 2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Government response, regulatory approach",
+    "quote": "the Australian Government provided $29.8 million over 4 years from 2025–26 (and $7.9 million per year ongoing from 2029–2030) to establish the Australian AI Safety Institute.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "page title",
+    "quote": "Australia to establish new institute to strengthen AI safety | Department of Industry Science and Resources",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Government response, regulatory approach",
+    "quote": "The AI Safety Institute will not be a regulator.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "Australia to establish new institute to strengthen AI safety, body",
+    "quote": "Its work will complement existing legal and regulatory frameworks that already protect Australians’ rights and safety.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this run: the record rests on announcements and government documents about the Institute, which count as alt-official (level B); no establishing instrument is among the stored files"
+  },
+  "confirmed": ["title", "date_published", "status", "issuing_body", "legal_force"],
+  "status_reasoning": "Announced on 25 November 2025 to become operational in early 2026; the Government response tabled on 1 April 2026 says the government provided the funding to establish it. The Institute's own page stored by the recheck of 17 Oct 2026 shows it working, with publications up to October 2026. Published (non-binding, current) stands.",
+  "source_kind_reasoning": "The official URL is a departmental news item (/news/), an announcement: alt-official. The Government response is a government document about many measures and the record's secondary source: alt-official. Rule 7c does not apply: no statute, decree or other text establishing the Institute is published among the stored sources, so the official URL stays and the record stays at level B.",
+  "date_reasoning": "25 November 2025, the day the minister announced the Institute, as the news item says. No official text gives another date."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

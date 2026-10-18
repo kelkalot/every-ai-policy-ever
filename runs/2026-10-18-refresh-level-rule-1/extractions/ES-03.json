@@ -1,0 +1,244 @@
+{
+ "cand_id": "ES-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ES-03",
+ "record": {
+  "official_url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF",
+  "secondary_url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2025/20250311-referencia-rueda-de-prensa-ministros.aspx",
+  "verification": {
+   "note": "Stored and read in this run: the BOCG, Congreso de los Diputados, Serie A, núm. 97-1 of 12 June 2026 (congreso.es, listed as official), with the bill's full text, file 121/000096, the committee referral and the amendment deadline of 30 June 2026; and the La Moncloa referencias of the Council of Ministers, the Council's record of the agreements of each meeting, of 11 March 2025 (anteproyecto approved in first reading, with urgent processing) and 26 May 2026 (proyecto de ley orgánica approved for submission to the Congress; the archiver flagged this page for review because the AI item is one of many items on it, and the item is there). official_url now points to the bill's text in the BOCG, and the referencia of 11 March 2025, which gives date_published, becomes the secondary source. No later parliamentary stage (extension of the amendment period, committee report, plenary vote) is in the stored sources. No English translation of the bill was found."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "secondary_url": [
+   {
+    "file": "archive/ES-03/2026-10-11/official.html",
+    "sha256": "9bb4d546d44af384abf09fd3fc0167a81cd7214a9bae5a27f9b80847659e880c",
+    "locator": "page heading",
+    "quote": "La Moncloa. Referencia del Consejo de Ministros | 11/03/2025",
+    "source_kind": "official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-33095e52a9/2026-10-18/official.html",
+    "sha256": "8b2eacc318e5ab29f62adacfa92862b9b69b9b9fdde6cfb88d6f078abe4daf98",
+    "locator": "Sumario, Para la Transformación Digital y de la Función Pública",
+    "quote": "PROYECTO DE LEY ORGÁNICA para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "Autor: Gobierno Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 2",
+    "quote": "PROYECTO DE LEY ORGÁNICA PARA EL BUEN USO Y LA GOBERNANZA DE LA INTELIGENCIA ARTIFICIAL",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "(121) Proyecto de ley. Autor: Gobierno",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-33095e52a9/2026-10-18/official.html",
+    "sha256": "8b2eacc318e5ab29f62adacfa92862b9b69b9b9fdde6cfb88d6f078abe4daf98",
+    "locator": "Sumario, Para la Transformación Digital y de la Función Pública",
+    "quote": "Para la Transformación Digital y de la Función Pública PROYECTO DE LEY ORGÁNICA para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-03/2026-10-11/official.html",
+    "sha256": "9bb4d546d44af384abf09fd3fc0167a81cd7214a9bae5a27f9b80847659e880c",
+    "locator": "Uso ético, inclusivo y beneficioso de la inteligencia artificial",
+    "quote": "El Consejo de Ministros ha aprobado el Anteproyecto de Ley para el buen uso y la gobernanza de la Inteligencia Artificial",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1, masthead",
+    "quote": "BOLETÍN OFICIAL DE LAS CORTES GENERALES CONGRESO DE LOS DIPUTADOS XV LEGISLATURA Serie A: PROYECTOS DE LEY 12 de junio de 2026 Núm. 97-1 Pág. 1",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ES-03/2026-10-11/official.html",
+    "sha256": "9bb4d546d44af384abf09fd3fc0167a81cd7214a9bae5a27f9b80847659e880c",
+    "locator": "page heading",
+    "quote": "La Moncloa. Referencia del Consejo de Ministros | 11/03/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-03/2026-10-11/official.html",
+    "sha256": "9bb4d546d44af384abf09fd3fc0167a81cd7214a9bae5a27f9b80847659e880c",
+    "locator": "page heading",
+    "quote": "Referencia del Consejo de Ministros 11.3.2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-33095e52a9/2026-10-18/official.html",
+    "sha256": "8b2eacc318e5ab29f62adacfa92862b9b69b9b9fdde6cfb88d6f078abe4daf98",
+    "locator": "page heading",
+    "quote": "Referencia Consejo Ministros 26.5.2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-33095e52a9/2026-10-18/official.html",
+    "sha256": "8b2eacc318e5ab29f62adacfa92862b9b69b9b9fdde6cfb88d6f078abe4daf98",
+    "locator": "Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial",
+    "quote": "El Consejo de Ministros ha aprobado para su remisión al Congreso de los Diputados el proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1, Acuerdo de la Mesa",
+    "quote": "Encomendar Dictamen, conforme al artículo 109 del Reglamento, a la Comisión de Economía, Comercio y Transformación Digital. Asimismo, publicar en el Boletín Oficial de las Cortes Generales, estableciendo plazo de enmiendas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1, Acuerdo de la Mesa",
+    "quote": "por un período de quince días hábiles, que finaliza el día 30 de junio de 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "Palacio del Congreso de los Diputados, 8 de junio de 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "(121) Proyecto de ley. Autor: Gobierno",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 31, Artículo 30",
+    "quote": "a) Infracciones muy graves recogidas en el artículo 13.1: hasta 35.000.000 euros o, si el infractor es una empresa, hasta el 7 % de su volumen de negocios mundial total",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 25, Artículo 15",
+    "quote": "Constituye infracción muy grave, relativa a los sistemas de alto riesgo, la ausencia de notificación por un proveedor de sistemas de IA de alto riesgo, o del responsable del despliegue en su defecto, de cualquier incidente grave",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 26",
+    "quote": "contenido sintético de audio, imagen, video o texto, de marcar los resultados de salida de tal modo que pueda detectarse su naturaleza artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "Artículo 12",
+    "quote": "A tal efecto, se elaborará un inventario de sistemas de IA para el sector público estatal",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "Artículo 12",
+    "quote": "Cada entidad del sector público estatal deberá designar, en el ejercicio de sus competencias, a un delegado de IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "Artículo 6",
+    "quote": "Se designa a la AESIA como punto de contacto único",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ES-03/extra-2db351b32c/2026-10-18/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "Disposición derogatoria única",
+    "quote": "dispuesto en esta ley, y en especial, el Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the bill's own text, published in the BOCG and stored in this run, replaces the referencia of 11 March 2025, which recorded the earlier anteproyecto (rule 7c: official_url points at the instrument)",
+   "secondary_url": "the referencia of 11 March 2025, previously official_url, becomes the secondary source; it gives date_published",
+   "verification.note": "rewritten: the BOCG (congreso.es, now listed as official) and the referencia of 26 May 2026 are stored in this run; the source swap is recorded"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The BOCG of 12 June 2026 publishes the government bill, referred on 8 June 2026 to the Committee on Economy, Trade and Digital Transformation, with amendments due by 30 June 2026. Today is 18 Oct 2026; no later stage is stored, and a bill stays Draft / proposed until it is passed and published in the BOE. Legal force Proposed.",
+  "date_reasoning": "date_published 2025-03-11, the Council of Ministers' first approval of the draft (referencia of that day); date_last_updated 2026-05-26, its approval of the proyecto (referencia of 26 May 2026). Both referencias are labelled official as the Council's record of its agreements. With the referencia of 11 March 2025 as secondary_url, a later run stores it in the secondary role, which caps it at alt-official; such a run should ask for it as an extra source to keep date_published at official.",
+  "source_kind_reasoning": "The BOCG is the legislature's publication of the bill's text, an official register. The referencia del Consejo de Ministros is the Council's formal record of the agreements adopted at its meeting (its summary lists each agreement by type and title), so it counts as the deciding body's formal record of its decision.",
+  "scope_reasoning": "Unchanged: a government bill implementing the EU AI Act in Spain; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

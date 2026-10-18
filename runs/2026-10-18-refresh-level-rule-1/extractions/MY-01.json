@@ -1,0 +1,103 @@
+{
+ "cand_id": "MY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MY-01",
+ "record": {
+  "date_published": "2024-09",
+  "notes": "MOSTI's press release of 20 Sep 2024 says Deputy Prime Minister Fadillah Yusof launched the guidelines that day; the MASTIC publication page dates them September 2024. They were developed as an action plan of the National AI Roadmap 2021-2025 (AI-RMAP), with input from the working committee of the National Blockchain and Artificial Intelligence Committee (NBAIC), Universiti Teknologi Malaysia, industry and civil society. The guidelines call themselves a living document to be reviewed and updated regularly and say they will be made available in Malay and English. The National AI Action Plan 2026-2030 cites them as published by MOSTI in 2023. AI Malaysia's voluntary AI Code of Ethics (AICE) puts their seven principles into practice.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored and read: the MASTIC (MOSTI) publication page (mastic.mosti.gov.my, copy of 18 Oct 2026; its text differs from the copy of 11 Oct 2026 only in the page's last-modified line), which gives the title, 'Sep 2024' and the type 'MOSTI Related Policies'; the guidelines PDF embedded in that page (140 pages, stored again in this run), which confirms the title, the publisher and the voluntary character and carries no date; MOSTI's Malay press release of 20 Sep 2024 on the launch (mosti.gov.my, stored again in this run); and AI Malaysia's AICE page (ai.gov.my, the secondary source). Because the guidelines carry no date and the issuer's publication page gives only the month, date_published is 2024-09 and the launch day from the press release is in the notes. The National AI Action Plan's citation of a 2023 publication rests on that plan's text (MY-03), not on a file of this record."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 1, cover",
+    "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "publication entry",
+    "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS Publication Date :- Sep 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "publication entry",
+    "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS Publication Date :- Sep 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-e8b8be85ad/2026-10-18/official.pdf",
+    "sha256": "9e9f56fecf8182a988784364115c6017a08dc98877c4dcec374f4a546151db78",
+    "locator": "page 1, dateline",
+    "quote": "PUTRAJAYA, 20 September 2024 – YAB Dato' Sri Haji Fadillah bin Haji Yusof",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "publication entry",
+    "quote": "Publication Date :- Sep 2024 Type :- MOSTI Related Policies",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 2",
+    "quote": "Published by: Ministry of Science, Technology and Innovation",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 15, 1.3 Objectives",
+    "quote": "As mentioned in the Preamble section, these national guidelines are on a voluntary for the stakeholders.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the guidelines carry no date and the issuer's publication page gives only Sep 2024; the day (20 Sep 2024) rests on MOSTI's press release, an announcement, so it moves to the notes (rule 7b)",
+   "notes": "first sentence now names the press release as the source of the day",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "status",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "Voluntary guidelines listed on MOSTI's MASTIC publication page as a MOSTI policy; nothing stored shows a replacement, so Published (non-binding, current).",
+  "date_reasoning": "Official evidence for the date is the MASTIC publication page ('Publication Date :- Sep 2024'); the guidelines PDF has no date; the launch day comes from MOSTI's press release.",
+  "scope_reasoning": "National AI governance and ethics guidelines: in, with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://mastic.mosti.gov.my/storage/2024/09/THE-NATIONAL-GUIDELINES-ON-AI-GOVERNANCE-ETHICS.pdf",
+   "reason": "The guidelines themselves (stored in this run, round 1 request)."
+  },
+  {
+   "url": "https://www.mosti.gov.my/wp-content/uploads/2024/10/20092024.283925956.pdf",
+   "reason": "MOSTI's press release of 20 Sep 2024 (stored in this run, round 1 request)."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

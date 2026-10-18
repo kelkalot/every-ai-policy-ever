@@ -1,0 +1,58 @@
+{
+ "cand_id": "SA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "document-control table: May 2025"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "SDAIA's page links the file as a 'draft of Principles of AI Ethics' while the PDF has no draft marking and says Regulatory Documents; 'Published, current' is defensible, not certain."
+  },
+  "legal_force": {
+   "verdict": "judgment-differs",
+   "why": "The document defines adopting entities as 'required to comply' but its controls say 'should' and registration is optional; Non-binding is defensible."
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Four risk levels with pre- and post-conformity assessments for high risk",
+   "verdict": "supported",
+   "locator": "page 9, AI Risks"
+  },
+  {
+   "claim": "Human oversight for irreversible or life-and-death decisions; no social scoring or mass surveillance",
+   "verdict": "supported",
+   "locator": "page 23, Principle 5"
+  },
+  {
+   "claim": "Optional registration with motivational badges",
+   "verdict": "supported",
+   "locator": "pages 31-32"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "date_published refined to 2025-05 and identifier SDAIA-P114E come from the document-control table on page 50. Summary and notes claims found in the stored PDF and SDAIA's laws and regulations page. Status and legal force stay a judgment call (draft label on the link, 'required to comply' wording); the extractor's open question covers it. One search found no 2026 edition of the principles (only the 2023 version 2.0 coverage)."
+}

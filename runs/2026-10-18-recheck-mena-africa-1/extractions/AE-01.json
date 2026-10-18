@@ -1,0 +1,225 @@
+{
+ "cand_id": "AE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AE-01",
+ "record": {
+  "title": "UAE Strategy for Artificial Intelligence",
+  "short_title": "UAE AI Strategy",
+  "summary": "Strategy launched by the UAE Government in October 2017 to achieve the objectives of UAE Centennial 2071, rely on AI for all services and data analysis by 2031, raise government performance, lead the world in government AI investment and create a new high-value market. It targets transport, health, space, renewable energy, water, technology, education, environment and traffic. Its five themes: an AI council and task forces; programmes across government; training of government leaders and staff; delivering all first-line public services through AI; and leadership through an AI advisory council, a government law on the safe use of AI and a first global document on controls for its safe use.",
+  "notes": "Launched in October 2017 as the post-mobile government phase; it sets 2031 as the target year for relying on AI for all services and data analysis. The UAE Charter for the Development and Use of Artificial Intelligence (AE-02, 2024) states that it aims to achieve the strategic goals of this strategy.",
+  "scope_note": "Mainly a strategy for AI adoption in government services and economic sectors; included as the UAE's flagship AI strategy, whose fifth theme provides for a government law on the safe use of AI and controls for its safe use.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the UAE Government portal (u.ae) page on the strategy in English (snapshot of 11 Oct 2026, unchanged on 18 Oct 2026; last updated 30 Dec 2024) and in Arabic (18 Oct 2026; last updated 30 Jun 2026). They confirm the October 2017 launch by the UAE Government, the aims (the Arabic page adds 100% reliance on AI in services and data analysis by 2031), the sectors and the five themes, and name the strategy 'UAE Strategy for Artificial Intelligence' / 'استراتيجية الإمارات للذكاء الاصطناعي'. The English page is shorter and omits the 2031 target and, in the fifth theme, the advisory council and the global document on safe-use controls; the summary follows the fuller Arabic page. The English page links the strategy's name to the strategy document on the AI Office's site (ai.gov.ae, file UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf), the source of the previous title 'UAE National Strategy for Artificial Intelligence 2031', the previous original title and the eight objectives of the previous summary; ai.gov.ae refused the archiver again on 18 Oct 2026 (HTTP 403, also in a browser), so that document is not stored."
+  },
+  "original_title": "استراتيجية الإمارات للذكاء الاصطناعي"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "page heading",
+    "quote": "UAE Strategy for Artificial Intelligence | The Official Platform of the UAE Government",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "main text, first paragraph",
+    "quote": "In October 2017, the UAE Government launched ‘UAE Strategy for Artificial Intelligence (AI)’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "main text, first paragraph",
+    "quote": "في أكتوبر 2017، أطلقت حكومة دولة الإمارات استراتيجية الإمارات للذكاء الاصطناعي (AI)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "main text, first paragraph",
+    "quote": "In October 2017, the UAE Government launched ‘UAE Strategy for Artificial Intelligence (AI)’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "main text, first paragraph",
+    "quote": "في أكتوبر 2017، أطلقت حكومة دولة الإمارات",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "main text, first paragraph",
+    "quote": "In October 2017, the UAE Government launched",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "main text, last paragraph",
+    "quote": "Read more about artificial intelligence in the UAE- Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications Office.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "main text, first paragraph",
+    "quote": "The strategy is first of its kind in the region and the world and it aims to",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "page footer",
+    "quote": "Updated on: 30 Dec 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "page footer",
+    "quote": "آخر تحديث في 30 يونيو 2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "Themes",
+    "quote": "launch leadership strategy and issue a government law on the safe use of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "themes, fifth theme",
+    "quote": "وإصدار قانون حكومي بشأن الاستخدام الآمن للذكاء الاصطناعي",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "aims",
+    "quote": "الاعتماد على الذكاء الاصطناعي في الخدمات وتحليل البيانات بمعدل 100% بحلول عام 2031",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "themes",
+    "quote": "توفير 100% من خدمات الخط الأول للجمهور من خلال الذكاء الاصطناعي",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "themes, fifth theme",
+    "quote": "القيادة من خلال تعيين المجلس الاستشاري للذكاء الاصطناعي، وإصدار قانون حكومي بشأن الاستخدام الآمن للذكاء الاصطناعي، وتطوير أول وثيقة عالمية لتحديد الضوابط الضامنة للاستخدام الآمن والسليم للذكاء الاصطناعي.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "Sectors",
+    "quote": "transport – to reduce accidents and cut operational costs",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "Themes",
+    "quote": "The AI strategy has five themes: the formation of the UAE AI Council",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AE-01/2026-10-11/official.html",
+    "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+    "locator": "main text, first paragraph",
+    "quote": "This marks the post-mobile government phase which will rely on various future services, sectors and infrastructure projects.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "aims",
+    "quote": "الاعتماد على الذكاء الاصطناعي في الخدمات وتحليل البيانات بمعدل 100% بحلول عام 2031",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+    "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+    "locator": "main text, first paragraph",
+    "quote": "في أكتوبر 2017، أطلقت حكومة دولة الإمارات استراتيجية الإمارات للذكاء الاصطناعي (AI)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "set to the name both stored versions of the official page give ('UAE Strategy for Artificial Intelligence'); the previous title with 'National' and '2031' is the title of the strategy document on ai.gov.ae, which refused the archiver in both rounds",
+   "original_title": "'الاستراتيجية الوطنية للذكاء الاصطناعي 2031' -> 'استراتيجية الإمارات للذكاء الاصطناعي', the name on the stored Arabic page, matching the new title; the previous value is in no stored source",
+   "short_title": "'2031' dropped with the title",
+   "summary": "rewritten from the stored pages, following the fuller Arabic text: aims including the 2031 target, sectors and the five themes; the eight objectives and Objective 8 of the previous summary rest on the unstored strategy document",
+   "notes": "rewritten: the launch, the 2031 target and the link to the 2024 charter (AE-02); the remark on the two titles moved to verification.note",
+   "scope_note": "added: mainly an adoption strategy; its safety content on the stored pages is the fifth theme (a government law on the safe use of AI and controls for safe use)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A government strategy launched in October 2017 and still presented as current on the UAE Government portal (page updated 30 Dec 2024); nothing stored replaces or withdraws it. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A national AI strategy whose main content is AI adoption across government and economic sectors; its risk-governance content is the planned government law on the safe use of AI (and, in the strategy document, an objective on governance and regulation). In with a scope_note, as for other adoption-focused national strategies (VN-01, AZ-01).",
+  "date_reasoning": "The portal gives only the month of launch, October 2017; 2017-10 is kept.",
+  "topics_reasoning": "public-sector use is supported (government services through AI, training of government leaders and staff). international cooperation rests in part on the fifth theme's 'first global document' setting controls for safe use, and accountability & liability on nothing stored; both came from Objective 8 of the strategy document (governance, regulation, an intergovernmental framework), which could not be stored. Left unchanged as the coordinator asked; see open_questions."
+ },
+ "extra_urls": [
+  {
+   "url": "https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf",
+   "reason": "the strategy document itself, linked from the stored u.ae page; requested for the title, the eight objectives and the topics. Not stored: HTTP 403, also in a browser (round 2)"
+  },
+  {
+   "url": "https://u.ae/ar/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/Ai/uae-strategy-for-artificial-intelligence",
+   "reason": "the Arabic version of the u.ae page, for original_title; stored in this run and used for original_title, the summary and the notes"
+  }
+ ],
+ "leads": [
+  {
+   "title": "The UAE's International Stance on Artificial Intelligence Policy (UAE Cabinet, 2024)",
+   "url": "https://u.ae/ar/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAEs-International-Stance-on-Artificial-Intelligence-Policy",
+   "seen_in": "https://u.ae/ar/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAEs-International-Stance-on-Artificial-Intelligence-Policy",
+   "why": "A UAE government AI policy page on the same portal as AE-02, listed under 'Policies / Artificial Intelligence'; an ai.gov.ae PDF 'UAE Guiding on AI policy' (October 2024) may be its text. No record in the register."
+  },
+  {
+   "title": "Dubai Universal Blueprint for Artificial Intelligence",
+   "url": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/Ai/dubai-universal-blueprint-for-ai",
+   "seen_in": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/Ai",
+   "why": "Sub-national (Dubai) AI blueprint listed next to the UAE AI strategy on the government portal; no record for Dubai in the register; scope depends on its governance content."
+  }
+ ],
+ "open_questions": [
+  "The strategy document (ai.gov.ae PDF linked from the u.ae page) cannot be stored: ai.gov.ae refuses the archiver, also in a browser. Whether the record should carry its title 'UAE National Strategy for Artificial Intelligence 2031' instead of the portal's 'UAE Strategy for Artificial Intelligence' needs that document; a person who has the PDF could provide it.",
+  "safety_topics: 'accountability & liability' is supported by no stored source and 'international cooperation' only weakly (the fifth theme's 'first global document' on controls for safe use); both rest on Objective 8 of the unstored strategy document. They are left unchanged."
+ ]
+}

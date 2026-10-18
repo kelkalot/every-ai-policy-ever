@@ -1,0 +1,223 @@
+{
+ "cand_id": "MU-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MU-01",
+ "record": {
+  "summary": "Non-binding national guidelines built on four pillars (Fairness, Accountability, Inclusiveness and Integrity, Responsibility) that accompany the National AI Strategy. They apply across sectors and the whole AI lifecycle, including systems from external providers, and set a risk-based governance model with indicative low, medium, high and unacceptable-risk tiers, escalation controls and safeguards, data-protection alignment, transparency, explainability and human oversight, accountability, auditability and record-keeping, procurement and vendor governance, and guidance on generative, foundation and agentic AI. They are to inform sector rules and future legislation where risk justifies it.",
+  "notes": "Cabinet agreed on 13 February 2026 to adopt the national AI strategy, AI for Mauritius, as the national guiding policy framework, supported by the FAIR guideline document, and stated that the guidelines will evolve into AI regulations as the ecosystem matures. The strategy and the guidelines were launched on 9 April 2026 at the J & J Auditorium in Phoenix (the ministry's release of 10 April 2026 says 'launched yesterday'). The guidelines state that they are not a law and create no legal obligations, and they do not apply to AI used for military, defence, national security or counter-terrorism purposes.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the guidelines PDF from the AI Unit's site aim.govmu.org (38 pages; stored 11 Oct 2026 and unchanged on 18 Oct 2026), the ministry's release of 10 April 2026 on mitci.govmu.org, and the Highlights of the Cabinet meeting of 13 February 2026 from the Prime Minister's Office (pmo.govmu.org). The PDF confirms the title, the ministry, the non-binding character, the scope, the risk tiers, the scope exclusion and the legal trajectory; the release confirms the launch 'yesterday' (9 April 2026) and that the ministry's AI Unit led the work; the Cabinet highlights (item 6) confirm the adoption of the strategy 'AI for Mauritius' supported by the FAIR guideline document and that the guidelines will evolve into AI regulations. The PDF carries no date, so date_published rests on the ministry's release. pmo.govmu.org is not yet on the list of official sites, so the Cabinet quotes count as secondary until a person records the host. The same PDF is also hosted at mitci.govmu.org as 'FINAL-GUIDELINES-15AVRIL.pdf'."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 1 (cover)",
+    "quote": "FAIR GUIDELINES FOR THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE Ministry of Information Technology, Communication and Innovation",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 1 (cover)",
+    "quote": "FAIR GUIDELINES FOR THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE Ministry of Information Technology, Communication and Innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/secondary.html",
+    "sha256": "e83595c90c716a33ec345945ba2ac97a6181060b08c18c02f88068c872371814",
+    "locator": "release of 10 April 2026, paragraph 2",
+    "quote": "the AI Unit has spearheaded the development of the National Artificial Intelligence (AI) Strategy and the FAIR Guidelines",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+    "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+    "locator": "page 2, item 6",
+    "quote": "The AI Strategy is supported by a F AIR (Fair, Accountable, Inclusive and Responsible) guideline document",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+    "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+    "locator": "page 1, heading",
+    "quote": "HIGHLIGHTS OF CABINET MEETING – FRIDAY 13 FEBRUARY 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/MU-01/2026-10-11/secondary.html",
+    "sha256": "e83595c90c716a33ec345945ba2ac97a6181060b08c18c02f88068c872371814",
+    "locator": "release of 10 April 2026, paragraph 2",
+    "quote": "These initiatives, officially launched yesterday at the J & J Auditorium in Phoenix, establish a comprehensive framework to guide the ethical, transparent and effective adoption of AI across the Republic.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/secondary.html",
+    "sha256": "e83595c90c716a33ec345945ba2ac97a6181060b08c18c02f88068c872371814",
+    "locator": "release, closing line",
+    "quote": "Dated 10th of April 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 3, Introduction to the FAIR guidelines",
+    "quote": "The FAIR Guidelines for the Development and Use of Artificial Intelligence set out a shared, non-binding approach to the responsible and trustworthy development and use of AI in Mauritius.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/secondary.html",
+    "sha256": "e83595c90c716a33ec345945ba2ac97a6181060b08c18c02f88068c872371814",
+    "locator": "release of 10 April 2026, paragraph 2",
+    "quote": "These initiatives, officially launched yesterday at the J & J Auditorium in Phoenix, establish a comprehensive framework to guide the ethical, transparent and effective adoption of AI across the Republic.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 3, Navigating through the Guidelines",
+    "quote": "The FAIR Guidelines do not create legal obligations and do not replace existing laws or regulatory powers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 3, Introduction to the FAIR guidelines",
+    "quote": "The FAIR Guidelines are not a strategy, a law or an operational manual.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 5, The FAIR Pillars",
+    "quote": "Fairness Accountability Inclusiveness and Integrity Responsibility",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 4, Scope of Application",
+    "quote": "The FAIR Guidelines apply across all sectors and to all stages of the AI lifecycle.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 4, Scope of Application",
+    "quote": "They apply to AI systems developed locally as well as those sourced from external providers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 2, Contents",
+    "quote": "Generative, Foundation and Agentic AI Systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 2, Contents",
+    "quote": "Escalation, Controls and Safeguards",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 8, Legal Trajectory and Policy Evolution",
+    "quote": "Future legislative measures, where justified by risk, scale or societal impact",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 3, Navigating through the Guidelines",
+    "quote": "The National Artificial Intelligence Strategy sets out the Government's long-term vision, priorities and overall direction for AI.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+    "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+    "locator": "page 1, heading",
+    "quote": "HIGHLIGHTS OF CABINET MEETING – FRIDAY 13 FEBRUARY 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+    "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+    "locator": "page 2, item 6",
+    "quote": "Cabinet has agreed to the adoption of the Artificial Intelligence (AI) Strategy, AI for Mauritius, which will serve as the national guiding policy framework for the development and implementation of AI in Mauritius.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+    "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+    "locator": "page 2, item 6",
+    "quote": "The AI Strategy is supported by a F AIR (Fair, Accountable, Inclusive and Responsible) guideline document",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+    "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+    "locator": "page 2, item 6",
+    "quote": "The Guidelines will evolve into AI Regulations with the maturity of the ecosystem.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/secondary.html",
+    "sha256": "e83595c90c716a33ec345945ba2ac97a6181060b08c18c02f88068c872371814",
+    "locator": "release of 10 April 2026, paragraph 2",
+    "quote": "These initiatives, officially launched yesterday at the J & J Auditorium in Phoenix, establish a comprehensive framework to guide the ethical, transparent and effective adoption of AI across the Republic.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MU-01/2026-10-11/official.pdf",
+    "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+    "locator": "page 8, Scope Exclusion",
+    "quote": "These Guidelines do not apply to the development or use of Artificial Intelligence for military, defence, national security or counter-terrorism purposes.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the guidelines' own text: the closing sentence now gives the guidelines' own legal trajectory (pages 8 and 36) instead of the Cabinet statement, which stays in notes with its source; 'AI for Mauritius' replaced by the National AI Strategy as the guidelines name it",
+   "notes": "kept the Cabinet adoption and its statement that the guidelines will evolve into AI regulations, now quoted from the stored Cabinet highlights of 13 February 2026 (item 6), and the launch date; added the scope exclusion for military, defence, national security and counter-terrorism uses (page 8); dropped the UNDP date, which no stored source carries; the remarks on the second hosted copy and on related strategies not in the register moved to verification.note and leads",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Non-binding guidelines launched on 9 April 2026 and still hosted by the AI Unit; nothing stored shows them withdrawn or replaced. Published (non-binding, current).",
+  "scope_reasoning": "National AI-specific governance guidelines with a risk-based model, human oversight and guidance on generative and agentic AI; in scope with no note.",
+  "date_reasoning": "The PDF carries no date. The ministry's release is dated 10 April 2026 (page heading 'April 10, 2026' and closing line 'Dated 10th of April 2026') and says the strategy and guidelines were 'officially launched yesterday', so the launch and publication date is 9 April 2026. The Cabinet decision of 13 February 2026 adopted the strategy with the supporting guideline document; the published record takes the launch, when the guidelines were made public, as date_published, and the Cabinet date stays in notes.",
+  "topics_reasoning": "The published topics are supported: risk-based classification (indicative risk tiers), human oversight and transparency & labelling (transparency, explainability and human oversight section), accountability & liability (accountability, auditability and record-keeping), general-purpose / frontier AI (generative, foundation and agentic AI section). Left unchanged.",
+  "issuing_body_reasoning": "The cover names the ministry; the release says its AI Unit led the work; the Cabinet highlights of 13 February 2026 (item 6) record Cabinet's adoption of the strategy with the supporting FAIR guideline document, which supports 'adopted by Cabinet'. pmo.govmu.org is not on the official-sites list, so that quote counts as secondary for now."
+ },
+ "extra_urls": [],
+ "leads": [
+  "AI for Mauritius, the National Artificial Intelligence Strategy of the Ministry of Information Technology, Communication and Innovation (AI Unit), adopted by Cabinet on 13 February 2026 and launched with the FAIR Guidelines on 9 April 2026; https://aim.govmu.org/aim/wp-content/uploads/2026/04/aistrategy.pdf. Not in the register; the guidelines describe it as the Government's long-term vision for AI, and the earlier record notes say it describes a hybrid, risk-proportionate governance approach.",
+  "Mauritius Artificial Intelligence Strategy (2018), hosted on mitci.govmu.org according to the earlier record notes, which say it proposed a Mauritius AI Council and a chapter on regulation, ethics and data protection. Not in the register; under the inclusive rules it may qualify with a scope_note."
+ ],
+ "open_questions": []
+}

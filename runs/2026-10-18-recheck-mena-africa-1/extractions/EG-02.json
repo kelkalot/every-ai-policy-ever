@@ -1,0 +1,202 @@
+{
+ "cand_id": "EG-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "EG-02",
+ "record": {
+  "official_identifier": "EG-NCAI-GOV-FW-2026-02",
+  "summary": "Policy guide setting the architecture of Egypt's National AI Governance Framework, authorised for release in March 2026. Under a 'State as Orchestrator' model, the National Council sets policy and sectoral regulators enforce it. AI systems fall into four tiers: prohibited (e.g. social profiling, exploitation of children, manipulative interference); high-risk (e.g. critical infrastructure, biometrics), needing a 'Dual-Check' of an ethical impact assessment and a technical audit before market entry, then monitoring and serious-incident reporting; limited-risk (chatbots, deepfakes), with disclosure and labelling; and minimal-risk. General-purpose AI with systemic risk counts as high-risk.",
+  "notes": "Edition 2.0, 'Approved for Publication': the guide's version history runs from a first draft in August 2025 and a version 1.0 for public consultation in January 2026 to its authorisation for release by the Minister of Communications and Information Technology, as chairman of the Council, on 15 March 2026. Its Phase 1 agenda includes risk classification guidelines, guidelines on children's safe use of AI and on generative AI, government AI procurement guidelines and an AI audit lab and regulatory sandbox; mandatory conformity assessments for high-risk sectors follow in months 12 to 24, and the framework is to inform the drafting of an Egyptian AI law. The companion 'Egypt National Guidelines for Trustworthy and Responsible AI' (Edition 2.0, document EG-NCAI-GOV-FW-2026-03, authorised 25 March 2026; secondary_url) is Product 1 of the framework and its operational manual, built on institutional governance, AI life-cycle governance, stakeholder engagement, and society and sustainability.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the guide PDF (32 pages) and the Trustworthy and Responsible AI guidelines PDF (80 pages), both from ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. They confirm the titles, the Council as owner and ECRAI as preparer, the document IDs, editions and authorisation dates (15 and 25 March 2026), the four risk tiers and the Dual-Check model. official_identifier now holds the document ID alone; the edition is in notes. Digital Policy Alert reports the public release of the guide and its companion guidelines on 14 March 2026, a day before the authorisation date the guide gives; MCIT's own pages cannot be stored (mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 3, Document Control & Administration",
+    "quote": "Document Title Guide to Egypt’s National AI Governance Framework",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 3, Document Control & Administration",
+    "quote": "Owner National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies Custodian Egyptian Center for Responsible AI (ECRAI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 2",
+    "quote": "Prepared by: The Egyptian Center for Responsible Artificial Intelligence (ECRAI) Under the auspices of the National Council for Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 3, Document Control & Administration",
+    "quote": "Document ID EG-NCAI-GOV-FW-2026-02",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 3, Authorization",
+    "quote": "authorized for release by: H.E. Eng. Raafat Hindy Minister of Communications and Information Technology Chairman, National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies (Signature Placeholder) Date: March 15, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 2",
+    "quote": "Edition: 2.0 Status: Approved for Publication Date: March 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 3, Version Control",
+    "quote": "2.0 March 2026 NCAI Final Release",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 9, 1.1 Preamble",
+    "quote": "The successful implementation of the Guidelines, Standards, and compliance mechanisms established in the Governance Framework will directly inform the drafting of the Egyptian AI Law",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 29, 8.1 The Living Framework Approach",
+    "quote": "Phase 2: Operationalization (Months 12-24): Activation of mandatory Conformity Assessments for High-Risk sectors",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 21, 4.2 Risk Classification",
+    "quote": "such as those involving social profiling, the exploitation of children, or manipulative behavioral interference—are prohibited",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 6",
+    "quote": "Tier 2: High Risk (Orange): Critical infrastructure and biometrics.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 23, 5.1 The Lifecycle Governance Approach",
+    "quote": "AI Ethical Impact Assessment (AIEIA) and Technical Conformity Assessment (Technical Audit)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 24, 5.3 Ex-Post: The Oversight Phase",
+    "quote": "Incident Reporting: Providers are legally obligated to report “Serious Incidents”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 6",
+    "quote": "Tier 3: Limited Risk (Yellow): Chatbots and deepfakes. [Transparency & Labeling]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 22, 4.3 General Purpose AI (GPAI)",
+    "quote": "In such a case, GPAI is reclassified as Tier 2 (High-Risk)",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 3, Version Control",
+    "quote": "1.0 Jan 2026 Drafting Committee (ECRAI) Final Version for Public Consultation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/official.pdf",
+    "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+    "locator": "page 30, 8.2 Phase 1 Agenda",
+    "quote": "Safe Use Guidelines for AI Applications for Children: A specialized guide addressing the unique risks AI poses to minors",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/secondary.pdf",
+    "sha256": "bd52908b1a6d630c5f033af1989926630af0109ae9132bb3c797f9b16dbf3ccb",
+    "locator": "page 3, Authorization and Positioning",
+    "quote": "This document constitutes Product 1 of the National AI Governance Framework.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/secondary.pdf",
+    "sha256": "bd52908b1a6d630c5f033af1989926630af0109ae9132bb3c797f9b16dbf3ccb",
+    "locator": "page 3, Document Information",
+    "quote": "EG-NCAI-GOV-FW-2026-03Document ID",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EG-02/2026-10-11/secondary.pdf",
+    "sha256": "bd52908b1a6d630c5f033af1989926630af0109ae9132bb3c797f9b16dbf3ccb",
+    "locator": "page 3, Authorization and Positioning",
+    "quote": "(Signature Placeholder) Date: March 25, 2026",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "the document ID alone; '(Edition 2.0)' is a version label and moved to notes",
+   "summary": "rewritten from the guide: 'social profiling' as the guide says (not 'social scoring'); the Dual-Check, post-market monitoring and serious-incident reporting added; the audit lab moved to notes",
+   "notes": "rewritten: version history, Phase 1 agenda and the link to an AI law from the guide, the companion guidelines from the stored secondary PDF; tracker and MCIT-page remarks moved to verification.note; the sentence on how the register records the companion guidelines dropped",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Edition 2.0, 'Approved for Publication', authorised for release on 15 March 2026 and marked 'NCAI Final Release'. A policy guide that will inform a future AI law, with mandatory conformity assessments planned for a later phase; nothing stored shows a newer edition. Published (non-binding, current).",
+  "scope_reasoning": "A national AI governance framework with risk tiers, prohibitions and conformity assessment; in scope with no note.",
+  "date_reasoning": "The guide's authorisation block dates the release authorisation 15 March 2026 (the cover and page 2 say March 2026). The tracker's 14 March 2026 release date conflicts by a day and is not stored; the authorisation date stays.",
+  "topics_reasoning": "Unchanged: risk-based classification (four tiers), prohibited practices (Tier 1), general-purpose / frontier AI (GPAI with systemic risk to Tier 2), evaluation & testing (TEVV technical audit), transparency & labelling (Tier 3 disclosure and labelling), critical infrastructure (Tier 2). Incident reporting is also supported but the list is at its maximum of six."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Egypt National Guidelines for Trustworthy and Responsible AI (Edition 2.0, document EG-NCAI-GOV-FW-2026-03, authorised 25 March 2026)",
+   "url": "https://ai.gov.eg/SynchedFiles/ar/Resources/Egypt%20National%20Guidelines%20for%20Trustworthy%20and%20Responsible%20AI.pdf",
+   "seen_in": "https://ai.gov.eg/SynchedFiles/ar/Resources/Guide%20to%20Egypt%E2%80%99s%20National%20AI%20Governance%20Framework%2015-3-2026.pdf",
+   "why": "A separate instrument with its own document ID and authorisation date (Product 1 of the framework: life-cycle governance, TEVV, post-deployment monitoring and audit); at present it is described only in EG-02's notes and secondary_url."
+  }
+ ],
+ "open_questions": []
+}

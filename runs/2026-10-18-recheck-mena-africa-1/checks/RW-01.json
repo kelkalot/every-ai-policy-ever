@@ -1,0 +1,60 @@
+{
+ "cand_id": "RW-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "the only dated source is the MINICT list of Cabinet-approved policies giving Apr 27, 2023 for the file; the PDF itself carries no date, so this is the listing date, not a stated adoption date. Month precision is the right call."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "MINICT lists it among Cabinet-approved policies; nothing replaces it"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "regulatory sandbox projects on AI",
+   "verdict": "supported",
+   "locator": "page 21, Priority Area 6"
+  },
+  {
+   "claim": "Responsible AI Office within MINICT in the first year",
+   "verdict": "supported",
+   "locator": "page 9, Highlights"
+  },
+  {
+   "claim": "procurement guidelines for AI solutions in the public sector",
+   "verdict": "supported",
+   "locator": "page 18, activity 51"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Skills, infrastructure and adoption policy with one ethics and safeguards area."
+ },
+ "overall": "accept",
+ "note": "Quotes match. Level B because the date comes from the ministry list stored as the secondary source. Search found a June 2026 Cabinet decision to create a National AI Agency, reported by press; it is a separate institutional mandate, not a new policy version, and no official source was stored, so I leave it as a lead for a later run."
+}

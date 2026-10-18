@@ -1,0 +1,50 @@
+{
+ "cand_id": "EG-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover shows March 2026; YYYY-MM is right"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Human approval for irreversible or high-risk agentic actions; emergency pause, override and shutdown",
+   "verdict": "supported",
+   "locator": "pages 35-36"
+  },
+  {
+   "claim": "Disclosure via labels or provenance such as metadata and watermarking",
+   "verdict": "supported",
+   "locator": "page 38"
+  },
+  {
+   "claim": "Lip-sync treated as a high-risk enabling capability",
+   "verdict": "supported",
+   "locator": "page 14"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Summary and notes match the stored PDF. One search found no version 2.0 or update."
+}

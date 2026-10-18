@@ -1,0 +1,54 @@
+{
+ "cand_id": "AE-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "2024-07 has no stored quote: the u.ae pages give no issue date; it rests on the previous record and press reports. The run leaves the value unchanged."
+  },
+  "issuing_body": {
+   "verdict": "unsupported",
+   "why": "No stored source names the UAE AI Office as issuer; the u.ae pages do not. Unchanged by this run."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Safety: all AI systems comply with the highest safety standards; risky systems modified or removed",
+   "verdict": "supported",
+   "locator": "Priorities, Safety"
+  },
+  {
+   "claim": "Human oversight to correct errors and biases",
+   "verdict": "supported",
+   "locator": "Human Oversight"
+  },
+  {
+   "claim": "Compliance with international treaties and local laws",
+   "verdict": "supported",
+   "locator": "last item"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "New summary and notes match the stored English and Arabic u.ae pages. The text lists the principles; I found no stored count of 'twelve' but the listed items match. date_published and issuing_body remain unsupported by any stored file (ai.gov.ae PDF and uaelegislation.gov.ae refuse the archiver); the run does not change them, so the question should open while the text corrections merge. One search found no revised charter; press gives 30 July 2024 (and 10 June 2024 cabinet approval)."
+}

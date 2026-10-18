@@ -1,0 +1,57 @@
+{
+ "cand_id": "ZA-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover says October 2024; ZA-01 calls it the framework of August 2024, which the record already notes as an earlier version in circulation"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "no replacement published; the 2026 draft that built on it was withdrawn"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "National AI Policy as the basis for AI regulations and potentially an AI Act",
+   "verdict": "supported",
+   "locator": "page 8, section 4"
+  },
+  {
+   "claim": "human oversight for critical AI decisions",
+   "verdict": "supported",
+   "locator": "page 16, 6.10"
+  },
+  {
+   "claim": "risk management frameworks and cybersecurity protocols",
+   "verdict": "supported",
+   "locator": "page 15, 6.7"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Government policy framework preparing AI regulation."
+ },
+ "overall": "accept",
+ "note": "Quotes match, including the two quotes taken from ZA-01 stored files for the notes. Level B: the only copy is hosted by OECD.AI. Search found no newer framework; a revised policy is being rewritten after the ZA-01 withdrawal but is not published."
+}

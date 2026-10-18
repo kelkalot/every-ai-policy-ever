@@ -1,0 +1,76 @@
+{
+ "record": {
+  "date_published": "2023"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 1",
+    "quote": "Egyptian Charter",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 8",
+    "quote": "MCIT presents periodic updates on the status of those projects to the National Council for Artificial Intelligence (NCAI)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 1",
+    "quote": "2023 v1.0",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 3",
+    "quote": "This document shall be reviewed on an annual basis to ensure its continuous currency and relevance.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 2",
+    "quote": "it is incumbent upon the different countries to develop their own local interpretations of these guidelines",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the stored charter gives only '2023 v1.0'; the month (April 2023) rests on a press release not stored in this run, so the precision drops to the year"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Charter v1.0 is a published guidance document with an annual-review commitment; no later version or withdrawal appears in the stored text.",
+  "scope_reasoning": "Clearly in scope: national responsible-AI guidelines."
+ },
+ "open_questions": [
+  "Exact month of adoption (April 2023) is not in the stored charter; only a press release and a tracker, neither stored here, give it.",
+  "The charter's title page is in English; the Arabic edition was not stored, so language 'Arabic, English' is unconfirmed from stored text."
+ ],
+ "cand_id": "EG-01",
+ "decision": "update",
+ "target_id": "EG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

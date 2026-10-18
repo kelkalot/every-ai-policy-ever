@@ -1,0 +1,64 @@
+{
+ "cand_id": "SN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported",
+   "why": "the stored summary's running header gives the full original title with the 2028 horizon; the OECD.AI name is the same without the horizon; the record uses the full form"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover VERSION RESUMEE 2023"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "OECD.AI lists it as active; no validated final version found"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "six orientations and 52 actions; four fundamental objectives",
+   "verdict": "supported",
+   "locator": "page 4 (\"Ces six orientations strategiques se declinent en 52 actions\"; \"4 objectifs fondamentaux\")"
+  },
+  {
+   "claim": "sixteen governance actions under orientation 6",
+   "verdict": "supported",
+   "locator": "page 14 (\"seize (16) actions au total\")"
+  },
+  {
+   "claim": "Action 6.7: set up a regulatory body for emerging technologies, notably AI; Action 6.8: national ethics and advisory committee",
+   "verdict": "supported",
+   "locator": "page 14"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Skills, research and adoption strategy with one governance orientation."
+ },
+ "overall": "accept",
+ "note": "The text is French; I checked the claims against the French. Literal renderings: Action 6.3 \"Categorise the different types of AI according to their potential risks to human rights or societal well-being\"; Action 6.7 \"Set up a regulatory body for emerging technologies, notably AI\". English_version none found is plausible. Search found no formal adoption of a final version; the strategy now sits under the New Deal Technologique, and the record is not changed."
+}

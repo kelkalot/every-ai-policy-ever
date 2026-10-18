@@ -1,0 +1,206 @@
+{
+ "cand_id": "SA-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SA-02",
+ "record": {
+  "notes": "SDAIA lists the two documents among its laws and regulations as two versions of one 'Generative AI Guideline', the first for government employees and the second for the public. Both PDFs carry 'May 2025' and 'Version Number 1' in their document-control tables, with document type 'Regulatory Documents'. The government version describes its rules on government data as mandatory and says it may be updated as needed; the public version serves as guidance for developers and users of generative AI in the Kingdom. Both apply SDAIA's AI Ethics Principles (SA-01); SDAIA's deepfakes guidelines (SA-03) refer to the public version.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: both English PDFs from sdaia.gov.sa (government version, 30 pages; public version, 22 pages; snapshots of 11 Oct 2026, unchanged on 18 Oct 2026) and SDAIA's laws and regulations page (18 Oct 2026), whose link to the public version gives the same file (same SHA-256). They confirm the titles, SDAIA as issuer, the listing as two versions of one guideline, May 2025 and version 1 in the document-control tables, the document numbers, the scope, the rules for government data, the four-level risk scale and the seven principles. The Arabic editions are not stored. Third-party trackers (Digital Policy Alert) report first releases of the government guideline on 10 January 2024 and of the public guideline on 11 January 2024; no official source for those dates is stored, and the May 2025 editions do not refer to earlier versions."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 1 (cover)",
+    "quote": "Generative Artificial Intelligence for Government Guidelines",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/secondary.pdf",
+    "sha256": "c4a2451c19eb3e782d23922fd4c5a1c7e8bcb92e95c37c9509ba6bfa57739fb9",
+    "locator": "page 1 (cover)",
+    "quote": "Generative Artificial Intelligence for Public Guidelines",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-02/extra-c1e699f6ef/2026-10-18/official.html",
+    "sha256": "f7c5b82340bd03a7074821fd7eb9cf686fe63839e3dd3874648e9997b3e1aac6",
+    "locator": "Generative Al Guideline section",
+    "quote": "For more, see the Generative Al Guidelines: Generative Al Guideline for Government Generative Al Guideline for Public",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 5, Introduction",
+    "quote": "The Saudi Data & AI Authority (SDAIA) recognizes the need to keep pace with regulatory and technological changes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/secondary.pdf",
+    "sha256": "c4a2451c19eb3e782d23922fd4c5a1c7e8bcb92e95c37c9509ba6bfa57739fb9",
+    "locator": "page 4, Introduction",
+    "quote": "The Saudi Data and Artificial Intelligence Authority (SDAIA) is comprehensively assessing opportunities and related risks",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 30, document-control table",
+    "quote": "Document Number | SDAIA-P116E",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/secondary.pdf",
+    "sha256": "c4a2451c19eb3e782d23922fd4c5a1c7e8bcb92e95c37c9509ba6bfa57739fb9",
+    "locator": "page 22, document-control table",
+    "quote": "Document Number | SDAIA-P115E",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 30, document-control table",
+    "quote": "May 2025 Document Type | Regulatory Documents",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/secondary.pdf",
+    "sha256": "c4a2451c19eb3e782d23922fd4c5a1c7e8bcb92e95c37c9509ba6bfa57739fb9",
+    "locator": "page 22, document-control table",
+    "quote": "May 2025 Document Type | Regulatory Documents",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 30, document-control table",
+    "quote": "Document Number | SDAIA-P116E Version Number | 1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 5, Introduction",
+    "quote": "Therefore, this document may be updated as needed to keep pace with any changes.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 5, Introduction",
+    "quote": "This document provides regulatory guidelines for government employees regarding the use and processing of government data in GenAI tools",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/secondary.pdf",
+    "sha256": "c4a2451c19eb3e782d23922fd4c5a1c7e8bcb92e95c37c9509ba6bfa57739fb9",
+    "locator": "page 5, Scope of this Document",
+    "quote": "This document serves as guidance for the public including developers and users of GenAI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 7, Generative Artificial Intelligence Guidelines",
+    "quote": "Government entities must also refrain from using generative artificial intelligence in critical decision-making processes that affect individuals or the vital interests of the Kingdom.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 12, 3.5 Privacy and Security",
+    "quote": "Employees in government entities must refrain from entering any data classified as restricted or higher (restricted, confidential, and top secret).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 14, 4.1 Data Management Office",
+    "quote": "The Data Management Office must conduct audits to evaluate the quality of generative artificial intelligence training data and identify any potential bias.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 15, 4.3 Government Entities",
+    "quote": "Government entities must prioritize transparency by disclosing content created with generative artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/secondary.pdf",
+    "sha256": "c4a2451c19eb3e782d23922fd4c5a1c7e8bcb92e95c37c9509ba6bfa57739fb9",
+    "locator": "page 9, 4.2 Reliability & Safety",
+    "quote": "Predefined triggers/alerts should be in place based on system risks, GenAI systems should trigger human oversight.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-02/extra-c1e699f6ef/2026-10-18/official.html",
+    "sha256": "f7c5b82340bd03a7074821fd7eb9cf686fe63839e3dd3874648e9997b3e1aac6",
+    "locator": "Generative Al Guideline section",
+    "quote": "There are two versions of this guideline. The first version directed toward government employees. The second version is for the public.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 8, 3.1",
+    "quote": "Below is a breakdown of the mandatory regulations governing the use of government data in generative artificial intelligence tools",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-02/2026-10-11/official.pdf",
+    "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+    "locator": "page 7",
+    "quote": "Government entities are required to adhere to the AI Ethics Principles when engaging with",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the two PDFs and SDAIA's stored page (two versions of one guideline); the January 2024 first-release dates (third-party trackers only) moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force",
+   "summary"
+  ],
+  "status_reasoning": "Both editions are version 1 of May 2025 and published on SDAIA's site; nothing stored replaces them. 'Published (non-binding, current)' stands.",
+  "legal_force_reasoning": "The government version phrases its rules for government entities as mandatory, but it is issued as guidelines without a legal basis or sanctions, and the public version is expressly guidance; Non-binding is kept, with the mandatory phrasing in the notes.",
+  "scope_reasoning": "AI-specific guidelines by the national AI authority on the safe use of generative AI; in scope with no note.",
+  "date_reasoning": "Both document-control tables give 'May 2025' with no day; 2025-05 stands.",
+  "topics_reasoning": "Unchanged and supported: public-sector use, risk-based classification (four risk levels), human oversight (human review, oversight triggers), transparency & labelling (disclosure, watermarks), general-purpose / frontier AI (generative AI tools)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx",
+   "reason": "SDAIA's laws and regulations page, which presents the two guidelines as versions of one; stored in this run and used for the title and the notes"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

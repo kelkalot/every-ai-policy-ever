@@ -1,0 +1,244 @@
+{
+ "cand_id": "KE-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KE-02",
+ "record": {
+  "notes": "Dated July 2026; the ministry's call for public comments set a submission deadline of 4 August 2026, with written submissions to the Committee on Artificial Intelligence and Other Emerging Technologies. It builds on the Kenya AI Strategy 2025-2030 (KE-01), the Digital Master Plan 2022-2032 and the Data Protection Act 2019, and underwent legal review, including by the Office of the Attorney General. For systems placed into service after the policy takes effect, full compliance would be required once the relevant implementing regulations come into force; systems already in operation would have a two-year transition, and high-risk legacy systems three years to comply fully.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the draft policy PDF (226 pages) and the ministry's public-participation page, both from ict.go.ke (16 Oct 2026). The PDF confirms the title, the July 2026 date, the issuing ministry and state department and the provisions summarised; the public-participation page calls it a draft, invites comments and gives the deadline of 4 August 2026. The PDF's cover reads 'Kenya Artificial Intelligence and Other Emerging Technologies Policy' without the word draft, and its foreword calls it 'the Kenya AI and other Emerging Technologies Policy, 2026'. Nothing stored shows Cabinet approval, a sessional paper or a bill after the consultation. The December 2025 Implementation Roadmap of KE-01, mentioned in the earlier notes, is not among the stored files and is no longer cited."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/KE-02/2026-10-16/secondary.html",
+    "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+    "locator": "public-participation page, heading",
+    "quote": "Call for Public Comments on the Draft Kenya Artificial Intelligence and Other Emerging Technologies Policy",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 2, Foreword",
+    "quote": "It is with this conviction that I present the Kenya AI and other Emerging Technologies Policy, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 1 (cover)",
+    "quote": "KENYA ARTIFICIAL INTELLIGENCE AND OTHER EMERGING TECHNOLOGIES POLICY",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/KE-02/2026-10-16/secondary.html",
+    "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+    "locator": "public-participation page, first paragraph",
+    "quote": "The Ministry of Information, Communications and the Digital Economy, through the State Department for ICT and the Digital Economy, invites members of the public",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 1 (cover)",
+    "quote": "STATE DEPARTMENT FOR ICT AND THE DIGITAL ECONOMY",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 1 (cover)",
+    "quote": "EMERGING TECHNOLOGIES POLICY JULY 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/KE-02/2026-10-16/secondary.html",
+    "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+    "locator": "public-participation page",
+    "quote": "Submission deadline: 4 August 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 206, Annex III, 4.4",
+    "quote": "The draft Policy subsequently underwent legal and institutional review processes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 207, Annex III, 4.5 Validation Process",
+    "quote": "Final validation through broader stakeholder engagement and public participation",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/KE-02/2026-10-16/secondary.html",
+    "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+    "locator": "public-participation page, first paragraph",
+    "quote": "to review and submit comments on the Draft Kenya Artificial Intelligence and Other Emerging Technologies Policy.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 206, Annex III, 4.4",
+    "quote": "The draft Policy subsequently underwent legal and institutional review processes.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 23, 1.5.2 Jurisdictional Scope",
+    "quote": "This policy adopts an effects-based jurisdictional approach",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 63, 3.5.1",
+    "quote": "Develop a dedicated AI and other Emerging Technologies Governance Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 64, 3.5.2",
+    "quote": "Maintain a central record of deployed AI and other Emerging Technologies systems requiring oversight.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 81, 4.2.1, National AI and other Emerging Technologies Council",
+    "quote": "A statutory Council shall be established as the central regulatory authority for AI and other Emerging Technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 81, 4.2.1, Council core functions",
+    "quote": "Oversee testing and evaluation of frontier AI models and significant AI risks relating to safety and security;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 69, 3.7.5",
+    "quote": "Establish the Kenya AI Safety Institute as the national technical institution responsible for AI safety research, testing, evaluation, benchmarking, red -teaming, incident analysis, and technical cooperation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 70, 3.7.5",
+    "quote": "Establish an AI incident reporting framework for failures, harms, cybersecurity breaches",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 68, 3.7.2",
+    "quote": "Promote age -appropriate, risk -based safeguards for child -facing AI and other Emerging Technologies systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 70, 3.7.6",
+    "quote": "Ensure that autonomous and semi-autonomous systems remain subject to meaningful human control, legal accountability, and applicable international law.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/KE-02/2026-10-16/secondary.html",
+    "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+    "locator": "public-participation page, alternative submission channels",
+    "quote": "The Chairperson Committee on Artificial Intelligence and Other Emerging Technologies",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 4, Principal Secretary's foreword",
+    "quote": "It builds on existing foundations — including the Kenya AI Strategy (2025 –2030), the Digital Master Plan (2022 –2032), and the Data Protection Act (2019)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 207, Annex III",
+    "quote": "Office of the Attorney General to ensure consistency with Kenya’s constitutional framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 24, 1.5.5 Temporal Scope and Lifecycle Coverage",
+    "quote": "For systems placed into service after the effective date of this Policy, full compliance shall be required upon the coming into force of relevant implementing regulations.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 24, 1.5.5",
+    "quote": "For systems already in operation prior to the effective date (legacy systems), a transitional period of 2 years shall apply.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-02/2026-10-16/official.pdf",
+    "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+    "locator": "page 24, 1.5.5",
+    "quote": "High-risk legacy systems shall achieve full compliance within three years.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the December 2025 Implementation Roadmap of KE-01 is dropped (not in a stored file), and the remark on Cabinet approval moves to verification.note as an absence; the compliance timing now follows section 1.5.5, which ties full compliance to implementing regulations without naming the Governance Act, and adds the transition periods; the other foundations and the legal review are added",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The ministry published the policy as a draft for public comment, with a submission deadline of 4 August 2026; the PDF itself describes 'the draft Policy' and a final validation through public participation. The comment period has closed by 18 Oct 2026, but nothing stored shows Cabinet approval, adoption as a sessional paper or a bill. Draft / proposed, legal force Proposed.",
+  "scope_reasoning": "An AI-specific national governance policy with a risk-based regulatory framework, a safety institute and incident reporting; in scope with no note.",
+  "date_reasoning": "The cover reads 'JULY 2026' and no day is given in the stored files; 2026-07 is kept.",
+  "topics_reasoning": "Unchanged and supported: risk-based classification (3.5.2), safety institute (3.7.5 Kenya AI Safety Institute), incident reporting (3.7.5 incident reporting framework), evaluation & testing (testing and evaluation protocols for high-risk systems, red-teaming), human oversight (3.7.2), national security & military (3.7.6). The summary is unchanged and its claims are quoted above."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Kenya AI Statement of Principles (draft, 2025)",
+   "url": null,
+   "seen_in": "archive/KE-02/2026-10-16/official.pdf (Annex V, references)",
+   "why": "Listed among the national frameworks the draft policy draws on; a draft statement of AI principles by the Kenyan government would be in scope. Not in the register."
+  },
+  {
+   "title": "Kenya AI Strategy 2025-2030 Implementation Roadmap (December 2025)",
+   "url": null,
+   "seen_in": "earlier notes of KE-02 (not in a stored file)",
+   "why": "The implementation plan of KE-01; could be stored as a further source of KE-01 or recorded if it adds governance measures."
+  }
+ ],
+ "open_questions": []
+}

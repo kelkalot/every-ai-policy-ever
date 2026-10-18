@@ -1,0 +1,68 @@
+{
+ "cand_id": "ZA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported",
+   "why": "Notice 3880 of 2026, Gazette 54477, and withdrawal Notice 3978 of 2026, Gazette 54840; numbers checked against quotes"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "gazette header 10 April 2026 (the signature is 9 April)"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Notice 3978 states the draft is withdrawn in its entirety from the date of publication"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "gazette of 12 June 2026 (signature 4 June)"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI Insurance Superfund modelled on the Road Accident Fund",
+   "verdict": "supported",
+   "locator": "page 26"
+  },
+  {
+   "claim": "AI Regulatory Authority to monitor compliance and audit",
+   "verdict": "supported",
+   "locator": "page 26"
+  },
+  {
+   "claim": "staged implementation: unacceptable risks first, then high-risk",
+   "verdict": "supported",
+   "locator": "page 3, Explanatory Note"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Draft national AI policy proposing a risk-based regime; revoked/withdrawn status is kept per the register rules."
+ },
+ "overall": "accept",
+ "note": "Official gazette copies of both the draft and the withdrawal notice are stored and match. Search confirms the draft was withdrawn and that the department plans a rewritten policy (Cabinet by November 2026, comment from January 2027, reported by press); no revised text exists yet, so nothing to store."
+}

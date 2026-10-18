@@ -1,0 +1,220 @@
+{
+ "cand_id": "ET-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ET-01",
+ "record": {
+  "issuing_body": "Council of Ministers of the Federal Democratic Republic of Ethiopia; prepared under the leadership of the Ethiopian Artificial Intelligence Institute",
+  "summary": "National AI policy dated June 2024, developed under the leadership of the Ethiopian Artificial Intelligence Institute and taking effect on Council of Ministers approval. Besides skills, infrastructure, data and research, it sets out AI risks (data privacy and security, ethics and bias, economic, social and cultural impact) with remedies, and commits to a legal and ethical framework: AI ethical guidelines on fairness, accountability and transparency, regular examination of AI applications, proclamations on AI development and on AI data, products, licensing and inspection, certification of domestic and imported AI products and services, and regulating the pace and extent of AI deployment.",
+  "notes": "The bilingual document (Amharic and English) is dated June 2024 (Sene 2016 in the Ethiopian calendar). It takes effect on approval by the Council of Ministers in line with Council of Ministers Regulation No. 510/2022 and applies to AI initiatives at federal, regional and city administration levels. Digital Policy Alert dates the Council of Ministers' approval to its 37th regular meeting on 27 June 2024. Once the policy is adopted, the Ethiopian Artificial Intelligence Institute coordinates, monitors and evaluates its implementation, and the policy foresees proclamations, regulations and directives on AI development, data, imported and domestic AI products and services, licensing and inspection.",
+  "scope_note": "Mainly a policy for AI skills, infrastructure, data, research and adoption; included as Ethiopia's national AI policy, which sets out AI risks and remedies and commits to ethical guidelines, licensing, certification and AI proclamations.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the bilingual policy PDF (78 pages) hosted by OECD.AI (api.oecd.ai), stored 11 Oct 2026 and unchanged on 18 Oct 2026; the OECD.AI policy-initiative entry (18 Oct 2026); and the Digital Policy Alert event page on the approval (18 Oct 2026, a policy tracker, secondary). The official copy on the Ministry of Innovation and Technology's site (mint.gov.et) refused connections in every attempt (11, 16 and 18 Oct 2026), so the record rests on the OECD-hosted copy. The PDF confirms the title, the Amharic title, the June 2024 date, the lead role of the Ethiopian Artificial Intelligence Institute, the adoption clause and the risk and legal-framework content; it does not record the approval itself. The OECD.AI entry gives the Council of Ministers as responsible organisation, June 2024, start year 2024 and status Active. The 27 June 2024 approval at the 37th regular meeting rests on Digital Policy Alert, which cites an announcement of the Council of Ministers that is not stored. The policy names the Ministry of Innovation and Technology as an implementing body, not as a co-author, so it was dropped from issuing_body. The ministry's listing of the document as 'Version 1.0, Approved' is not in any stored source."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 3 (title page)",
+    "quote": "Federal Democratic Republic of Ethiopia National Artificial Intelligence Policy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 3 (title page)",
+    "quote": "ብሔራዊ የአርቲፊሻል ኢንተለጀንስ ፖሊሲ",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+    "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+    "locator": "OECD.AI entry, Name in original language",
+    "quote": "Name in original language ብሔራዊ የአርቲፊሻል ኢንተለጀንስ ፖሊሲ",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 64, 6. Establishing the Authority for Policy Adoption",
+    "quote": "The National AI Policy has been developed under the leadership of the Ethiopian Artificial Intelligence Institute.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 64, 6. Establishing the Authority for Policy Adoption",
+    "quote": "It will take effect following approval by the Council of Ministers, in alignment with Council of Ministers Regulation No. 510/2022.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+    "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Organisation: Federal Democratic Republic of Ethiopia (Council of Ministers)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 3 (title page)",
+    "quote": "Addis Ababa, Ethiopia ሰኔ፣ 2016 ዓ.ም June 2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+    "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+    "locator": "OECD.AI entry, summary",
+    "quote": "Ethiopia’s National Artificial Intelligence Policy, issued by the Federal Democratic Republic of Ethiopia in June 2024, provides a national framework to guide the development, adoption and governance of artificial intelligence.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+    "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Status: Active Start Year: 2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 64, 6. Establishing the Authority for Policy Adoption",
+    "quote": "It will take effect following approval by the Council of Ministers, in alignment with Council of Ministers Regulation No. 510/2022.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 3 (title page)",
+    "quote": "Addis Ababa, Ethiopia ሰኔ፣ 2016 ዓ.ም June 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 67, 7.2 Legal frameworks and procedures to implement the policy",
+    "quote": "Thus, following the adoption of this policy, the following laws are expected to be issued.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+    "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Initiative type: National AI strategy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 58, 4.8 AI development risks and remedies",
+    "quote": "AI DEVELOPMENT RISKS AND REMEDIES",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 59, 4.8.2 Issues of ethics and bias",
+    "quote": "AI ethical guidelines which stipulate fairness, accountability, and transparency shall be prepared",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 59, 4.8.2 Issues of ethics and bias",
+    "quote": "A system that enables regular examination of the application of AI systems shall be established",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 67, 7.2 Legal frameworks and procedures",
+    "quote": "A proclamation that is based on the process of AI technology development and implementation in our nation shall be enacted",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 68, 7.2 Legal frameworks and procedures",
+    "quote": "A proclamation shall be prepared to regulate AI technology data management, imported AI products and services, domestically developed and used AI products and services, licensing and renewal, inspection, monitoring and evaluation",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 65, 7.1 Organs which implement the policy",
+    "quote": "issue licenses for private developers, certify AI products and services developed or imported into the country",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 65, 7.1 Organs which implement the policy",
+    "quote": "crucial to regulate the pace and extent of AI deployment to prevent potential social and technical issues",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-a44df75782/2026-10-18/official.html",
+    "sha256": "de1b83808861aff0f1fcab14961b4dbcc348486a4585f78a9eada7b8f95000c5",
+    "locator": "Digital Policy Alert event, Description",
+    "quote": "On 27 June 2024, Ethiopia's Council of Ministers approved the country's first National Artificial Intelligence (AI) Policy during its 37th regular meeting.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 64, 6. Establishing the Authority for Policy Adoption",
+    "quote": "The policy will be applicable to all AI technology initiatives carried out at federal, regional, and city administration levels across Ethiopia.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 65, 7.1 Organs which implement the policy",
+    "quote": "Upon the adoption of the national policy, the Institute will coordinate, monitor, and evaluate its implementation",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "dropped 'with the Ministry of Innovation and Technology': the policy says it was developed under the leadership of the Ethiopian Artificial Intelligence Institute and names the ministry only among the implementing organs (page 65)",
+   "summary": "rewritten from the stored text: the claims that it is Ethiopia's first AI policy and was approved in June 2024 are not in the document, which says it takes effect on approval; the risks are listed as the policy lists them (4.8.1-4.8.4); 'licensing of private developers' and certification now follow section 7.1; national security and sovereignty dropped from the pace-of-deployment clause, which the policy ties to social and technical issues",
+   "notes": "rewritten: the approval day given with its source (Digital Policy Alert, now stored) under rule 7b; dropped the claim that Regulation No. 510/2022 established the Institute and the ministry's listing, which no stored source carries; added scope of application and implementation from sections 6 and 7",
+   "scope_note": "added: the policy's main content is human resources, infrastructure, data, research and adoption, with risk and legal-framework sections, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The policy is dated June 2024 and takes effect on approval by the Council of Ministers (page 64). Digital Policy Alert (secondary) records the approval on 27 June 2024 at the 37th regular meeting; the OECD.AI entry lists the policy as active. Nothing suggests it has been replaced. Published (non-binding, current) is kept.",
+  "scope_reasoning": "In scope as Ethiopia's national AI policy with AI risk remedies and commitments to ethical guidelines, licensing, certification and AI legislation; its main content is development and adoption, so a scope_note is added.",
+  "date_reasoning": "The title page gives 'June 2024' (Sene 2016 E.C.) and no day; a secondary source gives 27 June 2024 for the approval, so date_published stays 2024-06 and the day goes in notes with its source (rule 7b).",
+  "topics_reasoning": "The published topics are supported: accountability & liability (ethical guidelines on accountability; licensing of developers), evaluation & testing (certification of AI products and services; regular examination of AI applications), national security & military (products to respect national security and sovereignty, page 64; autonomous weapons named among misuse risks, page 59), research priorities (4.4 research and development). Left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "No Ethiopian government source for the Council of Ministers' approval of 27 June 2024 is stored: mint.gov.et has refused connections in every attempt since 11 Oct 2026, and the Council of Ministers' own announcement cited by Digital Policy Alert ('The Council of Ministers Unanimously Decide to Implement the National Artificial Intelligence Policy') has no stored copy. A person who can reach mint.gov.et or that announcement could provide it with archive.py --provide; the approval day would then rest on an official source."
+ ]
+}

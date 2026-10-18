@@ -1,0 +1,172 @@
+{
+ "cand_id": "EG-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "EG-01",
+ "record": {
+  "issuing_body": "National Council for Artificial Intelligence (NCAI)",
+  "summary": "Egypt's first national interpretation of international guidance on ethical and responsible AI, issued by the National Council for AI as version 1.0 in 2023. It has 13 general guidelines for all members of the AI ecosystem and 16 implementation guidelines for entities developing, deploying or managing AI, each tagged with one of five principles. They include the right to know when one is interacting with an AI system, final human determination, systematic AI risk management across the development life cycle, impact assessments before all government AI projects and MCIT supervision of them, and testing of foreign AI products before they enter the Egyptian market.",
+  "notes": "Labelled version 1.0 (2023). The five principles are human-centeredness, transparency and explainability, fairness, accountability, and security and safety. The charter is to be reviewed annually, with a public consultation before each revision, and draws on guidelines of the OECD, UNESCO, WHO, IEEE and the EU and of several countries. The 2026 Guide to Egypt's National AI Governance Framework (EG-02) operationalises its principles, and the second National AI Strategy (EG-04) plans detailed guidelines for it.",
+  "english_version": {
+   "kind": "authentic",
+   "url": "https://ai.gov.eg/SynchedFiles/en/Resources/Egyptian%20Charter%20For%20Responsible%20AI.pdf",
+   "by": "National Council for Artificial Intelligence (NCAI)"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the charter PDF (version 1.0, 8 pages) from the Council's site ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. It confirms the title, the issuer ('© National Council for AI'), the year and version ('2023 v1.0'), the 13 general and 16 implementation guidelines, the five principle tags and the annual review. It gives no day or month of issue: the published month, April 2023, rests on MCIT's press release of 20 April 2023, which reports the launch at the Council's seventh meeting and cannot be stored (mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal), a policy tracker gives 19 April 2023, and OECD.AI gives only the start year 2023. That the Council is chaired by the Minister of Communications and Information Technology is not in the stored charter and was taken out of issuing_body. The charter was first published on aicm.ai.gov.eg, which now serves an expired certificate. An Arabic text of the charter exists (a university-hosted copy appeared in search results); the Council's own Arabic file was not found or stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 1 (cover)",
+    "quote": "Egyptian Charter for Responsible AI 2023 v1.0",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 2, footer",
+    "quote": "© National Council for AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 8, implementation guideline 16",
+    "quote": "MCIT presents periodic updates on the status of those projects to the National Council for Artificial Intelligence (NCAI).",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 1 (cover)",
+    "quote": "Egyptian Charter for Responsible AI 2023 v1.0",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 3, Document Scope",
+    "quote": "This document shall be reviewed on an annual basis to ensure its continuous currency and relevance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 1 (cover)",
+    "quote": "Egyptian Charter for Responsible AI 2023 v1.0",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 2, Introduction and Background",
+    "quote": "As most of these recommendations are non-binding and quite generic, it is incumbent upon the different countries to develop their own local interpretations of these guidelines",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 3, Document Scope",
+    "quote": "To be a “soft launch” to empower citizens to expect and demand the best from the use of AI",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 3, Document Scope",
+    "quote": "This document serves as the first attempt at articulating Egypt’s interpretation of the various guidelines on ethical and responsible AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 4, general guideline 2",
+    "quote": "Any end-user using an AI system has the fundamental right to know when he or she is interacting with an AI system and not a human being",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 5, general guideline 11",
+    "quote": "Final human determination is always in place.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 6, implementation guideline 7",
+    "quote": "Developers of AI systems must adopt a systematic risk management approach as part of the system development lifecycle",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 8, implementation guideline 14",
+    "quote": "All government AI projects must be preceded by a thorough impact assessment",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 7, implementation guideline 13",
+    "quote": "Proper testing of these systems must be performed to ensure their quality and accuracy before they are introduced to the Egyptian market.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 3, Document Scope",
+    "quote": "A public consultation shall also take place prior to each revision to ensure that the perspectives of all stakeholders are considered.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-01/2026-10-11/official.pdf",
+    "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+    "locator": "page 3, Document Scope",
+    "quote": "It draws upon the guidelines developed by the OECD, UNESCO, WHO, IEEE, EU, as well as by many leading countries",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the Minister's chairmanship of the Council is not in the stored charter; the Council's name is quoted from it",
+   "summary": "rewritten from the charter: 'issued by' instead of 'adopted by' (the charter shows only '© National Council for AI'); the testing claim now matches implementation guideline 13; the principles moved to notes",
+   "notes": "rewritten: version, principles, annual review and sources from the charter; the press-release and tracker dates and the remark on which copy was used moved to verification.note",
+   "english_version": "added: the charter's English text is the Council's own (ai.gov.eg English resources); language already includes English",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding charter of the National Council for AI, version 1.0 of 2023, to be reviewed annually. Nothing stored shows it withdrawn or replaced; the 2026 governance framework guide (EG-02) builds on it. Published (non-binding, current).",
+  "scope_reasoning": "A national government framework of responsible-AI guidelines with risk-management, testing and oversight content; in scope with no note.",
+  "date_reasoning": "The charter's cover reads '2023 v1.0' and nothing in it gives a month or day, so the stored official source confirms only the year of the published 2023-04. The month rests on MCIT's press release of 20 April 2023, which the archiver may not fetch because mcit.gov.eg's robots.txt answers HTTP 500; a robots.txt refusal does not remove content from the register, so 2023-04 is kept, with the year-level quote as evidence and an open question.",
+  "topics_reasoning": "Unchanged and supported: accountability & liability (general guideline 10), evaluation & testing (pilots with success criteria, testing before market entry, monitoring for data drift), transparency & labelling (right to know one is interacting with AI; explainability), public-sector use (impact assessments and MCIT supervision of government AI projects), human oversight (final human determination)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published is kept at the published 2023-04, but the stored charter confirms only the year ('2023 v1.0'). The month rests on MCIT's press release of 20 April 2023 (https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/66939), which the archiver may not fetch because mcit.gov.eg's robots.txt answers HTTP 500. A person could download it and provide it (tools/archive.py --provide or the Provide a document form) so that the month rests on a stored official source."
+ ]
+}

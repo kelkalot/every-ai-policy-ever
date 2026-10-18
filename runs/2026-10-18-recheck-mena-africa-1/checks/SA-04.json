@@ -1,0 +1,51 @@
+{
+ "cand_id": "SA-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "judgment-differs",
+   "why": "'national security & military' no longer has a basis in the shortened summary; unchanged by this run."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Consultation 14 April to 14 May 2025",
+   "verdict": "supported",
+   "locator": "fourth paragraph"
+  },
+  {
+   "claim": "Three models: Private Center for countries, and two for major AI and cloud companies",
+   "verdict": "supported",
+   "locator": "third paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Draft statute on data centres and data sovereignty with 'AI' in its title; the existing scope_note stays."
+ },
+ "overall": "accept",
+ "note": "The summary now rests only on CST's release, dropping law-firm detail; this is stricter and supported. Original Arabic title taken from the Arabic release heading ('مشروع نظام المركز العالمي للذكاء الاصطناعي'), checked against the quote. One search found no approval, decree or gazette publication, so Draft / proposed stands."
+}

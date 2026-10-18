@@ -1,0 +1,280 @@
+{
+ "cand_id": "IL-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IL-01",
+ "record": {
+  "original_title": "עקרונות, מדיניות, רגולציה ואתיקה בתחום הבינה המלאכותית 2023",
+  "language": "Hebrew",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://api.oecd.ai/storage//policy-initiatives/Jul2025/fu_gxramh4trinbhbt.pdf",
+   "by": "Ministry of Innovation, Science and Technology (an English summary of the policy, mainly of its recommendations chapter)"
+  },
+  "notes": "Published in December 2023 by the Ministry of Innovation, Science and Technology, prepared with the Ministry of Justice's Office of Legal Counsel and Legislative Affairs (Economic Law Department) under Government Resolution 212 of 1 August 2021; a White Paper of 17 November 2022 was its first draft and the basis for public consultations. The policy was published in Hebrew; the ministry's English document summarises it, mainly its recommendations chapter. It gives guidelines and instructions to sectoral regulators on AI in the private sector across the AI lifecycle; the government's policy on public-sector AI is developed separately. The policy also anticipates future work on foundation models and frontier AI.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. gov.il refused every download of the English PDF (the record's official URL) and of the Hebrew policy document (HTTP 403 on 11, 16, 17 and 18 Oct 2026; the browser retry timed out). Stored instead: the OECD.AI policy-initiative entry, added and last updated (25 Dec 2025) by Israel's national contact point, and the 11-page English PDF it links, hosted on api.oecd.ai. That PDF is the ministry's English summary of the policy: it confirms the title, publication in December 2023 by the Ministry of Innovation, Science and Technology with the Ministry of Justice, the seven challenges, the principles and the recommendations, and states that the policy was originally published in Hebrew. The OECD.AI entry confirms the ministries, the Hebrew name, start year 2023, status Active and that the policy is non-binding. Because the Hebrew full text could not be stored, the summary rests on the ministry's English summary and original_title on the OECD.AI entry; whether the OECD-hosted PDF is identical to the gov.il English PDF is not known. Later Israeli initiatives listed on the OECD.AI page (2024-2025) are not part of this policy and are passed on as leads."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, heading",
+    "quote": "Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+    "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+    "locator": "OECD.AI entry, Name in original language",
+    "quote": "Name in original language עקרונות, מדיניות, רגולציה ואתיקה בתחום הבינה המלאכותית 2023",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "Israel's Ministry of Innovation, Science and Technology published, on December 2023, its first -ever policy on AI regulation and ethics",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "conducted collaboratively with the Office of Legal Counsel and Legislative Affairs (Economic Law Department) at the Ministry of Justice.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+    "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Organisation: Ministry for Innovation Science and Technology |Ministry of Justice",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "Israel's Ministry of Innovation, Science and Technology published, on December 2023, its first -ever policy on AI regulation and ethics",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+    "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+    "locator": "OECD.AI entry, summary",
+    "quote": "In December 2023, Israel introduced its first policy on AI regulation and ethics.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+    "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Status: Active Start Year: 2023 Binding: Non-binding",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+    "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+    "locator": "OECD.AI entry, record details",
+    "quote": "Updated by: National contact point Updated on: 25 Dec 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "Israel's Ministry of Innovation, Science and Technology published, on December 2023, its first -ever policy on AI regulation and ethics",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+    "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Status: Active Start Year: 2023 Binding: Non-binding",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 8, 2. Adopting a common set of ethical AI principles",
+    "quote": "The principles should not be construed as legally binding to regulators or organizations, nor should they constitute a tool for legal interpretation.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3, main recommendations",
+    "quote": "Using \"soft\" regulatory tools intended to allow for an incremental development of the regulatory framework",
+    "source_kind": "alt-official"
+   }
+  ],
+  "language": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3",
+    "quote": "The AI Policy was originally published in Hebrew.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3",
+    "quote": "The present document provides an English summary of the AI Policy, focusing mainly on the recommendations chapter.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3",
+    "quote": "The AI Policy identifies seven main challenges arising from the use of artificial intelligence in the private sector (discrimination, human oversight, explainability, disclosure of AI interactions, safety, accountability and privacy).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3, main recommendations",
+    "quote": "Adopting a risk-based approach",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 8, 2. Adopting a common set of ethical AI principles",
+    "quote": "The AI Policy recommends adopting AI principles based upon the OECD AI Principles",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 9, 3. Establishing an AI Policy Coordination Center",
+    "quote": "It is proposed to establish an AI Policy Coordination Center",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 10, recommendation 7",
+    "quote": "7. Developing tools for responsible AI, including a risk management tool",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "conducted collaboratively with the Office of Legal Counsel and Legislative Affairs (Economic Law Department) at the Ministry of Justice.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "a government resolution that tasked the Ministry of Innovation, Science and Technology with advancing a national AI plan for Israel",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, footnote 1",
+    "quote": "strengthening of Israel's technological and scientific leadership\" (August 1, 2021)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 2, Introduction",
+    "quote": "publication, on November 17, 2022 , of a White Paper 2 which formed the basis for public consultations and constituted the first draft of the AI Policy.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3",
+    "quote": "The AI Policy was originally published in Hebrew.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3",
+    "quote": "The present document provides an English summary of the AI Policy, focusing mainly on the recommendations chapter.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 4, Scope",
+    "quote": "The AI Policy provides guidelines and instructions for sectoral regulators when addressing the regulation of AI in the private sector.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 4, Scope",
+    "quote": "The government's policy on public sector applications of AI is being developed separately.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 4, Scope",
+    "quote": "The AI Policy applies this concept to the entire lifecycle of AI applications, with a special focus on use and deployment.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+    "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+    "locator": "page 3",
+    "quote": "The AI Policy also contemplates future wor k regarding the implications of Foundation Models and Frontier AI.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "language": "'English, Hebrew' changed to 'Hebrew': the ministry's English document says the policy 'was originally published in Hebrew' and that the English document is a summary of it (page 3), so the official text is Hebrew only",
+   "english_version": "recorded as a government translation: the issuing ministry's English summary, stored from the copy OECD.AI links (api.oecd.ai), because the gov.il copy refuses downloads; it is a summary, not a full translation, which 'by' says",
+   "original_title": "set from the OECD.AI entry's 'Name in original language' (entered by Israel's national contact point), as the Hebrew document itself could not be stored",
+   "notes": "rewritten from the stored English summary: the ministries, Resolution 212, the 2022 White Paper, the Hebrew original and the English summary, the scope (private sector, sectoral regulators, whole lifecycle) and the planned work on foundation models; the sentence on later OECD.AI items 'not separately verified' was process language and those items now go to leads",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding policy published in December 2023; the OECD.AI entry, last updated by Israel's national contact point on 25 Dec 2025, lists it as active and non-binding. Nothing stored shows it withdrawn or replaced. Published (non-binding, current).",
+  "scope_reasoning": "Unchanged: a government policy on AI regulation and ethics, in scope with no note.",
+  "date_reasoning": "The English summary says the ministry published the policy 'on December 2023' and OECD.AI says 'In December 2023'; no day is given, so date_published stays 2023-12.",
+  "topics_reasoning": "The published topics are supported by the English summary: risk-based classification (risk-based approach), human oversight and transparency & labelling (challenges and principles on human oversight, disclosure of AI interactions and explainability), accountability & liability (accountability and legal liability challenge and principle), international cooperation (international interoperability; involvement in international forums). Left unchanged.",
+  "title_reasoning": "The English title is the issuing ministry's own English title (page 2 of its English summary), so it stays as the official English title although the official text is Hebrew."
+ },
+ "extra_urls": [],
+ "leads": [
+  "Israel: 'Artificial Intelligence in the Financial Sector – Interim Report of the Inter-Agency Task Force on the Use of Artificial Intelligence and Machine Learning in Israel's Financial Sector' (start year 2025), listed as a related initiative on the stored OECD.AI page for IL-01; flexible, sector-specific regulation of AI in finance. Not in the register.",
+  "Israel: 'Legal Guide for Designing Regulatory Sandboxes' (start year 2024), written for Israeli regulators, listed on the same OECD.AI page. Not in the register.",
+  "Israel: 'National Multi stakeholder consultation forum for AI policy and regulation' (start year 2025), an expert forum to help develop government strategy and policy for the safe use of AI, listed on the same OECD.AI page; may be a mandate of an advisory body. Not in the register."
+ ],
+ "open_questions": [
+  "The Hebrew full text of the policy (the official text) is not stored: gov.il refuses the archiver (HTTP 403, browser timeout) for both the Hebrew document and the English summary. The summary rests on the ministry's English summary as hosted by OECD.AI, and original_title on the OECD.AI entry. A person can download https://www.gov.il/BlobFolder/policy/ai_23/he/2023%20Artificial%20Intelligence%20Regulation%20and%20Ethics%20Policy%20Principles%20Document.pdf and https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf and store them with archive.py --provide, so that the Hebrew title can be quoted verbatim and the record can return to level A."
+ ]
+}

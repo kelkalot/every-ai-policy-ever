@@ -1,0 +1,145 @@
+{
+ "cand_id": "AE-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AE-02",
+ "record": {
+  "summary": "Charter setting twelve principles for the development and use of AI in the UAE, to achieve the goals of the UAE Strategy for Artificial Intelligence: a beneficial human-machine relationship; safety, with AI systems held to the highest safety standards and risky systems modified or removed; addressing algorithmic bias; data privacy; transparency; human oversight to correct errors and biases; governance and accountability; technological excellence; human commitment; peaceful coexistence with AI; AI awareness for an inclusive future; and compliance with international treaties and local laws.",
+  "notes": "The charter states that it aims to achieve the strategic goals of the UAE Strategy for Artificial Intelligence (AE-01). Its objectives include ethical and responsible use of AI, privacy and data security, transparency and accountability, and awareness and education; its expected outcomes include innovation and investment, better health, education and government services, and environmental sustainability.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the UAE Government portal (u.ae) page on the charter in English (snapshots of 16 and 18 Oct 2026, which differ only in page furniture) and in Arabic (18 Oct 2026); both were last updated on 3 Jul 2026. They confirm the English and Arabic titles, the objectives, the twelve principles and the expected outcomes, but give no issue date, issuing body or legal status. The charter PDF on ai.gov.ae (official_url) and the charter's entry on the UAE legislation portal (uaelegislation.gov.ae) refused the archiver (HTTP 403, also in a browser). The issuing body (the Artificial Intelligence, Digital Economy and Remote Work Applications Office) and the date (July 2024: the PDF sits in an upload folder dated 2024/07 and press reports give a launch on 30 July 2024; the legislation portal is said to give 10 June 2024 as the issue date) rest on the previous record and press reports, not on a stored source."
+  },
+  "original_title": "ميثاق تطوير واستخدام الذكاء الاصطناعي"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "page heading and first paragraph",
+    "quote": "The UAE Charter for the Development and Use of Artificial Intelligence aims to achieve the strategic goals of the UAE Strategy for Artificial Intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-02/extra-cc5941c8a0/2026-10-18/official.html",
+    "sha256": "5605eb56d337e0b4008d7502da168ebf6daa752dcc965cb4b36edea75978caaa",
+    "locator": "page heading and first paragraph",
+    "quote": "يهدف ميثاق تطوير واستخدام الذكاء الاصطناعي إلى تحقيق مستهدفات استراتيجية الإمارات للذكاء الاصطناعي",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "Policy Objectives",
+    "quote": "Policy Objectives Ensure the use of artificial intelligence in an ethical and responsible manner.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "page footer",
+    "quote": "Updated on: 03 Jul 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-02/extra-cc5941c8a0/2026-10-18/official.html",
+    "sha256": "5605eb56d337e0b4008d7502da168ebf6daa752dcc965cb4b36edea75978caaa",
+    "locator": "page footer",
+    "quote": "آخر تحديث في 03 يوليو 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "first paragraph",
+    "quote": "Additionally, it includes principles for compliance with existing legislation and agreements related to the development and use of AI in the country.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "Priorities & Key Components, Safety",
+    "quote": "The UAE places great importance on safety, ensuring that all AI systems comply with the highest safety standards. The country encourages modifying or removing systems that pose risks.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "Priorities & Key Components, Human Oversight",
+    "quote": "The Charter emphasizes the irreplaceable value of human judgment and human oversight over AI",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "Priorities & Key Components, last item",
+    "quote": "Commitment to Treaties and Applicable Laws: The UAE emphasizes the importance of complying with international treaties and local laws in the development and use of AI.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-02/extra-cc5941c8a0/2026-10-18/official.html",
+    "sha256": "5605eb56d337e0b4008d7502da168ebf6daa752dcc965cb4b36edea75978caaa",
+    "locator": "Priorities, Safety",
+    "quote": "تعتبر دولة الإمارات السلامة أمراً بالغ الأهمية، وتهدف لأن تكون جميع أنظمة الذكاء الاصطناعي متوافقة مع أعلى معايير السلامة، كما تشجع على تعديل الأنظمة ذات المخاطر أو إزالتها.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AE-02/2026-10-18/secondary.html",
+    "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+    "locator": "Expected Outcomes",
+    "quote": "Expected Outcomes Enhance innovation and attract investments, thereby increasing efficiency and productivity.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-02/extra-cc5941c8a0/2026-10-18/official.html",
+    "sha256": "5605eb56d337e0b4008d7502da168ebf6daa752dcc965cb4b36edea75978caaa",
+    "locator": "page heading and first paragraph",
+    "quote": "يهدف ميثاق تطوير واستخدام الذكاء الاصطناعي إلى تحقيق مستهدفات استراتيجية الإمارات للذكاء الاصطناعي",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored u.ae page; 'aligned with the UAE AI Strategy 2031' replaced by the page's own wording (the UAE Strategy for Artificial Intelligence), and the characterisation 'not legislation' dropped",
+   "notes": "rewritten: the link to the strategy, the objectives and the expected outcomes from the page; the date discrepancy, the press-based issuing body and the fetch failures moved to verification.note",
+   "verification.note": "rewritten for what this run stored",
+   "original_title": "null -> 'ميثاق تطوير واستخدام الذكاء الاصطناعي', the heading of the stored Arabic portal page"
+  },
+  "confirmed": [
+   "title",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A charter of principles presented as a current UAE policy on the government portal (page updated 3 Jul 2026); nothing stored replaces or withdraws it. 'Published (non-binding, current)' stands.",
+  "legal_force_reasoning": "The page presents principles, policy objectives and expected outcomes, and refers to compliance with existing legislation rather than creating obligations; Non-binding stands.",
+  "scope_reasoning": "A national government charter of AI principles with safety, human oversight and accountability content; in scope with no note.",
+  "date_reasoning": "No stored source gives an issue date: the official PDF and the UAE legislation portal refused the archiver in both rounds, and the portal pages show only their last-update date. date_published 2024-07 is left unchanged and raised as an open question.",
+  "topics_reasoning": "human oversight (Human Oversight principle), transparency & labelling (Transparency principle) and accountability & liability (Governance and Accountability principle) are supported by the page; left unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://uaelegislation.gov.ae/en/policy/details/the-uae-charter-for-the-development-and-use-of-artificial-intelligence",
+   "reason": "the charter's entry on the UAE legislation portal, for the issue date and issuing entity. Not stored: HTTP 403, also in a browser (round 2)"
+  },
+  {
+   "url": "https://u.ae/ar/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAE-Charter-for-the-Development-and-Use-of-Artificial-Intelligence",
+   "reason": "the Arabic version of the u.ae page, for original_title; stored in this run and used for it"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "date_published (2024-07) and issuing_body (the UAE AI Office) are supported by no stored source: the charter PDF on ai.gov.ae and the charter's entry on uaelegislation.gov.ae refuse the archiver, also in a browser, and the stored u.ae pages give neither. Sources disagree on the date (10 June 2024 on the legislation portal according to press reports; launch on 30 July 2024 in press reports). A person who has the charter PDF or the legislation-portal page could provide it."
+ ]
+}

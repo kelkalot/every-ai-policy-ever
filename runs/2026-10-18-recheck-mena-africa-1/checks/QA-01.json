@@ -1,0 +1,52 @@
+{
+ "cand_id": "QA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "The PDF names MCIT as author; the host is still 'proposed' so the quote counts as secondary and level B stands"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "16 May 2024 is the Sharek posting date, not necessarily the issue date; defensible"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "The 18 Oct capture lost the post text; status rests on the 11 Oct capture and the update-every-1-2-years statement. The page may have been unpublished or re-rendered."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Eight principles from 'do no harm' to ultimate human accountability",
+   "verdict": "supported",
+   "locator": "principles 1-8"
+  },
+  {
+   "claim": "External audits for systems informing significant decisions; human intervention and appeal",
+   "verdict": "supported",
+   "locator": "page 12"
+  },
+  {
+   "claim": "Aligned with UNESCO and OECD; refers to NCSA secure-adoption guidelines",
+   "verdict": "supported",
+   "locator": "pages 3-4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Summary and notes match the 11 Oct Sharek capture and the PDF. The page captured on 18 Oct 2026 (note: it shows the 'Ethical Use' companion title) holds no post text, so a later run should re-capture it in a browser. One search found no updated edition; MCIT's policies page lists an upcoming National AI Policy."
+}

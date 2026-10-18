@@ -1,0 +1,201 @@
+{
+ "cand_id": "ZM-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ZM-01",
+ "record": {
+  "summary": "National AI strategy of the Ministry of Technology and Science, developed with support from the Tony Blair Institute and Finland and launched in Lusaka on 21 November 2024. Its principles include a human-centric approach, transparency and explainability, accountability, fairness and non-discrimination, data privacy and security, inclusivity and sustainability, aligned with the AU Continental AI Strategy, UNESCO's Recommendation and the OECD AI Principles. Governance measures include a National AI Council, sectoral technical working groups, national AI ethics guidelines, extending the regulator ZICTA's mandate to AI regulation and ethical compliance, regulatory sandboxes and risk management.",
+  "notes": "The cover reads 'National Artificial Intelligence Strategy 2024-2026' and the acknowledgement supports implementation of the 'National AI Strategy 2024 - 2026', but the running page header reads '2025 - 2027'. The ministry's release dated 21 November 2024 (published 25 November 2024) reports the launch that day in Lusaka by the Minister of Technology and Science, Felix Mutati. The foreword also commits to a National AI Taskforce and a Centre of Excellence hosting industry AI working groups and innovation labs, and to guardrails for the safe use of AI.",
+  "scope_note": "Mainly a strategy for AI skills, infrastructure, research and sectoral adoption; included as Zambia's national AI strategy, whose governance measures include a National AI Council, AI ethics guidelines, extending the regulator ZICTA's mandate to AI and risk management.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF (60 pages) and the ministry's launch release, both from mots.gov.zm and both stored on 18 Oct 2026 (the attempts of 11, 16 and 17 Oct 2026 failed on the site's TLS certificate). The PDF confirms the title, the issuing ministry, the partners, the principles and the governance measures; the release confirms the launch in Lusaka on 21 November 2024. The strategy period is stated inconsistently in the document itself (2024-2026 on the cover and in the acknowledgement, 2025-2027 in the page header). The ministry's July 2024 pre-announcement of a launch on Independence Day and the OECD.AI listing under 2025-2027 are not in any stored source and were dropped from notes, as was the remark on the PDF's upload date and its copy on OECD.AI."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 1 (cover)",
+    "quote": "Republic of Zambia Ministry of Technology and Science NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY 2024-2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 9, Acknowledgement",
+    "quote": "The National Artificial Intelligence Strategy development has been led by the Ministry of Technology and Science.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "release heading, date line and paragraph 1",
+    "quote": "21 -11- 24 The Ministry of Technology and Science has launched the Artificial Intelligence Strategy",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "release, paragraph 2",
+    "quote": "Speaking, today in Lusaka, during the AI Strategy launch, ministry of science and technology Minister, Felix Mutati",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "release, publication line",
+    "quote": "Published November 25, 2024By Milomo Mupanga",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 9, Acknowledgement",
+    "quote": "Zambia renders its full support to the successful implementation of the National AI Strategy 2024 - 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "release heading, date line and paragraph 1",
+    "quote": "21 -11- 24 The Ministry of Technology and Science has launched the Artificial Intelligence Strategy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 25, 4.5 Policy and Regulation, Opportunities",
+    "quote": "Legislative Frameworks: Evolve policies and regulations that address data privacy, security, intellectual property, and AI standards to be fit for purpose.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 25, 4.5 Policy and Regulation, Opportunities",
+    "quote": "AI regulation: Extend the mandate of the regulator ZICTA to include AI regulation, and ethical compliance.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 9, Acknowledgement",
+    "quote": "I would like to extend special gratitude to the Tony Blair Institute for technically supporting the formulation of the Strategy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 9, Acknowledgement",
+    "quote": "I would also like to extend sincere gratitude to the Government of Finland",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 29, 5.2.1 Ethical and Responsible AI",
+    "quote": "Transparency and Explainability: AI algorithms and decision-making processes must be sufficiently transparent and understandable to stakeholders.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 30, 5.2.6 Collaboration and Partnership",
+    "quote": "Align with international agreements and frameworks, such as the African Union's Continental Strategy for Artificial Intelligence, UNESCO's Recommendation on the Ethics of Artificial Intelligence, and the OECD Principles on AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 11, Executive Summary",
+    "quote": "be achieved through the formation of a National AI Council and the creation of sector-specific Technical Working Groups (TWGs).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 25, 4.5 Policy and Regulation, Opportunities",
+    "quote": "Develop Ethical Guidelines: Formulate national AI ethics guidelines aligned with international best practices to ensure responsible AI deployment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 25, 4.5 Policy and Regulation, Opportunities",
+    "quote": "AI regulation: Extend the mandate of the regulator ZICTA to include AI regulation, and ethical compliance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 8, Foreword",
+    "quote": "We will set up regulatory and data sandboxes for AI to help companies test innovative concepts and solutions in a contained environment with proportionate safeguards.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 42, 7.8 Risk Management",
+    "quote": "Compliance Mechanisms: Establish processes to ensure adherence to ethical guidelines and legal requirements.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 1, running header",
+    "quote": "NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY - 2025 - 2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 8, Foreword",
+    "quote": "In instituting strong governance, we will establish a National AI Taskforce and a Centre of Excellence that will host various industry AI working groups as well as innovation labs.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 8, Foreword",
+    "quote": "We will balance innovation with the establishment of guardrails for the safe use of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "release, publication line",
+    "quote": "Published November 25, 2024By Milomo Mupanga",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored text: 'Zambia's first national AI strategy' is not stated in either stored source and was dropped; the principles listed as the strategy lists them (5.2); 'risk management' kept (7.8); support from the Tony Blair Institute and Finland from the acknowledgement",
+   "notes": "rewritten: the July 2024 pre-announcement, the OECD.AI listing and the upload and copy remarks rest on no stored source and were dropped; the 2024-2026 wording is in the acknowledgement, not the foreword as published; the National AI Taskforce, the Centre of Excellence and the safe-use guardrails from the foreword added",
+   "scope_note": "added: a strategy whose main content is skills, infrastructure, research and adoption, with a governance and ethics component, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "A non-binding national strategy launched by the ministry on 21 November 2024 for 2024-2026 (cover; 2025-2027 in the page header). It is October 2026, within either period; nothing stored shows it replaced. Published (non-binding, current).",
+  "scope_reasoning": "In scope as Zambia's national AI strategy with ethics principles and governance measures (AI council, ethics guidelines, regulator mandate, sandboxes, risk management); main content is adoption, so a scope_note is added.",
+  "date_reasoning": "The ministry's release carries the date line '21 -11- 24' and says the minister spoke 'today in Lusaka, during the AI Strategy launch'; it was posted on 25 November 2024 ('Published November 25, 2024'), which is the posting date, not the launch. The launch day, 21 November 2024, is kept as date_published; the PDF itself carries no date beyond its period.",
+  "topics_reasoning": "The published topics are supported: accountability & liability (accountability principle; compliance mechanisms), international cooperation (alignment with the AU, UNESCO and OECD frameworks), transparency & labelling (transparency and explainability principle), public-sector use (AI to enhance public service delivery, release and strategy). Left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,160 @@
+{
+ "cand_id": "SA-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SA-04",
+ "record": {
+  "summary": "Draft law that the Communications, Space and Technology Commission (CST) put to public consultation from 14 April to 14 May 2025 to attract investment in data centres and AI. It aims to make the Kingdom a global digital hub and to enable sovereign data centres that ensure service continuity and data sovereignty beyond borders. It sets three models: a 'Private Center' for countries around the world to host their data and services in the Kingdom, and an 'Extended Center' and a 'Virtual Center' for major AI and cloud computing companies to host their worldwide customers in the Kingdom at levels of sovereignty and privileges suited to those customers.",
+  "notes": "Published for public comment from 14 April to 14 May 2025 through the Public Consultation Platform, with inquiries to CST. CST states that the law aligns with relevant international treaty frameworks and principles.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: CST's news release of 14 April 2025 in English (snapshot of 11 Oct 2026, unchanged on 18 Oct 2026) and in Arabic (18 Oct 2026). They confirm the English and Arabic titles, CST as issuer, the consultation window and the three centre models; the summary now rests on them alone. The draft text on the Istitlaa consultation platform (secondary_url) is not stored: the platform timed out for the archiver on 11 and 18 Oct 2026. The previous summary's account of guest countries, designated foreign states and Council of Ministers approval and termination powers, and the entry into force 60 days after publication in the Official Gazette, rested on law-firm summaries and is not repeated. No stored source shows adoption, a royal decree or publication in the Official Gazette, so the record stays a draft."
+  },
+  "original_title": "مشروع نظام المركز العالمي للذكاء الاصطناعي"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "page heading",
+    "quote": "CST Publishes a Public Consultation for the Global AI Hub Law",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-04/extra-b279867c23/2026-10-18/official.html",
+    "sha256": "ac89786f218e89ee1eefac80d9997d6cb3d77d3ecdc4eacb5ade13238b2dcec1",
+    "locator": "page heading",
+    "quote": "هيئة الاتصالات والفضاء والتقنية تدعو العموم لتقديم مرئياتهم حول مشروع نظام المركز العالمي للذكاء الاصطناعي",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "first paragraph",
+    "quote": "The Communications, Space, and Technology Commission (CST) invites the public to submit their input on the Global AI Hub Law",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "page details, Date",
+    "quote": "Date 14/4/2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "fourth paragraph",
+    "quote": "The feedback starts from April 14, 2025, until May 14, 2025, through: Public Consultation Platform",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "first paragraph",
+    "quote": "invites the public to submit their input on the Global AI Hub Law",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-04/extra-b279867c23/2026-10-18/official.html",
+    "sha256": "ac89786f218e89ee1eefac80d9997d6cb3d77d3ecdc4eacb5ade13238b2dcec1",
+    "locator": "fourth paragraph",
+    "quote": "فترة استقبال المرئيات تبدأ من تاريخ 14 أبريل 2025م وحتى تاريخ 14 مايو 2025م",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "first paragraph",
+    "quote": "invites the public to submit their input on the Global AI Hub Law, which contributes to creating a legislative and regulatory environment",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "second paragraph",
+    "quote": "it enables the establishment of sovereign data centers that ensure service continuity and data sovereignty beyond boarders",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "third paragraph",
+    "quote": "It also includes three advanced models: “Private Center”, targeting various countries around the world to host their data and services in the Kingdom",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "third paragraph",
+    "quote": "target major AI and Cloud Computing companies to host their worldwide costumers in the Kingdom according to levels of sovereignty and privileges suitable for their customers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-04/extra-b279867c23/2026-10-18/official.html",
+    "sha256": "ac89786f218e89ee1eefac80d9997d6cb3d77d3ecdc4eacb5ade13238b2dcec1",
+    "locator": "third paragraph",
+    "quote": "وبينت الهيئة أن النظام يشتمل على ثلاثة نماذج متطورة لمراكز البيانات، وهي: \"المركز الخاص\" والذي يستهدف مختلف دول العالم لاستضافة بياناتهم وخدماتهم في المملكة",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SA-04/2026-10-11/official.html",
+    "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+    "locator": "third paragraph",
+    "quote": "The law aligns with relevant international treaty frameworks and principles.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-04/extra-b279867c23/2026-10-18/official.html",
+    "sha256": "ac89786f218e89ee1eefac80d9997d6cb3d77d3ecdc4eacb5ade13238b2dcec1",
+    "locator": "page heading",
+    "quote": "هيئة الاتصالات والفضاء والتقنية تدعو العموم لتقديم مرئياتهم حول مشروع نظام المركز العالمي للذكاء الاصطناعي",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from CST's stored releases (English and Arabic, which agree); the description of guest countries, designated foreign states and Council of Ministers powers rested on law-firm summaries of the draft, which is not stored",
+   "notes": "rewritten: the consultation channel and the treaty-alignment statement from the release; the remark that no adoption was found moved to verification.note",
+   "verification.note": "rewritten for what this run stored",
+   "original_title": "null -> 'مشروع نظام المركز العالمي للذكاء الاصطناعي', the name of the draft in the heading of CST's stored Arabic release"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The latest stored event is CST's call for comments on the draft (14 April to 14 May 2025). No stored source shows Council of Ministers approval, a royal decree or publication in the Official Gazette; 'Draft / proposed' with legal force 'Proposed' stands.",
+  "scope_reasoning": "Kept in with the existing scope_note, which follows the recorded precedent for this instrument (Michael Riegler, issue #2, 2026-10-14).",
+  "date_reasoning": "The release is dated 14/4/2025 (Hijri 16/10/1446), the first day of the consultation.",
+  "topics_reasoning": "Unchanged. international cooperation: hosting of other countries' data and services and alignment with international treaty frameworks. national security & military: the stored release speaks of sovereign data centres and data sovereignty; the Council of Ministers' termination powers to protect national security are in the draft text, which is not stored."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.cst.gov.sa/ar/media-center/news/N2025041401",
+   "reason": "the Arabic version of CST's release; stored in this run and used for original_title"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The draft text is not stored: the Istitlaa consultation platform (secondary_url) times out for the archiver. The summary now rests on CST's release; a person who has the draft could provide it."
+ ]
+}

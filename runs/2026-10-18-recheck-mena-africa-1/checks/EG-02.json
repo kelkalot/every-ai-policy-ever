@@ -1,0 +1,56 @@
+{
+ "cand_id": "EG-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Four tiers; GPAI with systemic risk reclassified as high-risk",
+   "verdict": "supported",
+   "locator": "page 22"
+  },
+  {
+   "claim": "Dual-Check of ethical impact assessment and technical audit; serious-incident reporting",
+   "verdict": "supported",
+   "locator": "pages 23-24"
+  },
+  {
+   "claim": "Conformity assessments for high-risk sectors in months 12-24; informs AI law",
+   "verdict": "supported",
+   "locator": "page 29"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "EG-01",
+  "EG-03",
+  "EG-04"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Identifier now holds the document ID alone; notes and summary match the stored guide and companion PDF. One search found no new edition and no tabled government AI bill. EG-03 and EG-04 are already related."
+}

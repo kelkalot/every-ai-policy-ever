@@ -1,0 +1,57 @@
+{
+ "cand_id": "BH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "policy states all government entities are required to comply"
+  },
+  "official_identifier": {
+   "verdict": "supported",
+   "why": "null is correct: 'Version 1.0' is a version label, not an identifier"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Approved by MCIT on 20 May 2025; government entities required to comply from that date",
+   "verdict": "supported",
+   "locator": "page 13"
+  },
+  {
+   "claim": "Final decision in important matters stays under human control",
+   "verdict": "supported",
+   "locator": "page 5"
+  },
+  {
+   "claim": "Responsible individuals, not the machine, bear negative effects",
+   "verdict": "supported",
+   "locator": "page 10"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Notes correctly drop the press-only Shura Council item (kept as a lead). One search found no enactment of the AI law proposal (a tracker still lists it as under review) and no new policy version."
+}

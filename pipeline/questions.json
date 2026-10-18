@@ -2460,6 +2460,98 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-recheck-south-asia-1 (5 records)"
+  },
+  {
+   "key": "record:KE-01@2026-10-18-recheck-mena-africa-1",
+   "kind": "record",
+   "subject": "KE-01",
+   "run_id": "2026-10-18-recheck-mena-africa-1",
+   "held_back": false,
+   "why": "the checker found something possibly newer: https://maarifa.cog.go.ke/sites/default/files/2026-01/Kenya%20National%20AI%20Strategy%202025-2030%20Implementation%20Roadmap_1.pdf",
+   "records": [
+    "KE-01"
+   ],
+   "title": "KE-01 Kenya AI Strategy: open question from run 2026-10-18-recheck-mena-africa-1",
+   "state": "open",
+   "issue": 163,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/163",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:AE-02@2026-10-18-recheck-mena-africa-1",
+   "kind": "record",
+   "subject": "AE-02",
+   "run_id": "2026-10-18-recheck-mena-africa-1",
+   "held_back": false,
+   "why": "checker: New summary and notes match the stored English and Arabic u.ae pages. The text lists the principles; I found no stored count of 'twelve' but the listed items match. date_published and issuing_body remain unsupported by any stored file (ai.gov.ae PDF and uaelegislation.gov.ae refuse the archiver); the run does not change them, so the question should open while the text corrections merge. One search found no revised charter; press gives 30 July 2024 (and 10 June 2024 cabinet approval).; date_published is unsupported and the checker gave no evidence-backed fix; issuing_body is unsupported and the checker gave no evidence-backed fix; date_published has no evidence",
+   "records": [
+    "AE-02"
+   ],
+   "title": "AE-02 UAE AI Charter (2024): open question from run 2026-10-18-recheck-mena-africa-1",
+   "state": "open",
+   "issue": 164,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/164",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:JO-01@2026-10-18-recheck-mena-africa-1",
+   "kind": "record",
+   "subject": "JO-01",
+   "run_id": "2026-10-18-recheck-mena-africa-1",
+   "held_back": false,
+   "why": "checker: Text corrections are supported by the stored PDF and Arabic news item. date_published has no stored quote (evidence script error); it is unchanged by the run, so it should become a question while the rest merges. One search found no revision or AI law; a MoDEE brochure lists the code under August 2022 but is not stored.; date_published is unsupported and the checker gave no evidence-backed fix; date_published has no evidence",
+   "records": [
+    "JO-01"
+   ],
+   "title": "JO-01 Jordan National AI Ethics Charter: open question from run 2026-10-18-recheck-mena-africa-1",
+   "state": "open",
+   "issue": 165,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/165",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "host:pmo.govmu.org",
+   "kind": "host",
+   "subject": "pmo.govmu.org",
+   "code": "MU",
+   "records": [
+    "MU-01"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 166,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/166",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Is pmo.govmu.org an official site for MU?"
+  },
+  {
+   "key": "sample:2026-10-18-recheck-mena-africa-1",
+   "kind": "sample",
+   "subject": "2026-10-18-recheck-mena-africa-1",
+   "run_id": "2026-10-18-recheck-mena-africa-1",
+   "records": [
+    "EG-01",
+    "IL-01",
+    "MU-01",
+    "SA-02",
+    "ZM-01"
+   ],
+   "why": "Human sample of run 2026-10-18-recheck-mena-africa-1: check each record against its stored sources.",
+   "state": "open",
+   "issue": 167,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/167",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-recheck-mena-africa-1 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

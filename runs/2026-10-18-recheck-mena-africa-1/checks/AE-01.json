@@ -1,0 +1,57 @@
+{
+ "cand_id": "AE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "October 2017 launch is in the quote; YYYY-MM is right"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "judgment-differs",
+   "why": "'accountability & liability' rests on Objective 8 of the unstored strategy PDF; the stored u.ae pages only weakly support it. Unchanged by this run."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Strategy aims for 100% reliance on AI in services and data analysis by 2031 (Arabic page)",
+   "verdict": "supported",
+   "locator": "aims"
+  },
+  {
+   "claim": "Five themes including a government law on safe use of AI and a first global document on safe-use controls",
+   "verdict": "supported",
+   "locator": "themes, fifth theme"
+  },
+  {
+   "claim": "Sectors: transport, health, space, renewable energy, water, technology, education, environment, traffic",
+   "verdict": "supported",
+   "locator": "Sectors"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Adoption strategy with a safe-use theme; the extractor's scope_note is fair."
+ },
+ "overall": "accept",
+ "note": "Title change from 'UAE National Strategy for AI 2031' to the portal's 'UAE Strategy for AI' and the rewritten summary follow the stored English and Arabic u.ae pages; all quotes match. The ai.gov.ae strategy PDF (403) is still not stored, so the old eight-objectives text is correctly dropped. No newer version found in one search (only the 2031 strategy and an unrelated federal government plan)."
+}

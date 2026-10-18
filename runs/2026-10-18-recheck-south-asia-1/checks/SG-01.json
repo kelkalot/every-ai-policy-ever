@@ -1,0 +1,50 @@
+{
+ "cand_id": "SG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "four areas: internal governance, human involvement, operations management, stakeholder interaction",
+   "verdict": "supported",
+   "locator": "page 10, para 1.1"
+  },
+  {
+   "claim": "human-in-the-loop/over-the-loop/out-of-the-loop with probability-severity matrix",
+   "verdict": "supported",
+   "locator": "pages 30-31"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the stored PDF. Summary and notes now rest on the document itself; the removal of the \"traditional AI\" framing is supported. Level A holds. Targeted search for an amendment, repeal or newer edition found nothing on an official site."
+}

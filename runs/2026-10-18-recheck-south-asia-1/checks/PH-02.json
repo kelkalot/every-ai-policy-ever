@@ -1,0 +1,56 @@
+{
+ "cand_id": "PH-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "BAIS classifies high-risk AI by rights, critical sectors, autonomy, scale",
+   "verdict": "supported",
+   "locator": "Sec. 14 (pages 11-12)"
+  },
+  {
+   "claim": "AI Safety Research Fund; deepfake impersonation offence",
+   "verdict": "supported",
+   "locator": "Sec. 43; Sec. 32"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Bill text (HB 7627, filed 4 Feb 2026) supports title, identifier, date, status and the rewritten summary; topic swap to deepfakes is supported by Sec. 26 and 32. The committee referral in version 1 rested on a tracker and is dropped from the notes. Stage unknown: a July 2026 committee working group is consolidating 26 bills, possibly including this one; no official stored source, so the status Proposed stays as it is."
+}

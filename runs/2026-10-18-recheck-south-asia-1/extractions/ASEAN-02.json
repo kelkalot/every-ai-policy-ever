@@ -1,0 +1,145 @@
+{
+ "cand_id": "ASEAN-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ASEAN-02",
+ "record": {
+  "summary": "Supplements the ASEAN Guide on AI Governance and Ethics (2024) with policy recommendations on generative AI. It addresses six risks named in the 2024 Guide (mistakes and anthropomorphism; inaccurate responses and disinformation; deepfakes, impersonation and fraud; intellectual property infringement; privacy and confidentiality; embedded biases) and explores frontier and systemic risks of highly advanced models. Its recommendations cover accountability, data, trusted development and deployment, incident reporting, testing and assurance, security, content provenance, safety and alignment research, and AI for public good, for voluntary application by member states.",
+  "safety_topics": [
+   "general-purpose / frontier AI",
+   "deepfakes & synthetic media",
+   "incident reporting",
+   "evaluation & testing",
+   "transparency & labelling",
+   "international cooperation"
+  ],
+  "notes": "Welcomed by the 5th ASEAN Digital Ministers' Meeting (ADGMIN) in Bangkok on 16-17 January 2025, which also welcomed the establishment of the Working Group on AI Governance (WG-AI). The guide was developed collaboratively by all ASEAN member states, which are recommended to apply its recommendations on a voluntary basis; nothing in it changes any party's legal obligations or rights. It supplements the ASEAN Guide on AI Governance and Ethics published in February 2024 (ASEAN-01), which covers traditional AI technologies, and illustrates its recommendations with four use cases (PhoGPT, Project Moonshot, ThaiLLM and Accenture's Responsible AI programme).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the ASEAN Secretariat's publication page for the guide on asean.org (rendered in a browser on 11 Oct 2026 and printed to PDF on 18 Oct 2026; the plain download fails with HTTP 307; its 'Year' field is empty), the guide itself (asean.org PDF, 52 pages, 18 Oct 2026), and the endorsed Joint Media Statement of the 5th ASEAN Digital Ministers' Meeting (asean.org PDF, January 2025 upload). The guide confirms the title, the risks, the nine recommendation areas, the use cases and its voluntary nature; it carries no date of its own. The Joint Media Statement confirms that the ministers welcomed the guide at their meeting in Bangkok on 16-17 January 2025, which dates it to January 2025. The publication page gives the ASEAN Secretariat as author and publisher."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 2, running header",
+    "quote": "Expanded ASEAN Guide on AI Governance and Ethics – Generative AI 2 Executive Summary",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-02/2026-10-18/official-print.pdf",
+    "sha256": "57aa1dcfea9a64984e642e88733a180893266e2017c9481a6e373c695e8e11a7",
+    "locator": "page 1, breadcrumb",
+    "quote": "ASEAN Publication > Expanded ASEAN Guide on AI Governance and Ethics – Generative AI",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 2, paragraph 8",
+    "quote": "The Meeting also welcomed the Expanded ASEAN Guide on AI Governance and Ethics – Generative AI, which builds on the 2024 Guide with policy recommendations to address Generative AI concerns while fostering innovation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-02/2026-10-11/official-rendered.html",
+    "sha256": "f3af764b1ad782306d35d032e5eaadc971b79d369e65fa361297e1fce618854a",
+    "locator": "publication page, heading",
+    "quote": "Expanded ASEAN Guide on AI Governance and Ethics – Generative AI Author:ASEAN Secretariat Download Abstract",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 1, heading",
+    "quote": "The 5th ASEAN Digital Ministers’ Meeting and Related Meetings Bangkok, Thailand, 16 - 17 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 2, paragraph 8",
+    "quote": "The Meeting also welcomed the Expanded ASEAN Guide on AI Governance and Ethics – Generative AI, which builds on the 2024 Guide",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 39, Conclusion",
+    "quote": "This Guide is collaboratively developed by all ASEAN Member States and will serve as a foundation for ASEAN to take forward future work.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-02/2026-10-11/official-rendered.html",
+    "sha256": "f3af764b1ad782306d35d032e5eaadc971b79d369e65fa361297e1fce618854a",
+    "locator": "publication page, Abstract",
+    "quote": "This Guide supplements the ASEAN Guide on AI Governance and Ethics (2024), which focuses on traditional AI technologies, with policy considerations related to generative AI (Gen AI).",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 39, Conclusion",
+    "quote": "ASEAN Member States are recommended to apply, on a voluntary basis, the recommendations in this Guide. Nothing in this Guide may be interpreted as replacing or changing any party’s legal obligations or rights under any ASEAN Member State’s laws.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 2, Executive Summary",
+    "quote": "This Guide also explores frontier and systemic risks posed by long-term evolution in the capabilities of highly advanced Gen AI models, but which are not widespread in ASEAN at this time.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 2, Executive Summary",
+    "quote": "Deepfakes, impersonation, fraudulent and malicious activities,",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 2, paragraph 8",
+    "quote": "The Meeting welcomed the establishment of the Working Group on AI Governance (WG -AI) to oversee ASEAN's initiatives on artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 39, Conclusion",
+    "quote": "This expanded Guide, supplementing the ASEAN Guide on AI Governance and Ethics that was published in February 2024",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the guide's own text (risks, frontier and systemic risks, nine recommendation areas, voluntary application); the published summary had 203 characters, below the 250 minimum",
+   "safety_topics": "deepfakes & synthetic media, incident reporting, evaluation & testing and transparency & labelling added from the guide's risk list and recommendation areas (incident reporting, testing and assurance, content provenance)",
+   "notes": "rewritten: the ministers' welcome at the 5th ADGMIN, the collaborative drafting and voluntary application, the use cases; the remarks on what the ASEAN page shows and what was not confirmed moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "A voluntary guide welcomed by the ASEAN Digital Ministers in January 2025 and still listed as a current ASEAN publication; nothing stored shows it withdrawn or replaced. Published (non-binding, current).",
+  "scope_reasoning": "An intergovernmental guide on the governance of generative AI, including frontier and systemic risks; in scope with no note.",
+  "date_reasoning": "The guide carries no date. The 5th ADGMIN, held in Bangkok on 16-17 January 2025, welcomed it (Joint Media Statement); the published 2025-01 is kept at the month because no source gives the day of release.",
+  "issuing_body_reasoning": "The ministers welcomed the guide (the 2024 guide was 'endorsed'); the guide says it was developed collaboratively by all ASEAN member states, and the ASEAN Secretariat is its author and publisher. The published 'ASEAN Digital Ministers (ADGMIN); published by the ASEAN Secretariat' fits these sources and is kept; the difference between welcomed and endorsed is in the notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

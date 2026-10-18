@@ -1,0 +1,109 @@
+{
+ "cand_id": "IN-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IN-04",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored again in this run: the NITI Aayog PDF from niti.gov.in (114 pages, unchanged, same SHA-256 as the copy of 16 Oct 2026), NITI's publication page for it (node 708) and NITI Aayog's AIRAWAT approach paper of January 2020. The paper confirms the title, NITI Aayog's authorship and mandate (foreword signed by its CEO), that it is a discussion paper, and the recommendations in the summary and notes, including the chapter 'Ethics, Privacy, Security and Artificial Intelligence'. The paper itself carries no date and its cover has no text layer; date_published rests on the AIRAWAT paper ('released ... on 4th June, 2018'). NITI's publication page gives 'Wed, 06/27/2018 - 19:32', which looks like the date the item was posted on the site; the discrepancy is in the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 5, Introduction",
+    "quote": "National Strategy for Artificial Intelligence 5 Introduction #AIforAll: Technology Leadership for Inclusive Growth",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 6, foreword",
+    "quote": "The purpose of this paper is to lay the ground work for evolv ing the National Strategy for Artificial Intelligence.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 5, Introduction",
+    "quote": "mandated NITI Aayog to establish the National Program on AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 6, foreword",
+    "quote": "#AIforAll. Amitabh Kant CEO, NITI Aayog",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 5, Introduction",
+    "quote": "crafting the national strategy for AI, which is the focus of this discussion paper.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 6, foreword",
+    "quote": "is intended to serve as an “essential pre-read” in building a truly transformative approach in pursuit of #AIforAll.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C007/2026-10-16/official.pdf",
+    "sha256": "da5404dbb584c8956aae707dfcfe324dc1df11a179bc8288af0e898f4e37dcc5",
+    "locator": "page 6, foreword",
+    "quote": "specifics (e.g. execution and financial implications) have been consciously avoided, since wider consultations and consensus building is needed to refine these recommendations.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-04/extra-e89cc95621/2026-10-18/official.pdf",
+    "sha256": "f01d23332f0efb84b040d2ee6ca9fb7cf2c34bea39c7b528353d8a0095ce6f5f",
+    "locator": "page 6",
+    "quote": "Aayog released the \"National Strategy for Artificial Intelligence\" (NSAI) on 4th June, 2018.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-04/extra-568c369b27/2026-10-18/official.html",
+    "sha256": "1d550f2243cb9fd2577c8678c0d4e2d44a064802c27f8e6a263705b2126cfeab",
+    "locator": "NITI publication page (node 708), Publication Date",
+    "quote": "Publication Date Wed, 06/27/2018 - 19:32",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "updated for this recheck: the paper, the publication page and the AIRAWAT approach paper stored again in this run"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A government discussion paper with no legal force that lays the groundwork for the national strategy; nothing stored shows it withdrawn or replaced. Published (non-binding, current).",
+  "scope_reasoning": "A national AI strategy paper whose main focus is adoption, research and skilling, with one chapter on ethics, privacy and security; in with the existing scope_note, which still fits.",
+  "date_reasoning": "No page of the paper gives its date. NITI Aayog's AIRAWAT approach paper (January 2020), stored in this run, says NITI released the strategy on 4 June 2018; NITI's publication page shows 27 June 2018, a timestamp of the web item. The release date is kept and the page date stays in the notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "Two NITI Aayog sources give different days: the AIRAWAT approach paper says the strategy was released on 4 June 2018, NITI's publication page shows 27 June 2018. The record keeps 4 June, with the discrepancy in the notes."
+ ]
+}

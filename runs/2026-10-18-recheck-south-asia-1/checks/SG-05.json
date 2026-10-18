@@ -1,0 +1,59 @@
+{
+ "cand_id": "SG-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "fines up to S$1,000 and/or 12 months for individuals; up to S$1,000,000 for social media services",
+   "verdict": "supported",
+   "locator": "page 4 s. 61MA(2); page 9 s. 42M(2)"
+  },
+  {
+   "claim": "Returning Officer corrective directions extended to new offence",
+   "verdict": "supported",
+   "locator": "page 10 explanatory statement"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Elections law that is not AI-specific but is the operative instrument on deepfakes of candidates (scope-decisions: deepfakes); include with a scope_note."
+ },
+ "overall": "accept",
+ "note": "Act number and commencement 22 Jan 2025 are supported by the Elections Department consolidation (legislative history, entry 91). The enacted Act could not be stored (HTTP 403), so the assent date is not recorded; that is an open question that does not change a value. Removal of the law-firm claim on first use in 2025 is fine. Targeted search for an amendment, repeal or newer edition found nothing on an official site."
+}

@@ -1,0 +1,45 @@
+{
+ "cand_id": "IN-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The AIRAWAT paper (official, niti.gov.in) says 'released ... on 4th June, 2018'; NITI's publication page shows 27 June 2018, which is likely the posting date. The discrepancy is in the notes."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Chapter on ethics, privacy and security calls for a data protection law and proposes a negligence test and safe harbours",
+   "verdict": "supported",
+   "locator": "NSAI pp. 87-88"
+  },
+  {
+   "claim": "Proposes the AIRAWAT compute platform and research centres",
+   "verdict": "supported",
+   "locator": "NSAI p. 58"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note is kept: discussion paper mainly on AI adoption with one chapter on ethics, privacy and security."
+ },
+ "overall": "accept",
+ "note": "Targeted search for a newer national strategy or a 2.0 version from NITI Aayog: none found. The only change is the verification note; the PDF hash is unchanged."
+}

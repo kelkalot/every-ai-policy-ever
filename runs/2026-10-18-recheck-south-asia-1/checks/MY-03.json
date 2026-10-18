@@ -1,0 +1,61 @@
+{
+ "cand_id": "MY-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "28 Jul 2026 is the date the government introduced the plan (Ministry of Digital press statement, Malay). The stored PDFs are named as a version of 18 Aug 2026; whether that revised the text is open (extractor's question)."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "E11: hybrid risk-based framework and central AI governance authority; foundation for future AI legislation",
+   "verdict": "supported",
+   "locator": "plan pp. 82-83"
+  },
+  {
+   "claim": "E12: AI Trust Function with standards, testing and certification oversight, public incident registry, ASEAN AI Safety Network",
+   "verdict": "supported",
+   "locator": "pp. 84-85"
+  },
+  {
+   "claim": "E5: AI training before approving or overseeing government AI systems",
+   "verdict": "supported",
+   "locator": "p. 69"
+  },
+  {
+   "claim": "AI Governance Bill being drafted, target end of 2026",
+   "verdict": "supported",
+   "locator": "press statement pp. 1-3 (Malay)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search for a later version or the AI Governance Bill text: nothing official found beyond the stored press statement. Quotes match; Malay quotes checked against the original text. Whether 18 Aug 2026 is a revision date stays an open question in the extraction."
+}

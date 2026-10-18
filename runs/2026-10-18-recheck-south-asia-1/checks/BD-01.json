@@ -1,0 +1,36 @@
+{
+ "cand_id": "BD-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "unsupported",
+   "why": "No stored file: aipolicy.gov.bd fails the TLS handshake on every attempt, so the evidence script finds no evidence for the title."
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "No stored evidence for 2026-02-09."
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "No stored evidence; July 2026 press reports say the government is still formulating a national AI policy, so 'Draft v2.0' may no longer be the working text."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Draft v1.1 released 25 Jan 2026, v2.0 on 9 Feb 2026; consultation 26 Jan to 8 Feb 2026",
+   "verdict": "unsupported",
+   "locator": "no stored source"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Nothing could be stored (official site fails TLS), so no field of this record has stored evidence. Targeted search for a newer version: no cabinet approval or final text found; reports from July 2026 describe the policy as still being formulated (no official page stored). The run changes only the notes and the verification note, which keep the previously published claims; a person needs to provide the Draft v2.0 PDF (AGENTS.md section 7.8) or confirm the status."
+}

@@ -1,0 +1,221 @@
+{
+ "cand_id": "SG-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-02",
+ "record": {
+  "summary": "Government AI governance testing framework and software toolkit, launched as a minimum viable product for an international industry pilot. Companies self-test their AI systems with standardised technical tests and process checks and generate reports for stakeholders. The pilot covers 8 of 11 internationally accepted AI ethics principles, grouped in five pillars: transparency on the use of AI, understanding how a model reaches decisions, safety and resilience, fairness, and management and oversight. It sets no ethical standards and does not guarantee that a tested system is free from risks or biases.",
+  "notes": "Announced by Minister for Communications and Information Josephine Teo at the World Economic Forum Annual Meeting in Davos. MDDI's newsroom dates the joint press release of the Ministry of Communications and Information, IMDA and the PDPC 26 May 2022; IMDA's copy carries the dateline Davos, 25 May 2022. Developed under the guidance of the Advisory Council on the Ethical Use of AI and Data, it was tested or reviewed by 10 companies before launch. The pilot toolkit worked with a subset of common supervised models (binary classification and regression), mainly tabular datasets and models of about 2GB or less; it did not support unsupervised models.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the joint press release on MDDI's newsroom (copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site's last-updated footer), which gives the name A.I. Verify, the date 26 May 2022, IMDA and PDPC as developers, the MVP and pilot status and the caveats; and its Annex B (isomer-user-content.by.gov.sg, Government of Singapore), with the 11 principles, the 8 selected for the MVP and the toolkit's limitations. IMDA's press-release page (secondary source, copy of 18 Oct 2026) gives in its text layer only the heading 'Singapore Launches A.I. Verify' and the dateline 'SWITZERLAND, DAVOS – 25 MAY 2022'; the body is in the stored HTML in a script payload that the text layer does not include. Version 1's statements on 11 principles in later versions, the AI Verify Foundation and Project Moonshot rest on no stored file of this record and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 1",
+    "quote": "Singapore launches A.I. Verify - the world's first AI Governance Testing Framework and Toolkit for companies who want to demonstrate responsible AI in an objective and verifiable manner.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 1, heading",
+    "quote": "Development of A.I. Verify - AI Governance Testing Framework and Toolkit",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 3",
+    "quote": "A.I. Verify is developed by the Infocomm Media Development Authority (IMDA) and the Personal Data Protection Commission (PDPC).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "header",
+    "quote": "Joint Press Release by Ministry of Communications and Information, Infocomm Media Development Authority and Personal Data Protection Commission",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "header",
+    "quote": "Singapore launches worlds first AI testing framework and toolkit to promote transparency 26 May 2022",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 1",
+    "quote": "A.I. Verify – currently a Minimum Viable Product1 (MVP), aims to promote transparency between companies and their stakeholders",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 10",
+    "quote": "As AI governance and testing is nascent, Singapore welcomes organisations to participate in piloting the MVP.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 1, overview",
+    "quote": "Our approach to balancing the need for technological innovation and building trust in AI is one of voluntary adoption of government's detailed guidance on AI deployment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 5",
+    "quote": "Does not define ethical standards. It validates AI system developer's/owner's claims about the approach, use, and verified performance of their AI systems.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 4",
+    "quote": "Developers and owners can verify the claimed performance of their AI systems against a set of principles through standardised tests.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 5",
+    "quote": "Allows AI system developers/owners to conduct self-testing – to maintain commercial requirements while providing a common basis to declare results.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 4",
+    "quote": "The Toolkit will generate reports for developers, management, and business partners, covering major areas affecting AI performance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 2",
+    "quote": "Countries are generally coalescing around 11 key AI ethics principles, grouped into 5 pillars (See Figure 1).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 2",
+    "quote": "For a start, an initial set of 8 principles were selected for the MVP based on the following practical considerations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 3",
+    "quote": "Ensuring fairness i.e., no unintended discrimination.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 3",
+    "quote": "Ensuring proper management and oversight of AI system.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 5",
+    "quote": "Does not however guarantee that any AI system tested under this Pilot Framework will be free from risks or biases or is completely safe.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 6",
+    "quote": "We invite industry partners from all around the world to join us in this pilot and contribute to building international standards in AI governance.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 1",
+    "quote": "This was announced by Singapore's Minister for Communications and Information Mrs Josephine Teo at the World Economic Forum Annual Meeting in Davos.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/secondary.html",
+    "sha256": "e657fa75b66e31f2cd54022b40036b1bc6fbc9a418555861f35d53e6b8d15c46",
+    "locator": "header",
+    "quote": "Singapore Launches A.I. Verify 25 May 2022|6 mins read SWITZERLAND, DAVOS – 25 MAY 2022",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "para 8",
+    "quote": "Developed under the guidance of the Advisory Council on the Ethical Use of AI and Data, 10 companies from different sectors and of different scale, have already tested and/or provided feedback.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 4",
+    "quote": "Works with a certain subset of common AI models , such as binary classification, and regression algorithms",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 4",
+    "quote": "The toolkit does not support unsupervised models at this time",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 4",
+    "quote": "Supports small-to-medium scale models (~2GB) which can be fully imported to the toolkit using a web interface.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored press release and Annex B: version 1's '11 in later versions' rests on no stored file; Annex B gives 11 principles in 5 pillars of which 8 were selected for the MVP",
+   "notes": "version 1's account of the AI Verify Foundation and Project Moonshot rests on no stored file of this record and was removed; IMDA's dateline (25 May 2022), the advisory council, the 10 pilot companies and the MVP's limitations added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A voluntary testing framework and toolkit, launched in 2022 as a minimum viable product for an industry pilot. Nothing stored shows its withdrawal or replacement; MDDI's newsroom page was still online when stored on 18 Oct 2026. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2022-05-26 is the date on MDDI's newsroom page of the joint press release (the record's official source). IMDA's copy of the release carries the dateline 'SWITZERLAND, DAVOS – 25 MAY 2022'; the difference is recorded in the notes and as an open question rather than changed, since both are official copies.",
+  "scope_reasoning": "Government AI testing framework and toolkit; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published: two official copies of the launch press release disagree. MDDI's newsroom page gives 26 May 2022 (kept); IMDA's page carries the dateline 'SWITZERLAND, DAVOS – 25 MAY 2022'. The announcement was made in Davos. Which date the register uses is for a human to decide.",
+  "The text layer of IMDA's stored press-release page (archive/SG-02/2026-10-18/secondary.html.txt) holds only the heading and dateline; the release body is in the stored HTML inside a Next.js script payload that textify does not extract. The same affects the other imda.gov.sg pages of this run (SG-01 secondary, SG-03, SG-04 and SG-07 official). This is a text-layer limitation of the tool, not of the source."
+ ]
+}

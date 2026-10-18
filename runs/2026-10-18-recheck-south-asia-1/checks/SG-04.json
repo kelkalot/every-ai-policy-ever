@@ -1,0 +1,57 @@
+{
+ "cand_id": "SG-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "judgment-differs",
+   "why": "The only official quote is the heading of the IMDA factsheet (\"SG launches Gen AI and AI Governance Playbook for Digital FOSS\"), which does not state the framework title; the full title is shown only by the AI Verify Foundation page and PDF (host not official). The script computes level A from that official quote; level B or C might be fairer."
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "nine dimensions to be looked at in totality",
+   "verdict": "supported",
+   "locator": "official PDF (secondary host) page 3 executive summary"
+  },
+  {
+   "claim": "proposed framework 16 Jan 2024, final 30 May 2024",
+   "verdict": "supported",
+   "locator": "secondary.html Background"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "SG-06",
+  "SG-08"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Fields are supported, but the title is evidenced mainly by a host listed as not official; the extractor already raised this as a question. Summary claims match the framework PDF. Targeted search for an amendment, repeal or newer edition found nothing on an official site."
+}

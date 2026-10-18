@@ -1,0 +1,49 @@
+{
+ "cand_id": "IN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Announced by the Minister on 30 Jan 2025 under the Safe and Trusted pillar, hub-and-spoke model",
+   "verdict": "supported",
+   "locator": "PIB release PRID 2097709"
+  },
+  {
+   "claim": "Second EoI themes: watermarking and labelling, risk assessment, stress testing, deepfake detection",
+   "verdict": "supported",
+   "locator": "PIB release / PSA copy pp. 2-3"
+  },
+  {
+   "claim": "Governance Guidelines describe the institute's research, risk assessment and capacity-building role",
+   "verdict": "supported",
+   "locator": "guidelines p. 38"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "The register includes the institute's establishment announcement as an institutional mandate."
+ },
+ "overall": "accept",
+ "note": "Targeted search for a newer version: secondary sources (LongTermWiki, a job listing) say the institute was formally launched at the AI Impact Summit in February 2026, but no official MeitY or IndiaAI page confirms it, so nothing to add to extra_urls. The record's notes keep saying that no formal launch date is stored. The extractor's open question about moving official_url to the PIB release is a human decision."
+}

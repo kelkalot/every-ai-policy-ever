@@ -1,0 +1,296 @@
+{
+ "cand_id": "KH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KH-01",
+ "record": {
+  "summary": "Cambodia's draft national AI strategy, prepared by the Ministry of Post and Telecommunications and put to public consultation in June 2025. Of its six priorities and 41 measures, priority 5, 'ethical and responsible AI', takes a light-touch, step-by-step approach that starts with supply-side regulation and direct regulation of high-risk applications. It directs a National AI Governance Framework from national to enterprise level, risk assessments by sector and key institution, datasets for safety evaluation of AI models, rules against abuse of AI-generated content, and studies of a regulatory sandbox and an AI incident response mechanism.",
+  "safety_topics": [
+   "risk-based classification",
+   "evaluation & testing",
+   "deepfakes & synthetic media",
+   "incident reporting",
+   "international cooperation",
+   "research priorities"
+  ],
+  "notes": "MPTC drafted the strategy over more than a year with the support of UN-ESCAP, held two rounds of technical consultation with UN-ESCAP experts on 19 February and 18 March 2025 and a deep-dive workshop on 7-8 April 2025, and held 10 bilateral and multilateral consultations with ministries and institutions between 9 and 20 May 2025. MPTC's announcement, posted under 1 June 2025 on its English site, opened a public consultation until 20 June 2025 and planned a stakeholder meeting in the third week of June and a national workshop in the first week of July 2025. The draft dated June 2025 calls itself a living document; implementation would run through the Digital Government Committee and an inter-ministerial working group on AI, with annual action plans, achievement reports at the end of 2026 and 2028 and an evaluation by the end of 2030. It notes Cambodia's support for the UNESCO Recommendation on the Ethics of AI and its part in the ASEAN Working Group on AI Governance and the Hiroshima AI Process Friends Group. The OECD.AI Policy Navigator, updated by Cambodia's national contact point on 9 June 2026, still lists the strategy as proposed or under development.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: MPTC's press release of 22 April 2025 on the deep-dive workshop (mptc.gov.kh; stored on 12 Oct 2026, unchanged on 18 Oct 2026); the OECD.AI Policy Navigator entry (the secondary source, copy of 18 Oct 2026); and, stored in this run, the English draft 'Draft National Artificial Intelligence Strategy 2025-2030', prepared by MPTC and dated June 2025 (29 pages, the copy the OECD.AI entry links on api.oecd.ai), MPTC's announcement opening the public consultation (mptc.gov.kh, posted under 1 June 2025) and MPTC's release of 13 May 2025 on consultation meetings with ministries. The draft was read in full for priority 5, the 41 measures and the implementation mechanism. The draft stored is the one OECD.AI links; whether it is the same text MPTC put to consultation is not stated in it. Version 1's announcement number (1497), the date 11 June 2025 for the announcement, 'some 34 ministries' and 'version 5' came from law-firm and Open Development Cambodia summaries and rest on no stored file; they were removed or replaced by what the MPTC pages say (posted under 1 June 2025; 10 consultation meetings, 9-20 May 2025). Version 1's summary said risk assessments 'by sector and key application'; the draft says 'by sector and by key institutions'. No adoption decision appears in any stored file."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1 (cover)",
+    "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-12/official.html",
+    "sha256": "e8d8c77cee2f04be2415128228473ea704cd8519f63535d50c6a05f49296bfbc",
+    "locator": "press release, paragraph 1",
+    "quote": "the Ministry of Post and Telecommunications (MPTC) organized a deep dive workshop on draft “National Artificial Intelligence Strategy”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, summary",
+    "quote": "Cambodia’s Draft National Artificial Intelligence Strategy 2025–2030, prepared by the Ministry of Post and Telecommunications",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, Name in original language",
+    "quote": "Name in original language យុទ្ធសាស្ត្រជាតិស្តីពីបញ្ញាសិប្បនិម្មិត ២០២៥–២០៣០",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/KH-01/2026-10-12/official.html",
+    "sha256": "e8d8c77cee2f04be2415128228473ea704cd8519f63535d50c6a05f49296bfbc",
+    "locator": "press release, paragraph 1",
+    "quote": "in collaboration with and supported by the United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-12/official.html",
+    "sha256": "e8d8c77cee2f04be2415128228473ea704cd8519f63535d50c6a05f49296bfbc",
+    "locator": "press release, paragraph 3",
+    "quote": "the development of the draft National AI Strategy, with MPTC serving as the lead ministry in this effort",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1 (cover)",
+    "quote": "Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "cd8eaed66b7a9f534b0510bc971c29cf67bc55efa4cd1b04b372acab16d87c88",
+    "locator": "announcement, paragraph 3",
+    "quote": "MPTC is pleased to open a public consultation on the draft Artificial Intelligence National Strategy, from today until 20 June 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1 (cover)",
+    "quote": "Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "cd8eaed66b7a9f534b0510bc971c29cf67bc55efa4cd1b04b372acab16d87c88",
+    "locator": "announcement, paragraph 4",
+    "quote": "The MPTC Working Group will review and consolidate all comments for consideration as additional input to be incorporated into the draft National Artificial Intelligence Strategy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Status: Proposed or under development Start Year: 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, header",
+    "quote": "Updated by: National contact point Updated on: 09 Jun 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1 (cover)",
+    "quote": "Draft National Artificial Intelligence Strategy 2025-2030",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, About the policy initiative",
+    "quote": "Status: Proposed or under development",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 9, III. Strategic Priorities",
+    "quote": "this strategy outlines 6 strategic priorities comprising of 41 strategic measures.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 20, Strategic Priority 5",
+    "quote": "Cambodia adopts a light-touch approach to AI governance in line with regional and global trends and builds a regulatory framework step by step as AI technology evolves, starting with strengthening supply-side regulation and direct regulation for high -risk applications.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 21, measure 5.1",
+    "quote": "5.1. Prepare the National AI Governance Framework to harmonize governance from the national through sectoral to the enterprise levels.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 21, measure 5.5",
+    "quote": "5.5. Promote and support risk assessments of the use of artificial intelligence by sector and by key institutions",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 21, measures 5.6 and 5.7",
+    "quote": "5.6. Conduct a feasibility study for setting up a (regulatory) sandbox artificial intelligence. 5.7. Study the preparation of a response mechanism for artificial intelligence incidents.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 21, flagship activity (2)",
+    "quote": "Create and disseminate datasets for safety evaluation of AI models for Cambodian context",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 21, flagship activity (3)",
+    "quote": "Prepare new regulation or update existing regulation to combat abuse of AI - generated or manipulated content",
+    "source_kind": "alt-official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 21, measure 5.9",
+    "quote": "Invest in research and training of human resources related to AI ethics, responsible AI and AI regulation.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 22, Strategic Priority 6",
+    "quote": "well as the Hiroshima AI Process Friends Group.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/KH-01/2026-10-12/official.html",
+    "sha256": "e8d8c77cee2f04be2415128228473ea704cd8519f63535d50c6a05f49296bfbc",
+    "locator": "press release, paragraph 4",
+    "quote": "the draft was submitted for 2 rounds of technical consultation with UN-ESCAP experts, held on February 19 and March 18, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "cd8eaed66b7a9f534b0510bc971c29cf67bc55efa4cd1b04b372acab16d87c88",
+    "locator": "announcement, date and paragraph 2",
+    "quote": "organized 10 bilateral and multilateral consultation meetings with those ministries and institutions between 9-20 May 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "cd8eaed66b7a9f534b0510bc971c29cf67bc55efa4cd1b04b372acab16d87c88",
+    "locator": "announcement header",
+    "quote": "Jun 1, 2025 Announcement On Progress of Preparing and Opening Public Consultation on Draft National Artificial Intelligence Strategy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "cd8eaed66b7a9f534b0510bc971c29cf67bc55efa4cd1b04b372acab16d87c88",
+    "locator": "announcement, paragraph 2",
+    "quote": "the national workshop on the draft National Artificial Intelligence Strategy will be hosted in the first week of July 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 23, V. Implementation and Monitoring and Evaluation Mechanism",
+    "quote": "The Digital Government Committee is the inter-ministerial mechanism that provides high -level coordination for the implementation of the National Artificial Intelligence Strategy.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 23, V. Implementation and Monitoring and Evaluation Mechanism",
+    "quote": "end of 2026 and 2028, MPTC will prepare an achievement report for dissemination to inform relevant parties and the public.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 23, V. Implementation and Monitoring and Evaluation Mechanism",
+    "quote": "this national strategy on artificial intelligence is a living document that can be revised as necessary.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 22, Strategic Priority 6",
+    "quote": "As a member of UNESCO, Cambodia supports the Recommendation on the Ethics of Artificial Intelligence.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored draft: risk assessments are 'by sector and by key institutions', not 'key application' as in version 1; the light-touch approach, rules against abuse of AI-generated content (5.4 and flagship 3), and the sandbox and incident-mechanism studies (5.6, 5.7) added; the implementation sentence moved to notes",
+   "safety_topics": "accountability & liability replaced by deepfakes & synthetic media (5.4 and flagship 3 on AI-generated or manipulated content) and incident reporting (5.7 on an AI incident response mechanism); the draft has no specific accountability or liability measure",
+   "notes": "rewritten from MPTC's three pages and the draft; version 1's announcement number, the 11 June date, 'some 34 ministries' and 'version 5' rest on no stored file and were removed; implementation, the living-document clause and the UNESCO, ASEAN and Hiroshima AI Process references added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The draft is dated June 2025 and MPTC opened a public consultation on it until 20 June 2025, planning a national workshop in July 2025. The OECD.AI entry, updated by Cambodia's national contact point on 9 Jun 2026 and stored on 18 Oct 2026, still lists the strategy as 'Proposed or under development'. No stored file shows an adoption. 'Draft / proposed' with legal force 'Proposed' stands.",
+  "date_reasoning": "date_published 2025-06: the draft's cover says June 2025 and MPTC's consultation announcement sets a deadline of 20 June 2025; neither gives a day for the draft itself. The announcement is posted under 1 June 2025 on MPTC's English site (in notes).",
+  "scope_reasoning": "Draft national AI strategy with a priority on ethical and responsible AI that directs a national AI governance framework, risk assessments, safety-evaluation datasets and direct regulation of high-risk applications; in scope with no note, as in version 1."
+ },
+ "extra_urls": [
+  {
+   "url": "https://api.oecd.ai/storage//policy-initiatives/Apr2026/117ojpi25umod2xb23-Cambodia%20National%20Ai%20strategy.pdf",
+   "reason": "The draft strategy itself, linked as 'Official PDF' from the stored OECD.AI entry. (stored in this run)"
+  },
+  {
+   "url": "https://mptc.gov.kh/en/2025/06/announcement-on-progress-of-preparing-and-opening-public-consultation-on-draft-national-artificial-intelligence-strategy/",
+   "reason": "MPTC's announcement opening the public consultation on the draft. (stored in this run)"
+  },
+  {
+   "url": "https://mptc.gov.kh/en/2025/05/his-excellency-secretary-of-state-keo-sothie-chairs-consultation-meetings-with-ministries-and-institutions-on-the-draft-national-artificial-intelligence-strategy/",
+   "reason": "MPTC's release on the May 2025 consultation meetings with ministries and institutions. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "No stored file shows what happened after the July 2025 national workshop. MPTC's site was not searched for an adoption decision or a final version, and the OECD.AI entry of June 2026 still lists the strategy as a draft. A later refresh should check MPTC's policies page for a final text."
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "cand_id": "SG-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "MDDI newsroom gives 26 May 2022; IMDA copy carries dateline Davos 25 May 2022. Kept as published; the extractor opened a question."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "8 of 11 principles selected for the MVP, grouped in 5 pillars",
+   "verdict": "supported",
+   "locator": "document-1.pdf page 2"
+  },
+  {
+   "claim": "does not guarantee any tested system is free from risks or biases",
+   "verdict": "supported",
+   "locator": "official.html para 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes support the fields. The two official dates for the launch (25/26 May 2022) are reported as an open question; the record keeps 26 May. Targeted search for an amendment, repeal or newer edition found nothing on an official site."
+}

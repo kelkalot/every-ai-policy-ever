@@ -1,0 +1,61 @@
+{
+ "cand_id": "IN-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Only a secondary reproduction (TeamLease RegTech) quotes the commencement clause; the stored MeitY consolidated text does not state it. The record stays level B/C on that field."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "SGI definition in rule 2(1)(wa)",
+   "verdict": "supported",
+   "locator": "page 4"
+  },
+  {
+   "claim": "Permanent metadata or unique identifier where technically feasible",
+   "verdict": "supported",
+   "locator": "rule 3(3)(a)(ii), p. 12"
+  },
+  {
+   "claim": "SSMIs must require user declarations",
+   "verdict": "supported",
+   "locator": "rule 4(1A)(a), p. 14"
+  },
+  {
+   "claim": "Deadlines cut from 36 to 3 hours, 24 to 2 hours, 15 to 7 days, 72 to 36 hours",
+   "verdict": "supported",
+   "locator": "footnotes to rules 3(1)(d), 3(2), 3(1)(j)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search for a later notification: no second amendment notification found; the 30 March 2026 draft (Khaitan note, stored, secondary) is described in the notes as a draft, which is what the sources show. All fields check against the stored MeitY consolidated text. The commencement date of 20 February 2026 rests on a secondary source only."
+}

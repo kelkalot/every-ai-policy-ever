@@ -1,0 +1,174 @@
+{
+ "cand_id": "IN-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IN-02",
+ "record": {
+  "summary": "India's national AI governance framework. It sets seven guiding principles or sutras (trust, people first, innovation over restraint, fairness and equity, accountability, understandable by design, and safety, resilience and sustainability) and recommendations across six pillars, including an India-specific risk assessment framework based on evidence of harm, a graded liability system, voluntary measures backed by techno-legal solutions, a national AI incident database, and new bodies: an AI Governance Group, a Technology & Policy Expert Committee and the AI Safety Institute. It finds that existing laws can address many risks and that a separate AI law is not needed at this stage.",
+  "safety_topics": [
+   "risk-based classification",
+   "incident reporting",
+   "accountability & liability",
+   "safety institute",
+   "transparency & labelling",
+   "deepfakes & synthetic media"
+  ],
+  "notes": "A drafting committee constituted by MeitY in July 2025 and chaired by Prof. Balaraman Ravindran (IIT Madras) wrote the guidelines. It built on a draft report by a sub-committee on AI governance under the Principal Scientific Adviser's advisory group, which MeitY published for public feedback and which drew more than 2,500 submissions; that draft is superseded by these guidelines. The seven sutras are adapted from the Reserve Bank of India's FREE-AI Committee report. Principal Scientific Adviser Prof. Ajay Kumar Sood unveiled the guidelines on 5 Nov 2025, calling 'Do No Harm' the guiding principle of the framework, ahead of the India-AI Impact Summit (New Delhi, 19-20 Feb 2026). PIB published an explainer on 15 Feb 2026 for the Summit. India has no AI-specific statute.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. The official_url (IndiaAI article on indiaai.gov.in) could not be stored on any attempt (robots.txt unreachable, DNS failures, then a TLS certificate that could not be verified); copies of the PIB release on digitalindia.gov.in and negd.gov.in returned HTTP 403. Stored: the PIB release of 5 Nov 2025 (PRID 2186639, pib.gov.in, the secondary_url), the guidelines document itself (static.pib.gov.in, 68 pages) and PIB's explainer of 15 Feb 2026 (static.pib.gov.in). The guidelines confirm the title, MeitY's drafting committee, the four parts, the sutras, the six pillars, the institutions, the incident database, the risk framework, the voluntary approach and the finding that a separate AI law is not needed. The guidelines carry no date; the date of 5 Nov 2025 and the unveiling rest on the PIB release, which was stored as the record's secondary source and so counts as another official source. The guidelines do not use the phrase 'Do No Harm'; it is the Principal Scientific Adviser's description at the launch, so it moved from the summary to the notes. The explainer of 15 Feb 2026 says the guidelines were 'releasing in AI Impact Summit 2026', which reads as a reference to the Summit rather than a second release."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 1 (cover)",
+    "quote": "India AI Governance Guidelines Enabling Safe and Trusted AI Innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-e4c83c1a20/2026-10-18/official.pdf",
+    "sha256": "1d6ba4f89e757b53a99386daa785d25306069adf803bba307867cd4c6b3e5823",
+    "locator": "page 1, heading",
+    "quote": "India AI Governance Guidelines Enabling Safe and Trusted AI Innovation",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 7, Executive Summary",
+    "quote": "A drafting committee (Committee) constituted by the Ministry of Electronics and Information Technology (MeitY) in July 2025 was tasked with developing a framework that balances these two objectives.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-02/2026-10-18/secondary.html",
+    "sha256": "c6ed15b33827f8f809ec8336dea86849ced702003467604ae32ac849ab00acc9",
+    "locator": "PIB release PRID 2186639, first paragraph",
+    "quote": "The Ministry of Electronics and Information Technology (MeitY), under the IndiaAI Mission, today unveiled the India AI Governance Guidelines",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/IN-02/2026-10-18/secondary.html",
+    "sha256": "c6ed15b33827f8f809ec8336dea86849ced702003467604ae32ac849ab00acc9",
+    "locator": "PIB release PRID 2186639, Posted On and first paragraph",
+    "quote": "Posted On: 05 NOV 2025 2:34PM by PIB Delhi The Ministry of Electronics and Information Technology (MeitY), under the IndiaAI Mission, today unveiled the India AI Governance Guidelines",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-e4c83c1a20/2026-10-18/official.pdf",
+    "sha256": "1d6ba4f89e757b53a99386daa785d25306069adf803bba307867cd4c6b3e5823",
+    "locator": "page 1, Key Takeaways",
+    "quote": "India adopts a principle-based AI governance framework anchored in seven Sutras to enable safe, trusted, and inclusive AI innovation across sectors.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 7, Executive Summary",
+    "quote": "After extensive research, deliberations, and a review of public feedback, the Committee presents this governance framework in four parts:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 8, Key Recommendations, 04 Risk Mitigation",
+    "quote": "Encourage compliance through voluntary measures supported by techno-legal solutions as appropriate.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 12, Overview of India's AI Governance Framework",
+    "quote": "Therefore, at this stage, a separate law to regulate AI is not needed given the current assessment of risks.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 8, Key Recommendations, 04 Risk Mitigation",
+    "quote": "Develop an India-speciﬁc risk assessment framework that reﬂects real-world evidence of harm.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 8, Key Recommendations, 05 Accountability",
+    "quote": "Adopt a graded liability system based on the function performed, level of risk, and whether due diligence was observed.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 28, Incident Reporting",
+    "quote": "The database should be a national-level centralised system that has the ability to query and collect data from smaller, local databases in a federated manner.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 8, Key Recommendations, 06 Institutions",
+    "quote": "An AI Governance Group (AIGG) should be set up, to be supported by a Technology & Policy Expert Committee (TPEC).",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 49, Annexure 1",
+    "quote": "The subcommittee prepared a draft report which was published by MeitY for public feedback. More than 2,500 submissions were received",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-02/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 7, Part 1 - Key Principles",
+    "quote": "Seven guiding principles or sutras have been adapted from the RBI’s FREE-AI Committee report to guide the overall approach.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-02/2026-10-18/secondary.html",
+    "sha256": "c6ed15b33827f8f809ec8336dea86849ced702003467604ae32ac849ab00acc9",
+    "locator": "PIB release PRID 2186639, quote of the Principal Scientific Adviser",
+    "quote": "The guiding principle that defines the spirit of the framework is simple, ‘Do No Harm’.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IN-02/2026-10-18/secondary.html",
+    "sha256": "c6ed15b33827f8f809ec8336dea86849ced702003467604ae32ac849ab00acc9",
+    "locator": "PIB release PRID 2186639, last paragraph",
+    "quote": "as the country prepares to host the India AI Impact Summit 2026 on 19–20 February 2026 in New Delhi",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the guidelines: the sutras named, the risk assessment framework, graded liability, voluntary techno-legal measures, the national incident database, the institutions and the finding on a separate law; 'with Do No Harm at the core' removed from the summary because the guidelines do not say it (the PSA said it at the launch; now in the notes)",
+   "safety_topics": "reduced from 7 to 6 (the limit is 6): evaluation & testing dropped as the least central; the others are supported by the guidelines (risk assessment framework, incident database, graded liability, AISI, content authentication and deepfakes)",
+   "notes": "rewritten from the stored guidelines and PIB release: drafting committee, sub-committee draft and its 2,500+ submissions, FREE-AI origin of the sutras, the PSA's 'Do No Harm'; the unsupported title 'Report on AI Governance Guidelines Development' and the consultation date of 6 Jan 2025 dropped (no stored file shows them); the remark on the Digital India Act moved out",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "Unveiled by MeitY on 5 Nov 2025 and presented by PIB in February 2026 as the framework India adopts; nothing stored shows them withdrawn or replaced. Voluntary guidelines: Published (non-binding, current).",
+  "scope_reasoning": "A national AI governance framework whose main content is risk governance and institutions for AI safety; in scope with no note.",
+  "level_note": "The date rests on the PIB release stored as the record's secondary source, which the evidence script caps at alt-official; title and status rest on the guidelines PDF and the PIB explainer (official). Expected level B."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published (2025-11-05) has only alt-official support: the guidelines are undated and the only stored dated source is the PIB release stored as the record's secondary source, so the record computes to level B. The official_url (indiaai.gov.in article) cannot be stored; the guidelines PDF on static.pib.gov.in (https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), stored in this run, could serve as official_url. Changing it is left to a person, since changing a URL resets the record's local copy."
+ ]
+}

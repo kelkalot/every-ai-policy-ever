@@ -1,0 +1,52 @@
+{
+ "cand_id": "PK-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Decisions of public consequence stay under accountable human oversight; scale follows proof of impact",
+   "verdict": "supported",
+   "locator": "principles 02 and 03"
+  },
+  {
+   "claim": "Government AI systems explainable, auditable and proportionate to risk",
+   "verdict": "supported",
+   "locator": "principle 05"
+  },
+  {
+   "claim": "Coordinated national governance avoiding fragmentation and vendor dependency",
+   "verdict": "supported",
+   "locator": "principle 06"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing record has no scope note; a declaration of principles for government AI use with accountability and auditability duties, included as core by the register's rules on intergovernmental and national declarations."
+ },
+ "overall": "accept",
+ "note": "Targeted search for a later version: press reports and a 20 February 2026 press release (GlobeNewswire, not official) say the government formally adopted the declaration and asked the Pakistan Digital Authority for an AI supervisory framework. The PID release of 9 February 2026 (official) does not say this, and no official page was found, so nothing is added. Fields match the stored MoITT page."
+}

@@ -1,0 +1,148 @@
+{
+ "cand_id": "PK-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PK-02",
+ "record": {
+  "summary": "Declaration of nine principles for a sovereign, private-sector-led approach to AI, published by Pakistan's Ministry of IT and Telecommunication. It keeps decisions of public consequence under accountable human oversight, deploys AI where it demonstrably improves outcomes and scales it only after proof of impact, governs national, state and citizen data under Pakistan's laws, requires AI systems in government that affect public rights or critical state functions to be explainable, auditable and proportionate to risk, and calls for coordinated national AI governance that avoids fragmentation and vendor dependency.",
+  "safety_topics": [
+   "human oversight",
+   "accountability & liability",
+   "public-sector use",
+   "transparency & labelling",
+   "international cooperation"
+  ],
+  "notes": "Issued in Islamabad on 9 Feb 2026 and published on MoITT's website under 'AI Declaration'. Besides its principles for government AI, the declaration commits Pakistan to invest in national talent, enable responsible innovation through controlled environments, develop sovereign compute capacity, and engage in international partnerships on interoperable standards and ethical norms.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: MoITT's 'AI Declaration' page (moitt.gov.pk, copy of 18 Oct 2026; its text differs from the copy of 11 Oct 2026 only by a new menu item), which gives the title, the place and date (Islamabad, 9 February 2026), the nine principles and the conclusion. Version 1's note that the declaration was issued shortly before the India-AI Impact Summit rests on no stored file and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "page heading",
+    "quote": "ISLAMABAD AI DECLARATION On Sovereign, Responsible, and Capability-Driven Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "page footer",
+    "quote": "Ministry of Information Technology & Telecommunication Government of Pakistan Quick Links",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "page heading",
+    "quote": "ISLAMABAD | 9 FEBRUARY 2026 ISLAMABAD AI DECLARATION",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "page heading",
+    "quote": "AI Declaration ISLAMABAD | 9 FEBRUARY 2026 ISLAMABAD AI DECLARATION",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "02 Human accountability, constitutional authority",
+    "quote": "Decisions of public consequence shall remain under accountable human oversight, supported by review, due process, and institutional responsibility.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "03 Pragmatic delivery, use case first",
+    "quote": "AI shall be deployed where it demonstrably improves economic productivity, service delivery, operational execution, and decision support. Scale shall follow proof of impact.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "04 Sovereign data, trusted stewardship",
+    "quote": "National, state, and citizen data shall be governed under Pakistan’s laws and sovereign interests.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "05 Explainable, auditable, risk proportionate systems",
+    "quote": "AI systems deployed in government, particularly those affecting public rights or critical state functions, shall be explainable, auditable, and proportionate to risk.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "06 Coordinated, whole of government governance",
+    "quote": "Artificial Intelligence shall be governed through coordinated national oversight, avoiding fragmentation and vendor dependency.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "introduction",
+    "quote": "Pakistan affirms a sovereign and inclusive approach to Artificial Intelligence, led by the private sector and enabled by government",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "09 Global leadership, responsible AI diplomacy",
+    "quote": "Pakistan shall engage in principled international partnerships to advance interoperable standards and ethical norms.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "07 Capability, inclusion, responsible innovation",
+    "quote": "Pakistan shall invest in national talent, enable responsible innovation through controlled environments, and ensure AI narrows social divides.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-02/2026-10-18/official.html",
+    "sha256": "957b2bcdc826fe84eec30a5fa256edb2eb3505ffb6af1ebcb708ef77fed6e4e4",
+    "locator": "08 Private-sector-led, sovereign compute",
+    "quote": "Pakistan shall enable a competitive, private-sector-led AI economy while developing sovereign compute capacity and resilient digital infrastructure.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten closer to the text: principle 03 (deploy where AI demonstrably improves outcomes, scale after proof of impact), principle 04 covers national, state and citizen data, and principle 05 applies to government AI affecting public rights or critical state functions",
+   "safety_topics": "added international cooperation: principle 09 commits Pakistan to international partnerships on interoperable standards and ethical norms",
+   "notes": "version 1's link to the India-AI Impact Summit rests on no stored file and was removed; its scope remark ('included because ...') belongs to the scope reasoning, not the notes; principles 07 to 09 summarised",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status"
+  ],
+  "status_reasoning": "The declaration was issued on 9 February 2026 and MoITT still publishes it under 'AI Declaration' in its menu on 18 Oct 2026. A declaration does not enter into force; nothing stored shows a withdrawal. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2026-02-09 is the dateline 'ISLAMABAD | 9 FEBRUARY 2026' on the page.",
+  "scope_reasoning": "A national government declaration setting AI principles that include accountable human oversight and explainable, auditable, risk-proportionate government AI systems; in scope as a government AI policy statement with risk-governance content. No scope_note: its principles are mainly about governance and safeguards for AI."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

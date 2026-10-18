@@ -1,0 +1,55 @@
+{
+ "cand_id": "PK-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "31 July 2025 from MoITT's policies page (stored as the secondary source; alt-official, level B). The PDF is undated."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "unsupported",
+   "why": "The MoITT part is supported by the policy PDF, but 'approved by the Federal Cabinet' is stated in no stored file. MoITT's announcement returned HTTP 500 to the archiver. Press reports (Business Recorder, Tribune, Aaj) say the Cabinet approved it on 30 July 2025."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI Council chaired by the Federal Minister for IT and Telecom",
+   "verdict": "supported",
+   "locator": "page 22"
+  },
+  {
+   "claim": "AI Directorate under NCPDP issues guidelines on disinformation, privacy breaches and fake news",
+   "verdict": "supported",
+   "locator": "pages 15, 26"
+  },
+  {
+   "claim": "Public register of public-sector AI systems, lifecycle evaluations of high-impact systems, third-party audits with redress",
+   "verdict": "supported",
+   "locator": "page 14, 3.2"
+  },
+  {
+   "claim": "Regulatory sandbox",
+   "verdict": "supported",
+   "locator": "page 16, 3.8"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  "https://moitt.gov.pk/SliderDetail/NWIyMzEwYzktYTIwYy00ZTk0LWI5ODUtYjg5NjZmYTYyMTg2"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Targeted search found MoITT's own announcement of the approval (official host, HTTP 500 on the archiver, so not stored) and several press reports of Cabinet approval on 30 July 2025, one day before the 31 July date on MoITT's policies page. The record's issuing body names Cabinet approval, which no stored file shows; this is a value the run leaves as published, so the run's summary and notes corrections can merge while the question stays open. Retry the announcement with the browser or have a person provide it."
+}

@@ -1,0 +1,281 @@
+{
+ "cand_id": "SG-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-05",
+ "record": {
+  "official_identifier": "Act 34 of 2024",
+  "date_in_force": "2025-01-22",
+  "secondary_url": "https://www.eld.gov.sg/Resources/01%20Parliamentary%20Elections%20Act%201954.pdf",
+  "notes": "Introduced as Bill No. 29/2024, read the first time on 9 Sep 2024; Minister Josephine Teo moved the second reading on 15 Oct 2024, and the second and third readings took place that day. The Act commenced on 22 Jan 2025. It inserts s. 61MA into the Parliamentary Elections Act 1954 and s. 42LA into the Presidential Elections Act 1991, extends the Returning Officer's corrective directions to the new offence and lets candidates request them; a candidate who knowingly makes a false or misleading declaration in a request commits an illegal practice. The ban does not apply to private or domestic communications or to news published by authorised news agencies, and a person who did not know and had no reason to believe that the representation was false has a defence. In the second-reading speech the Minister also announced a Code of Practice under the Protection from Online Falsehoods and Manipulation Act requiring social media services to counter digitally generated or manipulated content at all times, to be issued in 2025.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: Bill No. 29/2024 on parliament.gov.sg (copy of 11 Oct 2026, unchanged when checked on 18 Oct 2026), which gives the short title of the Act, the first reading, the offences, penalties and corrective directions; Minister Josephine Teo's second-reading speech of 15 Oct 2024 on MDDI's newsroom (secondary source, copy of 18 Oct 2026); and, stored in this run, the Elections Department's informal consolidation of the Parliamentary Elections Act 1954 (eld.gov.sg, version in force from 28 Mar 2025), whose legislative history lists Act 34 of 2024 with Bill 29/2024, first reading 9 Sep 2024, second and third readings 15 Oct 2024 and commencement 22 Jan 2025, and whose s. 61MA and related provisions carry the annotation '[Act 34 of 2024 wef 22/01/2025]'. The Act as published in the Acts Supplement on Singapore Statutes Online could not be stored (HTTP 403, also with the browser), so the date of assent is not recorded and the official_url remains the Bill as introduced. Version 1's identifier (the Bill number with the inserted sections in parentheses) is replaced by the Act number; the sections are in the notes. Version 1's account of first use at the 2025 General Election came from a law firm (Baker McKenzie), and its remark on the Online Safety (Relief and Accountability) Act 2025 rests on no stored file; both were removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 2, clause 1",
+    "quote": "This Act is the Elections (Integrity of Online Advertising) (Amendment) Act 2024 and comes into operation on a date that the Minister appoints by notification in the Gazette.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 282, legislative history, entry 91",
+    "quote": "91. Act 34 of 2024 — Elections (Integrity of Online Advertising) (Amendment) Act 2024 (Amendments made by the above Act) Bill : 29/2024",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 1, enacting formula",
+    "quote": "Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "header",
+    "quote": "SECOND READING OPENING SPEECH BY MINISTER JOSEPHINE TEO ON THE ELECTIONS (INTEGRITY OF ONLINE ADVERTISING) (AMENDMENT) BILL, 15 OCT 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 282, legislative history, entry 91",
+    "quote": "First Reading : 9 September 2024 Second and Third Readings : 15 October 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 282, legislative history, entry 91",
+    "quote": "Second and Third Readings : 15 October 2024 Commencement : 22 January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 282, legislative history, entry 91",
+    "quote": "Elections (Integrity of Online Advertising) (Amendment) Act 2024 (Amendments made by the above Act) Bill : 29/2024 First Reading : 9 September 2024 Second and Third Readings : 15 October 2024 Commencement : 22 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 149, after s. 61MA(5)",
+    "quote": "nominated as a candidate for that election. [Act 34 of 2024 wef 22/01/2025]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 1",
+    "quote": "Informal Consolidation – version in force from 28/3/2025",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 1, enacting formula",
+    "quote": "Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 282, legislative history, entry 91",
+    "quote": "Second and Third Readings : 15 October 2024 Commencement : 22 January 2025",
+    "source_kind": "official"
+   }
+  ],
+  "secondary_url": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 1",
+    "quote": "P ARLIAMENT AR Y ELECTIONS ACT 1954 2020 REVISED EDITION",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 7, s. 42LA(1)(e) of the Presidential Elections Act (same wording as s. 61MA(1)(e) on page 3)",
+    "quote": "the representation is realistic enough such that it is likely that some",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 4",
+    "quote": "The technology known as generative artificial intelligence is an example of digital means by which content could be generated or manipulated.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 4, s. 61MA(2)",
+    "quote": "shall be liable on conviction by a District Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 9, s. 42M(2) of the Presidential Elections Act (same wording as s. 61N(2) on page 5)",
+    "quote": "in the case of a provider of a social media service — to a fine not exceeding $1,000,000",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 10, explanatory statement",
+    "quote": "The Returning Officer's power to issue corrective directions under section 61N(1) is extended to online election advertising that contravenes the new section 61MA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "para 24",
+    "quote": "The publication of such prohibited content during the election period, including by boosting, sharing, and reposting existing content, will be an offence.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "para 17",
+    "quote": "It also includes non-AI techniques such as Photoshop, dubbing, and splicing.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "para 31",
+    "quote": "the enhanced safeguards will apply during the election period, from the issuance of the Writ of Election to the close of polling on Polling Day.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 1",
+    "quote": "Bill No. 29/2024. Read the first time on 9 September 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-05/extra-e1eb34f292/2026-10-18/official.pdf",
+    "sha256": "e78812c63d6bec07a698e164fc97524f6c51bfe8a49d827d6ce913bd7d8f389d",
+    "locator": "page 282, legislative history, entry 91",
+    "quote": "First Reading : 9 September 2024 Second and Third Readings : 15 October 2024 Commencement : 22 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "para 1",
+    "quote": "Madam Deputy Speaker, I beg to move, \"That the Bill be now read a second time.\"",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 1, long title",
+    "quote": "An Act to amend the Parliamentary Elections Act 1954 and the Presidential Elections Act 1991 to prohibit the publication of online election advertising containing certain digitally generated or manipulated content about candidates",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 5, s. 61N(2B)",
+    "quote": "A candidate commits an illegal practice if he or she —",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 4, s. 61MA(4)",
+    "quote": "any communication of content between 2 or more individuals that is of a private or domestic nature by electronic means;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 4, s. 61MA(4)(b)",
+    "quote": "any publication of any news relating to an election by an authorised news agency;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-11/official.pdf",
+    "sha256": "e60ed3752dcece448181ead5262dbaaf57f62ebbc205aba49eedb3daaa1b8792",
+    "locator": "page 4, s. 61MA(3)",
+    "quote": "it is a defence for the person charged to prove, on a balance of probabilities, that the person did not know and had no reason to believe that the candidate did not in fact say or do the thing",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "para 57",
+    "quote": "will be required to prevent and counter the abuse of digitally generated or manipulated content at all times through an upcoming Code of Practice under POFMA",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-05/2026-10-18/secondary.html",
+    "sha256": "ed93416cc9d2f2cbf5074d4c279f189e0719aba0777bbe8c14405fcd52b40c94",
+    "locator": "para 58",
+    "quote": "we intend to finalise the Code for issuance in 2025",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "the Act number, Act 34 of 2024, from the ELD consolidation's legislative history; version 1 gave the Bill number with a description of the inserted sections (moved to the notes)",
+   "date_in_force": "commencement on 22 Jan 2025 (ELD consolidation, legislative history and annotations '[Act 34 of 2024 wef 22/01/2025]'); version 1 left it null",
+   "secondary_url": "the ELD consolidation, stored in this run, is the only stored source for the Act number, passage and commencement; the second-reading speech it replaces as secondary_url stays as evidence in this run",
+   "notes": "readings, passage and commencement from the ELD consolidation; version 1's first use at GE2025 (law-firm reports), its remark on the unconfirmed gazette number and on the Online Safety (Relief and Accountability) Act 2025 rest on no stored file and were removed; inserted sections, exclusions, the defence and the POFMA Code of Practice added from the Bill and the speech",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The ELD consolidation's legislative history gives commencement on 22 Jan 2025, and the consolidated Act (version in force from 28 Mar 2025) contains s. 61MA with the annotation '[Act 34 of 2024 wef 22/01/2025]'. 22 Jan 2025 is before today (18 Oct 2026), and nothing stored shows a repeal. 'In force' stands, now with date_in_force 2025-01-22. Binding as an Act of Parliament.",
+  "date_reasoning": "date_published 2024-10-15 is the date of the second and third readings, i.e. passage by Parliament (ELD legislative history). The date of assent is in the Acts Supplement on Singapore Statutes Online, which could not be stored; passage is kept as the adoption date. date_in_force 2025-01-22 is the commencement date.",
+  "scope_reasoning": "A law that is not AI-specific in form but whose operative content targets digitally generated or manipulated content, with generative AI given as the example; version 1 has it in scope with no scope_note and the precedents (operative instrument for deepfakes) would at most add a note. Left unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.eld.gov.sg/Resources/01%20Parliamentary%20Elections%20Act%201954.pdf",
+   "reason": "Stored in this run (round 1 request): the Elections Department's informal consolidation of the Parliamentary Elections Act 1954; now the proposed secondary_url."
+  },
+  {
+   "url": "https://sso.agc.gov.sg/Acts-Supp/34-2024/Published/20241121?DocDate=20241121",
+   "reason": "Requested in round 1; not stored (HTTP 403, also in the browser). The Act as enacted, with its date of assent; left for a person to provide if wanted."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The Act as enacted (Acts Supplement, Act 34 of 2024, on sso.agc.gov.sg) could not be stored: the site answered HTTP 403 to the archiver and to the browser retry. The record's official_url is still the Bill as introduced, and the date of assent is not recorded. A maintainer can provide the Acts Supplement PDF with 'Provide a document' if the enacted text and assent date should be stored."
+ ]
+}

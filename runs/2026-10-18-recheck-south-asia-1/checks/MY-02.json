@@ -1,0 +1,50 @@
+{
+ "cand_id": "MY-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "judgment-differs",
+   "why": "The code itself is behind a reCAPTCHA form and not stored; the page supports 'accountable' and 'human-centred' only, not transparency or human oversight explicitly. The run does not change the topics and the extractor raised this as an open question."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Operational bridge between the seven AIGE principles and design, development and deployment",
+   "verdict": "supported",
+   "locator": "AICE page introduction"
+  },
+  {
+   "claim": "Intended for organisations, developers, deployers, researchers",
+   "verdict": "supported",
+   "locator": "FAQ 'Who should use AICE?'"
+  },
+  {
+   "claim": "Complements and does not replace legal requirements",
+   "verdict": "supported",
+   "locator": "FAQ and download form acknowledgement"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search: no newer version; press reports are inconsistent on the launch timing (a May 2026 event page called it proposed) and the page gives no date, so date_published stays null, which is honest. Topics rest on version 1 and cannot be checked until a person provides the code; the open question covers it."
+}

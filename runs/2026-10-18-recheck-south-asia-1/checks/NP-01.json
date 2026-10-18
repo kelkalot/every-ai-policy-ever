@@ -1,0 +1,73 @@
+{
+ "cand_id": "NP-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Year 2025 only, from the English title on the cover; the day of 11 August 2025 rests on The Himalayan Times (secondary) and stays in the notes."
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "language": {
+   "verdict": "supported",
+   "why": "The official text is Nepali (stored, 32 pages); the English text is a government translation."
+  },
+  "english_version": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Action policy 9.53: AI governance framework to classify AI systems by risk",
+   "verdict": "supported",
+   "locator": "page 15"
+  },
+  {
+   "claim": "Benchmarking, standardisation and certification of AI systems",
+   "verdict": "supported",
+   "locator": "page 10, action policy 9.5"
+  },
+  {
+   "claim": "Regulatory sandbox for safe development and testing",
+   "verdict": "supported",
+   "locator": "action policy 9.10 (Nepali text, page 8-9)"
+  },
+  {
+   "claim": "AI Regulation Council chaired by the ICT minister; Member Secretary is chief of the National AI Centre",
+   "verdict": "supported",
+   "locator": "section 10.1, pages 17-18"
+  },
+  {
+   "claim": "Council meets at least twice a year; policy reviewed every two years",
+   "verdict": "supported",
+   "locator": "pages 18, 22"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search for an amendment or new version: none found. The Nepali text's text layer is garbled, so I checked the sandbox clause against the English text and the garbled Nepali layer only roughly. Original title matches the Nepal Law Commission page. Whether to make the Nepali PDF the official_url is left to a person."
+}

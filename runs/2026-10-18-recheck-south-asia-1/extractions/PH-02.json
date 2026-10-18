@@ -1,0 +1,232 @@
+{
+ "cand_id": "PH-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PH-02",
+ "record": {
+  "summary": "Bill to enact a National Artificial Intelligence Code and create a Bureau of Artificial Intelligence Systems (BAIS) under the DICT as national AI regulator, with a registry, permits and power to suspend unsafe systems. BAIS would classify high-risk AI by effect on rights, use in critical sectors, autonomy and scale, and subject it to pre-deployment review, registration and audits; deployers must disclose AI use. The bill prohibits undisclosed deception or manipulation, autonomous systems without human intervention and exploitation of vulnerable groups, sets sector rules, criminalises deepfake impersonation and creates an AI Safety Research Fund.",
+  "safety_topics": [
+   "risk-based classification",
+   "prohibited practices",
+   "human oversight",
+   "transparency & labelling",
+   "accountability & liability",
+   "deepfakes & synthetic media"
+  ],
+  "notes": "Filed in the House on 4 February 2026 by Rep. Ma. Nina Francesca P. Lacson (Manila Teachers Party-list). The explanatory note calls the measure an 'Artificial Intelligence Regulation Act', while Section 1 gives the short title 'National Artificial Intelligence Code of the Philippines'. Fines reach PHP 5 million for deploying high-risk AI without registration, review or documentation (Sec. 30) and PHP 2 million for failing to disclose AI use (Sec. 31); unauthorised biometric surveillance, deepfake impersonation and deceptive political or financial manipulation carry six months to six years in prison (Sec. 32). Deployers must report unanticipated or emergent behaviour (Sec. 67); BAIS would keep a registry of systems that need kill-switches or human failover (Sec. 68) and a foresight unit on advanced AI, including artificial general intelligence (Sec. 70). The Act would take effect 15 days after publication (Sec. 84), with implementing rules within 90 days (Sec. 80) and the Code of AI Regulations within 180 days (Sec. 78).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the bill's PDF from the House of Representatives' legislative documents server (docs.congress.hrep.online, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026; 32 pages), which carries the filing stamp of 4 February 2026 with the number 7627, the author, the explanatory note and Sections 1 to 84. The committee referral and any later stage are not in a stored file; version 1 took the referral to the Committee on Information and Communications Technology from the Foundation for Media Alternatives tracker. Version 1's notes on other House and Senate AI bills rested on press, a tracker and bill PDFs that were not stored, and were removed; they are listed as leads."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 3",
+    "quote": "AN ACT INSTITUTING THE NATIONAL ARTIFICIAL INTELLIGENCE CODE OF THE PHILIPPINES, CREATING THE BUREAU OF ARTIFICIAL INTELLIGENCE SYSTEMS UNDER THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 3",
+    "quote": "AND ESTABLISHING A COMPREHENSIVE FRAMEWORK FOR THE SAFE, ETHICAL, AND INCLUSIVE GOVERNANCE OF ARTIFICIAL INTELLIGENCE SYSTEMS IN THE COUNTRY",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 3",
+    "quote": "TWENTIETH CONGRESS OF THE ) REPUBLIC OF THE PHILIPPINES ) First Regular Session HOUSE OF REPRESENTATIVES HOUSE BILL NO. ____ Introduced by REPRESENTATIVE MA. NINA FRANCESCA P. LACSON",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 1, filing stamp",
+    "quote": "February 4, 2026 4:44 pm 7627",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 1",
+    "quote": "TWENTIETH CONGRESS OF THE ) REPUBLIC OF THE PHILIPPINES ) First Regular Session HOUSE OF REPRESENTATIVES HOUSE BILL NO.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 1, filing stamp",
+    "quote": "February 4, 2026 4:44 pm 7627",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 1, filing stamp",
+    "quote": "February 4, 2026 4:44 pm 7627",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 3",
+    "quote": "Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 31, Sec. 84",
+    "quote": "SEC. 84. Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 8, Sec. 6",
+    "quote": "The BAIS shall serve as the national regulatory, technical, investigatory, and administrative body on matters relating to the governance of Artificial Intelligence systems in the Philippines.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 12, Sec. 14",
+    "quote": "High-risk AI systems shall be subject to pre-deployment review, mandatory registration, risk mitigation requirements, and continuous audit under this Code.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 13, Sec. 18",
+    "quote": "(b) Deployment of autonomous AI systems in contexts where there is no effective mechanism for human intervention, such as law enforcement use of lethal force",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 19, Sec. 32",
+    "quote": "(b) Deepfake impersonation of public officials or real individuals without consent",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 22, Sec. 43",
+    "quote": "There is hereby created an AI Safety Research Fund, to be administered by the BAIS",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 1",
+    "quote": "This bill seeks to establish a comprehensive and future-ready Artificial Intelligence Regulation Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 3, Sec. 1",
+    "quote": "This Act shall be known as the \"National Artificial Intelligence Code of the Philippines.\"",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 27, Sec. 67",
+    "quote": "shall report the event to the BAIS without delay",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 27, Sec. 68",
+    "quote": "shall maintain a registry of AI systems that require kill-switches or human failover protocols",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 27, Sec. 70",
+    "quote": "including Artificial General Intelligence, autonomous weapons, machine personhood claims",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 16, Sec. 26",
+    "quote": "(b) Label all political, journalistic, or commercial material that involves synthetic or altered output",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-02/2026-10-11/official.pdf",
+    "sha256": "6fd0c989c3edf0fb10986edb3f25ae501235607947662bb878a192843d6d49eb",
+    "locator": "page 19, Sec. 32",
+    "quote": "(b) Deepfake impersonation of public officials or real individuals without consent",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored bill: version 1's opening ('One of the most comprehensive AI regulation bills pending') is an evaluation resting on no stored file; registry, permits, suspension powers, deepfake offence and the AI Safety Research Fund added",
+   "safety_topics": "'child safety' replaced by 'deepfakes & synthetic media': labelling of synthetic content (Sec. 26) and the deepfake impersonation offence (Sec. 32(b)) are operative provisions, while minors appear only in the policy declaration (Sec. 2) and among vulnerable groups (Sec. 18(c)); six topics is the maximum",
+   "notes": "rewritten to the stored bill; the committee referral (FMA tracker) and the list of other House and Senate AI bills rest on no stored file and were removed (other bills listed as leads)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored bill shows only its filing on 4 Feb 2026 in the First Regular Session of the 20th Congress. Nothing stored shows approval on second or third reading, replacement by a substitute bill, or lapse; a bill pending in the current Congress stays 'Draft / proposed' with legal_force 'Proposed'.",
+  "date_reasoning": "date_published 2026-02-04 is the House filing stamp ('February 4, 2026 4:44 pm 7627').",
+  "scope_reasoning": "A comprehensive AI regulation bill; pending bills are in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Artificial Intelligence Development and Regulation Act: substitute bill of the House Committee on Information and Communications Technology (20th Congress), consolidating 26 House bills; technical working group chaired by Rep. Javier Miguel Benitez",
+   "url": null,
+   "seen_in": "https://www.philstar.com/business/technology/2026/07/14/2542095/proposed-ai-bill-gains-momentum-congress",
+   "why": "May absorb HB 7627 (PH-02); once a committee report or bill number exists it is a new record and may change PH-02's status."
+  },
+  {
+   "title": "House Bill No. 9465, Digital Media Anti-False Information Act (approved on third reading on 3 June 2026)",
+   "url": null,
+   "seen_in": "https://mb.com.ph/2026/06/04/house-oks-anti-fake-news-troll-farms-bill-on-3rd-reading",
+   "why": "Covers AI-generated or manipulated content released without disclosure; possibly in scope with a scope_note as the operative instrument on deepfake disinformation."
+  },
+  {
+   "title": "Senate Bill No. 25 (Artificial Intelligence Regulation Act, filed 2 Jul 2025) and other 20th Congress AI bills named in PH-02's version 1 notes (SB 852, HB 3462 Philippine AI Act of 2025, HB 2827, SB 758, SB 1714)",
+   "url": null,
+   "seen_in": "PH-02 version 1 notes (Foundation for Media Alternatives tracker and press)",
+   "why": "Pending AI bills of the 20th Congress; none is in the register (only PH-01 and PH-02 exist for the Philippines)."
+  }
+ ],
+ "open_questions": [
+  "Current stage of HB 7627: the stored bill shows only its filing on 4 Feb 2026. Version 1 said it was referred to the House Committee on Information and Communications Technology (FMA tracker, not stored); press of July 2026 says the committee's technical working group is consolidating 26 House bills into a substitute measure, without naming HB 7627. The House's bill-status page for HB 7627 would settle the referral and whether it was consolidated."
+ ]
+}

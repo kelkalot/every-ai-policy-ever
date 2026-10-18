@@ -1,0 +1,57 @@
+{
+ "cand_id": "SG-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "four dimensions: assess and bound risks, human accountability, technical controls, end-user responsibility",
+   "verdict": "supported",
+   "locator": "official.html Framework provides guidance on managing risks; PDF \"four dimensions\""
+  },
+  {
+   "claim": "v1.5 adds systemic and multi-agent risks and OpenClaw case study",
+   "verdict": "supported",
+   "locator": "secondary.pdf page 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2026/updated-model-ai-governance-framework-for-agentic-ai"
+ ],
+ "related_missing": [
+  "SG-06"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Stored PDF is Version 1.5 (20 May 2026, updated 5 June 2026), which supports date_last_updated and removes the law-firm-based note. Clearing official_identifier (a version label) is right under 5.6. IMDA also has a factsheet on the update on its site; it concerns the same v1.5 already in the record, so it is listed in extra_urls for storage only. Search found no version 2.0."
+}

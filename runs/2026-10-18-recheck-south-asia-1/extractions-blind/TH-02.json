@@ -1,0 +1,143 @@
+{
+ "record": {
+  "summary": "Guidance framework from the AI Governance Center (AIGC) at ETDA for executives of organisations that use AI. It sets three components: an AI governance structure (governance council, roles and responsibilities, competency building), an AI strategy (responsible-AI strategy and AI risk management, citing ISO/IEC 23894 and the NIST AI RMF, with human-in, over or out-of-the-loop levels) and AI operation (lifecycle governance, user information and feedback channels). It links to Thailand's six AI ethics principles and to toolkits for readiness assessment, use-case canvas and risk assessment.",
+  "notes": "Listed under 2023 on the AIGC research and recommendations page; the stored English document is an 18-slide presentation version prepared by the AIGC team. The English title on both the page and the slides is 'Guideline for Executive' (singular). The framework is for organisations' own use; neither stored text sets obligations.",
+  "verification": {
+   "note": "Stored: the ETDA AIGC research and recommendations page (lists the guideline under 2023) and the English slide deck. The page and slides confirm the English title and the three-component framework. No exact publication day is given; the year comes from the page listing, where it sits above the title in the page text. The Thai-language title, the names 'AI Governance Center' and Ministry of Digital Economy and Society, and the later developments (generative AI guideline of Oct 2024, Cabinet endorsement request of Sept 2025, rename to AIGPC, 2027 sandbox) are not in the stored text and rest on earlier research or press. The non-binding status is inferred from the document's nature, not stated in it."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 1",
+    "quote": "Thailand’s AI Governance Guideline for Executive",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "Research and Recommendation list",
+    "quote": "Thailand’s AI Governance Guideline for Executive",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "page header",
+    "quote": "Electronic Transactions Development Agency",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 1",
+    "quote": "Developed presentation by AIGC team, Thailand (aigc@etda.or.th)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "AIGC navigation",
+    "quote": "About AIGC | Our Services | Research and Recommendation",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "Research and Recommendation list, 2023 heading",
+    "quote": "2023 ผลการศึกษาความพร้อมในการประยุกต์ใช้เทคโนโลยีปัญญาประดิษฐ์ (AI) สำหรับบริการดิจิทัลอย่างมีธรรมาภิบาล รายงานผลการศึกษาโครงการจัดทำร่างกฎหมายและประเมินผลกระทบของร่างกฎหมายเกี่ยวกับการประยุกต์ใช้ปัญญาประดิษฐ์ Thailand’s AI Governance Guideline for Executive",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 2",
+    "quote": "3 Pillars for preparing trust, safe, responsible use of AI in Organization",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 6",
+    "quote": "AI Governance Guideline for Executives",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 2",
+    "quote": "3 Pillars for preparing trust, safe, responsible use of AI in Organization",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 14",
+    "quote": "Examples of international AI Risk Management Framework that can be adapted",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 6",
+    "quote": "Toolkits supporting AI Governance 1) AI Readiness Assessment 2) AI Use Case Canvas 3) Risk Assessment",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 15",
+    "quote": "Human-in-the-loop Human-over-the-Loop Human-out-of-the-loop",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 18",
+    "quote": "3.2 AI Service Communicating policies related to AI usage",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the slide text: the previous version listed the six principles with names that differ from the slides and claimed content not in the slides",
+   "notes": "removed later developments that no stored text supports; they stay as open questions",
+   "verification.note": "rewritten to say what is and is not supported"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force",
+   "issuing_body (ETDA, AIGC)"
+  ],
+  "status_reasoning": "No withdrawal or replacement in the stored texts; the page still lists the guideline.",
+  "scope_reasoning": "Government agency AI governance guideline; in scope."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "original_title: the Thai title in the record is not in either stored text (the page lists the English title only); left unchanged but unsupported.",
+  "issuing_body names 'AI Governance Center' and the Ministry of Digital Economy and Society; the stored texts name only ETDA and the AIGC team.",
+  "Later developments in the old notes (Oct 2024 generative AI guideline, Sept 2025 Cabinet request, AIGPC rename, 2027 sandbox) have no stored source; a later run could add one.",
+  "The year 2023 relies on page layout (heading above the entry); a dated PDF would settle it."
+ ],
+ "cand_id": "TH-02",
+ "target_id": "TH-02",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

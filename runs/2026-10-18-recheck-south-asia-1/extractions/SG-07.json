@@ -1,0 +1,278 @@
+{
+ "cand_id": "SG-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-07",
+ "record": {
+  "official_url": "https://file.go.gov.sg/sg-consensus-ai-safety.pdf",
+  "secondary_url": "https://www.scai.gov.sg/2025/scai2025-report/",
+  "summary": "Outcome document of the 2025 Singapore Conference on AI: International Scientific Exchange on AI Safety, drafted by an expert committee and revised with feedback from more than 100 participants from 11 countries, from academia, AI developers, governments and civil society. Focused on general-purpose AI and building on the International AI Safety Report, it uses a defence-in-depth model to group technical AI safety research priorities into three areas: risk assessment, including metrology and enablers for third-party audits; development of trustworthy, reliable and secure systems (specification, design, verification); and control, covering monitoring, intervention and societal resilience.",
+  "notes": "The exchange was held on 26 Apr 2025. An Expert Planning Committee (Dawn Song, Lan Xue, Luke Ong, Max Tegmark, Stuart Russell, Tegan Maharaj, Ya-Qin Zhang and Yoshua Bengio) drafted the Consensus for consultation, and it was revised after several rounds of participant feedback. It is dated 8 May 2025 and is a living document that continues to welcome views from the global research community. A second edition, The 2026 Singapore Consensus on Global AI Safety Research Priorities (July 2026), came out of the 2nd International Scientific Exchange on AI Safety in May 2026: it builds on the 2025 report, makes societal resilience a fourth pillar and adds a companion report on agentic risk management.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read in this run: the Consensus itself (PDF behind go.gov.sg/sg-consensus-ai-safety, on file.go.gov.sg, Government of Singapore), whose cover gives the title and 8 May 2025 and whose introduction gives the conference, the participants, the scope and the three areas; the Singapore Conference on AI's page for the report (scai.gov.sg, last updated 10 Sep 2026), which calls it SCAI 2025's outcome document and a living document; and IMDA's PDF of The 2026 Singapore Consensus (imda.gov.sg, July 2026). Also stored: IMDA's press release of 8 May 2025 (imda.gov.sg, copy of 11 Oct 2026), whose text layer holds only its heading and dateline because the body is inside a script payload the text layer does not include, and the Singapore AISI's page on the Consensus (sgaisi.sg, copy of 11 Oct 2026; on 18 Oct 2026 the site returned only a JavaScript shell). The Consensus PDF and the SCAI page are proposed as official_url and secondary_url in place of the press release and the sgaisi.sg page. No stored text names the Ministry of Digital Development and Information as an issuer; issuing_body is left as in version 1 (open question). Version 1's notes that the conference ran alongside ICLR 2025, that the Consensus was presented at the Asia Tech x Singapore Summit and that it is on arXiv rest on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 1 (cover)",
+    "quote": "The Singapore Consensus on Global AI Safety Research Priorities Building a Trustworthy, Reliable and Secure AI Ecosystem 8 May 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "heading",
+    "quote": "The Singapore Consensus on Global AI Safety Research Priorities | Singapore Conference on AI",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 1 (cover)",
+    "quote": "The Singapore Consensus on Global AI Safety Research Priorities Building a Trustworthy, Reliable and Secure AI Ecosystem 8 May 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-07/2026-10-11/official.html",
+    "sha256": "80c610f586bf29facc72916814b8ff13276f0f59670641495f4b1d7c4dc24a62",
+    "locator": "dateline under the heading",
+    "quote": "08 May 2025|5 mins read SINGAPORE – 08 MAY 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "body",
+    "quote": "The Singapore Consensus is a living document and continues to welcome views from the global research community.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "page header",
+    "quote": "Explore the conclusions drawn from the International Scientific Exchange on AI Safety at SCAI 2025. Last updated on 10 September 2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 6, Goals",
+    "quote": "Through the Singapore Consensus, we hope to globally facilitate meaningful",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "body",
+    "quote": "It will also serve as a foundation document to facilitate global, meaningful conversations amongst AI policymakers, scientists, the broader industry and public",
+    "source_kind": "official"
+   }
+  ],
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 1 (cover)",
+    "quote": "The Singapore Consensus on Global AI Safety Research Priorities Building a Trustworthy, Reliable and Secure AI Ecosystem 8 May 2025",
+    "source_kind": "official"
+   }
+  ],
+  "secondary_url": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "body",
+    "quote": "SCAI 2025's outcome document – the Singapore Consensus on Global AI Safety Research Priorities – aims to demonstrate substantial consensus around identified important technical AI safety research domains.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 6, Process",
+    "quote": "More than 100 participants in attendance for discussion and feedback representation Participants from 11 countries were present",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 7, Introduction",
+    "quote": "AI developers, as well as representatives from governments and civil society.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 7, Scope",
+    "quote": "We focus primarily on general-purpose AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 6, Goals",
+    "quote": "By adopting a defence-in-depth model, this document organises AI safety research domains into three types",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 7, Structure",
+    "quote": "enhancing metrology to ensure that these measurements are precise and repeatable, and building enablers for third-party",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 8, Structure",
+    "quote": "specifying the desired behaviour, designing an AI system that meets the specification",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 8, Structure",
+    "quote": "The research areas in this category involve developing monitoring and intervention mechanisms for AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 8, Structure",
+    "quote": "societal resilience research to strengthen societal infrastructure",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 2, contents",
+    "quote": "1.6 Dangerous capability and propensity assessment 13 1.7 Loss-of-control risk assessment 13",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "body",
+    "quote": "improve understanding of risk management, and spur international research collaboration.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 6, Process",
+    "quote": "26th April 2025 – SCAI: International Scientific Exchange on AI Safety",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 6, Process",
+    "quote": "Initially designed as a consultation draft by the Expert Planning Committee (Dawn Song, Lan Xue, Luke Ong, Max Tegmark, Stuart Russell, Tegan Maharaj, Ya-Qin Zhang, and Yoshua Bengio)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-566baccd88/2026-10-18/official.pdf",
+    "sha256": "9f4db45907903b60196440a2878b9afd5c5086b6932c1454ea873c45118aefbb",
+    "locator": "page 6, Process",
+    "quote": "Following several rounds of updates based on further participant feedback in writing and in person",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-ba9d280de6/2026-10-18/official.html",
+    "sha256": "f0ed6e0f115f083b3f11d22aa0a6abd29cc95baa48b3e9ac23589c56c16e712d",
+    "locator": "body",
+    "quote": "The Singapore Consensus is a living document and continues to welcome views from the global research community.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-2b4ce1f8f8/2026-10-18/official.pdf",
+    "sha256": "134e9da8f3989b189621a34fcd256d2f69eed58387d7516295dd59fb13f58ce4",
+    "locator": "page 1 (cover)",
+    "quote": "The 2026 Singapore Consensus on Global AI Safety Research Priorities International Scientific Priorities for Building a Trustworthy, Reliable and Secure AI Ecosystem July 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-2b4ce1f8f8/2026-10-18/official.pdf",
+    "sha256": "134e9da8f3989b189621a34fcd256d2f69eed58387d7516295dd59fb13f58ce4",
+    "locator": "page 5, executive summary",
+    "quote": "Singapore organised the 2nd International Scientific Exchange on AI Safety (ISE) in May 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-2b4ce1f8f8/2026-10-18/official.pdf",
+    "sha256": "134e9da8f3989b189621a34fcd256d2f69eed58387d7516295dd59fb13f58ce4",
+    "locator": "page 6, executive summary",
+    "quote": "Building on the Singapore Consensus 2025 report, the 2026 Main Report has been updated based on key developments in the AI risk landscape in the past year",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-2b4ce1f8f8/2026-10-18/official.pdf",
+    "sha256": "134e9da8f3989b189621a34fcd256d2f69eed58387d7516295dd59fb13f58ce4",
+    "locator": "page 6, key updates",
+    "quote": "We have therefore elevated societal resilience as a distinct fourth pillar",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-2b4ce1f8f8/2026-10-18/official.pdf",
+    "sha256": "134e9da8f3989b189621a34fcd256d2f69eed58387d7516295dd59fb13f58ce4",
+    "locator": "page 6, executive summary",
+    "quote": "The discussions and findings are captured in the Companion Report on Agentic Risk Management",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the Consensus's own text (PDF on file.go.gov.sg, linked from the scai.gov.sg report page), stored in this run, in place of IMDA's press release, whose text layer is empty",
+   "secondary_url": "the Singapore Conference on AI's report page (scai.gov.sg), stored in this run, in place of the sgaisi.sg page, which returned a JavaScript shell to the archiver on 18 Oct 2026",
+   "summary": "rewritten from the Consensus itself: 'more than 100' participants (version 1: 'about 100'), their backgrounds, the general-purpose AI scope and the three areas as the document describes them",
+   "notes": "drafting process and the 2026 edition added from stored files; version 1's ICLR, ATxSummit and arXiv remarks and its characterisation as 'not a formal policy instrument' rest on no stored file and were removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding scientific consensus dated 8 May 2025. The SCAI report page, last updated 10 Sep 2026 and stored on 18 Oct 2026, still presents it as a living document with a download. A 2026 edition exists (stored), which builds on and updates the 2025 report; whether that makes this record 'Superseded' or simply leaves it as the 2025 edition is for a human (open question). 'Published (non-binding, current)' is left unchanged.",
+  "date_reasoning": "date_published 2025-05-08 is the date on the Consensus's cover and the IMDA press release dateline; the conference date (26 Apr 2025) is in the notes.",
+  "scope_reasoning": "A government-convened scientific report on AI safety research priorities; in scope with no note under section 10 (government-commissioned scientific reports)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://file.go.gov.sg/sg-consensus-ai-safety.pdf",
+   "reason": "Stored in this run (round 1 request): the Consensus itself; now the proposed official_url."
+  },
+  {
+   "url": "https://www.scai.gov.sg/2025/scai2025-report/",
+   "reason": "Stored in this run (round 1 request): the SCAI report page; now the proposed secondary_url."
+  },
+  {
+   "url": "https://www.imda.gov.sg/assets/22dddecc-661b-4fee-9634-ea5549fa8151.pdf",
+   "reason": "Stored in this run (round 1 request): The 2026 Singapore Consensus (July 2026), cited in the notes."
+  }
+ ],
+ "leads": [
+  "The 2026 Singapore Consensus on Global AI Safety Research Priorities (July 2026, with a Companion Report on Agentic Risk Management), from the 2nd International Scientific Exchange on AI Safety (May 2026); stored in this run at archive/_runs/2026-10-18-recheck-south-asia-1/SG-07/extra-2b4ce1f8f8/2026-10-18/official.pdf (https://www.imda.gov.sg/assets/22dddecc-661b-4fee-9634-ea5549fa8151.pdf). Possibly a record of its own."
+ ],
+ "open_questions": [
+  "A second edition exists: The 2026 Singapore Consensus on Global AI Safety Research Priorities (July 2026), which builds on and updates the 2025 report (stored in this run). A human should decide whether it becomes a record of its own (the 2025 edition keeping this record, as now) or whether this record should be marked Superseded or given date_last_updated 2026-07.",
+  "issuing_body: version 1's 'Government of Singapore (IMDA / Ministry of Digital Development and Information)' is left unchanged, but no stored text names MDDI as an issuer. The stored files show the Consensus on a Government of Singapore host (file.go.gov.sg) as the outcome of the Singapore Conference on AI (scai.gov.sg), IMDA's press release and IMDA staff among the writing coordinators."
+ ]
+}

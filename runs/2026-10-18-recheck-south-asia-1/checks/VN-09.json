@@ -1,0 +1,58 @@
+{
+ "cand_id": "VN-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Day 11 August 2026 rests on the Government portal entry (alt-official as the secondary file); the PDF shows only August 2026 (OCR garbles the day)."
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "In force from the date of signing (Art. 2); the portal gives 11-08-2026 as the issue date. The PDF digital-signature stamp reads 12.08.2026, noted in the record."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "three tiers: universal literacy, applied skills, advanced specialists",
+   "verdict": "supported",
+   "locator": "official.pdf (OCR) programme text"
+  },
+  {
+   "claim": "Decision in force from signature",
+   "verdict": "supported",
+   "locator": "official.pdf page 10, Article 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note is kept: workforce programme with limited safety content."
+ },
+ "overall": "accept",
+ "note": "Day-level dates now rest on vanban.chinhphu.vn, an official host, so the level is B. Signature stamp 12 Aug 2026 versus issue date 11 Aug is a small discrepancy that the notes already state. No amendment found."
+}

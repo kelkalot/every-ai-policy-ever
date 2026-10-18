@@ -1,0 +1,55 @@
+{
+ "cand_id": "TH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported",
+   "why": "Every claim is in the law-firm note or the Thai PBS article; no official text stored, so level C stands."
+  },
+  "notes": {
+   "verdict": "judgment-differs",
+   "why": "The notes name Tilleke & Gibbins as the source of the dates; source attribution belongs in verification.note (rule 5)."
+  },
+  "original_title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "ETDA/MDES draft released July 2026 for about 30 days of hearing",
+   "verdict": "supported",
+   "locator": "tilleke secondary.html first paragraph"
+  },
+  {
+   "claim": "machine-readable marks on AI-generated content; strict liability; fines THB 1 to 5 million",
+   "verdict": "supported",
+   "locator": "tilleke secondary.html sections"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Level C; no official text of the 2026 draft is stored (law.go.th gave HTTP 403). Thai original_title is supported by the Thai PBS article. No cabinet or House step found in a search as of 18 Oct 2026; no newer version. Status Draft / proposed stays right."
+}

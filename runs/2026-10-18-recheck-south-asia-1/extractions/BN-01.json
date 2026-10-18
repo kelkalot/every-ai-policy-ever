@@ -1,0 +1,223 @@
+{
+ "cand_id": "BN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BN-01",
+ "record": {
+  "summary": "Principles-based guide by Brunei's Authority for Info-communications Technology Industry (AITI), developed with an AI Governance and Ethics Working Group, for organisations that design, develop, deploy or use AI. It sets seven principles: transparency and explainability; data protection and data governance; security and safety; robustness and reliability; fairness and equity; human centricity; and accountability and integrity. Its governance framework covers people, process and technology: internal governance roles, risk impact assessments that set the level of human involvement, lifecycle risk management, testing, security safeguards and incident response plans.",
+  "notes": "AITI set up the AI Governance and Ethics Working Group in May 2024 with 25 members from government, industry and academia (the guide lists 24 member organisations) and released a public consultation paper on the draft guide on 9 July 2024, which drew feedback from 17 respondents. The guide describes itself as a baseline of considerations and safeguards that organisations in any sector may extend with sector-specific measures, and says it may be amended periodically with prior notice. Its principles align with the ASEAN Guide on AI Governance and Ethics, and it names ISO/IEC 42001:2023 and Singapore's AI Verify as examples of a management-system standard and a testing framework. The guide carries an AITI 2024 copyright line. AITI's AI governance page also lists a 'Second Edition' of the guide, without a date.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: AITI's press release of 11 April 2025 (aiti.gov.bn, in Malay and English; stored on 12 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026); the guide PDF (39 pages, served from AITI's guide-books page; unchanged on 18 Oct 2026); and, stored in this run, AITI's AI governance and ethics page (aiti.gov.bn, as HTML, rendered HTML and a print PDF), which gives the working group's formation in May 2024 with 25 members, the consultation paper of 9 July 2024 with 17 responses, and download links for the guide and a 'Second Edition'. The Second Edition is shown only in a third-party flipbook viewer (flowpaper.com) that exposes no text, so its date and changes are unknown. Version 1's notes on a parliamentary answer of 15 March 2026 about a Version 2.0 (taken from a third-party Hansard mirror), a planned national Data and AI Strategy and the OECD.AI listing rest on no stored file and were removed; 'Brunei's first national AI governance instrument' in the summary likewise."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release heading",
+    "quote": "Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam Friday, April 11, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 1",
+    "quote": "Guide on Artificial Intelligence (AI) Governance and Ethics for Brunei Darussalam",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, Malay text, paragraph 1",
+    "quote": "telah menyediakan satu ‘Garis Panduan Tadbir Urus dan Etika Kecerdasan Buatan untuk Brunei Darussalam.’",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text, paragraph 1",
+    "quote": "the Authority for Info-communications Technology Industry of Brunei Darussalam (AITI), in collaboration with the AI Governance and Ethics Working Group have developed the ‘Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release heading",
+    "quote": "Press Release Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam Friday, April 11, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text",
+    "quote": "For more information, the Guide can be accessed at https://aiti.gov.bn/AIGuideGE.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics, download list",
+    "quote": "Guide on AI Governance and Ethics for Brunei Darussalam Download Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition) Download",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12, Note",
+    "quote": "The Guide may be amended periodically with prior notice, to ensure the document remains relevant to emerging trends, practices and technologies.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 11, Purpose",
+    "quote": "This document serves as a practical guide for governance and ethics in AI, through a principles-based approach suitable for various organisational contexts. It provides recommendations and guidance on the principles and safeguards which organisations should consider.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text",
+    "quote": "It provides a baseline set of considerations and guidance on the practices and safeguards to be considered by organisations that design, develop, deploy and/or use AI technologies in Brunei Darussalam.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text",
+    "quote": "such as ‘Transparency and Explainability’, ‘Data Protection and Data Governance’, ‘Security and Safety’, ‘Robustness and Reliability’, ‘Fairness and Equity’, ‘Human Centricity’ and ‘Accountability and Integrity’.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 30, AI Governance Framework",
+    "quote": "is designed around the established methodology of people, process and technology.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 33",
+    "quote": "Conducting relevant risk impact assessments to determine level of risk. Organisations should determine the level of human involvement in AI-augmented decision-making.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 36, Process",
+    "quote": "Organisations should conduct risk-based assessments before starting any data collection and processing or modelling.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 37, Technology",
+    "quote": "Testing, validation and verification considering the complexity and criticality of the system is crucial.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 23, Security and Safety",
+    "quote": "These may include ensuring strong authentication mechanisms, data security systems, incident response plans, proper access management for critical or sensitive systems",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics, paragraph 1",
+    "quote": "On May 2024, The Authority for Info-communications Technology Industry (AITI) has established an AI Governance and Ethics Working Group, consisting of 25 members from the government, industry and academia.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics, paragraph 2",
+    "quote": "On 9 July 2024 AITI has released a Public Consultation Paper (PCP) to seek views from organisations and the general public on the Draft Guide on AI Governance and Ethics for Brunei Darussalam.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics, paragraph 3",
+    "quote": "At the close of the Public Consultation, AITI received feedback from 17 esteemed representatives from industry, academia, technology communities and individuals.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics, download list",
+    "quote": "Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 37, footnote 9",
+    "quote": "AI Management Systems (AIMS) within organisations is the ISO/IEC 42001:2023.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 37, footnote 10",
+    "quote": "An example of regional testing framework is Singapore’s AI Verify",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/secondary.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 39, Copyright notice",
+    "quote": "© AITI, 2024. This document is the property of the Authority for Info-communications Technology Industry of Brunei Darussalam",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "'Brunei's first national AI governance instrument' rests on no stored file and was dropped; the stray comma removed; reworded from the guide (people, process and technology; risk impact assessments; incident response plans)",
+   "notes": "rewritten from AITI's AI governance page (working group of May 2024 with 25 members, consultation paper of 9 July 2024 with 17 responses, a listed Second Edition) and the guide; version 1's statements on the parliamentary answer about Version 2.0, a Data and AI Strategy and the OECD.AI listing rest on no stored file and were removed; AI Verify added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "AITI released the guide on 11 April 2025, and AITI's AI governance page of 18 Oct 2026 still offers it for download next to a 'Second Edition'. The guide says it may be amended periodically. The Second Edition's date and content are not in any stored file, so whether it replaces the first edition cannot be shown; 'Published (non-binding, current)' stands, and the Second Edition is an open question.",
+  "date_reasoning": "date_published 2025-04-11 is the press release date. The PDF's copyright line says 2024 and the consultation paper came out on 9 July 2024 (both in notes). date_last_updated stays null: the Second Edition carries no date in any stored file.",
+  "scope_reasoning": "National AI governance and ethics guide issued by a government authority; in scope with no note.",
+  "language_reasoning": "language 'English, Malay' left as in version 1. The stored guide is in English; the Malay title appears in the Malay part of the press release, and AITI's AI governance page offers no Malay version of the guide."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics",
+   "reason": "AITI's AI governance and ethics page, which lists the public consultation paper (9 July 2024), the guide and a 'Second Edition' of the guide. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "AITI's AI governance page lists a 'Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)' without a date. Its download link leads to a third-party flipbook viewer that exposes no text, so its date and changes are unknown. If it is a revised version, date_last_updated (and possibly the summary) should change; a person could provide the Second Edition file through the 'Provide a document' form.",
+  "language is 'English, Malay', but the stored guide is in English only and AITI's AI governance page offers no Malay version; the Malay title comes from the Malay part of the press release. Whether language should read 'English' needs a decision or a Malay text of the guide."
+ ]
+}

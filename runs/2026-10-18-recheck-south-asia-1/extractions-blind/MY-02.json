@@ -1,0 +1,110 @@
+{
+ "record": {
+  "summary": "Voluntary, non-binding code that helps organisations turn Malaysia's seven AI principles, set out in the National Guidelines on AI Governance and Ethics, into practice across the design, development and deployment of AI systems. It is aimed at organisations, AI developers, deployers and researchers and is available in English and Bahasa Melayu. It does not replace, override or modify any legal requirement, and may be reviewed and updated over time.",
+  "notes": "Issued by AI Malaysia Berhad (National AI Office), the national agency under the Ministry of Digital. The AICE page gives no publication date, so none is recorded. The code is available in English and Bahasa Melayu.",
+  "verification": {
+   "note": "Stored: the AI Malaysia AICE page (title, issuer, voluntary status, audience, languages, relation to the AIGE). The page gives no date and the code itself sits behind a download form, so the PDF was not stored and the text of the code was not read. A page image filename that mentions July 2026 is not in the stored text and is not used as a date. That the National AI Office was launched in December 2024 was not confirmed from a stored source and is left out."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page heading",
+    "quote": "Voluntary Artificial Intelligence (AI) Code Of Ethics (AICE)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page footer",
+    "quote": "AI Malaysia Berhad is the national agency under the Digital Ministry",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page body",
+    "quote": "The AI Code of Ethics (AICE) is a voluntary, non-binding guideline",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "FAQ",
+    "quote": "No. AICE is a voluntary, non-binding guidance document.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page body",
+    "quote": "It serves as an operational bridge between the Seven (7) AI Principles",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "FAQ",
+    "quote": "AICE is intended for organisations, AI developers, deployers, researchers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page body",
+    "quote": "The AI Code of Ethics (AICE) is available in English and Bahasa Melayu.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page body",
+    "quote": "the AICE does not replace, override or modify any such requirements",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "FAQ",
+    "quote": "Will AICE be updated over time?",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "previous text was under 250 characters; rewritten from the page, adds audience, languages and that the code does not change legal requirements",
+   "notes": "dropped the July 2026 inference and the Dec 2024 NAIO launch claim, neither supported by the stored text; kept issuer and languages",
+   "verification.note": "rewritten to state what was and was not stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Page presents the AICE as the current voluntary code; no withdrawal appears.",
+  "scope_reasoning": "Government-agency voluntary AI ethics code; in scope without a note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published stays null: the stored page gives no date and the code PDF is behind a form (a person could provide it).",
+  "The \"Ministry of Digital\" and \"Digital Ministry\" wording of the issuer: the stored page says \"Digital Ministry\"."
+ ],
+ "cand_id": "MY-02",
+ "target_id": "MY-02",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

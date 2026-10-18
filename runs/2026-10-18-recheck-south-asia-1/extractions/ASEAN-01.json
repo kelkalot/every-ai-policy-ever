@@ -1,0 +1,173 @@
+{
+ "cand_id": "ASEAN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ASEAN-01",
+ "record": {
+  "date_last_updated": null,
+  "summary": "A voluntary, ASEAN-endorsed guide for organisations that design, develop and deploy traditional AI in commercial and non-military or dual-use applications, aimed at alignment and interoperability across ASEAN. It sets seven guiding principles, including transparency and explainability, security and safety, human-centricity and accountability, and a governance framework: internal governance structures, risk impact assessments that set the level of human involvement (human-in-the-loop, over-the-loop or out-of-the-loop), operations management, and disclosure of AI use to stakeholders. It recommends national and regional measures, including an ASEAN Working Group on AI Governance.",
+  "notes": "Endorsed at the 4th ASEAN Digital Ministers' Meeting (ADGMIN) in Singapore on 1-2 February 2024, which also welcomed the recommendation to set up a Working Group on AI Governance under ADGSOM, including initial work on generative AI. Adoption is voluntary; the guide does not replace or supersede existing or upcoming laws and is meant to be a living document reviewed by ASEAN sectoral bodies. Annex A gives an AI risk impact assessment template and Annex B six use cases. Supplemented by the Expanded ASEAN Guide on AI Governance and Ethics – Generative AI (ASEAN-02), a separate publication rather than a new version of this guide.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the ASEAN Secretariat's publication page for the guide on asean.org (rendered in a browser on 11 Oct 2026 and printed to PDF on 18 Oct 2026; the plain download fails with HTTP 307), the guide itself (asean.org PDF, 87 pages, 18 Oct 2026), and the Joint Media Statement of the 4th ASEAN Digital Ministers' Meeting, both the asean.org page dated 2 February 2024 (saved with a browser) and its endorsed PDF. The guide confirms the title, the content of the summary and notes, its voluntary nature and 'Copyright 2024'; the publication page gives the ASEAN Secretariat as author and publisher and the year 2024; the Joint Media Statement confirms that the ministers endorsed the guide at the meeting in Singapore on 1-2 February 2024. Neither source gives the day of endorsement, so date_published stays at the month. The endorsed PDF's header reads 'as of 31 January 2023', an evident slip for 2024 in a statement on a February 2024 meeting."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 1 (cover)",
+    "quote": "ASEAN Guide on AI Governance and Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-18/official-print.pdf",
+    "sha256": "d6851f7f23aad0e10e11ddc9ddcdaadac8808e13aec51d33cee168b48dee23aa",
+    "locator": "page 1, breadcrumb",
+    "quote": "ASEAN Publication > ASEAN Guide on AI Governance and Ethics",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, paragraph 5",
+    "quote": "To that end, the Meeting endorsed the ASEAN Guide on Artificial Intelligence (AI) Governance and Ethics, which sets out ASEAN’s approach towards governing and leveraging the power of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, paragraph 1",
+    "quote": "The 4th ASEAN Digital Ministers Meeting (ADGMIN) was held in Singapore on 1-2 February 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-11/official-rendered-2.html",
+    "sha256": "ee6ae3f9ba56c18cfcfdf1fbf7bb486cc850b0ba030f26bbdaea649cc2f5679f",
+    "locator": "publication page, More Details",
+    "quote": "Place Jakarta Publisher ASEAN Secretariat Year 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, heading",
+    "quote": "The 4th ASEAN Digital Ministers’ Meeting and Related Meetings Singapore, 1 - 2 February 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-031d7a3792/2026-10-18/official-rendered.html",
+    "sha256": "a773084790de1e2390efbe5170fd5aabc16afbe2c11de1a296dcbd40f228a413",
+    "locator": "Joint Media Statement page, date and paragraph 1",
+    "quote": "February 2, 2024 The 4th ASEAN Digital Ministers Meeting (ADGMIN) was held in Singapore on 1-2 February 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-11/official-rendered-2.html",
+    "sha256": "ee6ae3f9ba56c18cfcfdf1fbf7bb486cc850b0ba030f26bbdaea649cc2f5679f",
+    "locator": "publication page, More Details",
+    "quote": "Place Jakarta Publisher ASEAN Secretariat Year 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 9, 3. Target Audience",
+    "quote": "The ASEAN Guide on AI Governance and Ethics is an ASEAN-endorsed framework for organisations in the region to refer to when designing, developing, and deploying traditional AI technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-18/official-print.pdf",
+    "sha256": "d6851f7f23aad0e10e11ddc9ddcdaadac8808e13aec51d33cee168b48dee23aa",
+    "locator": "page 1, Abstract",
+    "quote": "This document serves as a practical guide for organisations in the region that wish to design, develop, anddeploy traditional AI technologies in commercial and non military or dual use applications",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 8, 1. Objectives",
+    "quote": "While adoption of the framework laid out herein is voluntary, this Guide can help organisations build trust among stakeholders and the public",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 8, 2. Assumptions",
+    "quote": "Guide on AI Governance and Ethics does not replace or supersede any existing or upcoming laws and only serves as a guide for responsible design, development, and deployment of AI in the region.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 3, Executive Summary",
+    "quote": "Three broad categories of human involvement based on level of risk – human-in-the-loop, human-over-the-loop, human-out-of-the-loop",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 3, Executive Summary",
+    "quote": "Conduct relevant risk impact assessments to determine level of risk",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 4, Stakeholder interaction and communication",
+    "quote": "Provide general disclosure of when AI is used in products and/or service offerings",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 5, Regional-level recommendations",
+    "quote": "Setting up an ASEAN Working Group on AI Governance to drive and oversee AI governance initiatives in the region",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, paragraph 5",
+    "quote": "The Meeting also welcomes the recommendation to set up a new W orking Group under ADGSOM on AI Governance, including initial work on generative AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 8, 1. Objectives",
+    "quote": "This Guide is meant to be a living document that should be periodically reviewed and assessed by relevant ASEAN sectorial bodies",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "set to null: the 2025 Expanded Guide (ASEAN-02) is a separate publication that supplements this guide, not an amendment or new version of it; the guide itself has no later version",
+   "summary": "rewritten from the guide's own text: the principles, the four-part governance framework with risk-based human involvement, disclosure and the regional working group; voluntary and ASEAN-endorsed",
+   "notes": "rewritten: the endorsement at the 4th ADGMIN and the working group from the Joint Media Statement; voluntary, living document, annexes from the guide; the remark on what the ASEAN page shows moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "A voluntary guide endorsed by the ASEAN Digital Ministers on 1-2 February 2024 and still listed as a current ASEAN publication. The 2025 Expanded Guide supplements it rather than replacing it; nothing stored shows it withdrawn. Published (non-binding, current).",
+  "scope_reasoning": "An intergovernmental AI governance and ethics framework with risk-based governance measures and recommendations to governments; in scope with no note.",
+  "date_reasoning": "The ministers endorsed the guide at their meeting in Singapore on 1-2 February 2024 (Joint Media Statement, page dated 2 February 2024); the guide's copyright year and the publication page give 2024. No source gives the day of endorsement within the two-day meeting, so the published 2024-02 is kept.",
+  "topics_reasoning": "The published topics are now supported by the guide: risk-based classification (risk impact assessments and human involvement set by level of risk), human oversight (human-in-the-loop, over-the-loop, out-of-the-loop), transparency & labelling (transparency and explainability principle; disclosure of AI use), accountability & liability (accountability and integrity principle; internal governance roles), international cooperation (interoperability and the ASEAN working group). Left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

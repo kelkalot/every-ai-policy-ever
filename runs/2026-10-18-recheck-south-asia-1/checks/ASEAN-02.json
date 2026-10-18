@@ -1,0 +1,52 @@
+{
+ "cand_id": "ASEAN-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Six risks from the 2024 guide listed",
+   "verdict": "supported",
+   "locator": "page 2"
+  },
+  {
+   "claim": "Four use cases: PhoGPT, Project Moonshot, ThaiLLM, Accenture",
+   "verdict": "supported",
+   "locator": "page 3"
+  },
+  {
+   "claim": "Voluntary application, no change to legal obligations",
+   "verdict": "supported",
+   "locator": "page 39"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Same search as ASEAN-01: no newer edition found. January 2025 is supported by the Joint Media Statement of the 5th ADGMIN."
+}

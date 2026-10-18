@@ -1,0 +1,56 @@
+{
+ "cand_id": "ID-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "values include inclusivity, humanity, security, accessibility, transparency, sustainability",
+   "verdict": "supported",
+   "locator": "official.html.txt, Isi Edaran values"
+  },
+  {
+   "claim": "AI must not act as policy-maker or decision-maker on matters concerning humanity",
+   "verdict": "supported",
+   "locator": "Tanggung Jawab b"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Official JDIH record page carries the metadata (adopted and promulgated 19-12-2023, status berlaku) and full text; quotes support all fields. Original-language text checked: the nine values and responsibility clauses match the summary. English title is a rendering, kind none found, which is right. No repeal found; Perpres still drafts. "
+}

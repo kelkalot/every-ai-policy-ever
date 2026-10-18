@@ -68,13 +68,14 @@
    "records": [
     "TH-01"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 9,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/9",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null,
-   "title": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "title": null,
+   "closed_on_github": true
   },
   {
    "key": "record:US-27@2026-10-14-refresh-ids-ca-on-01-coe-01-int-15-us-ca",
@@ -2312,6 +2313,153 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-recheck-east-asia-1 (5 records)"
+  },
+  {
+   "key": "record:PH-01@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "PH-01",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": true,
+   "why": "extractor: An AI-specific advisory of the national data protection authority; in scope with no note (unchanged).",
+   "records": [
+    "PH-01"
+   ],
+   "title": "PH-01 Philippines NPC AI advisory (2024-04): open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 155,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/155",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:PK-01@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "PK-01",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": false,
+   "why": "checker: Targeted search found MoITT's own announcement of the approval (official host, HTTP 500 on the archiver, so not stored) and several press reports of Cabinet approval on 30 July 2025, one day before the 31 July date on MoITT's policies page. The record's issuing body names Cabinet approval, which no stored file shows; this is a value the run leaves as published, so the run's summary and notes corrections can merge while the question stays open. Retry the announcement with the browser or have a person provide it.; issuing_body is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: https://moitt.gov.pk/SliderDetail/NWIyMzEwYzktYTIwYy00ZTk0LWI5ODUtYjg5NjZmYTYyMTg2",
+   "records": [
+    "PK-01"
+   ],
+   "title": "PK-01 Pakistan National AI Policy 2025: open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 156,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/156",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:SG-05@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "SG-05",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": false,
+   "why": "scope_note contains research-process language (scope-decisions); move it to verification.note",
+   "records": [
+    "SG-05"
+   ],
+   "title": "SG-05 ELIONA (election deepfakes law): open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 157,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/157",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:SG-07@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "SG-07",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'title': 'The 2026 Singapore Consensus on Global AI Safety Research Priorities (July 2026)', 'url': 'https://www.imda.gov.sg/assets/22dddecc-661b-4fee-9634-ea5549fa8151.pdf', 'note': 'second edition; stored in this run; builds on and updates the 2025 report'}; https://www.imda.gov.sg/assets/22dddec",
+   "records": [
+    "SG-07"
+   ],
+   "title": "SG-07 Singapore Consensus: open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 158,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/158",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:SG-08@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "SG-08",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": false,
+   "why": "the checker found something possibly newer: https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2026/updated-model-ai-governance-framework-for-agentic-ai",
+   "records": [
+    "SG-08"
+   ],
+   "title": "SG-08 Singapore MGF for Agentic AI: open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 159,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/159",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:BD-01@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "BD-01",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": false,
+   "why": "checker: Nothing could be stored (official site fails TLS), so no field of this record has stored evidence. Targeted search for a newer version: no cabinet approval or final text found; reports from July 2026 describe the policy as still being formulated (no official page stored). The run changes only the notes and the verification note, which keep the previously published claims; a person needs to provide the Draft v2.0 PDF (AGENTS.md section 7.8) or confirm the status.; title is unsupported and the checker gave no evidence-backed fix; date_published is unsupported and the checker gave no evidence-backed fix; status is unsupported and the checker gave no evidence-backed fix; summary claim unsupported: 'Draft v1.1 released 25 Jan 2026, v2.0 on 9 Feb 2026; consultation 26 Jan to 8 Fe'; titl",
+   "records": [
+    "BD-01"
+   ],
+   "title": "BD-01 Bangladesh National AI Policy 2026-2030 (draft): open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 160,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/160",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:BN-01@2026-10-18-recheck-south-asia-1",
+   "kind": "record",
+   "subject": "BN-01",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "held_back": false,
+   "why": "checker: AITI's AI governance page (official, stored in this run) lists a 'Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)' with no date, through a third-party flipbook that exposes no text. A parliamentary answer on a third-party Hansard mirror says Version 2.0 was due in the second quarter of 2026. A Second Edition may change the date_last_updated, summary or status; its text is not stored, so I cannot judge. A person needs to provide the Second Edition file. The first-edition fields all check against the stored press release and guide.; the checker found something possibly newer: {'url': 'https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics', 'note': 'Lists a Second Edition of the guide, undated, text not stored'}; https://www.aiti.gov.bn/regulatory/ai-go",
+   "records": [
+    "BN-01"
+   ],
+   "title": "BN-01 Brunei AI Governance and Ethics Guide (AITI): open question from run 2026-10-18-recheck-south-asia-1",
+   "state": "open",
+   "issue": 161,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/161",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "sample:2026-10-18-recheck-south-asia-1",
+   "kind": "sample",
+   "subject": "2026-10-18-recheck-south-asia-1",
+   "run_id": "2026-10-18-recheck-south-asia-1",
+   "records": [
+    "MY-02",
+    "SG-01",
+    "SG-03",
+    "SG-04",
+    "VN-08"
+   ],
+   "why": "Human sample of run 2026-10-18-recheck-south-asia-1: check each record against its stored sources.",
+   "state": "open",
+   "issue": 162,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/162",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-recheck-south-asia-1 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

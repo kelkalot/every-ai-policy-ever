@@ -39,11 +39,13 @@ The 25 records in the last four items are queued for the next refresh run as ref
 | history replay | for 1,520 (record, field) pairs the last logged value is the current value |
 | credentials | none in the dataset and Space files |
 | app in a headless browser | the index shows all 400 records; a record page renders; no script errors |
-| evidence files published | warning: 352 of the 662 files quoted as evidence in the history or the definitions are not in the archive dataset, although all are stored |
+| evidence files published | first a warning: 352 of the 662 files quoted as evidence in the history or the definitions were not in the archive dataset, although all are stored (fixed, see below) |
 
 The browser and credential tests were checked against a copy of the build with an error and a fake token planted in it; both failed, as they should.
 
-The missing evidence files are 261 copies that runs stored under `archive/_runs/` and 91 earlier snapshots of record sources that a newer copy replaced. The archive dataset holds only each record's current copies, so a reader of the Hugging Face archive cannot verify these quotes. Publishing every quoted file, except third-party copies, would close that gap.
+The missing evidence files are 261 copies that runs stored under `archive/_runs/` and 91 earlier snapshots of record sources that a newer copy replaced. The archive dataset held only each record's current copies, so a reader of the Hugging Face archive could not verify these quotes. From version 1.17 on, `publish_hf.py` also publishes every quoted file except third-party copies: 647 of the 662, with the role `evidence: run copy` or `evidence: earlier snapshot` in `source_files`. The 15 left out are copies from third-party sites (for example CSET and China Law Translate), listed in `source_files` with `in_archive_dataset = false`. The release test now fails when a quoted file that may be published is missing.
+
+The same test run found that `register.sqlite` and `register.xlsx`, which are generated but not in git, were older than the data on the publishing machine; the release would have uploaded the old Excel file. `publish_hf.py` now writes both from the data before it builds the dataset.
 
 ## How the pipeline's own checks performed
 
@@ -91,6 +93,5 @@ Since the blind extractions on the mid-sized model agreed with the larger model 
 ## Still open
 
 - The 25 queued records (leads L019 to L043) and the California decision above.
-- Publishing every quoted evidence file in the archive dataset.
 - An OCR layer for image pages inside text PDFs. The covers of KR-04 to KR-07 are images and probably carry the date that would keep those records at level A.
 - The human samples.

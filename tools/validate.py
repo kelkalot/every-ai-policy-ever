@@ -114,6 +114,11 @@ def check(db):
         if n > 1 and url:
             who = ", ".join(r["id"] for r in records if r.get("official_url") == url)
             warn(who, "share the same official_url; check that each points at its own document")
+    links = {r.get("id"): {x.get("id") if isinstance(x, dict) else x for x in r.get("related") or []} for r in records}
+    for a, targets in links.items():
+        for b in sorted(t for t in targets if t in links and a not in links[t] and t != a):
+            warn(b, "related link from %s is one-way; %s should list %s too (pipeline.py assemble makes links two-way)"
+                 % (a, b, a))
 
     names = frame_names()
     for r in records:

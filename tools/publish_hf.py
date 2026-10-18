@@ -813,6 +813,10 @@ def release(args, out):
           "%d with tokens replaced." % (tag, prev["version"] or "nothing", out, st["n"], st["pub_files"], st["excluded"], st["redacted"]))
     print(changes.strip())
     problems = release_checks(db, st, out, args.namespace, args.name, prev, api)
+    # tests of the built files themselves: tables, archive hashes, Space, history replay, credentials, the app
+    tests = subprocess.run([sys.executable, str(ROOT / "tools" / "release_check.py"), "--out", str(out)], cwd=str(ROOT))
+    if tests.returncode:
+        problems.append("the release tests failed (above): python3 tools/release_check.py --out %s" % out)
     if problems:
         print("\nNot releasing:")
         for p in problems:

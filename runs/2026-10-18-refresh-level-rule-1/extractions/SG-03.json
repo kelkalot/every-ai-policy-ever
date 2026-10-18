@@ -1,0 +1,220 @@
+{
+ "cand_id": "SG-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-03",
+ "record": {
+  "summary": "Designates the Digital Trust Centre, which IMDA had appointed Nanyang Technological University to establish in June 2022, as Singapore's AI Safety Institute. Building on the Centre's work, the AISI is to address gaps in global AI safety science using Singapore's work in AI evaluation and testing, pull together the national research ecosystem, collaborate with other countries' AISIs and give science-based input to AI governance. Its initial research areas are testing and evaluation; safe model design, development and deployment; content assurance; and governance and policy. IMDA is the overall government agency for the AISI and the Centre does its technical work.",
+  "safety_topics": [
+   "safety institute",
+   "evaluation & testing",
+   "international cooperation",
+   "research priorities"
+  ],
+  "notes": "IMDA's factsheet announcing the designation carries the dateline Singapore, 22 May 2024; IMDA last updated the page on 10 Oct 2024. The Digital Trust Centre was set up with initial funding of S$50 million to drive research and innovation in trust technologies, with AI testing and privacy-enhancing technologies among its research areas; its work is funded by a $50 million grant from the National Research Foundation and IMDA starting from 1 Oct 2022. At the designation, Singapore was in discussions with the US and UK AISIs on collaboration, particularly on generative AI evaluations, and presented the designation as an extension of work such as expanding AI Verify to test generative AI safety. The AISI's technical testing now covers multilingual and agentic AI, partly jointly with other members of the international Network for Advanced AI Measurement, Evaluation and Science (NAAIMES), and it studies societal impacts such as emotional dependency.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: IMDA's factsheet on the designation (imda.gov.sg, copy of 18 Oct 2026), whose text layer now includes its body as well as the heading 'Digital Trust Centre designated as Singapore's AISI', the dateline 'SINGAPORE – 22 MAY 2024' and the page's last update (10 Oct 2024); and the Singapore AISI's About page (sgaisi.sg, run by the AISI and listed as official; stored as the secondary source, copy of 18 Oct 2026), which describes the mandate, IMDA's and the Digital Trust Centre's roles, the Centre's hosting at NTU and its funding, and the AISI's current work. The factsheet is an announcement of the designation and no separate designation instrument was found, so the title, date and status rest on another official source (level B). The summary, topics and notes now follow the factsheet's body, which gives the AISI's tasks, its initial research areas and the Centre's set-up in June 2022; the AISI page supports IMDA's and the Centre's roles and the current work in the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet heading",
+    "quote": "Press Releases, Factsheets and Speeches Digital Trust Centre designated as Singapore's AISI SINGAPORE – 22 MAY 2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 1",
+    "quote": "The Digital Trust Centre has been designated as Singapore’s AI Safety Institute (AISI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "page title",
+    "quote": "Digital Trust Centre designated as Singapore's AISI | IMDA",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 2",
+    "quote": "the Infocomm Media Development Authority (IMDA) had appointed Nanyang Technological University (NTU) to establish the DTC",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/secondary.html",
+    "sha256": "2ca895f0e777a5ea1c282b1b5c12e3c893fea9562cd5ac6b9afd36cef69dfbba",
+    "locator": "Who We Are",
+    "quote": "IMDA is the overall government agency for the Singapore AISI, responsible for developing baseline policy, as well as fronting international engagements and partnerships related to AI safety with other AISIs and government agencies.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "dateline under the heading",
+    "quote": "Digital Trust Centre designated as Singapore's AISI SINGAPORE – 22 MAY 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 1",
+    "quote": "The Digital Trust Centre has been designated as Singapore’s AI Safety Institute (AISI).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/secondary.html",
+    "sha256": "2ca895f0e777a5ea1c282b1b5c12e3c893fea9562cd5ac6b9afd36cef69dfbba",
+    "locator": "About Us",
+    "quote": "As the designated Singapore AISI, the Digital Trust Centre Singapore (DTC), in partnership with the Infocomm Media Development Authority of Singapore (IMDA), will drive the efforts for advancing AI safety in Singapore.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 3",
+    "quote": "provide science-based input to our work in AI governance",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 2",
+    "quote": "Singapore first set up the Digital Trust Centre (DTC) in June 2022 to lead Singapore’s research and development efforts for trust technologies.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 3",
+    "quote": "the Singapore AISI will work on addressing the gaps in global AI safety science, leveraging Singapore’s work in AI evaluation and testing. It will pull together Singapore’s research ecosystem, collaborate internationally with other AISIs to advance the sciences of AI safety",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 3",
+    "quote": "The initial research areas are: Testing & Evaluation Safe Model Design, Development and Deployment Content Assurance Governance & Policy",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/secondary.html",
+    "sha256": "2ca895f0e777a5ea1c282b1b5c12e3c893fea9562cd5ac6b9afd36cef69dfbba",
+    "locator": "Who We Are",
+    "quote": "IMDA also partners the Digital Trust Centre (DTC) to drive the technical work for the Singapore AISI.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 4",
+    "quote": "The Singapore AISI will work with other countries’ AI Safety Institutes to collectively address AI safety research.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 3",
+    "quote": "The initial research areas are: Testing & Evaluation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 2",
+    "quote": "With an initial funding of S$50million, the Infocomm Media Development Authority (IMDA) had appointed Nanyang Technological University (NTU) to establish the DTC",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 2",
+    "quote": "Areas of research focus included AI testing and privacy enhancing technologies.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/secondary.html",
+    "sha256": "2ca895f0e777a5ea1c282b1b5c12e3c893fea9562cd5ac6b9afd36cef69dfbba",
+    "locator": "The Digital Trust Centre (DTC)",
+    "quote": "DTC’s work is funded by a $50 million grant from the National Research Foundation, Singapore (NRF) and the Infocomm Media Development Authority of Singapore (IMDA), starting from 1 October 2022.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 4",
+    "quote": "We are already in discussions with the US and UK AISIs to explore collaborations in AI safety, particularly around Generative AI (GenAI) evaluations.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "factsheet, paragraph 5",
+    "quote": "The designation of Singapore AISI is an extension of our ongoing efforts such as expanding AI Verify to test for GenAI safety",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/secondary.html",
+    "sha256": "2ca895f0e777a5ea1c282b1b5c12e3c893fea9562cd5ac6b9afd36cef69dfbba",
+    "locator": "Technical Testing",
+    "quote": "Our testing work includes bilateral and joint testing efforts with other members of the international Network for Advanced AI Measurement, Evaluation and Science (NAAIMES)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/secondary.html",
+    "sha256": "2ca895f0e777a5ea1c282b1b5c12e3c893fea9562cd5ac6b9afd36cef69dfbba",
+    "locator": "Societal Impact Studies",
+    "quote": "Our work examines issues such as emotional dependency and cognitive offloading",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-03/2026-10-18/official.html",
+    "sha256": "c1eb2888f264d057cb07caf31495c28a7a3f62f01282becc87254d017f0890c1",
+    "locator": "page footer",
+    "quote": "LAST UPDATED: 10 Oct 2024",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the factsheet's body, which the text layer now includes: the AISI's tasks as the designation states them, its four initial research areas and the Centre's set-up in June 2022; IMDA's role and the Centre's technical role stay from the AISI page; the current work moved to the notes",
+   "safety_topics": "research priorities added: the factsheet sets the AISI's initial research areas",
+   "notes": "the Centre's set-up funding and early research focus, the 2024 discussions with the US and UK AISIs and the link to expanding AI Verify added from the factsheet; the current testing and societal-impact work kept from the AISI page",
+   "verification.note": "the factsheet is an announcement (alt-official); no separate designation instrument was found, so the note says the record rests on another official source; it also records that the factsheet's body is now in the text layer"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The factsheet of 22 May 2024 states the designation; the AISI's own page (copy of 18 Oct 2026) describes it as the designated Singapore AISI doing current work. Nothing stored shows that the designation ended. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2024-05-22 from the factsheet's dateline; the factsheet is an announcement, so the date has alt-official support only.",
+  "scope_reasoning": "Unchanged: designation of a national AI safety institute; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

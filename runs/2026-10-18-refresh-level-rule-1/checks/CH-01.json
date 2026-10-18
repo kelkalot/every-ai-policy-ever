@@ -1,0 +1,47 @@
+{
+ "cand_id": "CH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Convention will apply primarily to state actors; changes sector-specific",
+   "verdict": "supported",
+   "locator": "official-print.pdf page 2"
+  },
+  {
+   "claim": "FDJP to draft a consultation bill by end of 2026 (notes)",
+   "verdict": "supported",
+   "locator": "official-print.pdf page 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The admin.ch media release is an announcement, labelled alt-official by the extractor, so level B is right. The German title matches the stored German release. Status holds as of today: the consultation draft is due by end of 2026 and one search found no opening of the consultation yet."
+}

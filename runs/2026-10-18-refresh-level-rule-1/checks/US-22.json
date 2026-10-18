@@ -1,0 +1,48 @@
+{
+ "cand_id": "US-22",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "The cover supports 2026-03, so the value is supported. But the White House release of 20 March 2026 (stored, alt-official) gives the day; the partial date keeps level A at the cost of precision."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Congress should not create any new federal AI rulemaking body",
+   "verdict": "supported",
+   "locator": "page 3, part III"
+  },
+  {
+   "claim": "Congress should preempt state AI laws that impose undue burdens",
+   "verdict": "supported",
+   "locator": "page 4, part VII"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found; the PDF is the instrument's own text (official). Same point as US-16 on the partial date, not blocking. Related records named in the notes (US-14, US-20, US-24, US-26) are already linked. Search found no revised framework; Congress has not enacted it."
+}

@@ -1,0 +1,53 @@
+{
+ "cand_id": "IE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI Office of Ireland (Oifig IS na hÉireann) established as statutory body",
+   "verdict": "supported",
+   "locator": "Act, Part 2 and long title"
+  },
+  {
+   "claim": "amends the Central Bank Act 1942 and the Competition and Consumer Protection Act 2014",
+   "verdict": "supported",
+   "locator": "long title"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The Act and S.I. Nos. 403 and 404 from the Irish Statute Book are the instrument's own text, so level A is right. Partial commencement matches the order. Search found no amending act; a law firm mentions a separate designation instrument, whose text I did not find, and the notes already say further legislation is planned."
+}

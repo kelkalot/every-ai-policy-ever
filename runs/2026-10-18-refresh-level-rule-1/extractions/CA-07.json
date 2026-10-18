@@ -1,0 +1,102 @@
+{
+ "cand_id": "CA-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-07",
+ "record": {
+  "date_published": "2026",
+  "notes": "Launched by Prime Minister Mark Carney on 4 June 2026 (Prime Minister's news release of 4 June 2026; ISED news release of 5 June 2026); the strategy page was last modified on 8 June 2026. The Prime Minister's release says that over the next five years the strategy will introduce new legislation, investments and programs. It draws on national consultations in 2025, with more than 11,000 submissions, and a 28-member AI Strategy Task Force. Its legislative commitments concern consumer privacy legislation, online safety laws (including legal tools against deepfakes and for safe chatbot interactions) and the continued review of the Privacy Act. Further measures include applied AI research and testing with law enforcement and security agencies for fraud prevention, cyber defence and threat detection, a National AI Literacy Initiative, and, under the Canada-Germany Sovereign Technology Alliance launched in February 2026, shared AI evaluation standards and benchmarks. The government says it will review and update the plan.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored for this record: the strategy page on ised-isde.canada.ca (the official URL; date modified 2026-06-08) and the strategy's PDF (Iu4-458/2026E-PDF, ISBN 978-0-662-35657-8), both stored 11 Oct 2026 and found unchanged since, which are the strategy's own text; and ISED's news release of 5 June 2026 (secondary source). The strategy's own text gives only the year 2026 (copyright line and catalogue number). The launch day, 4 June 2026, comes from ISED's news release and from the Prime Minister's news release of 4 June 2026 (pm.gc.ca, stored by the recheck of 17 Oct 2026), both announcements, so date_published is written at the year and the day is in the notes. The other notes rest on the strategy's text and the Prime Minister's release."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "strategy page, heading",
+    "quote": "Canada’s National Artificial Intelligence Strategy: AI for All (PDF, 2.37 MB)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 1, cover",
+    "quote": "Canada’s National Artificial Intelligence Strategy: AI for All",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 2, copyright notice",
+    "quote": "©His Majesty the King in Right of Canada, as represented by the Minister of Innovation, Science and Industry, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 2, catalogue number",
+    "quote": "Iu4-458/2026E-PDF ISBN 978-0-662-35657-8",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/secondary.html",
+    "sha256": "6fa43aeedbc9acf7969583f6198888ac14813cf747f8c8d82240363828e997b3",
+    "locator": "news release, Quick facts",
+    "quote": "On June 4, 2026, Prime Minister Mark Carney announced the launch of Canada’s National Artificial Intelligence Strategy: AI for All.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 50, Conclusion",
+    "quote": "Canada’s AI for All strategy represents a significant new investment in our future.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/secondary.html",
+    "sha256": "6fa43aeedbc9acf7969583f6198888ac14813cf747f8c8d82240363828e997b3",
+    "locator": "news release, first paragraph",
+    "quote": "highlighted the launch of Canada’s National Artificial Intelligence Strategy: AI for All, announced by Prime Minister Mark Carney on June 4.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CA-07/2026-10-11/secondary.html",
+    "sha256": "6fa43aeedbc9acf7969583f6198888ac14813cf747f8c8d82240363828e997b3",
+    "locator": "news release, dateline",
+    "quote": "June 5, 2026 – Montréal, Quebec",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "strategy page, footer",
+    "quote": "Date modified: 2026-06-08",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "2026-06-04 -> 2026: the strategy's own text (page and PDF) gives only the year 2026; the launch day, 4 June 2026, is given only by announcements (the Prime Minister's and ISED's news releases). Rule 7b: write the date at the precision of the instrument's own text and put the day, with its source, in the notes.",
+   "notes": "first sentence: the launch day now names its sources (the Prime Minister's news release of 4 June 2026 and ISED's of 5 June 2026); the rest is unchanged",
+   "verification.note": "rewritten for this run: which stored files are the strategy's own text and why date_published is written at the year"
+  },
+  "confirmed": ["title", "status"],
+  "status_reasoning": "A non-binding national strategy launched in June 2026; the strategy page is live (date modified 2026-06-08) and nothing stored shows it replaced. Published (non-binding, current) stands.",
+  "date_reasoning": "The PDF's copyright line ('..., 2026') and its catalogue number (Iu4-458/2026E-PDF) give the year; neither the page nor the PDF names the launch day. ISED's news release of 5 June 2026 says the Prime Minister announced the launch on June 4, 2026. 2026 with official evidence, the day in the notes.",
+  "source_kind_reasoning": "The strategy page and its PDF on ised-isde.canada.ca are the strategy's own text (official). ISED's news release is an announcement and the record's secondary source (alt-official).",
+  "not_confirmed": "date_last_updated (2026-06-08) is the page's 'Date modified'; it is left as published. issuing_body and legal_force are left as published."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

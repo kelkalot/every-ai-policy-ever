@@ -1,0 +1,48 @@
+{
+ "cand_id": "ASEAN-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The guide carries no date; the month rests on the endorsed Joint Media Statement of the 5th ADGMIN, treated as the ministers' formal record of welcoming the guide (see ASEAN-01 for the same judgment call)."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "voluntary application by member states",
+   "verdict": "supported",
+   "locator": "page 39, Conclusion"
+  },
+  {
+   "claim": "supplements the 2024 Guide",
+   "verdict": "supported",
+   "locator": "page 39, Conclusion"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Supported. The ASEAN publication page is correctly labelled alt-official. The date rests on the Joint Media Statement, with the same judgment call as ASEAN-01 about its label. No newer version found: the search shows only the 2024 guide and this January 2025 expansion."
+}

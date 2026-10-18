@@ -1,0 +1,278 @@
+{
+ "cand_id": "US-09",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-09",
+ "record": {
+  "official_url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/",
+  "secondary_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/",
+  "summary": "Presidential memorandum on AI and national security, with a classified annex. Its three objectives: lead the world's development of safe, secure and trustworthy AI; harness AI with safeguards for national security; and cultivate a stable, responsible framework for international AI governance. It makes the AI Safety Institute the government's primary point of contact with AI developers for voluntary pre- and post-deployment testing of frontier models, including for cyber and biological and chemical weapons risks, and requires a Framework to Advance AI Governance and Risk Management in National Security setting prohibited and high-impact AI uses with minimum risk management practices.",
+  "notes": "Signed by President Biden on 24 Oct 2024. It fulfils the directive in subsection 4.8 of his executive order on AI (EO 14110, US-04). The companion Framework to Advance AI Governance and Risk Management in National Security was published the same day; the memorandum has the NSC Deputies Committee approve the Framework and review it periodically. The White House fact sheet of the same day also says the memorandum makes collection on competitors' operations against the US AI sector a top-tier intelligence priority; the memorandum's public text directs a review of the intelligence priorities to improve the identification of foreign intelligence threats to the US AI ecosystem. NSPM-11 of 5 Jun 2026 (US-28), section 3(f), rescinds and replaces NSM-25 and associated guidance.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run and read: the memorandum's own text on the NARA-archived Biden White House site (presidential actions, page dated 24 Oct 2024, signed 'JOSEPH R. BIDEN JR.') and NSPM-11 of 5 Jun 2026 on whitehouse.gov. Also re-read: the White House fact sheet of 24 Oct 2024 (stored 11 Oct 2026, unchanged on 18 Oct 2026). The memorandum's text confirms the full title, the date, the President as issuer, its binding directions to agencies and the content of the summary; official_url now points at it and the fact sheet becomes secondary_url. NSPM-11, section 3(f), confirms the number 25 and the rescission and replacement of the memorandum and associated guidance on 5 Jun 2026. The summary was rewritten from the memorandum's text instead of the fact sheet. The Framework's own text is not stored (its ai.gov URL redirected to the si.gov home page on 17 Oct 2026); the record describes it only as far as the memorandum does."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "page heading (presidential action)",
+    "quote": "Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 4.2(e)(i)",
+    "quote": "An AI framework, entitled “Framework to Advance AI Governance and Risk Management in National Security” (AI Framework), shall further implement this subsection.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 8 and signature",
+    "quote": "or any other person. JOSEPH R. BIDEN JR.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "page date and heading",
+    "quote": "October 24, 2024 Memorandum on Advancing the United States’ Leadership in Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "page date and heading",
+    "quote": "October 24, 2024 Memorandum on Advancing the United States’ Leadership in Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 3.2(b)(i)",
+    "quote": "Within 90 days of the date of this memorandum, the National Security Council (NSC) staff and the Office of the Director of National Intelligence (ODNI) shall review the President’s Intelligence Priorities",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, heading",
+    "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, heading",
+    "quote": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 3.3(c)",
+    "quote": "Commerce, acting through the AI Safety Institute (AISI) within the National Institute of Standards and Technology (NIST), shall serve as the primary United States Government point of contact with private sector AI developers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 8(b)",
+    "quote": "This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 1(a)",
+    "quote": "A classified annex to this memorandum addresses additional sensitive national security issues",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 2(a)",
+    "quote": "(a) First, the United States must lead the world’s development of safe, secure, and trustworthy AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 2(b)",
+    "quote": "(b) Second, the United States Government must harness powerful AI, with appropriate safeguards, to achieve national security objectives.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 2(c)",
+    "quote": "(c) Third, the United States Government must continue cultivating a stable and responsible framework to advance international AI governance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 3.3(c)",
+    "quote": "shall serve as the primary United States Government point of contact with private sector AI developers to facilitate voluntary pre- and post-public deployment testing for safety, security, and trustworthiness of frontier AI models.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 3.3(e)(i)",
+    "quote": "This testing shall assess models’ capabilities to aid offensive cyber operations, accelerate development of biological and/or chemical weapons, autonomously carry out malicious behavior",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 4.2(e)(ii)(C)",
+    "quote": "(C) Guidance on AI activities that pose unacceptable levels of risk and that shall be prohibited.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 4.2(e)(ii)(D)",
+    "quote": "(D) Guidance on AI activities that are “high impact” and require minimum risk management practices",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 1(a)",
+    "quote": "This memorandum fulfills the directive set forth in subsection 4.8 of Executive Order 14110 of October 30, 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 4.2(e)(i)",
+    "quote": "The AI Framework shall be approved by the NSC Deputies Committee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 4.2(e)(i)",
+    "quote": "and shall be reviewed periodically through that process",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, Enable the U.S. Government to harness cutting-edge AI",
+    "quote": "The NSM directs the creation of a Framework to Advance AI Governance and Risk Management in National Security, which is being published today alongside this NSM.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-09/2026-10-11/official.html",
+    "sha256": "0820c74be2ed41b7f0410a346f555a4b1ef8bc61abc169eebccb9657b5cb9402",
+    "locator": "fact sheet, Ensure that the United States leads",
+    "quote": "This NSM makes collection on our competitors’ operations against our AI sector a top-tier intelligence priority",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-849f9df831/2026-10-18/official.html",
+    "sha256": "7ade7bda82cd13e21aa9f22bd7204e183872fa98f6b9d01fd718bbd694f40f73",
+    "locator": "Sec. 3.2(b)(i)",
+    "quote": "make recommendations to ensure that such priorities improve identification and assessment of foreign intelligence threats to the United States AI ecosystem",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/US-09/extra-2ddce3dbab/2026-10-18/official.html",
+    "sha256": "3b155151fe8aa57d364625554500e2aaba09b6784ddd03f0191430215c5acf2d",
+    "locator": "NSPM-11, Sec. 3(f)",
+    "quote": "(f) This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at the White House fact sheet, an announcement; the memorandum's own text, linked from it and stored in this run, becomes official_url (extract.md rule 7c)",
+   "secondary_url": "the fact sheet moves here from official_url",
+   "summary": "rewritten from the memorandum's own text instead of the fact sheet: its three objectives, the AI Safety Institute's role in voluntary pre- and post-deployment testing of frontier models (cyber, biological and chemical weapons), the classified annex and the Framework's prohibited and high-impact uses; the fact sheet's 'top-tier intelligence priority' is not in the public text and moved to the notes with its source",
+   "notes": "rewritten from the memorandum: signature date, subsection 4.8 of EO 14110, approval and periodic review of the Framework by the NSC Deputies Committee; the fact sheet's intelligence-priority claim set beside what the public text directs",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "NSPM-11 of 5 Jun 2026 (whitehouse.gov presidential actions, stored in this run), section 3(f): 'This memorandum hereby rescinds and replaces National Security Memorandum-25 and associated guidance.' That is the latest event and the President's own record of the decision. 'Revoked / withdrawn' stands, with date_last_updated 2026-06-05.",
+  "title_reasoning": "The memorandum's heading gives the full title; section 4.2(e)(i) names the Framework; NSPM-11 gives the number 25. The record title combines them as before.",
+  "level_reasoning": "The memorandum's page sits under /briefing-room/presidential-actions/ with a dated path, which the evidence script reads as a possible announcement; the page holds the memorandum's full text from its addressee list to the President's signature, so its quotes are labelled official. Title, date and status now rest on the instrument's own text and the rescinding memorandum.",
+  "scope_reasoning": "A presidential memorandum on AI in national security with AI safety and risk-governance content (AI Safety Institute testing role, risk management Framework); in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/",
+   "reason": "The memorandum's own text (stored in this run, round 2)."
+  },
+  {
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+   "reason": "NSPM-11, section 3(f), the rescission (stored in this run, round 2)."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The companion Framework to Advance AI Governance and Risk Management in National Security is not stored (its ai.gov URL redirected to the si.gov home page on 17 Oct 2026). A person could provide the Framework PDF with the 'Provide a document' form."
+ ]
+}

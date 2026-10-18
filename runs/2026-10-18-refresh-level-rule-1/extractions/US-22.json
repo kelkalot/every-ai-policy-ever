@@ -1,0 +1,124 @@
+{
+ "cand_id": "US-22",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-22",
+ "record": {
+  "date_published": "2026-03",
+  "notes": "The White House announced the framework on 20 March 2026; the document itself is dated March 2026. The White House release of that day describes six key objectives and adds that the framework can succeed only if applied uniformly across the country, the subject of the document's seventh part on preempting state AI laws. Section 8 of EO 14365 (US-20) had called for a legislative recommendation preempting conflicting state AI laws, with carve-outs for child safety, AI compute and data centre infrastructure, and state procurement and use of AI. The recommendations ask Congress to build on the TAKE IT DOWN Act (US-14). The FTC's proposed policy statement of 1 July 2026 (US-24) cites the framework. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) calls it a 'National Super Intelligence Policy Framework with legislative recommendations', following that order's renaming of AI as 'Super Intelligence'.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the framework's PDF on whitehouse.gov (stored 11 Oct 2026; the archiver found it unchanged on 18 Oct 2026). It confirms the title, the White House as issuer, 'MARCH 2026' on the cover, the seven parts and the recommendations in the summary. The document's own text gives only the month, so date_published is now 2026-03 instead of 2026-03-20; the PDF's file name on whitehouse.gov begins '03.20.26', but that is not part of the text. The day, 20 March 2026, is kept in the notes; it rests on the White House release of that day (whitehouse.gov/releases, stored on 17 Oct 2026 in run 2026-10-17-recheck-north-america-1), an announcement about the framework. The White House fact sheet of 29 Sep 2026, stored in the same run, supports the notes and shows the framework still cited."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (footer)",
+    "quote": "A National Policy Framework for Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1 (cover)",
+    "quote": "LEGISLATIVE RECOMMENDATIONS MARCH 2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1 (header)",
+    "quote": "LEGISLATIVE RECOMMENDATIONS THE WHITE HOUSE National Policy",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1 (cover)",
+    "quote": "LEGISLATIVE RECOMMENDATIONS MARCH 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 4 (VII. Establishing a Federal Policy Framework, Preempting Cumbersome State AI Laws)",
+    "quote": "Congress should preempt state AI laws that impose undue burdens to ensure a minimally burdensome national standard",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 3 (III)",
+    "quote": "Congress should not create any new federal rulemaking body to regulate AI",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release heading and date",
+    "quote": "President Donald J. Trump Unveils National AI Legislative Framework The White House March 20, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release body",
+    "quote": "This framework addresses six key objectives",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-f7a0aaa09e/2026-10-17/official.html",
+    "sha256": "b75de7df9c31e8222e29262d29b139106219096bec95ba6981d1a95cb2d7146c",
+    "locator": "release body",
+    "quote": "Importantly, this framework can succeed only if it is applied uniformly across the United States.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2 (I. Protecting Children and Empowering Parents)",
+    "quote": "Congress should build on actions to date by the Trump Administration to protect children, including the historic signing of the Take It Down Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-22/extra-298d71c67d/2026-10-17/official.html",
+    "sha256": "08c7ed5d088c532bbe109c4cdfa2e26d273bebdb6783293ece7af1d8b575a54e",
+    "locator": "Fact Sheet of September 29, 2026",
+    "quote": "In March 2026, the White House unveiled a commonsense, comprehensive National Super Intelligence Policy Framework with legislative recommendations",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the document's own text gives only 'MARCH 2026'; the day, 20 March 2026, rests on the White House release of that day, so the date is written at the month's precision and the day stays in the notes with its source (extract.md rule 7b)",
+   "notes": "first sentence reworded so that the day names its source, the White House release of 20 March 2026; the rest is unchanged",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A set of non-binding recommendations to Congress, dated March 2026. No stored file withdraws it; the White House fact sheet of 29 Sep 2026 (stored in run 2026-10-17-recheck-north-america-1) still refers to it as the framework the White House unveiled. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "The administration's legislative framework for AI, with child-safety, frontier-capability and preemption content; in scope with no note.",
+  "date_reasoning": "The cover reads 'MARCH 2026' and the text gives no day. The day comes from the White House release, an announcement about the framework, and from the PDF's file name, which is not part of the text. Under rule 7b the field keeps the document's own precision (2026-03), with the cover quote as official evidence, and the day goes to the notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

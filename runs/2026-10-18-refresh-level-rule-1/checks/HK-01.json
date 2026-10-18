@@ -1,0 +1,53 @@
+{
+ "cand_id": "HK-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "high-risk projects need IT Board/CIO review",
+   "verdict": "supported",
+   "locator": "framework PDF, risk gating section"
+  },
+  {
+   "claim": "12 Ethical AI Principles",
+   "verdict": "supported",
+   "locator": "framework PDF"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. Version 2.0 (December 2025) is the stored official PDF. date_published 2021 rests on the Secretary's speech of 30 Oct 2025, an announcement, correctly labelled alt-official (level B); it supports the year only, which is what the record holds. No version later than 2.0 found."
+}

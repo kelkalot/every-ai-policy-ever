@@ -1,0 +1,44 @@
+{
+ "cand_id": "GB-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "criminal misuse team with the Home Office",
+   "verdict": "supported",
+   "locator": "press release body"
+  },
+  {
+   "claim": "renamed AI Security Institute, focus on serious AI risks with security implications",
+   "verdict": "supported",
+   "locator": "press release second paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The GOV.UK press release is an announcement and is labelled alt-official, so level B. Search found no later statutory or mandate change (as of mid-October 2026 statutory powers are reported as undecided; that is news, not a newer instrument)."
+}

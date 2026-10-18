@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-25",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "frontier model means more than 10^26 operations",
+   "verdict": "supported",
+   "locator": "bill text page 7"
+  },
+  {
+   "claim": "report critical safety incidents within 72 hours; Under Secretary of Commerce for AI Security",
+   "verdict": "supported",
+   "locator": "bill text sections on incident reporting and definitions"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The bill text on the sponsor's site is the draft itself (official); the introduction date rests on the sponsors' press release, an announcement, so level B. The bill number stays null (text says H.R. __); trackers give H.R. 9925 referred to Energy and Commerce with no action after introduction, which fits Draft / proposed. The congress.gov page is not stored, so I cannot support the number; extractor's request to store it is kept as an extra_url."
+}

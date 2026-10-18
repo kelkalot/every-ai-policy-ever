@@ -1,0 +1,127 @@
+{
+ "cand_id": "ASEAN-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ASEAN-02",
+ "record": {
+  "official_url": "https://asean.org/wp-content/uploads/2025/01/Expanded-ASEAN-Guide-on-AI-Governance-and-Ethics-Generative-AI.pdf",
+  "secondary_url": "https://asean.org/book/expanded-asean-guide-on-ai-governance-and-ethics-generative-ai/",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored in this run: the guide itself (asean.org PDF, 52 pages), now the official URL, which confirms the title, the risks, the recommendation areas, the use cases and its voluntary application but carries no date of its own; and the endorsed Joint Media Statement of the 5th ASEAN Digital Ministers' Meeting (asean.org PDF), the ministers' formal record that they welcomed the guide at their meeting in Bangkok on 16-17 January 2025, which dates it to January 2025. The ASEAN Secretariat's publication page for the guide (rendered in a browser on 11 Oct 2026 and printed to PDF on 18 Oct 2026; the plain download fails with HTTP 307; its 'Year' field is empty), which gives the ASEAN Secretariat as author and publisher, becomes the secondary URL: it is a catalogue entry about the guide, not its text. No source gives the day of release, so date_published stays at the month."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 2, running header",
+    "quote": "Expanded ASEAN Guide on AI Governance and Ethics – Generative AI 2 Executive Summary",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-02/2026-10-11/official-rendered.html",
+    "sha256": "f3af764b1ad782306d35d032e5eaadc971b79d369e65fa361297e1fce618854a",
+    "locator": "publication page, breadcrumb",
+    "quote": "ASEAN Publication > Expanded ASEAN Guide on AI Governance and Ethics – Generative AI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 1, heading",
+    "quote": "The 5th ASEAN Digital Ministers’ Meeting and Related Meetings Bangkok, Thailand, 16 - 17 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 2, paragraph 8",
+    "quote": "The Meeting also welcomed the Expanded ASEAN Guide on AI Governance and Ethics – Generative AI, which builds on the 2024 Guide",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 39, Conclusion",
+    "quote": "This Guide is collaboratively developed by all ASEAN Member States and will serve as a foundation for ASEAN to take forward future work.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 2, paragraph 8",
+    "quote": "The Meeting also welcomed the Expanded ASEAN Guide on AI Governance and Ethics – Generative AI, which builds on the 2024 Guide with policy recommendations to address Generative AI concerns while fostering innovation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-02/2026-10-11/official-rendered.html",
+    "sha256": "f3af764b1ad782306d35d032e5eaadc971b79d369e65fa361297e1fce618854a",
+    "locator": "publication page, Abstract",
+    "quote": "This Guide supplements the ASEAN Guide on AI Governance and Ethics (2024), which focuses on traditional AI technologies, with policy considerations related to generative AI (Gen AI).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 1, paragraph 1",
+    "quote": "The 5 th ASEAN Digital Ministers Meeting (ADGMIN) was held in Bangkok, Thailand on 16 - 17 January 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-02/2026-10-11/official-rendered.html",
+    "sha256": "f3af764b1ad782306d35d032e5eaadc971b79d369e65fa361297e1fce618854a",
+    "locator": "publication page, heading",
+    "quote": "Expanded ASEAN Guide on AI Governance and Ethics – Generative AI Author:ASEAN Secretariat",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 39, Conclusion",
+    "quote": "ASEAN Member States are recommended to apply, on a voluntary basis, the recommendations in this Guide. Nothing in this Guide may be interpreted as replacing or changing any party’s legal obligations or rights under any ASEAN Member State’s laws.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-eaaaf041d8/2026-10-18/official.pdf",
+    "sha256": "03bf8e6c3f38685656b77a4770e671633833e3e4d0e6a3c13233b19bcc650805",
+    "locator": "page 2, paragraph 8",
+    "quote": "The Meeting welcomed the establishment of the Working Group on AI Governance (WG -AI) to oversee ASEAN's initiatives on artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-02/extra-9631e61026/2026-10-18/official.pdf",
+    "sha256": "d2f9f1293e9af2f3ca4cc3954e39f94ed6fcd6b52f5e72b28d0d51fc9954ddbd",
+    "locator": "page 39, Conclusion",
+    "quote": "This expanded Guide, supplementing the ASEAN Guide on AI Governance and Ethics that was published in February 2024",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the asean.org /book/ page (a catalogue entry about the guide) -> the guide's own PDF on asean.org, stored in this run (rule 7c)",
+   "secondary_url": "null -> the asean.org /book/ publication page, which gives the ASEAN Secretariat as author and publisher",
+   "verification.note": "rewritten for this run: the guide and the endorsed Joint Media Statement are stored, and the publication page becomes the secondary URL"
+  },
+  "confirmed": ["title", "date_published", "status", "issuing_body", "legal_force"],
+  "status_reasoning": "A voluntary guide welcomed by the ASEAN Digital Ministers on 16-17 January 2025 and still listed as a current ASEAN publication; nothing stored shows it withdrawn or replaced. Published (non-binding, current).",
+  "date_reasoning": "The guide carries no date. The ministers' endorsed Joint Media Statement records that the 5th ADGMIN, Bangkok, 16-17 January 2025, welcomed it; 2025-01 is kept at the month because no source gives the day of release. The statement is the deciding body's formal record, so the date keeps official evidence.",
+  "source_kind_reasoning": "The guide's PDF is the instrument's own text (official). The endorsed Joint Media Statement is the ASEAN Digital Ministers' formal outcome record of their meeting, in which they welcomed the guide: the deciding body's formal record of its decision (official). The /book/ page is a library catalogue entry about the guide (alt-official).",
+  "issuing_body_reasoning": "The ministers welcomed the guide (the 2024 guide was 'endorsed'); the guide says all ASEAN Member States developed it, and the ASEAN Secretariat is author and publisher. The published issuing body fits these sources and is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,44 @@
+{
+ "cand_id": "OECD-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "questionnaire covers risk identification, risk management and security, transparency, governance and incident management, content provenance, research",
+   "verdict": "supported",
+   "locator": "questionnaire Sections 1-6"
+  },
+  {
+   "claim": "launched 7 February 2025 as G7 Hiroshima AI Process outcome",
+   "verdict": "supported",
+   "locator": "overview page, background"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Supported. The OECD.AI overview page and the questionnaire are the framework's own pages and text. Search confirms version 2.0 of 28 May 2026 already in the record; no later version found. The OECD pages give a different submission cut-off from the stored overview page (30 September 2026) in one search result; the record does not state it."
+}

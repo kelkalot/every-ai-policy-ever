@@ -1,0 +1,122 @@
+{
+ "cand_id": "MY-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MY-03",
+ "record": {
+  "official_url": "https://strapi.naio.okie.my/uploads/AI_Nation_2030_National_AI_Action_Plan_2026_2030_EN_V_180826_ddf0221683.pdf",
+  "secondary_url": "https://strapi.naio.okie.my/uploads/28072026_SIARAN_MEDIA_AI_MALAYSIA_PEMACU_UTAMA_MENUJU_NEGARA_AI_2030_a6f8fbbbf3.pdf",
+  "date_published": "2026",
+  "notes": "The Ministry of Digital's press statement of 28 Jul 2026 says the government introduced the plan that day, at the launch of AI Malaysia Berhad, which institutionalised the National AI Office set up on 12 Dec 2024. At the same launch it announced the Malaysia AI Safety Institute (Institut Keselamatan AI Malaysia), a role AI Malaysia is to carry out, and an AI Governance Bill (RUU Tadbir Urus AI) being drafted on a risk-based approach, open to public consultation and targeted for completion by the end of 2026. The plan is published in English and Malay and bears a 2026 copyright of the Ministry of Digital. Oversight lies with the National Digital Economy and 4IR Council (MED4IRN), chaired by the Prime Minister, with AI Malaysia as central secretariat. The plan builds on the National Guidelines on AI Governance and Ethics (AIGE), which it cites as published by MOSTI in 2023, and on the Data Sharing Act 2025 (Act 864). E14 proposes amendments to the Malaysian Code on Corporate Governance on board oversight and disclosure of AI.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored in this run: the plan's English PDF (104 pages, from strapi.naio.okie.my, AI Malaysia's content server, which a maintainer recorded as an official host; identical to the copy stored on 11 Oct 2026), now the official_url; the plan's Malay PDF (same host), the source of original_title; and the Ministry of Digital's Malay press statement of 28 Jul 2026 (same host), now the secondary_url. Also stored: AI Malaysia's homepage (ai.gov.my, the previous official_url, copy of 18 Oct 2026), which links both PDFs. The plan states no date beyond its 2026 copyright, so date_published is 2026 and the day the plan was introduced, from the press statement, is in the notes. The file names of both PDFs refer to a version of 18 Aug 2026, three weeks after the launch, so the text read may be a revised edition of what was introduced on 28 Jul 2026. The stored English text is complete, including E11 to E14 and Part 5; E11 proposes a regulatory framework as the foundation for future AI legislation."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 11",
+    "quote": "The National AI Action Plan 2026-2030 (AI Nation 2030)",
+    "source_kind": "official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 11",
+    "quote": "The National AI Action Plan 2026-2030 (AI Nation 2030)",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-c79afc3184/2026-10-18/official.pdf",
+    "sha256": "efee68ee99a7a91691e0207b2180816e4ca5c1d96ada1ef40ab16713173208e7",
+    "locator": "page 11",
+    "quote": "Pelan Tindakan AI Kebangsaan 2026-2030 (Negara AI 2030)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 3, copyright notice",
+    "quote": "Copyright Notice© [2026] MINISTRY OF DIGITAL MALAYSIA. All rights reserved.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 1, dateline",
+    "quote": "CYBERJAYA, 28 Julai 2026 – YAB Perdana Menteri, Dato’ Seri Anwar Ibrahim hari ini secara rasmi mengumumkan penubuhan AI Malaysia Berhad",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 3, copyright notice",
+    "quote": "Copyright Notice© [2026] MINISTRY OF DIGITAL MALAYSIA. All rights reserved.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 2",
+    "quote": "Bersempena dengan pel ancaran ini, Kerajaan turut memperkenalkan Pelan Tindakan AI Kebangsaan 2026 -2030 sebagai agenda pembinaan negara",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/MY-03/extra-611253889d/2026-10-18/official.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 3, publisher",
+    "quote": "© MINISTRY OF DIGITAL MALAYSIA AI MALAYSIA BERHAD [202601028115 (1690210-V)] (National AI Office)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at AI Malaysia's homepage, which links the plan but is not its text; the English PDF, the plan's own text, becomes official_url (rule 7c)",
+   "secondary_url": "the Ministry of Digital's press statement of 28 Jul 2026, which gives the day the plan was introduced and backs the notes on the launch, replaces the English PDF, now the official_url",
+   "date_published": "the plan's own text gives only the year (its 2026 copyright); the day (28 Jul 2026) rests on the press statement, an announcement, so it moves to the notes (rule 7b)",
+   "notes": "first sentence now names the press statement as the source of the day",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "status",
+   "issuing_body"
+  ],
+  "status_reasoning": "A published five-year plan, introduced on 28 Jul 2026 (press statement) and offered for download in English and Malay; nothing stored shows a replacement. Published (non-binding, current).",
+  "date_reasoning": "Rule 7b: the plan's English and Malay texts carry only '© [2026]'; 28 Jul 2026 comes from the press statement.",
+  "scope_reasoning": "National AI action plan with a substantial governance and safety part but a broader focus; the published record has no scope_note and this refresh does not change scope."
+ },
+ "extra_urls": [
+  {
+   "url": "https://strapi.naio.okie.my/uploads/AI_Nation_2030_National_AI_Action_Plan_2026_2030_EN_V_180826_ddf0221683.pdf",
+   "reason": "The plan's English text (stored in this run, round 1 request); now official_url."
+  },
+  {
+   "url": "https://strapi.naio.okie.my/uploads/Negara_AI_2030_Pelan_Tindakan_AI_Kebangsaan_2026_2030_BM_V_180826_28c3a5894d.pdf",
+   "reason": "The plan's Malay text (stored in this run, round 1 request); source of original_title."
+  },
+  {
+   "url": "https://strapi.naio.okie.my/uploads/28072026_SIARAN_MEDIA_AI_MALAYSIA_PEMACU_UTAMA_MENUJU_NEGARA_AI_2030_a6f8fbbbf3.pdf",
+   "reason": "The Ministry of Digital's press statement of 28 Jul 2026 (stored in this run, round 1 request); now secondary_url."
+  }
+ ],
+ "open_questions": [
+  "The plan PDFs AI Malaysia now serves are named as a version of 18 Aug 2026, three weeks after the plan was introduced on 28 Jul 2026, and the plan states no date. Whether the 18 Aug version revised the text introduced on 28 Jul (which would make 2026-08-18 a date_last_updated) is not shown by any stored file."
+ ],
+ "leads": []
+}

@@ -1,0 +1,112 @@
+{
+ "cand_id": "SG-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-02",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the joint press release of the Ministry of Communications and Information, IMDA and the PDPC on MDDI's newsroom (copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site's last-updated footer), which gives the name A.I. Verify, the date 26 May 2022, IMDA and PDPC as developers, the MVP and pilot status and the caveats; its Annex B (isomer-user-content.by.gov.sg, Government of Singapore), with the 11 principles, the 8 selected for the MVP and the toolkit's limitations; and IMDA's copy of the press release (secondary source, copy of 18 Oct 2026), whose text layer now includes the body as well as the dateline 'SWITZERLAND, DAVOS – 25 MAY 2022'. All three are announcements about the framework, so the title, date and status rest on another official source, not on the framework's own text (level B). No text of the 2022 testing framework itself was found on an official host; the AI Verify testing framework is now published by the AI Verify Foundation on aiverifyfoundation.sg, which is listed as not official."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release, paragraph 1",
+    "quote": "Singapore launches A.I. Verify - the world’s first AI Governance Testing Framework and Toolkit for companies who want to demonstrate responsible AI",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 1, Annex B",
+    "quote": "Development of A.I. Verify - AI Governance Testing Framework and Toolkit",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release byline",
+    "quote": "Joint Press Release by Ministry of Communications and Information, Infocomm Media Development Authority and Personal Data Protection Commission",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release, paragraph 3",
+    "quote": "A.I. Verify is developed by the Infocomm Media Development Authority (IMDA) and the Personal Data Protection Commission (PDPC).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release heading and date",
+    "quote": "Singapore launches worlds first AI testing framework and toolkit to promote transparency 26 May 2022",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/secondary.html",
+    "sha256": "e657fa75b66e31f2cd54022b40036b1bc6fbc9a418555861f35d53e6b8d15c46",
+    "locator": "IMDA press release dateline",
+    "quote": "Singapore Launches A.I. Verify 25 May 2022|6 mins read SWITZERLAND, DAVOS – 25 MAY 2022",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release, paragraph 10",
+    "quote": "As AI governance and testing is nascent, Singapore welcomes organisations to participate in piloting the MVP.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-11/document-1.pdf",
+    "sha256": "550a609eb68bfa538096a3fe840b64bf8fae9368b630115ab045cc736c4856c8",
+    "locator": "page 1, Annex B",
+    "quote": "This is currently available as a Minimum Viable Product (MVP) for system developers and owners who want to be more transparent about the performance of their AI systems",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release, paragraph 5",
+    "quote": "Allows AI system developers/owners to conduct self-testing – to maintain commercial requirements while providing a common basis to declare results.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-02/2026-10-18/official.html",
+    "sha256": "97c5e33eb7d644592243dd89ef7108186723add2cd6b9b6ed402eac3391153d0",
+    "locator": "press release, paragraph 5",
+    "quote": "Does not define ethical standards.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "the stored sources are a press release, its annex and IMDA's copy of the release: announcements, which count as alt-official and no longer as the framework's own text; the note says so, and that IMDA's page now has its body in the text layer"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Launched as a minimum viable product for an industry pilot in May 2022. Nothing stored shows that it was withdrawn; the MDDI page (copy of 18 Oct 2026) still carries the release. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2022-05-26 is MDDI's date for the joint press release; IMDA's copy carries the dateline 25 May 2022 (Davos), as the notes say. Both are announcements, so the date has alt-official support only.",
+  "scope_reasoning": "Unchanged: a government AI governance testing framework and toolkit; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

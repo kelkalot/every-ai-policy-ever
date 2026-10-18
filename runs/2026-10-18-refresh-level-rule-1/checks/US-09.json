@@ -1,0 +1,65 @@
+{
+ "cand_id": "US-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AISI as primary point of contact for voluntary pre- and post-deployment testing",
+   "verdict": "supported",
+   "locator": "memorandum Sec. 3.3(c)"
+  },
+  {
+   "claim": "NSPM-11 section 3(f) rescinds and replaces NSM-25",
+   "verdict": "supported",
+   "locator": "NSPM-11 Sec. 3(f)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found. The evidence script warns that the presidential-actions URL looks like an announcement; the page is the text of the memorandum itself (sections, signature), so official stays correct, and the fact sheet quotes are labelled alt-official. Status Revoked / withdrawn is supported by NSPM-11 section 3(f); Superseded would also be defensible. The companion Framework is not stored (open question kept). Search confirmed NSPM-11 of 5 June 2026 on whitehouse.gov and found nothing newer."
+}

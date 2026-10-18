@@ -1,0 +1,134 @@
+{
+ "cand_id": "ASEAN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ASEAN-01",
+ "record": {
+  "official_url": "https://asean.org/wp-content/uploads/2024/02/ASEAN-Guide-on-AI-Governance-and-Ethics_beautified_201223_v2.pdf",
+  "secondary_url": "https://asean.org/book/asean-guide-on-ai-governance-and-ethics/",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored in this run: the guide itself (asean.org PDF, 87 pages), now the official URL, which confirms the title, that it is an ASEAN-endorsed framework, its voluntary nature and 'Copyright 2024'; and the endorsed Joint Media Statement of the 4th ASEAN Digital Ministers' Meeting (asean.org PDF), the ministers' formal record that they endorsed the guide at their meeting in Singapore on 1-2 February 2024. The ASEAN Secretariat's publication page for the guide (rendered in a browser on 11 Oct 2026 and printed to PDF on 18 Oct 2026; the plain download fails with HTTP 307), which gives the ASEAN Secretariat as author and publisher and the year 2024, becomes the secondary URL: it is a catalogue entry about the guide, not its text. Neither source gives the day of endorsement, so date_published stays at the month. The Joint Media Statement's header reads 'as of 31 January 2023', an evident slip for 2024 in a statement on a February 2024 meeting."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 1, cover",
+    "quote": "ASEAN Guide on AI Governance and Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-11/official-rendered-2.html",
+    "sha256": "ee6ae3f9ba56c18cfcfdf1fbf7bb486cc850b0ba030f26bbdaea649cc2f5679f",
+    "locator": "publication page, breadcrumb",
+    "quote": "ASEAN Publication > ASEAN Guide on AI Governance and Ethics",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, heading",
+    "quote": "The 4th ASEAN Digital Ministers’ Meeting and Related Meetings Singapore, 1 - 2 February 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, paragraph 5",
+    "quote": "To that end, the Meeting endorsed the ASEAN Guide on Artificial Intelligence (AI) Governance and Ethics, which sets out ASEAN’s approach towards governing and leveraging the power of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 87, copyright notice",
+    "quote": "Copyright 2024 – Association of Southeast Asian Nations (ASEAN)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 9, 3. Target Audience",
+    "quote": "The ASEAN Guide on AI Governance and Ethics is an ASEAN-endorsed framework for organisations in the region to refer to when designing, developing, and deploying traditional AI technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-11/official-rendered-2.html",
+    "sha256": "ee6ae3f9ba56c18cfcfdf1fbf7bb486cc850b0ba030f26bbdaea649cc2f5679f",
+    "locator": "publication page, Abstract",
+    "quote": "This document serves as a practical guide for organisations in the region that wish to design, develop, and deploy traditional AI technologies in commercial and non military or dual use applications",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, paragraph 1",
+    "quote": "The 4th ASEAN Digital Ministers Meeting (ADGMIN) was held in Singapore on 1-2 February 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ASEAN-01/2026-10-11/official-rendered-2.html",
+    "sha256": "ee6ae3f9ba56c18cfcfdf1fbf7bb486cc850b0ba030f26bbdaea649cc2f5679f",
+    "locator": "publication page, More Details",
+    "quote": "Place Jakarta Publisher ASEAN Secretariat Year 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 8, 1. Objectives",
+    "quote": "While adoption of the framework laid out herein is voluntary, this Guide can help organisations build trust",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 8, 2. Assumptions",
+    "quote": "Guide on AI Governance and Ethics does not replace or supersede any existing or upcoming laws and only serves as a guide for responsible design, development, and deployment of AI in the region.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5d00a83eb3/2026-10-18/official.pdf",
+    "sha256": "a9cc025bbd1da0d6045b7aaa5d57fa3aa4183e734e1ca5075bc7154505b23598",
+    "locator": "page 1, paragraph 5",
+    "quote": "The Meeting also welcomes the recommendation to set up a new W orking Group under ADGSOM on AI Governance, including initial work on generative AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/ASEAN-01/extra-5195c06b15/2026-10-18/official.pdf",
+    "sha256": "6464a6d912a918a1b49c36b7dbd7f66b4756352e49164c5020f28b0b190bfe4e",
+    "locator": "page 8, 1. Objectives",
+    "quote": "This Guide is meant to be a living document that should be periodically reviewed and assessed by relevant ASEAN sectorial bodies",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the asean.org /book/ page (a catalogue entry about the guide) -> the guide's own PDF on asean.org, stored in this run (rule 7c)",
+   "secondary_url": "null -> the asean.org /book/ publication page, which gives the ASEAN Secretariat as author and publisher",
+   "verification.note": "rewritten for this run: the guide and the endorsed Joint Media Statement are stored, and the publication page becomes the secondary URL"
+  },
+  "confirmed": ["title", "date_published", "status", "issuing_body", "legal_force"],
+  "status_reasoning": "A voluntary guide endorsed by the ASEAN Digital Ministers at their meeting on 1-2 February 2024 and still listed as a current ASEAN publication. The 2025 Expanded Guide (ASEAN-02) supplements it rather than replacing it; nothing stored shows it withdrawn. Published (non-binding, current).",
+  "date_reasoning": "The endorsed Joint Media Statement records that the ministers endorsed the guide at their meeting in Singapore on 1-2 February 2024; the guide's copyright line gives 2024. No source gives the day of endorsement within the two-day meeting, so 2024-02 is kept. Both the guide and the ministers' statement are official, so the date keeps official evidence.",
+  "source_kind_reasoning": "The guide's PDF is the instrument's own text (official). The endorsed Joint Media Statement is the ASEAN Digital Ministers' formal outcome record of their meeting, in which they endorsed the guide: the deciding body's formal record of its decision (official), not a press release by a department. The /book/ page is a library catalogue entry about the guide (alt-official).",
+  "topics_reasoning": "Topics and summary unchanged; the guide supports them (risk impact assessments and human involvement set by level of risk, transparency and disclosure of AI use, accountability, the ASEAN working group)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,47 @@
+{
+ "cand_id": "IN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "No quote stored for this candidate shows 30 January 2025. The stored PSA copy gives only 'Jan 31, 2025', the date of the IndiaAI article. The 30 January date is in the PIB release stored in run 2026-10-18-recheck-south-asia-1 (archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html, 'Posted On: 30 JAN 2025'), but that file is not in this record's local_copy, so the evidence script cannot accept it here. The value is not changed by this run."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "hub-and-spoke model with academic and research institutions as spokes and private partners joining the hub",
+   "verdict": "supported",
+   "locator": "PSA PDF page 2"
+  },
+  {
+   "claim": "related calls cover watermarking and labelling, stress-testing tools and deepfake detection",
+   "verdict": "supported",
+   "locator": "PSA PDF page 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  {
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097709",
+   "reason": "PIB release of 30 Jan 2025 (stored in run 2026-10-18-recheck-south-asia-1, not linked to IN-01); it gives the announcement date for date_published."
+  }
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "An institutional mandate of an AI safety body."
+ },
+ "overall": "needs-human",
+ "note": "All stored evidence is an announcement, labelled alt-official, so level B is right. The one open point is date_published: the day is real but its file belongs to another run and is not linked to this record. Attach the PIB release to the record (extra_urls) so the date has accepted evidence. Search found no establishing order; a secondary report says a consultation paper is due, not a newer version."
+}

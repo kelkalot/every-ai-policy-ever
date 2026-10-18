@@ -1,0 +1,49 @@
+{
+ "cand_id": "MY-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Rule 7b: the plan's copyright line gives only 2026; the launch day, 28 July 2026, comes from the press statement and is in the notes."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "The copyright quote only shows publication by the Ministry; the plan is current and no repeal or replacement was found."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "national AI Trust Function to oversee testing and certification and keep a public AI incident registry",
+   "verdict": "supported",
+   "locator": "Trust enablers"
+  },
+  {
+   "claim": "builds on AIGE guidelines and Data Sharing Act 2025",
+   "verdict": "supported",
+   "locator": "plan text"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "A national AI action plan mainly about adoption and growth, with enablers on governance, an AI Trust Function and safety standards; suggested scope_note: 'National AI plan whose main content is adoption and economic growth; included for its Trust via Responsible Governance enablers on risk-based regulation, safety standards, testing and incident reporting.'"
+ },
+ "overall": "accept",
+ "note": "Supported by the plan's English and Malay PDFs on AI Malaysia's content server (listed as official) and the Ministry's press statement. The open question about whether the 18 August 2026 file is a revised text of the 28 July plan stands; no revised edition is announced on any page I found. The Ministry of Digital also issued an AI Governance Bill consultation paper in July 2026, which the notes already cover."
+}

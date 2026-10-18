@@ -1,0 +1,97 @@
+{
+ "cand_id": "CH-01",
+ "decision": "update",
+ "target_id": "CH-01",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CH-01/2026-10-18/official-print.pdf",
+    "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+    "locator": "page 1",
+    "quote": "AI regulation: Federal Council to ratify Council of Europe Convention",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CH-01/2026-10-11/secondary.html",
+    "sha256": "cce73c53de0b4ea9a43ce0700b45f029a716c0d2e36340e785ed63ec79d5251c",
+    "locator": "heading",
+    "quote": "KI-Regulierung: Bundesrat will Konvention des Europarats ratifizieren",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CH-01/2026-10-18/official-print.pdf",
+    "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+    "locator": "page 3",
+    "quote": "Publisher The Federal Council",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CH-01/2026-10-18/official-print.pdf",
+    "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+    "locator": "page 1",
+    "quote": "Published on 12 February 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CH-01/2026-10-11/secondary.html",
+    "sha256": "cce73c53de0b4ea9a43ce0700b45f029a716c0d2e36340e785ed63ec79d5251c",
+    "locator": "lead",
+    "quote": "Für diesen Ansatz hat sich der Bundesrat an seiner Sitzung vom 12. Februar 2025 ausgesprochen.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CH-01/2026-10-18/official-print.pdf",
+    "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+    "locator": "page 1",
+    "quote": "The Federal Council spoke out in favour of this approach at its meeting on 12 February.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/CH-01/extra-4f0739b51c/2026-10-18/official-print.pdf",
+    "sha256": "ebf6cae017742685384bea5b998cf7ae1c82f7a76bed4fa6d787d5aa1f3a5383",
+    "locator": "page 1",
+    "quote": "Am 27. Oktober 2025 hat das Bundesamt für Justiz mit Unterstützung von Expedition Zukunft eine partizipative Arbeitstagung organisiert",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CH-01/2026-10-18/official-print.pdf",
+    "sha256": "7a9ec2795fe64dca0b0de3e60f45327a1c8265a4c1f67ca2e8db0103b160e1ae",
+    "locator": "page 2",
+    "quote": "In addition to legislation, non-legally binding measures will be developed to help implement the Convention.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The decision of 12 Feb 2025 is a policy line, not a law, so 'Published (non-binding, current)' fits. The Federal Office of Justice page stored on 18 Oct 2026 still reports the consultation bill as in preparation (due end of 2026) and no stored text shows the consultation opened or the decision withdrawn.",
+  "scope_reasoning": "Unchanged; a government decision setting the regulatory approach to AI."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The decision is stored only as the Federal Council media release (an announcement, so alt-official); the formal decision text or Federal Council record is not stored, so no official-level evidence for the decision itself.",
+  "The stored files confirm German and English texts only; French and Italian in 'language' are not confirmed by a stored file."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

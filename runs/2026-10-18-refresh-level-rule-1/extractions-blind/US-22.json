@@ -1,0 +1,82 @@
+{
+ "cand_id": "US-22",
+ "decision": "update",
+ "target_id": "US-22",
+ "record": {
+  "date_published": "2026-03"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2",
+    "quote": "A National Policy Framework for Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1",
+    "quote": "LEGISLATIVE RECOMMENDATIONS",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1",
+    "quote": "LEGISLATIVE RECOMMENDATIONS THE WHITE HOUSE",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 1",
+    "quote": "MARCH 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 4",
+    "quote": "Congress should preempt state AI laws that impose undue burdens to ensure a minimally burdensome national standard consistent with these recommendations",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-22/2026-10-11/official.pdf",
+    "sha256": "d4f8973f19d7318137ebba973d03ea63af032123d3e629b5d1831cd24af1d6c0",
+    "locator": "page 2",
+    "quote": "Congress should empower parents and guardians with robust tools to manage their children’s privacy settings",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the document gives only 'MARCH 2026'; the day (20 March 2026) rests on a White House release not among my stored files, so the date is written 2026-03 and the day stays in notes (rule 7b)"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A set of recommendations to Congress with no commencement or expiry; the stored text shows no later event. Currency rests on the absence of a withdrawal in the stored files.",
+  "scope_reasoning": "Unchanged; flagged-free national AI policy framework with safety content (child safety, frontier model national security capacity)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The 20 March 2026 release day is not supported by any file I was given; the notes already carry it with its source."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

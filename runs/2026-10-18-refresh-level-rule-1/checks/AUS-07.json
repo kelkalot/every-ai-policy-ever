@@ -1,0 +1,44 @@
+{
+ "cand_id": "AUS-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "will not be a regulator",
+   "verdict": "supported",
+   "locator": "Government response, regulatory approach"
+  },
+  {
+   "claim": "guidance through the National AI Centre; keep laws in step",
+   "verdict": "supported",
+   "locator": "DISR news item"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "An institutional mandate of an AI safety body; in scope."
+ },
+ "overall": "accept",
+ "note": "The stored sources are an announcement and a government response, all correctly labelled alt-official, so the level is B. Search found no establishing instrument or legislation; later activity reported only by secondary sites."
+}

@@ -1,0 +1,47 @@
+{
+ "cand_id": "CN-17",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "unintended autonomous behaviour such as refusing shutdown and strategic underperformance in evaluations",
+   "verdict": "supported",
+   "locator": "page 61, Panel 1"
+  },
+  {
+   "claim": "five-level risk grading with a catastrophic and systemic top level",
+   "verdict": "supported",
+   "locator": "page 116"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The framework PDF (Chinese text then TC260's English text) supports title, issuer and the month, September 2026; the release day rests on the notices and is in the notes. english_version kind authentic is reasonable since the English text is TC260's own in the same file. No newer version found."
+}

@@ -1,0 +1,98 @@
+{
+ "cand_id": "INT-11",
+ "decision": "update",
+ "target_id": "INT-11",
+ "record": {
+  "date_published": "2024-11-21"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 1",
+    "quote": "International Network of AI Safety Institutes Mission Statement",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "heading",
+    "quote": "The International Network of AI Safety Institutes becomes the International Network for Advanced AI Measurement, Evaluation and Science",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 1",
+    "quote": "have gathered today in San Francisco on November 21, 2024 to launch the International Network of AI Safety Institutes",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "press release",
+    "quote": "Published:\n\n9 December 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "press release",
+    "quote": "The meeting confirmed the International Network of AI Safety Institutes’ transition into the International Network for Advanced AI Measurement Evaluation and Science",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 2",
+    "quote": "Through this Network, we are dedicated to collaborating broadly with partners to ensure that safe, secure, and trustworthy AI benefits all of humanity.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/INT-11/2026-10-17/secondary.html",
+    "sha256": "ca9bed20bd9d8d24123d73eb5893520d7cd33cf7ce01774a5fd7cd72d0598d1e",
+    "locator": "press release",
+    "quote": "The UK now takes on a Network Coordinator role as part of the changes",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/INT-11/2026-10-17/official.pdf",
+    "sha256": "7380c0ff55972c0c025266db9259ab8188d218784a78e52df4b81d438a2743fa",
+    "locator": "page 1",
+    "quote": "The International Network of AI Safety Institutes is intended to be a forum that brings together technical expertise from around the world.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the statement's own text dates the launch meeting 21 November 2024; the earlier 20 November 2024 comes from a US fact sheet that is not among my stored files, so the instrument's own date is used"
+  },
+  "confirmed": [
+   "title",
+   "status",
+   "legal_force",
+   "date_last_updated"
+  ],
+  "status_reasoning": "Mission statement from 2024 still operative; the Network was renamed in Dec 2025 (UK GOV.UK release of 9 Dec 2025) and continues. No withdrawal found in the stored files.",
+  "scope_reasoning": "Unchanged; mandate of an international network of AI safety institutes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published: the mission statement says 21 November 2024; a US launch fact sheet (not in my files) is said to be released 20 November 2024. A checker should compare both stored sources.",
+  "The stored statement does not use the word 'Joint' that the record title has, nor name the US Departments of Commerce and State as launchers (issuing_body); those rest on sources not in my files.",
+  "The GOV.UK release says 'Established in November 2024'; the statement text lists 'the European Commission' where the record says 'the EU'."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

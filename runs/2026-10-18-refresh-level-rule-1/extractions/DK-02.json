@@ -1,0 +1,151 @@
+{
+ "cand_id": "DK-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "DK-02",
+ "record": {
+  "title": "Bill amending the Copyright Act (protection of personal characteristics, etc. and changed procedure for review by the Copyright Licence Tribunal)",
+  "original_title": "Forslag til lov om ændring af lov om ophavsret. (Beskyttelse af personlige kendetegn m.v. og ændret proces for prøvelse ved Ophavsretslicensnævnet)",
+  "official_identifier": "L 49 (2026-27)",
+  "scope_note": "A copyright-law bill rather than an AI-specific law; included because it is Denmark's operative instrument against sharing realistic digitally generated imitations of people (deepfakes).",
+  "notes": "Implements the political agreement of 26 June 2025 between the then SVM government (Social Democrats, Venstre and Moderates) and six other parties to create protection against the sharing of digital imitations by amending the Copyright Act. A draft was notified under the EU TRIS procedure as 2025/0654/DK (received 31 October 2025, replacing the withdrawn notification 2025/642/DK; standstill to 3 February 2026, with comments from the Commission). The notified draft, titled in English 'Draft act amending the Copyright Act (Introduction of performance and presentation protection and protection against digitally generated imitations, etc.)', would add a Section 73a (personal characteristics) and a Section 65a (performances and artistic presentations) to the Copyright Act, protect both until 50 years after the year of death of the person imitated or the performer, let courts order infringing copies removed from the medium where they are made available, and enter into force on 1 July 2026; its exception did not yet mention danger to life or property. Culture Minister Zenia Stampe introduced the bill in the Folketing on 8 October 2026 as L 49, under a new title, and hopes it can enter into force at the turn of the year 2026/27. The bill also changes the rules of the Copyright Licence Tribunal (Ophavsretslicensnævnet) so that the same dispute cannot run before the tribunal and the courts in parallel.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Stored and read: the Ministry of Culture press release of 8 Oct 2026 (kum.dk, Danish, the official_url), which says the minister introduces the bill that day and is not the bill text; the Folketing's open-data case record for the bill (oda.ft.dk, case 106034, stored in this run), which gives its official title and the number L 49 and shows no decision and no law number (oda.ft.dk is not yet listed as an official host, so these quotes count as secondary); and the EU IP Helpdesk news item of 1 Jun 2026 on the TRIS notification (stored as the secondary source). The English title renders the Danish title of the bill as introduced; the earlier English title was that of the 2025 notified draft, whose TRIS English text was stored on 14 Oct 2026 and backs the notes on that draft. The session 2026-27 in the identifier follows from the date of introduction. The bill text as introduced and the minister's written introduction on ft.dk could not be stored (HTTP 403, browser timeout), so the date of introduction rests on the press release, the summary rests on the press release, and the record is level B."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+    "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+    "locator": "case record, titel",
+    "quote": "\"titel\":\"Forslag til lov om \\u00e6ndring af lov om ophavsret. (Beskyttelse af personlige kendetegn m.v. og \\u00e6ndret proces for pr\\u00f8velse ved Ophavsretslicensn\\u00e6vnet).\"",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, lead",
+    "quote": "Kulturminister Zenia Stampe fremsætter i dag et lovforslag, der skal sikre en stærkere beskyttelse mod digitale efterligninger af personlige kendetegn.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, Fakta om lovforslaget",
+    "quote": "Endelig indeholder lovforslaget en ændring af reglerne om Ophavsretslicensnævnet.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+    "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+    "locator": "case record, titel",
+    "quote": "\"titel\":\"Forslag til lov om \\u00e6ndring af lov om ophavsret. (Beskyttelse af personlige kendetegn m.v. og \\u00e6ndret proces for pr\\u00f8velse ved Ophavsretslicensn\\u00e6vnet).\"",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+    "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+    "locator": "case record, nummer",
+    "quote": "\"nummer\":\"L 49\",\"nummerprefix\":\"L\",\"nummernumerisk\":\"49\"",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, label and date",
+    "quote": "Pressemeddelelse 08.10.2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, lead",
+    "quote": "Kulturminister Zenia Stampe fremsætter i dag et lovforslag, der skal sikre en stærkere beskyttelse mod digitale efterligninger af personlige kendetegn.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/DK-02/extra-09c26cb8a2/2026-10-18/official.json",
+    "sha256": "5fc823e6102a418505d24757b94b3cfe185a9a4205de588346494548f0b47711",
+    "locator": "case record, decision and law number",
+    "quote": "\"lovnummer\":null,\"lovnummerdato\":null,\"retsinformationsurl\":null",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, paragraph 2",
+    "quote": "Kulturminister Zenia Stampe fremsætter i dag et lovforslag, der skal sikre retten til egen krop og stemme.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, paragraph 2",
+    "quote": "Med lovforslaget bliver det ulovligt at dele eksempelvis virkelighedstro gengivelser af en person, herunder vedkommendes udseende og stemme.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/DK-02/2026-10-11/official.html",
+    "sha256": "96aefee4bc0d989d142b03d014e5e2e700e9d432572cf700c1c94ce73eafea48",
+    "locator": "press release, lead",
+    "quote": "Kulturminister Zenia Stampe fremsætter i dag et lovforslag",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the bill introduced on 8 Oct 2026 has a different title from the 2025 notified draft; the English title now renders the Folketing's title of L 49 (no official English text of the bill is known)",
+   "original_title": "replaced the unverified wording with the bill's title verbatim from the Folketing's case record (the record's closing full stop dropped)",
+   "official_identifier": "the citable number of a bill is its Folketing number, L 49; the TRIS number of the 2025 draft stays in the notes",
+   "scope_note": "the published scope_note was a reviewer's remark (it cites 'section 10' and says 'A scope_note is advisable'); rewritten as a public statement of why the bill is borderline and included",
+   "notes": "gives the notified draft's English title, which no longer serves as the record's title, and the bill number; drops the remark that the English title is that of the notified draft",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "date_published",
+   "status",
+   "legal_force",
+   "issuing_body"
+  ],
+  "status_reasoning": "The press release of 8 Oct 2026 says the minister introduces the bill that day; the Folketing's case record (updated 15 Oct 2026) has no decision, no decision date and no law number. Still a bill: Draft / proposed.",
+  "date_reasoning": "8 Oct 2026, the day of introduction, rests on the press release (alt-official); the Folketing record stored in this run carries no date of introduction.",
+  "identifier_reasoning": "The case record gives 'L 49'; the Folketing numbers bills per session, and a bill introduced on 8 Oct 2026 belongs to the session that opened in October 2026 (2026-27).",
+  "issue_16": "Issue #16 asked for the Danish title, the identifier and the English title of the introduced bill; the Folketing's case record now gives the title and number.",
+  "scope_reasoning": "Non-AI-specific copyright law that is the operative instrument for a deepfake question: in, with a scope_note.",
+  "level_note": "Level B: the Folketing's case record counts as secondary until its host is recorded as official, and the date of introduction rests on the ministry's press release (alt-official)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://oda.ft.dk/api/Sag(106034)",
+   "reason": "The Folketing's case record for L 49 (stored in this run, round 1 request)."
+  },
+  {
+   "url": "https://www.ft.dk/ripdf/samling/20261/lovforslag/l49/20261_l49_som_fremsat.pdf",
+   "reason": "The bill as introduced (round 1 request). Not stored: HTTP 403, browser timeout."
+  },
+  {
+   "url": "https://www.ft.dk/ripdf/samling/20261/lovforslag/l49/20261_l49_fremsaettelsestale.pdf",
+   "reason": "The minister's written introduction (round 1 request). Not stored: HTTP 403, browser timeout."
+  }
+ ],
+ "open_questions": [
+  "The bill text as introduced (https://www.ft.dk/ripdf/samling/20261/lovforslag/l49/20261_l49_som_fremsat.pdf) could not be stored: ft.dk answered HTTP 403 and the browser retry timed out. A person could provide it with the 'Provide a document' form. It would give official evidence for the date of introduction (the record would then compute to level A), the provisions as introduced (the summary now rests on the press release) and the proposed entry-into-force date, and it would become official_url.",
+  "oda.ft.dk, the Folketing's open-data service, is not in pipeline/official-sites.json, so the quotes from the Folketing's case record for L 49 count as secondary. If a maintainer records oda.ft.dk (and ft.dk) as official for DK, the title, original_title, identifier and status quotes count as official; the date of introduction would still need the bill text."
+ ],
+ "leads": []
+}

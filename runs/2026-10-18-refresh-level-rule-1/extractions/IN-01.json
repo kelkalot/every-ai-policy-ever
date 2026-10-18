@@ -1,0 +1,76 @@
+{
+ "cand_id": "IN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IN-01",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. Every source of this record is an announcement about the institute: the IndiaAI article (the official_url), which could not be stored on any attempt (robots.txt unreachable, DNS failures, then a TLS certificate that could not be verified) and of which the Office of the Principal Scientific Adviser's PDF copy (psa.gov.in, the secondary_url, dated 31 Jan 2025) is stored; and the PIB release of MeitY of 30 Jan 2025 (PRID 2097709, pib.gov.in), stored on 18 Oct 2026 in run 2026-10-18-recheck-south-asia-1 but not reachable again in this refresh (DNS failure). No document that is itself the instrument, such as an order establishing the institute, is known, so the record is level B. The day of the announcement (30 Jan 2025) rests on the PIB release. The PSA copy confirms the announcement by the minister, the Safe and Trusted pillar, the mandate, the hub-and-spoke model and the second Expression of Interest themes (watermarking and labelling, AI risk assessment and management, stress-testing tools, deepfake detection) used in the summary. The India AI Governance Guidelines (IN-02) confirm the institute's later role. No stored source gives the institute's legal form or a date of formal operational launch."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 1, heading",
+    "quote": "India Takes the Lead: Establishing the IndiaAI Safety Institute for Responsible AI Innovation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 2",
+    "quote": "The Hon’ble Minister has announced the setting up of IndiaAI Safety Institute under the Safe and Trusted Pillar of the IndiaAI Mission to address AI risks & Safety Challenges.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 2",
+    "quote": "The Institute, incubated by IndiaAI Mission will be set up on a hub and spoke model with various research and academic institutions, private sector partners joining the hub",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 1",
+    "quote": "Hon’ble Minister of Electronics & IT, Shri Ashwini Vaishnaw in presence of Hon’ble MoS of E&IT",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification": "note rewritten for this refresh: the record is level B because all its sources are announcements"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "issuing_body"
+  ],
+  "status_reasoning": "An institutional mandate announced by the minister; nothing stored shows it was wound up, so it stays Published (non-binding, current).",
+  "date_reasoning": "The stored PSA copy of the IndiaAI article confirms the announcement but is dated 31 Jan 2025 and gives no day for the announcement itself; 30 Jan 2025 rests on the PIB release, which could not be stored again in this run. The value is left as published.",
+  "level_note": "The institute was set up by announcement; every known source is an announcement about it, so title, date and status count at most as alt-official (level B).",
+  "scope_reasoning": "Mandate of a national AI safety institute: in, with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097709",
+   "reason": "PIB release of MeitY of 30 Jan 2025 (round 1 request). Not stored in this run: DNS lookup failed."
+  }
+ ],
+ "open_questions": [
+  "date_published (2025-01-30) has no evidence stored in this run: the PIB release of 30 Jan 2025 (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097709) could not be reached (DNS failure); it is stored from run 2026-10-18-recheck-south-asia-1 at archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html. The stored PSA copy of the IndiaAI article is dated 31 Jan 2025.",
+  "The official_url (IndiaAI article on indiaai.gov.in) has never been stored from the archiver's network, and the article itself says its information was procured through secondary sources. The PIB release of 30 Jan 2025 is MeitY's own announcement and could serve as official_url; both are announcements, so the level stays B either way."
+ ],
+ "leads": []
+}

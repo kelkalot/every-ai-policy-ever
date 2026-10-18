@@ -1,0 +1,53 @@
+{
+ "cand_id": "NO-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "KI Norge runs the national AI sandbox with Datatilsynet and Nkom",
+   "verdict": "supported",
+   "locator": "allocation letter page 7, 3.2.1 and press release"
+  },
+  {
+   "claim": "NOK 10 million for KI Norge and NOK 4.8 million for the sandbox",
+   "verdict": "supported",
+   "locator": "allocation letter pages 15 and 17"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: an institutional mandate whose own text is a general allocation letter; the press release of the opening is an announcement, so title and date are alt-official (level B)."
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script and checked against the stored allocation letter (pages 1, 3, 6, 7, 15, 17) and the press releases. Press releases are labelled alt-official, correctly; the allocation letter is the ministry's own instrument. Status reads as published and current. The extractor's open question about anchoring the record on the allocation letter is a maintainer choice and does not change a value of this run. One targeted search found no later version; it shows supplementary letters to the allocation letter, which do not replace the record."
+}

@@ -1,0 +1,54 @@
+{
+ "cand_id": "SG-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "judgment-differs",
+   "why": "\"research priorities\" is defensible from the listed initial research areas; I would have kept the three earlier topics, but the quote supports it."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Initial research areas: testing and evaluation; safe model design, development and deployment; content assurance; governance and policy",
+   "verdict": "supported",
+   "locator": "factsheet paragraph 3"
+  },
+  {
+   "claim": "IMDA appointed NTU to establish the Centre in June 2022 with S$50 million",
+   "verdict": "supported",
+   "locator": "factsheet paragraph 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes found; the factsheet is an announcement and is labelled alt-official, so level B is correct. The AISI About page is a stored secondary source used for the current-work statements in the notes. No newer designation or change of status found in one targeted search."
+}

@@ -1,0 +1,130 @@
+{
+ "cand_id": "SG-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-08",
+ "record": {
+  "official_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+  "secondary_url": "https://www.mddi.gov.sg/newsroom/singapore-launches-new-model-ai-governance-framework-for-agentic-ai--/",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the framework's own text on imda.gov.sg, stored again in this run as the official source (same file as the record's earlier copy of 11 Oct 2026), whose cover reads 'Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)' and which says the version incorporates feedback received since v1.0; and MDDI's press release of 22 Jan 2026 (mddi.gov.sg, copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site footer), which gives the launch of Version 1.0 at Davos on 22 Jan 2026, IMDA as developer and the four dimensions. official_url now points to the framework's text and the press release becomes the secondary source. The framework's text confirms the title, the current version and its status, but not the date of Version 1.0, which rests on the press release, an announcement; so the date has another official source only (level B). No copy of Version 1.0 on an official host was found."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1, cover",
+    "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)",
+    "source_kind": "official"
+   }
+  ],
+  "secondary_url": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "press release heading",
+    "quote": "Singapore Launches New Model AI Governance Framework for Agentic AI 22 January 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1, cover",
+    "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "press release heading",
+    "quote": "Singapore Launches New Model AI Governance Framework for Agentic AI 22 January 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "press release, paragraph 1",
+    "quote": "Developed by the Infocomm Media Development Authority (IMDA), this first-of-its-kind framework for reliable and safe agentic AI deployment builds upon the governance foundations of MGF for AI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "press release, paragraph 1",
+    "quote": "DAVOS , 22 January 2026 – Minister for Digital Development and Information, Mrs Josephine Teo, announced the launch of the new Model AI Governance Framework for Agentic AI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1, cover",
+    "quote": "Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1, cover",
+    "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 4, Executive Summary",
+    "quote": "This is a living document. We have worked with government agencies and leading companies to collate current best practices",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-1/SG-08/extra-9fcbca777a/2026-10-18/official.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 3, Executive Summary",
+    "quote": "The Model AI Governance Framework (MGF) for Agentic AI gives organisations a structured overview of the risks of agentic AI and emerging best practices in managing these risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "press release, paragraph 1",
+    "quote": "It provides guidance to organisations on how to deploy agents responsibly",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record's official_url was MDDI's press release, an announcement; the framework's own text is published on imda.gov.sg and already stored as the record's secondary source, so it becomes official_url (rule 7c)",
+   "secondary_url": "the press release, previously official_url, becomes the secondary source",
+   "verification.note": "rewritten for the swap of the two sources and the level rule: title and status rest on the framework's text, the date of Version 1.0 on the press release"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored PDF is Version 1.5, published 20 May 2026 and updated 5 June 2026, and calls itself a living document that will be continuously updated. Nothing stored shows a withdrawal or a newer version. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2026-01-22 is the launch of Version 1.0 at Davos, given only by the press release (alt-official); the framework's own text (Version 1.5) gives no date for Version 1.0, only 'since v1.0'. date_last_updated 2026-06-05 is the 'Updated 5 June 2026' on the cover of the copy stored in this run, quoted as official.",
+  "scope_reasoning": "Unchanged: a government framework on governing agentic AI; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

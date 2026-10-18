@@ -69,6 +69,7 @@ If a tool fails or seems to be missing, an agent stops and says so; it does not 
 | `tools/definitions.py`, `data/definitions.json` | the definitions layer of the crosswalk (issue #70): defined terms quoted verbatim from records' stored sources, checked against the files, compared between two extractions and accepted by a checker; the scripts of a compare run (section 5.7) |
 | `tools/merge.py` | merges a pass into `records.json` with checks and writes the history |
 | `tools/package.py`, `tools/publish_hf.py` | the shareable zip, and the Hugging Face dataset, archive and Space; never run by a pipeline agent, and a release only with a human's confirmation (section 8) |
+| `tools/release_check.py` | tests of the built release (dataset tables, archive hashes, Space pages and links, history replay, credentials, the app in a headless browser); `publish_hf.py --release` runs it before uploading |
 | `index.html`, `assets/` | the web app; `assets/site-config.js` says where it is hosted |
 | `examples/analysis.py`, `docs/` | an example analysis from the SQLite file; the quality-check reports |
 
@@ -106,6 +107,7 @@ python3 tools/build.py                               # validate and regenerate d
 python3 tools/gate.py                                # every change against the rules, before a commit, merge or release
 python3 tools/archive.py --verify                    # re-hash every stored file; flags missing or changed copies
 python3 tools/archive.py --audit-robots              # stored files whose URL robots.txt disallows (RFC 9309); read-only
+python3 tools/release_check.py                       # tests of what a release uploads, on the build of publish_hf.py; read-only
 ```
 
 Not part of a pipeline run: `python3 tools/package.py` (the zip in `dist/`, human only) and `python3 tools/publish_hf.py --release` (Hugging Face; README section 9), which an agent may run only when a maintainer asks and confirms it.

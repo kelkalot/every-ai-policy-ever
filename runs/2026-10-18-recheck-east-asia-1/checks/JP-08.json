@@ -1,0 +1,50 @@
+{
+ "cand_id": "JP-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "CAIO veto authority including suspending deployment",
+   "verdict": "supported",
+   "locator": "guidebook page 7"
+  },
+  {
+   "claim": "Assessment and escalation of high-risk cases",
+   "verdict": "supported",
+   "locator": "guidebook page 6"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Re-verified against the Japanese originals; release 17 Mar 2026 in notes. No newer version found."
+}

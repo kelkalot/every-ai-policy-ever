@@ -1,0 +1,167 @@
+{
+ "cand_id": "JP-15",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-15",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the three-ministry council's page on the FDMA site (fdma.go.jp; copy of 14 Oct 2026, unchanged on 18 Oct 2026); the Japanese second edition (151 pages, 2021 年 3 月, 石油コンビナート等災害防止３省連絡会議; copy of 18 Oct 2026); the council's English edition of the second edition (158 pages, March 2021, with the working group's members in the annex); and the Japanese summary of the revision (copy of 18 Oct 2026, identical to that of 14 Oct 2026). They confirm the title, the Japanese title, the issuers, the first publication in November 2020 (2020年11月; 令和2年11月の公表以来), the second edition of March 2021, the study group of April 2020 to March 2021, the intention to keep reviewing the guidelines and the content; the summary is written from the English edition, which the council publishes as its English edition without a translation notice, and checked against the Japanese text. The archive's flag that a source changed on 18 Oct 2026 does not concern this instrument: that day the archiver stored, in the record's document-2 slot, a different PDF linked from the page (r05/jisyuhoan_shiryo_01.pdf, a summary of a survey on non-explosion-proof equipment in plants), not a new version of the revision summary. Nothing stored shows an edition after March 2021 or a withdrawal."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+    "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+    "locator": "page 1 (cover)",
+    "quote": "Guidelines on Assessment of AI Reliability in the Field of Plant Safety Second Edition",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+    "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+    "locator": "English Edition list",
+    "quote": "Guidelines on Assessment of AI Reliability in the Field of Plant Safety（Second Edition）",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+    "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+    "locator": "page 1 (cover)",
+    "quote": "プラント保安分野 AI 信頼性評価ガイドライン 第 2 版",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+    "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+    "locator": "自主保安資料 list",
+    "quote": "プラント保安分野AI信頼性評価ガイドライン　第2版（2021年3月改訂）",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+    "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+    "locator": "page 1 (cover)",
+    "quote": "2021 年 3 月 石油コンビナート等災害防止３省連絡会議 （経済産業省、総務省消防庁、厚生労働省）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+    "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+    "locator": "page 1 (cover)",
+    "quote": "March 2021 the Liaison Council of Three Ministries on Disaster Prevention of Petroleum Complexes (Ministry of Economy, Trade and Industry; Fire and Disaster Management Agency; and Ministry of Health, Labour and Welfare)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+    "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+    "locator": "自主保安資料 list",
+    "quote": "プラント保安分野におけるAIの活用（2020年11月）（石油コンビナート等災害防止3省連絡会議）",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+    "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+    "locator": "自主保安資料 list",
+    "quote": "プラント保安分野におけるAIの活用（2020年11月）（石油コンビナート等災害防止3省連絡会議）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-174ca648f3/2026-10-18/official.pdf",
+    "sha256": "3a9fd7d85935d8ea54d477ce209117926279d67e453ace0a76608725bb9e3110",
+    "locator": "page 1",
+    "quote": "令和2年11月の公表以来、ガイドラインの活用が進んでいる。",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+    "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+    "locator": "page 1 (cover)",
+    "quote": "2021 年 3 月 石油コンビナート等災害防止３省連絡会議 （経済産業省、総務省消防庁、厚生労働省）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+    "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+    "locator": "自主保安資料 list",
+    "quote": "プラント保安分野AI信頼性評価ガイドライン　第2版（2021年3月改訂）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+    "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+    "locator": "page 1 (cover)",
+    "quote": "March 2021 the Liaison Council of Three Ministries on Disaster Prevention of Petroleum Complexes",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+    "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+    "locator": "page 15, 1.1.3 本ガイドラインの策定経緯",
+    "quote": "今後、本ガイドラインの活用状況や、プラント保安分野の技術の進展、AI およびその品 質確保・評価技術の進展等を踏まえて、ガイドラインを継続的に見直していく。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+    "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+    "locator": "page 16, 1.1.3 Background to the formulation of Guidelines",
+    "quote": "In the future, the Guidelines will be continuously reviewed based on the status of their use",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+    "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+    "locator": "自主保安資料 list",
+    "quote": "プラント保安分野AI信頼性評価ガイドライン　第2版（2021年3月改訂）",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+    "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+    "locator": "page 3 (Executive Summary)",
+    "quote": "the Guidelines show how to properly manage AI reliability",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-174ca648f3/2026-10-18/official.pdf",
+    "sha256": "3a9fd7d85935d8ea54d477ce209117926279d67e453ace0a76608725bb9e3110",
+    "locator": "page 1",
+    "quote": "本ガイドラインは、安全性が重視されるプラントでAIの実装を促進することを目的として、AIの安全 性と生産性向上の品質を実現するための方法論を示す。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; the Japanese second edition and a current copy of the revision summary are now stored; explains the archive's source-changed flag, which comes from a different PDF stored in the record's slot, not from a change to this instrument"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The council's page (copy of 14 Oct 2026, unchanged on 18 Oct 2026) still lists the second edition of March 2021 as the current guideline, with its English edition, practical examples and Q&A; no later edition or withdrawal appears. The guidelines set out a methodology that plant owners and AI vendors can use and are to be reviewed continuously as they are used, so they are non-binding. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2020-11 is the first edition (2020年11月 on the page; 令和2年11月の公表 in the revision summary), given to the month as the official sources give it. date_last_updated 2021-03 is the second edition (2021 年 3 月 on the Japanese cover; 2021年3月改訂; 'March 2021').",
+  "scope_reasoning": "Government guidelines on assessing the reliability of machine learning in safety-critical plants; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,46 @@
+{
+ "cand_id": "CN-21",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The day comes from the TC260 release notice (alt-official); the PDF cover gives only the month. Level B follows mechanically."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Education guide: users are educational institutions, teachers; guide is an industry-sector file used with the general part",
+   "verdict": "supported",
+   "locator": "abstract"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Sector guide under TC260 AI application security guidelines."
+ },
+ "overall": "accept",
+ "note": "Same search as CN-20 (the four guides were released together): no revision found. All quotes matched the stored texts; the fields checked say what the record states. Level B is computed because the day of publication rests on the notice stored as the secondary source."
+}

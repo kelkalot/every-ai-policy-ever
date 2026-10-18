@@ -1,0 +1,139 @@
+{
+ "cand_id": "CN-28",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-28",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. The State Council's page on gov.cn could not be reached on 18 Oct 2026 (DNS lookup failed), so its copy of 16 Oct 2026 was read: the notice and the full plan in Chinese. It confirms the document number 国发〔2017〕35号, the State Council as issuer, the date of the notice (成文日期 8 Jul 2017, also under the State Council's signature) and the release date (发布日期 20 Jul 2017), and the plan's goals, safeguards and implementation sections. No English text by the State Council was found; the English title renders the Chinese title and matches the name DigiChina uses in its third-party English translation, stored on 16 Oct 2026. The summary follows the Chinese text. 安全 is rendered 'safety', as in the official English title of 人工智能安全治理框架 (CN-07); DigiChina renders 人工智能安全监管和评估体系, 安全评估和管控能力 and 安全认证 with 'security'."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "notice",
+    "quote": "现将《新一代人工智能发展规划》印发给你们，请认真贯彻执行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "plan heading",
+    "quote": "（此件公开发布） 新一代人工智能发展规划 人工智能的迅速发展将深刻改变人类社会生活、改变世界。",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "plan heading",
+    "quote": "（此件公开发布） 新一代人工智能发展规划 人工智能的迅速发展将深刻改变人类社会生活、改变世界。",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "document data",
+    "quote": "发文机关： 国务院 成文日期： 2017年07月08日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "notice signature",
+    "quote": "请认真贯彻执行。 国务院 2017年7月8日 （此件公开发布）",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "document data",
+    "quote": "发文字号： 国发〔2017〕35号",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "notice heading",
+    "quote": "国务院关于印发 新一代人工智能发展规划的通知 国发〔2017〕35号",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "document data",
+    "quote": "发文机关： 国务院 成文日期： 2017年07月08日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "notice signature",
+    "quote": "请认真贯彻执行。 国务院 2017年7月8日 （此件公开发布）",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "notice",
+    "quote": "各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 现将《新一代人工智能发展规划》印发给你们，请认真贯彻执行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "二、总体要求（三）战略目标",
+    "quote": "第三步，到2030年人工智能理论、技术与应用总体达到世界领先水平，成为世界主要人工智能创新中心",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "notice heading",
+    "quote": "国务院关于印发 新一代人工智能发展规划的通知 国发〔2017〕35号",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+    "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+    "locator": "六、组织实施（一）组织领导",
+    "quote": "成立人工智能规划推进办公室，办公室设在科技部，具体负责推进规划实施。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck: the gov.cn page could not be reached on 18 Oct 2026, so the copy of 16 Oct 2026 was read; the remarks on the State Council Gazette printing and on the history of DigiChina's translation are dropped because no file stored for this record shows them"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A State Council plan (规划) sent to provincial governments and State Council departments for implementation, with goals to 2020, 2025 and 2030; it is a policy plan, not a law or regulation, so it is non-binding. Its last horizon (2030) has not passed, and nothing stored shows it replaced or withdrawn; the State Council's 'AI+' Opinions of 2025 (CN-12) are a separate, later instrument. 'Published (non-binding, current)' stands. It sets no in-force date.",
+  "date_reasoning": "date_published 2017-07-08 is the date of the notice (成文日期, and the date under the State Council's signature); the page's 发布日期 is 2017-07-20, the release date given in the notes.",
+  "scope_reasoning": "Mainly a national plan for AI research, industry and adoption whose safety content sits in the safeguards on laws, ethics and a safety supervision and assessment system; the existing scope_note fits and is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

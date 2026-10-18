@@ -1,0 +1,146 @@
+{
+ "cand_id": "CN-26",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-26",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202607; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕80号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-20266A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only July 2026 (2026年7月), and the day, 1 July 2026, comes from the notice. The archiver flags the notice copy because the page has little readable text; the notice text itself is complete. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 1, cover",
+    "quote": "网络安全标准实践指南 ——智能体部署使用安全指引 （v1.0-202607）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-26/2026-10-18/secondary.html",
+    "sha256": "546455bcabe776d8ad12c143718a41f066014fc4c1b9b5d5ac90dec854f07c37",
+    "locator": "notice, attachments",
+    "quote": "《网络安全标准实践指南——智能体部署使用安全指引》.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-20266A 网络安全标准实践指南 ——智能体部署使用安全指引",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 1, cover",
+    "quote": "（v1.0-202607） 全国网络安全标准化技术委员会秘书处 2026 年 7 月",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 2, foreword",
+    "quote": "是全国 网络安全标准化技术委员会（以下简称“网安标委”）秘书处组织 制定和发布的标准相关技术文件",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-20266A 网络安全标准实践指南",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-26/2026-10-18/secondary.html",
+    "sha256": "546455bcabe776d8ad12c143718a41f066014fc4c1b9b5d5ac90dec854f07c37",
+    "locator": "notice header",
+    "quote": "发布时间： 2026-07-01 网安秘字〔2026〕80号",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CN-26/2026-10-18/secondary.html",
+    "sha256": "546455bcabe776d8ad12c143718a41f066014fc4c1b9b5d5ac90dec854f07c37",
+    "locator": "notice signature",
+    "quote": "附件：《网络安全标准实践指南——智能体部署使用安全指引》 全国网络安全标准化技术委员会秘书处 2026年7月1日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 1, cover",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026 年 7 月",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-20266A 网络安全标准实践指南 ——智能体部署使用安全指引 （v1.0-202607）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 5, 1 范围",
+    "quote": "本文件适用于智能体部署使用的安全风险防范，也可为选择使用 商业智能体服务提供参考。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-26/2026-10-18/secondary.html",
+    "sha256": "546455bcabe776d8ad12c143718a41f066014fc4c1b9b5d5ac90dec854f07c37",
+    "locator": "notice text",
+    "quote": "为指导使用者安全部署使用智能体，降低相关安全风险隐患，秘书处组织编制了《网络安全标准实践指南——智能体部署使用安全指引》。",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 2, foreword",
+    "quote": "是全国 网络安全标准化技术委员会（以下简称“网安标委”）秘书处组织 制定和发布的标准相关技术文件，旨在围绕网络安全法律法规政 策、标准、网络安全热点和事件等主题",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+    "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+    "locator": "page 6, 5 概述",
+    "quote": "使用者宜按照本文件第6章至第10章 安全指引做好安全防护，并参照本文件附录A进行安全检查。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for the files read in this recheck; the day of publication is now said to rest on the notice, since the PDF's cover gives only the month"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A TC260 Secretariat practice guide, described in its foreword as a standards-related technical document giving practical guidance (page 2); users 'should' (宜) follow its chapters 6 to 10 and check against Annex A (page 6). Released as version v1.0-202607 with the notice of 1 July 2026. The PDF fetched again on 18 Oct 2026 is byte-identical to the copy of 14 Oct 2026 (its server's last-modified date is 24 Aug 2026), and nothing stored shows a later version or a withdrawal, so 'Published (non-binding, current)' and 'Non-binding' stand. It sets no in-force date.",
+  "date_reasoning": "date_published 2026-07-01 is the notice's 发布时间 and signature date; the PDF's cover gives only 2026年7月. The notice was stored in this run as the record's secondary source, so it counts at most as alt-official; version 1 quoted the same notice page (same SHA-256), then stored as a further source of the discover run.",
+  "scope_reasoning": "Government standards-body security guidance on deploying and using high-permission AI agents, with human confirmation of high-risk operations and emergency stop; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,116 @@
+{
+ "run_id": "2026-10-18-recheck-east-asia-1",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.0,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "original_title": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "issuing_body": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "official_identifier": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_published": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_in_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  }
+ },
+ "disagreements": {
+  "CN-01": [
+   {
+    "field": "safety_topics",
+    "first": [
+     "transparency & labelling",
+     "accountability & liability",
+     "child safety",
+     "deepfakes & synthetic media",
+     "risk-based classification"
+    ],
+    "blind": null
+   }
+  ],
+  "CN-25": [],
+  "JP-07": [],
+  "JP-08": [],
+  "JP-11": [
+   {
+    "field": "original_title",
+    "first": "ヘルスケア領域におけるAIセーフティ評価観点ガイド ～Trustworthy AI（信頼できるAI）の実現を目指して～",
+    "blind": null
+   },
+   {
+    "field": "issuing_body",
+    "first": "Japan AI Safety Institute (J-AISI)",
+    "blind": null
+   }
+  ]
+ },
+ "resulting_record_agreement": 0.966,
+ "resulting_record_fields": 58
+}

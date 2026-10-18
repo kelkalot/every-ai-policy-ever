@@ -1,0 +1,220 @@
+{
+ "cand_id": "CN-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-05",
+ "record": {
+  "notes": "Announced on 18 Oct 2023 by President Xi Jinping in his keynote speech at the opening of the Third Belt and Road Forum for International Cooperation, and published in Chinese on the CAC website the same day. The Ministry of Foreign Affairs' English text is dated 20 Oct 2023.",
+  "secondary_url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Ministry of Foreign Affairs' English text of the Initiative (mfa.gov.cn, copy of 11 Oct 2026, filed under Resources > Communiqués), dated 'Updated: October 20, 2023', which confirms the title, the non-binding form ('we would like to suggest the following') and the content behind the summary; the Chinese text on the CAC website (cac.gov.cn, stored in this run on 18 Oct 2026), dated 2023年10月18日 12:00, which confirms the Chinese title, the date and the same content; and the MFA spokesperson's remarks of 18 Oct 2023 (mfa.gov.cn, stored in this run on 18 Oct 2026), which say that President Xi announced at the opening of the Third Belt and Road Forum that morning that China would put forward the Initiative. The archiver flagged the spokesperson's page for review because the title appears only a few times; it is the right page. The gov.cn page of version 1's secondary URL was not stored: the archiver could not reach gov.cn's robots.txt on 11 Oct 2026 and its DNS lookup failed on 18 Oct 2026, so the spokesperson's page on mfa.gov.cn replaces it. Version 1's note that the Initiative is the conceptual basis of TC260's AI Safety Governance Framework and the 2025 Action Plan, and that the MFA page was re-posted in May 2024, rest on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "page title",
+    "quote": "Global AI Governance Initiative_Ministry of Foreign Affairs of the People's Republic of China",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "breadcrumb and heading",
+    "quote": "Home Resources Communiqués Global AI Governance Initiative Updated: October 20, 2023 15:14",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "page title",
+    "quote": "全球人工智能治理倡议_中央网络安全和信息化委员会办公室",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "heading",
+    "quote": "全球人工智能治理倡议 2023年10月18日 12:00 来源： 中国网信网",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+    "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+    "locator": "spokesperson's answer",
+    "quote": "今天上午，习近平主席出席第三届“一带一路”国际合作高峰论坛开幕式，并在主旨演讲中宣布中方将提出《全球人工智能治理倡议》。",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "page title",
+    "quote": "Global AI Governance Initiative_Ministry of Foreign Affairs of the People's Republic of China",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "heading",
+    "quote": "全球人工智能治理倡议 2023年10月18日 12:00 来源： 中国网信网",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+    "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+    "locator": "heading",
+    "quote": "外交部发言人就《全球人工智能治理倡议》答记者问 2023-10-18 13:43",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "body",
+    "quote": "To make this happen, we would like to suggest the following:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "body",
+    "quote": "为此，我们倡议：",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "last paragraph",
+    "quote": "We support discussions within the United Nations framework to establish an international institution to govern AI",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "body",
+    "quote": "To make this happen, we would like to suggest the following:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "third paragraph",
+    "quote": "We welcome governments, international organizations, companies, research institutes, civil organizations, and individuals to jointly promote the governance of AI",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "body",
+    "quote": "We should promote the establishment of a testing and assessment system based on AI risk levels, implement agile governance, and carry out tiered and category-based management for rapid and effective response.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "body",
+    "quote": "——推动建立风险等级测试评估体系，实施敏捷治理，分类分级管理，快速有效响应。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "body",
+    "quote": "ensure that AI always remains under human control, and build trustworthy AI technologies that can be reviewed, monitored, and traced.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "body",
+    "quote": "All countries, especially major countries, should adopt a prudent and responsible attitude to the research, development, and application of AI technologies in the military field.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "last paragraph",
+    "quote": "积极支持在联合国框架下讨论成立国际人工智能治理机构，协调国际人工智能发展、安全与治理重大问题。",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+    "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+    "locator": "question",
+    "quote": "问：10月18日，习近平主席在第三届“一带一路”国际合作高峰论坛开幕式主旨演讲中提出《全球人工智能治理倡议》",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+    "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+    "locator": "heading",
+    "quote": "全球人工智能治理倡议 2023年10月18日 12:00 来源： 中国网信网",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-05/2026-10-11/official.html",
+    "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+    "locator": "heading",
+    "quote": "Global AI Governance Initiative Updated: October 20, 2023 15:14",
+    "source_kind": "official"
+   }
+  ],
+  "secondary_url": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+    "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+    "locator": "heading",
+    "quote": "外交部发言人就《全球人工智能治理倡议》答记者问 2023-10-18 13:43",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "version 1's claims that the Initiative is the conceptual basis of the AI Safety Governance Framework and the 2025 Action Plan, and that the MFA page was re-posted in May 2024, rest on no stored file and were removed (CN-07 and CN-11 stay linked); the CAC publication of the Chinese text on 18 Oct 2023 added",
+   "secondary_url": "the gov.cn page of version 1 cannot be stored (robots.txt unreachable, then DNS failure); the MFA spokesperson's remarks of 18 Oct 2023 on mfa.gov.cn, stored in this run, give the same facts (announcement by President Xi at the Third Belt and Road Forum)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A policy statement in which China suggests principles and measures ('we would like to suggest the following'; '为此，我们倡议'); it has no binding force and nothing stored shows it withdrawn or replaced. The 2025 Global AI Governance Action Plan (CN-11) is a separate document and does not replace it. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2023-10-18 is the day President Xi announced the Initiative (MFA spokesperson, 2023-10-18 13:43: '今天上午 ... 宣布中方将提出') and the CAC published the Chinese text (2023年10月18日 12:00). The MFA English page's 'Updated: October 20, 2023' is a later posting (notes).",
+  "issuing_body_reasoning": "The spokesperson says President Xi announced that China (中方) would put forward the Initiative, and the MFA publishes it among its communiqués; 'Government of the People's Republic of China (announced by President Xi Jinping; text published by the Ministry of Foreign Affairs)' is kept.",
+  "scope_reasoning": "A government declaration on AI governance whose main content is risk governance (risk-level testing and assessment, human control, military AI, an international institution under the UN); in scope with no note.",
+  "english_version": "kept: the English text is published by the Ministry of Foreign Affairs as the government's own text (the page also offers French, Spanish, Russian and Arabic); 'authentic' stands."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm",
+   "reason": "The CAC page with the Chinese text of 全球人工智能治理倡议, dated 2023年10月18日 12:00: supports original_title and date_published 2023-10-18. (stored in this run)"
+  },
+  {
+   "url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+   "reason": "MFA spokesperson's remarks on the Initiative of 18 Oct 2023: President Xi announced at the opening of the Third Belt and Road Forum that China would put forward the Initiative; supports issuing_body, date_published and notes, and is proposed as secondary_url in place of the gov.cn page, which the archiver cannot reach. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

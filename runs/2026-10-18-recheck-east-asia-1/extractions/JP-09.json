@@ -1,0 +1,146 @@
+{
+ "cand_id": "JP-09",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-09",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp, the English guidebook version 1.02 (89 pages, 2026-05-14) and its Japanese reference translation (107 pages), all copies of 14 Oct 2026 that the archiver re-checked unchanged on 18 Oct 2026. The release page and the guidebook's version history confirm the title, the three version dates, the issuer and its contributors, that the guide is to be revised over time, and that the English version is the official edition and the Japanese one a reference translation; the summary and notes were checked against the English text and still hold."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 1 (cover)",
+    "quote": "Data Quality Management Guidebook Maximizing the Value of Data and AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+    "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+    "locator": "release page, list of documents",
+    "quote": "Data Quality Management Guidebook (Version 1.02), published on 14 May 2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 84, 6.1 Publishing Organizations and Contributors",
+    "quote": "Japan AI Safety Institute (J -AISI) is the government initiative responsible for ensuring safety as a foundation for accelerating AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 85, 6.1 Publishing Organizations and Contributors",
+    "quote": "This document has been jointly produced by J -AISI’s standards team and a team of data experts from IPA’s Digital Infrastructure Center",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+    "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+    "locator": "release page, list of documents",
+    "quote": "Data Quality Management Guidebook (Version 1.00), published on 31 March 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 86, 6.3 Version History",
+    "quote": "Version 1.00 (2025-03-31) o Released initial version.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+    "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+    "locator": "release page, list of documents",
+    "quote": "Data Quality Management Guidebook (Version 1.02), published on 14 May 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 85, 6.3 Version History",
+    "quote": "Version 1.02 (2026-05-14) o Converted the document format from a presentation -based format to a text-based format",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+    "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+    "locator": "release page, English text",
+    "quote": "This English version of the guide is the official edition, while the Japanese version serves as a reference.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+    "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+    "locator": "release page, English text",
+    "quote": "will continue to revise and update the guide as necessary to reflect your input as well as technological and societal developments",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+    "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+    "locator": "release page, English text",
+    "quote": "this guide identifies what needs to be done to continually ensure the data quality required to maximize the value of data and AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 85, 6.1",
+    "quote": "This is a living document, and we welcome feedback from readers.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 9, 2.4 AI Safety and Data Quality",
+    "quote": "The following list organizes key evaluation perspectives related to AI safety, with data quality positioned as one of them.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+    "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+    "locator": "page 21, 3.3 Three Views of the Framework",
+    "quote": "It uses three views: the Process View , the Governance Cycle View , and the Gateway (data quality characteristics) View.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; no field of the record changed"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Version 1.02 of 14 May 2026 is the current version on J-AISI's release page (re-checked unchanged on 18 Oct 2026); the page says the guide will be revised as needed and the guidebook calls itself a living document. It is a guidebook with no obligations. Nothing stored shows a later version or a withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "date_published 2025-03-31 is the release of version 1.00 (release page and version history); date_last_updated 2026-05-14 is version 1.02. Version 1.01 of 2 Dec 2025 is in the notes.",
+  "scope_reasoning": "The existing scope_note stands: a data quality guidebook that J-AISI issued as AI safety guidance, placing data quality among its evaluation perspectives on AI safety.",
+  "summary_reasoning": "The summary and notes were checked against version 1.02 (evaluation perspectives on AI safety, ISO/IEC 25012 and 5259, three views, annotation, bias, drift, synthetic data; version history; contributors; checklist version 1.00 on the release page) and are kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

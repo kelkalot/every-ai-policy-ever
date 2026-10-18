@@ -1,0 +1,178 @@
+{
+ "cand_id": "CN-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-03",
+ "record": {
+  "notes": "Adopted at the Cyberspace Administration of China's 12th office meeting of 2023 on 23 May 2023 with the consent of the six co-issuing bodies, signed on 10 Jul 2023, published on the CAC website on 13 Jul 2023 and in force from 15 Aug 2023 (Art. 24). Generated images, videos and other content are labelled under the Deep Synthesis Provisions (Art. 12, CN-02), and services with public-opinion attributes or social-mobilisation capacity file their algorithms under the Algorithmic Recommendation Provisions (Art. 17, CN-01). The competent departments are to issue classified and graded supervision rules or guidelines for particular sectors (Art. 16), and services provided to China from abroad that break the rules can be dealt with by technical and other measures (Art. 20).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the CAC page with the full text of the Measures (cac.gov.cn, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the order number (令 第15号), the seven issuing bodies, the CAC office meeting of 23 May 2023, the signature date 10 Jul 2023, the page date 13 Jul 2023, the 24 articles and the entry into force on 15 Aug 2023 (Art. 24); and China Law Translate's unofficial English translation (chinalawtranslate.com, copy of 11 Oct 2026, posted 13 Jul 2023), which is the record's english_version and secondary URL. Version 1's notes said that the Measures are implemented through CAC's generative AI service filing and that TC260-003 and GB/T 45654-2025 set the technical requirements; neither rests on a stored file of this record, so both were removed (the standards stay linked as CN-06 and CN-10). Nothing stored shows an amendment or repeal."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "order preamble",
+    "quote": "《生成式人工智能服务管理暂行办法》已经2023年5月23日国家互联网信息办公室2023年第12次室务会会议审议通过",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/secondary.html",
+    "sha256": "fa13b791de1665e5cc254cd7fccde0e1a285bc6067fff35fe86d61fbb6e928ad",
+    "locator": "translation title",
+    "quote": "Interim Measures for the Management of Generative Artificial Intelligence Services",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "page title",
+    "quote": "生成式人工智能服务管理暂行办法_中央网络安全和信息化委员会办公室",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "order header",
+    "quote": "国家互联网信息办公室 中华人民共和国国家发展和改革委员会 中华人民共和国教育部 中华人民共和国科学技术部 中华人民共和国工业和信息化部 中华人民共和国公安部 国家广播电视总局 令 第15号",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "order header",
+    "quote": "国家广播电视总局 令 第15号",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "signatures of the order",
+    "quote": "国家广播电视总局局长 曹淑敏 2023年7月10日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/secondary.html",
+    "sha256": "fa13b791de1665e5cc254cd7fccde0e1a285bc6067fff35fe86d61fbb6e928ad",
+    "locator": "translation header",
+    "quote": "Promulgation Date: 2023-7-10",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 24",
+    "quote": "第二十四条 本办法自2023年8月15日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "order preamble",
+    "quote": "现予公布，自2023年8月15日起施行。",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 24",
+    "quote": "第二十四条 本办法自2023年8月15日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "page header",
+    "quote": "生成式人工智能服务管理暂行办法 2023年07月13日 15:00 来源： 中国网信网",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 21",
+    "quote": "第二十一条 提供者违反本办法规定的，由有关主管部门依照《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《中华人民共和国科学技术进步法》等法律、行政法规的规定予以处罚",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 12",
+    "quote": "第十二条 提供者应当按照《互联网信息服务深度合成管理规定》对图片、视频等生成内容进行标识。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 17",
+    "quote": "提供具有舆论属性或者社会动员能力的生成式人工智能服务的，应当按照国家有关规定开展安全评估，并按照《互联网信息服务算法推荐管理规定》履行算法备案和变更、注销备案手续。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 16",
+    "quote": "制定相应的分类分级监管规则或者指引。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-03/2026-10-11/official.html",
+    "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+    "locator": "Article 20",
+    "quote": "对来源于中华人民共和国境外向境内提供生成式人工智能服务不符合法律、行政法规和本办法规定的，国家网信部门应当通知有关机构采取技术措施和其他必要措施予以处置。",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/CN-03/2026-10-11/secondary.html",
+    "sha256": "fa13b791de1665e5cc254cd7fccde0e1a285bc6067fff35fe86d61fbb6e928ad",
+    "locator": "byline",
+    "quote": "By China Law Translate on 2023/07/13",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "version 1's remarks on implementation through the CAC filing and on TC260-003 and GB/T 45654-2025 rest on no stored file and were removed, and the remark on the secondary URL is about the sources (now in verification.note); Arts. 12, 16, 17 and 20 added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Art. 24 and the order's preamble make the Measures effective from 15 Aug 2023, which has passed (today 18 Oct 2026). The stored CAC page, unchanged when rechecked on 18 Oct 2026, carries the original text with no note of amendment or repeal, and nothing stored shows either. 'In force' stands.",
+  "date_reasoning": "date_published 2023-07-10 is the signature date under the order (China Law Translate also gives 'Promulgation Date: 2023-7-10'); the CAC page is dated 13 Jul 2023 (notes). date_in_force 2023-08-15 is Art. 24.",
+  "scope_reasoning": "AI-specific binding rules on generative AI services offered to the public; in scope with no note.",
+  "summary": "version 1's summary matches Arts. 2, 4, 7, 10, 12, 15 and 17 and is kept.",
+  "english_version": "kept: China Law Translate's translation is stored and is a third-party translation (the site is listed as not official)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

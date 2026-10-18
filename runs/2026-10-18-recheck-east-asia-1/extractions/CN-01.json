@@ -1,0 +1,264 @@
+{
+ "cand_id": "CN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-01",
+ "record": {
+  "summary": "Binding rules (35 articles) for providers using algorithmic recommendation technology, such as generation and synthesis, personalised push, ranking, search filtering, and scheduling and decision-making, to provide internet information services in China. Providers must set up algorithm security management, regularly review their algorithms, models and data, label unmarked synthetic content, publicise how their services work, let users switch off recommendations or personal-feature targeting, and protect minors, the elderly, workers and consumers. Services with public-opinion attributes or social-mobilisation capacity must file their algorithms and undergo security assessments.",
+  "safety_topics": [
+   "transparency & labelling",
+   "accountability & liability",
+   "child safety",
+   "deepfakes & synthetic media",
+   "risk-based classification"
+  ],
+  "notes": "Adopted at the Cyberspace Administration of China's 20th office meeting of 2021 on 16 Nov 2021 with the consent of MIIT, the Ministry of Public Security and SAMR, signed on 31 Dec 2021, published on the CAC website on 4 Jan 2022 and in force from 1 Mar 2022 (Art. 35). The cyberspace authorities and the telecoms, public security and market regulation departments manage providers by class and grade according to public-opinion attributes, content, user numbers, data and the degree of intervention in user behaviour (Art. 23). Providers with public-opinion attributes or social-mobilisation capacity file through the internet information service algorithm filing system within ten working days of starting a service (Art. 24) and display their filing number (Art. 26). Breaches of the main duties can lead to warnings, suspension of information updates and fines of 10,000 to 100,000 yuan (Art. 31).",
+  "english_version": {
+   "kind": "third-party translation",
+   "url": "https://www.chinalawtranslate.com/en/algorithms/",
+   "by": "China Law Translate"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the CAC page with the full text of the Provisions (cac.gov.cn, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the order number (令 第9号), the four issuing bodies, the CAC office meeting of 16 Nov 2021, the signature date 31 Dec 2021, the page date 4 Jan 2022, the 35 articles and the entry into force on 1 Mar 2022 (Art. 35). The State Council Gazette copy on gov.cn (the secondary URL) was not stored: the archiver could not reach gov.cn's robots.txt on 11 Oct 2026 and its DNS lookup failed on 18 Oct 2026. Version 1's notes cited Gazette 2022 No. 9 and said that the filing system also serves the deep synthesis, generative AI and anthropomorphic AI rules; neither rests on a stored file of this record, so both were removed. Nothing stored shows an amendment or repeal. The English title is a rendering; no English text by a Chinese public body was found. China Law Translate's unofficial English translation (chinalawtranslate.com, stored in this run on 18 Oct 2026, posted 4 Jan 2022, from the CAC text) is recorded as english_version; it renders the title as 'Provisions on the Management of Algorithmic Recommendations in Internet Information Services'."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "order preamble",
+    "quote": "《互联网信息服务算法推荐管理规定》已经2021年11月16日国家互联网信息办公室2021年第20次室务会议审议通过",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "page title",
+    "quote": "互联网信息服务算法推荐管理规定_中央网络安全和信息化委员会办公室",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "heading above Chapter 1",
+    "quote": "互联网信息服务算法推荐管理规定 第一章 总 则 第一条 为了规范互联网信息服务算法推荐活动",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "order header",
+    "quote": "国家互联网信息办公室 中华人民共和国工业和信息化部 中华人民共和国公安部 国家市场监督管理总局 令 第9号",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "order preamble",
+    "quote": "并经工业和信息化部、公安部、国家市场监督管理总局同意，现予公布，自2022年3月1日起施行。",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "order header",
+    "quote": "国家市场监督管理总局 令 第9号",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "signatures of the order",
+    "quote": "国家市场监督管理总局局长 张 工 2021年12月31日",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 35",
+    "quote": "第三十五条 本规定自2022年3月1日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "order preamble",
+    "quote": "现予公布，自2022年3月1日起施行。",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 35",
+    "quote": "第三十五条 本规定自2022年3月1日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "page header",
+    "quote": "互联网信息服务算法推荐管理规定 2022年01月04日 10:02 来源： 中国网信网",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 31",
+    "quote": "法律、行政法规没有规定的，由网信部门和电信、公安、市场监管等有关部门依据职责给予警告、通报批评，责令限期改正；拒不改正或者情节严重的，责令暂停信息更新，并处一万元以上十万元以下罚款。",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 2",
+    "quote": "前款所称应用算法推荐技术，是指利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 8",
+    "quote": "算法推荐服务提供者应当定期审核、评估、验证算法机制机理、模型、数据和应用结果等",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 9",
+    "quote": "发现未作显著标识的算法生成合成信息的，应当作出显著标识后，方可继续传输。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 16",
+    "quote": "并以适当方式公示算法推荐服务的基本原理、目的意图和主要运行机制等。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 17",
+    "quote": "算法推荐服务提供者应当向用户提供不针对其个人特征的选项，或者向用户提供便捷的关闭算法推荐服务的选项。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 27",
+    "quote": "第二十七条 具有舆论属性或者社会动员能力的算法推荐服务提供者应当按照国家有关规定开展安全评估。",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 23",
+    "quote": "网信部门会同电信、公安、市场监管等有关部门建立算法分级分类安全管理制度",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 18",
+    "quote": "不得利用算法推荐服务诱导未成年人沉迷网络。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 13",
+    "quote": "不得生成合成虚假新闻信息",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 24",
+    "quote": "具有舆论属性或者社会动员能力的算法推荐服务提供者应当在提供服务之日起十个工作日内通过互联网信息服务算法备案系统填报服务提供者的名称",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-01/2026-10-11/official.html",
+    "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+    "locator": "Article 26",
+    "quote": "完成备案的算法推荐服务提供者应当在其对外提供服务的网站、应用程序等的显著位置标明其备案编号并提供公示信息链接。",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-01/extra-d48eee7f57/2026-10-18/official.html",
+    "sha256": "31a1b908142a2006b5af322990e432e43f494968519571c31332708ee2ef46f1",
+    "locator": "byline and header",
+    "quote": "By China Law Translate on 2022/01/04 Promulgation Date: 2021-12-31 Title: Provisions on the Management of Algorithmic Recommendations in Internet Information Services",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-01/extra-d48eee7f57/2026-10-18/official.html",
+    "sha256": "31a1b908142a2006b5af322990e432e43f494968519571c31332708ee2ef46f1",
+    "locator": "header",
+    "quote": "Source of text: http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-01/extra-d48eee7f57/2026-10-18/official.html",
+    "sha256": "31a1b908142a2006b5af322990e432e43f494968519571c31332708ee2ef46f1",
+    "locator": "Article 35",
+    "quote": "Article 35: These Provisions are to take effect on March 1, 2022.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the text: version 1's opening claim that this is China's first binding AI-specific rule rests on no stored file; Art. 8 (regular review of algorithms, models, data and outcomes), Art. 16 and Art. 27 (security assessment) made explicit",
+   "safety_topics": "added risk-based classification: Art. 23 sets up classified and graded security management of algorithmic recommendation services",
+   "notes": "version 1's reference to State Council Gazette 2022 No. 9 and its remark that the filing system serves other rules rest on no stored file and were removed; Arts. 23, 24, 26 and 31 added",
+   "english_version": "required and missing; China Law Translate's English translation, stored in this run, is a third-party translation (chinalawtranslate.com is listed as not official)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Art. 35 and the order's preamble make the Provisions effective from 1 Mar 2022, which has passed (today 18 Oct 2026). The stored CAC page, unchanged when rechecked on 18 Oct 2026, carries the original text with no note of amendment or repeal, and nothing stored shows either. 'In force' stands.",
+  "date_reasoning": "date_published 2021-12-31 is the signature date under the order; the office meeting of 16 Nov 2021 adopted it and the CAC page is dated 4 Jan 2022 (both in notes). date_in_force 2022-03-01 is Art. 35.",
+  "scope_reasoning": "AI-specific binding departmental rules on algorithmic recommendation, including generation and synthesis algorithms; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.chinalawtranslate.com/en/algorithms/",
+   "reason": "China Law Translate's English translation of the Provisions (a third-party translation; the same site's translation of the Generative AI Measures is already stored for CN-03); needed to record english_version, which is required because the official text is in Chinese only. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

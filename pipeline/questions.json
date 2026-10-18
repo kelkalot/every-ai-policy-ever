@@ -2291,6 +2291,27 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-recheck-americas-1 (5 records)"
+  },
+  {
+   "key": "sample:2026-10-18-recheck-east-asia-1",
+   "kind": "sample",
+   "subject": "2026-10-18-recheck-east-asia-1",
+   "run_id": "2026-10-18-recheck-east-asia-1",
+   "records": [
+    "CN-18",
+    "CN-22",
+    "CN-25",
+    "HK-01",
+    "JP-08"
+   ],
+   "why": "Human sample of run 2026-10-18-recheck-east-asia-1: check each record against its stored sources.",
+   "state": "open",
+   "issue": 154,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/154",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-recheck-east-asia-1 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

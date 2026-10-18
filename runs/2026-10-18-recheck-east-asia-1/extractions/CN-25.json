@@ -1,0 +1,139 @@
+{
+ "cand_id": "CN-25",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-25",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version V1.0-202509; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2025〕125号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-202515A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only September 2025 (2025年9月). The notice, signed on 15 Sept 2025 and posted on 22 Sept 2025, gives the day and says the guide implements the Interim Measures for generative AI services. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1, cover",
+    "quote": "网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南 （V1.0-202509）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-25/2026-10-18/secondary.html",
+    "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+    "locator": "notice title",
+    "quote": "关于发布《网络安全标准实践指南——生成式人工智能服务安全应急响应指南》的通知",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202515A 网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1, cover",
+    "quote": "（V1.0-202509） 全国网络安全标准化技术委员会秘书处 2025 年 9 月",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 2, foreword",
+    "quote": "是全国网络安全标准化技术委员会（以下简称“网安标委”） 秘书处组织制定和发布的标准相关技术文件",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202515A 网络安全标准实践指南",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-25/2026-10-18/secondary.html",
+    "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+    "locator": "notice signature",
+    "quote": "附件：《网络安全标准实践指南——生成式人工智能服务安全应急响应指南》 全国网络安全标准化技术委员会秘书处 2025年9月15日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1, cover",
+    "quote": "全国网络安全标准化技术委员会秘书处 2025 年 9 月",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202515A 网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南 （V1.0-202509）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 5, abstract",
+    "quote": "管理措施和技术方法，可用于指导生成 式人工智能服务提供者及相关部门提高安全应急响应能力。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-25/2026-10-18/secondary.html",
+    "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+    "locator": "notice header",
+    "quote": "发布时间： 2025-09-22 网安秘字〔2025〕125号",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 2, foreword",
+    "quote": "是全国网络安全标准化技术委员会（以下简称“网安标委”） 秘书处组织制定和发布的标准相关技术文件，旨在围绕网络 安全法律法规政策、标准、网络安全热点和事件等主题，",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-25/2026-10-18/secondary.html",
+    "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+    "locator": "notice text",
+    "quote": "为贯彻落实《生成式人工智能服务管理暂行办法》要求，指导生成式人工智能服务提供者等有关单位做好安全应急响应工作",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for the files read in this recheck; the China Law & Practice page of version 1 is not among this record's stored files and is no longer described, and the day of publication is now said to rest on the notice, since the PDF's cover gives only the month"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A TC260 Secretariat practice guide, described in its foreword as a standards-related technical document giving practical guidance (page 2), which 'can be used to guide' generative AI service providers and departments (page 5). The notice released it to implement the Interim Measures and guide providers; it creates no obligations of its own. The PDF fetched again on 18 Oct 2026 is byte-identical to the copy of 14 Oct 2026, and nothing stored shows a later version or a withdrawal, so 'Published (non-binding, current)' and 'Non-binding' stand. It sets no in-force date.",
+  "date_reasoning": "date_published 2025-09-15 is the date under the Secretariat's signature on the notice; the notice was posted on 2025-09-22 (发布时间), which the notes give. The PDF's cover gives only 2025年9月. The notice was stored in this run as the record's secondary source, so it counts at most as alt-official; version 1 quoted the same notice page (same SHA-256), then stored as a further source of the discover run.",
+  "scope_reasoning": "Government standards-body guidance on incident classification and emergency response for generative AI services under the Interim Measures (CN-03); in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

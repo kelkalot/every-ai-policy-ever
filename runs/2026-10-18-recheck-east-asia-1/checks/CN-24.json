@@ -1,0 +1,58 @@
+{
+ "cand_id": "CN-24",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "At least 200 safety-annotation items per risk and at least 3% safety annotation share (in the MLex copy)",
+   "verdict": "supported",
+   "locator": "lines on annotation data"
+  },
+  {
+   "claim": "A batch is discarded when more than 5% fails safety verification",
+   "verdict": "supported",
+   "locator": "verification clause"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "CN-18",
+  "CN-20",
+  "CN-22",
+  "CN-23"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": "Recommended national standard on security of GenAI data annotation; in scope as a technical standard."
+ },
+ "overall": "accept",
+ "note": "Searched for a revision or replacement of GB/T 45674-2025: none found. All quotes matched the stored texts; the fields checked say what the record states."
+}

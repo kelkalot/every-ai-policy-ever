@@ -1,0 +1,214 @@
+{
+ "cand_id": "HK-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "HK-02",
+ "record": {
+  "notes": "Released by the Digital Policy Office on 15 Apr 2025; the current text is version 1.1 (December 2025). The DPO commissioned the Hong Kong Generative AI Research and Development Center (HKGAI), established in 2023 with AIR@InnoHK funding, to study and suggest codes and guidelines, and promulgated the guideline after considering its findings; it says it will update the guideline regularly. Where the Chinese and English versions differ, the English version prevails. It is published on the same DPO page as the Ethical AI Framework (HK-01).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Digital Policy Office's page 'AI and Data Ethics' (digitalpolicy.gov.hk, copy of 11 Oct 2026, re-checked unchanged on 18 Oct 2026), which says the DPO commissioned HKGAI and promulgated the guideline, and links its PDF; the guideline PDF, version 1.1 dated December 2025 (copy of 11 Oct 2026, unchanged on 18 Oct 2026), with its preamble, the technical limitations and service risks, the four-tier risk classification, the five dimensions of governance and the practical guidance for technology developers, service providers and users; and the HKSAR Government press release of 15 Apr 2025 (info.gov.hk, 18 Oct 2026), 'Digital Policy Office releases Hong Kong Generative Artificial Intelligence Technical and Application Guideline', which dates the release to 15 Apr 2025. date_published, empty in the earlier record, now follows the press release. The PDF has no version history, so what changed in version 1.1 is not stated."
+  },
+  "date_published": "2025-04-15"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 1 (cover)",
+    "quote": "Hong Kong Generative Artificial Intelligence Technical and Application Guideline Version: 1.1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "quote": "the DPO promulgated the Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, headline",
+    "quote": "Digital Policy Office releases Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/HK-02/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "quote": "The DPO commissioned the Hong Kong Generative AI Research and Development Center (HKGAI) to study and suggest appropriate codes and guidelines",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "quote": "the DPO promulgated the Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 2, Preamble",
+    "quote": "has commissioned the Hong Kong Generative AI Research and Development Center (HKGAI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, third paragraph",
+    "quote": "Having considered the research findings and recommendations, the DPO promulgated the Guideline.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 1 (cover)",
+    "quote": "Version: 1.1 December 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/HK-02/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "quote": "Click here to download PDF file of the Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 2, Preamble",
+    "quote": "The DPO will continue to review the latest technologies and application development related to generative AI and update the content of the guideline regularly.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 2, Preamble",
+    "quote": "so as to provide relevant codes and practices on the technology and the use of generative artificial intelligence (AI) technologies for reference by various sectors",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+    "quote": "aims to provide practical operational guidance for technology developers, service providers, and users in the application of generative AI technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, fifth paragraph",
+    "quote": "The office will regularly update the Guideline for reference by all sectors.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, first paragraph",
+    "quote": "The Digital Policy Office (DPO) released today (April 15) the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, sixth paragraph",
+    "quote": "Established in 2023 with funding from the AIR@InnoHK, which focuses on AI and robotics technology, the HKGAI focuses on the research and development (R&D) of generative AI technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, fifth paragraph",
+    "quote": "The office will regularly update the Guideline for reference by all sectors.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 2, note",
+    "quote": "In the event of any discrepancies between the Chinese and English versions of this document, please refer to the English version and notify the Digital Policy Office.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 15, 2.1.2 Service Risks",
+    "quote": "The proposed AI governance framework establishes a four-tiered risk classification system, creating a proportionate governance approach based on potential harm.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 30",
+    "quote": "High-risk AI-generated content, such as deepfakes, ID document images, and financial materials, should include irremovable watermarks or embedded codes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 32, 3.2.1",
+    "quote": "they should hire independent auditors to regularly audit the quality, safety, and compliance of the services",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-02/2026-10-11/document-1.pdf",
+    "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+    "locator": "page 21, 2.1.3.5 Human Oversight",
+    "quote": "The degree of human oversight should be based on the impact of different stages",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, first paragraph",
+    "quote": "The Digital Policy Office (DPO) released today (April 15) the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+    "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+    "locator": "press release, footer",
+    "quote": "Ends/Tuesday, April 15, 2025",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "was null; the HKSAR Government press release of 15 Apr 2025 says the DPO released the guideline that day",
+   "notes": "release date and HKGAI's founding and AIR@InnoHK funding added from the press release; the remarks on why date_published was empty and that the guideline was 'reportedly first issued in April 2025 (not verified)' concern the research and were removed; the English-prevails clause added from the PDF",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The DPO page (re-checked unchanged on 18 Oct 2026) presents the guideline as promulgated by the DPO and links version 1.1 of December 2025; the preamble calls it codes and practices for reference by various sectors and says the DPO will update it regularly. It is non-binding guidance; nothing stored shows a later version or a withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "date_published 2025-04-15: the press release says the DPO 'released today (April 15)' the guideline and is dated Tuesday, April 15, 2025. date_last_updated 2025-12 is version 1.1's date, given only as 'December 2025'.",
+  "scope_reasoning": "Government guidance on the risks and governance of generative AI for developers, service providers and users; in scope with no note.",
+  "summary_reasoning": "Each claim was checked against version 1.1: hallucination, bias, deepfakes, jailbreaks and data leakage as risks; five dimensions of governance; the four risk tiers; watermarks for high-risk content; independent audits; risk assessments at stages of service development; human oversight proportionate to impact. The summary is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

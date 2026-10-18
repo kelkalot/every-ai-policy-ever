@@ -1,0 +1,51 @@
+{
+ "cand_id": "CN-20",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The day 2026-09-15 comes from the release notice (alt-official as the record's secondary source); the PDF cover gives only the month. Level B follows mechanically."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Five security grades and capability maturity level no lower than the application grade",
+   "verdict": "supported",
+   "locator": "body"
+  },
+  {
+   "claim": "Notice 网安秘字〔2026〕118号 releases four guides together",
+   "verdict": "supported",
+   "locator": "notice"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Searched for a revised general part: none found. All quotes matched the stored texts; the fields checked say what the record states. Level B is computed because the day of publication rests on the notice stored as the secondary source."
+}

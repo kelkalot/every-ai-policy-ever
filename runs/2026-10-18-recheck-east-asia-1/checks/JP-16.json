@@ -1,0 +1,48 @@
+{
+ "cand_id": "JP-16",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Does not uniformly ban or obligate use of generative AI in schools",
+   "verdict": "supported",
+   "locator": "page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "JP-02",
+  "JP-03"
+ ],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept."
+ },
+ "overall": "accept",
+ "note": "Ver.2.0 of 26 Dec 2024 still current per MEXT's new site; no later version found."
+}

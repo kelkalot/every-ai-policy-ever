@@ -1,0 +1,284 @@
+{
+ "cand_id": "CN-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-04",
+ "record": {
+  "summary": "Trial measures that set up ethics review of science and technology activities involving human participants or laboratory animals, or posing ethics risks to life and health, the environment or public order. Units doing life-science, medical or AI work in ethically sensitive areas must set up ethics committees, which check among other things that algorithms, models and systems follow fairness, justice, transparency, reliability and controllability principles. Listed higher-risk activities need expert re-review, among them human-machine fusion systems, algorithms able to mobilise public opinion, and highly autonomous automated decision systems in settings with safety or health risks.",
+  "safety_topics": [
+   "human oversight",
+   "accountability & liability",
+   "risk-based classification"
+  ],
+  "notes": "Issued by the Ministry of Science and Technology and nine other bodies with a notice of 7 Sept 2023, after approval by the Central Science and Technology Commission; published on the MOST website on 8 Oct 2023 and in force from 1 Dec 2023 (Art. 56). Activities on the list in the annex, which MOST publishes and adjusts, need expert re-review organised by provincial or sectoral authorities after the unit's initial review (Arts. 25-34). Units register their ethics committees and listed activities on a national platform and report each year (Arts. 43-45). Emergency reviews are generally completed within 72 hours (Art. 36). Low-risk activities can use a simplified procedure (Art. 22).",
+  "english_version": {
+   "kind": "third-party translation",
+   "url": "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf",
+   "by": "Etcetera Language Group, Inc., for the Center for Security and Emerging Technology (CSET), Georgetown University"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the notice with the full text of the Measures and the annex in the State Council policy library on gov.cn (copy of 16 Oct 2026), which gives the document number 国科发监〔2023〕167号, the ten issuing bodies, the drafting date (成文日期) 7 Sept 2023, 56 articles and the entry into force on 1 Dec 2023 (Art. 56); and the same notice on the MOST website (most.gov.cn, copy of 11 Oct 2026), which gives the publication date (发布日期) 8 Oct 2023 and marks the document as valid (有效). Version 1's notes gave the publication as 8-10 Oct 2023; only 8 Oct rests on a stored file. Nothing stored shows an amendment or repeal. The English title is a rendering; no English text by a Chinese public body was found. CSET's English translation (cset.georgetown.edu, stored in this run on 18 Oct 2026; translator Etcetera Language Group, translation date 3 Apr 2025, from the MOST text) is recorded as english_version; it renders the title as '(Trial) Measures for Science and Technology Ethics Reviews' and also gives 7 Sept 2023 as the drafting date and 8 Oct 2023 as the publication date."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "page title",
+    "quote": "关于印发《科技伦理审查办法（试行）》的通知_国务院部门文件_中国政府网",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "heading of the Measures",
+    "quote": "（此件主动公开） 科技伦理审查办法（试行） 第一章 总则",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "notice",
+    "quote": "《科技伦理审查办法（试行）》已经中央科技委员会同意，现印发给你们，请遵照实施。",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "signatures of the notice",
+    "quote": "科技部 教育部 工业和信息化部 农业农村部 国家卫生健康委 中国科学院 中国社科院 中国工程院 中国科协 中央军委科技委 2023年9月7日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-11/secondary.html",
+    "sha256": "4ac2b55420448d2f0f046dd32cc78d3062e55da4d8f6a34e6650c3df7c5503d3",
+    "locator": "metadata",
+    "quote": "科技部;教育部;工业和信息化部;农业农村部;国家卫生健康委;中国科学院;中国社科院;中国工程院;中国科协;中央军委科技委",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "metadata",
+    "quote": "发文字号：国科发监〔2023〕167号",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-11/secondary.html",
+    "sha256": "4ac2b55420448d2f0f046dd32cc78d3062e55da4d8f6a34e6650c3df7c5503d3",
+    "locator": "metadata",
+    "quote": "发文字号： 国科发监〔2023〕167号 有 效 性： 有效",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "metadata",
+    "quote": "成文日期：2023年09月07日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "signatures of the notice",
+    "quote": "中国科协 中央军委科技委 2023年9月7日",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 56",
+    "quote": "第五十六条 本办法自2023年12月1日起施行。",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 56",
+    "quote": "第五十六条 本办法自2023年12月1日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-11/secondary.html",
+    "sha256": "4ac2b55420448d2f0f046dd32cc78d3062e55da4d8f6a34e6650c3df7c5503d3",
+    "locator": "metadata",
+    "quote": "发文字号： 国科发监〔2023〕167号 有 效 性： 有效",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "notice",
+    "quote": "现印发给你们，请遵照实施。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 47",
+    "quote": "由有管辖权的机构依据法律、行政法规和相关规定给予处罚或者处理；造成财产损失或者其他损害的，依法承担民事责任；构成犯罪的，依法追究刑事责任。",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 2",
+    "quote": "（三）不直接涉及人或实验动物，但可能在生命健康、生态环境、公共秩序、可持续发展等方面带来伦理风险挑战的科技活动；",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 4",
+    "quote": "从事生命科学、医学、人工智能等科技活动的单位，研究内容涉及科技伦理敏感领域的，应设立科技伦理（审查）委员会。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 15(5)",
+    "quote": "算法、模型和系统的设计、实现、应用等遵守公平、公正、透明、可靠、可控等原则",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Annex, item 5",
+    "quote": "5. 对人类主观行为、心理情绪和生命健康等具有较强影响的人机融合系统的研发。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Annex, item 6",
+    "quote": "6. 具有舆论社会动员能力和社会意识引导能力的算法模型、应用程序及系统的研发。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Annex, item 7",
+    "quote": "7. 面向存在安全、人身健康风险等场景的具有高度自主能力的自动化决策系统的研发。",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 25",
+    "quote": "第二十五条 建立需要开展专家复核的科技活动清单制度，对可能产生较大伦理风险挑战的新兴科技活动实施清单管理。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 22",
+    "quote": "（一）科技活动伦理风险发生的可能性和程度不高于最低风险；",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CN-04/2026-10-11/secondary.html",
+    "sha256": "4ac2b55420448d2f0f046dd32cc78d3062e55da4d8f6a34e6650c3df7c5503d3",
+    "locator": "metadata",
+    "quote": "发布日期： 2023年10月08日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 36",
+    "quote": "应急审查一般在72小时内完成。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 43",
+    "quote": "单位应在设立科技伦理（审查）委员会后30日内，通过国家科技伦理管理信息登记平台进行登记。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-04/2026-10-16/official.html",
+    "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+    "locator": "Article 26",
+    "quote": "通过科技伦理（审查）委员会的初步审查后，由本单位报请所在地方或相关行业主管部门组织开展专家复核。",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-04/extra-7a742ebdb3/2026-10-18/official.pdf",
+    "sha256": "e6993ab6ef3b7d014575bf42e4d30f71cc683dc1b4273384e823c08e4253130d",
+    "locator": "page 1, header",
+    "quote": "Title (Trial) Measures for Science and Technology Ethics Reviews",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-04/extra-7a742ebdb3/2026-10-18/official.pdf",
+    "sha256": "e6993ab6ef3b7d014575bf42e4d30f71cc683dc1b4273384e823c08e4253130d",
+    "locator": "page 1, source block",
+    "quote": "Source MOST website. These (Trial) Measures were formulated on September 7, 2023 and were publicized on October 8, 2023.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-04/extra-7a742ebdb3/2026-10-18/official.pdf",
+    "sha256": "e6993ab6ef3b7d014575bf42e4d30f71cc683dc1b4273384e823c08e4253130d",
+    "locator": "page 1, source block",
+    "quote": "Translator Etcetera Language Group, Inc. Editor Ben Murphy, CSET Translation Manager",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the text: Art. 2 scope, Art. 4 (AI units set up ethics committees), Art. 15(5) as a review criterion of the committees rather than a general requirement, and the annex's three AI-related items",
+   "safety_topics": "added risk-based classification: listed higher-risk activities need expert re-review (Art. 25) and minimal-risk activities can use a simplified procedure (Art. 22)",
+   "notes": "publication date narrowed to 8 Oct 2023 (MOST page); version 1's 10 Oct rests on no stored file; Arts. 22, 25-34, 36 and 43-45 added",
+   "english_version": "required and missing; CSET's English translation, stored in this run, is a third-party translation (translator Etcetera Language Group, edited by CSET)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Art. 56 makes the Measures effective from 1 Dec 2023, which has passed (today 18 Oct 2026). The MOST page (copy of 11 Oct 2026) marks the document as valid (有效), and nothing stored shows an amendment, repeal or replacement; the AI-specific ethics measures of March 2026 (CN-15) build on it rather than replace it. 'In force' stands.",
+  "date_reasoning": "date_published 2023-09-07 is the drafting date (成文日期) and the date under the issuing bodies' names; MOST published it on 8 Oct 2023 (notes). date_in_force 2023-12-01 is Art. 56.",
+  "scope_reasoning": "Not AI-specific: a cross-sector ethics review regime, included with its existing scope_note for its AI-related review list (Art. 4, Art. 15(5), annex items 5-7) and as the parent framework of CN-15; the scope_note is kept.",
+  "legal_force_reasoning": "Issued by ten bodies with an instruction to comply (请遵照实施) and penalty provisions (Arts. 47-48); 'Binding' kept."
+ },
+ "extra_urls": [
+  {
+   "url": "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf",
+   "reason": "CSET (Georgetown University) English translation of the final Measures, made by Etcetera Language Group according to CSET; a third-party translation, needed to record english_version, which is required because the official text is in Chinese only. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

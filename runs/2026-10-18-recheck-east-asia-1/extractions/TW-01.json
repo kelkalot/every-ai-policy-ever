@@ -1,0 +1,296 @@
+{
+ "cand_id": "TW-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "TW-01",
+ "record": {
+  "summary": "Framework law setting seven principles for government AI policy: sustainable development and well-being, human autonomy, privacy protection and data governance, cybersecurity and safety, transparency and explainability, fairness and non-discrimination, and accountability. The government must prevent AI uses that infringe life, body, liberty or property or involve discrimination or misleading information, and regulators must restrict or prohibit them. High-risk applications must carry warnings. MODA must promote an AI risk taxonomy and assessment framework and assessment tools, liability and remedies for high-risk AI must be defined, and agencies must risk-assess their own AI use.",
+  "notes": "Enacted in full (20 articles) by presidential order promulgated on 14 Jan 2026 (ROC 115-01-14), and in force from promulgation (Art. 20). Agencies must review the laws and administrative measures they administer and make, amend or repeal them within two years of the Act's effective date (Art. 18). The Executive Yuan must set up a National AI Strategic Committee, convened by the Premier with the NSTC handling its staff work, which formulates the National AI Development Guidelines and meets at least once a year (Art. 6). High-risk applications are those a central sector authority, in consultation with the Ministry of Digital Affairs, identifies as such (Art. 5(2)).",
+  "language": "Chinese (Traditional)",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://law.nstc.gov.tw/EngLawContent.aspx?lan=E&id=10099",
+   "by": "National Science and Technology Council"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Act's page on the National Science and Technology Council's law database (law.nstc.gov.tw, copy of 18 Oct 2026, which differs from the copy of 11 Oct 2026 only in the visitor counter), giving the title 人工智慧基本法, the promulgation date 民國115年01月14日 (14 Jan 2026), the order number 華總一義字第11500001671號 and the text of Articles 1 to 20; the Act's history page on the same database (法規沿革, 18 Oct 2026), whose only entry is the enactment in full of 20 articles by presidential order of 14 Jan 2026, in force from promulgation, so no amendment has followed; the NSTC's English translation of the Act (EngLawContent, HTML and PDF of 18 Oct 2026), titled 'Artificial Intelligence Basic Act', dated 2026.01.14 and 'Promulgated on January 14, 2026'; and the database's list of English-translated laws (copy of 11 Oct 2026; on 18 Oct 2026 it came back as an empty script shell). The English text is a translation the NSTC publishes, not an authentic text, so English was moved from language to english_version. The summary is written from the Chinese text and uses the translation's terms (for Article 16, 'AI risk taxonomy and assessment framework'). No stored page names the Legislative Yuan or the date of its third reading (reported in late December 2025): the sentence on it was removed from the notes, and issuing_body, which names the Legislative Yuan, is kept as published and raised as an open question."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Content, Title",
+    "quote": "Title： Artificial Intelligence Basic Act Ch Date： 2026.01.14",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-11/secondary.html",
+    "sha256": "32b7d9c73b84b1ec568e170a153b3b14a9e555bb8fb7d3d026c8573b306d3154",
+    "locator": "英譯法規清單 (list of English-translated laws), entry 1",
+    "quote": "2026.01.14 CH人工智慧基本法 ENArtificial Intelligence Basic Act",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "法規內容, 法規名稱",
+    "quote": "法規名稱： 人工智慧基本法",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "法規內容, 法規名稱",
+    "quote": "法規名稱： 人工智慧基本法",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+    "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+    "locator": "法規沿革, entry 1",
+    "quote": "1.中華民國115年1月14日總統華總一義字第 11500001671 號令制定公布全文 20 條",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 2",
+    "quote": "本法所稱主管機關：在中央為國家科學及技術委員會",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Article 2",
+    "quote": "refers to the National Science and Technology Council at the central government level",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "法規內容, 發文字號",
+    "quote": "發文字號： 華總一義字第11500001671號 令",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+    "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+    "locator": "法規沿革, entry 1",
+    "quote": "1.中華民國115年1月14日總統華總一義字第 11500001671 號令制定公布全文 20 條",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "法規內容, 公發布日",
+    "quote": "公發布日： 民國 115 年 01 月 14 日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Legislative",
+    "quote": "Legislative： 1.Promulgated on January 14, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-11/secondary.html",
+    "sha256": "32b7d9c73b84b1ec568e170a153b3b14a9e555bb8fb7d3d026c8573b306d3154",
+    "locator": "英譯法規清單, entry 1, 公發布日",
+    "quote": "2026.01.14 CH人工智慧基本法",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 20",
+    "quote": "第 20 條 本法自公布之日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+    "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+    "locator": "法規沿革, entry 1",
+    "quote": "號令制定公布全文 20 條；並自公布之日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Article 20",
+    "quote": "This Act shall take effect on the date of its promulgation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Legislative",
+    "quote": "Legislative： 1.Promulgated on January 14, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 20",
+    "quote": "第 20 條 本法自公布之日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+    "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+    "locator": "法規沿革 (history), the only entry",
+    "quote": "1.中華民國115年1月14日總統華總一義字第 11500001671 號令制定公布全文 20 條；並自公布之日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Legislative",
+    "quote": "Legislative： 1.Promulgated on January 14, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "法規內容, 發文字號",
+    "quote": "發文字號： 華總一義字第11500001671號 令",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 16(2)",
+    "quote": "各目的事業主管機關應視人工智慧應用風險管理之需要，循前項風險分類框架，訂定以風險為基礎之管理規範",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 18",
+    "quote": "應自本法施行後二年內，完成法規之制（訂）定、修正或廢止，及行政措施之改進。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Article 6",
+    "quote": "The Executive Yuan shall establish a National AI Strategic Committee, to be convened by the Premier of the Executive Yuan",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Article 6",
+    "quote": "The Committee mentioned in the preceding paragraph shall convene at least once a year to review the National AI Development Guidelines.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 5(2)",
+    "quote": "人工智慧產品或系統經中央目的事業主管機關會商數位發展部認定為高風險應用者，應明確標示注意事項或警語",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+    "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+    "locator": "法規沿革, entry 1",
+    "quote": "號令制定公布全文 20 條；並自公布之日起施行。",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 4, principle 4",
+    "quote": "四、資安與安全：人工智慧研發與應用過程，應建立資安防護措施",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 5(1)",
+    "quote": "政府應避免人工智慧之應用，有侵害人民生命、身體、自由或財產",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 16",
+    "quote": "有第五條第一項所列之情事者，應依法令限制或禁止之。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 17",
+    "quote": "政府應就高風險人工智慧之應用，明確其責任歸屬及歸責條件，並建立其救濟、補償或保險機制。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-01/2026-10-18/official.html",
+    "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+    "locator": "Article 19",
+    "quote": "政府使用人工智慧執行業務或提供服務，應進行風險評估，規劃風險因應措施。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+    "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+    "locator": "English translation, Article 16",
+    "quote": "promote an AI risk taxonomy and assessment framework that is interoperable with international frameworks",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored Chinese text, using the NSTC translation's terms: Article 5(1) protects life, body (身體), liberty or property, not 'safety'; Article 4's fourth principle is cybersecurity and safety (資安與安全); Article 16's framework is an 'AI risk taxonomy and assessment framework'; the duty to restrict or prohibit such uses comes from Article 16(2)",
+   "notes": "the sentence on the Legislative Yuan's passage in late December 2025 rests on no stored file and was removed; enactment in full by presidential order (history page), Article 6 (National AI Strategic Committee, as the translation names it) and Article 5(2) added; Article 18 restated more exactly",
+   "language": "the official text is Chinese only; the English text is the NSTC's translation (listed under 英譯法規清單 and stored as EngLawContent), so English moves to english_version",
+   "english_version": "the record had none; the NSTC's English translation of the Act is now stored at the recorded URL",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 20: '本法自公布之日起施行' (translation: 'This Act shall take effect on the date of its promulgation'). The history page's only entry is the enactment in full of 20 articles by presidential order 華總一義字第11500001671號 on 民國115年1月14日 (14 Jan 2026), effective from promulgation; no amendment or repeal is listed (copy of 18 Oct 2026). Today is 18 Oct 2026. Status 'In force' and legal force 'Binding' stand. The two-year deadline of Article 18 for adapting other laws runs to about January 2028 and does not affect the Act's own force.",
+  "date_reasoning": "date_published 2026-01-14 is the promulgation date (ROC year 115 = 2026), confirmed by the translation ('Promulgated on January 14, 2026'). date_in_force is the same day because Article 20 makes the Act effective from promulgation; see open_questions on how Taiwan counts that day. date_last_updated stays null: the history page lists only the enactment.",
+  "scope_reasoning": "AI-specific framework statute of Taiwan on AI governance, risk classification, high-risk AI and government AI use; in scope with no note.",
+  "issuing_body_reasoning": "The history page names the President's order (總統華總一義字...號令制定公布) and Article 2 names the NSTC as central competent authority. No stored page names the Legislative Yuan, which the field also names; the field is kept as published and raised in open_questions.",
+  "title_reasoning": "'Artificial Intelligence Basic Act' is the title of the NSTC's English translation, a government translation, so it stays as the English title."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_in_force is the promulgation date (14 Jan 2026), following Article 20 ('本法自公布之日起施行'). Taiwan's Central Regulation Standard Act (中央法規標準法), Article 13, is generally read as making a law that takes effect from promulgation effective on the third day counted from the promulgation day, which would give 16 Jan 2026. No stored file holds that Act, so the record keeps 14 Jan 2026; a maintainer may settle whether Article 13 applies and, if so, set date_in_force to 2026-01-16 with the Act as source.",
+  "issuing_body names the Legislative Yuan as the body that adopted the Act, but no stored page names it or the date of its third reading (the NSTC history page records only the presidential promulgation). The value is kept as published; a maintainer may confirm it from a Legislative Yuan source."
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "cand_id": "TW-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "TW-02",
+ "record": {
+  "notes": "Version 1.0 is dated 7 Jul 2026 (ROC 115-07-07); MODA's English version carries the same version and date. The framework applies primarily to civilian AI use cases and expressly excludes military uses, which follow national defence laws. Where a sector regulator assesses a use case as high-risk, it must require warnings (Art. 5(2) of the AI Basic Act) and define liability and remedies (Art. 17(1)); where a use case's risks under Art. 5(1) cannot be managed with existing technical means, the regulator must restrict or prohibit it under Art. 16(2). The Ministry will review the list of risk subtypes periodically against new AI risk research and international standards.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: MODA's Chinese page on the framework (moda.gov.tw, copy of 11 Oct 2026, re-checked unchanged on 18 Oct 2026), which names MODA's Department of Digital Strategy (數位策略司) as publisher and links the framework PDF (page created 2026-03-23, updated 2026-07-08); the Chinese framework PDF, version 1.0 (www-api.moda.gov.tw, copy of 11 Oct 2026, unchanged on 18 Oct 2026), dated 中華民國115年7月7日 (7 Jul 2026); MODA's English page on the framework (moda.gov.tw/en, 18 Oct 2026; created 2026-04-30, updated 2026-09-17), titled 'AI Risk Taxonomy and Assessment Framework'; and the English PDF it links (18 Oct 2026), 'Artificial Intelligence Risk Taxonomy and Assessment Framework', Version 1.0, July 7, 2026, with the same structure, 20 risk subtypes, steps and high-risk test as the Chinese text. The English version has no statement on its standing; the framework was made in Chinese, so the English one is recorded as MODA's translation. The title now follows MODA's English text, and the summary is written from the Chinese text with the English version's terms. The Chinese PDF is stored as the record's secondary source, so it counts as another official source; the date is also on the cover of MODA's English version. The earlier notes' reference to MODA's AI Evaluation Center rests on no stored file and was removed, as was the remark that the page's creation date might point to an earlier draft."
+  },
+  "title": "Artificial Intelligence Risk Taxonomy and Assessment Framework",
+  "short_title": "Taiwan AI Risk Taxonomy and Assessment Framework",
+  "summary": "Framework made by MODA under Article 16 of the AI Basic Act; sector regulators must follow its workflow when writing risk-based AI rules. It lists 20 risk subtypes in three groups: technical design flaws, such as dangerous capabilities; post-deployment operation and human-AI interaction, such as deepfake fraud, cyberattacks and unauthorized actions by AI agents; and societal-structural and environmental impacts, such as cognitive warfare. Its four steps are use case inventory, risk identification, assessment and response. Use cases that may seriously harm national security, fundamental rights, life and safety, property, social order or the environment are high-risk.",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3TAWUGBklnkogPX",
+   "by": "Ministry of Digital Affairs (MODA)"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 1 (cover of the English version)",
+    "quote": "Version 1.0 Artificial Intelligence Risk Taxonomy and Assessment Framework July 7, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-3edb5ae2ab/2026-10-18/official.html",
+    "sha256": "2a8605e517e31741cdb04636526e545193623964604e610722ee21500bd425ba",
+    "locator": "English page, first paragraph",
+    "quote": "is promoting an \"AI Risk Taxonomy and Assessment Framework\" aligned with international standards",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/official.html",
+    "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+    "locator": "main text, first paragraph",
+    "quote": "數位發展部依據《人工智慧基本法》規定，推動與國際接軌之「人工智慧風險分類框架」",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 1 (cover)",
+    "quote": "版本 v1.0 人工智慧風險分類框架 中華民國 115年 7月 7日",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/TW-02/2026-10-11/official.html",
+    "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+    "locator": "main text, first paragraph",
+    "quote": "數位發展部依據《人工智慧基本法》規定，推動與國際接軌之「人工智慧風險分類框架」",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 1 (cover)",
+    "quote": "版本 v1.0 人工智慧風險分類框架 中華民國 115年 7月 7日",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/TW-02/2026-10-11/official.html",
+    "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+    "locator": "page footer of the article",
+    "quote": "人工智慧風險分類框架 發布單位：數位策略司",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 3 (執行摘要)",
+    "quote": "本框架由數位發展部依據《人工智慧基本法》第 16條訂定",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 3 (ii), Executive Summary",
+    "quote": "This Framework is formulated by the Ministry of Digital Affairs pursuant to Article 16 of the Artificial Intelligence Basic Act.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 1 (cover)",
+    "quote": "版本 v1.0 人工智慧風險分類框架 中華民國 115年 7月 7日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 1 (cover of the English version)",
+    "quote": "Version 1.0 Artificial Intelligence Risk Taxonomy and Assessment Framework July 7, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/TW-02/2026-10-11/official.html",
+    "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+    "locator": "main text, first paragraph",
+    "quote": "本框架旨在作為政府跨部會溝通的共同語言，提供一套共通的評估標準。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/official.html",
+    "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+    "locator": "三、連結",
+    "quote": "三、連結 人工智慧風險分類框架 發布單位：數位策略司",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 3 (執行摘要)",
+    "quote": "各目的事業主管機關於依《人工智慧基本法》第 16條 第 2項訂定管理規範時，應依循本框架所定操作流程辦理風險識別、評估及應對。",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-3edb5ae2ab/2026-10-18/official.html",
+    "sha256": "2a8605e517e31741cdb04636526e545193623964604e610722ee21500bd425ba",
+    "locator": "English page, III. Link",
+    "quote": "III. Link AI Risk Taxonomy and Assessment Framework Data Source: Ministry of Digital Affairs",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/TW-02/2026-10-11/official.html",
+    "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+    "locator": "一、框架定位與目的, (三)",
+    "quote": "最終的治理執行權力與責任仍由各目的事業主管機關負責，依循此框架原則，將其轉化為具法律拘束力、可直接執行的領域管理規範。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-3edb5ae2ab/2026-10-18/official.html",
+    "sha256": "2a8605e517e31741cdb04636526e545193623964604e610722ee21500bd425ba",
+    "locator": "English page, I. Framework Positioning and Objectives",
+    "quote": "they will translate these into legally binding and directly enforceable domain-specific management regulations",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 10 (3), 2.2",
+    "quote": "this Framework applies primarily to AI use cases in the civilian domain and expressly excludes military uses.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 7, 2.2",
+    "quote": "本框架主要適用於民用領域之 AI 應用，明確排除軍事用 途。凡屬國防軍事目的之人工智慧系統研發、部署及應用，應依國防相關法 令及規範辦理。",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 14, 3.4.1(b) iv",
+    "quote": "據人工智慧基本法第 5條第 2項規定，應要求所管業者明確標 示注意事項或警語；並依同法第 17條第 1 項規定，明確其責 任歸屬及歸責條件",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 14, 3.4.1(b) iii",
+    "quote": "仍無法有效管理或降低該應用風險者，目的事業 主管機關應依同法第 16條第 2 項規定",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TW-02/2026-10-11/secondary.pdf",
+    "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+    "locator": "page 9, 3.2.3",
+    "quote": "發展部將定期系統性檢視，參酌國內外最新AI風險研究與國際標準規 範修訂動態",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 12 (5), 3.2.3",
+    "quote": "The Ministry of Digital Affairs will conduct periodic and systematic reviews, taking into account the latest domestic and overseas research on AI risks",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 10 (3), 2.1",
+    "quote": "each competent authority for the relevant industries shall follow the operational workflow prescribed in this Framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 13, Table 1",
+    "quote": "Risk Type A: Technical Design Flaws in AI Systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 14, Table 1",
+    "quote": "Risk Type B: Issues in Post-Deployment Operation and Human-AI Interaction",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 15, Table 1",
+    "quote": "Risk Type C: Societal-Structural and Environmental Impacts",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+    "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+    "locator": "page 17 (10), 3.3.3(b)",
+    "quote": "rights to life and safety, property protection, social order, or the ecological environment",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "MODA's English version of the framework is titled 'Artificial Intelligence Risk Taxonomy and Assessment Framework' (its English page: 'AI Risk Taxonomy and Assessment Framework'); the previous title was a rendering of 人工智慧風險分類框架. The version label moved to notes",
+   "short_title": "follows the new English title",
+   "summary": "rewritten from the Chinese text with the terms of MODA's English version (risk subtypes, the three risk-type names, the four steps); it now states that regulators must follow the workflow (2.1)",
+   "notes": "the reference to MODA's AI Evaluation Center (AIEC) rests on no stored file and was removed; the hedge about an earlier draft was removed (page dates are in verification.note); the civilian scope and military exclusion (2.2), the measures for high-risk and unmanageable use cases (3.4.1(b) iii and iv), the periodic review (3.2.3) and the English version added",
+   "english_version": "the record had none; MODA publishes an English version of version 1.0, now stored",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The framework is version 1.0, dated 7 Jul 2026 in both the Chinese and the English version. MODA's Chinese page (re-checked unchanged on 18 Oct 2026) and English page (18 Oct 2026; updated 2026-09-17) both present it; the English PDF is version 1.0 of the same date, so the September update of the English page is not a new version. It guides sector regulators, who turn its principles into binding sector rules, so it does not bind anyone outside government itself. Nothing stored shows a later version or a withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "date_published 2026-07-07 is the date on the cover of version 1.0 (中華民國115年7月7日; 'July 7, 2026' on the English version). The page dates (Chinese page updated 2026-07-08; English page created 2026-04-30 and updated 2026-09-17) are web page dates and are not used.",
+  "scope_reasoning": "A government risk-classification framework made under Article 16 of Taiwan's AI Basic Act to guide sector regulators' risk-based AI rules; in scope with no note.",
+  "title_reasoning": "The official English title is taken from MODA's own English version (cover: 'Artificial Intelligence Risk Taxonomy and Assessment Framework'); the NSTC's translation of Article 16 of the AI Basic Act uses the same term ('AI risk taxonomy and assessment framework'). original_title stays 人工智慧風險分類框架."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

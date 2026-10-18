@@ -1,0 +1,102 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+    "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+    "locator": "heading",
+    "quote": "Chief AI Officerガイド Chief AI Officer Guides",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+    "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+    "locator": "body",
+    "quote": "The Chief AI Officer Guides consist of two documents: (1) the Chief AI Officer Guidebook",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+    "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+    "locator": "heading",
+    "quote": "Chief AI Officerガイド Chief AI Officer Guides",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "page 1",
+    "quote": "AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-e18420331a/2026-10-18/official.pdf",
+    "sha256": "38fa438eb40d6911b1df99de24cd6a92fe06e79fade32cbe846c66f403243743",
+    "locator": "page 1",
+    "quote": "AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "page 1",
+    "quote": "2026 年 3 月 1 日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-e18420331a/2026-10-18/official.pdf",
+    "sha256": "38fa438eb40d6911b1df99de24cd6a92fe06e79fade32cbe846c66f403243743",
+    "locator": "page 1",
+    "quote": "2026 年 3 月 1 日",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-b96335f27a/2026-10-18/official.html",
+    "sha256": "a8b080bfc03852ed8926531160b1984b7e6adcf3cccb3acc68828a9db3c2044d",
+    "locator": "Framework outputs list",
+    "quote": "Chief AI Officerガイド Chief AI Officer Guides -2026年3月17日",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "page 2",
+    "quote": "ただし法的拘束力を有するものではない。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Version 1.00 dated 1 March 2026, listed as released on 17 March 2026; the stored output lists show no replacement. Non-binding by its own statement.",
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "scope_reasoning": "In scope: J-AISI guidance on AI governance and CAIO role.",
+  "english_version": "English versions are headed 'Please refer to the original text for accuracy', so a translation by J-AISI; kind government translation stands."
+ },
+ "cand_id": "JP-08",
+ "target_id": "JP-08",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

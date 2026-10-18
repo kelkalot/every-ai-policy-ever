@@ -1,0 +1,159 @@
+{
+ "cand_id": "JP-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-07",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp, J-AISI's English edition of the Approach Book (42 pages, dated January 9, 2026) and its English summary edition (January 2026), all copies of 14 Oct 2026 that the archiver re-checked unchanged on 18 Oct 2026; and the Japanese edition (ai-irs_v1.0_ja.pdf, 38 pages, stored 18 Oct 2026), titled AI インシデントレスポンス・アプローチブック and dated 令和８年１月9日 (9 Jan 2026), issued by AI セーフティ・インスティテュート. They confirm the title, the original title, the release on 9 January 2026, the issuer and the content; the summary and notes were checked against the English edition and still hold. The two editions have the same structure and date, and the English edition carries no translation notice, so both are treated as J-AISI's own texts (english_version 'authentic'); neither says which one prevails."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 1 (cover)",
+    "quote": "AI-IRS Approach Book for AI Incident Response ~ A Foundation for Trustworthy AI ~",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "release page, English list of documents",
+    "quote": "Approach Book for AI Incident Response ,published on 9 January 2026",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "release page, Japanese list of documents",
+    "quote": "AIインシデントレスポンス・アプローチブック 2026年1月9日公表",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+    "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+    "locator": "Japanese edition, page 1 (cover)",
+    "quote": "AI インシデントレスポンス・アプローチブック ~ A Foundation for Trustworthy AI ~",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "release page, English text",
+    "quote": "Japan AI Safety Institute has released the AI Incident Response Approach Book",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-2.pdf",
+    "sha256": "5d613a795625e0a52fcfa1ea2c3a08a63b2c9e3e2ab542bf2a159c08d7b624d8",
+    "locator": "page 1 (cover of the summary edition)",
+    "quote": "(Summary Edition) January 2026 Japan AI Safety Institute (J-AISI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+    "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+    "locator": "Japanese edition, page 1 (cover)",
+    "quote": "令和８年１月 9 日 AI セーフティ・インスティテュート",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "release page, Japanese list of documents",
+    "quote": "AIインシデントレスポンス・アプローチブック 2026年1月9日公表",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "release page, English list of documents",
+    "quote": "Approach Book for AI Incident Response ,published on 9 January 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 1 (cover)",
+    "quote": "~ A Foundation for Trustworthy AI ~ January 9, 2026 AI Safety Institute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+    "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+    "locator": "Japanese edition, page 1 (cover)",
+    "quote": "~ A Foundation for Trustworthy AI ~ 令和８年１月 9 日 AI セーフティ・インスティテュート",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "release page, English text",
+    "quote": "Japan AI Safety Institute has released the AI Incident Response Approach Book, which presents “AI-IRS (AI Incident Response System)” as a conceptual framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 6, 1.1 Purpose",
+    "quote": "Detailed insights obtained through design and operational activities are expected to be progressively articulated and organized in the form of related deliverables, such as implementation guides and procedures, in the future.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 4, 0 Executive Summary",
+    "quote": "Organizations promoting AI adoption can use this document as a reference to advance concrete discussions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 8, 1.4 Scope",
+    "quote": "It should be noted that the framework presented in this document does not replace existing information security incident response frameworks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+    "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+    "locator": "Japanese edition, page 4, 0 エグゼクティブサマリ",
+    "quote": "AI の活用を促進する組織や企業は、本書を参考に具体的な検討を進めることで",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, now including the stored Japanese edition; no field of the record changed"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "J-AISI released the Approach Book on 9 Jan 2026 and its release page (re-checked unchanged on 18 Oct 2026) still lists both editions. It is a conceptual framework offered as a reference, with implementation guides and procedures to follow as related deliverables; it creates no obligations. Nothing stored shows a newer version or a withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "date_published 2026-01-09 is the publication date on the release page (2026年1月9日公表; published on 9 January 2026) and on the English edition's cover (January 9, 2026).",
+  "scope_reasoning": "Guidance of Japan's AI Safety Institute on AI incident response; in scope with no note.",
+  "summary_reasoning": "The summary and notes were checked against the English edition (intended audience in 1.5, including CAIO, CISO, CSIRTs, SOCs and policymakers; observability and controllability; RAG and AI agent analyses; SBOM for AI and the Cyber AI Profile; UNCITRAL Model Law reference; budgets; Appendix A confirmation flow for the CAIO) and are kept.",
+  "language_reasoning": "The Japanese and English editions were released together on the same page with the same date and structure; neither carries a translation notice or a clause on which prevails. language 'Japanese, English' and english_version 'authentic' are kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

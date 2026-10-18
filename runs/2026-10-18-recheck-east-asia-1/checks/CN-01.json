@@ -1,0 +1,58 @@
+{
+ "cand_id": "CN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 23 sets up class-and-grade management by public-opinion attributes, content category, user scale, data importance and degree of intervention in user behaviour",
+   "verdict": "supported",
+   "locator": "Art. 23"
+  },
+  {
+   "claim": "Arts. 18-21 protect minors, the elderly, workers and consumers",
+   "verdict": "supported",
+   "locator": "Arts. 18-21"
+  },
+  {
+   "claim": "Art. 31 sets warnings, suspension of updates and fines of 10,000 to 100,000 yuan",
+   "verdict": "supported",
+   "locator": "Art. 31"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Searched for a 2026 amendment of the Algorithmic Recommendation Provisions: nothing found; a law-firm review of April 2026 still treats it as current. All quotes matched the stored texts; the fields checked say what the record states."
+}

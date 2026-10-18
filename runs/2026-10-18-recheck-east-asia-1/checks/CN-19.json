@@ -1,0 +1,42 @@
+{
+ "cand_id": "CN-19",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Draft status, notice 网安秘字〔2026〕119号 of 18 Sept 2026, comments due 2 Oct 2026",
+   "verdict": "supported",
+   "locator": "notice"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Searched for a final version of the agentic AI development guide: none found; TC260 notices list only the call for comments. All quotes matched the stored texts; the fields checked say what the record states."
+}

@@ -1,0 +1,62 @@
+{
+ "cand_id": "JP-13",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Version 2.0 effective 1 Sep 2026; CAIO measures by 30 Jun 2026; governance scope from 1 Jul 2026",
+   "verdict": "supported",
+   "locator": "page 43 supplementary provisions"
+  },
+  {
+   "claim": "References AI Promotion Act (Act No. 53 of 2025)",
+   "verdict": "supported",
+   "locator": "page 3, preface"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "JP-04",
+  "JP-06"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Version 2.0 (12 Jun 2026, in force 1 Sep 2026) confirmed; official_url moved to the v2.0 news page because the old page says it is not the latest. Notes claims checked against the Japanese text. No later version found."
+}

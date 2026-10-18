@@ -1,0 +1,3108 @@
+{
+ "provenance": {
+  "date": "2026-10-18",
+  "agent": "Claude Code",
+  "model": "claude-opus-5-5",
+  "scope": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck: ids:CN-01,CN-03,CN-04,CN-05,CN-14,TW-01,TW-02,HK-01,HK-02,CN-18,CN-19,CN-20,CN-21,CN-22,CN-23,CN-24,CN-25,CN-26,CN-27,JP-07,JP-08,JP-09,JP-10,JP-11,JP-12,JP-13,JP-14,JP-15,JP-16,JP-17,CN-28)",
+  "run_id": "2026-10-18-recheck-east-asia-1",
+  "stages": {
+   "collect": {
+    "tool": null,
+    "model": null,
+    "date": null
+   },
+   "extract": {
+    "tool": "Claude Code",
+    "model": "claude-opus-5-5",
+    "date": "2026-10-18",
+    "tokens": 1423100
+   },
+   "blind": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 92557
+   },
+   "check": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 291266
+   }
+  }
+ },
+ "records": [],
+ "updates": [
+  {
+   "summary": "Binding rules (35 articles) for providers using algorithmic recommendation technology, such as generation and synthesis, personalised push, ranking, search filtering, and scheduling and decision-making, to provide internet information services in China. Providers must set up algorithm security management, regularly review their algorithms, models and data, label unmarked synthetic content, publicise how their services work, let users switch off recommendations or personal-feature targeting, and protect minors, the elderly, workers and consumers. Services with public-opinion attributes or social-mobilisation capacity must file their algorithms and undergo security assessments.",
+   "safety_topics": [
+    "transparency & labelling",
+    "accountability & liability",
+    "child safety",
+    "deepfakes & synthetic media",
+    "risk-based classification"
+   ],
+   "notes": "Adopted at the Cyberspace Administration of China's 20th office meeting of 2021 on 16 Nov 2021 with the consent of MIIT, the Ministry of Public Security and SAMR, signed on 31 Dec 2021, published on the CAC website on 4 Jan 2022 and in force from 1 Mar 2022 (Art. 35). The cyberspace authorities and the telecoms, public security and market regulation departments manage providers by class and grade according to public-opinion attributes, content, user numbers, data and the degree of intervention in user behaviour (Art. 23). Providers with public-opinion attributes or social-mobilisation capacity file through the internet information service algorithm filing system within ten working days of starting a service (Art. 24) and display their filing number (Art. 26). Breaches of the main duties can lead to warnings, suspension of information updates and fines of 10,000 to 100,000 yuan (Art. 31).",
+   "english_version": {
+    "kind": "third-party translation",
+    "url": "https://www.chinalawtranslate.com/en/algorithms/",
+    "by": "China Law Translate"
+   },
+   "id": "CN-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the CAC page with the full text of the Provisions (cac.gov.cn, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the order number (令 第9号), the four issuing bodies, the CAC office meeting of 16 Nov 2021, the signature date 31 Dec 2021, the page date 4 Jan 2022, the 35 articles and the entry into force on 1 Mar 2022 (Art. 35). The State Council Gazette copy on gov.cn (the secondary URL) was not stored: the archiver could not reach gov.cn's robots.txt on 11 Oct 2026 and its DNS lookup failed on 18 Oct 2026. Version 1's notes cited Gazette 2022 No. 9 and said that the filing system also serves the deep synthesis, generative AI and anthropomorphic AI rules; neither rests on a stored file of this record, so both were removed. Nothing stored shows an amendment or repeal. The English title is a rendering; no English text by a Chinese public body was found. China Law Translate's unofficial English translation (chinalawtranslate.com, stored in this run on 18 Oct 2026, posted 4 Jan 2022, from the CAC text) is recorded as english_version; it renders the title as 'Provisions on the Management of Algorithmic Recommendations in Internet Information Services'.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "notes": "Adopted at the Cyberspace Administration of China's 12th office meeting of 2023 on 23 May 2023 with the consent of the six co-issuing bodies, signed on 10 Jul 2023, published on the CAC website on 13 Jul 2023 and in force from 15 Aug 2023 (Art. 24). Generated images, videos and other content are labelled under the Deep Synthesis Provisions (Art. 12, CN-02), and services with public-opinion attributes or social-mobilisation capacity file their algorithms under the Algorithmic Recommendation Provisions (Art. 17, CN-01). The competent departments are to issue classified and graded supervision rules or guidelines for particular sectors (Art. 16), and services provided to China from abroad that break the rules can be dealt with by technical and other measures (Art. 20).",
+   "id": "CN-03",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the CAC page with the full text of the Measures (cac.gov.cn, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the order number (令 第15号), the seven issuing bodies, the CAC office meeting of 23 May 2023, the signature date 10 Jul 2023, the page date 13 Jul 2023, the 24 articles and the entry into force on 15 Aug 2023 (Art. 24); and China Law Translate's unofficial English translation (chinalawtranslate.com, copy of 11 Oct 2026, posted 13 Jul 2023), which is the record's english_version and secondary URL. Version 1's notes said that the Measures are implemented through CAC's generative AI service filing and that TC260-003 and GB/T 45654-2025 set the technical requirements; neither rests on a stored file of this record, so both were removed (the standards stay linked as CN-06 and CN-10). Nothing stored shows an amendment or repeal.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "summary": "Trial measures that set up ethics review of science and technology activities involving human participants or laboratory animals, or posing ethics risks to life and health, the environment or public order. Units doing life-science, medical or AI work in ethically sensitive areas must set up ethics committees, which check among other things that algorithms, models and systems follow fairness, justice, transparency, reliability and controllability principles. Listed higher-risk activities need expert re-review, among them human-machine fusion systems, algorithms able to mobilise public opinion, and highly autonomous automated decision systems in settings with safety or health risks.",
+   "safety_topics": [
+    "human oversight",
+    "accountability & liability",
+    "risk-based classification"
+   ],
+   "notes": "Issued by the Ministry of Science and Technology and nine other bodies with a notice of 7 Sept 2023, after approval by the Central Science and Technology Commission; published on the MOST website on 8 Oct 2023 and in force from 1 Dec 2023 (Art. 56). Activities on the list in the annex, which MOST publishes and adjusts, need expert re-review organised by provincial or sectoral authorities after the unit's initial review (Arts. 25-34). Units register their ethics committees and listed activities on a national platform and report each year (Arts. 43-45). Emergency reviews are generally completed within 72 hours (Art. 36). Low-risk activities can use a simplified procedure (Art. 22).",
+   "english_version": {
+    "kind": "third-party translation",
+    "url": "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf",
+    "by": "Etcetera Language Group, Inc., for the Center for Security and Emerging Technology (CSET), Georgetown University"
+   },
+   "scope_note": "Not AI-specific; the existing scope_note stays (AI-related review list and parent framework of CN-15).",
+   "id": "CN-04",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the notice with the full text of the Measures and the annex in the State Council policy library on gov.cn (copy of 16 Oct 2026), which gives the document number 国科发监〔2023〕167号, the ten issuing bodies, the drafting date (成文日期) 7 Sept 2023, 56 articles and the entry into force on 1 Dec 2023 (Art. 56); and the same notice on the MOST website (most.gov.cn, copy of 11 Oct 2026), which gives the publication date (发布日期) 8 Oct 2023 and marks the document as valid (有效). Version 1's notes gave the publication as 8-10 Oct 2023; only 8 Oct rests on a stored file. Nothing stored shows an amendment or repeal. The English title is a rendering; no English text by a Chinese public body was found. CSET's English translation (cset.georgetown.edu, stored in this run on 18 Oct 2026; translator Etcetera Language Group, translation date 3 Apr 2025, from the MOST text) is recorded as english_version; it renders the title as '(Trial) Measures for Science and Technology Ethics Reviews' and also gives 7 Sept 2023 as the drafting date and 8 Oct 2023 as the publication date.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "notes": "Announced on 18 Oct 2023 by President Xi Jinping in his keynote speech at the opening of the Third Belt and Road Forum for International Cooperation, and published in Chinese on the CAC website the same day. The Ministry of Foreign Affairs' English text is dated 20 Oct 2023.",
+   "secondary_url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+   "id": "CN-05",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Ministry of Foreign Affairs' English text of the Initiative (mfa.gov.cn, copy of 11 Oct 2026, filed under Resources > Communiqués), dated 'Updated: October 20, 2023', which confirms the title, the non-binding form ('we would like to suggest the following') and the content behind the summary; the Chinese text on the CAC website (cac.gov.cn, stored in this run on 18 Oct 2026), dated 2023年10月18日 12:00, which confirms the Chinese title, the date and the same content; and the MFA spokesperson's remarks of 18 Oct 2023 (mfa.gov.cn, stored in this run on 18 Oct 2026), which say that President Xi announced at the opening of the Third Belt and Road Forum that morning that China would put forward the Initiative. The archiver flagged the spokesperson's page for review because the title appears only a few times; it is the right page. The gov.cn page of version 1's secondary URL was not stored: the archiver could not reach gov.cn's robots.txt on 11 Oct 2026 and its DNS lookup failed on 18 Oct 2026, so the spokesperson's page on mfa.gov.cn replaces it. Version 1's note that the Initiative is the conceptual basis of TC260's AI Safety Governance Framework and the 2025 Action Plan, and that the MFA page was re-posted in May 2024, rest on no stored file and were removed.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "summary": "Decision of the NPC Standing Committee making 14 changes to the Cybersecurity Law. It adds an article on AI, Article 20 of the amended law: the state supports basic AI theory research and R&D of key technologies such as algorithms, builds training-data resources, computing power and other infrastructure, improves AI ethics norms, strengthens risk monitoring, assessment and safety supervision, and promotes AI applications and healthy development; it also supports using AI and other new technologies to improve cybersecurity protection. Other changes raise the penalties for network operators and critical information infrastructure operators.",
+   "notes": "Adopted on 28 Oct 2025 at the 18th session of the 14th NPC Standing Committee and in force from 1 Jan 2026. The Cybersecurity Law is republished with the changes and its articles renumbered. Besides the AI article, the Decision adds an article on Party leadership of cybersecurity work and the overall national security concept (new Art. 3), requires network operators handling personal information to comply with the Civil Code and the Personal Information Protection Law, raises fines up to 10 million yuan for especially serious consequences, adds penalties for selling uncertified critical network equipment and dedicated security products, and allows lighter or no penalties in the cases the Administrative Penalty Law provides.",
+   "english_version": {
+    "kind": "third-party translation",
+    "url": "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf",
+    "by": "Etcetera Language Group, Inc., for the Center for Security and Emerging Technology (CSET), Georgetown University"
+   },
+   "scope_note": "Not AI-specific: an amendment to the Cybersecurity Law, included for the article on AI research, ethics norms, risk monitoring and assessment and safety supervision that it adds (Art. 20 of the amended law).",
+   "id": "CN-14",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Decision on the NPC website (npc.gov.cn, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the title, the adoption on 28 Oct 2025 at the 18th session of the 14th NPC Standing Committee, its 14 changes including the new AI article (Art. 20), and the entry into force on 1 Jan 2026; and the CAC's republication of the Xinhua text of 28 Oct 2025 (cac.gov.cn, copy of 11 Oct 2026), with the same text. No stored file gives the number of the presidential order that promulgated the Decision, so official_identifier stays empty. Version 1's note that China has not adopted a comprehensive AI law rests on no stored file and was removed, as was its sentence on what the summary covers. The English title is a rendering; no English text by a Chinese public body was found. CSET's English translation of the Cybersecurity Law as amended in October 2025 (cset.georgetown.edu, stored in this run on 18 Oct 2026; translator Etcetera Language Group, translation date 14 Apr 2026, from the NPC text) is recorded as english_version: it translates the amended law, not the Decision itself, and confirms that the AI provision is Article 20 of the amended law and that the amended law took effect on 1 Jan 2026.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "summary": "Framework law setting seven principles for government AI policy: sustainable development and well-being, human autonomy, privacy protection and data governance, cybersecurity and safety, transparency and explainability, fairness and non-discrimination, and accountability. The government must prevent AI uses that infringe life, body, liberty or property or involve discrimination or misleading information, and regulators must restrict or prohibit them. High-risk applications must carry warnings. MODA must promote an AI risk taxonomy and assessment framework and assessment tools, liability and remedies for high-risk AI must be defined, and agencies must risk-assess their own AI use.",
+   "notes": "Enacted in full (20 articles) by presidential order promulgated on 14 Jan 2026 (ROC 115-01-14), and in force from promulgation (Art. 20). Agencies must review the laws and administrative measures they administer and make, amend or repeal them within two years of the Act's effective date (Art. 18). The Executive Yuan must set up a National AI Strategic Committee, convened by the Premier with the NSTC handling its staff work, which formulates the National AI Development Guidelines and meets at least once a year (Art. 6). High-risk applications are those a central sector authority, in consultation with the Ministry of Digital Affairs, identifies as such (Art. 5(2)).",
+   "language": "Chinese (Traditional)",
+   "english_version": {
+    "kind": "government translation",
+    "url": "https://law.nstc.gov.tw/EngLawContent.aspx?lan=E&id=10099",
+    "by": "National Science and Technology Council"
+   },
+   "id": "TW-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Act's page on the National Science and Technology Council's law database (law.nstc.gov.tw, copy of 18 Oct 2026, which differs from the copy of 11 Oct 2026 only in the visitor counter), giving the title 人工智慧基本法, the promulgation date 民國115年01月14日 (14 Jan 2026), the order number 華總一義字第11500001671號 and the text of Articles 1 to 20; the Act's history page on the same database (法規沿革, 18 Oct 2026), whose only entry is the enactment in full of 20 articles by presidential order of 14 Jan 2026, in force from promulgation, so no amendment has followed; the NSTC's English translation of the Act (EngLawContent, HTML and PDF of 18 Oct 2026), titled 'Artificial Intelligence Basic Act', dated 2026.01.14 and 'Promulgated on January 14, 2026'; and the database's list of English-translated laws (copy of 11 Oct 2026; on 18 Oct 2026 it came back as an empty script shell). The English text is a translation the NSTC publishes, not an authentic text, so English was moved from language to english_version. The summary is written from the Chinese text and uses the translation's terms (for Article 16, 'AI risk taxonomy and assessment framework'). No stored page names the Legislative Yuan or the date of its third reading (reported in late December 2025): the sentence on it was removed from the notes, and issuing_body, which names the Legislative Yuan, is kept as published and raised as an open question.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 10 field(s) supported."
+   }
+  },
+  {
+   "notes": "Version 1.0 is dated 7 Jul 2026 (ROC 115-07-07); MODA's English version carries the same version and date. The framework applies primarily to civilian AI use cases and expressly excludes military uses, which follow national defence laws. Where a sector regulator assesses a use case as high-risk, it must require warnings (Art. 5(2) of the AI Basic Act) and define liability and remedies (Art. 17(1)); where a use case's risks under Art. 5(1) cannot be managed with existing technical means, the regulator must restrict or prohibit it under Art. 16(2). The Ministry will review the list of risk subtypes periodically against new AI risk research and international standards.",
+   "title": "Artificial Intelligence Risk Taxonomy and Assessment Framework",
+   "short_title": "Taiwan AI Risk Taxonomy and Assessment Framework",
+   "summary": "Framework made by MODA under Article 16 of the AI Basic Act; sector regulators must follow its workflow when writing risk-based AI rules. It lists 20 risk subtypes in three groups: technical design flaws, such as dangerous capabilities; post-deployment operation and human-AI interaction, such as deepfake fraud, cyberattacks and unauthorized actions by AI agents; and societal-structural and environmental impacts, such as cognitive warfare. Its four steps are use case inventory, risk identification, assessment and response. Use cases that may seriously harm national security, fundamental rights, life and safety, property, social order or the environment are high-risk.",
+   "english_version": {
+    "kind": "government translation",
+    "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3TAWUGBklnkogPX",
+    "by": "Ministry of Digital Affairs (MODA)"
+   },
+   "id": "TW-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: MODA's Chinese page on the framework (moda.gov.tw, copy of 11 Oct 2026, re-checked unchanged on 18 Oct 2026), which names MODA's Department of Digital Strategy (數位策略司) as publisher and links the framework PDF (page created 2026-03-23, updated 2026-07-08); the Chinese framework PDF, version 1.0 (www-api.moda.gov.tw, copy of 11 Oct 2026, unchanged on 18 Oct 2026), dated 中華民國115年7月7日 (7 Jul 2026); MODA's English page on the framework (moda.gov.tw/en, 18 Oct 2026; created 2026-04-30, updated 2026-09-17), titled 'AI Risk Taxonomy and Assessment Framework'; and the English PDF it links (18 Oct 2026), 'Artificial Intelligence Risk Taxonomy and Assessment Framework', Version 1.0, July 7, 2026, with the same structure, 20 risk subtypes, steps and high-risk test as the Chinese text. The English version has no statement on its standing; the framework was made in Chinese, so the English one is recorded as MODA's translation. The title now follows MODA's English text, and the summary is written from the Chinese text with the English version's terms. The Chinese PDF is stored as the record's secondary source, so it counts as another official source; the date is also on the cover of MODA's English version. The earlier notes' reference to MODA's AI Evaluation Center rests on no stored file and was removed, as was the remark that the page's creation date might point to an earlier draft.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 9 field(s) supported."
+   }
+  },
+  {
+   "notes": "First introduced in 2021 and updated in 2023, according to the Secretary for Innovation, Technology and Industry (30 Oct 2025). Current text is version 2.0 (December 2025), which updated Sections 1 to 5 and Appendices A to D and removed Appendix E. Earlier versions: 1.1 (June 2023), 1.2 (July 2023), 1.3 (August 2023) and 1.4 (July 2024, which replaced 'Office of the Government Chief Information Officer' with 'Digital Policy Office'). The framework was first developed for government bureaux and departments; this version is adapted for general reference by other organisations. Where the Chinese and English versions differ, the English version prevails.",
+   "date_published": "2021",
+   "id": "HK-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Digital Policy Office's page 'AI and Data Ethics' (digitalpolicy.gov.hk, copy of 11 Oct 2026, re-checked unchanged on 18 Oct 2026), which presents the Ethical AI Framework and links its PDF; the framework PDF, version 2.0 dated December 2025 (copy of 11 Oct 2026, unchanged on 18 Oct 2026), with its amendment history, the 12 Ethical AI Principles, the three lines of defence and the AI Application Impact Assessment reviewed at four stages; and a speech by the Secretary for Innovation, Technology and Industry of 30 Oct 2025 on the bureau's site (itib.gov.hk, 18 Oct 2026), which says the framework was 'first introduced in 2021' and updated in 2023. date_published is set to the year 2021 from that speech, the only stored source that dates the first version; neither the PDF nor the DPO page dates version 1.0, and the amendment history begins with version 1.1 in June 2023. The PDF and page confirm the title, the issuer, the version and its date, the earlier versions and the content of the summary.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Released by the Digital Policy Office on 15 Apr 2025; the current text is version 1.1 (December 2025). The DPO commissioned the Hong Kong Generative AI Research and Development Center (HKGAI), established in 2023 with AIR@InnoHK funding, to study and suggest codes and guidelines, and promulgated the guideline after considering its findings; it says it will update the guideline regularly. Where the Chinese and English versions differ, the English version prevails. It is published on the same DPO page as the Ethical AI Framework (HK-01).",
+   "date_published": "2025-04-15",
+   "id": "HK-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Digital Policy Office's page 'AI and Data Ethics' (digitalpolicy.gov.hk, copy of 11 Oct 2026, re-checked unchanged on 18 Oct 2026), which says the DPO commissioned HKGAI and promulgated the guideline, and links its PDF; the guideline PDF, version 1.1 dated December 2025 (copy of 11 Oct 2026, unchanged on 18 Oct 2026), with its preamble, the technical limitations and service risks, the four-tier risk classification, the five dimensions of governance and the practical guidance for technology developers, service providers and users; and the HKSAR Government press release of 15 Apr 2025 (info.gov.hk, 18 Oct 2026), 'Digital Policy Office releases Hong Kong Generative Artificial Intelligence Technical and Application Guideline', which dates the release to 15 Apr 2025. date_published, empty in the earlier record, now follows the press release. The PDF has no version history, so what changed in version 1.1 is not stated.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "summary": "Draft recommended national standard, proposed by TC260, that sets out an AI security capability maturity model (ASMM) for assessing organisations, also usable by regulators as a reference. It covers data, model and application security in 15 security activities and 39 process areas, such as red-blue adversarial testing, value benchmark testing, backdoor detection, and security operations and emergency intervention. Each process area is assessed on the relevant ones of ten capabilities, among them robustness, explainability, fairness, rights protection and emerging-risk prevention, at five levels from informal execution to continuous optimisation, by self-assessment or a third party.",
+   "safety_topics": [
+    "evaluation & testing",
+    "general-purpose / frontier AI",
+    "catastrophic risk"
+   ],
+   "related": [
+    {
+     "id": "CN-10",
+     "slug": "cn-gb-t-45654-2025"
+    },
+    {
+     "id": "CN-08",
+     "slug": "cn-gb-45438-2025"
+    },
+    {
+     "id": "CN-24",
+     "slug": "gb-t-45674-2025"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    }
+   ],
+   "notes": "TC260 opened the draft for comment on 26 Aug 2026, with comments due by 25 Oct 2026. The draft has no standard number yet (GB/T XXXXX—XXXX) and leaves its publication and implementation dates blank. Organisations are typed as data-support, model-technology or application-service bodies, and each process area is mandatory, conditionally mandatory or optional for each type; an organisation reaches a level when all its applicable process areas reach it and no unaccepted major security risk remains. At the top level of post-training security, safeguards such as blocking knowledge of biological weapons and cyberattacks must not be removed or significantly weakened when the model runs in agents; at the top level of red-blue adversarial testing, organisations run human uplift trials that measure how far a model raises users' ability to write complex attack code or plan biological harm, and keep the uplift within safety thresholds. Normative references include GB/T 45654-2025 (CN-10), GB 45438-2025 (CN-08) and GB/T 45674-2025 (CN-24).",
+   "id": "CN-18",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the draft for comment (tc260.org.cn, PDF of 76 pages, stored again on 18 Oct 2026 with the same SHA-256 as the copy of 14 Oct 2026), which gives the Chinese and English titles, the draft status (征求意见稿), the proposer and responsible committee (SAC/TC260), the blank number and dates, and the content behind the summary and notes; and TC260's JSON record of the consultation on project 70 (tc260.org.cn, stored in this run on 18 Oct 2026), which gives the comment period from 26 Aug to 25 Oct 2026, the title of the consultation notice and the draft PDF as the attached draft text. date_published is the start of the comment period. The explanatory note (.docx) has no text layer and is not used. The draft gives an English title only; no English text was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "related": [
+    {
+     "id": "CN-10",
+     "slug": "cn-gb-t-45654-2025"
+    },
+    {
+     "id": "CN-13",
+     "slug": "cn-ai-safety-governance-framework-2-0"
+    },
+    {
+     "id": "CN-26",
+     "slug": "tc260-pg-20266a-agent-deployment-and-use-security"
+    }
+   ],
+   "notes": "Released for public comment by the TC260 Secretariat with notice 网安秘字〔2026〕119号 of 18 Sept 2026; comments were due by 2 Oct 2026. The draft is version v1.0-202609 and carries the number TC260-PG-2026NA. It covers software agentic AI systems built on large models, not agentic systems whose main function is controlling physical devices such as robots or autonomous vehicles. Its bibliography lists AI Safety Governance Framework 2.0 (CN-13) and TC260's practice guide on the security of deploying and using agents (CN-26).",
+   "id": "CN-19",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the TC260 Secretariat's notice of 18 Sept 2026 (tc260.org.cn, copy of 14 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026) and the draft PDF attached to it (31 pages). Title, issuer, date, notice number, comment deadline and contents are confirmed from these; the summary follows the Chinese text. The comment period closed on 2 Oct 2026. TC260's home page (tc260.org.cn, stored in this run on 18 Oct 2026) lists the latest notices of 13 Oct, 18 Sept and 15 Sept 2026; the newest notice on this guide is still the call for comments of 18 Sept, so no final version had been released by 18 Oct 2026. The archiver flagged the home page for review because it barely mentions the guide's title; it is a list page and is used only for that. No English version was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "related": [
+    {
+     "id": "CN-03",
+     "slug": "cn-generative-ai-interim-measures"
+    },
+    {
+     "id": "CN-09",
+     "slug": "cn-ai-content-labeling-measures"
+    },
+    {
+     "id": "CN-01",
+     "slug": "cn-algorithmic-recommendation-provisions"
+    },
+    {
+     "id": "CN-02",
+     "slug": "cn-deep-synthesis-provisions"
+    },
+    {
+     "id": "CN-10",
+     "slug": "cn-gb-t-45654-2025"
+    },
+    {
+     "id": "CN-08",
+     "slug": "cn-gb-45438-2025"
+    },
+    {
+     "id": "CN-13",
+     "slug": "cn-ai-safety-governance-framework-2-0"
+    },
+    {
+     "id": "CN-21",
+     "slug": "tc260-pg-20269a-ai-application-security-education"
+    },
+    {
+     "id": "CN-22",
+     "slug": "tc260-pg-202610a-ai-application-security-health"
+    },
+    {
+     "id": "CN-23",
+     "slug": "tc260-pg-202611a-ai-application-security-radio-tv-and-networ"
+    },
+    {
+     "id": "CN-25",
+     "slug": "tc260-pg-202515a-generative-ai-security-emergency-response"
+    },
+    {
+     "id": "CN-24",
+     "slug": "gb-t-45674-2025"
+    },
+    {
+     "id": "CN-18",
+     "slug": "draft-national-standard-on-ai-security-capability-maturity-a"
+    }
+   ],
+   "notes": "Version v1.0-202609, released on 15 Sept 2026 with notice 网安秘字〔2026〕118号 together with sector guides for education, health, and radio, TV and network audiovisual services, to address new risks from the fast spread of AI applications. An organisation applying AI in a sector follows this guide and the sector document. The five security grades run from low to especially major security risk, and each party involved must reach a capability maturity level no lower than the application's grade; for grading and maturity assessment the guide refers to national standards on AI application security classification and grading and on AI security capability maturity assessment. Normative references include GB/T 45654-2025 (CN-10), GB 45438-2025 (CN-08), GB/T 45674-2025 (CN-24), GB/T 45652-2025 and TC260-005, AI Application Ethics Security Guidelines 1.0. Because responsibility for AI failures is hard to assign, it encourages arrangements in applications involving personal safety for immediate, unconditional humanitarian relief after major personal-injury accidents.",
+   "id": "CN-20",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the guide's PDF (tc260.org.cn, version v1.0-202609, copy of 14 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the number TC260-PG-20268A, the issuer, the month of release (2026 年 09 月) and the contents; and the release notice 网安秘字〔2026〕118号 of 15 Sept 2026 with the four guides attached (tc260.org.cn, the record's secondary source, stored on 18 Oct 2026), which gives the day of release. Stored as the record's secondary source, the notice counts only as alt-official evidence for the date, so the record is at level B; version 1 rested the date on the same notice stored as an official source in run 2026-10-14-discover-leads-2026-10-14, a file that is not among this record's stored files. The summary follows the Chinese text. No English version was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "CN-21",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202609; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕118号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-20269A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only September 2026 (2026年09月), and the day, 15 Sept 2026, comes from the notice, which also lists this guide among the four it releases. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Version v1.0-202609, released on 15 Sept 2026 with notice 网安秘字〔2026〕118号 together with the general provisions and the education and audiovisual guides. The guide sets rules for dividing liability between doctors and AI when a system gives a wrong suggestion, and asks that systems be checked for performance across population subgroups; where performance drops markedly for groups such as children or the elderly, use in that group is to be restricted or the lower confidence clearly flagged. The informative annex grades AI applications in health as especially major, major, significant, general or low risk; the top grade has catastrophic and systemic features, and the annex refers to AI Safety Governance Framework 2.0 (CN-13) for grading. Normative references include GB/T 45654 (CN-10), GB 45438 (CN-08), GB/T 45674 (CN-24) and TC260-005, AI Application Ethics Security Guidelines 1.0. Drafting units include the National Health Commission's Statistical Information Center.",
+   "related": [
+    {
+     "id": "CN-10",
+     "slug": "cn-gb-t-45654-2025"
+    },
+    {
+     "id": "CN-08",
+     "slug": "cn-gb-45438-2025"
+    },
+    {
+     "id": "CN-13",
+     "slug": "cn-ai-safety-governance-framework-2-0"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-21",
+     "slug": "tc260-pg-20269a-ai-application-security-education"
+    },
+    {
+     "id": "CN-23",
+     "slug": "tc260-pg-202611a-ai-application-security-radio-tv-and-networ"
+    },
+    {
+     "id": "CN-24",
+     "slug": "gb-t-45674-2025"
+    }
+   ],
+   "id": "CN-22",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202609; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕118号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-202610A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only September 2026 (2026年09月), and the day, 15 Sept 2026, comes from the notice, which also lists this guide among the four it releases. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Version v1.0-202609, released on 15 Sept 2026 with notice 网安秘字〔2026〕118号 together with the general provisions and the education and health guides. Programmes made with AI must not contain the listed prohibited content, and AI-generated micro-short dramas must carry a notice in each episode under the Micro-short Drama Development Management Measures. Generative AI services offered to the public must meet GB/T 45654 (CN-10) and GB 45438 (CN-08), and the collection, annotation and management of training data must meet GB/T 45652 and GB/T 45674 (CN-24). For distribution it asks for explanation of recommendation algorithms, a one-click switch to non-preferred content and a minors' mode. Annex A lists 31 AI application scenarios in the sector and their main risks.",
+   "related": [
+    {
+     "id": "CN-08",
+     "slug": "cn-gb-45438-2025"
+    },
+    {
+     "id": "CN-09",
+     "slug": "cn-ai-content-labeling-measures"
+    },
+    {
+     "id": "CN-10",
+     "slug": "cn-gb-t-45654-2025"
+    },
+    {
+     "id": "CN-02",
+     "slug": "cn-deep-synthesis-provisions"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-21",
+     "slug": "tc260-pg-20269a-ai-application-security-education"
+    },
+    {
+     "id": "CN-22",
+     "slug": "tc260-pg-202610a-ai-application-security-health"
+    },
+    {
+     "id": "CN-24",
+     "slug": "gb-t-45674-2025"
+    }
+   ],
+   "id": "CN-23",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202609; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕118号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF's cover names the TC260 Secretariat and the NRTA Department of Science and Technology and confirms the title, the number TC260-PG-202611A, the version and the contents; it gives only September 2026 (2026年09月), and the day, 15 Sept 2026, comes from the notice, which names this guide in its list of attachments. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Published 25 Apr 2025 and effective 1 Nov 2025. It is a recommended 'GB/T' national standard, not a mandatory 'GB' one, and SAMR's platform lists a plan for an English-language edition. It takes its definitions of generative AI data annotation and of functional and security annotation from GB/T 45654-2025 (CN-10). It applies to organisers of annotation and can guide data requesters' acceptance checks and third-party security assessments; it also sets assessment methods for each requirement, and its annexes give annotation examples and task types.",
+   "id": "CN-24",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the SAMR national standards platform page (openstd.samr.gov.cn; stored 14 Oct 2026, unchanged on 18 Oct 2026) and SAMR's standard detail page (std.samr.gov.cn, stored 18 Oct 2026 as the record's secondary source). They confirm the number, the Chinese and English titles, the recommended nature, status 现行 (current), publication on 2025-04-25 and implementation on 2025-11-01, SAMR and SAC as publishers, TC260 as administering committee and a planned English edition. The text of the standard rests on a copy hosted by MLex (secondary), stored again on 18 Oct 2026 (identical to the copy of 14 Oct 2026), whose cover and foreword match these details; the summary and notes follow it. Version 1 found that SAMR's own download link returns the catalogue page. No English text of the standard was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "id": "CN-25",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version V1.0-202509; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2025〕125号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-202515A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only September 2025 (2025年9月). The notice, signed on 15 Sept 2025 and posted on 22 Sept 2025, gives the day and says the guide implements the Interim Measures for generative AI services. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "CN-26",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202607; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕80号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-20266A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only July 2026 (2026年7月), and the day, 1 July 2026, comes from the notice. The archiver flags the notice copy because the page has little readable text; the notice text itself is complete. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "CN-27",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202608; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕105号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-20267A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only August 2026 (2026年8月), and the day, 24 Aug 2026, comes from the notice. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "JP-07",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp, J-AISI's English edition of the Approach Book (42 pages, dated January 9, 2026) and its English summary edition (January 2026), all copies of 14 Oct 2026 that the archiver re-checked unchanged on 18 Oct 2026; and the Japanese edition (ai-irs_v1.0_ja.pdf, 38 pages, stored 18 Oct 2026), titled AI インシデントレスポンス・アプローチブック and dated 令和８年１月9日 (9 Jan 2026), issued by AI セーフティ・インスティテュート. They confirm the title, the original title, the release on 9 January 2026, the issuer and the content; the summary and notes were checked against the English edition and still hold. The two editions have the same structure and date, and the English edition carries no translation notice, so both are treated as J-AISI's own texts (english_version 'authentic'); neither says which one prevails.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "id": "JP-08",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp (copy of 14 Oct 2026, re-checked unchanged on 18 Oct 2026); the Japanese originals of the Chief AI Officer Guidebook (15 pages) and of the Practical Manual (78 pages), both version 1.00 dated 2026年3月1日 and issued by the AISI secretariat (AI セーフティ・インスティテュート (AISI) 事務局), stored 18 Oct 2026; J-AISI's English versions (19 and 99 pages), headed 'Please refer to the original text for accuracy'; and J-AISI's lists of Framework and Information outputs (18 Oct 2026). They confirm the title, the original title, the issuer, the document date of 1 March 2026, the release on 17 March 2026, the drafts of 5 February 2026, the non-binding character and the content; the summary was checked against the Japanese originals. The English PDFs stored again on 18 Oct 2026 have the same SHA-256 hashes as the copies of 14 Oct 2026 but were filed under swapped role keys, so the 'source changed' flag reflects the order of the files, not new content. date_published follows the date on the documents; the release date is in notes.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "scope_note": "Existing scope_note kept.",
+   "id": "JP-09",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp, the English guidebook version 1.02 (89 pages, 2026-05-14) and its Japanese reference translation (107 pages), all copies of 14 Oct 2026 that the archiver re-checked unchanged on 18 Oct 2026. The release page and the guidebook's version history confirm the title, the three version dates, the issuer and its contributors, that the guide is to be revised over time, and that the English version is the official edition and the Japanese one a reference translation; the summary and notes were checked against the English text and still hold.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "scope_note": "Existing scope_note kept.",
+   "id": "JP-10",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's release page on aisi.go.jp (Japanese and English; copy of 14 Oct 2026, unchanged on 18 Oct 2026), the paper itself (10 pages, English only, cover 'Discussion Paper', 'Japan AI Safety Institute', 'Feb. 2025') and J-AISI's list of Information outputs (copy of 18 Oct 2026), which dates the release 2025年2月7日. They confirm the title, the issuer, the date, the nature as a discussion paper, the fifteen activities, the sources and terms listed for them, the terminology challenges and the content of the summary and notes. The list of outputs shows no later edition of the map, and nothing stored shows a withdrawal.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "original_title": "ヘルスケア領域におけるAIセーフティ評価観点ガイド ～Trustworthy AI（信頼できるAI）の実現を目指して～",
+   "issuing_body": "Japan AI Safety Institute (J-AISI)",
+   "scope_note": "Written by the Healthcare Sub-Working Group, a group of companies within J-AISI's Business Demonstration Working Group, together with a working group of the Japan Digital Health Alliance; included because J-AISI convened the group and publishes the guide as one of its outputs.",
+   "notes": "Written by the Healthcare Sub-Working Group of the Business Demonstration Working Group that J-AISI set up, led by Ubie, Inc. with other companies as members and Mitsubishi Research Institute as secretariat, in collaboration with the Working Group on Generative AI (SubWG-B) of the Japan Digital Health Alliance (JaDHA). J-AISI's list of outputs dates the release 2 April 2026; the Japanese and English covers are dated 3 April 2026. J-AISI also published summaries in both languages and, in Japanese, Markdown versions of chapters 3 and 4 for use with AI services and practical examples of AI safety evaluation with prompts and agent skills. Products that qualify as Software as a Medical Device are left to the approval and certification framework of the Pharmaceuticals and Medical Devices Act. The guide is a living document, to be updated as generative AI and regulation evolve.",
+   "id": "JP-11",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp; the Japanese guide version 1.0 (118 pages, cover 令和 8 年 4 月 3 日, with its development structure, the members of the sub-working group and the update history in chapter 7; copy of 18 Oct 2026); the English guide (98 pages, 'April 3, 2026') and the English summary (13 pages, 'April 3, 2026'); and J-AISI's list of Information outputs (copy of 18 Oct 2026), which dates the release 2026年4月2日. They confirm the title, the Japanese title with its subtitle, the issuer and authors, the scope, the dates and the content; the summary is checked against the Japanese text. The English edition carries no translation notice and is listed beside the Japanese edition, so it is treated as an authentic text. Version 1 gave the sub-working group as part of the issuing body and had no scope_note; following the rule for reports that an authority publishes and a group it convened wrote, the issuing body is now J-AISI, the scope_note names the group and the notes name the authors. The list of outputs shows no later version of the guide.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "JP-12",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: MIC's Japanese press release of 27 March 2026 (令和8年3月27日) and its English press release of the same date (copy of 18 Oct 2026), both on soumu.go.jp; the guidelines' main text (25 pages, cover 令和８年３月, 総務省); and the table of the 52 public comments with MIC's views (18 pages, comment period 令和７年12月26日 to 令和８年１月29日). They confirm the title (MIC's English title), the Japanese title, the issuer, the date, the comment period and count, the AI Security Subcommittee behind the guidelines, the statement that they do not decide who is responsible for a threat, the intention to supplement them, and the content; the summary is written from the Japanese text. MIC's English press release states that the published materials are in Japanese only, so english_version is 'none found'. The annex (別添（付属資料）), published through e-Gov, was not stored. Nothing stored shows a supplement or revision since March 2026.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+   "notes": "A normative document of the Digital Society Promotion Standard Guidelines that ministries must follow; the Digital Agency prepared it with METI, MIC and others. The first edition of 27 May 2025 covered text-generating AI, applied in full to systems procured or used from fiscal year 2026 (令和8年度) and replaced the government's agreement on the business use of generative AI such as ChatGPT (version 2.1). Version 2.0, decided on 12 June 2026, came into effect on 1 September 2026, with the CAIO measures to be set by 30 June 2026 and the wider scope of the governance framework applying from 1 July 2026. It widened the generative AI covered, revised the high-risk criteria, referred to the AI Promotion Act, the AI Basic Plan and the Guideline for Ensuring the Appropriateness of Research & Development and Utilization of AI-Related Technology, and added measures for AI agents that users create, major model updates and intellectual property. Systems handling specially designated secrets or security-sensitive information are excluded; independent administrative agencies and designated corporations are expected to follow it.",
+   "id": "JP-13",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Digital Agency's news page on version 2.0 (digital.go.jp, 公開日 2026年6月12日; copy of 18 Oct 2026), which reports the executive board's decision of 12 June 2026 and links the documents; the Digital Society Promotion Standard Guidelines page (copy of 18 Oct 2026), whose DS-920 entry gives 策定日または最終改定日：2026年6月12日 and Normative; the Japanese text of version 2.0 (64 pages, 2026 年（令和８年）6 月 12 日, デジタル社会推進会議幹事会決定, with revision history and supplementary provisions) and the Digital Agency's English provisional translation of it ('June 12, 2026'); and the news page on the first decision of 27 May 2025, which now says it does not show the latest version, with the Japanese first edition and its English provisional translation. They confirm the title, the Japanese title, the issuer, the identifier, the dates, the normative status, the effective date of 1 September 2026 and the content; the summary is checked against the Japanese text of version 2.0, with terms as the government's translation renders them. official_url now points to the news page on version 2.0, because the page on the first decision says it is not the latest version. The archiver also stored, from the standard guidelines page, an unrelated Digital Agency checklist on public relations.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 10 field(s) supported."
+   }
+  },
+  {
+   "summary": "Alert of the Personal Information Protection Commission on generative AI services, weighing individuals' rights against the public benefits of new technology. Businesses and administrative bodies entering personal information in prompts must confirm this stays within the specified purpose of use. If the data are then handled for purposes other than producing the response, a business acting without prior consent, or an administrative body, may breach the Act on the Protection of Personal Information, so both should check that the provider does not use them for machine learning. Users are warned that inputs may be used for training and outputs may contain inaccurate personal information.",
+   "scope_note": "Existing scope_note kept.",
+   "id": "JP-14",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the PPC's press page of 2 June 2023 on ppc.go.jp (copy of 14 Oct 2026, unchanged on 18 Oct 2026) and the notice itself (6 pages, copy of 18 Oct 2026: cover note, Annex 1 with the alert to businesses, administrative bodies and general users, Annex 2 with the summary of the alert to OpenAI). They confirm the title, the date (令和５年６月２日), the issuer, the addressees, the alert to OpenAI of 1 June 2023 under Article 147 and the content; the summary is written from the Japanese text. Version 1's summary applied the condition 'without consent' to administrative bodies too; Annex 1 attaches it only to businesses, so the sentence was corrected. No English version is linked from the press page or the notice, and nothing stored shows that the alert was withdrawn or replaced.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "id": "JP-15",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the three-ministry council's page on the FDMA site (fdma.go.jp; copy of 14 Oct 2026, unchanged on 18 Oct 2026); the Japanese second edition (151 pages, 2021 年 3 月, 石油コンビナート等災害防止３省連絡会議; copy of 18 Oct 2026); the council's English edition of the second edition (158 pages, March 2021, with the working group's members in the annex); and the Japanese summary of the revision (copy of 18 Oct 2026, identical to that of 14 Oct 2026). They confirm the title, the Japanese title, the issuers, the first publication in November 2020 (2020年11月; 令和2年11月の公表以来), the second edition of March 2021, the study group of April 2020 to March 2021, the intention to keep reviewing the guidelines and the content; the summary is written from the English edition, which the council publishes as its English edition without a translation notice, and checked against the Japanese text. The archive's flag that a source changed on 18 Oct 2026 does not concern this instrument: that day the archiver stored, in the record's document-2 slot, a different PDF linked from the page (r05/jisyuhoan_shiryo_01.pdf, a summary of a survey on non-explosion-proof equipment in plants), not a new version of the revision summary. Nothing stored shows an edition after March 2021 or a withdrawal.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Version 2.0 of 26 Dec 2024 revised the provisional guideline that MEXT published in July 2023 (初等中等教育段階における生成AIの利用に関する暫定的なガイドライン, Ver.1.0), after discussion in a study group on generative AI in primary and secondary education set up in July 2024. MEXT's notices to boards of education on the provisional guideline and on its revision are dated 4 Jul 2023 and 26 Dec 2024. Reference materials include checklists by scenario and examples from generative AI pilot schools. For safety measures by AI developers and providers, the guideline refers to the AI Guidelines for Business and J-AISI's evaluation guide. MEXT's provisional translation is titled 'Guideline for the Use of Generative AI in Elementary and Secondary Education', while MEXT's pages list it as 'Guideline for the Use of Generative AI in Primary and Secondary Education (Ver.2.0)(tentative translation)'.",
+   "scope_note": "Existing scope_note kept.",
+   "id": "JP-16",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: MEXT's page on the use of generative AI (mext.go.jp; copy of 14 Oct 2026, unchanged on 18 Oct 2026); the Japanese main text of Ver.2.0 (33 pages, 文部科学省 初等中等教育局, 令和６年 12 月 26 日; copy of 18 Oct 2026); MEXT's English provisional translation (36 pages, 'December 26, 2024', '当翻訳は仮訳であり、正確には原文を参照してください。 Please refer to the original text for accuracy') and the English one-page summary; and MEXT's new site on generative AI in schools (copy of 18 Oct 2026, saved with a headless browser, with updates up to 令和8年7月), to which the first page now points. They confirm the title, the Japanese title, the issuer, Ver.2.0 of 26 December 2024, the provisional guideline of July 2023 (令和 5 年 7 月), the study group, the dates of the notices to boards of education and the content; the summary is checked against the Japanese text, with terms as MEXT's translation renders them. The new site still offers Ver.2.0 as the current guideline, and nothing stored shows a later version or a withdrawal.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "notes": "The AI Institutional Study Group was set up in July 2024 under the AI Strategic Council, which sits under the Integrated Innovation Strategy Promotion Council chaired by the Chief Cabinet Secretary with all ministers as members. It met seven times, heard 15 researchers, businesses and others, and held a public comment before the report. The report asks that the government's guidelines and fact-finding rest on law so that businesses, including foreign ones, can be asked to cooperate, and leaves national security risks such as CBRN development and cyberattacks to the ministries concerned. The Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-related Technology (Act No. 53 of 2025) followed in 2025.",
+   "id": "JP-17",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored and read: the Japanese report on the Cabinet Office site (www8.cao.go.jp; 25 pages, cover '中間 とりまとめ', '2025 年２月４日', 'AI 戦略会議・AI 制度研究会'; copy of 14 Oct 2026, unchanged on 18 Oct 2026) and its English provisional translation on the same site (26 pages, 'Interim Report', 'February 4, 2025', 'AI Strategic Council / AI Institutional Study Group', '※当翻訳は仮訳であり、正確には原文を参照してください。'; copy of 18 Oct 2026). They confirm the title, the Japanese title, the date, the bodies and their set-up, the process (seven meetings, 15 hearings, public comment), the recommendations in the summary and the points in the notes; the summary is written from the Japanese text. The English title is the record's rendering of the translation's cover ('Interim Report') with the bodies it names. The sentence in notes on the AI Promotion Act rests on record JP-04, not on this record's stored files; its title now follows JP-04.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "scope_note": "Mainly a development plan; existing scope_note stays.",
+   "id": "CN-28",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. The State Council's page on gov.cn could not be reached on 18 Oct 2026 (DNS lookup failed), so its copy of 16 Oct 2026 was read: the notice and the full plan in Chinese. It confirms the document number 国发〔2017〕35号, the State Council as issuer, the date of the notice (成文日期 8 Jul 2017, also under the State Council's signature) and the release date (发布日期 20 Jul 2017), and the plan's goals, safeguards and implementation sections. No English text by the State Council was found; the English title renders the Chinese title and matches the name DigiChina uses in its third-party English translation, stored on 16 Oct 2026. The summary follows the Chinese text. 安全 is rendered 'safety', as in the official English title of 人工智能安全治理框架 (CN-07); DigiChina renders 人工智能安全监管和评估体系, 安全评估和管控能力 and 安全认证 with 'security'.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported, fixes applied to scope_note."
+   }
+  }
+ ],
+ "history_context": {
+  "CN-01": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the text: version 1's opening claim that this is China's first binding AI-specific rule rests on no stored file; Art. 8 (regular review of algorithms, models, data and outcomes), Art. 16 and Art. 27 (security assessment) made explicit",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/CN-01/2026-10-11/official.html",
+       "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+       "locator": "Article 2",
+       "quote": "前款所称应用算法推荐技术，是指利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息。"
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "added risk-based classification: Art. 23 sets up classified and graded security management of algorithmic recommendation services",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/CN-01/2026-10-11/official.html",
+       "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+       "locator": "Article 23",
+       "quote": "网信部门会同电信、公安、市场监管等有关部门建立算法分级分类安全管理制度"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "version 1's reference to State Council Gazette 2022 No. 9 and its remark that the filing system serves other rules rest on no stored file and were removed; Arts. 23, 24, 26 and 31 added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/CN-01/2026-10-11/official.html",
+       "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+       "locator": "Article 24",
+       "quote": "具有舆论属性或者社会动员能力的算法推荐服务提供者应当在提供服务之日起十个工作日内通过互联网信息服务算法备案系统填报服务提供者的名称"
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "required and missing; China Law Translate's English translation, stored in this run, is a third-party translation (chinalawtranslate.com is listed as not official)",
+     "evidence": [
+      {
+       "field": "english_version",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-01/extra-d48eee7f57/2026-10-18/official.html",
+       "sha256": "31a1b908142a2006b5af322990e432e43f494968519571c31332708ee2ef46f1",
+       "locator": "byline and header",
+       "quote": "By China Law Translate on 2022/01/04 Promulgation Date: 2021-12-31 Title: Provisions on the Management of Algorithmic Recommendations in Internet Information Services"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "order preamble",
+     "quote": "《互联网信息服务算法推荐管理规定》已经2021年11月16日国家互联网信息办公室2021年第20次室务会议审议通过"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "page title",
+     "quote": "互联网信息服务算法推荐管理规定_中央网络安全和信息化委员会办公室"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "order header",
+     "quote": "国家互联网信息办公室 中华人民共和国工业和信息化部 中华人民共和国公安部 国家市场监督管理总局 令 第9号"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "order header",
+     "quote": "国家市场监督管理总局 令 第9号"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "signatures of the order",
+     "quote": "国家市场监督管理总局局长 张 工 2021年12月31日"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "Article 35",
+     "quote": "第三十五条 本规定自2022年3月1日起施行。"
+    },
+    {
+     "field": "status",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "Article 35",
+     "quote": "第三十五条 本规定自2022年3月1日起施行。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-01/2026-10-11/official.html",
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "locator": "Article 31",
+     "quote": "法律、行政法规没有规定的，由网信部门和电信、公安、市场监管等有关部门依据职责给予警告、通报批评，责令限期改正；拒不改正或者情节严重的，责令暂停信息更新，并处一万元以上十万元以下罚款。"
+    }
+   ],
+   "cand_id": "CN-01"
+  },
+  "CN-03": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-03",
+   "fields": {
+    "notes": {
+     "reason": "version 1's remarks on implementation through the CAC filing and on TC260-003 and GB/T 45654-2025 rest on no stored file and were removed, and the remark on the secondary URL is about the sources (now in verification.note); Arts. 12, 16, 17 and 20 added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/CN-03/2026-10-11/official.html",
+       "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+       "locator": "Article 12",
+       "quote": "第十二条 提供者应当按照《互联网信息服务深度合成管理规定》对图片、视频等生成内容进行标识。"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "order preamble",
+     "quote": "《生成式人工智能服务管理暂行办法》已经2023年5月23日国家互联网信息办公室2023年第12次室务会会议审议通过"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "page title",
+     "quote": "生成式人工智能服务管理暂行办法_中央网络安全和信息化委员会办公室"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "order header",
+     "quote": "国家互联网信息办公室 中华人民共和国国家发展和改革委员会 中华人民共和国教育部 中华人民共和国科学技术部 中华人民共和国工业和信息化部 中华人民共和国公安部 国家广播电视总局 令 第15号"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "order header",
+     "quote": "国家广播电视总局 令 第15号"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "signatures of the order",
+     "quote": "国家广播电视总局局长 曹淑敏 2023年7月10日"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "Article 24",
+     "quote": "第二十四条 本办法自2023年8月15日起施行。"
+    },
+    {
+     "field": "status",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "Article 24",
+     "quote": "第二十四条 本办法自2023年8月15日起施行。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-03/2026-10-11/official.html",
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "locator": "Article 21",
+     "quote": "第二十一条 提供者违反本办法规定的，由有关主管部门依照《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《中华人民共和国科学技术进步法》等法律、行政法规的规定予以处罚"
+    }
+   ],
+   "cand_id": "CN-03"
+  },
+  "CN-04": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-04",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the text: Art. 2 scope, Art. 4 (AI units set up ethics committees), Art. 15(5) as a review criterion of the committees rather than a general requirement, and the annex's three AI-related items",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/CN-04/2026-10-16/official.html",
+       "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+       "locator": "Article 2",
+       "quote": "（三）不直接涉及人或实验动物，但可能在生命健康、生态环境、公共秩序、可持续发展等方面带来伦理风险挑战的科技活动；"
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "added risk-based classification: listed higher-risk activities need expert re-review (Art. 25) and minimal-risk activities can use a simplified procedure (Art. 22)",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/CN-04/2026-10-16/official.html",
+       "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+       "locator": "Article 25",
+       "quote": "第二十五条 建立需要开展专家复核的科技活动清单制度，对可能产生较大伦理风险挑战的新兴科技活动实施清单管理。"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "publication date narrowed to 8 Oct 2023 (MOST page); version 1's 10 Oct rests on no stored file; Arts. 22, 25-34, 36 and 43-45 added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/CN-04/2026-10-11/secondary.html",
+       "sha256": "4ac2b55420448d2f0f046dd32cc78d3062e55da4d8f6a34e6650c3df7c5503d3",
+       "locator": "metadata",
+       "quote": "发布日期： 2023年10月08日"
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "required and missing; CSET's English translation, stored in this run, is a third-party translation (translator Etcetera Language Group, edited by CSET)",
+     "evidence": [
+      {
+       "field": "english_version",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-04/extra-7a742ebdb3/2026-10-18/official.pdf",
+       "sha256": "e6993ab6ef3b7d014575bf42e4d30f71cc683dc1b4273384e823c08e4253130d",
+       "locator": "page 1, header",
+       "quote": "Title (Trial) Measures for Science and Technology Ethics Reviews"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "page title",
+     "quote": "关于印发《科技伦理审查办法（试行）》的通知_国务院部门文件_中国政府网"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "notice",
+     "quote": "《科技伦理审查办法（试行）》已经中央科技委员会同意，现印发给你们，请遵照实施。"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "signatures of the notice",
+     "quote": "科技部 教育部 工业和信息化部 农业农村部 国家卫生健康委 中国科学院 中国社科院 中国工程院 中国科协 中央军委科技委 2023年9月7日"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "metadata",
+     "quote": "发文字号：国科发监〔2023〕167号"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "metadata",
+     "quote": "成文日期：2023年09月07日"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "Article 56",
+     "quote": "第五十六条 本办法自2023年12月1日起施行。"
+    },
+    {
+     "field": "status",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "Article 56",
+     "quote": "第五十六条 本办法自2023年12月1日起施行。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-04/2026-10-16/official.html",
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "locator": "notice",
+     "quote": "现印发给你们，请遵照实施。"
+    }
+   ],
+   "cand_id": "CN-04"
+  },
+  "CN-05": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-05",
+   "fields": {
+    "notes": {
+     "reason": "version 1's claims that the Initiative is the conceptual basis of the AI Safety Governance Framework and the 2025 Action Plan, and that the MFA page was re-posted in May 2024, rest on no stored file and were removed (CN-07 and CN-11 stay linked); the CAC publication of the Chinese text on 18 Oct 2023 added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+       "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+       "locator": "question",
+       "quote": "问：10月18日，习近平主席在第三届“一带一路”国际合作高峰论坛开幕式主旨演讲中提出《全球人工智能治理倡议》"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the gov.cn page of version 1 cannot be stored (robots.txt unreachable, then DNS failure); the MFA spokesperson's remarks of 18 Oct 2023 on mfa.gov.cn, stored in this run, give the same facts (announcement by President Xi at the Third Belt and Road Forum)",
+     "evidence": [
+      {
+       "field": "secondary_url",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+       "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+       "locator": "heading",
+       "quote": "外交部发言人就《全球人工智能治理倡议》答记者问 2023-10-18 13:43"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CN-05/2026-10-11/official.html",
+     "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+     "locator": "page title",
+     "quote": "Global AI Governance Initiative_Ministry of Foreign Affairs of the People's Republic of China"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+     "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+     "locator": "page title",
+     "quote": "全球人工智能治理倡议_中央网络安全和信息化委员会办公室"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+     "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+     "locator": "spokesperson's answer",
+     "quote": "今天上午，习近平主席出席第三届“一带一路”国际合作高峰论坛开幕式，并在主旨演讲中宣布中方将提出《全球人工智能治理倡议》。"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+     "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+     "locator": "heading",
+     "quote": "全球人工智能治理倡议 2023年10月18日 12:00 来源： 中国网信网"
+    },
+    {
+     "field": "status",
+     "file": "archive/CN-05/2026-10-11/official.html",
+     "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+     "locator": "body",
+     "quote": "To make this happen, we would like to suggest the following:"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-05/2026-10-11/official.html",
+     "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+     "locator": "body",
+     "quote": "To make this happen, we would like to suggest the following:"
+    }
+   ],
+   "cand_id": "CN-05"
+  },
+  "CN-14": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-14",
+   "fields": {
+    "summary": {
+     "reason": "rewritten closer to the text of the new Art. 20 (both paragraphs) and the Decision's other changes; version 1's closing sentence ('This places AI governance in national statute law') was an evaluation",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/CN-14/2026-10-11/official.html",
+       "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+       "locator": "item 3 (new Art. 20)",
+       "quote": "三、增加一条，作为第二十条：“国家支持人工智能基础理论研究和算法等关键技术研发，推进训练数据资源、算力等基础设施建设，完善人工智能伦理规范，加强风险监测评估和安全监管，促进人工智能应用和健康发展。"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "version 1's statement that China has not adopted a comprehensive AI law rests on no stored file, and its sentence on what the summary covers was about the record; both removed; the Decision's other changes (items 1, 4, 5, 7 and 13) added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/CN-14/2026-10-11/official.html",
+       "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+       "locator": "item 1 (new Art. 3)",
+       "quote": "一、增加一条，作为第三条：“网络安全工作坚持中国共产党的领导，贯彻总体国家安全观，统筹发展和安全，推进网络强国建设。”"
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "required and missing; CSET's English translation of the Cybersecurity Law as amended by this Decision, stored in this run, is the closest English text found; a third-party translation",
+     "evidence": [
+      {
+       "field": "english_version",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-14/extra-3bffb10e63/2026-10-18/official.pdf",
+       "sha256": "6fcf9fecf87c71cec94b8d11c3c1116f40aa5d04fbe349a5ab11a749ffab94c2",
+       "locator": "page 1, header",
+       "quote": "The following is a translation of China's Cybersecurity Law, as amended in October 2025."
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: the Decision amends a general cybersecurity law and is in for its AI article, the case AGENTS.md section 10 gives a scope_note (a law that is not AI-specific but is the operative instrument for an AI-safety question)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "page title",
+     "quote": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定_中国人大网"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "page title",
+     "quote": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定_中国人大网"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "adoption note",
+     "quote": "（2025年10月28日第十四届全国人民代表大会常务委员会第十八次会议通过）"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "adoption note",
+     "quote": "（2025年10月28日第十四届全国人民代表大会常务委员会第十八次会议通过）"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "final clause",
+     "quote": "本决定自2026年1月1日起施行。"
+    },
+    {
+     "field": "status",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "final clauses",
+     "quote": "本决定自2026年1月1日起施行。 《中华人民共和国网络安全法》根据本决定作相应修改并对条文顺序作相应调整，重新公布。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-14/2026-10-11/official.html",
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "locator": "enacting clause",
+     "quote": "第十四届全国人民代表大会常务委员会第十八次会议决定对《中华人民共和国网络安全法》作如下修改："
+    }
+   ],
+   "cand_id": "CN-14"
+  },
+  "TW-01": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate TW-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the stored Chinese text, using the NSTC translation's terms: Article 5(1) protects life, body (身體), liberty or property, not 'safety'; Article 4's fourth principle is cybersecurity and safety (資安與安全); Article 16's framework is an 'AI risk taxonomy and assessment framework'; the duty to restrict or prohibit such uses comes from Article 16(2)",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/TW-01/2026-10-18/official.html",
+       "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+       "locator": "Article 4, principle 4",
+       "quote": "四、資安與安全：人工智慧研發與應用過程，應建立資安防護措施"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "the sentence on the Legislative Yuan's passage in late December 2025 rests on no stored file and was removed; enactment in full by presidential order (history page), Article 6 (National AI Strategic Committee, as the translation names it) and Article 5(2) added; Article 18 restated more exactly",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/TW-01/2026-10-18/official.html",
+       "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+       "locator": "Article 18",
+       "quote": "應自本法施行後二年內，完成法規之制（訂）定、修正或廢止，及行政措施之改進。"
+      }
+     ]
+    },
+    "language": {
+     "reason": "the official text is Chinese only; the English text is the NSTC's translation (listed under 英譯法規清單 and stored as EngLawContent), so English moves to english_version",
+     "evidence": []
+    },
+    "english_version": {
+     "reason": "the record had none; the NSTC's English translation of the Act is now stored at the recorded URL",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+     "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+     "locator": "English translation, Content, Title",
+     "quote": "Title： Artificial Intelligence Basic Act Ch Date： 2026.01.14"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/TW-01/2026-10-18/official.html",
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "locator": "法規內容, 法規名稱",
+     "quote": "法規名稱： 人工智慧基本法"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+     "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+     "locator": "法規沿革, entry 1",
+     "quote": "1.中華民國115年1月14日總統華總一義字第 11500001671 號令制定公布全文 20 條"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/TW-01/2026-10-18/official.html",
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "locator": "法規內容, 發文字號",
+     "quote": "發文字號： 華總一義字第11500001671號 令"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/TW-01/2026-10-18/official.html",
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "locator": "法規內容, 公發布日",
+     "quote": "公發布日： 民國 115 年 01 月 14 日"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/TW-01/2026-10-18/official.html",
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "locator": "Article 20",
+     "quote": "第 20 條 本法自公布之日起施行。"
+    },
+    {
+     "field": "status",
+     "file": "archive/TW-01/2026-10-18/official.html",
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "locator": "Article 20",
+     "quote": "第 20 條 本法自公布之日起施行。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/TW-01/2026-10-18/official.html",
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "locator": "法規內容, 發文字號",
+     "quote": "發文字號： 華總一義字第11500001671號 令"
+    }
+   ],
+   "cand_id": "TW-01"
+  },
+  "TW-02": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate TW-02",
+   "fields": {
+    "notes": {
+     "reason": "the reference to MODA's AI Evaluation Center (AIEC) rests on no stored file and was removed; the hedge about an earlier draft was removed (page dates are in verification.note); the civilian scope and military exclusion (2.2), the measures for high-risk and unmanageable use cases (3.4.1(b) iii and iv), the periodic review (3.2.3) and the English version added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+       "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+       "locator": "page 10 (3), 2.2",
+       "quote": "this Framework applies primarily to AI use cases in the civilian domain and expressly excludes military uses."
+      }
+     ]
+    },
+    "title": {
+     "reason": "MODA's English version of the framework is titled 'Artificial Intelligence Risk Taxonomy and Assessment Framework' (its English page: 'AI Risk Taxonomy and Assessment Framework'); the previous title was a rendering of 人工智慧風險分類框架. The version label moved to notes",
+     "evidence": [
+      {
+       "field": "title",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+       "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+       "locator": "page 1 (cover of the English version)",
+       "quote": "Version 1.0 Artificial Intelligence Risk Taxonomy and Assessment Framework July 7, 2026"
+      }
+     ]
+    },
+    "short_title": {
+     "reason": "follows the new English title",
+     "evidence": []
+    },
+    "summary": {
+     "reason": "rewritten from the Chinese text with the terms of MODA's English version (risk subtypes, the three risk-type names, the four steps); it now states that regulators must follow the workflow (2.1)",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+       "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+       "locator": "page 10 (3), 2.1",
+       "quote": "each competent authority for the relevant industries shall follow the operational workflow prescribed in this Framework"
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "the record had none; MODA publishes an English version of version 1.0, now stored",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+     "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+     "locator": "page 1 (cover of the English version)",
+     "quote": "Version 1.0 Artificial Intelligence Risk Taxonomy and Assessment Framework July 7, 2026"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/TW-02/2026-10-11/official.html",
+     "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+     "locator": "main text, first paragraph",
+     "quote": "數位發展部依據《人工智慧基本法》規定，推動與國際接軌之「人工智慧風險分類框架」"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/TW-02/2026-10-11/official.html",
+     "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+     "locator": "page footer of the article",
+     "quote": "人工智慧風險分類框架 發布單位：數位策略司"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/TW-02/2026-10-11/secondary.pdf",
+     "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+     "locator": "page 1 (cover)",
+     "quote": "版本 v1.0 人工智慧風險分類框架 中華民國 115年 7月 7日"
+    },
+    {
+     "field": "status",
+     "file": "archive/TW-02/2026-10-11/official.html",
+     "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+     "locator": "main text, first paragraph",
+     "quote": "本框架旨在作為政府跨部會溝通的共同語言，提供一套共通的評估標準。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/TW-02/2026-10-11/official.html",
+     "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+     "locator": "一、框架定位與目的, (三)",
+     "quote": "最終的治理執行權力與責任仍由各目的事業主管機關負責，依循此框架原則，將其轉化為具法律拘束力、可直接執行的領域管理規範。"
+    }
+   ],
+   "cand_id": "TW-02"
+  },
+  "HK-01": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate HK-01",
+   "fields": {
+    "notes": {
+     "reason": "the year of first introduction and the 2023 update added from the speech; the remark that the release date of version 1.0 is left null concerns the record and was removed; version 2.0's changes, the adaptation for general use and the English-prevails clause added from the PDF",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+       "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+       "locator": "speech of 30 Oct 2025, paragraph on AI governance",
+       "quote": "One of the cornerstones is the Ethical Artificial Intelligence Framework, first introduced in 2021, which covers 12 core principles"
+      }
+     ]
+    },
+    "date_published": {
+     "reason": "was null; the Secretary for Innovation, Technology and Industry's speech of 30 Oct 2025 says the framework was 'first introduced in 2021', so the year is recorded at that precision",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+       "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+       "locator": "speech of 30 Oct 2025, paragraph on AI governance",
+       "quote": "One of the cornerstones is the Ethical Artificial Intelligence Framework, first introduced in 2021, which covers 12 core principles"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Digital Policy Office Ethical Artificial Intelligence Framework Version: 2.0"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Digital Policy Office Ethical Artificial Intelligence Framework Version: 2.0"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/HK-01/2026-10-11/document-2.pdf",
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "locator": "page 1 (cover)",
+     "quote": "Version: 2.0 December 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/HK-01/2026-10-11/official.html",
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "locator": "AI and Data Ethics, Ethical Artificial Intelligence Framework",
+     "quote": "Click here to download PDF file of the Ethical AI Framework"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/HK-01/2026-10-11/official.html",
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "locator": "AI and Data Ethics, Ethical Artificial Intelligence Framework, second paragraph",
+     "quote": "this version of framework is suitably revised (e.g. removal or adjustment of government specific terms) for general reference by organisations when adopting AI and big data analytics in their IT projects"
+    }
+   ],
+   "cand_id": "HK-01"
+  },
+  "HK-02": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate HK-02",
+   "fields": {
+    "notes": {
+     "reason": "release date and HKGAI's founding and AIR@InnoHK funding added from the press release; the remarks on why date_published was empty and that the guideline was 'reportedly first issued in April 2025 (not verified)' concern the research and were removed; the English-prevails clause added from the PDF",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+       "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+       "locator": "press release, first paragraph",
+       "quote": "The Digital Policy Office (DPO) released today (April 15) the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline)."
+      }
+     ]
+    },
+    "date_published": {
+     "reason": "was null; the HKSAR Government press release of 15 Apr 2025 says the DPO released the guideline that day",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+       "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+       "locator": "press release, first paragraph",
+       "quote": "The Digital Policy Office (DPO) released today (April 15) the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline)."
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 1 (cover)",
+     "quote": "Hong Kong Generative Artificial Intelligence Technical and Application Guideline Version: 1.1"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/HK-02/2026-10-11/official.html",
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+     "quote": "The DPO commissioned the Hong Kong Generative AI Research and Development Center (HKGAI) to study and suggest appropriate codes and guidelines"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 1 (cover)",
+     "quote": "Version: 1.1 December 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/HK-02/2026-10-11/official.html",
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+     "quote": "Click here to download PDF file of the Hong Kong Generative Artificial Intelligence Technical and Application Guideline"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 2, Preamble",
+     "quote": "so as to provide relevant codes and practices on the technology and the use of generative artificial intelligence (AI) technologies for reference by various sectors"
+    }
+   ],
+   "cand_id": "HK-02"
+  },
+  "CN-18": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-18",
+   "fields": {
+    "summary": {
+     "reason": "corrected: the draft does not rate every process area on all ten capabilities; each selects the relevant ones (5.2.1 note); PA37 given its full name, 'security operations and emergency intervention'",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/CN-18/2026-10-18/official.pdf",
+       "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+       "locator": "page 7, clause 1",
+       "quote": "本文件适用于对组织的安全能力成熟度进行评估，也可作为监管部门对组织进行评价的参考依据。"
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "added catastrophic risk: the top levels require that safeguards against biological-weapon and cyberattack knowledge survive agent use, and human uplift trials on attack code and biological harm (PA15 and PA17, level 5)",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/CN-18/2026-10-18/official.pdf",
+       "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+       "locator": "page 39, 7.2.2.2.5 (PA15, level 5)",
+       "quote": "智能体执行过程中，其核心安全防御能力（如对生物武器、网络攻击知识的屏蔽）不被移除 或显著削弱。"
+      }
+     ]
+    },
+    "related": {
+     "reason": "added CN-24 (GB/T 45674-2025, a normative reference) and CN-20 (TC260's AI application security guide, which refers to the national standard on AI security capability maturity assessment for maturity levels)",
+     "evidence": [
+      {
+       "field": "related",
+       "file": "archive/CN-18/2026-10-18/official.pdf",
+       "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+       "locator": "page 7, clause 2",
+       "quote": "GB/T 45674—2025 网络安全技术 生成式人工智能数据标注安全规范"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "the organisation-level rule completed with clause 9.6.2 c); the human uplift trials at the top level of PA17 added; GB/T 45674-2025 linked as CN-24",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+       "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+       "locator": "JSON field projectOpinion.sTime",
+       "quote": "sTime\":\"2026-08-26 00:00:00\",\"eTime\":\"2026-10-25 23:59:59"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/CN-18/2026-10-18/official.pdf",
+     "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+     "locator": "page 1, cover",
+     "quote": "Cybersecurity technology—Assessment method for security capability maturity of artificial intelligence"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CN-18/2026-10-18/official.pdf",
+     "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+     "locator": "page 7, title above clause 1",
+     "quote": "网络安全技术 人工智能安全能力成熟度评估方法 1 范围"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/CN-18/2026-10-18/official.pdf",
+     "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+     "locator": "page 5, 前言",
+     "quote": "本文件由全国网络安全标准化技术委员会（SAC/TC260）提出并归口。"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+     "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+     "locator": "JSON field projectOpinion.sTime",
+     "quote": "sTime\":\"2026-08-26 00:00:00\",\"eTime\":\"2026-10-25 23:59:59"
+    },
+    {
+     "field": "status",
+     "file": "archive/CN-18/2026-10-18/official.pdf",
+     "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+     "locator": "page 1, cover",
+     "quote": "(点击此处添加与国际标准一致性程度的标识) 征求意见稿 在提交反馈意见时，请将您知道的相关专利连同支持性文件一并附上。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-18/2026-10-18/official.pdf",
+     "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+     "locator": "page 1, cover",
+     "quote": "中 华 人 民 共 和 国 国 家 标 准 GB/T XXXXX—XXXX"
+    }
+   ],
+   "cand_id": "CN-18"
+  },
+  "CN-19": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-19",
+   "fields": {
+    "related": {
+     "reason": "added CN-26: the draft's bibliography lists TC260's practice guide on the security of deploying and using agents, which is CN-26",
+     "evidence": [
+      {
+       "field": "related",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+       "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+       "locator": "page 31, 参考文献",
+       "quote": "[1] 人工智能安全治理框架 2.0 [2] 网络安全标准实践指南——智能体部署使用安全指引"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "the bibliography item linked as CN-26",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+       "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+       "locator": "page 6, 3.1 note",
+       "quote": "注：本文件所称智能体系统主要指基于大模型构建的软件智能体系统，不包括以机器 人、自动驾驶等物理设备控制为主要功能的智能体系统。"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+     "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+     "locator": "notice title",
+     "quote": "关于对《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》公开征求意见的通知"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+     "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+     "locator": "notice, attachment",
+     "quote": "附件：《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+     "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+     "locator": "notice, signature",
+     "quote": "全国网络安全标准化技术委员会秘书处 2026年9月18日"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+     "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-09-18 网安秘字〔2026〕119号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+     "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+     "locator": "notice",
+     "quote": "秘书处现组织对《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》面向社会公开征求意见。如有意见或建议，请于2026年10月2日前反馈至秘书处。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "locator": "page 2, 前言",
+     "quote": "《网络安全标准实践指南》（以下简称《实践指南》）是 全国网络安全标准化技术委员会（以下简称“网安标委”）秘书 处组织制定和发布的标准相关技术文件"
+    }
+   ],
+   "cand_id": "CN-19"
+  },
+  "CN-20": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-20",
+   "fields": {
+    "related": {
+     "reason": "added CN-24 (GB/T 45674-2025, a normative reference, clause 2) and CN-18 (the draft national standard on AI security capability maturity assessment, the kind of standard clause 7.1 d) refers to for maturity levels)",
+     "evidence": [
+      {
+       "field": "related",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+       "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+       "locator": "page 6, clause 2",
+       "quote": "GB/T 45674-2025 网络安全技术 生成式人工智能数据标注安全"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "GB/T 45674-2025 linked as CN-24",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "official_identifier",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+     "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——人工智能应用安全指引 总则 （v1.0-202609）"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/CN-20/2026-10-18/secondary.html",
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "locator": "notice, attachments",
+     "quote": "《网络安全标准实践指南——人工智能应用安全指引 总则》.pdf"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+     "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20268A 网络安全标准实践指南"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+     "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+     "locator": "page 1, cover",
+     "quote": "全国网络安全标准化技术委员会秘书处 2026 年 09 月"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-20/2026-10-18/secondary.html",
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+     "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20268A 网络安全标准实践指南 ——人工智能应用安全指引 总则 （v1.0-202609）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+     "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+     "locator": "page 2, 前言",
+     "quote": "旨在围绕网络安全法律法规政 策、 标准、 网络安全热点和事件等主题， 宣传网络安全相关标准及 知识，提供标准化实践指引。"
+    }
+   ],
+   "cand_id": "CN-20"
+  },
+  "CN-21": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-21",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——人工智能应用安全指引 教育 （v1.0-202609）"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20269A 网络安全标准实践指南 ——人工智能应用安全指引 教育"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "locator": "page 1, cover",
+     "quote": "（v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09 月"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20269A 网络安全标准实践指南"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-21/2026-10-18/secondary.html",
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20269A 网络安全标准实践指南 ——人工智能应用安全指引 教育 （v1.0-202609）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "locator": "page 2, foreword",
+     "quote": "（以下简称《实践指南》）是 全国网络安全标准化技术委员会（以下简称“网安标委”）秘 书处组织制定和发布的标准相关技术文件，旨在围绕网络安 全法律法规政策、标准、网络安全热点和事件等主题，宣传 网络安全相关标准及知识，提供标准化实践指引。"
+    }
+   ],
+   "cand_id": "CN-21"
+  },
+  "CN-22": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-22",
+   "fields": {
+    "notes": {
+     "reason": "added the normative references, among them GB/T 45674 (CN-24), with record IDs; the rule on subgroups now gives both options of clause 7.2 b) (restricted use or a clear warning of lower confidence) instead of restricted use alone",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+       "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+       "locator": "page 6, 2 规范性引用文件",
+       "quote": "GB/T 45654 网络安全技术 生成式人工智能服务安全基本要求 GB/T 45674 网络安全技术 生成式人工智能数据标注安全规范 YY/T 0664 医疗器械软件 软件生存周期过程 TC260-005 人工智能应用伦理安全指引 1.0"
+      }
+     ]
+    },
+    "related": {
+     "reason": "added CN-24 (GB/T 45674), a normative reference of the guide",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——人工智能应用安全指引 卫生健康 （v1.0-202609）"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202610A 网络安全标准实践指南 ——人工智能应用安全指引 卫生健康"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "locator": "page 1, cover",
+     "quote": "（v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09 月"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202610A 网络安全标准实践指南"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-22/2026-10-18/secondary.html",
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202610A 网络安全标准实践指南 ——人工智能应用安全指引 卫生健康 （v1.0-202609）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "locator": "page 2, foreword",
+     "quote": "是全国网络安全标准化技术委员会 （以下简称 “网安标委” ） 秘书处组织制定和发布的标准相关技术文件，旨在围绕网络 安全法律法规政策、标准、网络安全热点和事件等主题，宣 传网络安全相关标准及知识，提供标准化实践指引。"
+    }
+   ],
+   "cand_id": "CN-22"
+  },
+  "CN-23": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-23",
+   "fields": {
+    "notes": {
+     "reason": "GB/T 45674 now carries its record ID (CN-24), and the training-data clause names collection, annotation and management as clause 7 f) does",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+       "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+       "locator": "page 10, 7 f)",
+       "quote": "f) 开展人工智能训练数据采集、标注和管理等活动时，应符合 GB/T 45652 和 GB/T 45674 的规定。"
+      }
+     ]
+    },
+    "related": {
+     "reason": "added CN-24 (GB/T 45674), which clause 7 f) requires training-data work to meet",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——人工智能应用安全指引 广播电视和网 络视听 （v1.0-202609）"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202611A 网络安全标准实践指南 ——人工智能应用安全指引 广播电视和网 络视听"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "locator": "page 1, cover",
+     "quote": "（v1.0-202609） 全国网络安全标准化技术委员会秘书处 国家广播电视总局科技司 2026 年 09 月"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202611A 网络安全标准实践指南"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-23/2026-10-18/secondary.html",
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202611A 网络安全标准实践指南 ——人工智能应用安全指引 广播电视和网 络视听 （v1.0-202609）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "locator": "page 2, foreword",
+     "quote": "全国网络安全标准化技术委员会（以下简称“网安标委”）秘 书处组织制定和发布的标准相关技术文件"
+    }
+   ],
+   "cand_id": "CN-23"
+  },
+  "CN-24": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-24",
+   "fields": {
+    "notes": {
+     "reason": "removed the remark that GB/T 45654-2025 names this standard as a companion standard: that is a statement about CN-10's text (it stays in CN-10's notes) and no file stored for this record shows it",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+       "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+       "locator": "page 7, 1 范围",
+       "quote": "本文件适用于生成式人工智能数据标注组织方开展训练数据标 注 活 动,并 为 生 成 式 人 工 智 能 数 据 需求方对于数据标注进行检查、验收或第三方机构对数据标注进行安全性评估提供参考。"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "英文标准名称",
+     "quote": "英文标准名称：Cybersecurity technology—Generative artificial intelligence data annotation security specification"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "中文标准名称",
+     "quote": "中文标准名称：网络安全技术 生成式人工智能数据标注安全规范"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "发布单位",
+     "quote": "发布单位 国家市场监督管理总局、国家标准化管理委员会"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "标准号",
+     "quote": "标准号：GB/T 45674-2025"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "发布日期",
+     "quote": "35.030 发布日期 2025-04-25"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "实施日期",
+     "quote": "实施日期 2025-11-01 主管部门 国家标准委"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "locator": "标准状态",
+     "quote": "data annotation security specification 标准状态： 现行"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/CN-24/2026-10-18/secondary.html",
+     "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+     "locator": "standard header",
+     "quote": "国家标准 推荐性 现行 英文版计划"
+    }
+   ],
+   "cand_id": "CN-24"
+  },
+  "CN-25": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-25",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南 （V1.0-202509）"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202515A 网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "locator": "page 1, cover",
+     "quote": "（V1.0-202509） 全国网络安全标准化技术委员会秘书处 2025 年 9 月"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202515A 网络安全标准实践指南"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-25/2026-10-18/secondary.html",
+     "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+     "locator": "notice signature",
+     "quote": "附件：《网络安全标准实践指南——生成式人工智能服务安全应急响应指南》 全国网络安全标准化技术委员会秘书处 2025年9月15日"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-202515A 网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南 （V1.0-202509）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "locator": "page 2, foreword",
+     "quote": "是全国网络安全标准化技术委员会（以下简称“网安标委”） 秘书处组织制定和发布的标准相关技术文件，旨在围绕网络 安全法律法规政策、标准、网络安全热点和事件等主题，"
+    }
+   ],
+   "cand_id": "CN-25"
+  },
+  "CN-26": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-26",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——智能体部署使用安全指引 （v1.0-202607）"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20266A 网络安全标准实践指南 ——智能体部署使用安全指引"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "locator": "page 1, cover",
+     "quote": "（v1.0-202607） 全国网络安全标准化技术委员会秘书处 2026 年 7 月"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20266A 网络安全标准实践指南"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-26/2026-10-18/secondary.html",
+     "sha256": "546455bcabe776d8ad12c143718a41f066014fc4c1b9b5d5ac90dec854f07c37",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-07-01 网安秘字〔2026〕80号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20266A 网络安全标准实践指南 ——智能体部署使用安全指引 （v1.0-202607）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "locator": "page 2, foreword",
+     "quote": "是全国 网络安全标准化技术委员会（以下简称“网安标委”）秘书处组织 制定和发布的标准相关技术文件，旨在围绕网络安全法律法规政 策、标准、网络安全热点和事件等主题"
+    }
+   ],
+   "cand_id": "CN-26"
+  },
+  "CN-27": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-27",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——个人用户使用人工智能服务安全指南 v1.0-202608"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20267A 网络安全标准实践指南 ——个人用户使用人工智能服务安全指南"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "locator": "page 1, cover",
+     "quote": "v1.0-202608 全国网络安全标准化技术委员会秘书处 2026 年 8 月"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20267A 网络安全标准实践指南"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/CN-27/2026-10-18/secondary.html",
+     "sha256": "e0144b4d8633bfa7af52f420bc2f96819d5600b99f2406ae8b656799a8965bd8",
+     "locator": "notice header",
+     "quote": "发布时间： 2026-08-24 网安秘字〔2026〕105号"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "locator": "page 1, cover",
+     "quote": "TC260-PG-20267A 网络安全标准实践指南 ——个人用户使用人工智能服务安全指南 v1.0-202608"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "locator": "page 2, foreword",
+     "quote": "是全 国网络安全标准化技术委员会（以下简称“网安标委”）秘书处组 织制定和发布的标准相关技术文件，旨在围绕网络安全法律法规 政策、标准、网络安全热点和事件等主题"
+    }
+   ],
+   "cand_id": "CN-27"
+  },
+  "JP-07": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-07",
+   "fields": {},
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+     "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+     "locator": "page 1 (cover)",
+     "quote": "AI-IRS Approach Book for AI Incident Response ~ A Foundation for Trustworthy AI ~"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+     "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+     "locator": "release page, Japanese list of documents",
+     "quote": "AIインシデントレスポンス・アプローチブック 2026年1月9日公表"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+     "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+     "locator": "release page, English text",
+     "quote": "Japan AI Safety Institute has released the AI Incident Response Approach Book"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+     "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+     "locator": "release page, Japanese list of documents",
+     "quote": "AIインシデントレスポンス・アプローチブック 2026年1月9日公表"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+     "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+     "locator": "release page, English text",
+     "quote": "Japan AI Safety Institute has released the AI Incident Response Approach Book, which presents “AI-IRS (AI Incident Response System)” as a conceptual framework"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+     "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+     "locator": "page 4, 0 Executive Summary",
+     "quote": "Organizations promoting AI adoption can use this document as a reference to advance concrete discussions."
+    }
+   ],
+   "cand_id": "JP-07"
+  },
+  "JP-08": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-08",
+   "fields": {},
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+     "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+     "locator": "release page, English text",
+     "quote": "The Chief AI Officer Guides consist of two documents: (1) the Chief AI Officer Guidebook, intended primarily for the CAIO and the appointing authority; and (2) the Practical Manual for Establishing a Chief AI Officer and Implementing AI Governance"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+     "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+     "locator": "release page, Japanese text",
+     "quote": "「Chief AI Officerガイド」は、主に民間事業者がChief AI Officer (CAIO) を設置・運用する際の標準的な実務指針を提供し"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+     "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+     "locator": "Japanese guidebook, page 1 (cover)",
+     "quote": "Chief AI Officer ガイドブック (Version 1.00) 2026 年 3 月 1 日 AI セーフティ・インスティテュート (AISI) 事務局"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+     "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+     "locator": "Japanese guidebook, page 1 (cover)",
+     "quote": "Chief AI Officer ガイドブック (Version 1.00) 2026 年 3 月 1 日 AI セーフティ・インスティテュート (AISI) 事務局"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+     "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+     "locator": "release page, English text",
+     "quote": "The ”Chief AI Officer Guides” aim to provide standard practical guidance for private sector organizations in establishing and operating a Chief AI Officer (CAIO) function"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+     "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+     "locator": "Japanese guidebook, page 3, 1. はじめに",
+     "quote": "ただし法的拘束力を有するものではない。"
+    }
+   ],
+   "cand_id": "JP-08"
+  },
+  "JP-09": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-09",
+   "fields": {
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+     "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+     "locator": "page 1 (cover)",
+     "quote": "Data Quality Management Guidebook Maximizing the Value of Data and AI"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+     "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+     "locator": "page 84, 6.1 Publishing Organizations and Contributors",
+     "quote": "Japan AI Safety Institute (J -AISI) is the government initiative responsible for ensuring safety as a foundation for accelerating AI"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+     "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+     "locator": "release page, list of documents",
+     "quote": "Data Quality Management Guidebook (Version 1.00), published on 31 March 2025"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+     "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+     "locator": "release page, list of documents",
+     "quote": "Data Quality Management Guidebook (Version 1.02), published on 14 May 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+     "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+     "locator": "release page, English text",
+     "quote": "This English version of the guide is the official edition, while the Japanese version serves as a reference."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+     "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+     "locator": "release page, English text",
+     "quote": "this guide identifies what needs to be done to continually ensure the data quality required to maximize the value of data and AI"
+    }
+   ],
+   "cand_id": "JP-09"
+  },
+  "JP-10": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-10",
+   "fields": {
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+     "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+     "locator": "page 1 (cover)",
+     "quote": "AMAIS: Activity Map on AI Safety"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+     "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+     "locator": "page 1 (cover)",
+     "quote": "Discussion Paper Japan AI Safety Institute AISI Feb. 2025"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-10/extra-cce5ea29b8/2026-10-18/official.html",
+     "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+     "locator": "list of Information outputs",
+     "quote": "AIセーフティに関する活動マップ（AMAIS） AMAIS: Activity Map on AI Safety -2025年2月7日"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+     "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+     "locator": "page 4 (Summary)",
+     "quote": "This paper is a living document to promote international discussions on AI safety."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+     "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+     "locator": "page 4 (Summary)",
+     "quote": "This paper does not indicate any activity that should be undertaken by AISIs or other organizations in each country."
+    }
+   ],
+   "cand_id": "JP-10"
+  },
+  "JP-11": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-11",
+   "fields": {
+    "original_title": {
+     "reason": "the Japanese cover carries the subtitle ～Trustworthy AI（信頼できる AI）の実現を目指して～, which the English title already renders ('Toward the Realization of Trustworthy AI'); added so that the two titles correspond",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+       "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+       "locator": "page 1 (cover)",
+       "quote": "ヘルスケア領域における AI セーフティ評価観点ガイド ～Trustworthy AI（信頼できる AI）の実現を目指して～ （第 1.0 版） 令和 8 年 4 月 3 日"
+      }
+     ]
+    },
+    "issuing_body": {
+     "reason": "the guide is a J-AISI output written by a sub-working group of companies that J-AISI set up (7.1, page 117 of the Japanese text); under the rule for reports an authority publishes that a group it convened wrote, the issuing body is the authority and the notes name the authors",
+     "evidence": [
+      {
+       "field": "issuing_body",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+       "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+       "locator": "page 1 (cover)",
+       "quote": "令和 8 年 4 月 3 日 AI セーフティ・インスティテュート 事業実証ワーキンググループ ヘルスケアサブワーキンググループ"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added under the same rule, naming the sub-working group and the Japan Digital Health Alliance's working group",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "authorship added from chapter 7 (SWG led by Ubie with company members, secretariat Mitsubishi Research Institute, with JaDHA's SubWG-B); the release page lists the Markdown files of chapters 3 and 4 only in Japanese, so that sentence was corrected",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+     "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+     "locator": "page 1 (cover)",
+     "quote": "Guide to Evaluation Perspectives on AI Safety in the Healthcare Sector — Toward the Realization of Trustworthy AI — (Version 1.0)"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+     "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+     "locator": "page 1 (cover)",
+     "quote": "ヘルスケア領域における AI セーフティ評価観点ガイド ～Trustworthy AI（信頼できる AI）の実現を目指して～ （第 1.0 版） 令和 8 年 4 月 3 日"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+     "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+     "locator": "page 6, 1.1 背景・目的",
+     "quote": "本ガイドは産・学・官の連携を前提としたリビングドキュ メントとして位置づけ、 生成AI 技術の進展や規制動向の変化を反映しながら適宜アップデートさ れることを想定している。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+     "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+     "locator": "page 5, 1.1 Background and Purpose",
+     "quote": "the aim of this guide is to provide practical guidelines for AI safety evaluations specifically tailored to the healthcare sector"
+    }
+   ],
+   "cand_id": "JP-11"
+  },
+  "JP-12": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-12",
+   "fields": {},
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-12/extra-bd8ba2d396/2026-10-18/official.html",
+     "sha256": "03d2c2dfa8d72ffdff33f7dc06e561858959116236e33d3aa5103aa3f00fcf6a",
+     "locator": "English press release",
+     "quote": "we have formulated the \"Guidelines on Technical Measures to Ensure the Security of AI\" and hereby publish them."
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 1 (cover)",
+     "quote": "AI のセキュリティ確保のための 技術的対策に係るガイドライン"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 1 (cover)",
+     "quote": "技術的対策に係るガイドライン 令和８年３月 総務省"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-12/extra-bd8ba2d396/2026-10-18/official.html",
+     "sha256": "03d2c2dfa8d72ffdff33f7dc06e561858959116236e33d3aa5103aa3f00fcf6a",
+     "locator": "English press release, date",
+     "quote": "publication of the guidelines March 27, 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+     "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+     "locator": "press release, 1 概要",
+     "quote": "今般、提出された意見を踏まえ、「AIのセキュリティ確保のための技術的対策に係るガイドライン」を策定しましたので"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 14, 3.1 対策の位置づけ",
+     "quote": "各組織が自らの状況に応じて合理的な対策を選択するための指針として提供する ものである。"
+    }
+   ],
+   "cand_id": "JP-12"
+  },
+  "JP-13": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-13",
+   "fields": {
+    "official_url": {
+     "reason": "the first decision's news page (the old official_url) says it does not show the latest version; the news page on version 2.0 is the Digital Agency's page for the current text and links the Japanese text and the English translation",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/official.html",
+       "sha256": "c31b4ad0ddf967a92b8de2c6021a39bfb4b4bb3ba10041edd884863931eebf0d",
+       "locator": "notice at top of page",
+       "quote": "本ページは最新版のガイドラインではありません。最新版は、デジタル社会推進標準ガイドラインのページ（DS-920 行政の進化と革新のための生成AIの調達・利活用に係るガイドライン）をご確認ください。"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "the supplementary provisions of version 2.0 (CAIO measures by 30 June 2026, governance-framework scope from 1 July 2026) added; the reference to 'the guideline under Article 13 of the AI Act' replaced by the instruments version 2.0 itself names (section 1.1), since the stored text does not cite Article 13",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+       "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+       "locator": "page 11, 2.2.2",
+       "quote": "本ガイドラインが対象とする生成AIは、原則として、入力はテキスト及び音 声、出力はテキスト、画像又は音声が可能なものとする。"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+     "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+     "locator": "page 1 (cover)",
+     "quote": "The Guideline for Japanese Government’s Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration June 12, 2026 Approved by the Council for the Promotion of a Digital Society Executive Board Meeting"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+     "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+     "locator": "page 1 (cover)",
+     "quote": "行政の進化と革新のための生成 AI の調達・利活 用に係るガイドライン 2026 年（令和８年）6 月 12 日 デジタル社会推進会議幹事会決定"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/official.html",
+     "sha256": "644b64dbd163990186a69380b063370441cd4ce4703c97915fb640c174be0f5d",
+     "locator": "1. 概要",
+     "quote": "令和8年（2026年）6月12日（金）に開催した第23回デジタル社会推進会議幹事会・書面開催において、「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を決定しました。"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+     "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+     "locator": "page 1 (cover)",
+     "quote": "デジタル社会推進標準ガイドライン DS-920"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+     "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+     "locator": "page 2 (改定履歴)",
+     "quote": "2025年5月27日 - ・ 初版作成"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/official.html",
+     "sha256": "8b8d7f81945e950e36c822c326e1ecc6b6dbc57a41717a510d30c975084ba755",
+     "locator": "DS-920 entry",
+     "quote": "策定日または最終改定日：2026年6月12日"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+     "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+     "locator": "page 43, 附則",
+     "quote": "この決定の内容は、2026 年（令和８年）９月１日から施行する。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+     "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+     "locator": "page 1 (cover), ドキュメントの位置付け",
+     "quote": "政府情報システムの整備及び管理に関するルールとして遵守する内容を定めた ドキュメント"
+    }
+   ],
+   "cand_id": "JP-13"
+  },
+  "JP-14": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-14",
+   "fields": {
+    "summary": {
+     "reason": "Annex 1 (1)② makes input of personal data 'without the person's prior consent' a possible breach for businesses, while (2)② for administrative bodies has no consent condition; version 1 applied 'without consent' to both. The sentence now follows the text, and the advice to check that the provider does not use the data for machine learning, which both items give, is added",
+     "evidence": []
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/JP-14/2026-10-18/document-1.pdf",
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "locator": "page 1 (cover note)",
+     "quote": "生成 AI サービスの利用に関する注意喚起等について 令和５年 ６月２ 日"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/JP-14/2026-10-18/document-1.pdf",
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "locator": "page 1 (cover note)",
+     "quote": "生成 AI サービスの利用に関する注意喚起等について 令和５年 ６月２ 日"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/JP-14/2026-10-18/document-1.pdf",
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "locator": "page 2 (Annex 1 heading)",
+     "quote": "生成 AI サービスの利用に関する注意喚起等 令和５年６月２ 日 個人情報保護委員会"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/JP-14/2026-10-18/document-1.pdf",
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "locator": "page 1 (cover note)",
+     "quote": "生成 AI サービスの利用に関する注意喚起等について 令和５年 ６月２ 日"
+    },
+    {
+     "field": "status",
+     "file": "archive/JP-14/2026-10-18/document-1.pdf",
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "locator": "page 3 (Annex 1)",
+     "quote": "当委員会は、個人情報の適正な取扱いが確保され、個人の権利利益が保護される よう、生成 AI サービスの開発 ・ 利用状況を引き続き注視していく予定であり、 今後、 追加の注意喚起等を実施する可能性もある点に留意されたい。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/JP-14/2026-10-18/document-1.pdf",
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "locator": "page 2 (Annex 1)",
+     "quote": "これらも参考に、 個人情報の保護に関する法律（平成 15 年法律第 57 号。以下 「個人情報保護法」と い う 。）の規律に従って、 個人情報を適正に取り扱っていただ きたい。"
+    }
+   ],
+   "cand_id": "JP-14"
+  },
+  "JP-15": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-15",
+   "fields": {},
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+     "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+     "locator": "page 1 (cover)",
+     "quote": "Guidelines on Assessment of AI Reliability in the Field of Plant Safety Second Edition"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+     "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+     "locator": "page 1 (cover)",
+     "quote": "プラント保安分野 AI 信頼性評価ガイドライン 第 2 版"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+     "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+     "locator": "page 1 (cover)",
+     "quote": "2021 年 3 月 石油コンビナート等災害防止３省連絡会議 （経済産業省、総務省消防庁、厚生労働省）"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+     "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+     "locator": "自主保安資料 list",
+     "quote": "プラント保安分野におけるAIの活用（2020年11月）（石油コンビナート等災害防止3省連絡会議）"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+     "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+     "locator": "page 1 (cover)",
+     "quote": "2021 年 3 月 石油コンビナート等災害防止３省連絡会議 （経済産業省、総務省消防庁、厚生労働省）"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+     "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+     "locator": "page 15, 1.1.3 本ガイドラインの策定経緯",
+     "quote": "今後、本ガイドラインの活用状況や、プラント保安分野の技術の進展、AI およびその品 質確保・評価技術の進展等を踏まえて、ガイドラインを継続的に見直していく。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+     "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+     "locator": "page 3 (Executive Summary)",
+     "quote": "the Guidelines show how to properly manage AI reliability"
+    }
+   ],
+   "cand_id": "JP-15"
+  },
+  "JP-16": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-16",
+   "fields": {
+    "notes": {
+     "reason": "the two English renderings MEXT uses for the title (its pages and the cover of its provisional translation) are now noted",
+     "evidence": []
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+     "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+     "locator": "list of documents",
+     "quote": "【英訳：本体】Guideline for the Use of Generative AI in Primary and Secondary Education (Ver.2.0)(tentative translation)"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+     "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+     "locator": "page 1 (cover)",
+     "quote": "初等中等教育段階における 生成 AI の利活用に関するガイドライン 文部科学省 初等中等教育局 令和６年 12 月 26 日 Ver. 2.0"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+     "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+     "locator": "page 1 (cover)",
+     "quote": "初等中等教育段階における 生成 AI の利活用に関するガイドライン 文部科学省 初等中等教育局 令和６年 12 月 26 日 Ver. 2.0"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+     "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+     "locator": "page 3, はじめに (政府の取組)",
+     "quote": "令和 5 年 7 月に「初等中等教育段階における生成 AI の利用に関する 暫定的なガイドライン （ver1.0）」を公表した。"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+     "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+     "locator": "page 1 (cover)",
+     "quote": "初等中等教育段階における 生成 AI の利活用に関するガイドライン 文部科学省 初等中等教育局 令和６年 12 月 26 日 Ver. 2.0"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-ed90d1ea2d/2026-10-18/official-rendered.html",
+     "sha256": "fe5a64949dc3de14aa9848e4ab46108b70ae6a11c448efb6910ab39d0c5a834f",
+     "locator": "MEXT's site on generative AI in schools, guideline section",
+     "quote": "生成AIの利用にあたって （Ver.2.0）（令和6年12月26日公表） 【本体】初等中等教育段階における生成AIの利活用に関するガイドライン（Ver.2.0）（PDF:2.4MB）"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+     "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+     "locator": "page 4, ガイドラインの位置付け及び構成",
+     "quote": "学校現場での生成 AI の利活用を一律に禁止した り義務付けたりするものではない。"
+    }
+   ],
+   "cand_id": "JP-16"
+  },
+  "JP-17": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate JP-17",
+   "fields": {
+    "notes": {
+     "reason": "the Act's title now follows record JP-04 ('Artificial Intelligence-related Technology' for 'AI-related Technology'); the rest is confirmed against the Japanese text",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+     "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+     "locator": "page 1 (cover)",
+     "quote": "I nterim Report February 4, 2025 AI Strategic Council / AI Institutional Study Group"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+     "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+     "locator": "page 1 (cover)",
+     "quote": "中間 とりまとめ 2025 年２月４日 AI 戦略会議・AI 制度研究会"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+     "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+     "locator": "page 1 (cover)",
+     "quote": "I nterim Report February 4, 2025 AI Strategic Council / AI Institutional Study Group"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+     "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+     "locator": "page 1 (cover)",
+     "quote": "I nterim Report February 4, 2025 AI Strategic Council / AI Institutional Study Group"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+     "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+     "locator": "page 3 (概要)",
+     "quote": "2024年７月以降、AI制度研究会1)を計７回開催。計15の研究者、事業者等からの ヒアリングを含む議論、パブリックコメントを経て中間とりまとめを作成。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+     "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+     "locator": "page 22 (IV. おわりに)",
+     "quote": "政府に対しては、本とりまとめを踏まえ、世界で最も AI を開発・活用しやすく、かつ、人間中心 の価値に基づく、他国のモデルとなるような AI に係る法制度を含む制度整備を速やかに実施してい くことを期待する。"
+    }
+   ],
+   "cand_id": "JP-17"
+  },
+  "CN-28": {
+   "reason": "pipeline run 2026-10-18-recheck-east-asia-1 (recheck), candidate CN-28",
+   "fields": {
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "notice",
+     "quote": "现将《新一代人工智能发展规划》印发给你们，请认真贯彻执行。"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "plan heading",
+     "quote": "（此件公开发布） 新一代人工智能发展规划 人工智能的迅速发展将深刻改变人类社会生活、改变世界。"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "document data",
+     "quote": "发文机关： 国务院 成文日期： 2017年07月08日"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "document data",
+     "quote": "发文字号： 国发〔2017〕35号"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "document data",
+     "quote": "发文机关： 国务院 成文日期： 2017年07月08日"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "notice",
+     "quote": "各省、自治区、直辖市人民政府，国务院各部委、各直属机构： 现将《新一代人工智能发展规划》印发给你们，请认真贯彻执行。"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "locator": "notice heading",
+     "quote": "国务院关于印发 新一代人工智能发展规划的通知 国发〔2017〕35号"
+    }
+   ],
+   "cand_id": "CN-28"
+  }
+ },
+ "assigned": {
+  "CN-01": "CN-01",
+  "CN-03": "CN-03",
+  "CN-04": "CN-04",
+  "CN-05": "CN-05",
+  "CN-14": "CN-14",
+  "TW-01": "TW-01",
+  "TW-02": "TW-02",
+  "HK-01": "HK-01",
+  "HK-02": "HK-02",
+  "CN-18": "CN-18",
+  "CN-19": "CN-19",
+  "CN-20": "CN-20",
+  "CN-21": "CN-21",
+  "CN-22": "CN-22",
+  "CN-23": "CN-23",
+  "CN-24": "CN-24",
+  "CN-25": "CN-25",
+  "CN-26": "CN-26",
+  "CN-27": "CN-27",
+  "JP-07": "JP-07",
+  "JP-08": "JP-08",
+  "JP-09": "JP-09",
+  "JP-10": "JP-10",
+  "JP-11": "JP-11",
+  "JP-12": "JP-12",
+  "JP-13": "JP-13",
+  "JP-14": "JP-14",
+  "JP-15": "JP-15",
+  "JP-16": "JP-16",
+  "JP-17": "JP-17",
+  "CN-28": "CN-28"
+ },
+ "not_added": [],
+ "needs_human": [],
+ "questions": [],
+ "unchecked": [],
+ "summary": "0 new, 31 update(s), 0 not added, 0 need a human, 0 merged with an open question, 0 not ready"
+}

@@ -1,0 +1,50 @@
+{
+ "cand_id": "HK-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Four-tiered risk classification",
+   "verdict": "supported",
+   "locator": "page 15"
+  },
+  {
+   "claim": "Irremovable watermarks for high-risk AI content",
+   "verdict": "supported",
+   "locator": "page 30"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Version 1.1 of Dec 2025 current; release date 15 Apr 2025 from the government press release. Search found nothing newer."
+}

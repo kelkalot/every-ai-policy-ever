@@ -1,0 +1,45 @@
+{
+ "cand_id": "CN-28",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Three-step goals to 2020, 2025, 2030; 2030 world-leading",
+   "verdict": "supported",
+   "locator": "strategic goals"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly a development plan; existing scope_note stays."
+ },
+ "overall": "accept",
+ "note": "Searched for a revision or replacement of the 2017 plan: none found; 2026 reporting concerns other initiatives. All quotes matched the stored texts; the fields checked say what the record states."
+}

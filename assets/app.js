@@ -44,7 +44,7 @@
   var STATUS_ORDER = ["In force", "Partially in force", "Adopted, not yet in force", "Published (non-binding, current)", "Draft / proposed", "Superseded", "Revoked / withdrawn", "Lapsed"];
   var STATUS_CLASS = { "In force": "s-inforce", "Partially in force": "s-partial", "Adopted, not yet in force": "s-adopted", "Published (non-binding, current)": "s-published", "Draft / proposed": "s-draft", "Superseded": "s-gone", "Revoked / withdrawn": "s-gone", "Lapsed": "s-gone" };
   var STATUS_SHORT = { "Published (non-binding, current)": "Published, current", "Adopted, not yet in force": "Adopted, not in force" };
-  var VLABEL = { A: "A · official source fetched", B: "B · alternative official source", C: "C · not confirmed on an official page" };
+  var VLABEL = { A: "A · confirmed by the official text", B: "B · another official source", C: "C · not confirmed on an official page" };
   var LC_ORDER = ["archived", "archived-review", "partial", "failed", "no-url", "not-attempted"];
   var SORT_KEYS = ["date_desc", "date_asc", "updated", "jur", "title", "id"];
   var LC_LABEL = { "archived": "Archived", "archived-review": "Archived, needs review", "partial": "Partial (secondary only)", "failed": "Download failed", "no-url": "No URL to archive", "not-attempted": "Not archived yet" };
@@ -152,7 +152,7 @@
     ["" + cnt(function (r) { return r.legal_force === "Proposed"; }), "proposed"],
     ["" + countries.size, "countries"],
     ["" + cnt(function (r) { return r.jurisdiction_level === "International" || r.jurisdiction_level === "Supranational"; }), "international & EU instruments"],
-    ["" + cnt(function (r) { return r.verification.level === "A"; }) + "/" + R.length, "confirmed on the official page"],
+    ["" + cnt(function (r) { return r.verification.level === "A"; }) + "/" + R.length, "confirmed by the official text"],
     ["" + cnt(function (r) { return r.local_copy.status === "archived" || r.local_copy.status === "archived-review"; }) + "/" + R.length, "stored locally"],
     ["" + cnt(function (r) { return ["archived-review", "partial", "failed", "no-url"].indexOf(r.local_copy.status) >= 0 || !!r.local_copy.integrity_flag; }), "local-copy flags"]
   ].map(function (x) { return "<li><strong>" + esc(x[0]) + "</strong> " + esc(x[1]) + "</li>"; }).join("");

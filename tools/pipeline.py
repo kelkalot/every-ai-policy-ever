@@ -98,6 +98,16 @@ QUOTE_MIN_ALNUM = 8   # a quote needs at least this many letters or digits to id
 # Which stored files can count as official evidence. The archiver sets a file's role; an agent only labels its quotes,
 # so a label is capped by the role and by the host the file came from.
 SECONDARY_ROLES = {"secondary"}
+# Addresses that usually hold an announcement about an instrument rather than its text (AGENTS.md section 5.4): a
+# quote labelled official from such a page gets a warning, and the extractor and the checker decide. Statements and
+# declarations that are themselves the instrument are often published on such pages too, so this only warns.
+ANNOUNCEMENT_URL = re.compile("|".join([
+    r"/news(?:room)?\b", r"news-and-updates", r"news-events", r"press-?releases?", r"pressreleaseview", r"/press/",
+    r"media-?releases?", r"/media-cent(?:er|re)/", r"fact-?sheets?", r"briefing-room", r"statements-releases",
+    r"/speeches?/", r"/blog/", r"announce", r"/aktuelt/", r"/nyheter/", r"/frettir/", r"/berita/", r"/noticias?/",
+    r"/actualites/", r"/aktuelles?/", r"siaran", r"prezly\.com", r"/articles?/", r"/20\d\d/\d\d/\d\d/",
+    r"/gia/general/", r"/bbs/", r"/briefing/",
+]), re.I)
 GOV_HOST = re.compile(r"\.(gov|mil|int)$|(^|\.)(gov|gob|gouv|govt|gv|go|gub|mil|admin|gc|leg)\.[a-z]{2,3}$"
                       r"|\.state\.[a-z]{2}\.us$"
                       r"|(^|\.)(europa\.eu|un\.org|unesco\.org|oecd\.org|oecd\.ai|wto\.org|asean\.org)$")
@@ -1406,6 +1416,12 @@ def check_item(index, cid, item, record_id=None):
             warnings.append("host %s is not recognised as official, so this quote counts as secondary; if the host is "
                             "official, a human records it with tools/pipeline.py hosts --add" % (host or "(unknown)"))
             kind = "secondary"
+    if kind == "official":
+        _, url = index.file_info(cid, record_id).get(path, (None, None))
+        if url and ANNOUNCEMENT_URL.search(urllib.parse.unquote(url)) and "/eli/" not in url.lower():  # ELI: a gazette
+            warnings.append("%s looks like an announcement (press release, news item, fact sheet, speech): an announcement "
+                            "counts at most as alt-official, even on the issuer's site, unless the page holds the "
+                            "instrument's own text (AGENTS.md section 5.4)" % url)
     return not problems, kind, problems, warnings
 
 

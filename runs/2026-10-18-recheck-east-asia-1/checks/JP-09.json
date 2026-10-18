@@ -1,0 +1,47 @@
+{
+ "cand_id": "JP-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Three views: Process, Governance Cycle, Gateway",
+   "verdict": "supported",
+   "locator": "page 21"
+  },
+  {
+   "claim": "Data quality as one AI-safety evaluation perspective",
+   "verdict": "supported",
+   "locator": "page 9"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept."
+ },
+ "overall": "accept",
+ "note": "Version 1.02 of 14 May 2026 confirmed; search found no later version."
+}

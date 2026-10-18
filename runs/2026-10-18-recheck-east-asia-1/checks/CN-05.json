@@ -1,0 +1,48 @@
+{
+ "cand_id": "CN-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "The quotes show a non-binding proposal ('we would like to suggest'); nothing stored shows it replaced or withdrawn."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Testing and assessment system based on AI risk levels; tiered and category-based management",
+   "verdict": "supported",
+   "locator": "body"
+  },
+  {
+   "claim": "UN-framework discussion of an international AI governance institution",
+   "verdict": "supported",
+   "locator": "last paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Position statement with safety and governance content; in scope."
+ },
+ "overall": "accept",
+ "note": "Searched for a newer version of the Initiative: none found; later Chinese initiatives (2025 action plan, 2026 WAIC statements) are separate documents. All quotes matched the stored texts; the fields checked say what the record states."
+}

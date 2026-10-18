@@ -1,0 +1,53 @@
+{
+ "cand_id": "CN-14",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Decision makes 14 numbered changes (items one to fourteen)",
+   "verdict": "supported",
+   "locator": "enacting clause"
+  },
+  {
+   "claim": "New Art. 20 on AI research, infrastructure, ethics norms, risk monitoring and safety supervision",
+   "verdict": "supported",
+   "locator": "item 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Not AI-specific; amendment of the Cybersecurity Law included for its new AI article. The extractor's scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "Searched for a further amendment of the Cybersecurity Law in 2026: nothing found. All quotes matched the stored texts; the fields checked say what the record states."
+}

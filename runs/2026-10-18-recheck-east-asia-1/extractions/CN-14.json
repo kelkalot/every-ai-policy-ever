@@ -1,0 +1,221 @@
+{
+ "cand_id": "CN-14",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-14",
+ "record": {
+  "summary": "Decision of the NPC Standing Committee making 14 changes to the Cybersecurity Law. It adds an article on AI, Article 20 of the amended law: the state supports basic AI theory research and R&D of key technologies such as algorithms, builds training-data resources, computing power and other infrastructure, improves AI ethics norms, strengthens risk monitoring, assessment and safety supervision, and promotes AI applications and healthy development; it also supports using AI and other new technologies to improve cybersecurity protection. Other changes raise the penalties for network operators and critical information infrastructure operators.",
+  "notes": "Adopted on 28 Oct 2025 at the 18th session of the 14th NPC Standing Committee and in force from 1 Jan 2026. The Cybersecurity Law is republished with the changes and its articles renumbered. Besides the AI article, the Decision adds an article on Party leadership of cybersecurity work and the overall national security concept (new Art. 3), requires network operators handling personal information to comply with the Civil Code and the Personal Information Protection Law, raises fines up to 10 million yuan for especially serious consequences, adds penalties for selling uncertified critical network equipment and dedicated security products, and allows lighter or no penalties in the cases the Administrative Penalty Law provides.",
+  "english_version": {
+   "kind": "third-party translation",
+   "url": "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf",
+   "by": "Etcetera Language Group, Inc., for the Center for Security and Emerging Technology (CSET), Georgetown University"
+  },
+  "scope_note": "Not AI-specific: an amendment to the Cybersecurity Law, included for the article on AI research, ethics norms, risk monitoring and assessment and safety supervision that it adds (Art. 20 of the amended law).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Decision on the NPC website (npc.gov.cn, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the title, the adoption on 28 Oct 2025 at the 18th session of the 14th NPC Standing Committee, its 14 changes including the new AI article (Art. 20), and the entry into force on 1 Jan 2026; and the CAC's republication of the Xinhua text of 28 Oct 2025 (cac.gov.cn, copy of 11 Oct 2026), with the same text. No stored file gives the number of the presidential order that promulgated the Decision, so official_identifier stays empty. Version 1's note that China has not adopted a comprehensive AI law rests on no stored file and was removed, as was its sentence on what the summary covers. The English title is a rendering; no English text by a Chinese public body was found. CSET's English translation of the Cybersecurity Law as amended in October 2025 (cset.georgetown.edu, stored in this run on 18 Oct 2026; translator Etcetera Language Group, translation date 14 Apr 2026, from the NPC text) is recorded as english_version: it translates the amended law, not the Decision itself, and confirms that the AI provision is Article 20 of the amended law and that the amended law took effect on 1 Jan 2026."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "page title",
+    "quote": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定_中国人大网",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "page title",
+    "quote": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定_中国人大网",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/secondary.html",
+    "sha256": "3316672123bd2208083ae2bde12342c698e34166c164c71ba4b62f01243f7d9e",
+    "locator": "heading",
+    "quote": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定 （2025年10月28日第十四届全国人民代表大会常务委员会第十八次会议通过）",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "adoption note",
+    "quote": "（2025年10月28日第十四届全国人民代表大会常务委员会第十八次会议通过）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "enacting clause",
+    "quote": "第十四届全国人民代表大会常务委员会第十八次会议决定对《中华人民共和国网络安全法》作如下修改：",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "adoption note",
+    "quote": "（2025年10月28日第十四届全国人民代表大会常务委员会第十八次会议通过）",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "final clause",
+    "quote": "本决定自2026年1月1日起施行。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/secondary.html",
+    "sha256": "3316672123bd2208083ae2bde12342c698e34166c164c71ba4b62f01243f7d9e",
+    "locator": "final clause",
+    "quote": "本决定自2026年1月1日起施行。 《中华人民共和国网络安全法》根据本决定作相应修改并对条文顺序作相应调整，重新公布。",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "final clauses",
+    "quote": "本决定自2026年1月1日起施行。 《中华人民共和国网络安全法》根据本决定作相应修改并对条文顺序作相应调整，重新公布。",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "enacting clause",
+    "quote": "第十四届全国人民代表大会常务委员会第十八次会议决定对《中华人民共和国网络安全法》作如下修改：",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 3 (new Art. 20)",
+    "quote": "三、增加一条，作为第二十条：“国家支持人工智能基础理论研究和算法等关键技术研发，推进训练数据资源、算力等基础设施建设，完善人工智能伦理规范，加强风险监测评估和安全监管，促进人工智能应用和健康发展。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 3 (new Art. 20, second paragraph)",
+    "quote": "“国家支持创新网络安全管理方式，运用人工智能等新技术，提升网络安全保护水平。”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-14/extra-3bffb10e63/2026-10-18/official.pdf",
+    "sha256": "6fcf9fecf87c71cec94b8d11c3c1116f40aa5d04fbe349a5ab11a749ffab94c2",
+    "locator": "page 6, Article 20 of the amended law (translation)",
+    "quote": "Article 20 The state supports basic theoretical research in artificial intelligence (AI) and the research and development of key technologies such as algorithms",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 1 (new Art. 3)",
+    "quote": "一、增加一条，作为第三条：“网络安全工作坚持中国共产党的领导，贯彻总体国家安全观，统筹发展和安全，推进网络强国建设。”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 4",
+    "quote": "“网络运营者处理个人信息，应当遵守本法和《中华人民共和国民法典》、《中华人民共和国个人信息保护法》等法律、行政法规的规定。”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 5 (new Art. 61)",
+    "quote": "造成关键信息基础设施丧失主要功能等特别严重危害网络安全后果的，处二百万元以上一千万元以下罚款",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 7 (new Art. 63)",
+    "quote": "销售或者提供未经安全认证、安全检测或者安全认证不合格、安全检测不符合要求的网络关键设备和网络安全专用产品的",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-14/2026-10-11/official.html",
+    "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+    "locator": "item 13 (new Art. 73)",
+    "quote": "违反本法规定，但具有《中华人民共和国行政处罚法》规定的从轻、减轻或者不予处罚情形的，依照其规定从轻、减轻或者不予处罚。",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-14/extra-3bffb10e63/2026-10-18/official.pdf",
+    "sha256": "6fcf9fecf87c71cec94b8d11c3c1116f40aa5d04fbe349a5ab11a749ffab94c2",
+    "locator": "page 1, header",
+    "quote": "The following is a translation of China's Cybersecurity Law, as amended in October 2025.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-14/extra-3bffb10e63/2026-10-18/official.pdf",
+    "sha256": "6fcf9fecf87c71cec94b8d11c3c1116f40aa5d04fbe349a5ab11a749ffab94c2",
+    "locator": "page 1, source block",
+    "quote": "This translation incorporates the October 2025 amendments to the Cybersecurity Law into the text of the November 2016 original version of the Cybersecurity Law.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-14/extra-3bffb10e63/2026-10-18/official.pdf",
+    "sha256": "6fcf9fecf87c71cec94b8d11c3c1116f40aa5d04fbe349a5ab11a749ffab94c2",
+    "locator": "page 1, source block",
+    "quote": "Translation Date April 14, 2026 Translator Etcetera Language Group, Inc.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten closer to the text of the new Art. 20 (both paragraphs) and the Decision's other changes; version 1's closing sentence ('This places AI governance in national statute law') was an evaluation",
+   "notes": "version 1's statement that China has not adopted a comprehensive AI law rests on no stored file, and its sentence on what the summary covers was about the record; both removed; the Decision's other changes (items 1, 4, 5, 7 and 13) added",
+   "scope_note": "added: the Decision amends a general cybersecurity law and is in for its AI article, the case AGENTS.md section 10 gives a scope_note (a law that is not AI-specific but is the operative instrument for an AI-safety question)",
+   "english_version": "required and missing; CSET's English translation of the Cybersecurity Law as amended by this Decision, stored in this run, is the closest English text found; a third-party translation",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Decision takes effect on 1 Jan 2026 ('本决定自2026年1月1日起施行'), which has passed (today 18 Oct 2026). Nothing stored shows a later amendment or repeal. 'In force' stands.",
+  "date_reasoning": "date_published 2025-10-28 is the adoption date in the adoption note; date_in_force 2026-01-01 is the final clause.",
+  "identifier_reasoning": "No stored file gives the presidential order number; official_identifier stays null.",
+  "scope_reasoning": "Amends a general cybersecurity law but adds a statutory article on AI research, ethics norms, risk monitoring and assessment and safety supervision; in scope, now with a scope_note because it is not AI-specific (version 1 had none)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf",
+   "reason": "CSET (Georgetown University) English translation of the Cybersecurity Law incorporating the October 2025 amendments (translation dated 14 Apr 2026): a third-party translation of the law as amended by this Decision, needed to record english_version, which is required because the official text is in Chinese only. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The number of the presidential order that promulgated the Decision (official_identifier) is in no stored file."
+ ]
+}

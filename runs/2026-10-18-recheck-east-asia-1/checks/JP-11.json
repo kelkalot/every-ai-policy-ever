@@ -1,0 +1,44 @@
+{
+ "cand_id": "JP-11",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported",
+   "why": "Cover of the stored Japanese edition carries the full title with subtitle, matching character for character."
+  },
+  "issuing_body": {
+   "verdict": "judgment-differs",
+   "why": "The cover and release page name the Healthcare Sub-Working Group of J-AISI's Business Demonstration WG as the author; narrowing the issuing body to J-AISI follows the rule for reports an authority publishes that a group it convened wrote, and the group is named in scope_note and notes. Defensible; I would have kept the group in the field."
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Living document, updated as generative AI and regulation evolve",
+   "verdict": "supported",
+   "locator": "page 6 (ja)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Group-authored report published by J-AISI; the new scope_note is reasonable and follows the precedent."
+ },
+ "overall": "accept",
+ "note": "Issuing body narrowed to J-AISI with a scope_note naming the group (judgment call, not blocking). No newer version found."
+}

@@ -1,0 +1,47 @@
+{
+ "cand_id": "CN-18",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "15 security activities and 39 process areas",
+   "verdict": "supported",
+   "locator": "chapter 5 / process area list"
+  },
+  {
+   "claim": "Top-level post-training safeguards against biological-weapon and cyberattack knowledge must not be removed in agents; human uplift trials",
+   "verdict": "supported",
+   "locator": "page 6-7 and uplift item"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Draft TC260-proposed national standard on AI security capability maturity, with catastrophic-risk content in the top levels."
+ },
+ "overall": "accept",
+ "note": "Searched for a final standard: not published; the comment period runs to 25 Oct 2026, so Draft status is current. All quotes matched the stored texts; the fields checked say what the record states."
+}

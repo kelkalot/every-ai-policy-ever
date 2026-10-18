@@ -1,0 +1,244 @@
+{
+ "cand_id": "JP-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-08",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp (copy of 14 Oct 2026, re-checked unchanged on 18 Oct 2026); the Japanese originals of the Chief AI Officer Guidebook (15 pages) and of the Practical Manual (78 pages), both version 1.00 dated 2026年3月1日 and issued by the AISI secretariat (AI セーフティ・インスティテュート (AISI) 事務局), stored 18 Oct 2026; J-AISI's English versions (19 and 99 pages), headed 'Please refer to the original text for accuracy'; and J-AISI's lists of Framework and Information outputs (18 Oct 2026). They confirm the title, the original title, the issuer, the document date of 1 March 2026, the release on 17 March 2026, the drafts of 5 February 2026, the non-binding character and the content; the summary was checked against the Japanese originals. The English PDFs stored again on 18 Oct 2026 have the same SHA-256 hashes as the copies of 14 Oct 2026 but were filed under swapped role keys, so the 'source changed' flag reflects the order of the files, not new content. date_published follows the date on the documents; the release date is in notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+    "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+    "locator": "release page, English text",
+    "quote": "The Chief AI Officer Guides consist of two documents: (1) the Chief AI Officer Guidebook, intended primarily for the CAIO and the appointing authority; and (2) the Practical Manual for Establishing a Chief AI Officer and Implementing AI Governance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 1 (cover)",
+    "quote": "Chief AI Officer Guidebook (Version 1.00) March 1, 2026 Japan AI Safety Institute (J-AISI)",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+    "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+    "locator": "release page, Japanese text",
+    "quote": "「Chief AI Officerガイド」は、主に民間事業者がChief AI Officer (CAIO) を設置・運用する際の標準的な実務指針を提供し",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-b96335f27a/2026-10-18/official.html",
+    "sha256": "a8b080bfc03852ed8926531160b1984b7e6adcf3cccb3acc68828a9db3c2044d",
+    "locator": "list of Framework outputs, entry 2",
+    "quote": "Chief AI Officerガイド Chief AI Officer Guides",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 1 (cover)",
+    "quote": "Chief AI Officer ガイドブック (Version 1.00) 2026 年 3 月 1 日 AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-e18420331a/2026-10-18/official.pdf",
+    "sha256": "38fa438eb40d6911b1df99de24cd6a92fe06e79fade32cbe846c66f403243743",
+    "locator": "Japanese practical manual, page 1 (cover)",
+    "quote": "実務マニュアル (Version 1.00) 2026 年 3 月 1 日 AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 1 (cover)",
+    "quote": "Chief AI Officer Guidebook (Version 1.00) March 1, 2026 Japan AI Safety Institute (J-AISI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-1.pdf",
+    "sha256": "49e2037025b40a65e1eac4d67a80c120af42f2c9af758a03cf174ef2d5a50099",
+    "locator": "page 1 (cover)",
+    "quote": "and Implementing AI Governance (Version 1.00) March 1, 2026 Japan AI Safety Institute (J-AISI)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 1 (cover)",
+    "quote": "Chief AI Officer ガイドブック (Version 1.00) 2026 年 3 月 1 日 AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-e18420331a/2026-10-18/official.pdf",
+    "sha256": "38fa438eb40d6911b1df99de24cd6a92fe06e79fade32cbe846c66f403243743",
+    "locator": "Japanese practical manual, page 1 (cover)",
+    "quote": "実務マニュアル (Version 1.00) 2026 年 3 月 1 日 AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 1 (cover)",
+    "quote": "Chief AI Officer Guidebook (Version 1.00) March 1, 2026 Japan AI Safety Institute (J-AISI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-1.pdf",
+    "sha256": "49e2037025b40a65e1eac4d67a80c120af42f2c9af758a03cf174ef2d5a50099",
+    "locator": "page 1 (cover)",
+    "quote": "and Implementing AI Governance (Version 1.00) March 1, 2026 Japan AI Safety Institute (J-AISI)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+    "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+    "locator": "release page, English text",
+    "quote": "The ”Chief AI Officer Guides” aim to provide standard practical guidance for private sector organizations in establishing and operating a Chief AI Officer (CAIO) function",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 4, 1. Introduction",
+    "quote": "This guidebook should also be operated as a Living Document that is revised on an ongoing basis",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-b96335f27a/2026-10-18/official.html",
+    "sha256": "a8b080bfc03852ed8926531160b1984b7e6adcf3cccb3acc68828a9db3c2044d",
+    "locator": "list of Framework outputs, entry 2",
+    "quote": "Chief AI Officerガイド Chief AI Officer Guides -2026年3月17日",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 3, 1. はじめに",
+    "quote": "ただし法的拘束力を有するものではない。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 4, 1. Introduction",
+    "quote": "However, it does not have legally binding force.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 6",
+    "quote": "権利・安全への影響が高いユースケースについては、CAIO に本番投入の停止・差し止めを含む",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 5",
+    "quote": "高リスク案件の評価・エスカレーション",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 7, Authority to halt or block deployment",
+    "quote": "it is desirable to establish a framework under which the CAIO is granted veto authority, including the authority to suspend or block deployment into production",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JP-08/2026-10-18/document-2.pdf",
+    "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+    "locator": "page 6, Assessment and escalation of high-risk cases",
+    "quote": "Assessment and escalation of high-risk cases",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-b96335f27a/2026-10-18/official.html",
+    "sha256": "a8b080bfc03852ed8926531160b1984b7e6adcf3cccb3acc68828a9db3c2044d",
+    "locator": "list of Framework outputs, entry 2",
+    "quote": "Chief AI Officerガイド Chief AI Officer Guides -2026年3月17日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-cce5ea29b8/2026-10-18/official.html",
+    "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+    "locator": "list of Information outputs",
+    "quote": "Chief AI Officer (CAIO) ガイドブック(案) CAIO設置・AIガバナンス実務マニュアル(案) -2026年2月5日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 3, 1. はじめに",
+    "quote": "なお本ガイドブックは、AI 技術動向、事業環境、関連法令・ガイドラインの改定等を踏まえて随時",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+    "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+    "locator": "Japanese guidebook, page 1 (cover)",
+    "quote": "AI セーフティ・インスティテュート (AISI) 事務局",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck, now resting on the Japanese originals and J-AISI's output lists; no field of the record changed"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Both documents are version 1.00 of 1 Mar 2026, still listed on J-AISI's release page (re-checked unchanged on 18 Oct 2026). The guidebook says it has no legally binding force and is a living document to be revised; nothing stored shows a revision or withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "date_published 2026-03-01 is the date on both Japanese covers (2026年3月1日) and both English covers. J-AISI's Framework list dates the release 2026年3月17日 and its Information list dates the drafts 2026年2月5日; both are in the notes.",
+  "scope_reasoning": "AI governance guidance of Japan's AI Safety Institute on the Chief AI Officer function; in scope with no note.",
+  "summary_reasoning": "The summary was checked against the Japanese originals and the English versions (audiences, organisational design, risk management, assessment and escalation of high-risk cases (高リスク案件の評価・エスカレーション), authority to halt deployment (停止・差し止め), incident response, oversight, talent and procurement) and is kept."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "AIロボティクスに関するセーフティ評価観点ガイド (J-AISI guide to AI safety evaluation perspectives for AI robotics)",
+   "url": "https://aisi.go.jp/output/output_information/260723/",
+   "seen_in": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-cce5ea29b8/2026-10-18/official.html (J-AISI list of Information outputs, entry of 2026年7月23日)",
+   "why": "J-AISI AI safety evaluation guide for robotics released 23 Jul 2026; no record in the register."
+  },
+  {
+   "title": "AIセーフティ年次レポート2025 / National Status Report on AI Safety in Japan 2025",
+   "url": "https://aisi.go.jp/output/output_information/260428/",
+   "seen_in": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-cce5ea29b8/2026-10-18/official.html (J-AISI list of Information outputs, entry of 2026年4月28日)",
+   "why": "J-AISI's annual national status report on AI safety, released 28 Apr 2026; no record in the register."
+  },
+  {
+   "title": "AIセーフティ・アプローチブック（AIセーフティの普及に向けた文書）",
+   "url": "https://aisi.go.jp/output/output_information/250326/",
+   "seen_in": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-cce5ea29b8/2026-10-18/official.html (J-AISI list of Information outputs, entry of 2025年3月26日)",
+   "why": "J-AISI document on promoting AI safety, released 26 Mar 2025; no record in the register."
+  }
+ ],
+ "open_questions": []
+}

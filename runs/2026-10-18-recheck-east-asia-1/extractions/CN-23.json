@@ -1,0 +1,168 @@
+{
+ "cand_id": "CN-23",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-23",
+ "record": {
+  "notes": "Version v1.0-202609, released on 15 Sept 2026 with notice 网安秘字〔2026〕118号 together with the general provisions and the education and health guides. Programmes made with AI must not contain the listed prohibited content, and AI-generated micro-short dramas must carry a notice in each episode under the Micro-short Drama Development Management Measures. Generative AI services offered to the public must meet GB/T 45654 (CN-10) and GB 45438 (CN-08), and the collection, annotation and management of training data must meet GB/T 45652 and GB/T 45674 (CN-24). For distribution it asks for explanation of recommendation algorithms, a one-click switch to non-preferred content and a minors' mode. Annex A lists 31 AI application scenarios in the sector and their main risks.",
+  "related": [
+   "CN-08",
+   "CN-09",
+   "CN-10",
+   "CN-02",
+   "CN-20",
+   "CN-21",
+   "CN-22",
+   "CN-24"
+  ],
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202609; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕118号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF's cover names the TC260 Secretariat and the NRTA Department of Science and Technology and confirms the title, the number TC260-PG-202611A, the version and the contents; it gives only September 2026 (2026年09月), and the day, 15 Sept 2026, comes from the notice, which names this guide in its list of attachments. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 1, cover",
+    "quote": "网络安全标准实践指南 ——人工智能应用安全指引 广播电视和网 络视听 （v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-23/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice, attachments",
+    "quote": "《网络安全标准实践指南——人工智能应用安全指引 广播电视和网络视听》.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202611A 网络安全标准实践指南 ——人工智能应用安全指引 广播电视和网 络视听",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-23/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice, attachments",
+    "quote": "《网络安全标准实践指南——人工智能应用安全指引 广播电视和网络视听》.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 1, cover",
+    "quote": "（v1.0-202609） 全国网络安全标准化技术委员会秘书处 国家广播电视总局科技司 2026 年 09 月",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202611A 网络安全标准实践指南",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-23/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice header",
+    "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CN-23/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026年9月15日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 1, cover",
+    "quote": "国家广播电视总局科技司 2026 年 09 月",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202611A 网络安全标准实践指南 ——人工智能应用安全指引 广播电视和网 络视听 （v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 4, abstract",
+    "quote": "本 《实践指南》 属于行业领域文件， 用于指导广播电视 和网络视听领域企事业单位开展人工智能应用活动。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-23/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice text",
+    "quote": "本次发布的教育、卫生健康、广播电视和网络视听属于行业领域文件，给出了适用于特定行业领域的安全实践指引",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 2, foreword",
+    "quote": "全国网络安全标准化技术委员会（以下简称“网安标委”）秘 书处组织制定和发布的标准相关技术文件",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 6, 1 范围",
+    "quote": "本文件适用于广播电视和网络视听机构开展人工智能应用时的 安全风险防范与管理。",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+    "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+    "locator": "page 10, 7 f)",
+    "quote": "f) 开展人工智能训练数据采集、标注和管理等活动时，应符合 GB/T 45652 和 GB/T 45674 的规定。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "GB/T 45674 now carries its record ID (CN-24), and the training-data clause names collection, annotation and management as clause 7 f) does",
+   "related": "added CN-24 (GB/T 45674), which clause 7 f) requires training-data work to meet",
+   "verification.note": "rewritten for the files read in this recheck; the remark that the notice copy was flagged for review is dropped, since this run's copy carries no flag, and the day of publication is now said to rest on the notice, since the PDF's cover gives only the month"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A TC260 practice guide issued by the TC260 Secretariat with the NRTA Department of Science and Technology (cover), described as a standards-related technical document that gives practical guidance (page 2) and applying to radio, TV and network audiovisual institutions' risk prevention and management (page 6). Released as version v1.0-202609 with the notice of 15 Sept 2026. The PDF fetched again on 18 Oct 2026 is byte-identical to the copy of 14 Oct 2026, and nothing stored shows a later version or a withdrawal, so 'Published (non-binding, current)' and 'Non-binding' stand. It sets no in-force date.",
+  "date_reasoning": "date_published 2026-09-15 is the notice's 发布时间 and signature date; the PDF's cover gives only 2026年09月. The notice was stored in this run as the record's secondary source, so it counts at most as alt-official; version 1 quoted the same notice page (same SHA-256), then stored as a further source of the discover run.",
+  "scope_reasoning": "Security guidance on AI applications in broadcasting and online audiovisual services from a government standards body and the broadcasting regulator's department, with labelling, deepfake and human-review rules; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

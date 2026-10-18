@@ -1,0 +1,80 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/official.html",
+    "sha256": "951778896a6fbaa2c4f7f426bf53d9ac4941d1fe5fc3e1c23bc2d3330ec3f2b8",
+    "locator": "body",
+    "quote": "The Healthcare Sub-Working Group (SWG), established under the Business Demonstration Working Group (WG) of the Japan AI Safety Institute (AISI), has released the Guide to Evaluation Perspectives on AI",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 1",
+    "quote": "ヘルスケア領域における AI セーフティ評価観点ガイド",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 1",
+    "quote": "AI セーフティ・インスティテュート 事業実証ワーキンググループ ヘルスケアサブワーキンググループ",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 1",
+    "quote": "令和 8 年 4 月 3 日",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/official.html",
+    "sha256": "951778896a6fbaa2c4f7f426bf53d9ac4941d1fe5fc3e1c23bc2d3330ec3f2b8",
+    "locator": "body",
+    "quote": "ヘルスケアサブワーキンググループ（SWG）は、「ヘルスケア領域におけるAIセーフティ評価観点ガイド」（以下、本ガイド）を公開しました。",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/official.html",
+    "sha256": "951778896a6fbaa2c4f7f426bf53d9ac4941d1fe5fc3e1c23bc2d3330ec3f2b8",
+    "locator": "body",
+    "quote": "医療・ヘルスケア特有の機微性やリスクを反映した、実務者向けの具体的な評価手法を提示するものです。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Version 1.0 dated 3 April 2026, release listed 2 April 2026; no later version in the stored lists. A practitioner guide, non-binding.",
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "scope_reasoning": "In scope: AI safety institute evaluation guide."
+ },
+ "cand_id": "JP-11",
+ "target_id": "JP-11",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

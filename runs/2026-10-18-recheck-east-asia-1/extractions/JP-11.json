@@ -1,0 +1,171 @@
+{
+ "cand_id": "JP-11",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-11",
+ "record": {
+  "original_title": "ヘルスケア領域におけるAIセーフティ評価観点ガイド ～Trustworthy AI（信頼できるAI）の実現を目指して～",
+  "issuing_body": "Japan AI Safety Institute (J-AISI)",
+  "scope_note": "Written by the Healthcare Sub-Working Group, a group of companies within J-AISI's Business Demonstration Working Group, together with a working group of the Japan Digital Health Alliance; included because J-AISI convened the group and publishes the guide as one of its outputs.",
+  "notes": "Written by the Healthcare Sub-Working Group of the Business Demonstration Working Group that J-AISI set up, led by Ubie, Inc. with other companies as members and Mitsubishi Research Institute as secretariat, in collaboration with the Working Group on Generative AI (SubWG-B) of the Japan Digital Health Alliance (JaDHA). J-AISI's list of outputs dates the release 2 April 2026; the Japanese and English covers are dated 3 April 2026. J-AISI also published summaries in both languages and, in Japanese, Markdown versions of chapters 3 and 4 for use with AI services and practical examples of AI safety evaluation with prompts and agent skills. Products that qualify as Software as a Medical Device are left to the approval and certification framework of the Pharmaceuticals and Medical Devices Act. The guide is a living document, to be updated as generative AI and regulation evolve.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's bilingual release page on aisi.go.jp; the Japanese guide version 1.0 (118 pages, cover 令和 8 年 4 月 3 日, with its development structure, the members of the sub-working group and the update history in chapter 7; copy of 18 Oct 2026); the English guide (98 pages, 'April 3, 2026') and the English summary (13 pages, 'April 3, 2026'); and J-AISI's list of Information outputs (copy of 18 Oct 2026), which dates the release 2026年4月2日. They confirm the title, the Japanese title with its subtitle, the issuer and authors, the scope, the dates and the content; the summary is checked against the Japanese text. The English edition carries no translation notice and is listed beside the Japanese edition, so it is treated as an authentic text. Version 1 gave the sub-working group as part of the issuing body and had no scope_note; following the rule for reports that an authority publishes and a group it convened wrote, the issuing body is now J-AISI, the scope_note names the group and the notes name the authors. The list of outputs shows no later version of the guide."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+    "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+    "locator": "page 1 (cover)",
+    "quote": "Guide to Evaluation Perspectives on AI Safety in the Healthcare Sector — Toward the Realization of Trustworthy AI — (Version 1.0)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-2.pdf",
+    "sha256": "e9daae8da0d5f86bb330dd6a2e65f701447bb02e907ddd26a486c2e418894c5f",
+    "locator": "page 1 (cover)",
+    "quote": "Guide to Evaluation Perspectives on AI Safety in the Healthcare Sector — Toward the Realization of Trustworthy AI — (Summary) ver1.0",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 1 (cover)",
+    "quote": "ヘルスケア領域における AI セーフティ評価観点ガイド ～Trustworthy AI（信頼できる AI）の実現を目指して～ （第 1.0 版） 令和 8 年 4 月 3 日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/official.html",
+    "sha256": "951778896a6fbaa2c4f7f426bf53d9ac4941d1fe5fc3e1c23bc2d3330ec3f2b8",
+    "locator": "release text (Japanese)",
+    "quote": "「ヘルスケア領域におけるAIセーフティ評価観点ガイド」（以下、本ガイド）を公開しました。",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 1 (cover)",
+    "quote": "令和 8 年 4 月 3 日 AI セーフティ・インスティテュート 事業実証ワーキンググループ ヘルスケアサブワーキンググループ",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 117, 7.1 本ガイドの検討体制",
+    "quote": "生成 AI に関する検討ワーキン ググループ（SubWG-B）と、独立行政法人情報処理推進機構が運営するAI セーフティ・インスティテュ ート（AISI）が設置する事業実証 WG のヘルスケア SWG が連携して作成したものである。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/official.html",
+    "sha256": "951778896a6fbaa2c4f7f426bf53d9ac4941d1fe5fc3e1c23bc2d3330ec3f2b8",
+    "locator": "release text (English)",
+    "quote": "The Healthcare Sub-Working Group (SWG), established under the Business Demonstration Working Group (WG) of the Japan AI Safety Institute (AISI), has released the Guide to Evaluation Perspectives on AI Safety in the Healthcare Sector",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+    "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+    "locator": "page 1 (cover)",
+    "quote": "April 3, 2026 Japan AI Safety Institute Business Demonstration Working Group Healthcare Sub-Working Group",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 1 (cover)",
+    "quote": "ヘルスケア領域における AI セーフティ評価観点ガイド ～Trustworthy AI（信頼できる AI）の実現を目指して～ （第 1.0 版） 令和 8 年 4 月 3 日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+    "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+    "locator": "page 1 (cover)",
+    "quote": "(Version 1.0) April 3, 2026 Japan AI Safety Institute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 118, 更新履歴",
+    "quote": "1.0 令和 8 年（2026 年）4 月 3 日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-cce5ea29b8/2026-10-18/official.html",
+    "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+    "locator": "list of Information outputs",
+    "quote": "ヘルスケア領域におけるAIセーフティ評価観点ガイドの公開 Publication of the Guide to Evaluation Perspectives on AI Safety in the Healthcare Sector -2026年4月2日",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 6, 1.1 背景・目的",
+    "quote": "本ガイドは産・学・官の連携を前提としたリビングドキュ メントとして位置づけ、 生成AI 技術の進展や規制動向の変化を反映しながら適宜アップデートさ れることを想定している。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 118, 更新履歴",
+    "quote": "1.0 令和 8 年（2026 年）4 月 3 日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+    "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+    "locator": "page 5, 1.1 Background and Purpose",
+    "quote": "positioned as a living document built on collaboration among industry, academia, and government and is intended to be updated as generative AI technologies evolve and regulatory landscapes shift.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+    "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+    "locator": "page 5, 1.1 Background and Purpose",
+    "quote": "the aim of this guide is to provide practical guidelines for AI safety evaluations specifically tailored to the healthcare sector",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+    "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+    "locator": "page 109, 5. 今後の展望",
+    "quote": "日本のAI 事業者ガイドラインは民間事業者の自主的な取組を推進するという原",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "the Japanese cover carries the subtitle ～Trustworthy AI（信頼できる AI）の実現を目指して～, which the English title already renders ('Toward the Realization of Trustworthy AI'); added so that the two titles correspond",
+   "issuing_body": "the guide is a J-AISI output written by a sub-working group of companies that J-AISI set up (7.1, page 117 of the Japanese text); under the rule for reports an authority publishes that a group it convened wrote, the issuing body is the authority and the notes name the authors",
+   "scope_note": "added under the same rule, naming the sub-working group and the Japan Digital Health Alliance's working group",
+   "notes": "authorship added from chapter 7 (SWG led by Ubie with company members, secretariat Mitsubishi Research Institute, with JaDHA's SubWG-B); the release page lists the Markdown files of chapters 3 and 4 only in Japanese, so that sentence was corrected",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Version 1.0 of 3 April 2026 is the only entry in the update history (Japanese page 118, English page 98); the guide calls itself a living document to be updated, the release page still offers it and J-AISI's list of outputs (copy of 18 Oct 2026, entries up to 6 Oct 2026) shows no later version. It provides practical guidelines and follows the voluntary approach of the AI Guidelines for Business, so it is non-binding. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2026-04-03 is the date on the Japanese and English covers and in the update history; J-AISI's list of outputs gives 2026年4月2日 for the release, kept in notes.",
+  "scope_reasoning": "AI safety evaluation guidance for a sector, published by the national AI safety institute. Chapter 7 shows that a sub-working group of companies, with an industry association's working group, wrote it inside J-AISI's Business Demonstration Working Group, so it is included with a scope_note under the rule for reports an authority publishes that a group it convened wrote.",
+  "summary_check": "The summary was checked against the Japanese text: scope (AI providers, Non-SaMD, LLMs; 1.2), the ten perspectives with risks, cases and evaluation items (chapter 3), the risk of de facto medical-device use (1.2.2, 3.2.4), five phases with checklists (chapter 4)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

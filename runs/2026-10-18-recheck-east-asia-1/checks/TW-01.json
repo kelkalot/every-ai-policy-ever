@@ -1,0 +1,65 @@
+{
+ "cand_id": "TW-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "judgment-differs",
+   "why": "Stored pages show the President's promulgation order and the NSTC as competent authority; none names the Legislative Yuan, which the field also names. The value is unchanged by this run and is true as a matter of public record (third reading 23 Dec 2025 per secondary reports), so it stays."
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Article 20 makes the Act effective from promulgation (14 Jan 2026). The extractor's open question about counting the day under the Central Regulation Standard Act is not settled by a stored file; as I read that Act, a law that names the promulgation day as its effective day takes effect that day, so 2026-01-14 stands."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "URL is a stored source; kind matches who published it."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 16: MODA must promote an AI risk taxonomy and assessment framework",
+   "verdict": "supported",
+   "locator": "English translation Article 16"
+  },
+  {
+   "claim": "Art. 17: liability and remedies for high-risk AI",
+   "verdict": "supported",
+   "locator": "Article 17"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Enacted 14 Jan 2026, in force from promulgation; the NSTC history page lists no amendment. Targeted search found no amendment or consolidated text. Open points the extractor raised (day count, Legislative Yuan) do not change the record; Legislative Yuan in issuing_body is unsupported by stored files but unchanged."
+}

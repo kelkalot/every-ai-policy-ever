@@ -1,0 +1,50 @@
+{
+ "cand_id": "HK-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI Application Impact Assessment reviewed at four lifecycle stages",
+   "verdict": "supported",
+   "locator": "page 14"
+  },
+  {
+   "claim": "Third line of defence reviews high-risk AI applications",
+   "verdict": "supported",
+   "locator": "page 9"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Version 2.0 of Dec 2025 current; date_published 2021 rests only on the Secretary's speech ('first introduced in 2021'), acceptable as a year-only date. Search found nothing newer."
+}

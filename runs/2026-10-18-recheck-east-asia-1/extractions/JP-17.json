@@ -1,0 +1,140 @@
+{
+ "cand_id": "JP-17",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-17",
+ "record": {
+  "notes": "The AI Institutional Study Group was set up in July 2024 under the AI Strategic Council, which sits under the Integrated Innovation Strategy Promotion Council chaired by the Chief Cabinet Secretary with all ministers as members. It met seven times, heard 15 researchers, businesses and others, and held a public comment before the report. The report asks that the government's guidelines and fact-finding rest on law so that businesses, including foreign ones, can be asked to cooperate, and leaves national security risks such as CBRN development and cyberattacks to the ministries concerned. The Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-related Technology (Act No. 53 of 2025) followed in 2025.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Japanese report on the Cabinet Office site (www8.cao.go.jp; 25 pages, cover '中間 とりまとめ', '2025 年２月４日', 'AI 戦略会議・AI 制度研究会'; copy of 14 Oct 2026, unchanged on 18 Oct 2026) and its English provisional translation on the same site (26 pages, 'Interim Report', 'February 4, 2025', 'AI Strategic Council / AI Institutional Study Group', '※当翻訳は仮訳であり、正確には原文を参照してください。'; copy of 18 Oct 2026). They confirm the title, the Japanese title, the date, the bodies and their set-up, the process (seven meetings, 15 hearings, public comment), the recommendations in the summary and the points in the notes; the summary is written from the Japanese text. The English title is the record's rendering of the translation's cover ('Interim Report') with the bodies it names. The sentence in notes on the AI Promotion Act rests on record JP-04, not on this record's stored files; its title now follows JP-04."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+    "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+    "locator": "page 1 (cover)",
+    "quote": "I nterim Report February 4, 2025 AI Strategic Council / AI Institutional Study Group",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 3 (概要)",
+    "quote": "AI戦略会議・AI制度研究会 中間とりまとめ 概要",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 1 (cover)",
+    "quote": "中間 とりまとめ 2025 年２月４日 AI 戦略会議・AI 制度研究会",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 1 (cover)",
+    "quote": "中間 とりまとめ 2025 年２月４日 AI 戦略会議・AI 制度研究会",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 3 (概要)",
+    "quote": "AI戦略会議・AI制度研究会 中間とりまとめ 概要",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+    "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+    "locator": "page 1 (cover)",
+    "quote": "I nterim Report February 4, 2025 AI Strategic Council / AI Institutional Study Group",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 1 (cover)",
+    "quote": "中間 とりまとめ 2025 年２月４日 AI 戦略会議・AI 制度研究会",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 3 (概要), note 1",
+    "quote": "官房長官が議長、全閣僚が構成員となっている「統合イノベーション戦略推進会議」の下に「AI戦 略会議」を設置。その下に「AI制度研究会」を設置。",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+    "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+    "locator": "page 1 (cover)",
+    "quote": "I nterim Report February 4, 2025 AI Strategic Council / AI Institutional Study Group",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 1 (cover)",
+    "quote": "中間 とりまとめ 2025 年２月４日 AI 戦略会議・AI 制度研究会",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 3 (概要)",
+    "quote": "2024年７月以降、AI制度研究会1)を計７回開催。計15の研究者、事業者等からの ヒアリングを含む議論、パブリックコメントを経て中間とりまとめを作成。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 22 (IV. おわりに)",
+    "quote": "政府に対しては、本とりまとめを踏まえ、世界で最も AI を開発・活用しやすく、かつ、人間中心 の価値に基づく、他国のモデルとなるような AI に係る法制度を含む制度整備を速やかに実施してい くことを期待する。",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+    "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+    "locator": "page 22 (IV. おわりに)",
+    "quote": "政府に対しては、本とりまとめを踏まえ、世界で最も AI を開発・活用しやすく、かつ、人間中心 の価値に基づく、他国のモデルとなるような AI に係る法制度を含む制度整備を速やかに実施してい くことを期待する。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the Act's title now follows record JP-04 ('Artificial Intelligence-related Technology' for 'AI-related Technology'); the rest is confirmed against the Japanese text",
+   "verification.note": "rewritten for this recheck; the English provisional translation, stored in this run, is now among the sources"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An interim report of advisory bodies, completed after a public comment and dated 4 February 2025, which expects the government to build an AI regime including legislation; it binds no one. The Cabinet Office copy (14 Oct 2026, unchanged on 18 Oct 2026) is still published. The later AI Promotion Act (JP-04) acted on it, which does not withdraw the report. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2025-02-04 is the date on the cover (2025 年２月４日).",
+  "scope_reasoning": "A report of the government's AI advisory council on Japan's AI regulation and risk governance, the basis of the AI Promotion Act; in scope with no note, like other reports of government-convened advisory bodies in the register.",
+  "title_reasoning": "The Japanese cover reads only 中間とりまとめ; the overview names the bodies (AI戦略会議・AI制度研究会 中間とりまとめ). The government's provisional translation has 'Interim Report' and 'AI Strategic Council / AI Institutional Study Group' on its cover; the record's English title joins the two, which matches both texts.",
+  "english_version_reasoning": "The record's english_version (government translation; provisional translation on the Cabinet Office site, interim_report_en.pdf) is now a stored source and stands: its cover says '※当翻訳は仮訳であり、正確には原文を参照してください。 Please refer to the original text for accuracy'."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

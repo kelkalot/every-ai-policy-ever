@@ -1,0 +1,53 @@
+{
+ "cand_id": "CN-26",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The day comes from the TC260 release notice (alt-official); the PDF cover gives only the month. Level B follows mechanically."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Agent must not run with operating-system administrator rights",
+   "verdict": "supported",
+   "locator": "clause c)"
+  },
+  {
+   "claim": "Guide applies to deployment and use of agents and to commercial agent services",
+   "verdict": "supported",
+   "locator": "scope"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "CN-19"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Searched for a newer edition of the agent deployment guide: none found; later TC260 drafts (AI browser, agent interaction) are separate documents. All quotes matched the stored texts; the fields checked say what the record states. Level B is computed because the day of publication rests on the notice stored as the secondary source."
+}

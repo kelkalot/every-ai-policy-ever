@@ -1,0 +1,169 @@
+{
+ "cand_id": "CN-19",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-19",
+ "record": {
+  "related": [
+   "CN-10",
+   "CN-13",
+   "CN-26"
+  ],
+  "notes": "Released for public comment by the TC260 Secretariat with notice 网安秘字〔2026〕119号 of 18 Sept 2026; comments were due by 2 Oct 2026. The draft is version v1.0-202609 and carries the number TC260-PG-2026NA. It covers software agentic AI systems built on large models, not agentic systems whose main function is controlling physical devices such as robots or autonomous vehicles. Its bibliography lists AI Safety Governance Framework 2.0 (CN-13) and TC260's practice guide on the security of deploying and using agents (CN-26).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the TC260 Secretariat's notice of 18 Sept 2026 (tc260.org.cn, copy of 14 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026) and the draft PDF attached to it (31 pages). Title, issuer, date, notice number, comment deadline and contents are confirmed from these; the summary follows the Chinese text. The comment period closed on 2 Oct 2026. TC260's home page (tc260.org.cn, stored in this run on 18 Oct 2026) lists the latest notices of 13 Oct, 18 Sept and 15 Sept 2026; the newest notice on this guide is still the call for comments of 18 Sept, so no final version had been released by 18 Oct 2026. The archiver flagged the home page for review because it barely mentions the guide's title; it is a list page and is used only for that. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+    "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+    "locator": "notice title",
+    "quote": "关于对《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》公开征求意见的通知",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 1, cover",
+    "quote": "网络安全标准实践指南 ——智能体系统开发安全指南 （征求意见稿 v1.0-202609）",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+    "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+    "locator": "notice, attachment",
+    "quote": "附件：《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+    "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+    "locator": "notice, signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026年9月18日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 1, cover",
+    "quote": "（征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+    "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+    "locator": "notice header",
+    "quote": "发布时间： 2026-09-18 网安秘字〔2026〕119号",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+    "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+    "locator": "notice, signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026年9月18日",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+    "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+    "locator": "notice",
+    "quote": "秘书处现组织对《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》面向社会公开征求意见。如有意见或建议，请于2026年10月2日前反馈至秘书处。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 1, cover",
+    "quote": "（征求意见稿 v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-19/extra-52e219aace/2026-10-18/official.html",
+    "sha256": "f049e9b4e36529a0c5b124cf53b978fe7b012cedde03b4a50f9768bc4912f328",
+    "locator": "TC260 home page, 通知公告 list",
+    "quote": "通知公告 查看更多> 2026-10-13 关于下达25项网络安全推荐性国家标准计划的通知 2026-09-18 关于对《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》公开征求意见的通知",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 2, 前言",
+    "quote": "《网络安全标准实践指南》（以下简称《实践指南》）是 全国网络安全标准化技术委员会（以下简称“网安标委”）秘书 处组织制定和发布的标准相关技术文件",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 4, 摘要",
+    "quote": "为开发者开展风 险识别、安全控制设计、安全能力实现、安全验证和安全发布 提供指引",
+    "source_kind": "official"
+   }
+  ],
+  "related": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 31, 参考文献",
+    "quote": "[1] 人工智能安全治理框架 2.0 [2] 网络安全标准实践指南——智能体部署使用安全指引",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 6, 3.1 note",
+    "quote": "注：本文件所称智能体系统主要指基于大模型构建的软件智能体系统，不包括以机器 人、自动驾驶等物理设备控制为主要功能的智能体系统。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+    "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-2026NA 网络安全标准实践指南",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "related": "added CN-26: the draft's bibliography lists TC260's practice guide on the security of deploying and using agents, which is CN-26",
+   "notes": "the bibliography item linked as CN-26",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The notice of 18 Sept 2026 released the guide as a draft for public comment (征求意见稿 v1.0-202609), with comments due by 2 Oct 2026. The comment period has closed (today 18 Oct 2026), but TC260's home page, stored in this run on 18 Oct 2026, lists as its latest notices those of 13 Oct 2026 (25 national standard plans), 18 Sept 2026 (this call for comments) and 15 Sept 2026, so no final version has been released. 'Draft / proposed' with legal_force 'Proposed' stands.",
+  "date_reasoning": "date_published 2026-09-18 is the date of the release notice (发布时间 and the date under the signature).",
+  "identifier_reasoning": "The cover carries TC260-PG-2026NA, which has 'NA' in place of a sequence number; the final guide would get its own number (published TC260 guides carry numbers such as TC260-PG-20268A), so official_identifier stays null and the draft number is in notes.",
+  "scope_reasoning": "Draft technical guidance from the national cybersecurity standards committee's secretariat on secure development of agentic AI systems; in scope with no note.",
+  "summary": "version 1's summary matches the abstract, principles (5.2), preparation, design, implementation, testing and release clauses and is kept."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.tc260.org.cn/portal/suggestion",
+   "reason": "TC260's home page with the list of its latest notices (通知公告): opened on 18 Oct 2026 (not stored), it listed the notices of 13 Oct, 18 Sept and 15 Sept 2026 and none releasing a final version of this guide; stored, it would support the status after the comment period closed on 2 Oct 2026. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

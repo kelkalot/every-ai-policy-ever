@@ -1,0 +1,250 @@
+{
+ "cand_id": "CN-18",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-18",
+ "record": {
+  "summary": "Draft recommended national standard, proposed by TC260, that sets out an AI security capability maturity model (ASMM) for assessing organisations, also usable by regulators as a reference. It covers data, model and application security in 15 security activities and 39 process areas, such as red-blue adversarial testing, value benchmark testing, backdoor detection, and security operations and emergency intervention. Each process area is assessed on the relevant ones of ten capabilities, among them robustness, explainability, fairness, rights protection and emerging-risk prevention, at five levels from informal execution to continuous optimisation, by self-assessment or a third party.",
+  "safety_topics": [
+   "evaluation & testing",
+   "general-purpose / frontier AI",
+   "catastrophic risk"
+  ],
+  "related": [
+   "CN-10",
+   "CN-08",
+   "CN-24",
+   "CN-20"
+  ],
+  "notes": "TC260 opened the draft for comment on 26 Aug 2026, with comments due by 25 Oct 2026. The draft has no standard number yet (GB/T XXXXX—XXXX) and leaves its publication and implementation dates blank. Organisations are typed as data-support, model-technology or application-service bodies, and each process area is mandatory, conditionally mandatory or optional for each type; an organisation reaches a level when all its applicable process areas reach it and no unaccepted major security risk remains. At the top level of post-training security, safeguards such as blocking knowledge of biological weapons and cyberattacks must not be removed or significantly weakened when the model runs in agents; at the top level of red-blue adversarial testing, organisations run human uplift trials that measure how far a model raises users' ability to write complex attack code or plan biological harm, and keep the uplift within safety thresholds. Normative references include GB/T 45654-2025 (CN-10), GB 45438-2025 (CN-08) and GB/T 45674-2025 (CN-24).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the draft for comment (tc260.org.cn, PDF of 76 pages, stored again on 18 Oct 2026 with the same SHA-256 as the copy of 14 Oct 2026), which gives the Chinese and English titles, the draft status (征求意见稿), the proposer and responsible committee (SAC/TC260), the blank number and dates, and the content behind the summary and notes; and TC260's JSON record of the consultation on project 70 (tc260.org.cn, stored in this run on 18 Oct 2026), which gives the comment period from 26 Aug to 25 Oct 2026, the title of the consultation notice and the draft PDF as the attached draft text. date_published is the start of the comment period. The explanatory note (.docx) has no text layer and is not used. The draft gives an English title only; no English text was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 1, cover",
+    "quote": "Cybersecurity technology—Assessment method for security capability maturity of artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+    "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+    "locator": "JSON field titleEnglish",
+    "quote": "titleEnglish\":\"Cybersecurity technology—The assessment method for security capability maturity of artificial intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+    "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+    "locator": "JSON field projectOpinion.sTime",
+    "quote": "sTime\":\"2026-08-26 00:00:00\",\"eTime\":\"2026-10-25 23:59:59",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 7, title above clause 1",
+    "quote": "网络安全技术 人工智能安全能力成熟度评估方法 1 范围",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 5, 前言",
+    "quote": "本文件由全国网络安全标准化技术委员会（SAC/TC260）提出并归口。",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 1, cover",
+    "quote": "(点击此处添加与国际标准一致性程度的标识) 征求意见稿 在提交反馈意见时，请将您知道的相关专利连同支持性文件一并附上。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+    "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+    "locator": "JSON field projectOpinion.title",
+    "quote": "title\":\"关于国家标准《网络安全技术 人工智能安全能力成熟度评估方法》征求意见稿征求意见的通知",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+    "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+    "locator": "JSON fields publicTime, executeTime",
+    "quote": "publicTime\":null,\"executeTime\":null",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 1, cover",
+    "quote": "中 华 人 民 共 和 国 国 家 标 准 GB/T XXXXX—XXXX",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 1, cover",
+    "quote": "征求意见稿 在提交反馈意见时，请将您知道的相关专利连同支持性文件一并附上。 XXXX - XX - XX 发布 XXXX - XX - XX 实施",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 7, clause 1",
+    "quote": "本文件适用于对组织的安全能力成熟度进行评估，也可作为监管部门对组织进行评价的参考依据。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 13, 5.4.2",
+    "quote": "人工智能安全 PA 体系共包含 39 个 PA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 14, 5.4.2",
+    "quote": "包括算法稳健性测试、红蓝对抗与攻防演练、价值观基准测 试、完整性与后门检测、隐私泄露风险测试 5 个 PA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 11, 5.2.1 note",
+    "quote": "各 PA 根据其安全目的和适用对象选取相关安全能力，不要求覆盖全部能力。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 10, 5.1",
+    "quote": "人工智能安全能力成熟度等级划分为五级，具体包括：1 级是非正式执行，2 级是计划跟踪，3 级是充分定义，4 级是量化控制，5 级是持续优化。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 73, 9.1",
+    "quote": "人工智能安全能力成熟度评估可采用组织自评或者第三方评估。",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 39, 7.2.2.2.5 (PA15, level 5)",
+    "quote": "智能体执行过程中，其核心安全防御能力（如对生物武器、网络攻击知识的屏蔽）不被移除 或显著削弱。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 42, 7.3.2.2.5 (PA17, level 5)",
+    "quote": "开展人类增强试验（Human Uplift Trials），在受控环境下设置对照组（无 AI 辅助）与实验组 （有 AI 辅助）",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+    "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+    "locator": "JSON field projectOpinion.sTime",
+    "quote": "sTime\":\"2026-08-26 00:00:00\",\"eTime\":\"2026-10-25 23:59:59",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+    "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+    "locator": "JSON field zqyjgFile",
+    "quote": "fileName\":\"01_ASMM征求意见稿文本.pdf\",\"filePath\":\"https://www.tc260.org.cn/tc260-webapp/repo/file/TaskFile/0/20260828/dc90d8226fc547f3b23fe1b5c907154a.pdf",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 14, 5.5.1",
+    "quote": "a）数据支撑类（A）：主要开展数据采集、处理、标注、管理等相关活动的组织；",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 74, 9.6.2",
+    "quote": "c) 不存在未经接受的重大安全风险或严重未符合项。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 42, 7.3.2.2.5",
+    "quote": "量化评估模型在辅助用户实施高危行为（如编写复杂攻击代码、策划生物危 害方案）时的能力增益幅度，确保增益在安全阈值内；",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 7, clause 2",
+    "quote": "GB/T 45674—2025 网络安全技术 生成式人工智能数据标注安全规范",
+    "source_kind": "official"
+   }
+  ],
+  "related": [
+   {
+    "file": "archive/CN-18/2026-10-18/official.pdf",
+    "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+    "locator": "page 7, clause 2",
+    "quote": "GB/T 45674—2025 网络安全技术 生成式人工智能数据标注安全规范",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "corrected: the draft does not rate every process area on all ten capabilities; each selects the relevant ones (5.2.1 note); PA37 given its full name, 'security operations and emergency intervention'",
+   "safety_topics": "added catastrophic risk: the top levels require that safeguards against biological-weapon and cyberattack knowledge survive agent use, and human uplift trials on attack code and biological harm (PA15 and PA17, level 5)",
+   "related": "added CN-24 (GB/T 45674-2025, a normative reference) and CN-20 (TC260's AI application security guide, which refers to the national standard on AI security capability maturity assessment for maturity levels)",
+   "notes": "the organisation-level rule completed with clause 9.6.2 c); the human uplift trials at the top level of PA17 added; GB/T 45674-2025 linked as CN-24",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "date_reasoning": "date_published 2026-08-26 is the start of the comment period (sTime) in TC260's JSON record of the consultation, stored in this run; the PDF itself gives no date.",
+  "status_reasoning": "The cover marks the text as a draft for comment (征求意见稿) with the standard number and the publication and implementation dates left as XXXX. TC260's JSON record (stored 18 Oct 2026) gives the comment period as 2026-08-26 to 2026-10-25 23:59:59, so the consultation is still open today (18 Oct 2026), and its publication and implementation dates (publicTime, executeTime) are empty; nothing stored shows an adopted version. 'Draft / proposed' with legal_force 'Proposed' stands; once adopted it would be a recommended GB/T standard.",
+  "scope_reasoning": "A draft government technical standard on assessing organisations' AI security capability; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.tc260.org.cn/tc260-webapp/api/standard/getProject/70",
+   "reason": "TC260's JSON record of the consultation on this draft (project 70), stored in run 2026-10-14-discover-leads-2026-10-14 but not among this record's files: its fields sTime 2026-08-26 and eTime 2026-10-25 support date_published and the comment period in notes, and its title field names the consultation notice. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,236 @@
+{
+ "cand_id": "JP-13",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-13",
+ "record": {
+  "official_url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+  "notes": "A normative document of the Digital Society Promotion Standard Guidelines that ministries must follow; the Digital Agency prepared it with METI, MIC and others. The first edition of 27 May 2025 covered text-generating AI, applied in full to systems procured or used from fiscal year 2026 (令和8年度) and replaced the government's agreement on the business use of generative AI such as ChatGPT (version 2.1). Version 2.0, decided on 12 June 2026, came into effect on 1 September 2026, with the CAIO measures to be set by 30 June 2026 and the wider scope of the governance framework applying from 1 July 2026. It widened the generative AI covered, revised the high-risk criteria, referred to the AI Promotion Act, the AI Basic Plan and the Guideline for Ensuring the Appropriateness of Research & Development and Utilization of AI-Related Technology, and added measures for AI agents that users create, major model updates and intellectual property. Systems handling specially designated secrets or security-sensitive information are excluded; independent administrative agencies and designated corporations are expected to follow it.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Digital Agency's news page on version 2.0 (digital.go.jp, 公開日 2026年6月12日; copy of 18 Oct 2026), which reports the executive board's decision of 12 June 2026 and links the documents; the Digital Society Promotion Standard Guidelines page (copy of 18 Oct 2026), whose DS-920 entry gives 策定日または最終改定日：2026年6月12日 and Normative; the Japanese text of version 2.0 (64 pages, 2026 年（令和８年）6 月 12 日, デジタル社会推進会議幹事会決定, with revision history and supplementary provisions) and the Digital Agency's English provisional translation of it ('June 12, 2026'); and the news page on the first decision of 27 May 2025, which now says it does not show the latest version, with the Japanese first edition and its English provisional translation. They confirm the title, the Japanese title, the issuer, the identifier, the dates, the normative status, the effective date of 1 September 2026 and the content; the summary is checked against the Japanese text of version 2.0, with terms as the government's translation renders them. official_url now points to the news page on version 2.0, because the page on the first decision says it is not the latest version. The archiver also stored, from the standard guidelines page, an unrelated Digital Agency checklist on public relations."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+    "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+    "locator": "page 1 (cover)",
+    "quote": "The Guideline for Japanese Government’s Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration June 12, 2026 Approved by the Council for the Promotion of a Digital Society Executive Board Meeting",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/document-1.pdf",
+    "sha256": "25adb6d93da73a66bdf7b0c14f6a5c1a0e0ad5d13fb57efd33a0e02f95b63c1e",
+    "locator": "page 1 (cover)",
+    "quote": "The Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 1 (cover)",
+    "quote": "行政の進化と革新のための生成 AI の調達・利活 用に係るガイドライン 2026 年（令和８年）6 月 12 日 デジタル社会推進会議幹事会決定",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/official.html",
+    "sha256": "8b8d7f81945e950e36c822c326e1ecc6b6dbc57a41717a510d30c975084ba755",
+    "locator": "DS-920 entry",
+    "quote": "DS-920 行政の進化と革新のための生成AIの調達・利活用に係るガイドライン",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/official.html",
+    "sha256": "644b64dbd163990186a69380b063370441cd4ce4703c97915fb640c174be0f5d",
+    "locator": "1. 概要",
+    "quote": "令和8年（2026年）6月12日（金）に開催した第23回デジタル社会推進会議幹事会・書面開催において、「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を決定しました。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 1 (cover)",
+    "quote": "行政の進化と革新のための生成 AI の調達・利活 用に係るガイドライン 2026 年（令和８年）6 月 12 日 デジタル社会推進会議幹事会決定",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/official.html",
+    "sha256": "c31b4ad0ddf967a92b8de2c6021a39bfb4b4bb3ba10041edd884863931eebf0d",
+    "locator": "1. 概要",
+    "quote": "デジタル庁が経済産業省、総務省等と協力して検討を行ったものです。",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 1 (cover)",
+    "quote": "デジタル社会推進標準ガイドライン DS-920",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/official.html",
+    "sha256": "8b8d7f81945e950e36c822c326e1ecc6b6dbc57a41717a510d30c975084ba755",
+    "locator": "DS-920 entry",
+    "quote": "DS-920 行政の進化と革新のための生成AIの調達・利活用に係るガイドライン",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 2 (改定履歴)",
+    "quote": "2025年5月27日 - ・ 初版作成",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/official.html",
+    "sha256": "644b64dbd163990186a69380b063370441cd4ce4703c97915fb640c174be0f5d",
+    "locator": "1. 概要",
+    "quote": "本ガイドラインは、令和7年5月27日（火）に策定した「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」について",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/document-1.pdf",
+    "sha256": "25adb6d93da73a66bdf7b0c14f6a5c1a0e0ad5d13fb57efd33a0e02f95b63c1e",
+    "locator": "page 1 (cover)",
+    "quote": "May 27, 2025 Approved by the Council for the Promotion of a Digital Society Executive Board Meeting",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/official.html",
+    "sha256": "8b8d7f81945e950e36c822c326e1ecc6b6dbc57a41717a510d30c975084ba755",
+    "locator": "DS-920 entry",
+    "quote": "策定日または最終改定日：2026年6月12日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/official.html",
+    "sha256": "644b64dbd163990186a69380b063370441cd4ce4703c97915fb640c174be0f5d",
+    "locator": "1. 概要",
+    "quote": "令和8年（2026年）6月12日（金）に開催した第23回デジタル社会推進会議幹事会・書面開催において、「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を決定しました。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+    "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+    "locator": "page 1 (cover)",
+    "quote": "The Guideline for Japanese Government’s Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration June 12, 2026 Approved by the Council for the Promotion of a Digital Society Executive Board Meeting",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 43, 附則",
+    "quote": "この決定の内容は、2026 年（令和８年）９月１日から施行する。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+    "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+    "locator": "page 50, Supplementary Provisions",
+    "quote": "This decision will come into effect on September 1, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/official.html",
+    "sha256": "8b8d7f81945e950e36c822c326e1ecc6b6dbc57a41717a510d30c975084ba755",
+    "locator": "DS-920 entry",
+    "quote": "ドキュメントの位置づけ：Normative",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 1 (cover), ドキュメントの位置付け",
+    "quote": "政府情報システムの整備及び管理に関するルールとして遵守する内容を定めた ドキュメント",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+    "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+    "locator": "page 1 (cover)",
+    "quote": "Normative A document specifying the rules to be adhered to regarding the development and management of government information systems.",
+    "source_kind": "official"
+   }
+  ],
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/official.html",
+    "sha256": "c31b4ad0ddf967a92b8de2c6021a39bfb4b4bb3ba10041edd884863931eebf0d",
+    "locator": "notice at top of page",
+    "quote": "本ページは最新版のガイドラインではありません。最新版は、デジタル社会推進標準ガイドラインのページ（DS-920 行政の進化と革新のための生成AIの調達・利活用に係るガイドライン）をご確認ください。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/official.html",
+    "sha256": "644b64dbd163990186a69380b063370441cd4ce4703c97915fb640c174be0f5d",
+    "locator": "page heading",
+    "quote": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "page 11, 2.2.2",
+    "quote": "本ガイドラインが対象とする生成AIは、原則として、入力はテキスト及び音 声、出力はテキスト、画像又は音声が可能なものとする。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+    "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+    "locator": "footnote 27",
+    "quote": "「ChatGPT 等の生成 AI の業務利用に関する申合せ（第２.１版） 」は廃止し",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+    "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+    "locator": "page 50, Supplementary Provisions",
+    "quote": "This decision will come into effect on September 1, 2026.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the first decision's news page (the old official_url) says it does not show the latest version; the news page on version 2.0 is the Digital Agency's page for the current text and links the Japanese text and the English translation",
+   "notes": "the supplementary provisions of version 2.0 (CAIO measures by 30 June 2026, governance-framework scope from 1 July 2026) added; the reference to 'the guideline under Article 13 of the AI Act' replaced by the instruments version 2.0 itself names (section 1.1), since the stored text does not cite Article 13",
+   "verification.note": "rewritten for this recheck; the summary is now checked against the Japanese text of version 2.0, stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "DS-920 is a Normative document of the Digital Society Promotion Standard Guidelines, rules to be adhered to for government information systems, so it binds ministries as government rules. Version 2.0, decided on 12 June 2026, came into effect on 1 September 2026 under its supplementary provisions ('この決定の内容は、2026 年（令和８年）９月１日から施行する'); today, 18 October 2026, is after that date. The DS-920 entry (copy of 18 Oct 2026) lists 12 June 2026 as the latest revision. 'In force' stands.",
+  "date_reasoning": "date_published 2025-05-27 is the first decision (revision history, first-edition cover, news pages). date_last_updated 2026-06-12 is version 2.0 (DS-920 entry, cover, news page, translation). date_in_force stays null: the first edition gave application by fiscal year (in part from fiscal year 2025, in full from fiscal year 2026), and 1 September 2026 is the commencement of version 2.0, recorded in notes rather than as the instrument's entry into force.",
+  "scope_reasoning": "Binding government-wide rules on the procurement and use of generative AI, with risk classification and governance; in scope with no note.",
+  "title_reasoning": "The English title follows the government's provisional translation of version 2.0 ('Japanese Government’s'); the first-edition translation wrote 'Governments’'.",
+  "english_version_reasoning": "The record's english_version (government translation, Digital Agency, provisional translation of version 2.0 at .../47764804/20260612_resources_standard_guidelines_guideline_04.pdf) is now a stored source of this run and stands."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,5093 @@
+{
+ "CN-01": {
+  "main": {
+   "status": "archived",
+   "flag": "The secondary source could not be downloaded (DNS lookup failed, so the site could not be reached from this machine (try another network, or save the document by hand). robots.txt could not be checked, which RFC 9309 treats as 'do not crawl').",
+   "last_attempt": "2026-10-18T00:12:24Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/CN-01/2026-10-11/official.html",
+     "url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+     "final_url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 31231,
+     "sha256": "89aa514b53377b1cda3742f74addddbbc9f44bb2927c9eaf65793f55ce19eda9",
+     "retrieved_at": "2026-10-11T13:59:59Z",
+     "last_checked": "2026-10-18T00:12:33Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+     "attempted_at": "2026-10-11T13:59:59Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.gov.cn/gongbao/content/2022/content_5682428.htm",
+     "attempted_at": "2026-10-11T13:59:59Z",
+     "ok": false,
+     "http_status": null,
+     "error": "robots.txt could not be reached (URLError), which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+     "attempted_at": "2026-10-18T00:12:33Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.gov.cn/gongbao/content/2022/content_5682428.htm",
+     "attempted_at": "2026-10-18T00:12:33Z",
+     "ok": false,
+     "http_status": null,
+     "error": "DNS lookup failed, so the site could not be reached from this machine (try another network, or save the document by hand). robots.txt could not be checked, which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.chinalawtranslate.com/en/algorithms/": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:03Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-01/extra-d48eee7f57/2026-10-18/official.html",
+      "url": "https://www.chinalawtranslate.com/en/algorithms/",
+      "final_url": "https://www.chinalawtranslate.com/en/algorithms/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 215560,
+      "sha256": "31a1b908142a2006b5af322990e432e43f494968519571c31332708ee2ef46f1",
+      "text_sha256": "48a279ae5489cdf98d3e2b198d85f3a0d5fd157ff4139ac898c04ee7ecc676bd",
+      "retrieved_at": "2026-10-18T00:31:07Z",
+      "last_checked": "2026-10-18T00:31:07Z",
+      "method": "http",
+      "last_modified": "Sun, 18 Oct 2026 00:31:07 GMT",
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.chinalawtranslate.com/en/algorithms/",
+      "attempted_at": "2026-10-18T00:31:07Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-01"
+ },
+ "CN-03": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:24Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/CN-03/2026-10-11/official.html",
+     "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+     "final_url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 29431,
+     "sha256": "7fae988c064dde72c95e96e5727bf9abee4b3a5a1ea817606a9ca1f97ffac54b",
+     "retrieved_at": "2026-10-11T14:00:07Z",
+     "last_checked": "2026-10-18T00:12:36Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-03/2026-10-11/secondary.html",
+     "url": "https://www.chinalawtranslate.com/en/generative-ai-interim/",
+     "final_url": "https://www.chinalawtranslate.com/en/generative-ai-interim/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 141387,
+     "sha256": "fa13b791de1665e5cc254cd7fccde0e1a285bc6067fff35fe86d61fbb6e928ad",
+     "retrieved_at": "2026-10-11T14:00:08Z",
+     "last_checked": "2026-10-18T00:12:39Z",
+     "method": "http",
+     "last_modified": "Sat, 10 Oct 2026 20:08:11 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok",
+     "text_sha256": "920a5c441c305eb526ab192add68578d6d964347a4d9ffad3466c09f82231577"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+     "attempted_at": "2026-10-11T14:00:07Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.chinalawtranslate.com/en/generative-ai-interim/",
+     "attempted_at": "2026-10-11T14:00:08Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+     "attempted_at": "2026-10-18T00:12:36Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.chinalawtranslate.com/en/generative-ai-interim/",
+     "attempted_at": "2026-10-18T00:12:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-03"
+ },
+ "CN-04": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:24Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/CN-04/2026-10-16/official.html",
+     "url": "https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm",
+     "final_url": "https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 90026,
+     "sha256": "37543711142507e9c9a633538585923ce7021e5a5c11aef3f5ff2cb6f64ab3a2",
+     "text_sha256": "20d1613cfc9e9e21496d703e3c480188dc4dc150833ec52f49f2363abc818c07",
+     "retrieved_at": "2026-10-16T11:39:06Z",
+     "last_checked": "2026-10-16T11:39:06Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-04/2026-10-11/secondary.html",
+     "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html",
+     "final_url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 39088,
+     "sha256": "4ac2b55420448d2f0f046dd32cc78d3062e55da4d8f6a34e6650c3df7c5503d3",
+     "retrieved_at": "2026-10-11T13:59:58Z",
+     "last_checked": "2026-10-18T00:12:32Z",
+     "method": "http",
+     "last_modified": "Thu, 28 May 2026 07:10:26 GMT",
+     "etag": "W/\"39088-1779952226000\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm",
+     "attempted_at": "2026-10-11T13:59:51Z",
+     "ok": false,
+     "http_status": null,
+     "error": "robots.txt could not be reached (URLError), which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html",
+     "attempted_at": "2026-10-11T13:59:58Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm",
+     "attempted_at": "2026-10-11T14:07:33Z",
+     "ok": false,
+     "http_status": null,
+     "error": "robots.txt could not be reached (URLError), which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html",
+     "attempted_at": "2026-10-11T14:07:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm",
+     "attempted_at": "2026-10-16T11:39:06Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html",
+     "attempted_at": "2026-10-16T11:39:13Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm",
+     "attempted_at": "2026-10-18T00:12:26Z",
+     "ok": false,
+     "http_status": null,
+     "error": "DNS lookup failed, so the site could not be reached from this machine (try another network, or save the document by hand). robots.txt could not be checked, which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html",
+     "attempted_at": "2026-10-18T00:12:32Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:03Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-04/extra-7a742ebdb3/2026-10-18/official.pdf",
+      "url": "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf",
+      "final_url": "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 326127,
+      "sha256": "e6993ab6ef3b7d014575bf42e4d30f71cc683dc1b4273384e823c08e4253130d",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:07Z",
+      "last_checked": "2026-10-18T00:31:07Z",
+      "method": "http",
+      "last_modified": "Thu, 03 Apr 2025 18:28:31 GMT",
+      "etag": "\"67eed34f-4f9ef\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://cset.georgetown.edu/wp-content/uploads/t0612_science_ethics_trial_measures_EN.pdf",
+      "attempted_at": "2026-10-18T00:31:07Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-04"
+ },
+ "CN-05": {
+  "main": {
+   "status": "archived",
+   "flag": "The secondary source could not be downloaded (DNS lookup failed, so the site could not be reached from this machine (try another network, or save the document by hand). robots.txt could not be checked, which RFC 9309 treats as 'do not crawl').",
+   "last_attempt": "2026-10-18T00:12:24Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/CN-05/2026-10-11/official.html",
+     "url": "https://www.mfa.gov.cn/eng/zy/gb/202405/t20240531_11367503.html",
+     "final_url": "https://www.mfa.gov.cn/eng/zy/gb/202405/t20240531_11367503.html",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 25152,
+     "sha256": "073933c76fa44d0cf1f30d1cbe95b17ad6a625f29abd12024e3550f2adde5b59",
+     "retrieved_at": "2026-10-11T13:59:59Z",
+     "last_checked": "2026-10-18T00:12:30Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.mfa.gov.cn/eng/zy/gb/202405/t20240531_11367503.html",
+     "attempted_at": "2026-10-11T13:59:59Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.gov.cn/lianbo/fabu/202310/content_6910006.htm",
+     "attempted_at": "2026-10-11T13:59:59Z",
+     "ok": false,
+     "http_status": null,
+     "error": "robots.txt could not be reached (URLError), which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.mfa.gov.cn/eng/zy/gb/202405/t20240531_11367503.html",
+     "attempted_at": "2026-10-18T00:12:30Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.gov.cn/lianbo/fabu/202310/content_6910006.htm",
+     "attempted_at": "2026-10-18T00:12:30Z",
+     "ok": false,
+     "http_status": null,
+     "error": "DNS lookup failed, so the site could not be reached from this machine (try another network, or save the document by hand). robots.txt could not be checked, which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:03Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-34abdf7ac7/2026-10-18/official.html",
+      "url": "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm",
+      "final_url": "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 25675,
+      "sha256": "af2234669b4e270741fce79557921229c3675048cd716250932b165fccd72088",
+      "text_sha256": "4247b7a41b6ad88f02c14c8c525d7a415656ac2fd7ec1c671d2891ad90582073",
+      "retrieved_at": "2026-10-18T00:31:10Z",
+      "last_checked": "2026-10-18T00:31:10Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm",
+      "attempted_at": "2026-10-18T00:31:10Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml": {
+    "status": "archived-review",
+    "flag": "The page barely mentions the document's title; check that the URL still points to this document.",
+    "last_attempt": "2026-10-18T00:31:03Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official.html",
+      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "final_url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 61344,
+      "sha256": "0096f2192eb8161a0513775ec3eff9fc6ca7b28d57e41d3634bbad859cdc4879",
+      "text_sha256": "27dc491c201649106bfca10df8fc81ea7e7470260f061aae16e23adb6d51b9bb",
+      "retrieved_at": "2026-10-18T00:31:08Z",
+      "last_checked": "2026-10-18T00:31:08Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page barely mentions the document's title; check that the URL still points to this document",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-rendered",
+      "role": "official-rendered",
+      "label": "Official source, rendered in a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official-rendered.html",
+      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "final_url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 62237,
+      "sha256": "d37da9f763b4e157d9c7a83848e1871863d23c4b400179203ce1dc310e2a0e45",
+      "text_sha256": "27dc491c201649106bfca10df8fc81ea7e7470260f061aae16e23adb6d51b9bb",
+      "retrieved_at": "2026-10-18T00:32:51Z",
+      "last_checked": "2026-10-18T00:32:51Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page barely mentions the document's title; check that the URL still points to this document",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-print",
+      "role": "official-print",
+      "label": "Official source, printed to PDF by a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-05/extra-84409ea316/2026-10-18/official-print.pdf",
+      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "final_url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 869392,
+      "sha256": "dda0e1d9edd0756e887cf138a1760a5d344fee4d060e96592de8fe900546e392",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:51Z",
+      "last_checked": "2026-10-18T00:32:51Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "attempted_at": "2026-10-18T00:31:08Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "official-rendered",
+      "url": "https://www.mfa.gov.cn/web/fyrbt_673021/dhdw_673027/202310/t20231018_11162801.shtml",
+      "attempted_at": "2026-10-18T00:32:51Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "browser"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-05"
+ },
+ "CN-14": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:30Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/CN-14/2026-10-11/official.html",
+     "url": "http://www.npc.gov.cn/npc/c2/c30834/202510/t20251028_449048.html",
+     "final_url": "http://www.npc.gov.cn/npc/c2/c30834/202510/t20251028_449048.html",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 18335,
+     "sha256": "4ceadbbc782b676d7ea11caa35db270d6b2351fc3ce8a1f849cc51cf80b56254",
+     "retrieved_at": "2026-10-11T14:00:22Z",
+     "last_checked": "2026-10-18T00:12:33Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-14/2026-10-11/secondary.html",
+     "url": "https://www.cac.gov.cn/2025-10/29/c_1763461514768457.htm",
+     "final_url": "https://www.cac.gov.cn/2025-10/29/c_1763461514768457.htm",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 23374,
+     "sha256": "3316672123bd2208083ae2bde12342c698e34166c164c71ba4b62f01243f7d9e",
+     "retrieved_at": "2026-10-11T14:00:26Z",
+     "last_checked": "2026-10-18T00:12:39Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "http://www.npc.gov.cn/npc/c2/c30834/202510/t20251028_449048.html",
+     "attempted_at": "2026-10-11T14:00:22Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.cac.gov.cn/2025-10/29/c_1763461514768457.htm",
+     "attempted_at": "2026-10-11T14:00:26Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "http://www.npc.gov.cn/npc/c2/c30834/202510/t20251028_449048.html",
+     "attempted_at": "2026-10-18T00:12:33Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.cac.gov.cn/2025-10/29/c_1763461514768457.htm",
+     "attempted_at": "2026-10-18T00:12:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:07Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-14/extra-3bffb10e63/2026-10-18/official.pdf",
+      "url": "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf",
+      "final_url": "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 268486,
+      "sha256": "6fcf9fecf87c71cec94b8d11c3c1116f40aa5d04fbe349a5ab11a749ffab94c2",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:09Z",
+      "last_checked": "2026-10-18T00:31:09Z",
+      "method": "http",
+      "last_modified": "Tue, 14 Apr 2026 20:55:11 GMT",
+      "etag": "\"69dea9af-418c6\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://cset.georgetown.edu/wp-content/uploads/t0664_cyber_law_2025_EN.pdf",
+      "attempted_at": "2026-10-18T00:31:09Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-14"
+ },
+ "TW-01": {
+  "main": {
+   "status": "archived",
+   "flag": "The secondary source returned a bot-check or empty page this time (The page has very little readable text (485 characters); it probably needs JavaScript); the earlier copy is kept. A source changed since the previous snapshot; both versions are kept.",
+   "last_attempt": "2026-10-18T00:12:32Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/TW-01/2026-10-18/official.html",
+     "url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000592",
+     "final_url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000592",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 41862,
+     "sha256": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
+     "text_sha256": "2249ed8535f46dd79f9943380f008df3f5568bc23b06f3c34e4b58c74e100277",
+     "retrieved_at": "2026-10-18T00:12:38Z",
+     "last_checked": "2026-10-18T00:12:38Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": true,
+     "previous_sha256": "53efa9363ba8ac7ccd02281eb84ddd480312d8a259792ad2d5a2139e22cd567a",
+     "previous_path": "archive/TW-01/2026-10-11/official.html",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/TW-01/2026-10-11/document-1.pdf",
+     "url": "https://law.nstc.gov.tw/UseManual/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A20171020.pdf",
+     "final_url": "https://law.nstc.gov.tw/UseManual/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A20171020.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1454935,
+     "sha256": "dac3aa16e2a6cb8a94513a18d35e5dc55fc5a111e4da06fe4495830f4992bfe9",
+     "retrieved_at": "2026-10-11T14:04:37Z",
+     "last_checked": "2026-10-18T00:12:43Z",
+     "method": "http",
+     "last_modified": "Mon, 02 Sep 2024 10:35:22 GMT",
+     "etag": "\"0113ad023fdda1:0\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/TW-01/2026-10-11/secondary.html",
+     "url": "https://law.nstc.gov.tw/EngLawList.aspx?id=GL000592",
+     "final_url": "https://law.nstc.gov.tw/EngLawList.aspx?id=GL000592",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 20970,
+     "sha256": "32b7d9c73b84b1ec568e170a153b3b14a9e555bb8fb7d3d026c8573b306d3154",
+     "retrieved_at": "2026-10-11T14:04:40Z",
+     "last_checked": "2026-10-11T14:04:40Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": true,
+     "warning": null,
+     "integrity": "ok",
+     "last_failed": "2026-10-18T00:12:32Z",
+     "last_error": "The page has very little readable text (485 characters); it probably needs JavaScript"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000592",
+     "attempted_at": "2026-10-11T14:03:03Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://law.nstc.gov.tw/UseManual/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A20171020.pdf",
+     "attempted_at": "2026-10-11T14:04:37Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://law.nstc.gov.tw/EngLawList.aspx?id=GL000592",
+     "attempted_at": "2026-10-11T14:04:40Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000592",
+     "attempted_at": "2026-10-18T00:12:38Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://law.nstc.gov.tw/UseManual/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A20171020.pdf",
+     "attempted_at": "2026-10-18T00:12:43Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://law.nstc.gov.tw/EngLawList.aspx?id=GL000592",
+     "attempted_at": "2026-10-18T00:12:47Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://law.nstc.gov.tw/EngLawContent.aspx?lan=E&id=10099": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:07Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/official.html",
+      "url": "https://law.nstc.gov.tw/EngLawContent.aspx?lan=E&id=10099",
+      "final_url": "https://law.nstc.gov.tw/EngLawContent.aspx?lan=E&id=10099",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 55055,
+      "sha256": "c51098eca3f851953523641ac0b58afe80b3c86dcc20b59c86cfa3d1cd10ef7a",
+      "text_sha256": "53fde0d33a014a0e846245facb025f472952ec9d5cea9193d79a24d5c15cabd5",
+      "retrieved_at": "2026-10-18T00:31:15Z",
+      "last_checked": "2026-10-18T00:31:15Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     },
+     {
+      "role_key": "document-1",
+      "role": "document",
+      "label": "Linked document (PDF)",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-3cff11520f/2026-10-18/document-1.pdf",
+      "url": "https://law.nstc.gov.tw/EngLawContent.aspx?media=downloadPDF&lan=E&id=10099",
+      "final_url": "https://law.nstc.gov.tw/EngLawContent.aspx?media=downloadPDF&lan=E&id=10099",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 103218,
+      "sha256": "778eda663ef3e223a7db4ea658f0af11852051dacfa4d54a413d9a260842a313",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:24Z",
+      "last_checked": "2026-10-18T00:31:24Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://law.nstc.gov.tw/EngLawContent.aspx?lan=E&id=10099",
+      "attempted_at": "2026-10-18T00:31:15Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "document",
+      "url": "https://law.nstc.gov.tw/EngLawContent.aspx?media=downloadPDF&lan=E&id=10099",
+      "attempted_at": "2026-10-18T00:31:24Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592": {
+    "status": "archived-review",
+    "flag": "The page has very little readable text (475 characters); it probably needs JavaScript.",
+    "last_attempt": "2026-10-18T00:31:08Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official.html",
+      "url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "final_url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 20233,
+      "sha256": "02ede81d9bfe155a5ea14d177be761042325d5757edf5bfec8477baa94e3588d",
+      "text_sha256": "c4ec71702172266a8dfc6a07dca73ea3fe4e4edf4413a5e0a144451d1a00c40a",
+      "retrieved_at": "2026-10-18T00:31:19Z",
+      "last_checked": "2026-10-18T00:31:19Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page has very little readable text (475 characters); it probably needs JavaScript",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-rendered",
+      "role": "official-rendered",
+      "label": "Official source, rendered in a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official-rendered.html",
+      "url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "final_url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 19675,
+      "sha256": "a670c2e31e0605e70f673aa62d8538f85635cd8c2b3186d21e9a9970e8e78707",
+      "text_sha256": "03873bc053710b70a4d115eb5a1a9021dba27d139fbf942a41ef06a5925234e3",
+      "retrieved_at": "2026-10-18T00:32:56Z",
+      "last_checked": "2026-10-18T00:32:56Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page has very little readable text (475 characters); it probably needs JavaScript",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-print",
+      "role": "official-print",
+      "label": "Official source, printed to PDF by a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-01/extra-2dd019bf2a/2026-10-18/official-print.pdf",
+      "url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "final_url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 381343,
+      "sha256": "fd9f8db057128c049c8b4f6be048d70e5c6702f5e4eb0d5dabbf17afa2b634f5",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:56Z",
+      "last_checked": "2026-10-18T00:32:56Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "attempted_at": "2026-10-18T00:31:19Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "official-rendered",
+      "url": "https://law.nstc.gov.tw/LawContentSource.aspx?id=GL000592",
+      "attempted_at": "2026-10-18T00:32:56Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "browser"
+     }
+    ]
+   }
+  },
+  "record_id": "TW-01"
+ },
+ "TW-02": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:33Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/TW-02/2026-10-11/official.html",
+     "url": "https://moda.gov.tw/major-policies/ai/governance/19244",
+     "final_url": "https://moda.gov.tw/major-policies/ai/governance/19244",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 81092,
+     "sha256": "d2f3e2b1f2648dbfee61282c0f6ce1966c2b39262f7b6ab8e67c020406ddb16c",
+     "retrieved_at": "2026-10-11T14:03:01Z",
+     "last_checked": "2026-10-18T00:12:36Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/TW-02/2026-10-11/secondary.pdf",
+     "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR",
+     "final_url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 954620,
+     "sha256": "9b28b24e441534a9dd047609f6439d8e281d249f8e82ba845f2d11da52923d84",
+     "retrieved_at": "2026-10-11T14:03:06Z",
+     "last_checked": "2026-10-18T00:12:41Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://moda.gov.tw/major-policies/ai/governance/19244",
+     "attempted_at": "2026-10-11T14:03:01Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR",
+     "attempted_at": "2026-10-11T14:03:06Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://moda.gov.tw/major-policies/ai/governance/19244",
+     "attempted_at": "2026-10-18T00:12:36Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/UieEfux5Yv0iJuR",
+     "attempted_at": "2026-10-18T00:12:41Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://moda.gov.tw/en/major-policies/ai/governance/19244": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:09Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-3edb5ae2ab/2026-10-18/official.html",
+      "url": "https://moda.gov.tw/en/major-policies/ai/governance/19244",
+      "final_url": "https://moda.gov.tw/en/major-policies/ai/governance/19244",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 59280,
+      "sha256": "2a8605e517e31741cdb04636526e545193623964604e610722ee21500bd425ba",
+      "text_sha256": "2eda566491ecb77db527332a0a8d42b9c73076ac666061aa19dfe0c5a593a7a6",
+      "retrieved_at": "2026-10-18T00:31:12Z",
+      "last_checked": "2026-10-18T00:31:12Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://moda.gov.tw/en/major-policies/ai/governance/19244",
+      "attempted_at": "2026-10-18T00:31:12Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3TAWUGBklnkogPX": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:10Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/TW-02/extra-2a26ba4caa/2026-10-18/official.pdf",
+      "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3TAWUGBklnkogPX",
+      "final_url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3TAWUGBklnkogPX",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 575843,
+      "sha256": "e3acee05fb45d6c763b2757acbce075aa163821ad66936a6249011d594ddd5b1",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:14Z",
+      "last_checked": "2026-10-18T00:31:14Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www-api.moda.gov.tw/File/Get/moda/zh-tw/3TAWUGBklnkogPX",
+      "attempted_at": "2026-10-18T00:31:14Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "TW-02"
+ },
+ "HK-01": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:39Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/HK-01/2026-10-11/official.html",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 92928,
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "retrieved_at": "2026-10-11T14:04:28Z",
+     "last_checked": "2026-10-18T00:12:46Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/HK-01/2026-10-11/document-1.pdf",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1135580,
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "retrieved_at": "2026-10-11T14:04:36Z",
+     "last_checked": "2026-10-18T00:12:52Z",
+     "method": "http",
+     "last_modified": "Mon, 22 Dec 2025 06:28:19 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/HK-01/2026-10-11/document-2.pdf",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1429025,
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "retrieved_at": "2026-10-11T14:04:44Z",
+     "last_checked": "2026-10-18T00:12:58Z",
+     "method": "http",
+     "last_modified": "Mon, 22 Dec 2025 06:28:19 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/HK-01/2026-10-11/secondary.pdf",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1429025,
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "retrieved_at": "2026-10-11T14:04:49Z",
+     "last_checked": "2026-10-18T00:13:03Z",
+     "method": "http",
+     "last_modified": "Mon, 22 Dec 2025 06:28:19 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "attempted_at": "2026-10-11T14:04:28Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "attempted_at": "2026-10-11T14:04:36Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "attempted_at": "2026-10-11T14:04:44Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "attempted_at": "2026-10-11T14:04:49Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "attempted_at": "2026-10-18T00:12:46Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "attempted_at": "2026-10-18T00:12:52Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "attempted_at": "2026-10-18T00:12:58Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "attempted_at": "2026-10-18T00:13:03Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.itib.gov.hk/en/speeches/2025/pr_20251030.html": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:12Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+      "url": "https://www.itib.gov.hk/en/speeches/2025/pr_20251030.html",
+      "final_url": "https://www.itib.gov.hk/en/speeches/2025/pr_20251030.html",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 11639,
+      "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+      "text_sha256": "bffae1f86216e913135f1c389fe1cf55483766489af360ad82fe2cf3711c1904",
+      "retrieved_at": "2026-10-18T00:31:18Z",
+      "last_checked": "2026-10-18T00:31:18Z",
+      "method": "http",
+      "last_modified": "Wed, 18 Mar 2026 08:45:44 GMT",
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.itib.gov.hk/en/speeches/2025/pr_20251030.html",
+      "attempted_at": "2026-10-18T00:31:18Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "HK-01"
+ },
+ "HK-02": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:39Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/HK-02/2026-10-11/official.html",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 92928,
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "retrieved_at": "2026-10-11T14:04:38Z",
+     "last_checked": "2026-10-18T00:12:48Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/HK-02/2026-10-11/document-1.pdf",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1135580,
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "retrieved_at": "2026-10-11T14:04:46Z",
+     "last_checked": "2026-10-18T00:12:54Z",
+     "method": "http",
+     "last_modified": "Mon, 22 Dec 2025 06:28:19 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/HK-02/2026-10-11/document-2.pdf",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1429025,
+     "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+     "retrieved_at": "2026-10-11T14:04:51Z",
+     "last_checked": "2026-10-18T00:13:00Z",
+     "method": "http",
+     "last_modified": "Mon, 22 Dec 2025 06:28:19 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/HK-02/2026-10-11/secondary.pdf",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "final_url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1135580,
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "retrieved_at": "2026-10-11T14:04:53Z",
+     "last_checked": "2026-10-18T00:13:05Z",
+     "method": "http",
+     "last_modified": "Mon, 22 Dec 2025 06:28:19 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "attempted_at": "2026-10-11T14:04:38Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "attempted_at": "2026-10-11T14:04:46Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "attempted_at": "2026-10-11T14:04:51Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "attempted_at": "2026-10-11T14:04:53Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/",
+     "attempted_at": "2026-10-18T00:12:48Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "attempted_at": "2026-10-18T00:12:54Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/Ethical_AI_Framework_en.pdf",
+     "attempted_at": "2026-10-18T00:13:00Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.digitalpolicy.gov.hk/en/our_work/data_governance/policies_standards/ethical_ai_framework/doc/HK_Generative_AI_Technical_and_Application_Guideline_en.pdf",
+     "attempted_at": "2026-10-18T00:13:05Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.info.gov.hk/gia/general/202504/15/P2025041500227.htm": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:14Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-02/extra-40d963b467/2026-10-18/official.html",
+      "url": "https://www.info.gov.hk/gia/general/202504/15/P2025041500227.htm",
+      "final_url": "https://www.info.gov.hk/gia/general/202504/15/P2025041500227.htm",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 15242,
+      "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+      "text_sha256": "1a79785e8059fa6131279346830ea5ba613820fe98a0cde4be026d816f9dae00",
+      "retrieved_at": "2026-10-18T00:31:18Z",
+      "last_checked": "2026-10-18T00:31:18Z",
+      "method": "http",
+      "last_modified": "Tue, 15 Apr 2025 06:00:06 GMT",
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.info.gov.hk/gia/general/202504/15/P2025041500227.htm",
+      "attempted_at": "2026-10-18T00:31:18Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "HK-02"
+ },
+ "CN-18": {
+  "main": {
+   "status": "archived",
+   "flag": "A source changed since the previous snapshot; both versions are kept.",
+   "last_attempt": "2026-10-18T00:12:41Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/CN-18/2026-10-18/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260-webapp/repo/file/TaskFile/0/20260828/dc90d8226fc547f3b23fe1b5c907154a.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260-webapp/repo/file/TaskFile/0/20260828/dc90d8226fc547f3b23fe1b5c907154a.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1324398,
+     "sha256": "9501da766283fee538403d87e63f47b11de3362796b629c3b81212d19c77e8fc",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-18T00:12:47Z",
+     "last_checked": "2026-10-18T00:12:47Z",
+     "method": "http",
+     "last_modified": "Fri, 28 Aug 2026 09:04:36 GMT",
+     "etag": null,
+     "changed": true,
+     "previous_sha256": "b882626d90f68a77283c19776a2fd8ca948768c4721810a260c81965c0a9aa59",
+     "previous_path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C001/2026-10-14/official.html",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/portal/suggestion",
+     "attempted_at": "2026-10-14T13:10:27Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260-webapp/repo/file/TaskFile/0/20260828/dc90d8226fc547f3b23fe1b5c907154a.pdf",
+     "attempted_at": "2026-10-18T00:12:47Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.tc260.org.cn/tc260-webapp/api/standard/getProject/70": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:18Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-18/extra-68ec958ce6/2026-10-18/official.json",
+      "url": "https://www.tc260.org.cn/tc260-webapp/api/standard/getProject/70",
+      "final_url": "https://www.tc260.org.cn/tc260-webapp/api/standard/getProject/70",
+      "http_status": 200,
+      "content_type": "application/json",
+      "bytes": 5782,
+      "sha256": "e1d4fa8375cf50379de05cb11eff47e929e444153c93e3fe83fd088407cc878f",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:25Z",
+      "last_checked": "2026-10-18T00:31:25Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.tc260.org.cn/tc260-webapp/api/standard/getProject/70",
+      "attempted_at": "2026-10-18T00:31:25Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-18"
+ },
+ "CN-19": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:47Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/official.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 26115,
+     "sha256": "35825846958052b134319b1c9bc6c202c6d1dcf912b6bd4c7cfb592cbb1f59c9",
+     "text_sha256": "6113835359a53f784bc50b6176ff6d53b4cf87b3e78a5736d033c2322ec9c69d",
+     "retrieved_at": "2026-10-14T13:10:30Z",
+     "last_checked": "2026-10-18T00:12:50Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B.pdf.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B.pdf.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1027156,
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:46Z",
+     "last_checked": "2026-10-18T00:12:58Z",
+     "method": "http",
+     "last_modified": "Wed, 23 Sep 2026 08:45:32 GMT",
+     "etag": "\"6ab391ac-fac54\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml",
+     "attempted_at": "2026-10-14T13:10:30Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-14T13:10:46Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml",
+     "attempted_at": "2026-10-18T00:12:50Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-18T00:12:58Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.tc260.org.cn/portal/suggestion": {
+    "status": "archived-review",
+    "flag": "The page barely mentions the document's title; check that the URL still points to this document.",
+    "last_attempt": "2026-10-18T00:31:18Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-19/extra-52e219aace/2026-10-18/official.html",
+      "url": "https://www.tc260.org.cn/portal/suggestion",
+      "final_url": "https://www.tc260.org.cn/portal/suggestion",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 23659,
+      "sha256": "f049e9b4e36529a0c5b124cf53b978fe7b012cedde03b4a50f9768bc4912f328",
+      "text_sha256": "f70c138b21b1fba8730844cb55c7826dbc3bc0167f81154a99d5ab22c0bf4d72",
+      "retrieved_at": "2026-10-18T00:31:28Z",
+      "last_checked": "2026-10-18T00:31:28Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page barely mentions the document's title; check that the URL still points to this document",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-rendered",
+      "role": "official-rendered",
+      "label": "Official source, rendered in a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-19/extra-52e219aace/2026-10-18/official-rendered.html",
+      "url": "https://www.tc260.org.cn/portal/suggestion",
+      "final_url": "https://www.tc260.org.cn/portal/suggestion",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 26080,
+      "sha256": "00039d2ee75b1701307ba6c5f3afacb45ac5cc8b2e73a78c789a7901e06b49c0",
+      "text_sha256": "bf56274dd65bc8ba0d5afbb4c7be813db5aac04469bd40cb118e816f6bf6f3b3",
+      "retrieved_at": "2026-10-18T00:33:04Z",
+      "last_checked": "2026-10-18T00:33:04Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page barely mentions the document's title; check that the URL still points to this document",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-print",
+      "role": "official-print",
+      "label": "Official source, printed to PDF by a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-19/extra-52e219aace/2026-10-18/official-print.pdf",
+      "url": "https://www.tc260.org.cn/portal/suggestion",
+      "final_url": "https://www.tc260.org.cn/portal/suggestion",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2732424,
+      "sha256": "4b49cd45d47fbdf8b73139ce11da951937f1ad7599768b8bc2814ff341d5ff7a",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:33:04Z",
+      "last_checked": "2026-10-18T00:33:04Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.tc260.org.cn/portal/suggestion",
+      "attempted_at": "2026-10-18T00:31:28Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "official-rendered",
+      "url": "https://www.tc260.org.cn/portal/suggestion",
+      "attempted_at": "2026-10-18T00:33:04Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "browser"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-19"
+ },
+ "CN-20": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:47Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%80%BB%E5%88%99%E3%80%8B.pdf.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%80%BB%E5%88%99%E3%80%8B.pdf.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 787224,
+     "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:21Z",
+     "last_checked": "2026-10-18T00:12:54Z",
+     "method": "http",
+     "last_modified": "Thu, 17 Sep 2026 06:09:05 GMT",
+     "etag": "\"6aab8401-c0318\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-20/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 28138,
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "text_sha256": "136948b7df36eda3b219d8b29a6b68ca46382d09972ee34f0864659c798c463d",
+     "retrieved_at": "2026-10-18T00:13:00Z",
+     "last_checked": "2026-10-18T00:13:00Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%80%BB%E5%88%99%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-14T13:10:21Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%80%BB%E5%88%99%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-18T00:12:54Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "attempted_at": "2026-10-18T00:13:00Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-20"
+ },
+ "CN-21": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:12:58Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C004/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%95%99%E8%82%B2%E3%80%8B.pdf.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%95%99%E8%82%B2%E3%80%8B.pdf.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 614305,
+     "sha256": "2b5231c2915ec87cead1518b6da3b9463541e9e2f1d4bd772ccf5a0d5b46b680",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:24Z",
+     "last_checked": "2026-10-18T00:13:04Z",
+     "method": "http",
+     "last_modified": "Thu, 17 Sep 2026 06:09:05 GMT",
+     "etag": "\"6aab8401-95fa1\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-21/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 28138,
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "text_sha256": "136948b7df36eda3b219d8b29a6b68ca46382d09972ee34f0864659c798c463d",
+     "retrieved_at": "2026-10-18T00:13:16Z",
+     "last_checked": "2026-10-18T00:13:16Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%95%99%E8%82%B2%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-14T13:10:24Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E6%95%99%E8%82%B2%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-18T00:13:04Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "attempted_at": "2026-10-18T00:13:16Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-21"
+ },
+ "CN-22": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:00Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E3%80%8B.pdf.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E3%80%8B.pdf.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 758741,
+     "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:35Z",
+     "last_checked": "2026-10-18T00:13:09Z",
+     "method": "http",
+     "last_modified": "Thu, 17 Sep 2026 06:09:05 GMT",
+     "etag": "\"6aab8401-b93d5\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-22/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 28138,
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "text_sha256": "136948b7df36eda3b219d8b29a6b68ca46382d09972ee34f0864659c798c463d",
+     "retrieved_at": "2026-10-18T00:13:18Z",
+     "last_checked": "2026-10-18T00:13:18Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-14T13:10:35Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-18T00:13:09Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "attempted_at": "2026-10-18T00:13:18Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-22"
+ },
+ "CN-23": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:03Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C006/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%92%8C%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E3%80%8B.pdf.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%92%8C%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E3%80%8B.pdf.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 706346,
+     "sha256": "4ae98c53cdeebd34b5bc9a48a09345515af696874801dbba2f500b440ea08941",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:39Z",
+     "last_checked": "2026-10-18T00:13:13Z",
+     "method": "http",
+     "last_modified": "Thu, 17 Sep 2026 06:09:05 GMT",
+     "etag": "\"6aab8401-ac72a\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-23/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 28138,
+     "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+     "text_sha256": "136948b7df36eda3b219d8b29a6b68ca46382d09972ee34f0864659c798c463d",
+     "retrieved_at": "2026-10-18T00:13:21Z",
+     "last_checked": "2026-10-18T00:13:21Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%92%8C%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-14T13:10:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%BC%95%20%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%92%8C%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E3%80%8B.pdf.pdf",
+     "attempted_at": "2026-10-18T00:13:13Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202609/ec149159dcb246268eda751eee89967d.shtml",
+     "attempted_at": "2026-10-18T00:13:21Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-23"
+ },
+ "CN-24": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:05Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+     "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=407584DD0FA2BA19E62E85D3469290B0",
+     "final_url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=407584DD0FA2BA19E62E85D3469290B0",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 24186,
+     "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+     "text_sha256": "eabe8c30327c54221f2c7d4d7c1171a7c2d722384ffef57b5ed53b148f820e4c",
+     "retrieved_at": "2026-10-14T13:10:40Z",
+     "last_checked": "2026-10-18T00:13:09Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-24/2026-10-18/secondary.html",
+     "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=33D40F1160F95D92E06397BE0A0A5B93",
+     "final_url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=33D40F1160F95D92E06397BE0A0A5B93",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 103802,
+     "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+     "text_sha256": "88b76e9b5fbfcb36b865f31a56aacad4ab4135a42b4f52c4eefecb7c50eb0215",
+     "retrieved_at": "2026-10-18T00:13:15Z",
+     "last_checked": "2026-10-18T00:13:15Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=407584DD0FA2BA19E62E85D3469290B0",
+     "attempted_at": "2026-10-14T13:10:40Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=407584DD0FA2BA19E62E85D3469290B0",
+     "attempted_at": "2026-10-18T00:13:09Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=33D40F1160F95D92E06397BE0A0A5B93",
+     "attempted_at": "2026-10-18T00:13:15Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://content.mlex.com/Attachments/2025-05-23_CZT297CHX8R49J68/SAMR_NSA_GenAI_data_annotation_security_specification.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:19Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+      "url": "https://content.mlex.com/Attachments/2025-05-23_CZT297CHX8R49J68/SAMR_NSA_GenAI_data_annotation_security_specification.pdf",
+      "final_url": "https://content.mlex.com/Attachments/2025-05-23_CZT297CHX8R49J68/SAMR_NSA_GenAI_data_annotation_security_specification.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 628716,
+      "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:23Z",
+      "last_checked": "2026-10-18T00:31:23Z",
+      "method": "http",
+      "last_modified": "Fri, 23 May 2025 06:53:19 GMT",
+      "etag": "\"e631a3dbeb811abd69b076c87a1c4810\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://content.mlex.com/Attachments/2025-05-23_CZT297CHX8R49J68/SAMR_NSA_GenAI_data_annotation_security_specification.pdf",
+      "attempted_at": "2026-10-18T00:31:23Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "CN-24"
+ },
+ "CN-25": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:15Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202509/dbafd382ac164506b84065f37f2cebca/files/0d784893a2fe42f396e88d95317a787c.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/sjzn/202509/dbafd382ac164506b84065f37f2cebca/files/0d784893a2fe42f396e88d95317a787c.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1046017,
+     "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:52Z",
+     "last_checked": "2026-10-18T00:13:25Z",
+     "method": "http",
+     "last_modified": "Tue, 21 Jul 2026 06:27:03 GMT",
+     "etag": "\"6a5f1137-ff601\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-25/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202509/ace43eefdec6497cb6ee7510dc3aa07a.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202509/ace43eefdec6497cb6ee7510dc3aa07a.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 15202,
+     "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+     "text_sha256": "db92f373cd44b049018739b2949193f778ead44a6dbf59de79000b8af653da79",
+     "retrieved_at": "2026-10-18T00:13:36Z",
+     "last_checked": "2026-10-18T00:13:36Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202509/dbafd382ac164506b84065f37f2cebca/files/0d784893a2fe42f396e88d95317a787c.pdf",
+     "attempted_at": "2026-10-14T13:10:52Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202509/dbafd382ac164506b84065f37f2cebca/files/0d784893a2fe42f396e88d95317a787c.pdf",
+     "attempted_at": "2026-10-18T00:13:25Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202509/ace43eefdec6497cb6ee7510dc3aa07a.shtml",
+     "attempted_at": "2026-10-18T00:13:36Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-25"
+ },
+ "CN-26": {
+  "main": {
+   "status": "archived",
+   "flag": "The secondary source is a bot-check or empty page (The page has very little readable text (599 characters); it probably needs JavaScript).",
+   "last_attempt": "2026-10-18T00:13:16Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C010/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202608/67702dcf57214da792499be8518446dc/files/f3be1cc4d35d428c98a9f5d197c963ac.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/sjzn/202608/67702dcf57214da792499be8518446dc/files/f3be1cc4d35d428c98a9f5d197c963ac.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 659397,
+     "sha256": "11124dbe739eebd438a6ed5e9b612fae599aa116d74ceab05a9d1c426f101ec4",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:56Z",
+     "last_checked": "2026-10-18T00:13:29Z",
+     "method": "http",
+     "last_modified": "Mon, 24 Aug 2026 09:08:40 GMT",
+     "etag": "\"6a8c0a18-a0fc5\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-26/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202607/98b6f259f8a3428b8fe1cfea3c0fb19e.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202607/98b6f259f8a3428b8fe1cfea3c0fb19e.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 13920,
+     "sha256": "546455bcabe776d8ad12c143718a41f066014fc4c1b9b5d5ac90dec854f07c37",
+     "text_sha256": "8c584a8bb5ef1c3ad356d0265bb7cb3af75a2b76ccd6480687a0355d2c11383d",
+     "retrieved_at": "2026-10-18T00:13:39Z",
+     "last_checked": "2026-10-18T00:13:39Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": "The page has very little readable text (599 characters); it probably needs JavaScript",
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202608/67702dcf57214da792499be8518446dc/files/f3be1cc4d35d428c98a9f5d197c963ac.pdf",
+     "attempted_at": "2026-10-14T13:10:56Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202608/67702dcf57214da792499be8518446dc/files/f3be1cc4d35d428c98a9f5d197c963ac.pdf",
+     "attempted_at": "2026-10-18T00:13:29Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202607/98b6f259f8a3428b8fe1cfea3c0fb19e.shtml",
+     "attempted_at": "2026-10-18T00:13:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-26"
+ },
+ "CN-27": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:18Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C011/2026-10-14/official.pdf",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202608/6bd7f30173444f6cae692e0e7c3045b8/files/23e68462a22b465c9aef09e584659924.pdf",
+     "final_url": "https://www.tc260.org.cn/tc260/sjzn/202608/6bd7f30173444f6cae692e0e7c3045b8/files/23e68462a22b465c9aef09e584659924.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 714088,
+     "sha256": "2b8b471b5a5aa188ab08201913a14d3ddce70a6dccf222e2d34ddb3fff39f014",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:03Z",
+     "last_checked": "2026-10-18T00:13:33Z",
+     "method": "http",
+     "last_modified": "Mon, 24 Aug 2026 09:04:59 GMT",
+     "etag": "\"6a8c093b-ae568\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/CN-27/2026-10-18/secondary.html",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202608/1586c71e2ebf4db28ed4a7651788ca87.shtml",
+     "final_url": "https://www.tc260.org.cn/tc260/tzgg/202608/1586c71e2ebf4db28ed4a7651788ca87.shtml",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 15319,
+     "sha256": "e0144b4d8633bfa7af52f420bc2f96819d5600b99f2406ae8b656799a8965bd8",
+     "text_sha256": "f56a67f20d311c15c0fc718740cda79f2e730e2921807b8c5d0da614f6bddd8f",
+     "retrieved_at": "2026-10-18T00:13:42Z",
+     "last_checked": "2026-10-18T00:13:42Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202608/6bd7f30173444f6cae692e0e7c3045b8/files/23e68462a22b465c9aef09e584659924.pdf",
+     "attempted_at": "2026-10-14T13:11:03Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.tc260.org.cn/tc260/sjzn/202608/6bd7f30173444f6cae692e0e7c3045b8/files/23e68462a22b465c9aef09e584659924.pdf",
+     "attempted_at": "2026-10-18T00:13:33Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.tc260.org.cn/tc260/tzgg/202608/1586c71e2ebf4db28ed4a7651788ca87.shtml",
+     "attempted_at": "2026-10-18T00:13:42Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-27"
+ },
+ "JP-07": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:21Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+     "url": "https://aisi.go.jp/activity/activity_security/260109/",
+     "final_url": "https://aisi.go.jp/activity/activity_security/260109/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 13161,
+     "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+     "text_sha256": "b5e590b22b9593986b6aa561250f00185d76d7235992e449409b6eb8300b402d",
+     "retrieved_at": "2026-10-14T13:10:49Z",
+     "last_checked": "2026-10-18T00:13:25Z",
+     "method": "http",
+     "last_modified": "Fri, 03 Jul 2026 06:36:00 GMT",
+     "etag": "W/\"0397e1e1080a73a240c4b6786f3fc444\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1618233,
+     "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:10:53Z",
+     "last_checked": "2026-10-18T00:13:29Z",
+     "method": "http",
+     "last_modified": "Wed, 14 Jan 2026 08:43:17 GMT",
+     "etag": "W/\"5b5c8c01ff1bfbf5d05865fa0948d141\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-2.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/ai-irs_summary_v1.0_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/ai-irs_summary_v1.0_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 546276,
+     "sha256": "5d613a795625e0a52fcfa1ea2c3a08a63b2c9e3e2ab542bf2a159c08d7b624d8",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:00Z",
+     "last_checked": "2026-10-18T00:13:33Z",
+     "method": "http",
+     "last_modified": "Wed, 14 Jan 2026 08:43:16 GMT",
+     "etag": "W/\"22b760f8091abf8a5fe0d7c9b8fdf0db\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/activity/activity_security/260109/",
+     "attempted_at": "2026-10-14T13:10:49Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_en.pdf",
+     "attempted_at": "2026-10-14T13:10:53Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/ai-irs_summary_v1.0_en.pdf",
+     "attempted_at": "2026-10-14T13:11:00Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/activity/activity_security/260109/",
+     "attempted_at": "2026-10-18T00:13:25Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_en.pdf",
+     "attempted_at": "2026-10-18T00:13:29Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/ai-irs_summary_v1.0_en.pdf",
+     "attempted_at": "2026-10-18T00:13:33Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_ja.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:23Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+      "url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_ja.pdf",
+      "final_url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_ja.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2903125,
+      "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:30Z",
+      "last_checked": "2026-10-18T00:31:30Z",
+      "method": "http",
+      "last_modified": "Fri, 09 Jan 2026 07:49:06 GMT",
+      "etag": "W/\"e84b95653702e81d0c0b1e3f797350ee\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_ja.pdf",
+      "attempted_at": "2026-10-18T00:31:30Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-07"
+ },
+ "JP-08": {
+  "main": {
+   "status": "archived",
+   "flag": "A source changed since the previous snapshot; both versions are kept.",
+   "last_attempt": "2026-10-18T00:13:33Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/official.html",
+     "url": "https://aisi.go.jp/output/output_framework/260317/",
+     "final_url": "https://aisi.go.jp/output/output_framework/260317/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 15415,
+     "sha256": "45dac837711c92fb8e63400a274198b5a9838e88e831c5eb3a8a3c347440b28f",
+     "text_sha256": "31470abd20557598986cf01207b6faee44998e4fd5ceb2c4483264419dcecf20",
+     "retrieved_at": "2026-10-14T13:10:56Z",
+     "last_checked": "2026-10-18T00:13:36Z",
+     "method": "http",
+     "last_modified": "Fri, 03 Jul 2026 06:36:27 GMT",
+     "etag": "W/\"b5ecc27a22396bd6c340642393764efa\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/JP-08/2026-10-18/document-1.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1301507,
+     "sha256": "49e2037025b40a65e1eac4d67a80c120af42f2c9af758a03cf174ef2d5a50099",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-18T00:13:40Z",
+     "last_checked": "2026-10-18T00:13:40Z",
+     "method": "http",
+     "last_modified": "Wed, 18 Mar 2026 04:11:07 GMT",
+     "etag": "W/\"6133404ae0b9f09b7bc6ff9dc83c4f57\"",
+     "changed": true,
+     "previous_sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+     "previous_path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/document-1.pdf",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/JP-08/2026-10-18/document-2.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 567549,
+     "sha256": "4c207d26cfcf424264eca0f9c28801f2f472110a989d65c59f027e20e35bb4c6",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-18T00:13:49Z",
+     "last_checked": "2026-10-18T00:13:49Z",
+     "method": "http",
+     "last_modified": "Wed, 18 Mar 2026 04:11:07 GMT",
+     "etag": "W/\"185676ae0b3bc4b1ecc1e51b13077d6e\"",
+     "changed": true,
+     "previous_sha256": "49e2037025b40a65e1eac4d67a80c120af42f2c9af758a03cf174ef2d5a50099",
+     "previous_path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C013/2026-10-14/document-2.pdf",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_framework/260317/",
+     "attempted_at": "2026-10-14T13:10:56Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_en.pdf",
+     "attempted_at": "2026-10-14T13:11:07Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_en.pdf",
+     "attempted_at": "2026-10-14T13:11:21Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_framework/260317/",
+     "attempted_at": "2026-10-18T00:13:36Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_en.pdf",
+     "attempted_at": "2026-10-18T00:13:40Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_en.pdf",
+     "attempted_at": "2026-10-18T00:13:49Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_ja.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:24Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-24262d79cf/2026-10-18/official.pdf",
+      "url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_ja.pdf",
+      "final_url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_ja.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1214461,
+      "sha256": "7b09067dedcec1786b8f65acd447fe0319911345f57218a14af7fde20f7f54cf",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:39Z",
+      "last_checked": "2026-10-18T00:31:39Z",
+      "method": "http",
+      "last_modified": "Wed, 18 Mar 2026 04:11:07 GMT",
+      "etag": "W/\"dd53c87d31bba4f97fdb1486d5c941fb\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/assets/pdf/260317_caio_guidebook_v1.00_ja.pdf",
+      "attempted_at": "2026-10-18T00:31:39Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_ja.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:25Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-e18420331a/2026-10-18/official.pdf",
+      "url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_ja.pdf",
+      "final_url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_ja.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2189993,
+      "sha256": "38fa438eb40d6911b1df99de24cd6a92fe06e79fade32cbe846c66f403243743",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:35Z",
+      "last_checked": "2026-10-18T00:31:35Z",
+      "method": "http",
+      "last_modified": "Wed, 18 Mar 2026 04:11:06 GMT",
+      "etag": "W/\"77f9e7ee42ebe3912d47a56ad09f8bee\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/assets/pdf/260317_caio_ai_governance_practical_manual_v1.00_ja.pdf",
+      "attempted_at": "2026-10-18T00:31:35Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://aisi.go.jp/output/output_framework/": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:28Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-b96335f27a/2026-10-18/official.html",
+      "url": "https://aisi.go.jp/output/output_framework/",
+      "final_url": "https://aisi.go.jp/output/output_framework/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 13039,
+      "sha256": "a8b080bfc03852ed8926531160b1984b7e6adcf3cccb3acc68828a9db3c2044d",
+      "text_sha256": "c865185e20ef3c56961d81b4ee85d85fb0e125f35a553ab413d2dac7c35c93a2",
+      "retrieved_at": "2026-10-18T00:31:42Z",
+      "last_checked": "2026-10-18T00:31:42Z",
+      "method": "http",
+      "last_modified": "Fri, 03 Jul 2026 06:36:40 GMT",
+      "etag": "W/\"05fc8ef8b37b6f2643c16e73e02443ab\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/output/output_framework/",
+      "attempted_at": "2026-10-18T00:31:42Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://aisi.go.jp/output/output_information/": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:30Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-08/extra-cce5ea29b8/2026-10-18/official.html",
+      "url": "https://aisi.go.jp/output/output_information/",
+      "final_url": "https://aisi.go.jp/output/output_information/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 30414,
+      "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+      "text_sha256": "cc69698942ef0c9b5605b87d2440429e8525b65512e3981d980a97eaf5c65e89",
+      "retrieved_at": "2026-10-18T00:31:45Z",
+      "last_checked": "2026-10-18T00:31:45Z",
+      "method": "http",
+      "last_modified": "Tue, 06 Oct 2026 03:03:56 GMT",
+      "etag": "W/\"905e63f38e928ba16db780e3bfe46e35\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/output/output_information/",
+      "attempted_at": "2026-10-18T00:31:45Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-08"
+ },
+ "JP-09": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:36Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/official.html",
+     "url": "https://aisi.go.jp/output/output_framework/data_quality_management_guidebook/",
+     "final_url": "https://aisi.go.jp/output/output_framework/data_quality_management_guidebook/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 14905,
+     "sha256": "3c3c16dbd816b94177d3a53e1186177c39e102bcf80714b1e2a08158c92d5e05",
+     "text_sha256": "501ffc70bed48495b0fab305428c20febee2855dfaa37144db62195eea21d99d",
+     "retrieved_at": "2026-10-14T13:11:03Z",
+     "last_checked": "2026-10-18T00:13:42Z",
+     "method": "http",
+     "last_modified": "Fri, 03 Jul 2026 06:36:28 GMT",
+     "etag": "W/\"52283ba502d3dd40c028d45233e5b16c\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-1.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 5854289,
+     "sha256": "10fe09c28d9dd0f40337d234c091515a012e066c309141d8e1b1aeb58c0c5789",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:14Z",
+     "last_checked": "2026-10-18T00:13:57Z",
+     "method": "http",
+     "last_modified": "Thu, 14 May 2026 02:12:35 GMT",
+     "etag": "W/\"0156e43e94a64a4709c55571e9f0a7a7\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C014/2026-10-14/document-2.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_jp.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_jp.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 6823595,
+     "sha256": "41acb993133c7b462af6ac9bfa4ed8d9d9c2a317dde995ee581a13cb1daabb26",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:30Z",
+     "last_checked": "2026-10-18T00:14:11Z",
+     "method": "http",
+     "last_modified": "Thu, 14 May 2026 02:12:35 GMT",
+     "etag": "W/\"f1b247478909d1e78553b798adfcf96c\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_framework/data_quality_management_guidebook/",
+     "attempted_at": "2026-10-14T13:11:03Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_en.pdf",
+     "attempted_at": "2026-10-14T13:11:14Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_jp.pdf",
+     "attempted_at": "2026-10-14T13:11:30Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_framework/data_quality_management_guidebook/",
+     "attempted_at": "2026-10-18T00:13:42Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_en.pdf",
+     "attempted_at": "2026-10-18T00:13:57Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/260514_Data_quality_management_guidebook_jp.pdf",
+     "attempted_at": "2026-10-18T00:14:11Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "JP-09"
+ },
+ "JP-10": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:39Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/official.html",
+     "url": "https://aisi.go.jp/output/output_information/250207_1/",
+     "final_url": "https://aisi.go.jp/output/output_information/250207_1/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 10097,
+     "sha256": "0f31dce36981cc4047ab0a7506e9004f8222e23d420f20e0db6c307189f63892",
+     "text_sha256": "136ca253ca1a1665dcdf645753d8928d4fcb7d794f19c45ac719acefa2234953",
+     "retrieved_at": "2026-10-14T13:11:10Z",
+     "last_checked": "2026-10-18T00:13:45Z",
+     "method": "http",
+     "last_modified": "Fri, 03 Jul 2026 06:36:16 GMT",
+     "etag": "W/\"71560f13f7e447a4cbb9d02d178702b7\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/Activity_Map_on_AI_Safety.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/Activity_Map_on_AI_Safety.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1777181,
+     "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:26Z",
+     "last_checked": "2026-10-18T00:14:01Z",
+     "method": "http",
+     "last_modified": "Wed, 19 Feb 2025 01:27:59 GMT",
+     "etag": "W/\"96f936a5c2a3716f56ca3be3c9bf7f45\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_information/250207_1/",
+     "attempted_at": "2026-10-14T13:11:10Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/Activity_Map_on_AI_Safety.pdf",
+     "attempted_at": "2026-10-14T13:11:26Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_information/250207_1/",
+     "attempted_at": "2026-10-18T00:13:45Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/Activity_Map_on_AI_Safety.pdf",
+     "attempted_at": "2026-10-18T00:14:01Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://aisi.go.jp/output/output_information/": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:35Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-10/extra-cce5ea29b8/2026-10-18/official.html",
+      "url": "https://aisi.go.jp/output/output_information/",
+      "final_url": "https://aisi.go.jp/output/output_information/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 30414,
+      "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+      "text_sha256": "cc69698942ef0c9b5605b87d2440429e8525b65512e3981d980a97eaf5c65e89",
+      "retrieved_at": "2026-10-18T00:31:47Z",
+      "last_checked": "2026-10-18T00:31:47Z",
+      "method": "http",
+      "last_modified": "Tue, 06 Oct 2026 03:03:56 GMT",
+      "etag": "W/\"905e63f38e928ba16db780e3bfe46e35\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/output/output_information/",
+      "attempted_at": "2026-10-18T00:31:47Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-10"
+ },
+ "JP-11": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:42Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/official.html",
+     "url": "https://aisi.go.jp/output/output_information/260402/",
+     "final_url": "https://aisi.go.jp/output/output_information/260402/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 15398,
+     "sha256": "951778896a6fbaa2c4f7f426bf53d9ac4941d1fe5fc3e1c23bc2d3330ec3f2b8",
+     "text_sha256": "e9ecf9f0afd5d7e7c231fcfa6b811bea7e76070c1869ce2b21932e9672b1dc2d",
+     "retrieved_at": "2026-10-14T13:11:17Z",
+     "last_checked": "2026-10-18T00:13:52Z",
+     "method": "http",
+     "last_modified": "Tue, 21 Jul 2026 07:44:55 GMT",
+     "etag": "W/\"46e5de28a1e08a98abb0ec72272da6b5\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-1.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 6700031,
+     "sha256": "b86d121c089ebf57a36ccdabfa1e18f3f9d7728e7c21eda6b6484c42a430d5c7",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:35Z",
+     "last_checked": "2026-10-18T00:14:06Z",
+     "method": "http",
+     "last_modified": "Thu, 16 Jul 2026 01:39:30 GMT",
+     "etag": "W/\"9678f67e0cc071aebbcd4e6f3befec52\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C016/2026-10-14/document-2.pdf",
+     "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_summary_v1.0_en.pdf",
+     "final_url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_summary_v1.0_en.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 810902,
+     "sha256": "e9daae8da0d5f86bb330dd6a2e65f701447bb02e907ddd26a486c2e418894c5f",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:39Z",
+     "last_checked": "2026-10-18T00:14:14Z",
+     "method": "http",
+     "last_modified": "Thu, 16 Jul 2026 01:39:31 GMT",
+     "etag": "W/\"1b1ea7bf55f6f0b487453339e9b83b70\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_information/260402/",
+     "attempted_at": "2026-10-14T13:11:17Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_en.pdf",
+     "attempted_at": "2026-10-14T13:11:35Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_summary_v1.0_en.pdf",
+     "attempted_at": "2026-10-14T13:11:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://aisi.go.jp/output/output_information/260402/",
+     "attempted_at": "2026-10-18T00:13:52Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_en.pdf",
+     "attempted_at": "2026-10-18T00:14:06Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_summary_v1.0_en.pdf",
+     "attempted_at": "2026-10-18T00:14:14Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://aisi.go.jp/output/output_information/": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:39Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-cce5ea29b8/2026-10-18/official.html",
+      "url": "https://aisi.go.jp/output/output_information/",
+      "final_url": "https://aisi.go.jp/output/output_information/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 30414,
+      "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+      "text_sha256": "cc69698942ef0c9b5605b87d2440429e8525b65512e3981d980a97eaf5c65e89",
+      "retrieved_at": "2026-10-18T00:31:49Z",
+      "last_checked": "2026-10-18T00:31:49Z",
+      "method": "http",
+      "last_modified": "Tue, 06 Oct 2026 03:03:56 GMT",
+      "etag": "W/\"905e63f38e928ba16db780e3bfe46e35\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/output/output_information/",
+      "attempted_at": "2026-10-18T00:31:49Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_ja.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:42Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-11/extra-ce76ec7f5c/2026-10-18/official.pdf",
+      "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_ja.pdf",
+      "final_url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_ja.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 7159219,
+      "sha256": "69f0ffad21aadc9b05f758608619ad36125b827106dc3f56e37c32070ada7e3e",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:54Z",
+      "last_checked": "2026-10-18T00:31:54Z",
+      "method": "http",
+      "last_modified": "Thu, 02 Apr 2026 09:59:41 GMT",
+      "etag": "W/\"698cb9b3554e04a9adad9ed6b7e5d9bf\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://aisi.go.jp/assets/pdf/20260402_healthcare_ai_safety_eval_v1.0_ja.pdf",
+      "attempted_at": "2026-10-18T00:31:54Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-11"
+ },
+ "JP-12": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:13:49Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+     "final_url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 42459,
+     "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+     "text_sha256": "635fea4ef763a90384569d1da53a510d7193bd8d5541f4e48bfda28edc913033",
+     "retrieved_at": "2026-10-14T13:11:25Z",
+     "last_checked": "2026-10-18T00:13:54Z",
+     "method": "http",
+     "last_modified": "Thu, 14 May 2026 16:04:45 GMT",
+     "etag": "W/\"a5db-651c941462902\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-1.pdf",
+     "url": "https://www.soumu.go.jp/main_content/001064127.pdf",
+     "final_url": "https://www.soumu.go.jp/main_content/001064127.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 636117,
+     "sha256": "8188a431c0618d3cd39645a81792f2fbae959d9caadb610c60ef50357d5f9301",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:29Z",
+     "last_checked": "2026-10-18T00:13:58Z",
+     "method": "http",
+     "last_modified": "Fri, 27 Mar 2026 05:18:17 GMT",
+     "etag": "\"9b4d5-64dfaa0f2d50d\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "url": "https://www.soumu.go.jp/main_content/001064122.pdf",
+     "final_url": "https://www.soumu.go.jp/main_content/001064122.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 3704453,
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:34Z",
+     "last_checked": "2026-10-18T00:14:03Z",
+     "method": "http",
+     "last_modified": "Fri, 27 Mar 2026 05:18:20 GMT",
+     "etag": "\"388685-64dfaa11c4288\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+     "attempted_at": "2026-10-14T13:11:25Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.soumu.go.jp/main_content/001064127.pdf",
+     "attempted_at": "2026-10-14T13:11:29Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.soumu.go.jp/main_content/001064122.pdf",
+     "attempted_at": "2026-10-14T13:11:34Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+     "attempted_at": "2026-10-18T00:13:54Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.soumu.go.jp/main_content/001064127.pdf",
+     "attempted_at": "2026-10-18T00:13:58Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.soumu.go.jp/main_content/001064122.pdf",
+     "attempted_at": "2026-10-18T00:14:03Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/pressrelease/2026/3/27_2.html": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:45Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-12/extra-bd8ba2d396/2026-10-18/official.html",
+      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/pressrelease/2026/3/27_2.html",
+      "final_url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/pressrelease/2026/3/27_2.html",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 13944,
+      "sha256": "03d2c2dfa8d72ffdff33f7dc06e561858959116236e33d3aa5103aa3f00fcf6a",
+      "text_sha256": "9e7f8248bdc33e62fadf48d0a54a1983d3edc4df6127bc8196b9c3db3228548e",
+      "retrieved_at": "2026-10-18T00:31:50Z",
+      "last_checked": "2026-10-18T00:31:50Z",
+      "method": "http",
+      "last_modified": "Thu, 30 Apr 2026 04:16:09 GMT",
+      "etag": "W/\"3678-650a5b94e7b57\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/pressrelease/2026/3/27_2.html",
+      "attempted_at": "2026-10-18T00:31:50Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-12"
+ },
+ "JP-13": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:14:01Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/official.html",
+     "url": "https://www.digital.go.jp/news/3579c42d-b11c-4756-b66e-3d3e35175623",
+     "final_url": "https://www.digital.go.jp/news/3579c42d-b11c-4756-b66e-3d3e35175623",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 56581,
+     "sha256": "c31b4ad0ddf967a92b8de2c6021a39bfb4b4bb3ba10041edd884863931eebf0d",
+     "text_sha256": "bb1cb9b3ae19e09f42cfa3f102ba030fb3410fad5d863d052c475bd8e02c13c9",
+     "retrieved_at": "2026-10-14T13:11:29Z",
+     "last_checked": "2026-10-18T00:14:04Z",
+     "method": "http",
+     "last_modified": "Wed, 14 Oct 2026 13:11:28 GMT",
+     "etag": "\"1791983488-gzip\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/document-1.pdf",
+     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50a1f37c/20250613_resources_standard_guidelines_guideline_01.pdf",
+     "final_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50a1f37c/20250613_resources_standard_guidelines_guideline_01.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 6121094,
+     "sha256": "25adb6d93da73a66bdf7b0c14f6a5c1a0e0ad5d13fb57efd33a0e02f95b63c1e",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:34Z",
+     "last_checked": "2026-10-18T00:14:08Z",
+     "method": "http",
+     "last_modified": "Tue, 10 Jun 2025 04:13:27 GMT",
+     "etag": "W/\"5d6686-6372feb11a280\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C018/2026-10-14/document-2.pdf",
+     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+     "final_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 6688384,
+     "sha256": "aac20ff8a500b51c3b557b2df5527ac0d3ab3bce3cc66cd8aa9f9674a2ddb026",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:39Z",
+     "last_checked": "2026-10-18T00:14:13Z",
+     "method": "http",
+     "last_modified": "Fri, 23 May 2025 09:56:50 GMT",
+     "etag": "W/\"660e80-635ca9e035788\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.digital.go.jp/news/3579c42d-b11c-4756-b66e-3d3e35175623",
+     "attempted_at": "2026-10-14T13:11:29Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50a1f37c/20250613_resources_standard_guidelines_guideline_01.pdf",
+     "attempted_at": "2026-10-14T13:11:34Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+     "attempted_at": "2026-10-14T13:11:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.digital.go.jp/news/3579c42d-b11c-4756-b66e-3d3e35175623",
+     "attempted_at": "2026-10-18T00:14:03Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/50a1f37c/20250613_resources_standard_guidelines_guideline_01.pdf",
+     "attempted_at": "2026-10-18T00:14:08Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/80419aea/20250527_resources_standard_guidelines_guideline_01.pdf",
+     "attempted_at": "2026-10-18T00:14:13Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.digital.go.jp/resources/standard_guidelines": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:47Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/official.html",
+      "url": "https://www.digital.go.jp/resources/standard_guidelines",
+      "final_url": "https://www.digital.go.jp/resources/standard_guidelines",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 102456,
+      "sha256": "8b8d7f81945e950e36c822c326e1ecc6b6dbc57a41717a510d30c975084ba755",
+      "text_sha256": "c9f223645b0556755ac2be9ca5cd4b42f267d2db6b1695b759776cf9b15a4776",
+      "retrieved_at": "2026-10-18T00:31:51Z",
+      "last_checked": "2026-10-18T00:31:51Z",
+      "method": "http",
+      "last_modified": "Sun, 18 Oct 2026 00:31:50 GMT",
+      "etag": "\"1792283510-gzip\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     },
+     {
+      "role_key": "document-1",
+      "role": "document",
+      "label": "Linked document (PDF)",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/document-1.pdf",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "final_url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2126134,
+      "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:02Z",
+      "last_checked": "2026-10-18T00:32:02Z",
+      "method": "http",
+      "last_modified": "Mon, 15 Jun 2026 06:04:49 GMT",
+      "etag": "W/\"207136-654449aa16e20\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     },
+     {
+      "role_key": "document-2",
+      "role": "document",
+      "label": "Linked document (PDF)",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-939308874e/2026-10-18/document-2.pdf",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
+      "final_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 8805977,
+      "sha256": "4bfd65a3a342f1633ef4fcd9f900a6f180cb171884e58612831c23063b599469",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:12Z",
+      "last_checked": "2026-10-18T00:32:12Z",
+      "method": "http",
+      "last_modified": "Thu, 16 Oct 2025 04:37:07 GMT",
+      "etag": "W/\"865e59-6413f2b6a22a8\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.digital.go.jp/resources/standard_guidelines",
+      "attempted_at": "2026-10-18T00:31:51Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "document",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "attempted_at": "2026-10-18T00:32:02Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "document",
+      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ad6c9451/20251016_content_checklist_for_public_relations.pdf",
+      "attempted_at": "2026-10-18T00:32:12Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:49Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/official.html",
+      "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+      "final_url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 56745,
+      "sha256": "644b64dbd163990186a69380b063370441cd4ce4703c97915fb640c174be0f5d",
+      "text_sha256": "3795c23cf3f04f9b207b5e1c67a3d95e5f06d0cc00214a56ba8931d05da10959",
+      "retrieved_at": "2026-10-18T00:31:53Z",
+      "last_checked": "2026-10-18T00:31:53Z",
+      "method": "http",
+      "last_modified": "Fri, 16 Oct 2026 12:41:05 GMT",
+      "etag": "\"1792154465-gzip\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     },
+     {
+      "role_key": "document-1",
+      "role": "document",
+      "label": "Linked document (PDF)",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/document-1.pdf",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "final_url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2126134,
+      "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:05Z",
+      "last_checked": "2026-10-18T00:32:05Z",
+      "method": "http",
+      "last_modified": "Mon, 15 Jun 2026 06:04:49 GMT",
+      "etag": "W/\"207136-654449aa16e20\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     },
+     {
+      "role_key": "document-2",
+      "role": "document",
+      "label": "Linked document (PDF)",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-9bcb7beaaa/2026-10-18/document-2.pdf",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+      "final_url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 3147625,
+      "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:14Z",
+      "last_checked": "2026-10-18T00:32:14Z",
+      "method": "http",
+      "last_modified": "Fri, 19 Jun 2026 06:01:09 GMT",
+      "etag": "W/\"300769-6549504ee91e0\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+      "attempted_at": "2026-10-18T00:31:53Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "document",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "attempted_at": "2026-10-18T00:32:05Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "document",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+      "attempted_at": "2026-10-18T00:32:14Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:50Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-a1c0e322e5/2026-10-18/official.pdf",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+      "final_url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 3147625,
+      "sha256": "dbe4497a86bbd1c9ccd9c9c0ba5483bb8cc20c0b70569f7482cfc9d08e09175f",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:31:58Z",
+      "last_checked": "2026-10-18T00:31:58Z",
+      "method": "http",
+      "last_modified": "Fri, 19 Jun 2026 06:01:09 GMT",
+      "etag": "W/\"300769-6549504ee91e0\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+      "attempted_at": "2026-10-18T00:31:58Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:54Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-13/extra-1b3b03cac3/2026-10-18/official.pdf",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "final_url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2126134,
+      "sha256": "5ec5ca32c913202bf4052674c73930b7b3486e5bfe77f55c9d28e342cf7205ad",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:07Z",
+      "last_checked": "2026-10-18T00:32:07Z",
+      "method": "http",
+      "last_modified": "Mon, 15 Jun 2026 06:04:49 GMT",
+      "etag": "W/\"207136-654449aa16e20\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/47764804/20260612_resources_standard_guidelines_guideline_04.pdf",
+      "attempted_at": "2026-10-18T00:32:07Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-13"
+ },
+ "JP-14": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:14:03Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C019/2026-10-14/official.html",
+     "url": "https://www.ppc.go.jp/news/press/2023/230602kouhou/",
+     "final_url": "https://www.ppc.go.jp/news/press/2023/230602kouhou/",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 40636,
+     "sha256": "5d59d980d38f9fe281ba529a3a5678fdd7f4bd5ad1f3990ba2e2a48384b641a0",
+     "text_sha256": "71ff684fe06be457033357174f0014951975d1943955e10b45ca9b0da89d7787",
+     "retrieved_at": "2026-10-14T13:11:35Z",
+     "last_checked": "2026-10-18T00:14:07Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/JP-14/2026-10-18/document-1.pdf",
+     "url": "https://www.ppc.go.jp/files/pdf/230602_kouhou_houdou.pdf",
+     "final_url": "https://www.ppc.go.jp/files/pdf/230602_kouhou_houdou.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 302238,
+     "sha256": "d5e86ce307b3010700ad838f531050bf83ff4093b5b8ad33ec72d3fae02ce1d6",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-18T00:14:11Z",
+     "last_checked": "2026-10-18T00:14:11Z",
+     "method": "http",
+     "last_modified": "Thu, 01 Jun 2023 09:04:35 GMT",
+     "etag": "W/\"302238-1685610275822\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.ppc.go.jp/news/press/2023/230602kouhou/",
+     "attempted_at": "2026-10-14T13:11:35Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official-rendered",
+     "url": "https://www.ppc.go.jp/news/press/2023/230602kouhou/",
+     "attempted_at": "2026-10-14T13:12:52Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "browser"
+    },
+    {
+     "role": "official",
+     "url": "https://www.ppc.go.jp/news/press/2023/230602kouhou/",
+     "attempted_at": "2026-10-18T00:14:07Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.ppc.go.jp/files/pdf/230602_kouhou_houdou.pdf",
+     "attempted_at": "2026-10-18T00:14:11Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "JP-14"
+ },
+ "JP-15": {
+  "main": {
+   "status": "archived",
+   "flag": "A source changed since the previous snapshot; both versions are kept.",
+   "last_attempt": "2026-10-18T00:14:11Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/official.html",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/jisyuhoan_shiryo.html",
+     "final_url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/jisyuhoan_shiryo.html",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 14304,
+     "sha256": "c60df78e0244445c0e44253681cf40c489feec561e2f450c4d68b718a315f8c0",
+     "text_sha256": "ff4fc8f4849e03177a82815414f86882b1af81292fe6fdeab6d8966381431027",
+     "retrieved_at": "2026-10-14T13:11:38Z",
+     "last_checked": "2026-10-18T00:14:15Z",
+     "method": "http",
+     "last_modified": "Tue, 07 Oct 2025 14:16:04 GMT",
+     "etag": "W/\"d1e5514f303d35d0a02b16978ae657de\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-1.pdf",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_09.pdf",
+     "final_url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_09.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 4238995,
+     "sha256": "d5450d1d743400dde20ac66a489a52955a221863324d23730d1f7f812f5552cc",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:42Z",
+     "last_checked": "2026-10-18T00:14:18Z",
+     "method": "http",
+     "last_modified": "Thu, 09 Oct 2025 08:18:59 GMT",
+     "etag": "W/\"f0e8f79ad8922cca73a3c66594d0f2fb\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/JP-15/2026-10-18/document-2.pdf",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r05/jisyuhoan_shiryo_01.pdf",
+     "final_url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r05/jisyuhoan_shiryo_01.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 423136,
+     "sha256": "1c27c2146dcc51aa32809558b00b79796002fc380b5de0b8c29f1ba6ed194364",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-18T00:14:22Z",
+     "last_checked": "2026-10-18T00:14:22Z",
+     "method": "http",
+     "last_modified": "Thu, 09 Oct 2025 08:19:02 GMT",
+     "etag": "W/\"093db4e105b5b03fd478e98da20f8aa2\"",
+     "changed": true,
+     "previous_sha256": "3a9fd7d85935d8ea54d477ce209117926279d67e453ace0a76608725bb9e3110",
+     "previous_path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C020/2026-10-14/document-2.pdf",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/jisyuhoan_shiryo.html",
+     "attempted_at": "2026-10-14T13:11:38Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_09.pdf",
+     "attempted_at": "2026-10-14T13:11:42Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_01.pdf",
+     "attempted_at": "2026-10-14T13:11:46Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/jisyuhoan_shiryo.html",
+     "attempted_at": "2026-10-18T00:14:15Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_09.pdf",
+     "attempted_at": "2026-10-18T00:14:18Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r05/jisyuhoan_shiryo_01.pdf",
+     "attempted_at": "2026-10-18T00:14:22Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_02.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:31:58Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-888557f052/2026-10-18/official.pdf",
+      "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_02.pdf",
+      "final_url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_02.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 5668121,
+      "sha256": "9b4949aec1222f4159a10cde54f8b565de5b6d14121aad92aa87a4c96c53f1d5",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:04Z",
+      "last_checked": "2026-10-18T00:32:04Z",
+      "method": "http",
+      "last_modified": "Thu, 09 Oct 2025 08:18:58 GMT",
+      "etag": "W/\"97a3f21bf87cd639a8a073a807c3222b\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_02.pdf",
+      "attempted_at": "2026-10-18T00:32:04Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_01.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:32:04Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-15/extra-174ca648f3/2026-10-18/official.pdf",
+      "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_01.pdf",
+      "final_url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_01.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 520355,
+      "sha256": "3a9fd7d85935d8ea54d477ce209117926279d67e453ace0a76608725bb9e3110",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:08Z",
+      "last_checked": "2026-10-18T00:32:08Z",
+      "method": "http",
+      "last_modified": "Thu, 09 Oct 2025 08:18:58 GMT",
+      "etag": "W/\"9d656103e43811759fe88d94dbdf50fb\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/pdf/r03/jisyuhoan_shiryo_03_01.pdf",
+      "attempted_at": "2026-10-18T00:32:08Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-15"
+ },
+ "JP-16": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:14:11Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+     "url": "https://www.mext.go.jp/a_menu/other/mext_02412.html",
+     "final_url": "https://www.mext.go.jp/a_menu/other/mext_02412.html",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 14350,
+     "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+     "text_sha256": "47e473603bbf953ef0560ee452c51ba4aa27539b963867e40fc424207081e7a8",
+     "retrieved_at": "2026-10-14T13:11:39Z",
+     "last_checked": "2026-10-18T00:14:16Z",
+     "method": "http",
+     "last_modified": "Wed, 07 Oct 2026 08:30:05 GMT",
+     "etag": "\"380e-65d3bec0e486d\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-1.pdf",
+     "url": "https://www.mext.go.jp/content/20260330-mxt_shuukyo01-000030823_004.pdf",
+     "final_url": "https://www.mext.go.jp/content/20260330-mxt_shuukyo01-000030823_004.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 2260311,
+     "sha256": "c5e32ad38928a846766deb8a050ae015912edccbf29ab18257d107eb06691149",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:49Z",
+     "last_checked": "2026-10-18T00:14:27Z",
+     "method": "http",
+     "last_modified": "Mon, 13 Apr 2026 01:00:05 GMT",
+     "etag": "\"227d57-64f4d00d8dae6\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-2",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-2.pdf",
+     "url": "https://www.mext.go.jp/content/20250422-mxt_shuukyo01-000030823_001.pdf",
+     "final_url": "https://www.mext.go.jp/content/20250422-mxt_shuukyo01-000030823_001.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 118676,
+     "sha256": "14d61fa559a98909032b7c8ba12e03ccbbfe098b9c272083de3b012f568fb9c2",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:53Z",
+     "last_checked": "2026-10-18T00:14:30Z",
+     "method": "http",
+     "last_modified": "Wed, 23 Apr 2025 11:00:11 GMT",
+     "etag": "\"1cf94-633700150829a\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.mext.go.jp/a_menu/other/mext_02412.html",
+     "attempted_at": "2026-10-14T13:11:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.mext.go.jp/content/20260330-mxt_shuukyo01-000030823_004.pdf",
+     "attempted_at": "2026-10-14T13:11:49Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.mext.go.jp/content/20250422-mxt_shuukyo01-000030823_001.pdf",
+     "attempted_at": "2026-10-14T13:11:53Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.mext.go.jp/a_menu/other/mext_02412.html",
+     "attempted_at": "2026-10-18T00:14:16Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.mext.go.jp/content/20260330-mxt_shuukyo01-000030823_004.pdf",
+     "attempted_at": "2026-10-18T00:14:27Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "https://www.mext.go.jp/content/20250422-mxt_shuukyo01-000030823_001.pdf",
+     "attempted_at": "2026-10-18T00:14:30Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:32:07Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+      "url": "https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf",
+      "final_url": "https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 2471243,
+      "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:28Z",
+      "last_checked": "2026-10-18T00:32:28Z",
+      "method": "http",
+      "last_modified": "Wed, 08 Jan 2025 03:00:54 GMT",
+      "etag": "\"25b54b-62b2911ef9cf8\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf",
+      "attempted_at": "2026-10-18T00:32:28Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.mext.go.jp/zyoukatsu/ai/": {
+    "status": "archived",
+    "flag": "Saved with a headless browser because the plain download looked incomplete.",
+    "last_attempt": "2026-10-18T00:32:08Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-ed90d1ea2d/2026-10-18/official.html",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "final_url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 13119,
+      "sha256": "6fe513c2593cf2c39586db70778c56958418e6dac5e649516e9c24a3b85b4570",
+      "text_sha256": "83d6e855b59170074ff304ea14bebe2375eeed5fe8de710f964180be83ad2abf",
+      "retrieved_at": "2026-10-18T00:32:31Z",
+      "last_checked": "2026-10-18T00:32:31Z",
+      "method": "http",
+      "last_modified": "Tue, 25 Aug 2026 06:54:20 GMT",
+      "etag": "\"333f-659d99275ee4e\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page has very little readable text (358 characters); it probably needs JavaScript",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-rendered",
+      "role": "official-rendered",
+      "label": "Official source, rendered in a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-ed90d1ea2d/2026-10-18/official-rendered.html",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "final_url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 37030,
+      "sha256": "fe5a64949dc3de14aa9848e4ab46108b70ae6a11c448efb6910ab39d0c5a834f",
+      "text_sha256": "15537c4b1a96dddda597142b0288618b471e2826bd890d5990ddd666f340f58f",
+      "retrieved_at": "2026-10-18T00:33:12Z",
+      "last_checked": "2026-10-18T00:33:12Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-print",
+      "role": "official-print",
+      "label": "Official source, printed to PDF by a browser",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-ed90d1ea2d/2026-10-18/official-print.pdf",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "final_url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1491173,
+      "sha256": "a80a2fa3aaa4ffc243f230df6fe570606b858d87ddd759c3c4051850451bdf2b",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:33:12Z",
+      "last_checked": "2026-10-18T00:33:12Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "attempted_at": "2026-10-18T00:32:31Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "official-rendered",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "attempted_at": "2026-10-18T00:33:12Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "browser"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-16"
+ },
+ "JP-17": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:14:13Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C023/2026-10-14/official.pdf",
+     "url": "https://www8.cao.go.jp/cstp/ai/interim_report.pdf",
+     "final_url": "https://www8.cao.go.jp/cstp/ai/interim_report.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 1519651,
+     "sha256": "4d4e73801254a9eb2e59c1e7922031ef827a937a7e484ace965ebe33dd515e22",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-14T13:11:46Z",
+     "last_checked": "2026-10-18T00:14:36Z",
+     "method": "http",
+     "last_modified": "Fri, 21 Feb 2025 02:00:38 GMT",
+     "etag": "\"173023-62e9d5b694d09\"",
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www8.cao.go.jp/cstp/ai/interim_report.pdf",
+     "attempted_at": "2026-10-14T13:11:46Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www8.cao.go.jp/cstp/ai/interim_report.pdf",
+     "attempted_at": "2026-10-18T00:14:36Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://www8.cao.go.jp/cstp/ai/interim_report_en.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T00:32:12Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-17/extra-83038f6280/2026-10-18/official.pdf",
+      "url": "https://www8.cao.go.jp/cstp/ai/interim_report_en.pdf",
+      "final_url": "https://www8.cao.go.jp/cstp/ai/interim_report_en.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 3578812,
+      "sha256": "3bfb1e842e06afa54a34703716f4e95d325fc36ab51050e055d713e4372c5a0b",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T00:32:42Z",
+      "last_checked": "2026-10-18T00:32:42Z",
+      "method": "http",
+      "last_modified": "Fri, 07 Mar 2025 07:01:57 GMT",
+      "etag": "\"369bbc-62fbb32ca4bd0\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www8.cao.go.jp/cstp/ai/interim_report_en.pdf",
+      "attempted_at": "2026-10-18T00:32:42Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   }
+  },
+  "record_id": "JP-17"
+ },
+ "CN-28": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T00:14:14Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/_runs/2026-10-16-discover-leads/C001/2026-10-16/official.html",
+     "url": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+     "final_url": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 115463,
+     "sha256": "562b0de202ab0be7a944cc8ac97fd3bea84836caf3dda982acc1db5b9b1b97c0",
+     "text_sha256": "bc3c6be8b8cce8c2d52851e68a110bae4c11d8823cab29b8e8b159a1fc0cb02f",
+     "retrieved_at": "2026-10-16T11:40:35Z",
+     "last_checked": "2026-10-16T12:01:37Z",
+     "method": "http",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+     "attempted_at": "2026-10-16T11:40:35Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+     "attempted_at": "2026-10-16T12:01:37Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+     "attempted_at": "2026-10-18T00:14:15Z",
+     "ok": false,
+     "http_status": null,
+     "error": "DNS lookup failed, so the site could not be reached from this machine (try another network, or save the document by hand). robots.txt could not be checked, which RFC 9309 treats as 'do not crawl'",
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "CN-28"
+ }
+}

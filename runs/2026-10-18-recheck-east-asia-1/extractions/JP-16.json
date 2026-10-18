@@ -1,0 +1,191 @@
+{
+ "cand_id": "JP-16",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-16",
+ "record": {
+  "notes": "Version 2.0 of 26 Dec 2024 revised the provisional guideline that MEXT published in July 2023 (初等中等教育段階における生成AIの利用に関する暫定的なガイドライン, Ver.1.0), after discussion in a study group on generative AI in primary and secondary education set up in July 2024. MEXT's notices to boards of education on the provisional guideline and on its revision are dated 4 Jul 2023 and 26 Dec 2024. Reference materials include checklists by scenario and examples from generative AI pilot schools. For safety measures by AI developers and providers, the guideline refers to the AI Guidelines for Business and J-AISI's evaluation guide. MEXT's provisional translation is titled 'Guideline for the Use of Generative AI in Elementary and Secondary Education', while MEXT's pages list it as 'Guideline for the Use of Generative AI in Primary and Secondary Education (Ver.2.0)(tentative translation)'.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: MEXT's page on the use of generative AI (mext.go.jp; copy of 14 Oct 2026, unchanged on 18 Oct 2026); the Japanese main text of Ver.2.0 (33 pages, 文部科学省 初等中等教育局, 令和６年 12 月 26 日; copy of 18 Oct 2026); MEXT's English provisional translation (36 pages, 'December 26, 2024', '当翻訳は仮訳であり、正確には原文を参照してください。 Please refer to the original text for accuracy') and the English one-page summary; and MEXT's new site on generative AI in schools (copy of 18 Oct 2026, saved with a headless browser, with updates up to 令和8年7月), to which the first page now points. They confirm the title, the Japanese title, the issuer, Ver.2.0 of 26 December 2024, the provisional guideline of July 2023 (令和 5 年 7 月), the study group, the dates of the notices to boards of education and the content; the summary is checked against the Japanese text, with terms as MEXT's translation renders them. The new site still offers Ver.2.0 as the current guideline, and nothing stored shows a later version or a withdrawal."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "list of documents",
+    "quote": "【英訳：本体】Guideline for the Use of Generative AI in Primary and Secondary Education (Ver.2.0)(tentative translation)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-2.pdf",
+    "sha256": "14d61fa559a98909032b7c8ba12e03ccbbfe098b9c272083de3b012f568fb9c2",
+    "locator": "page 1 (heading)",
+    "quote": "Guideline for the Use of Generative AI in Primary and Secondary Education (Ver.2.0)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-1.pdf",
+    "sha256": "c5e32ad38928a846766deb8a050ae015912edccbf29ab18257d107eb06691149",
+    "locator": "page 1 (cover)",
+    "quote": "Guideline for the Use of Generative AI in Elementary and Secondary Education Ver.2.0",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+    "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+    "locator": "page 1 (cover)",
+    "quote": "初等中等教育段階における 生成 AI の利活用に関するガイドライン 文部科学省 初等中等教育局 令和６年 12 月 26 日 Ver. 2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "section heading",
+    "quote": "初等中等教育段階における生成 AI の利活用に関するガイドライン（Ver.2.0）（令和6年12月26日公表）",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+    "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+    "locator": "page 1 (cover)",
+    "quote": "初等中等教育段階における 生成 AI の利活用に関するガイドライン 文部科学省 初等中等教育局 令和６年 12 月 26 日 Ver. 2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-1.pdf",
+    "sha256": "c5e32ad38928a846766deb8a050ae015912edccbf29ab18257d107eb06691149",
+    "locator": "page 1 (cover)",
+    "quote": "Elementary and Secondary Education Bureau Ministry of Education, Culture, Sports, Science and Technology December 26, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "contact",
+    "quote": "初等中等教育局参事官（デジタル学習基盤担当）付",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+    "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+    "locator": "page 3, はじめに (政府の取組)",
+    "quote": "令和 5 年 7 月に「初等中等教育段階における生成 AI の利用に関する 暫定的なガイドライン （ver1.0）」を公表した。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "section on Ver.2.0",
+    "quote": "令和5年7月に公表した暫定的なガイドラインを基に",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-1.pdf",
+    "sha256": "c5e32ad38928a846766deb8a050ae015912edccbf29ab18257d107eb06691149",
+    "locator": "page 3, Preface (Government initiatives)",
+    "quote": "Technology (MEXT) released in July 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "notices to boards of education",
+    "quote": "(令和5年7月4日)「初等中等教育段階における生成AIの利用に関する暫定的なガイドライン」の 作成について(通知)",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+    "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+    "locator": "page 1 (cover)",
+    "quote": "初等中等教育段階における 生成 AI の利活用に関するガイドライン 文部科学省 初等中等教育局 令和６年 12 月 26 日 Ver. 2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "section on Ver.2.0",
+    "quote": "令和6年12月26日にガイドラインの改訂を行いました。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-1.pdf",
+    "sha256": "c5e32ad38928a846766deb8a050ae015912edccbf29ab18257d107eb06691149",
+    "locator": "page 1 (cover)",
+    "quote": "Elementary and Secondary Education Bureau Ministry of Education, Culture, Sports, Science and Technology December 26, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-ed90d1ea2d/2026-10-18/official-rendered.html",
+    "sha256": "fe5a64949dc3de14aa9848e4ab46108b70ae6a11c448efb6910ab39d0c5a834f",
+    "locator": "MEXT's site on generative AI in schools, guideline section",
+    "quote": "生成AIの利用にあたって （Ver.2.0）（令和6年12月26日公表） 【本体】初等中等教育段階における生成AIの利活用に関するガイドライン（Ver.2.0）（PDF:2.4MB）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+    "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+    "locator": "page 4, ガイドラインの位置付け及び構成",
+    "quote": "今後の技術の進展や学校現場での 取組等の状況を 踏まえ、必要に応じて改訂を行うことを想定している。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/official.html",
+    "sha256": "2d979a4514c12051beee43e456ba32a0fd6660a89176a059262e790864af7d6e",
+    "locator": "section heading",
+    "quote": "初等中等教育段階における生成 AI の利活用に関するガイドライン（Ver.2.0）（令和6年12月26日公表）",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-16/extra-917ebda352/2026-10-18/official.pdf",
+    "sha256": "69644c4a7dbefe0d485d0d7fe6679090310bdb251a58598494f219cf026f4acd",
+    "locator": "page 4, ガイドラインの位置付け及び構成",
+    "quote": "学校現場での生成 AI の利活用を一律に禁止した り義務付けたりするものではない。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C021/2026-10-14/document-1.pdf",
+    "sha256": "c5e32ad38928a846766deb8a050ae015912edccbf29ab18257d107eb06691149",
+    "locator": "page 4, Positioning and structure of the guidelines",
+    "quote": "do not uniformly ban or obligate using generative AI in schools",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the two English renderings MEXT uses for the title (its pages and the cover of its provisional translation) are now noted",
+   "verification.note": "rewritten for this recheck; the Japanese main text and MEXT's new site, stored in this run, are now among the sources"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Ver.2.0, published 26 December 2024, is the version both MEXT's page (copy of 14 Oct 2026) and its new site on generative AI in schools (copy of 18 Oct 2026, news up to 令和8年7月) offer. It is a reference for schools and boards of education that does not uniformly ban or mandate use, so it is non-binding; it is to be revised when necessary. Nothing stored shows a version after 2.0 or a withdrawal. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2023-07 is the provisional guideline (令和 5 年 7 月に…公表; 'released in July 2023'), at the month the official sources give; the notice of 4 July 2023 is in notes. date_last_updated 2024-12-26 is Ver.2.0 (令和６年 12 月 26 日; 'December 26, 2024').",
+  "scope_reasoning": "Mainly guidance on using generative AI in teaching and school administration with safety, privacy and age-restriction safeguards; the existing scope_note is kept.",
+  "summary_check": "Checked against the Japanese text: not a uniform ban or mandate (page 4); human-centred use with human judgement and responsibility (2(1)); the five points ① to ⑤ (pages 10 and 11), including terms of service, age limits and parental consent under ①."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

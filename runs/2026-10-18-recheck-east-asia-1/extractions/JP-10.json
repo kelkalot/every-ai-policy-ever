@@ -1,0 +1,112 @@
+{
+ "cand_id": "JP-10",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-10",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: J-AISI's release page on aisi.go.jp (Japanese and English; copy of 14 Oct 2026, unchanged on 18 Oct 2026), the paper itself (10 pages, English only, cover 'Discussion Paper', 'Japan AI Safety Institute', 'Feb. 2025') and J-AISI's list of Information outputs (copy of 18 Oct 2026), which dates the release 2025年2月7日. They confirm the title, the issuer, the date, the nature as a discussion paper, the fifteen activities, the sources and terms listed for them, the terminology challenges and the content of the summary and notes. The list of outputs shows no later edition of the map, and nothing stored shows a withdrawal."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+    "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+    "locator": "page 1 (cover)",
+    "quote": "AMAIS: Activity Map on AI Safety",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/official.html",
+    "sha256": "0f31dce36981cc4047ab0a7506e9004f8222e23d420f20e0db6c307189f63892",
+    "locator": "release text",
+    "quote": "J-AISI has published \"AMAIS: Activity Map on AI Safety\" as a discussion paper.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+    "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+    "locator": "page 1 (cover)",
+    "quote": "Discussion Paper Japan AI Safety Institute AISI Feb. 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/official.html",
+    "sha256": "0f31dce36981cc4047ab0a7506e9004f8222e23d420f20e0db6c307189f63892",
+    "locator": "release text",
+    "quote": "J-AISI has published \"AMAIS: Activity Map on AI Safety\" as a discussion paper.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-10/extra-cce5ea29b8/2026-10-18/official.html",
+    "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+    "locator": "list of Information outputs",
+    "quote": "AIセーフティに関する活動マップ（AMAIS） AMAIS: Activity Map on AI Safety -2025年2月7日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+    "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+    "locator": "page 1 (cover)",
+    "quote": "Discussion Paper Japan AI Safety Institute AISI Feb. 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+    "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+    "locator": "page 4 (Summary)",
+    "quote": "This paper is a living document to promote international discussions on AI safety.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/official.html",
+    "sha256": "0f31dce36981cc4047ab0a7506e9004f8222e23d420f20e0db6c307189f63892",
+    "locator": "release text",
+    "quote": "AIセーフティに関する活動マップ（AMAIS）を作成しましたのでディスカッションペーパーとして公表いたします。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-10/extra-cce5ea29b8/2026-10-18/official.html",
+    "sha256": "b0cac485f8bbed5d774df5306a71f2a955747f3445e3b027839dcc135a313d14",
+    "locator": "list of Information outputs",
+    "quote": "AIセーフティに関する活動マップ（AMAIS） AMAIS: Activity Map on AI Safety -2025年2月7日",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C015/2026-10-14/document-1.pdf",
+    "sha256": "9f19797df4cadcea4c4ed01239790069114821cd46525cf50388fee3986c81cc",
+    "locator": "page 4 (Summary)",
+    "quote": "This paper does not indicate any activity that should be undertaken by AISIs or other organizations in each country.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; the release day now rests on J-AISI's list of outputs, stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "J-AISI published the paper as a discussion paper and calls it a living document; it says it does not indicate activities that institutes or others should undertake, so it is non-binding. The release page (copy of 14 Oct 2026, unchanged on 18 Oct 2026) still offers it, and J-AISI's list of outputs (copy of 18 Oct 2026, entries up to 6 Oct 2026) shows no newer edition of the map; nothing stored shows a withdrawal. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "J-AISI's list of Information outputs (copy of 18 Oct 2026) dates the release of the map 2025年2月7日; the cover gives 'Feb. 2025', consistent with it. date_published 2025-02-07 stands.",
+  "scope_reasoning": "A discussion paper of the national AI safety institute mapping AI safety activities; it states that it prescribes nothing, so the existing scope_note (discussion paper rather than guidance) is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

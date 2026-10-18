@@ -1,0 +1,110 @@
+{
+ "record": {
+  "english_version": {
+   "kind": "authentic",
+   "url": "https://aisi.go.jp/assets/pdf/ai-irs_v1.0_en.pdf",
+   "by": "Japan AI Safety Institute (J-AISI)"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 1",
+    "quote": "Approach Book for AI Incident Response ~ A Foundation for Trustworthy AI ~",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+    "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+    "locator": "page 1",
+    "quote": "AI インシデントレスポンス・アプローチブック",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "heading",
+    "quote": "AIインシデントレスポンス・アプローチブック 2026年1月9日公表",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/document-1.pdf",
+    "sha256": "dc5ed3714b7f05f1eed8e3c56f7a807d085b0c230978eb7ab2e41acf28202b50",
+    "locator": "page 1",
+    "quote": "January 9, 2026 AI Safety Institute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "body",
+    "quote": "Japan AI Safety Institute has released the AI Incident Response Approach Book",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "body",
+    "quote": "Approach Book for AI Incident Response ,published on 9 January 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/JP-07/extra-923392a0de/2026-10-18/official.pdf",
+    "sha256": "e81c2f2944b0587521ace84c83114289f100fcde40737cad508ff569363d1341",
+    "locator": "page 1",
+    "quote": "令和８年１月 9 日",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "body",
+    "quote": "Japan AI Safety Institute has released the AI Incident Response Approach Book",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C012/2026-10-14/official.html",
+    "sha256": "11528fe0ca3922ee65a376662fc4890585527502a3e3e2877c03642b19144ebd",
+    "locator": "body",
+    "quote": "as a conceptual framework for establishing an AI incident response posture",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Released 9 January 2026; no later version or withdrawal in the stored files. A conceptual framework from the institute, non-binding.",
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "scope_reasoning": "In scope: AI safety institute incident-response framework.",
+  "english_version": "The Japanese edition is now stored (page 1 cover) alongside the English edition; the English edition is listed on the same release page."
+ },
+ "open_questions": [
+  "official_identifier stays null: no citable number appears in the stored files."
+ ],
+ "cand_id": "JP-07",
+ "target_id": "JP-07",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

@@ -1,0 +1,51 @@
+{
+ "cand_id": "CN-25",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The notice is signed 15 Sept 2025 (the quote) and posted 22 Sept 2025; the record uses the signature date, as in the earlier version. Lexis and another source give other days (23 and 15 Sept); the choice of signature date is defensible and the posting date is in the verification note."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Model refusal rate of at least 95% on the should-refuse test bank",
+   "verdict": "supported",
+   "locator": "monitoring section"
+  },
+  {
+   "claim": "Incident classes and four grades from especially major to general",
+   "verdict": "supported",
+   "locator": "grading section"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Searched for a newer edition of the emergency response guide: none found. All quotes matched the stored texts; the fields checked say what the record states. Level B is computed because the day of publication rests on the notice stored as the secondary source."
+}

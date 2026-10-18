@@ -1,0 +1,58 @@
+{
+ "cand_id": "CN-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 4: units doing life-science, medical and AI work in ethics-sensitive areas must set up ethics committees",
+   "verdict": "supported",
+   "locator": "Art. 4"
+  },
+  {
+   "claim": "Annex items 5-7 list human-machine fusion systems, opinion-mobilising algorithms and highly autonomous decision systems",
+   "verdict": "supported",
+   "locator": "Annex items 5-7"
+  },
+  {
+   "claim": "Art. 36: emergency review generally within 72 hours",
+   "verdict": "supported",
+   "locator": "Art. 36"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Not AI-specific; the existing scope_note stays (AI-related review list and parent framework of CN-15)."
+ },
+ "overall": "accept",
+ "note": "Searched for an amendment or repeal of the Measures: nothing found. The search returned the 20 March 2026 MIIT-led Measures for AI Science and Technology Ethics Review and Services (Trial), which is already the register's CN-15 and related to CN-04. All quotes matched the stored texts; the fields checked say what the record states."
+}

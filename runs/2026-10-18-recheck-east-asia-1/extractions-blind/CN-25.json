@@ -1,0 +1,97 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1",
+    "quote": "网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1",
+    "quote": "网络安全标准实践指南 ——生成式人工智能服务安全应急响应指南",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1",
+    "quote": "全国网络安全标准化技术委员会秘书处",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1",
+    "quote": "TC260-PG-202515A",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-25/2026-10-18/secondary.html",
+    "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+    "locator": "notice signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2025年9月15日",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 1",
+    "quote": "全国网络安全标准化技术委员会秘书处 2025 年 9 月",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CN-25/2026-10-18/secondary.html",
+    "sha256": "8da8d09c96fe37e952159516e655ca0c8944ce964db6c88e6c01ba761057dcac",
+    "locator": "notice",
+    "quote": "关于发布《网络安全标准实践指南——生成式人工智能服务安全应急响应指南》的通知",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C009/2026-10-14/official.pdf",
+    "sha256": "35d572a8d8072d21ca6f9cefdfd9316d1fad96f4c1b8f24ca1a53239c71b41cc",
+    "locator": "page 2",
+    "quote": "秘书处组织制定和发布的标准相关技术文件，旨在围绕网络",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Released by notice of 15 Sept 2025 (posted 22 Sept 2025); nothing in the stored files shows withdrawal or replacement. TC260 practice guides are standard-related technical documents, not binding.",
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "scope_reasoning": "In scope: guidance by the national cybersecurity standardisation committee secretariat on generative AI incident response."
+ },
+ "cand_id": "CN-25",
+ "target_id": "CN-25",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

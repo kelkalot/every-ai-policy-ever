@@ -1,0 +1,331 @@
+{
+ "cand_id": "CN-24",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-24",
+ "record": {
+  "notes": "Published 25 Apr 2025 and effective 1 Nov 2025. It is a recommended 'GB/T' national standard, not a mandatory 'GB' one, and SAMR's platform lists a plan for an English-language edition. It takes its definitions of generative AI data annotation and of functional and security annotation from GB/T 45654-2025 (CN-10). It applies to organisers of annotation and can guide data requesters' acceptance checks and third-party security assessments; it also sets assessment methods for each requirement, and its annexes give annotation examples and task types.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Read the SAMR national standards platform page (openstd.samr.gov.cn; stored 14 Oct 2026, unchanged on 18 Oct 2026) and SAMR's standard detail page (std.samr.gov.cn, stored 18 Oct 2026 as the record's secondary source). They confirm the number, the Chinese and English titles, the recommended nature, status 现行 (current), publication on 2025-04-25 and implementation on 2025-11-01, SAMR and SAC as publishers, TC260 as administering committee and a planned English edition. The text of the standard rests on a copy hosted by MLex (secondary), stored again on 18 Oct 2026 (identical to the copy of 14 Oct 2026), whose cover and foreword match these details; the summary and notes follow it. Version 1 found that SAMR's own download link returns the catalogue page. No English text of the standard was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "英文标准名称",
+    "quote": "英文标准名称：Cybersecurity technology—Generative artificial intelligence data annotation security specification",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "standard header",
+    "quote": "Cybersecurity technology—Generative artificial intelligence data annotation security specification 国家标准 推荐性 现行",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 1, cover",
+    "quote": "GB/T 45674—2025 网络安全技术 生成式人工智能数据标注安全规范",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "中文标准名称",
+    "quote": "中文标准名称：网络安全技术 生成式人工智能数据标注安全规范",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 1, cover",
+    "quote": "GB/T 45674—2025 网络安全技术 生成式人工智能数据标注安全规范",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "发布单位",
+    "quote": "发布单位 国家市场监督管理总局、国家标准化管理委员会",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "standard header",
+    "quote": "由TC260（全国网络安全标准化技术委员会）归口 ，主管部门为国家标准委。",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 1, cover",
+    "quote": "2025-04-25发布 2025-11-01实施 国 家 市 场 监 督 管 理 总 局 国 家 标 准 化 管 理 委 员 会 发 布",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 5, foreword",
+    "quote": "本文件由全国网络安全标准化技术委员会(SAC/TC260)提出并归口。",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "标准号",
+    "quote": "标准号：GB/T 45674-2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "基础信息",
+    "quote": "基础信息 标准号 GB/T 45674-2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 1, cover",
+    "quote": "中 华 人 民 共 和 国 国 家 标 准 GB/T 45674—2025",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "发布日期",
+    "quote": "35.030 发布日期 2025-04-25",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "标准状态",
+    "quote": "标准状态 发布于 2025-04-25",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 1, cover",
+    "quote": "2025-04-25发布 2025-11-01实施",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "实施日期",
+    "quote": "实施日期 2025-11-01 主管部门 国家标准委",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "基础信息",
+    "quote": "实施日期 2025-11-01 标准计划 20242097-T-469",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 1, cover",
+    "quote": "2025-04-25发布 2025-11-01实施",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "标准状态",
+    "quote": "data annotation security specification 标准状态： 现行",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "当前标准",
+    "quote": "当前标准 GB/T 45674-2025 现行",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CN-24/2026-10-18/secondary.html",
+    "sha256": "5753c372ba63b283c603ac075603c52513d3108c5f8f6e9fc5eadbd58626eae1",
+    "locator": "standard header",
+    "quote": "国家标准 推荐性 现行 英文版计划",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C008/2026-10-14/official.html",
+    "sha256": "e2ded420a06a7e459ba3283ee168e9810b0b1b10538a3c189e0a193904d8c483",
+    "locator": "标准号",
+    "quote": "标准号：GB/T 45674-2025",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 9, 5 a)",
+    "quote": "a) 应定期对标注平台或系统进行安全评估,发现 潜 在 的 安 全 漏 洞,及 时 进 行 修 复,并 详 细 记 录 漏 洞发现及处置情况。",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 9, 5 d)",
+    "quote": "应提供具有适当区域划定和访问控制的物理环境,以防止未授 权人员进入标注区域",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 9, 6 b)",
+    "quote": "b) 数据标注组织方应分别对功能性数据标注与安 全 性 数 据 标 注 制 定 具 体 的 标 注 规 则",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 10, 6 j)",
+    "quote": "标注过程中安全事件的应急响应和通知机制。",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 10, 7.1 b)",
+    "quote": "组织数据标注人员进行安全考核,给予合格者标注上岗资格",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 11, 7.3 e)",
+    "quote": "e) 在同一项标注任务中,标注执行人员和标注审核人员不应由同一人员承担。",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 11, 8.1 a) and b)",
+    "quote": "风险场景,每种安全风险的安全性标注数据宜不少于200条。 b) 数据标注中的安全性标注比例宜不低于3%。",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 12, 8.3 c)",
+    "quote": "c) 安全性标注质量应满足数据需求方的要求,当未通 过 安 全 性 核 验 的 标 注 数 据 数 量 超 过 安 全 性 标注数据总量的5%时,该批次标注数据应作废。",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 7, 1 范围",
+    "quote": "本文件适用于生成式人工智能数据标注组织方开展训练数据标 注 活 动,并 为 生 成 式 人 工 智 能 数 据 需求方对于数据标注进行检查、验收或第三方机构对数据标注进行安全性评估提供参考。",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 7, 3.3 to 3.5",
+    "quote": "注:以下简称“数据标注”。 [来源:GB/T45654—2025,3.5] 3.4 功能性数据标注 functionaldataannotation 用于训练生成式人工智能模型具备完成特定任务能力的数据标注。 [来源:GB/T45654—2025,3.6]",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/CN-24/extra-de4153162e/2026-10-18/official.pdf",
+    "sha256": "d81530af80696cec166906c094c4ef0da48d30be7d1cc896eb27d435bd3944fc",
+    "locator": "page 3, contents",
+    "quote": "附录 A (资料性) 生成式人工智能数据标注示例",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "removed the remark that GB/T 45654-2025 names this standard as a companion standard: that is a statement about CN-10's text (it stays in CN-10's notes) and no file stored for this record shows it",
+   "verification.note": "rewritten for the files read in this recheck, including the MLex copy of the standard's text stored again for this run; the remark on CSET's translation of an earlier draft is dropped because it rests on no stored file"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "SAMR's platform gives 标准状态 现行 (current), and its detail page (18 Oct 2026) marks the standard 推荐性 (recommended) and 现行, with 实施日期 2025-11-01, before today (18 Oct 2026). The detail page lists no review or repeal (its 上次复审 and 废止 fields are empty in the text). As a recommended GB/T standard it is non-binding, so 'Published (non-binding, current)' stands, as for GB/T 45654-2025 (CN-10).",
+  "date_reasoning": "date_published 2025-04-25 is the 发布日期 on both SAMR pages; date_in_force 2025-11-01 the 实施日期.",
+  "scope_reasoning": "A national technical standard specific to generative AI, on the security of training-data annotation; in scope with no note (AGENTS.md section 10, technical standards).",
+  "summary_reasoning": "The summary and notes are unchanged except for the removed remark on CN-10; every claim in them is quoted under 'summary' and 'notes' from the MLex copy of the standard stored for this run (same SHA-256 as the discover run's copy). The 200-item and 3% figures are 'should' (宜) recommendations, as the summary says; the 5% discard rule is a 'shall' (应)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://content.mlex.com/Attachments/2025-05-23_CZT297CHX8R49J68/SAMR_NSA_GenAI_data_annotation_security_specification.pdf",
+   "reason": "The full text of GB/T 45674-2025 on which the summary and notes rest (scope, definitions taken from GB/T 45654-2025, the 200-item, 3% and 5% figures, assessment methods and annexes). It was stored in the discover run of 14 Oct 2026 but is not one of this record's stored files, so the checker of this run cannot quote it. It is a secondary copy; SAMR's own platform does not offer a storable text."
+  }
+ ],
+ "leads": [
+  {
+   "title": "20264769-T-469 网络安全技术 人工智能深度合成安全规范 (Cybersecurity technology: security specification for AI deep synthesis), national standard plan",
+   "url": null,
+   "seen_in": "archive/CN-24/2026-10-18/secondary.html (std.samr.gov.cn, list 相近标准(计划))",
+   "why": "A planned recommended national standard on AI deep-synthesis security under TC260; a draft for comment may exist."
+  },
+  {
+   "title": "20264764-T-469 网络安全技术 人工智能模型开发安全指南 (Cybersecurity technology: security guide for AI model development), national standard plan",
+   "url": null,
+   "seen_in": "archive/CN-24/2026-10-18/secondary.html (std.samr.gov.cn, list 相近标准(计划))",
+   "why": "A planned national standard on the security of AI model development; a draft for comment may exist."
+  },
+  {
+   "title": "20263724-Z-469, 20263726-Z-469 and 20263725-Z-469 网络安全技术 人工智能应用安全 教育 / 金融 / 应急管理 (AI application security for education, finance and emergency management), guiding technical document plans",
+   "url": null,
+   "seen_in": "archive/CN-24/2026-10-18/secondary.html (std.samr.gov.cn, list 相近标准(计划))",
+   "why": "Planned national guiding technical documents on AI application security by sector; the education one may become the national-standard version of TC260-PG-20269A (CN-21), and finance and emergency management have no record yet."
+  },
+  {
+   "title": "20264763-T-469 网络安全技术 生成式人工智能系统互操作安全规范 (security specification for interoperability of generative AI systems), national standard plan",
+   "url": null,
+   "seen_in": "archive/CN-24/2026-10-18/secondary.html (std.samr.gov.cn, list 相近标准(计划))",
+   "why": "A planned national standard on generative AI system interoperability security."
+  },
+  {
+   "title": "YD/T 6931-2026 人工智能 安全治理 生成式人工智能图像检测服务系统能力要求 (AI safety governance: capability requirements for generative AI image detection service systems), telecommunications industry standard",
+   "url": null,
+   "seen_in": "archive/CN-24/2026-10-18/secondary.html (std.samr.gov.cn, list 相近标准(计划))",
+   "why": "A published industry standard on detecting AI-generated images, under 'AI safety governance'; not in the register."
+  },
+  {
+   "title": "DB43/T 3538-2026 人工智能行业数据标注服务安全规范 (security specification for data annotation services in the AI industry), Hunan provincial local standard",
+   "url": null,
+   "seen_in": "archive/CN-24/2026-10-18/secondary.html (std.samr.gov.cn, list 相近标准(计划))",
+   "why": "A sub-national standard on AI data-annotation security, the local counterpart of GB/T 45674; not in the register."
+  }
+ ],
+ "open_questions": []
+}

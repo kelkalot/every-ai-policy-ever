@@ -1,0 +1,181 @@
+{
+ "cand_id": "CN-22",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-22",
+ "record": {
+  "notes": "Version v1.0-202609, released on 15 Sept 2026 with notice 网安秘字〔2026〕118号 together with the general provisions and the education and audiovisual guides. The guide sets rules for dividing liability between doctors and AI when a system gives a wrong suggestion, and asks that systems be checked for performance across population subgroups; where performance drops markedly for groups such as children or the elderly, use in that group is to be restricted or the lower confidence clearly flagged. The informative annex grades AI applications in health as especially major, major, significant, general or low risk; the top grade has catastrophic and systemic features, and the annex refers to AI Safety Governance Framework 2.0 (CN-13) for grading. Normative references include GB/T 45654 (CN-10), GB 45438 (CN-08), GB/T 45674 (CN-24) and TC260-005, AI Application Ethics Security Guidelines 1.0. Drafting units include the National Health Commission's Statistical Information Center.",
+  "related": [
+   "CN-10",
+   "CN-08",
+   "CN-13",
+   "CN-20",
+   "CN-21",
+   "CN-23",
+   "CN-24"
+  ],
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Read the guide's PDF from tc260.org.cn (version v1.0-202609; stored 14 Oct 2026, and identical when fetched again on 18 Oct 2026) and TC260's release notice 网安秘字〔2026〕118号 (tc260.org.cn, stored 18 Oct 2026 as the record's secondary source). The PDF confirms the title, the number TC260-PG-202610A, the TC260 Secretariat as issuer, the version and the contents; its cover gives only September 2026 (2026年09月), and the day, 15 Sept 2026, comes from the notice, which also lists this guide among the four it releases. The summary follows the Chinese text. No English version was found; the guide's statement reserves translation to the TC260 Secretariat's written authorisation."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 1, cover",
+    "quote": "网络安全标准实践指南 ——人工智能应用安全指引 卫生健康 （v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-22/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice, attachments",
+    "quote": "《网络安全标准实践指南——人工智能应用安全指引 卫生健康》.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202610A 网络安全标准实践指南 ——人工智能应用安全指引 卫生健康",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 1, cover",
+    "quote": "（v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09 月",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 2, foreword",
+    "quote": "是全国网络安全标准化技术委员会 （以下简称 “网安标委” ） 秘书处组织制定和发布的标准相关技术文件",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202610A 网络安全标准实践指南",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-22/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice header",
+    "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CN-22/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026年9月15日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 1, cover",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026 年 09 月",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-202610A 网络安全标准实践指南 ——人工智能应用安全指引 卫生健康 （v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 4, abstract",
+    "quote": "本《实践指南》属于行业领域文件，用于指导各级各类 医疗卫生机构和技术提供方在卫生健康领域开展人工智能 应用活动。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-22/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice title",
+    "quote": "关于发布《人工智能应用安全指引 总则》等4项网络安全标准实践指南的通知 发布时间： 2026-09-15",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 2, foreword",
+    "quote": "是全国网络安全标准化技术委员会 （以下简称 “网安标委” ） 秘书处组织制定和发布的标准相关技术文件，旨在围绕网络 安全法律法规政策、标准、网络安全热点和事件等主题，宣 传网络安全相关标准及知识，提供标准化实践指引。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 6, 1 范围",
+    "quote": "本文件适用于指导各类医疗卫生机构和技术提供方在卫生健康 领域开展人工智能应用活动， 亦可为卫生健康行政部门提供决策参考。",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 6, 2 规范性引用文件",
+    "quote": "GB/T 45654 网络安全技术 生成式人工智能服务安全基本要求 GB/T 45674 网络安全技术 生成式人工智能数据标注安全规范 YY/T 0664 医疗器械软件 软件生存周期过程 TC260-005 人工智能应用伦理安全指引 1.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf",
+    "sha256": "d397731291af8d543a9bfb43d3b816402b0267853141592de27127736ba4e241",
+    "locator": "page 13, 7.2 b)",
+    "quote": "老年人） 中性能显著下降的人工智能应用， 应限制其在该特定 人群中的使用权限或明确提示置信度降低风险。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "added the normative references, among them GB/T 45674 (CN-24), with record IDs; the rule on subgroups now gives both options of clause 7.2 b) (restricted use or a clear warning of lower confidence) instead of restricted use alone",
+   "related": "added CN-24 (GB/T 45674), a normative reference of the guide",
+   "verification.note": "rewritten for the files read in this recheck; the day of publication is now said to rest on the release notice, since the PDF's cover gives only the month"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A TC260 Secretariat practice guide, described in its foreword as a standards-related technical document that gives practical guidance (page 2); it guides medical and health institutions and technology providers and may inform health administrations' decisions (page 6). Released as version v1.0-202609 with the notice of 15 Sept 2026. The PDF fetched again on 18 Oct 2026 is byte-identical to the copy of 14 Oct 2026, and nothing stored shows a later version or a withdrawal, so 'Published (non-binding, current)' and 'Non-binding' stand. It sets no in-force date.",
+  "date_reasoning": "date_published 2026-09-15 is the notice's 发布时间 and signature date; the PDF's cover gives only 2026年09月. The notice was stored in this run as the record's secondary source, so it counts at most as alt-official; version 1 quoted the same notice page (same SHA-256), then stored as a further source of the discover run.",
+  "scope_reasoning": "Security guidance by a government standards body on AI applications in health care, with human oversight, ethics review and a risk grading; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "TC260-005 人工智能应用伦理安全指引 1.0 (AI Application Ethics Security Guidelines 1.0), TC260, May 2026",
+   "url": null,
+   "seen_in": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C005/2026-10-14/official.pdf, page 6 (normative references) and page 25 (references: '人工智能应用伦理安全指引 1.0 2026 年 5 月')",
+   "why": "A TC260 document on the ethics and safety of AI applications that the health guide (and TC260-PG-20267A, CN-27) cite; not in the register."
+  }
+ ],
+ "open_questions": []
+}

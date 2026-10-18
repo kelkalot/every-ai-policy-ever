@@ -1,0 +1,176 @@
+{
+ "cand_id": "CN-20",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CN-20",
+ "record": {
+  "related": [
+   "CN-03",
+   "CN-09",
+   "CN-01",
+   "CN-02",
+   "CN-10",
+   "CN-08",
+   "CN-13",
+   "CN-21",
+   "CN-22",
+   "CN-23",
+   "CN-25",
+   "CN-24",
+   "CN-18"
+  ],
+  "notes": "Version v1.0-202609, released on 15 Sept 2026 with notice 网安秘字〔2026〕118号 together with sector guides for education, health, and radio, TV and network audiovisual services, to address new risks from the fast spread of AI applications. An organisation applying AI in a sector follows this guide and the sector document. The five security grades run from low to especially major security risk, and each party involved must reach a capability maturity level no lower than the application's grade; for grading and maturity assessment the guide refers to national standards on AI application security classification and grading and on AI security capability maturity assessment. Normative references include GB/T 45654-2025 (CN-10), GB 45438-2025 (CN-08), GB/T 45674-2025 (CN-24), GB/T 45652-2025 and TC260-005, AI Application Ethics Security Guidelines 1.0. Because responsibility for AI failures is hard to assign, it encourages arrangements in applications involving personal safety for immediate, unconditional humanitarian relief after major personal-injury accidents.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the guide's PDF (tc260.org.cn, version v1.0-202609, copy of 14 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the number TC260-PG-20268A, the issuer, the month of release (2026 年 09 月) and the contents; and the release notice 网安秘字〔2026〕118号 of 15 Sept 2026 with the four guides attached (tc260.org.cn, the record's secondary source, stored on 18 Oct 2026), which gives the day of release. Stored as the record's secondary source, the notice counts only as alt-official evidence for the date, so the record is at level B; version 1 rested the date on the same notice stored as an official source in run 2026-10-14-discover-leads-2026-10-14, a file that is not among this record's stored files. The summary follows the Chinese text. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 1, cover",
+    "quote": "网络安全标准实践指南 ——人工智能应用安全指引 总则 （v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-20/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice title",
+    "quote": "关于发布《人工智能应用安全指引 总则》等4项网络安全标准实践指南的通知",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CN-20/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice, attachments",
+    "quote": "《网络安全标准实践指南——人工智能应用安全指引 总则》.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-20268A 网络安全标准实践指南",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 1, cover",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026 年 09 月",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-20/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice, signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026年9月15日",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CN-20/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice header",
+    "quote": "发布时间： 2026-09-15 网安秘字〔2026〕118号",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CN-20/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice, signature",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026年9月15日",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 1, cover",
+    "quote": "全国网络安全标准化技术委员会秘书处 2026 年 09 月",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 1, cover",
+    "quote": "TC260-PG-20268A 网络安全标准实践指南 ——人工智能应用安全指引 总则 （v1.0-202609）",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CN-20/2026-10-18/secondary.html",
+    "sha256": "4a4ebaf020f64af32513a71722d21882ded18e56f5fa643ecc4f82506ccf39b0",
+    "locator": "notice",
+    "quote": "本次发布的总则为通用文件，提供通用性安全指导，适用于各行业领域开展人工智能应用活动。",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 2, 前言",
+    "quote": "旨在围绕网络安全法律法规政 策、 标准、 网络安全热点和事件等主题， 宣传网络安全相关标准及 知识，提供标准化实践指引。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 6, clause 1",
+    "quote": "本文件适用于各行业领域组织开展人工智能应用的安全风险防 范与管理，可为有关监管部门和第三方测试评估机构提供参考。",
+    "source_kind": "official"
+   }
+  ],
+  "related": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 6, clause 2",
+    "quote": "GB/T 45674-2025 网络安全技术 生成式人工智能数据标注安全",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C003/2026-10-14/official.pdf",
+    "sha256": "3c280b693b5fededb6f9a81df99c12e27fb707eaae89a60630daff7ceecf9f71",
+    "locator": "page 10, 7.1 d) note",
+    "quote": "注：能力成熟度评估参考我国人工智能安全能力成熟度评估有关国家标 准。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "related": "added CN-24 (GB/T 45674-2025, a normative reference, clause 2) and CN-18 (the draft national standard on AI security capability maturity assessment, the kind of standard clause 7.1 d) refers to for maturity levels)",
+   "notes": "GB/T 45674-2025 linked as CN-24",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "official_identifier",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The PDF is the released version v1.0-202609 with a final number (TC260-PG-20268A), not a draft for comment, and the notice of 15 Sept 2026 announces its release (关于发布). It is a practice guide that gives guidance and a reference for regulators, not a binding rule; nothing stored shows it withdrawn or replaced. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2026-09-15 is the release notice's date (发布时间 and the date under the signature); the PDF's cover gives only September 2026. The notice is stored only as the record's secondary source, so the date rests on alt-official evidence and the record is at level B (version 1 was A because the run that created it stored the same notice as an official source).",
+  "scope_reasoning": "AI-specific security guidance from the national cybersecurity standards committee's secretariat for all sectors; in scope with no note.",
+  "summary": "version 1's summary matches the abstract, principles (6), and clauses 7.1-7.6 and is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The full date of release (2026-09-15) rests on the issuer's own release notice (网安秘字〔2026〕118号), which is stored as the record's secondary source and so counts as alt-official; the guide's PDF gives only September 2026, so the record stays at level B."
+ ]
+}

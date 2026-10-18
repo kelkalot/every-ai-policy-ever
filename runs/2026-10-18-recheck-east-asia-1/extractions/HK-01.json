@@ -1,0 +1,179 @@
+{
+ "cand_id": "HK-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "HK-01",
+ "record": {
+  "notes": "First introduced in 2021 and updated in 2023, according to the Secretary for Innovation, Technology and Industry (30 Oct 2025). Current text is version 2.0 (December 2025), which updated Sections 1 to 5 and Appendices A to D and removed Appendix E. Earlier versions: 1.1 (June 2023), 1.2 (July 2023), 1.3 (August 2023) and 1.4 (July 2024, which replaced 'Office of the Government Chief Information Officer' with 'Digital Policy Office'). The framework was first developed for government bureaux and departments; this version is adapted for general reference by other organisations. Where the Chinese and English versions differ, the English version prevails.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Digital Policy Office's page 'AI and Data Ethics' (digitalpolicy.gov.hk, copy of 11 Oct 2026, re-checked unchanged on 18 Oct 2026), which presents the Ethical AI Framework and links its PDF; the framework PDF, version 2.0 dated December 2025 (copy of 11 Oct 2026, unchanged on 18 Oct 2026), with its amendment history, the 12 Ethical AI Principles, the three lines of defence and the AI Application Impact Assessment reviewed at four stages; and a speech by the Secretary for Innovation, Technology and Industry of 30 Oct 2025 on the bureau's site (itib.gov.hk, 18 Oct 2026), which says the framework was 'first introduced in 2021' and updated in 2023. date_published is set to the year 2021 from that speech, the only stored source that dates the first version; neither the PDF nor the DPO page dates version 1.0, and the amendment history begins with version 1.1 in June 2023. The PDF and page confirm the title, the issuer, the version and its date, the earlier versions and the content of the summary."
+  },
+  "date_published": "2021"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 1 (cover)",
+    "quote": "Digital Policy Office Ethical Artificial Intelligence Framework Version: 2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, heading",
+    "quote": "AI and Data Ethics Ethical Artificial Intelligence Framework",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 1 (cover)",
+    "quote": "Digital Policy Office Ethical Artificial Intelligence Framework Version: 2.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 2, Amendment History, change 4",
+    "quote": "Change “Office of the Government Chief Information Officer” to “Digital Policy Office”",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 1 (cover)",
+    "quote": "Version: 2.0 December 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 2, Amendment History, change 5",
+    "quote": "Removed Appendix E Section 1-5, Appendix A-D 2.0 December 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/HK-01/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Ethical Artificial Intelligence Framework",
+    "quote": "Click here to download PDF file of the Ethical AI Framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 1 (cover)",
+    "quote": "Version: 2.0 December 2025",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/HK-01/2026-10-11/official.html",
+    "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+    "locator": "AI and Data Ethics, Ethical Artificial Intelligence Framework, second paragraph",
+    "quote": "this version of framework is suitably revised (e.g. removal or adjustment of government specific terms) for general reference by organisations when adopting AI and big data analytics in their IT projects",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 15, 1.3",
+    "quote": "Ethical AI Framework is defined not only to serve as a reference/guide for the IT project team during the development and maintenance proces s.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+    "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+    "locator": "speech of 30 Oct 2025, paragraph on AI governance",
+    "quote": "One of the cornerstones is the Ethical Artificial Intelligence Framework, first introduced in 2021, which covers 12 core principles",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+    "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+    "locator": "speech of 30 Oct 2025, paragraph on AI governance",
+    "quote": "To keep up with the evolving AI landscape, the updated version introduced in 2023 further sharpened its relevance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 2, Amendment History",
+    "quote": "Updated the references in Appendix E Appendix E 1.2 July 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 2, note",
+    "quote": "In the event of any discrepancies between the Chinese and English versions of this document, please refer to the English version and notify the Digital Policy Office.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 6, 1.2",
+    "quote": "The Ethical AI Framework was originally developed to assist government bureaux/departments (“B/Ds”) in planning, designing and implementing AI and big data analytics in their IT projects and services.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 9, AI Governance",
+    "quote": "The third line of defence is responsible for reviewing, advising and monitoring of high-risk AI applications.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HK-01/2026-10-11/document-2.pdf",
+    "sha256": "a0ec7fa02e162e73f7f10939896815425e49e80ef29cacf770bb8de370eecf0b",
+    "locator": "page 14, AI Application Impact Assessment",
+    "quote": "the associated AI Application Impact Assessment should be reviewed at 4 key stages of the AI Lifecycle",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-east-asia-1/HK-01/extra-1795ddfabb/2026-10-18/official.html",
+    "sha256": "74be7ed203f9cc3886a7a614b26db4fb37c7a1362d9ff5d34a1a70e9dd7f5e39",
+    "locator": "speech of 30 Oct 2025, paragraph on AI governance",
+    "quote": "One of the cornerstones is the Ethical Artificial Intelligence Framework, first introduced in 2021, which covers 12 core principles",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "was null; the Secretary for Innovation, Technology and Industry's speech of 30 Oct 2025 says the framework was 'first introduced in 2021', so the year is recorded at that precision",
+   "notes": "the year of first introduction and the 2023 update added from the speech; the remark that the release date of version 1.0 is left null concerns the record and was removed; version 2.0's changes, the adaptation for general use and the English-prevails clause added from the PDF",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The DPO page (re-checked unchanged on 18 Oct 2026; 'Last Revision Date: 30/06/2026') presents the framework and links version 2.0 of December 2025, the latest entry of the amendment history. The framework is guidance with principles, practices and an assessment template for government projects, offered for general reference to other organisations; it is not legislation. Nothing stored shows a later version or withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "date_published '2021' rests on the Secretary for Innovation, Technology and Industry's speech on the bureau's site ('first introduced in 2021'); it gives only the year, so only the year is recorded (rule 7b). The PDF says the framework was originally developed for government bureaux and departments but does not date that first version; its amendment history begins with version 1.1 in June 2023. date_last_updated 2025-12 is version 2.0's date, which the PDF gives only as 'December 2025'.",
+  "scope_reasoning": "A government ethical AI framework with principles, governance and an impact assessment for AI projects; in scope with no note. It began as guidance for government bureaux, but this version is published for general reference, so it is not an internal circular.",
+  "summary_reasoning": "The summary was checked against version 2.0 (twelve principles, two of them performance principles; IT Board or CIO as third line for high-risk applications; impact assessment reviewed at four stages) and is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

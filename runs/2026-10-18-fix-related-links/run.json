@@ -1,0 +1,10 @@
+{
+ "run_id": "2026-10-18-fix-related-links",
+ "type": "fix",
+ "scope": ["all records"],
+ "started": "2026-10-18",
+ "stages": {"fix": {"tool": "Claude Code", "model": "claude-opus-5-5", "date": "2026-10-18", "tokens": 0}},
+ "steps": [{"step": "merge", "who": "script", "do": "python3 tools/merge.py runs/2026-10-18-fix-related-links/pass.json --dry-run, then without --dry-run; python3 tools/build.py"},
+           {"step": "gate", "who": "script", "do": "python3 tools/gate.py"}],
+ "status": "merged"
+}

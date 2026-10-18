@@ -1638,6 +1638,97 @@
       "PH-01"
      ],
      "history_events": 9
+    },
+    {
+     "date": "2026-10-18",
+     "agent": "Claude Code",
+     "model": "claude-opus-5-5",
+     "run_id": "2026-10-18-fix-related-links",
+     "scope": "make every related link two-way (one-way links from version 1); script, no agent judgment",
+     "records_added": 0,
+     "ids": [],
+     "ids_updated": [
+      "ASEAN-01",
+      "ASEAN-02",
+      "AUS-06",
+      "BJ-01",
+      "CA-01",
+      "CA-08",
+      "CL-01",
+      "CN-01",
+      "CN-03",
+      "CN-11",
+      "CN-13",
+      "CN-14",
+      "CN-24",
+      "CN-26",
+      "COE-01",
+      "COE-02",
+      "EU-02",
+      "EU-03",
+      "EU-10",
+      "EU-14",
+      "EU-18",
+      "G7-01",
+      "G7-02",
+      "GB-03",
+      "GB-04",
+      "GB-07",
+      "GB-08",
+      "IN-02",
+      "INT-01",
+      "INT-02",
+      "INT-04",
+      "INT-06",
+      "INT-09",
+      "INT-10",
+      "INT-11",
+      "INT-13",
+      "INT-14",
+      "JP-01",
+      "JP-02",
+      "JP-05",
+      "KR-01",
+      "KR-06",
+      "KZ-01",
+      "MY-01",
+      "OECD-01",
+      "OECD-02",
+      "SG-04",
+      "SN-01",
+      "UN-01",
+      "UN-02",
+      "UN-05",
+      "UN-07",
+      "UNESCO-01",
+      "US-02",
+      "US-04",
+      "US-05",
+      "US-06",
+      "US-08",
+      "US-09",
+      "US-11",
+      "US-12",
+      "US-14",
+      "US-15",
+      "US-16",
+      "US-20",
+      "US-23",
+      "US-24",
+      "US-25",
+      "US-26",
+      "US-CA-04",
+      "US-CA-05",
+      "US-CA-06",
+      "US-CO-02",
+      "US-IL-02",
+      "US-NY-01",
+      "US-UT-01",
+      "UY-01",
+      "UZ-01",
+      "VN-01"
+     ],
+     "history_events": 79
     }
    ]
   }
@@ -1689,6 +1780,14 @@
     {
      "slug": "international-ai-safety-report-2025",
      "id": "INT-09"
+    },
+    {
+     "id": "INT-06",
+     "slug": "frontier-ai-safety-commitments"
+    },
+    {
+     "id": "INT-07",
+     "slug": "seoul-ministerial-statement"
     }
    ],
    "notes": "Published on 11 February 2025, the second day of the AI Action Summit, held in Paris on 10 and 11 February 2025. The signatory list names 63 countries, the African Union Commission and the EU; the United States and the United Kingdom are not on it. A footnote limits the statement to civil applications and use of AI. Founding members launched a Public Interest AI Platform and Incubator under it. The International AI Safety Report 2025 (INT-09) was published ahead of the summit.",
@@ -1845,6 +1944,14 @@
     {
      "slug": "international-ai-safety-report-2026",
      "id": "INT-10"
+    },
+    {
+     "id": "BRICS-02",
+     "slug": "brics-new-delhi-declaration-2026-ai"
+    },
+    {
+     "id": "IN-02",
+     "slug": "india-ai-governance-guidelines"
     }
    ],
    "notes": "The declaration is headed 'AI Impact Summit Declaration, New Delhi (February 18 - 19, 2026)', and its preamble says the participants gathered in New Delhi on 19 February 2026; the European Commission announced on 20 February 2026 that the EU would endorse it, and the Australian government gives the summit as 19 and 20 February 2026, so only the month is given. The Commission calls it the Leaders' Declaration at the AI Impact Summit, the Australian government the India AI Impact Summit Declaration. The endorsement list published with the text names 89 endorsers: 87 countries, among them the USA, China, India, Russia and the UK, plus the EU and IFAD. Under its pillars the declaration takes note of voluntary deliverables, among them the Charter for the Democratic Diffusion of AI, the Global AI Impact Commons, the Trusted AI Commons and its guidance note, the International Network of AI for Science Institutions and the Voluntary Guiding Principles on Resilient, Innovative, and Efficient Artificial Intelligence.",
@@ -2083,6 +2190,10 @@
     {
      "slug": "hiroshima-process-code-of-conduct",
      "id": "G7-02"
+    },
+    {
+     "id": "INT-01",
+     "slug": "paris-ai-action-summit-statement"
     }
    ],
    "notes": "Agreed at the Leaders' Session of the AI Seoul Summit on 21 May 2024. The summit, co-hosted by the UK and the Republic of Korea on 21 and 22 May 2024, built on the AI Safety Summit at Bletchley Park (INT-03). The Seoul Statement of Intent toward International Cooperation on AI Safety Science (INT-05) is annexed to it. It looks forward to the third gathering, the AI Action Summit in France (INT-01).",
@@ -2413,6 +2524,10 @@
     {
      "slug": "paris-ai-action-summit-statement",
      "id": "INT-01"
+    },
+    {
+     "id": "GB-02",
+     "slug": "uk-emerging-processes-frontier-ai-safety-2023"
     }
    ],
    "notes": "The UK and Republic of Korea governments announced the first 16 signatories: Amazon, Anthropic, Cohere, Google, G42, IBM, Inflection AI, Meta, Microsoft, Mistral AI, Naver, OpenAI, Samsung Electronics, Technology Innovation Institute, xAI and Zhipu.ai. Magic, Minimax, 01.ai and NVIDIA were added on 7 February 2025, making 20. Signatories undertook to publish a safety framework focused on severe risks by the next AI summit, in France (the AI Action Summit, INT-01), and to provide public updates if their approaches to the three outcomes change.",
@@ -2741,6 +2856,10 @@
     {
      "slug": "cambodia-draft-national-ai-strategy-2025-2030",
      "id": "KH-01"
+    },
+    {
+     "id": "MY-01",
+     "slug": "malaysia-national-guidelines-ai-governance-ethics"
     }
    ],
    "notes": "Endorsed at the 4th ASEAN Digital Ministers' Meeting (ADGMIN) in Singapore on 1-2 February 2024, which also welcomed the recommendation to set up a Working Group on AI Governance under ADGSOM, including initial work on generative AI. Adoption is voluntary; the guide does not replace or supersede existing or upcoming laws and is meant to be a living document reviewed by ASEAN sectoral bodies. Annex A gives an AI risk impact assessment template and Annex B six use cases. Supplemented by the Expanded ASEAN Guide on AI Governance and Ethics – Generative AI (ASEAN-02), a separate publication rather than a new version of this guide.",
@@ -2837,6 +2956,14 @@
     {
      "slug": "asean-guide-ai-governance-ethics",
      "id": "ASEAN-01"
+    },
+    {
+     "id": "KH-01",
+     "slug": "cambodia-draft-national-ai-strategy-2025-2030"
+    },
+    {
+     "id": "SG-04",
+     "slug": "singapore-model-ai-governance-framework-generative-ai"
     }
    ],
    "notes": "Welcomed by the 5th ASEAN Digital Ministers' Meeting (ADGMIN) in Bangkok on 16-17 January 2025, which also welcomed the establishment of the Working Group on AI Governance (WG-AI). The guide was developed collaboratively by all ASEAN member states, which are recommended to apply its recommendations on a voluntary basis; nothing in it changes any party's legal obligations or rights. It supplements the ASEAN Guide on AI Governance and Ethics published in February 2024 (ASEAN-01), which covers traditional AI technologies, and illustrates its recommendations with four use cases (PhoGPT, Project Moonshot, ThaiLLM and Accenture's Responsible AI programme).",
@@ -3209,6 +3336,18 @@
     {
      "slug": "eu-ai-act",
      "id": "EU-03"
+    },
+    {
+     "id": "CH-01",
+     "slug": "ch-federal-council-ai-regulation-approach-2025"
+    },
+    {
+     "id": "NO-02",
+     "slug": "no-ai-act-draft-ki-loven"
+    },
+    {
+     "id": "UA-01",
+     "slug": "ua-ai-regulation-roadmap-2023"
     }
    ],
    "notes": "Adopted by the Council of Europe Committee of Ministers on 17 May 2024 and opened for signature in Vilnius on 5 September 2024; the English and French texts are equally authentic. Under Article 30 it enters into force on the first day of the month after a three-month period following the date on which five signatories, at least three of them Council of Europe member States, have consented to be bound. The EU signed on 5 September 2024 and approved the Convention by Council Decision (EU) 2026/1080 of 21 April 2026, after the European Parliament's consent of 11 March 2026; the text was published in the EU Official Journal on 13 May 2026 (OJ L, 2026/1081), and the EU declared that it applies the Convention to private actors through the AI Act. EUR-Lex gives the date of entry into force as unknown (pending notification) or not yet in force. Parties need not apply it to activities protecting their national security interests. A Conference of the Parties follows its implementation, and each Party reports to it within two years of becoming a Party.",
@@ -3311,6 +3450,10 @@
     {
      "slug": "coe-framework-convention-ai",
      "id": "COE-01"
+    },
+    {
+     "id": "SI-02",
+     "slug": "si-national-ai-strategy-2030-nsui"
     }
    ],
    "notes": "The CAI adopted the HUDERIA Methodology at its 12th plenary meeting on 26-28 November 2024, and the HUDERIA Model's Context Based Risk Analysis (COBRA) Resources (CAI(2025)6rev2, dated 5 November 2025) at its 14th plenary meeting on 3-5 November 2025; the Commission's note forwarding the Model to the Council gives 6 November 2025 as the date of that adoption. The Methodology was adopted first, and the detailed supporting material (questionnaires, problematic uses, methodological guidance) was postponed to 2025 as the Model. Council of Europe Publishing issued both parts together in 2026 as 'HUDERIA - Methodology and Model', in English and French. The CAI's work on HUDERIA was to continue in its successor committee, the Steering Committee on New and Emerging Technologies (CDNET).",
@@ -3424,6 +3567,14 @@
     {
      "slug": "oecd-recommendation-ai",
      "id": "OECD-01"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "G7-06",
+     "slug": "g7-leaders-call-safer-digital-space-minors-2026"
     }
    ],
    "notes": "Welcomed by the G7 Leaders in their Statement on the Hiroshima AI Process of 30 Oct 2023, together with the Code of Conduct (G7-02); the statement says that both documents will be reviewed and updated as necessary and instructs ministers to develop the Hiroshima AI Process Comprehensive Policy Framework by the end of 2023. That framework (G7-03, Dec 2023) includes the 'Hiroshima Process International Guiding Principles for All AI Actors', which apply the 11 principles to all AI actors and add a 12th, on promoting the trustworthy and responsible use of advanced AI systems.",
@@ -3556,6 +3707,18 @@
     {
      "slug": "seoul-declaration",
      "id": "INT-04"
+    },
+    {
+     "id": "G7-03",
+     "slug": "hiroshima-ai-process-comprehensive-policy-framework"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "INT-20",
+     "slug": "hiroshima-ai-process-friends-group-action-plan-2026"
     }
    ],
    "notes": "Welcomed by the G7 Leaders in their Statement on the Hiroshima AI Process of 30 Oct 2023, which calls on organisations developing advanced AI systems to commit to applying the Code and says it will be reviewed and updated as necessary. The Code is part of the Hiroshima AI Process Comprehensive Policy Framework (G7-03). Organisations report on how they apply it through the OECD's HAIP Reporting Framework (OECD-02), launched in February 2025; G7 digital ministers commended a revised Reporting Framework in May 2026 (G7-04). The Seoul Declaration of May 2024 (INT-04) says its signatories continue to focus on supporting the operationalisation of the Code.",
@@ -4189,6 +4352,14 @@
     {
      "slug": "paris-ai-action-summit-statement",
      "id": "INT-01"
+    },
+    {
+     "id": "INT-05",
+     "slug": "seoul-statement-of-intent-ai-safety-science"
+    },
+    {
+     "id": "SG-07",
+     "slug": "singapore-consensus-ai-safety-research-priorities"
     }
    ],
    "notes": "Published ahead of the AI Action Summit in Paris in February 2025, following the interim report of May 2024 (INT-08), which was presented at the AI Seoul Summit. A Chair's note covers AI advances between the end of the writing period (5 December 2024) and publication, notably early test results of OpenAI's o3 model. The UK Government said it would keep providing the secretariat until a long-term international home was agreed, with Yoshua Bengio as chair for 2025. Two Key Updates followed as separate publications: 'First Key Update: Capabilities and Risk Implications' (15 October 2025) and 'Second Key Update: Technical Safeguards and Risk Management' (25 November 2025). The second edition, the International AI Safety Report 2026 (INT-10), followed on 3 February 2026. The PDF's back page prints the research series number as DSIT 2024/000; its front matter and the website give DSIT 2025/001.",
@@ -4452,6 +4623,10 @@
     {
      "slug": "un-scientific-panel-preliminary-report",
      "id": "UN-08"
+    },
+    {
+     "id": "INT-08",
+     "slug": "international-scientific-report-safety-advanced-ai-interim"
     }
    ],
    "notes": "Published on 3 February 2026 as the second edition of the report series created after the 2023 AI Safety Summit at Bletchley Park; the UK minister's foreword says it would be showcased at the India AI Impact Summit. Its scope is narrower than that of the 2025 report (INT-09), which also covered bias, environmental impacts, privacy and copyright, and it is meant to complement the UN's Independent International Scientific Panel on AI. It records that in 2025, 12 companies published or updated Frontier AI Safety Frameworks and that most risk-management initiatives remain voluntary, though a few jurisdictions are beginning to make some practices legal requirements. Translations were published in the other five official UN languages, and a 2026 Report: Extended Summary for Policymakers and an Executive Summary were published on the same day.",
@@ -4713,6 +4888,22 @@
     {
      "slug": "us-caisi",
      "id": "US-15"
+    },
+    {
+     "id": "AUS-07",
+     "slug": "australia-ai-safety-institute"
+    },
+    {
+     "id": "IN-01",
+     "slug": "india-indiaai-safety-institute"
+    },
+    {
+     "id": "INT-19",
+     "slug": "five-country-ministerial-communique-2026-ai"
+    },
+    {
+     "id": "SG-03",
+     "slug": "singapore-ai-safety-institute"
     }
    ],
    "notes": "Launched at the Network's inaugural convening in San Francisco, co-hosted by the US Departments of Commerce and State, with the United States as inaugural chair. The US fact sheet released on 20 November 2024 says the ten initial members agreed the joint mission statement ahead of the convening; the statement's own text dates the launch meeting 21 November 2024. The statement builds on the Seoul Statement of Intent of 21 May 2024 (INT-05). At a meeting in San Diego alongside NeurIPS in December 2025, hosted by NIST's Center for AI Standards and Innovation (CAISI), through which the US takes part, the Network was renamed the International Network for Advanced AI Measurement, Evaluation and Science, and the United Kingdom took on the role of Network Coordinator (announced 9 December 2025). On 13 February 2026 the Network published consensus areas and open questions on practices for automated evaluations. In July 2026, at a meeting in Seoul alongside ICML, it completed its first best-practice guidance document. At their meeting in Paris on 29 May 2026 the G7 digital ministers agreed to start discussions under France's G7 presidency, including members of the Network and the OECD, on the comparability of AI risk-assessment frameworks (G7-04).",
@@ -5093,6 +5284,38 @@
     {
      "slug": "haip-reporting-framework",
      "id": "OECD-02"
+    },
+    {
+     "id": "AR-01",
+     "slug": "ar-disposicion-2-2023-recomendaciones-ia-fiable"
+    },
+    {
+     "id": "EG-01",
+     "slug": "eg-charter-for-responsible-ai-2023"
+    },
+    {
+     "id": "G20-01",
+     "slug": "g20-johannesburg-leaders-declaration-2025-ai"
+    },
+    {
+     "id": "G20-02",
+     "slug": "g20-innovation-ministerial-statement-2026"
+    },
+    {
+     "id": "INT-20",
+     "slug": "hiroshima-ai-process-friends-group-action-plan-2026"
+    },
+    {
+     "id": "NZ-01",
+     "slug": "new-zealand-public-service-ai-framework"
+    },
+    {
+     "id": "UNESCO-01",
+     "slug": "unesco-recommendation-ethics-ai"
+    },
+    {
+     "id": "ZM-01",
+     "slug": "zm-national-ai-strategy-2024-2026"
     }
    ],
    "notes": "Adopted on 22 May 2019 (C(2019)34). On 8 November 2023 the Council revised the definition of 'AI system'; on 3 May 2024 the Council meeting at Ministerial level revised the Recommendation to address misinformation and information integrity in the context of generative AI, uses outside the intended purpose and misuse, and the safe override and decommissioning of AI systems. The Compendium lists no later amendment. The G20 AI Principles, welcomed at the Osaka Summit in June 2019, were drawn from it. The Compendium lists the 38 OECD members, 12 non-members (most recently Cambodia and Croatia, on 15 May 2026) and the European Union as Adherents; the OECD.AI overview page gives 47 adherents.",
@@ -5321,6 +5544,18 @@
     {
      "slug": "oecd-recommendation-ai",
      "id": "OECD-01"
+    },
+    {
+     "id": "G7-03",
+     "slug": "hiroshima-ai-process-comprehensive-policy-framework"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "INT-20",
+     "slug": "hiroshima-ai-process-friends-group-action-plan-2026"
     }
    ],
    "notes": "Launched on 7 February 2025 as an outcome of the G7 Hiroshima AI Process, after the G7 Digital and Tech Working Group under the Italian Presidency, following the Trento Declaration, asked the OECD to develop mechanisms for monitoring voluntary adoption of the Code. The OECD counts 25 reports in the first round, analysed in its 2025 report 'How are AI developers managing risks?'; MIC Japan's HAIP site says the first responses, from 19 companies, were published in April 2025. Version 2.0, launched on 28 May 2026 at a Tech7 event in Paris on the margins of the G7 Digital and Tech Ministerial under the French Presidency, distinguishes model developers, application developers and deployers and is simplified for small and medium enterprises; 31 reports under it were published on 2 October 2026. Organisations must be based in an OECD member, a GPAI member or an Adherent to the OECD Recommendation on AI.",
@@ -5487,6 +5722,18 @@
     {
      "slug": "reaim-2026-pathways-to-action",
      "id": "INT-18"
+    },
+    {
+     "id": "INT-16",
+     "slug": "reaim-2024-blueprint-for-action"
+    },
+    {
+     "id": "UN-01",
+     "slug": "unga-78-241-lethal-autonomous-weapons"
+    },
+    {
+     "id": "UN-10",
+     "slug": "unga-resolution-79-239-ai-military-domain"
     }
    ],
    "notes": "The text holds ten measures (A to J) for the development, deployment and use of military AI capabilities. Endorsing states undertake to implement the measures, make their commitment public and release information on implementation, support other efforts for responsible and lawful use, continue discussions among themselves, refine the measures or add new ones, and engage the rest of the international community, without prejudice to discussions in other fora. The declaration defines AI as the ability of machines to perform tasks that would otherwise require human intelligence, and autonomy as a spectrum involving a system operating without further human intervention after activation.",
@@ -5628,6 +5875,14 @@
     {
      "slug": "reaim-2026-pathways-to-action",
      "id": "INT-18"
+    },
+    {
+     "id": "NATO-01",
+     "slug": "nato-revised-ai-strategy-2024"
+    },
+    {
+     "id": "UN-10",
+     "slug": "unga-resolution-79-239-ai-military-domain"
     }
    ],
    "notes": "Agreed at the first REAIM summit, held at the World Forum in The Hague on 15-16 February 2023, organised by the Dutch foreign and defence ministries and co-hosted by South Korea, with some 2,000 delegates. The text has 25 numbered paragraphs: sixteen on shared understandings of the opportunities and risks of military AI, followed by the call to action proper (paragraphs 17 to 25), which asks states, the private sector, academia and civil society to build knowledge, exchange good practices and continue a multi-stakeholder dialogue, and ends by inviting all stakeholders worldwide to join it. The government's list of endorsing countries and territories (published 4 April 2025) names 58, among them China, the United States, the Netherlands and the Republic of Korea. The summit also announced a Global Commission on AI in the military domain. Later REAIM summits produced the Blueprint for Action (Seoul, 2024; INT-16) and the 2026 Pathways to Action (INT-18), which builds on both.",
@@ -5833,6 +6088,42 @@
     {
      "slug": "oecd-recommendation-ai",
      "id": "OECD-01"
+    },
+    {
+     "id": "AR-01",
+     "slug": "ar-disposicion-2-2023-recomendaciones-ia-fiable"
+    },
+    {
+     "id": "GH-01",
+     "slug": "gh-national-ai-strategy-2025-2035"
+    },
+    {
+     "id": "INT-17",
+     "slug": "lac-montevideo-declaration-2024"
+    },
+    {
+     "id": "JM-01",
+     "slug": "jm-national-ai-task-force-policy-recommendations"
+    },
+    {
+     "id": "JO-01",
+     "slug": "jo-national-ai-code-of-ethics-2022"
+    },
+    {
+     "id": "PK-01",
+     "slug": "pakistan-national-ai-policy-2025"
+    },
+    {
+     "id": "RS-01",
+     "slug": "rs-ethical-guidelines-reliable-and-responsible-ai-2023"
+    },
+    {
+     "id": "SN-01",
+     "slug": "sn-national-ai-strategy-roadmap-2023"
+    },
+    {
+     "id": "ZM-01",
+     "slug": "zm-national-ai-strategy-2024-2026"
     }
    ],
    "notes": "Adopted on 23 Nov 2021 at the 41st session of the General Conference, meeting in Paris from 9 to 24 Nov 2021; UNESCO says its 193 Member States adopted it. The General Conference mandated its preparation in November 2019 by 40 C/Resolution 37. To support implementation, the Recommendation commits UNESCO to develop a readiness assessment methodology and a methodology for ethical impact assessment of AI technologies.",
@@ -5998,6 +6289,10 @@
     {
      "slug": "unga-resolution-80-58-ai-military-domain",
      "id": "UN-11"
+    },
+    {
+     "id": "INT-14",
+     "slug": "reaim-2023-call-to-action"
     }
    ],
    "notes": "The follow-up resolution on lethal autonomous weapons systems of December 2024 is UN-06. Discussions on these systems continue in the Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems under the Convention on Certain Conventional Weapons. In his 2023 New Agenda for Peace the Secretary-General recommended that States conclude, by 2026, a legally binding instrument to prohibit lethal autonomous weapon systems that function without human control or oversight and to regulate all other types of autonomous weapons systems.",
@@ -6168,6 +6463,10 @@
     {
      "slug": "global-digital-compact",
      "id": "UN-05"
+    },
+    {
+     "id": "UN-13",
+     "slug": "un-global-dialogue-ai-governance-2026-co-chairs-summary"
     }
    ],
    "notes": "Introduced by the United States and co-sponsored by more than 120 Member States; adopted without a vote on 21 March 2024. The second General Assembly resolution on AI that year, 78/311 of 1 July 2024 on capacity-building, is UN-03; both are recalled in resolution 79/325 of 26 August 2025 (UN-07).",
@@ -6571,6 +6870,26 @@
     {
      "slug": "un-hlab-governing-ai-for-humanity",
      "id": "UN-04"
+    },
+    {
+     "id": "BRICS-01",
+     "slug": "brics-leaders-statement-global-governance-ai-2025"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "UN-02",
+     "slug": "unga-78-265-safe-secure-trustworthy-ai"
+    },
+    {
+     "id": "UN-03",
+     "slug": "unga-78-311-ai-capacity-building"
+    },
+    {
+     "id": "UN-13",
+     "slug": "un-global-dialogue-ai-governance-2026-co-chairs-summary"
     }
    ],
    "notes": "Adopted at the Summit of the Future on 22 September 2024. Resolution 79/1 contains the Pact for the Future with two annexes, the Global Digital Compact (annex I) and the Declaration on Future Generations; the Compact's text was circulated before adoption as part of draft A/79/L.2. The terms of reference of the Scientific Panel and the Global Dialogue that the Compact committed to were set by General Assembly resolution 79/325 of 26 August 2025 (UN-07). The Compact provides for a high-level review during the General Assembly's 82nd session.",
@@ -6953,6 +7272,18 @@
     {
      "slug": "un-global-dialogue-ai-governance-2026-co-chairs-summary",
      "id": "UN-13"
+    },
+    {
+     "id": "BRICS-01",
+     "slug": "brics-leaders-statement-global-governance-ai-2025"
+    },
+    {
+     "id": "G20-01",
+     "slug": "g20-johannesburg-leaders-declaration-2025-ai"
+    },
+    {
+     "id": "INT-01",
+     "slug": "paris-ai-action-summit-statement"
     }
    ],
    "notes": "Adopted by consensus at the 89th plenary meeting on 26 August 2025, without reference to a Main Committee (draft A/79/L.118, negotiated in a process co-facilitated by Costa Rica and Spain); the document is dated 27 August 2025. It sets the terms of reference that the Global Digital Compact (UN-05) called for. The Dialogue was launched on 25 September 2025 during the high-level week of the General Assembly's 80th session. The General Assembly appointed the Panel's 40 members in February 2026, and the Panel held its inaugural meeting on 3 March 2026. The first Global Dialogue was held in Geneva on 6 and 7 July 2026 (its Co-Chairs' Summary is UN-13); a further session is planned for New York in 2027. Paragraph 12 lets the General Assembly decide on continuing the terms of reference at the high-level review of the Global Digital Compact at its 82nd session.",
@@ -7997,6 +8328,10 @@
     {
      "slug": "eu-digital-omnibus-ai",
      "id": "EU-18"
+    },
+    {
+     "id": "EU-17",
+     "slug": "eu-action-plan-cybersecurity-ai"
     }
    ],
    "notes": "Adopted on 24 January 2024 and published in the Official Journal C series on 14 February 2024; it entered into force on 21 February 2024 (Article 9). It was adopted ahead of the AI Act, after the co-legislators' political agreement of 8 December 2023, so that preparation of the Act's implementation could start, and it says it may be revised once the Regulation is adopted. The Office's officials come from the Directorate-General's staff and its operational expenditure from the Digital Europe Programme's specific objective on AI. It is not a European Office within the meaning of the Financial Regulation. As of September 2026 the Office has more than 125 staff in six units, among them unit A3 'AI Safety', and two advisers, a Lead Scientific Adviser and an International Affairs Adviser. Under the powers the AI Act gives the Commission it enforces the rules for general-purpose AI models: it can evaluate models, request information and measures from providers and, in case of infringement, restrict a model's public availability and issue direct fines.",
@@ -8335,6 +8670,226 @@
     {
      "id": "SK-04",
      "slug": "slovak-ai-synthetic-content-misuse-bill-miklosko-janckulik"
+    },
+    {
+     "id": "AT-01",
+     "slug": "at-ki-servicestelle-rtr-law-2024"
+    },
+    {
+     "id": "BG-01",
+     "slug": "bg-council-of-ministers-decision-398-2025-ai-act-fundamental-rights-authorities"
+    },
+    {
+     "id": "BG-02",
+     "slug": "bg-bill-on-the-use-and-development-of-artificial-intelligence-2026"
+    },
+    {
+     "id": "COE-01",
+     "slug": "coe-framework-convention-ai"
+    },
+    {
+     "id": "CY-01",
+     "slug": "cy-artificial-intelligence-law-2026-draft"
+    },
+    {
+     "id": "CZ-01",
+     "slug": "cz-draft-act-on-artificial-intelligence"
+    },
+    {
+     "id": "CZ-02",
+     "slug": "cz-ai-act-implementation-plan-2025"
+    },
+    {
+     "id": "DE-01",
+     "slug": "germany-ki-mig-ai-act-implementation-law"
+    },
+    {
+     "id": "DK-01",
+     "slug": "dk-ai-act-supplementary-law-2025"
+    },
+    {
+     "id": "ES-02",
+     "slug": "es-ai-sandbox-rd-817-2023"
+    },
+    {
+     "id": "ES-03",
+     "slug": "es-draft-ai-governance-law-2025"
+    },
+    {
+     "id": "EU-01",
+     "slug": "eu-ai-liability-directive-proposal"
+    },
+    {
+     "id": "EU-04",
+     "slug": "eu-ai-pact"
+    },
+    {
+     "id": "EU-05",
+     "slug": "eu-product-liability-directive-2024"
+    },
+    {
+     "id": "EU-12",
+     "slug": "eu-gpai-training-content-template"
+    },
+    {
+     "id": "EU-13",
+     "slug": "eu-serious-incident-reporting-guidance"
+    },
+    {
+     "id": "EU-15",
+     "slug": "eu-report-review-prohibitions-annex-iii"
+    },
+    {
+     "id": "EU-17",
+     "slug": "eu-action-plan-cybersecurity-ai"
+    },
+    {
+     "id": "FI-01",
+     "slug": "fi-act-supervision-certain-ai-systems-2025"
+    },
+    {
+     "id": "FR-01",
+     "slug": "fr-inesia-2025"
+    },
+    {
+     "id": "GR-01",
+     "slug": "gr-law-5321-2026-ai-act-implementation"
+    },
+    {
+     "id": "GR-02",
+     "slug": "gr-law-4961-2022-ai-chapter"
+    },
+    {
+     "id": "GR-03",
+     "slug": "gr-blueprint-ai-transformation-2024"
+    },
+    {
+     "id": "HR-01",
+     "slug": "hr-criminal-code-ai-offence-art-215a-2025"
+    },
+    {
+     "id": "HU-01",
+     "slug": "hu-act-lxxv-2025-ai-act-implementation"
+    },
+    {
+     "id": "HU-02",
+     "slug": "hu-govt-decree-344-2025-ai-act-implementation"
+    },
+    {
+     "id": "IE-01",
+     "slug": "ie-regulation-of-ai-act-2026"
+    },
+    {
+     "id": "IS-01",
+     "slug": "is-ai-action-plan-2025-2027"
+    },
+    {
+     "id": "IT-01",
+     "slug": "it-law-132-2025-ai"
+    },
+    {
+     "id": "IT-02",
+     "slug": "it-dlgs-160-2026-police-ai-and-liability"
+    },
+    {
+     "id": "IT-03",
+     "slug": "it-dlgs-179-2026-ai-authorities-powers"
+    },
+    {
+     "id": "KR-08",
+     "slug": "kr-ai-impact-assessment-guideline-2026"
+    },
+    {
+     "id": "LT-01",
+     "slug": "lt-law-xv-105-technology-and-innovation-law-ai-act-amendments"
+    },
+    {
+     "id": "LU-01",
+     "slug": "lu-projet-de-loi-8476-ai-act-implementation"
+    },
+    {
+     "id": "LV-02",
+     "slug": "lv-informative-report-ai-act-implementation-2025"
+    },
+    {
+     "id": "LV-03",
+     "slug": "lv-financial-market-digital-operational-resilience-and-ai-use-law"
+    },
+    {
+     "id": "MT-01",
+     "slug": "mt-artificial-intelligence-regulations-2025-ln226"
+    },
+    {
+     "id": "MT-02",
+     "slug": "mt-idpc-ai-act-designation-regulations-2025-ln227"
+    },
+    {
+     "id": "NL-01",
+     "slug": "nl-uitvoeringswet-ai-verordening-draft-bill"
+    },
+    {
+     "id": "NL-02",
+     "slug": "nl-government-wide-vision-generative-ai-2024"
+    },
+    {
+     "id": "NO-02",
+     "slug": "no-ai-act-draft-ki-loven"
+    },
+    {
+     "id": "PL-01",
+     "slug": "pl-ai-systems-act-2026"
+    },
+    {
+     "id": "PT-01",
+     "slug": "pt-rcm-2-2026-national-ai-agenda-ania"
+    },
+    {
+     "id": "PY-01",
+     "slug": "py-senate-ai-systems-bill-2025"
+    },
+    {
+     "id": "RO-01",
+     "slug": "ro-draft-law-responsible-use-of-ai-plx-184-2025"
+    },
+    {
+     "id": "RS-02",
+     "slug": "rs-ai-development-strategy-2025-2030"
+    },
+    {
+     "id": "SE-01",
+     "slug": "se-sou-2025-101-ai-act-adaptations"
+    },
+    {
+     "id": "SE-02",
+     "slug": "se-interim-ai-act-competent-authorities-2026"
+    },
+    {
+     "id": "SI-01",
+     "slug": "si-ziudhpui-ai-act-implementation-act-2025"
+    },
+    {
+     "id": "SI-02",
+     "slug": "si-national-ai-strategy-2030-nsui"
+    },
+    {
+     "id": "SK-01",
+     "slug": "sk-act-318-2025-conformity-assessment-ai-act-adaptation"
+    },
+    {
+     "id": "SK-02",
+     "slug": "sk-government-bill-state-administration-ai-and-european-data-regulation-1447"
+    },
+    {
+     "id": "TR-01",
+     "slug": "tr-ai-bill-2-2234-2024"
+    },
+    {
+     "id": "UA-01",
+     "slug": "ua-ai-regulation-roadmap-2023"
+    },
+    {
+     "id": "UA-02",
+     "slug": "ua-ai-regulation-white-paper-2024"
     }
    ],
    "notes": "Adopted on 13 June 2024 and published in the Official Journal (OJ L, 2024/1689) on 12 July 2024; it entered into force on 1 August 2024, the twentieth day after publication. Article 113 as adopted set the application dates: 2 February 2025 for Chapters I and II (general provisions, including AI literacy, and the prohibited practices); 2 August 2025 for notified bodies, general-purpose AI models, governance and penalties, except the fines on providers of general-purpose AI models (Article 101); 2 August 2026 for the rest; and 2 August 2027 for Article 6(1) high-risk systems. Under Article 111, general-purpose AI models placed on the market before 2 August 2025 must comply by 2 August 2027, and AI systems in the large-scale IT systems of Annex X by 31 December 2030. Since 2 August 2026 the AI Office and national authorities enforce the Act; the AI Office holds the enforcement powers over general-purpose AI models. The AI Omnibus, Regulation (EU) 2026/1744 of 8 July 2026 (EU-18), published in the Official Journal on 24 July 2026 and in force since 27 July 2026, amended the Act: the high-risk rules now apply from 2 December 2027 for the Annex III use cases and from 2 August 2028 for AI systems in products covered by Annex I; a ninth prohibition, in Article 5(1)(ba) and (bb), of AI systems that generate non-consensual sexually explicit and intimate content or child sexual abuse material, applies from 2 December 2026; generative AI systems placed on the market before 2 August 2026 must meet the Article 50(2) marking duty by 2 December 2026; each Member State must have a national AI regulatory sandbox operational by 2 August 2027; Article 4 now requires providers and deployers to take measures to support AI literacy; the AI Office's oversight of AI systems built on general-purpose AI models is centralised; simplified requirements for SMEs are extended to small mid-cap companies; and access to regulatory sandboxes, including an EU-level sandbox, is widened. EUR-Lex holds a consolidated version of 27 July 2026.",
@@ -10090,6 +10645,10 @@
     {
      "slug": "eu-serious-incident-reporting-guidance",
      "id": "EU-13"
+    },
+    {
+     "id": "EU-02",
+     "slug": "eu-ai-office-decision"
     }
    ],
    "notes": "Published on 10 July 2025, when the Commission received the final version, developed by 13 independent experts with input from over 1,000 stakeholders, and complemented by Commission guidelines on key concepts for general-purpose AI models. The AI Act rules it supports apply from 2 August 2025 and become enforceable by the AI Office one year later for new models and two years later for existing models. On 1 August 2025 the Commission, in an opinion, and the AI Board confirmed that the code is an adequate voluntary tool for providers to demonstrate compliance with the AI Act; adherence does not constitute conclusive evidence of compliance. The three chapters were authored separately, and the Transparency chapter includes a Model Documentation Form. Serious-incident reporting is Commitment 9 of the code, supported by a Commission reporting template of 4 November 2025. Signatories include Aleph Alpha, Amazon, Anthropic, Google, IBM, Microsoft, Mistral AI and OpenAI; xAI signed only the Safety and Security chapter and has to demonstrate compliance with the transparency and copyright obligations by other adequate means. Signatories have set up a Signatory Taskforce, chaired by the AI Office, for a coherent application of the code.",
@@ -10984,6 +11543,10 @@
     {
      "slug": "eu-digital-omnibus-ai",
      "id": "EU-18"
+    },
+    {
+     "id": "EU-15",
+     "slug": "eu-report-review-prohibitions-annex-iii"
     }
    ],
    "notes": "Published on 19 May 2026 in three parts, on general principles, on Annex I and on Annex III, so that each can be consulted and commented on separately; the content is also presented on the AI Act Single Information Platform. The examples are not exhaustive and may be updated over time. The targeted consultation was first open until 23 June 2026 and was extended by four weeks to 23 July 2026 at the request of several associations and other stakeholders; the Commission says the final guidelines will be adopted by the end of 2026. Following the political agreement on the AI Omnibus, the high-risk rules apply from December 2027 for stand-alone AI systems and from August 2028 for AI embedded in products. The guidelines will be complemented by other Commission guidelines on the obligations for high-risk AI systems. The Commission's report of 20 May 2026 under Article 112(1) of the AI Act noted that the classification guidelines were still in preparation. The Commission's page for the draft shows a last update of 23 July 2026.",
@@ -11651,6 +12214,38 @@
     {
      "slug": "eu-ai-act",
      "id": "EU-03"
+    },
+    {
+     "id": "EU-02",
+     "slug": "eu-ai-office-decision"
+    },
+    {
+     "id": "EU-06",
+     "slug": "eu-guidelines-prohibited-ai-practices"
+    },
+    {
+     "id": "EU-09",
+     "slug": "eu-ai-act-standardisation-request"
+    },
+    {
+     "id": "EU-14",
+     "slug": "eu-draft-guidelines-high-risk-classification"
+    },
+    {
+     "id": "EU-15",
+     "slug": "eu-report-review-prohibitions-annex-iii"
+    },
+    {
+     "id": "EU-19",
+     "slug": "eu-guidelines-transparency-article-50"
+    },
+    {
+     "id": "NL-01",
+     "slug": "nl-uitvoeringswet-ai-verordening-draft-bill"
+    },
+    {
+     "id": "NO-02",
+     "slug": "no-ai-act-draft-ki-loven"
     }
    ],
    "notes": "Commission proposal COM(2025) 836 final of 19 November 2025 (procedure 2025/0359(COD)), part of the digital omnibus package. As proposed, the high-risk rules would have applied 6 months (Annex III) or 12 months (Annex I) after a Commission decision confirming that support measures such as harmonised standards were available, and in any case by 2 December 2027 and 2 August 2028; generative AI systems already on the market would have had until 2 February 2027 to meet the Article 50(2) marking obligation. The adopted text fixes the high-risk dates and sets 2 December 2026 for marking. The European Parliament adopted its position on 16 June 2026 and the Council its decision on 29 June 2026; the act was signed at Strasbourg on 8 July 2026, published in the Official Journal (OJ L, 2026/1744) on 24 July 2026 and entered into force on 27 July 2026, the third day after publication. Dates set by the amendments: the new prohibitions in Article 5(1), points (ba) and (bb), apply from 2 December 2026; providers of generative AI systems placed on the market before 2 August 2026 must meet the Article 50(2) marking obligation by 2 December 2026; each Member State must have at least one national AI regulatory sandbox operational by 2 August 2027; the high-risk rules of Chapter III, Sections 1 to 3, apply from 2 December 2027 for Annex III systems and from 2 August 2028 for Annex I systems. The AI Office's exclusive competence for systems based on general-purpose AI models excludes AI systems related to Annex I products, systems in point 2 of Annex III, systems of law enforcement and border management authorities and financial institutions that fall under Article 74(6), and systems used in the administration of justice. The regulation also simplifies registration in the EU database of systems that providers assess as not high-risk under Article 6(3), allows processing of special categories of personal data for bias detection and correction where strictly necessary, lets the AI Office set up an AI regulatory sandbox at Union level, and extends real-world testing to high-risk systems covered by Annex I legislation. Machinery moves from Section A to Section B of Annex I, and the Commission is to adopt delegated acts adding AI requirements to the Machinery Regulation (EU) 2023/1230, applying by 2 August 2028. It also amends Regulation (EU) 2018/1139 on civil aviation.",
@@ -12782,6 +13377,14 @@
     {
      "slug": "australia-guidance-for-ai-adoption",
      "id": "AUS-05"
+    },
+    {
+     "id": "AUS-01",
+     "slug": "australia-policy-responsible-use-ai-government"
+    },
+    {
+     "id": "AUS-02",
+     "slug": "australia-deepfake-sexual-material-act-2024"
     }
    ],
    "notes": "Released by the ministers on 2 December 2025; the Plan calls itself a starting point to be adapted as technology develops. Its 9 actions are: build smart infrastructure, back Australian AI capability, attract investment, scale AI adoption, support and train Australians, improve public services, mitigate harms, promote responsible practices and partner on global norms. Existing regulators are to report gaps in laws to the AI Safety Institute, and the government says it will intervene if more regulation is needed. Feedback on the 2024 proposals paper on mandatory guardrails informed the Plan, and the government will not proceed at this time with mandatory guardrails. The Government's response of 1 April 2026 to the Senate Select Committee on Adopting AI reports $29.8 million over 4 years from 2025-26, and $7.9 million a year from 2029-30, to establish the Institute; a committed Digital Duty of Care for technology companies; a legislative framework for automated decision-making in government services under development; and a Privacy Act requirement, from 10 December 2026, to explain substantially automated decisions in privacy policies.",
@@ -13371,6 +13974,10 @@
     {
      "slug": "ca-tbs-guide-generative-ai",
      "id": "CA-04"
+    },
+    {
+     "id": "CA-ON-01",
+     "slug": "ontario-bill-194-edsta"
     }
    ],
    "notes": "Binding on the institutions subject to the Policy on Service and Digital, under whose authority it is issued; other departments and agencies are encouraged to meet it as good practice. Launched on 4 March 2019, it took effect on 1 April 2019, with compliance required by 1 April 2020, and applies to systems developed or procured after that date. Amended on 1 April 2021, on 25 April 2023 (third review: expanded scope and new measures on explanation, bias testing, data governance, GBA Plus and peer review) and on 24 June 2025 (fourth review: transparency of systems and their impacts, senior-level accountability, testing and monitoring; the Algorithmic Impact Assessment tool was updated with it). Systems developed or procured before 24 June 2025, and agents of Parliament, had until 24 June 2026 to comply with the new or updated requirements. The directive is reviewed every two years.",
@@ -14540,6 +15147,10 @@
     {
      "slug": "ca-national-ai-strategy-2026",
      "id": "CA-07"
+    },
+    {
+     "id": "CA-02",
+     "slug": "ca-aida"
     }
    ],
    "notes": "First reading in the House of Commons on 10 June 2026 (sitting 133). LEGISinfo lists the bill as at second reading in the House of Commons, with no second-reading activity, no recorded votes and no major speeches. The Digital Safety Commission would set details of the obligations by regulation, including age estimation and verification and design features such as labelling tools; for social media services the government intends a minimum age of 16 for accounts. The bill was informed by the Expert Advisory Group on Online Safety, reconvened from March to May 2026.",
@@ -14695,6 +15306,14 @@
     {
      "slug": "cl-ai-bill",
      "id": "CL-02"
+    },
+    {
+     "id": "INT-12",
+     "slug": "lac-santiago-declaration-2023"
+    },
+    {
+     "id": "INT-17",
+     "slug": "lac-montevideo-declaration-2024"
     }
    ],
    "notes": "Approved by Decree No. 12 of 11 Apr 2024 and published in the Diario Oficial (No. 44,060) on 28 Jan 2025; Article II of the decree repeals Supreme Decree No. 20 of 2021, which approved the first policy. The update keeps the policy's ten-year horizon, so it applies until 2031, and centres on its third axis, governance and ethics, adding sub-axes on international articulation, environment and climate crisis, inclusion and non-discrimination, children and adolescents, and culture and heritage. The Ministry presented it on 2 May 2024 with an action plan of 177 measures, 100 of them due by 2026, whose progress 14 ministries follow every six months.",
@@ -15132,6 +15751,10 @@
     {
      "id": "CN-20",
      "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-16",
+     "slug": "cn-anthropomorphic-ai-interim-measures"
     }
    ],
    "notes": "Adopted at the Cyberspace Administration of China's 20th office meeting of 2021 on 16 Nov 2021 with the consent of MIIT, the Ministry of Public Security and SAMR, signed on 31 Dec 2021, published on the CAC website on 4 Jan 2022 and in force from 1 Mar 2022 (Art. 35). The cyberspace authorities and the telecoms, public security and market regulation departments manage providers by class and grade according to public-opinion attributes, content, user numbers, data and the degree of intervention in user behaviour (Art. 23). Providers with public-opinion attributes or social-mobilisation capacity file through the internet information service algorithm filing system within ten working days of starting a service (Art. 24) and display their filing number (Art. 26). Breaches of the main duties can lead to warnings, suspension of information updates and fines of 10,000 to 100,000 yuan (Art. 31).",
@@ -15468,6 +16091,18 @@
     {
      "id": "CN-25",
      "slug": "tc260-pg-202515a-generative-ai-security-emergency-response"
+    },
+    {
+     "id": "CN-01",
+     "slug": "cn-algorithmic-recommendation-provisions"
+    },
+    {
+     "id": "CN-14",
+     "slug": "cn-cybersecurity-law-2025-amendment"
+    },
+    {
+     "id": "CN-16",
+     "slug": "cn-anthropomorphic-ai-interim-measures"
     }
    ],
    "notes": "Adopted at the Cyberspace Administration of China's 12th office meeting of 2023 on 23 May 2023 with the consent of the six co-issuing bodies, signed on 10 Jul 2023, published on the CAC website on 13 Jul 2023 and in force from 15 Aug 2023 (Art. 24). Generated images, videos and other content are labelled under the Deep Synthesis Provisions (Art. 12, CN-02), and services with public-opinion attributes or social-mobilisation capacity file their algorithms under the Algorithmic Recommendation Provisions (Art. 17, CN-01). The competent departments are to issue classified and graded supervision rules or guidelines for particular sectors (Art. 16), and services provided to China from abroad that break the rules can be dealt with by technical and other measures (Art. 20).",
@@ -16995,6 +17630,10 @@
     {
      "slug": "intl-waico-agreement",
      "id": "INT-15"
+    },
+    {
+     "id": "BRICS-01",
+     "slug": "brics-leaders-statement-global-governance-ai-2025"
     }
    ],
    "notes": "Released 26 Jul 2025 at the 2025 World Artificial Intelligence Conference (WAIC) and High-Level Meeting on Global AI Governance. The text does not mention the World AI Cooperation Organization, which China proposed at the same conference and which was set up by treaty in July 2026 (see INT-15).",
@@ -17337,6 +17976,10 @@
     {
      "id": "CN-22",
      "slug": "tc260-pg-202610a-ai-application-security-health"
+    },
+    {
+     "id": "CN-12",
+     "slug": "cn-ai-plus-action-opinions"
     }
    ],
    "notes": "Released on 15 Sept 2025 at the main forum of the 2025 National Cybersecurity Publicity Week. TC260 prepared it under CAC guidance with CNCERT, which led the drafting, and issued it as a TC260 technical document. It also calls for registering AI systems used in critical information infrastructure, for national standards on classifying and grading AI application security risks, for an AI safety evaluation system, and for developers to test regularly whether models may pose loss-of-control risks. Replaced by version 3.0 on 14 Sept 2026 (CN-17).",
@@ -17506,6 +18149,10 @@
     {
      "slug": "cn-ai-ethics-review-measures-2026",
      "id": "CN-15"
+    },
+    {
+     "id": "CN-12",
+     "slug": "cn-ai-plus-action-opinions"
     }
    ],
    "notes": "Adopted on 28 Oct 2025 at the 18th session of the 14th NPC Standing Committee and in force from 1 Jan 2026. The Cybersecurity Law is republished with the changes and its articles renumbered. Besides the AI article, the Decision adds an article on Party leadership of cybersecurity work and the overall national security concept (new Art. 3), requires network operators handling personal information to comply with the Civil Code and the Personal Information Protection Law, raises fines up to 10 million yuan for especially serious consequences, adds penalties for selling uncertified critical network equipment and dedicated security products, and allows lighter or no penalties in the cases the Administrative Penalty Law provides.",
@@ -19509,6 +20156,10 @@
     {
      "slug": "new-delhi-declaration-ai-impact",
      "id": "INT-02"
+    },
+    {
+     "id": "NP-01",
+     "slug": "nepal-national-ai-policy-2082-2025"
     }
    ],
    "notes": "A drafting committee constituted by MeitY in July 2025 and chaired by Prof. Balaraman Ravindran (IIT Madras) wrote the guidelines. It built on a draft report by a sub-committee on AI governance under the Principal Scientific Adviser's advisory group, which MeitY published for public feedback and which drew more than 2,500 submissions; that draft is superseded by these guidelines. The seven sutras are adapted from the Reserve Bank of India's FREE-AI Committee report. Principal Scientific Adviser Prof. Ajay Kumar Sood unveiled the guidelines on 5 Nov 2025, calling 'Do No Harm' the guiding principle of the framework, ahead of the India-AI Impact Summit (New Delhi, 19-20 Feb 2026). PIB published an explainer on 15 Feb 2026 for the Summit. India has no AI-specific statute.",
@@ -20287,6 +20938,10 @@
     {
      "id": "JP-11",
      "slug": "j-aisi-healthcare-ai-safety-evaluation-guide"
+    },
+    {
+     "id": "JP-04",
+     "slug": "jp-ai-promotion-act"
     }
    ],
    "notes": "Announced by Prime Minister Kishida at the AI Strategy Council on 21 December 2023 and launched on 14 February 2024. Its overview of 1 July 2026 describes it as a government-related organisation in which 12 ministries and agencies and 5 related organisations take part, with the secretariat in IPA, which falls under METI and the Digital Agency. Government policy on AI safety is discussed in a liaison council of the ministries whose secretariat is the Cabinet Office, and an AISI Steering Committee chaired by the Executive Director (Akiko Murakami, part-time) deliberates on its work. The second AI Basic Plan (14 Jul 2026) calls for strengthening AISI's technical evaluation and feeding its results into policy. AISI has no specific statutory basis in the AI Promotion Act.",
@@ -20533,6 +21188,10 @@
     {
      "id": "JP-13",
      "slug": "digital-agency-guideline-on-generative-ai-procurement-and-us"
+    },
+    {
+     "id": "JP-03",
+     "slug": "jp-aisi-evaluation-redteaming-guides"
     }
    ],
    "notes": "Version 1.0 was published on 19 April 2024, integrating and replacing MIC's draft AI R&D Guidelines and AI Utilization Guidelines and METI's Governance Guidelines for Implementation of AI Principles. Version 1.01 followed on 22 November 2024, version 1.1 on 28 March 2025 and version 1.2 on 31 March 2026; the ministries update it as a living document. Version 1.2 refers to the AI Promotion Act (Act No. 53 of 2025), fully in force since September 2025, and to the guideline adopted under its Article 13 on 19 December 2025, and defines AI agents and physical AI. Developers of advanced AI systems are asked to refer to the Hiroshima Process International Code of Conduct. The main text sets out the philosophy and guiding principles; a separate appendix gives practical measures, checklists and examples. MIC and METI publish English versions as provisional translations.",
@@ -21117,6 +21776,10 @@
     {
      "id": "JP-13",
      "slug": "digital-agency-guideline-on-generative-ai-procurement-and-us"
+    },
+    {
+     "id": "JP-06",
+     "slug": "jp-ai-basic-plan"
     }
    ],
    "notes": "A draft (ＡＩ指針（案）) was open for public comment from 5 to 11 Dec 2025; the guideline was adopted by decision of the AI Strategic Headquarters on 19 Dec 2025. The Cabinet Office page on the guideline also lists the ministries' guidelines on AI, among them the AI Guidelines for Business (revised March 2026), and related international norms such as the Hiroshima Process International Guiding Principles and ISO/IEC 42001.",
@@ -21720,6 +22383,14 @@
     {
      "slug": "kyrgyzstan-digital-code-2025-ai-chapter",
      "id": "KG-01"
+    },
+    {
+     "id": "AZ-01",
+     "slug": "azerbaijan-ai-strategy-2025-2028"
+    },
+    {
+     "id": "UZ-02",
+     "slug": "uzbekistan-law-zru-1115-ai-regulation-amendments-2026"
     }
    ],
    "notes": "Signed on 17 Nov 2025, together with a companion law amending other legislative acts on AI and digitalisation. That companion law aligns existing laws with the AI Law and also covers digital assets, personal-data consent and information security. Under Article 31 the law enters into force 60 calendar days after the day of its first official publication. Amended by Law No. 326-VIII of 24 Jun 2026 (Articles 1, 13, 17, 20 and 28), which also enters into force 60 calendar days after its first official publication. High-risk systems classed as critically important digital objects are treated like state systems for cybersecurity; sectoral agencies publish lists of trusted high-risk systems, for which an audit is required. Works created with AI are protected by copyright only where a human made a creative contribution, and works may be used for training only if the author or rightholder has not objected in machine-readable form.",
@@ -22080,6 +22751,10 @@
     {
      "slug": "asean-guide-ai-governance-ethics",
      "id": "ASEAN-01"
+    },
+    {
+     "id": "BN-01",
+     "slug": "brunei-aiti-guide-on-ai-governance-and-ethics-2025"
     }
    ],
    "notes": "MOSTI's press release of 20 Sep 2024 says Deputy Prime Minister Fadillah Yusof launched the guidelines that day; the MASTIC publication page dates them September 2024. They were developed as an action plan of the National AI Roadmap 2021-2025 (AI-RMAP), with input from the working committee of the National Blockchain and Artificial Intelligence Committee (NBAIC), Universiti Teknologi Malaysia, industry and civil society. The guidelines call themselves a living document to be reviewed and updated regularly and say they will be made available in Malay and English. The National AI Action Plan 2026-2030 cites them as published by MOSTI in 2023. AI Malaysia's voluntary AI Code of Ethics (AICE) puts their seven principles into practice.",
@@ -25506,6 +26181,14 @@
     {
      "slug": "asean-expanded-guide-generative-ai",
      "id": "ASEAN-02"
+    },
+    {
+     "id": "SG-06",
+     "slug": "singapore-csa-guidelines-securing-ai-systems"
+    },
+    {
+     "id": "SG-08",
+     "slug": "singapore-model-ai-governance-framework-agentic-ai"
     }
    ],
    "notes": "IMDA and the AI Verify Foundation released a proposed framework for international views on 16 Jan 2024, announced at Davos. They received over 70 responses from local and international companies, technology multinationals, audit firms and government agencies, and finalised the framework on 30 May 2024, when IMDA also announced that Singapore would lead, with Rwanda, the development of an AI Governance Playbook for the Digital Forum of Small States. The framework builds on the June 2023 Discussion Paper on Generative AI by IMDA, Aicadium and the AI Verify Foundation, and is meant as a first step: implementation guidelines and resources are to follow under each of the nine dimensions.",
@@ -26363,6 +27046,14 @@
     {
      "slug": "kr-ai-basic-act",
      "id": "KR-02"
+    },
+    {
+     "id": "KR-03",
+     "slug": "kr-ai-basic-act-enforcement-decree"
+    },
+    {
+     "id": "KR-05",
+     "slug": "kr-ai-basic-act-safety-guideline-draft-2026"
     }
    ],
    "notes": "Established in November 2024. Since the AI Basic Act took effect on 22 Jan 2026, Article 12 of the Act has given the institute a statutory basis: the Minister of Science and ICT may operate an AI safety institute (인공지능안전연구소) to define and analyse AI safety risks, research AI safety policy, evaluation criteria and methods, and AI safety technology and standardisation, carry out international exchange and cooperation, and support the safety duties of Article 32 (KR-02).",
@@ -28991,6 +29682,10 @@
     {
      "slug": "uk-emerging-processes-frontier-ai-safety-2023",
      "id": "GB-02"
+    },
+    {
+     "id": "GB-04",
+     "slug": "uk-ai-regulation-government-response-2024"
     }
    ],
    "notes": "First published on GOV.UK on 2 November 2023 and presented to Parliament as Command Paper CP 960 in November 2023; GOV.UK records the update of 17 January 2024 as the addition of an AI Safety Institute page. The institute was an evolution of the Frontier AI Taskforce, announced in April 2023, whose research team became its initial core, with Ian Hogarth continuing as Chair. It was to house the secretariat for the international 'State of the Science' report on advanced AI, whose writing group Yoshua Bengio chairs. On 14 February 2025 the institute became the AI Security Institute, with a focus on serious AI risks with security implications; it now operates as a research organisation within DSIT whose stated mission is to equip governments with a scientific understanding of the risks posed by advanced AI.",
@@ -29154,6 +29849,10 @@
     {
      "slug": "uk-artificial-superintelligence-bill-2026",
      "id": "GB-10"
+    },
+    {
+     "id": "GB-05",
+     "slug": "uk-ai-opportunities-action-plan-2025"
     }
    ],
    "notes": "Presented to Parliament on 6 February 2024 as Command Paper CP 1019, in response to the consultation on the white paper of March 2023, which ran from 29 March to 21 June 2023 and received 409 responses. It asked a number of regulators to publish their strategic approach to AI by 30 April 2024, announced £10 million for regulators' AI capabilities and a steering committee of government and regulator representatives, and left a statutory duty on regulators to have due regard to the principles for after a review of an initial period of non-statutory implementation.",
@@ -29698,6 +30397,18 @@
     {
      "slug": "uk-ai-safety-institute-2023",
      "id": "GB-03"
+    },
+    {
+     "id": "GB-05",
+     "slug": "uk-ai-opportunities-action-plan-2025"
+    },
+    {
+     "id": "GB-09",
+     "slug": "uk-crime-and-policing-act-2026-ai-provisions"
+    },
+    {
+     "id": "INT-19",
+     "slug": "five-country-ministerial-communique-2026-ai"
     }
    ],
    "notes": "Announced by Technology Secretary Peter Kyle at the Munich Security Conference on 14 February 2025, days after the AI Action Summit in Paris. The institute's website gives its mission as 'to equip governments with a scientific understanding of the risks posed by advanced AI' and describes it as a research organisation within DSIT.",
@@ -29886,6 +30597,14 @@
     {
      "slug": "uk-crime-and-policing-act-2026-ai-provisions",
      "id": "GB-09"
+    },
+    {
+     "id": "US-MN-01",
+     "slug": "mn-hf-1606-nudification-technology-ban"
+    },
+    {
+     "id": "US-NJ-01",
+     "slug": "nj-pl-2025-c40-deepfake-penalties"
     }
    ],
    "notes": "The Act received Royal Assent on 19 June 2025. Section 138 was not in force at Royal Assent (s.142(1)); the Data (Use and Access) Act 2025 (Commencement No. 5) Regulations 2026 (SI 2026/31), made on 15 January 2026, brought it into force on 6 February 2026. The offences in new sections 66E and 66F of the Sexual Offences Act 2003 are triable only summarily and have a reasonable-excuse defence whose operation the Secretary of State must review in a report to Parliament within two years; section 66H allows prosecution within 3 years of the offence and 6 months of the prosecutor having sufficient evidence. Courts, including service courts, can deprive the offender of the image and anything containing it. Most of the Act is a general data law and out of scope; only section 138 is recorded here.",
@@ -30806,6 +31525,18 @@
     {
      "slug": "us-omb-m-25-21",
      "id": "US-12"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
+    },
+    {
+     "id": "US-21",
+     "slug": "us-nist-ai-800-2"
+    },
+    {
+     "id": "US-MT-01",
+     "slug": "mt-sb-212-right-to-compute-act"
     }
    ],
    "notes": "Released on 26 January 2023 after a request for information (July 2021), a concept paper, two public drafts (17 March and 18 August 2022) and workshops. NIST describes it as a living document, with a review with formal input from the AI community expected no later than 2028. NIST also publishes a companion AI RMF Playbook, a Roadmap and a Crosswalk, and Arabic and Japanese translations. On 26 July 2024 NIST released the Generative Artificial Intelligence Profile (NIST AI 600-1), and on 7 April 2026 a concept note for an AI RMF Profile on Trustworthy AI in Critical Infrastructure. NIST states that the AI RMF 1.0 is being revised as part of the White House AI Action Plan of July 2025, which recommends revising the framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate change.",
@@ -31102,6 +31833,22 @@
     {
      "slug": "us-nist-ai-800-1",
      "id": "US-07"
+    },
+    {
+     "id": "US-01",
+     "slug": "us-blueprint-ai-bill-of-rights"
+    },
+    {
+     "id": "US-03",
+     "slug": "us-voluntary-ai-commitments-2023"
+    },
+    {
+     "id": "US-08",
+     "slug": "us-nist-ai-600-1"
+    },
+    {
+     "id": "US-10",
+     "slug": "us-bis-ai-diffusion-rule"
     }
    ],
    "notes": "Signed 30 Oct 2023; published in the Federal Register 1 Nov 2023. Revoked on 20 Jan 2025 by EO 14148 (Initial Rescissions of Harmful Executive Orders and Actions). EO 14179 (23 Jan 2025) then ordered agencies to review, suspend, revise or rescind actions taken under EO 14110. Its implementing instruments (OMB M-24-10, M-24-18, NSM-25, the US AI Safety Institute) were later rescinded, replaced or reorganised.",
@@ -31227,6 +31974,10 @@
     {
      "slug": "us-nist-ai-800-1",
      "id": "US-07"
+    },
+    {
+     "id": "US-09",
+     "slug": "us-nsm-25"
     }
    ],
    "notes": "Announced on 1 November 2023 at the UK's AI Safety Summit 2023, in which Commerce Secretary Gina Raimondo took part, as part of NIST's response to Executive Order 14110 (US-04). On 2 November 2023 NIST called for participants in the AI Safety Institute Consortium, a core element of the institute. The Commerce Secretary's statement of 3 June 2025 transformed the institute into the Center for AI Standards and Innovation (CAISI) within NIST (US-15). By October 2026 NIST presents the center as the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI).",
@@ -31399,6 +32150,10 @@
     {
      "id": "US-29",
      "slug": "eo-13960"
+    },
+    {
+     "id": "US-01",
+     "slug": "us-blueprint-ai-bill-of-rights"
     }
    ],
    "notes": "Issued on 28 March 2024 consistent with the AI in Government Act of 2020, the Advancing American AI Act and Executive Order 14110, after a draft published for public comment on 1 November 2023. It governs only agencies' own use of AI and does not create rights or obligations for the public; Sections 5(a) to 5(c) do not apply to elements of the Intelligence Community. Rescinded and replaced on 3 April 2025 by OMB Memorandum M-25-21 (US-12), issued after Executive Order 14179 of 23 January 2025. Its companion acquisition memorandum M-24-18 was likewise rescinded and replaced by M-25-22 of the same day.",
@@ -31634,6 +32389,10 @@
     {
      "slug": "us-eo-14110",
      "id": "US-04"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
     }
    ],
    "notes": "Published on 26 July 2024, developed per Section 4.1(a)(i)(A) of Executive Order 14110 (US-04) as a companion resource to the AI RMF (US-02), and informed by NIST's Generative AI Public Working Group, which focused on governance, content provenance, pre-deployment testing and incident disclosure. NIST's publication page lists it as published and was last updated on 8 April 2026.",
@@ -31755,6 +32514,10 @@
     {
      "slug": "us-nspm-11-ai-national-security-enterprise",
      "id": "US-28"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
     }
    ],
    "notes": "Signed by President Biden on 24 Oct 2024. It fulfils the directive in subsection 4.8 of his executive order on AI (EO 14110, US-04). The companion Framework to Advance AI Governance and Risk Management in National Security was published the same day; the memorandum has the NSC Deputies Committee approve the Framework and review it periodically. The White House fact sheet of the same day also says the memorandum makes collection on competitors' operations against the US AI sector a top-tier intelligence priority; the memorandum's public text directs a review of the intelligence priorities to improve the identification of foreign intelligence threats to the US AI ecosystem. NSPM-11 of 5 Jun 2026 (US-28), section 3(f), rescinds and replaces NSM-25 and associated guidance.",
@@ -32003,6 +32766,22 @@
     {
      "slug": "us-omb-m-25-22",
      "id": "US-13"
+    },
+    {
+     "id": "US-06",
+     "slug": "us-omb-m-24-10"
+    },
+    {
+     "id": "US-09",
+     "slug": "us-nsm-25"
+    },
+    {
+     "id": "US-10",
+     "slug": "us-bis-ai-diffusion-rule"
+    },
+    {
+     "id": "US-28",
+     "slug": "us-nspm-11-ai-national-security-enterprise"
     }
    ],
    "notes": "Signed 23 Jan 2025; published 31 Jan 2025. Its directives were carried out by OMB M-25-21 and M-25-22 (3 Apr 2025, replacing M-24-10 and M-24-18) and by America's AI Action Plan (23 Jul 2025). Still in force as of Oct 2026. On 29 Sep 2026, EO 14434 told executive-branch documents to use 'Super Intelligence (SI)' in place of 'AI' but did not amend earlier orders.",
@@ -32105,6 +32884,10 @@
     {
      "id": "US-29",
      "slug": "eo-13960"
+    },
+    {
+     "id": "US-02",
+     "slug": "us-nist-ai-rmf"
     }
    ],
    "notes": "Issued 3 Apr 2025 under EO 14179. Deadlines from issuance: CAIO within 60 days; CFO Act agency AI strategies and agency compliance plans within 180 days (repeating every two years until 2036); high-impact minimum practices documented within 365 days (about 3 Apr 2026). In force as of Oct 2026. Binding on federal agencies only.",
@@ -32323,6 +33106,18 @@
     {
      "id": "US-FL-05",
      "slug": "brooke-s-law-florida-hb-1161-2025"
+    },
+    {
+     "id": "US-MN-01",
+     "slug": "mn-hf-1606-nudification-technology-ban"
+    },
+    {
+     "id": "US-NJ-01",
+     "slug": "nj-pl-2025-c40-deepfake-penalties"
+    },
+    {
+     "id": "US-WY-01",
+     "slug": "wy-hb-102-ai-crimes-children-self-harm"
     }
    ],
    "notes": "Approved 19 May 2025 as Public Law 119-12 (S. 146); the Senate passed it on 13 Feb 2025 and the House on 28 Apr 2025. The criminal offences in section 2 have no delayed start date. Covered platforms had to establish the notice-and-removal process within one year of enactment, so the platform duties apply from 19 May 2026. A failure to reasonably comply with the notice-and-takedown obligations is treated as an unfair or deceptive act or practice under the Federal Trade Commission Act, and the FTC enforces the section also against non-profit organisations.",
@@ -32553,6 +33348,14 @@
     {
      "slug": "us-frontier-act",
      "id": "US-25"
+    },
+    {
+     "id": "INT-11",
+     "slug": "international-network-ai-safety-institutes"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
     }
    ],
    "notes": "Announced 3 Jun 2025; the centre is part of NIST. After EO 14434 of 29 Sep 2026 (US-26), NIST presents it as the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) and its mandate refers to 'SI' systems, while its news items still use the name CAISI. Its published work includes the NIST AI 800-2 draft on automated benchmark evaluations (Jan 2026, US-21); evaluations of DeepSeek V4 Pro (1 May 2026), Z.ai's GLM-5.2 (17 Jul 2026) and GLM-5.3's cyber capabilities (17 Sep 2026); a preliminary assessment of Kimi K3's cyber capabilities with the UK AI Security Institute (23 Jul 2026); and key practices for incident readiness and response in SI training and evaluation (16 Oct 2026). America's AI Action Plan (Jul 2025, US-16) assigns it tasks that include evaluating frontier models. The House 'Great American AI Act' discussion draft (Jun 2026) would codify the centre; it has not been enacted.",
@@ -32791,6 +33594,22 @@
     {
      "slug": "us-eo-14365",
      "id": "US-20"
+    },
+    {
+     "id": "US-14",
+     "slug": "us-take-it-down-act"
+    },
+    {
+     "id": "US-21",
+     "slug": "us-nist-ai-800-2"
+    },
+    {
+     "id": "US-23",
+     "slug": "us-eo-14409"
+    },
+    {
+     "id": "US-28",
+     "slug": "us-nspm-11-ai-national-security-enterprise"
     }
    ],
    "notes": "The White House announced the plan's release on 23 July 2025; the document itself is dated July 2025. The plan follows Executive Order 14179 (US-11), which directed the creation of an AI Action Plan. The announcement calls it 'Winning the AI Race: America's AI Action Plan' and counts over 90 federal policy actions. The plan is signed by Michael J. Kratsios (Assistant to the President for Science and Technology), David O. Sacks (Special Advisor for AI and Crypto) and Marco A. Rubio (Assistant to the President for National Security Affairs). It says AI-related federal funding should not go to states with burdensome AI regulations, but that the federal government should not interfere with states' rights to pass prudent laws that are not unduly restrictive to innovation, and it asks agencies to consider a state's AI regulatory climate in funding decisions; EO 14365 of December 2025 (US-20) later directed action against state AI laws. It asks NIST to revise the AI RMF (US-02) to remove references to misinformation, diversity, equity and inclusion, and climate change. CAISI's draft NIST AI 800-2 (US-21) answers the plan's call for evaluation guidelines. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) still cites the plan and its more than 90 federal actions.",
@@ -33409,6 +34228,18 @@
     {
      "slug": "us-frontier-act",
      "id": "US-25"
+    },
+    {
+     "id": "US-16",
+     "slug": "us-ai-action-plan-2025"
+    },
+    {
+     "id": "US-CO-02",
+     "slug": "co-sb-26-189"
+    },
+    {
+     "id": "US-TX-01",
+     "slug": "tx-traiga"
     }
    ],
    "notes": "Signed 11 December 2025 and published in the Federal Register on 16 December 2025 (90 FR 58499). The order gave 30 days for the AI Litigation Task Force and 90 days (to about 11 March 2026) for the Commerce evaluation of state AI laws, the BEAD Policy Notice and the FTC policy statement; the FCC proceeding is due within 90 days of the Commerce evaluation. The Attorney General established the Task Force by memorandum of 9 January 2026, chaired by the Attorney General or a designee with the Associate Attorney General as vice chair. The order cites a new Colorado law banning 'algorithmic discrimination' (SB 24-205, US-CO-01); on 24 April 2026 the Department of Justice moved to intervene in xAI's suit against that law, alleging that it violates the Equal Protection Clause. The FTC's proposed policy statement on the suppression of accuracy in AI systems of 1 July 2026 (US-24) says the order directs the Commission to issue it. The White House's legislative recommendations of March 2026 (US-22) set out the preemption that section 8 asks for.",
@@ -33839,6 +34670,14 @@
     {
      "slug": "us-ai-action-plan-2025",
      "id": "US-16"
+    },
+    {
+     "id": "INT-19",
+     "slug": "five-country-ministerial-communique-2026-ai"
+    },
+    {
+     "id": "US-09",
+     "slug": "us-nsm-25"
     }
    ],
    "notes": "Signed 2 Jun 2026 and published in the Federal Register on 5 Jun 2026 (Vol. 91, No. 108, pp. 34565-34567). Deadlines: Sec. 2(a) to (e) within 30 days (about 2 Jul 2026); Sec. 2(f), on expanding the United States Tech Force cybersecurity hiring and placement pathways, and the Sec. 3 benchmarking process and frontier-model framework within 60 days (about 1 Aug 2026). Under Sec. 3 the Secretary of Commerce is consulted through the Director of NIST; CAISI is not named. Under Sec. 2(c)(iii) CISA is to facilitate access to cybersecurity tools and services, including covered frontier models where appropriate, for agencies, state and local authorities and critical-infrastructure operators. The order revokes no earlier instrument. Participation in the pre-release access framework is voluntary for developers.",
@@ -34050,6 +34889,14 @@
     {
      "slug": "us-eo-14319",
      "id": "US-17"
+    },
+    {
+     "id": "US-22",
+     "slug": "us-national-ai-legislative-framework-2026"
+    },
+    {
+     "id": "US-CO-01",
+     "slug": "co-sb-24-205"
     }
    ],
    "notes": "Dated 1 Jul 2026. Section 7 of Executive Order 14365 (11 Dec 2025) directed the Commission to issue a policy statement on how Section 5 of the FTC Act applies to AI models and how state laws requiring alterations to their accurate outputs can conflict with it. The Commission voted 2-0 to publish the proposed statement in the Federal Register for public comment, with comments due by 31 Jul 2026, to help it formulate a final policy. The statement takes no position on whether the practices it discusses are also unfair under the FTC Act. It notes that the FTC Act does not expressly preempt state law and relies on implied conflict preemption. It cites Colorado's AI Act, repealed and re-enacted as amended by SB 26-189 (enacted 14 May 2026), as a state law that could lead AI companies to suppress accuracy to avoid liability for discriminatory outcomes. As of 17 Oct 2026 it remained a proposed statement.",
@@ -34221,6 +35068,22 @@
     {
      "slug": "us-ai-risk-evaluation-act",
      "id": "US-18"
+    },
+    {
+     "id": "US-15",
+     "slug": "us-caisi"
+    },
+    {
+     "id": "US-22",
+     "slug": "us-national-ai-legislative-framework-2026"
+    },
+    {
+     "id": "US-CA-01",
+     "slug": "ca-ab-2013"
+    },
+    {
+     "id": "US-CA-07",
+     "slug": "ca-sb-813"
     }
    ],
    "notes": "Introduced on 23 Jul 2026 by Rep. Jay Obernolte with Reps. Lori Trahan, Scott Franklin, Scott Peters, Erin Houchin and Suhas Subramanyam; the bill text published with the announcement leaves the bill number and the committee blank. The sponsors say it was developed as part of their broader Great American AI Act framework. Large frontier developers have AI-related development expenditures of at least $1B and revenues above $50M; very large ones at least $10B and above $5B, measured over 36 months. Preemption (Sec. 9) is aimed at state frontier-safety statutes such as California SB 53, New York's RAISE Act and Illinois SB 315, and preserves generally applicable laws, use- and deployment-based rules for deployers and users, laws protecting minors, and state procurement and use rules. Civil penalties reach $1M per violation per day, and $10M per violation per day for emergency orders, whose wilful violation is criminal. Rules on minimum framework requirements, licensing of independent verification organisations and modification criteria are due within 180 days of enactment. On 1 Oct 2026 Reps. Obernolte and Trahan said the bill would build on the White House Accord that leading AI companies had signed and make it durable.",
@@ -34344,6 +35207,10 @@
     {
      "slug": "us-national-ai-legislative-framework-2026",
      "id": "US-22"
+    },
+    {
+     "id": "US-23",
+     "slug": "us-eo-14409"
     }
    ],
    "notes": "Signed 29 Sep 2026 and published in the Federal Register on 2 Oct 2026 (Vol. 91, No. 190, pp. 63129-63130). Sec. 2(b) does not require any change to previously issued regulations, presidential actions, contracts, grants or other historical documents. Under Sec. 1 it is the administration's policy that the executive branch will not acknowledge the usage of 'Artificial Intelligence' and 'AI' in any applicable setting. The APST's legislative proposal, due about 28 Nov 2026, is also to assess whether the new definition should modify, expand upon or supersede the statutory definition of AI, and to recommend further executive action. NIST's CAISI page now names the centre the 'Center for Advancing Innovation and Standards for Super Intelligence (CAISSI)' (US-15), and the White House fact sheet on the order refers to a 'National Super Intelligence Policy Framework'. The White House Accord on Super Intelligence (US-27) is dated the same day as the order.",
@@ -34658,6 +35525,10 @@
     {
      "slug": "lac-santiago-declaration-2023",
      "id": "INT-12"
+    },
+    {
+     "id": "INT-17",
+     "slug": "lac-montevideo-declaration-2024"
     }
    ],
    "notes": "Approved by the Public Sector Strategic Committee for AI and Data at its session of 21 Nov 2024 and published on 22 Nov 2024 (the strategy's own page on gub.uy gives 19 Nov 2024 as its creation date), after a participatory process with contributions from more than 300 people; CAF and UNESCO gave technical cooperation. It runs from 2024 to 2030 with a mid-term review, and its implementation is subject to public monitoring and evaluation. Article 74 of Law No. 20.212 (promulgated 6 Nov 2023) tasks AGESIC with a national data and AI strategy founded on principles including equity, non-discrimination, accountability, transparency, auditing and safe innovation, acting jointly with the personal data regulator (URCDP) on personal data, and required a report with recommendations for regulating AI. IMPO records Article 74 as regulated by Decree No. 276/025 of 2 Dec 2025.",
@@ -34819,6 +35690,10 @@
     {
      "slug": "viet-nam-law-on-digital-technology-industry-2025-ai-chapter",
      "id": "VN-07"
+    },
+    {
+     "id": "VN-03",
+     "slug": "viet-nam-decision-367-ai-law-implementation-plan-2026"
     }
    ],
    "notes": "The Government's approval of the Strategy was announced on 29 Aug 2026. Its six breakthrough solutions cover law and policy; national coordination, with heads of ministries, sectors and localities answerable for their AI transformation targets; funding; international cooperation with standards and technical regulations; public awareness and a culture of responsible AI use; and indicators to measure and monitor AI transformation. Viet Nam's Law on Artificial Intelligence (Law No. 134/2025/QH15) is recorded as VN-02; the AI chapter of the Law on Digital Technology Industry (Law No. 71/2025/QH15), since superseded by the AI Law, is VN-07; the implementing instruments are VN-03 to VN-06.",
@@ -36355,6 +37230,10 @@
     {
      "slug": "ca-sb-813",
      "id": "US-CA-07"
+    },
+    {
+     "id": "US-CA-09",
+     "slug": "ca-eo-n-9-26"
     }
    ],
    "notes": "Draft released on 18 Mar 2025 for public feedback until 8 Apr 2025; final report 17 Jun 2025. Co-led by Jennifer Tour Chayes, Mariano-Florentino Cuéllar and Fei-Fei Li, with Rishi Bommasani and Scott R. Singer as lead writers; the co-leads write in their own capacity, not for their institutions. Requested in September 2024, the month of the Governor's veto of SB 1047 (US-CA-03), it focuses on frontier models and leaves out AI's effects on work, the environmental impact of data centres and the full range of misuse. SB 53 (2025) built on its recommendations.",
@@ -36537,6 +37416,22 @@
     {
      "slug": "illinois-ai-safety-measures-act-sb-315",
      "id": "US-IL-03"
+    },
+    {
+     "id": "US-CA-01",
+     "slug": "ca-ab-2013"
+    },
+    {
+     "id": "US-CA-02",
+     "slug": "ca-sb-942"
+    },
+    {
+     "id": "US-CA-06",
+     "slug": "ca-sb-243"
+    },
+    {
+     "id": "US-CT-01",
+     "slug": "ct-pa-26-15-online-safety-ai"
     }
    ],
    "notes": "Signed 29 Sep 2025. Large frontier developers must send the Office of Emergency Services a summary of any assessment of catastrophic risk from internal use of their frontier models every three months or on another reasonable schedule they set (Business and Professions Code section 22757.12(d)); the Office runs a portal for these summaries and for critical safety incident reports. CalCompute is a consortium within the Government Operations Agency to develop a framework for a public computing cluster. The Governor's signing message says the Act provides a compliance pathway for the incident-reporting requirements if federal standards are adopted. Governor's EO N-9-26 (18 Sep 2026) seeks recommendations by 16 Nov 2026 on strengthening state law: independent verification of filings, onsite auditors, a 'kill switch', and loss-of-control incidents. The federal FRONTIER Act would preempt it.",
@@ -36712,6 +37607,38 @@
     {
      "id": "US-CA-14",
      "slug": "california-ab-1064-lead-for-kids-act-vetoed"
+    },
+    {
+     "id": "US-CT-01",
+     "slug": "ct-pa-26-15-online-safety-ai"
+    },
+    {
+     "id": "US-FL-01",
+     "slug": "fl-sb-482-ai-bill-of-rights-2026"
+    },
+    {
+     "id": "US-GA-01",
+     "slug": "ga-sb-540-ai-companion-chatbots"
+    },
+    {
+     "id": "US-HI-01",
+     "slug": "hi-sb-3001-act-248-ai-companions"
+    },
+    {
+     "id": "US-IA-01",
+     "slug": "ia-sf-2417-conversational-ai-services"
+    },
+    {
+     "id": "US-ID-01",
+     "slug": "id-sb-1297-conversational-ai-safety-act"
+    },
+    {
+     "id": "US-IL-02",
+     "slug": "il-hb-1806"
+    },
+    {
+     "id": "US-RI-01",
+     "slug": "ri-s-2195-ai-companion-models-act"
     }
    ],
    "notes": "Passed the Assembly 59-1 on 10 Sep 2025 and the Senate 33-3 on 11 Sep 2025; signed on 13 Oct 2025 as Chapter 677, Statutes of 2025, in a package on children's online safety that also included AB 1043 (age verification signals), AB 316 (artificial intelligence: defenses), AB 621 (deepfake pornography) and AB 853 (California AI Transparency Act amendments). It adds Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code. Effective 1 Jan 2026. On 10 Sep 2026 the Governor approved SB 867 ('Toys: companion chatbots', Chapter 189, Statutes of 2026), which amends Section 22601 and adds and repeals Section 22604.5, and SB 1119 ('Companion chatbots: children's safety', Chapter 190, Statutes of 2026), which amends Section 22602 and adds Chapter 11.6 (commencing with Section 21810) to Division 8 of that Code.",
@@ -37731,6 +38658,14 @@
     {
      "slug": "us-eo-14365",
      "id": "US-20"
+    },
+    {
+     "id": "US-IL-01",
+     "slug": "il-hb-3773"
+    },
+    {
+     "id": "US-VA-01",
+     "slug": "va-hb-2094-high-risk-ai-act-vetoed"
     }
    ],
    "notes": "Introduced in the Senate on 1 May 2026; passed the Senate on 7 May 2026 (34-1) and the House on 9 May 2026 (57-6), and the Senate concurred in the House amendments on 12 May 2026. Approved on 14 May 2026 (Session Laws 2026, chapter 131). The act takes effect on 1 Jan 2027 and applies to consequential decisions made on or after that date; its rule-making provisions, a joinder clause and the appropriation took effect on passage. The Attorney General must adopt rules on post-adverse outcome disclosures and on the consumer rights to correction and human review by 1 Jan 2027, and may adopt rules clarifying 'materially influence'. The 60-day notice-and-cure provision is repealed on 1 Jan 2030, and annual enforcement reports begin in January 2028. The act creates no new private right of action and allocates fault between developers and deployers in discrimination actions by relative fault.",
@@ -38169,6 +39104,10 @@
     {
      "slug": "nv-ab-406-ai-mental-health",
      "id": "US-NV-01"
+    },
+    {
+     "id": "US-VT-01",
+     "slug": "vt-act-156-ai-mental-health-services"
     }
    ],
    "notes": "Signed by Governor Pritzker on Friday 1 Aug 2025 and announced by the Department of Financial and Professional Regulation (IDFPR) on 4 Aug 2025; it took effect on signature. The Act passed both chambers of the General Assembly unanimously and was developed with IDFPR and the National Association of Social Workers, Illinois Chapter.",
@@ -38303,6 +39242,10 @@
     {
      "slug": "illinois-ai-safety-measures-act-sb-315",
      "id": "US-IL-03"
+    },
+    {
+     "id": "US-CT-01",
+     "slug": "ct-pa-26-15-online-safety-ai"
     }
    ],
    "notes": "Both houses passed S6953-B (same as A6453-B) on 12 Jun 2025; it was delivered to the Governor on 9 Dec 2025 and signed on 19 Dec 2025 as Chapter 699 of 2025, with approval memo 76, the Governor announcing agreed chapter amendments. The chapter amendment S8828 (same as A9449) passed the Senate on 28 Jan 2026 and the Assembly on 11 Mar 2026 and was signed on 27 Mar 2026 as Chapter 96 of 2026. It repealed and replaced Article 44-B of the General Business Law as first enacted: a revenue test of over USD 500 million replaced the test of over USD 100 million in compute costs, the ban on deploying a frontier model that would create an unreasonable risk of critical harm was dropped, maximum penalties fell from USD 10 million and 30 million to 1 million and 3 million, and the effective date moved from the ninetieth day after enactment to 1 Jan 2027. Large frontier developers must also send the office summaries of catastrophic-risk assessments of internal use every three months and pay assessments to fund it. The office's annual reports begin on 1 Jan 2028. Accredited colleges and universities doing academic research and the Empire AI consortium are exempt, and there is no private right of action. The Governor described the law as building on California's recently adopted framework.",
@@ -38792,6 +39735,10 @@
     {
      "slug": "tx-traiga",
      "id": "US-TX-01"
+    },
+    {
+     "id": "US-IL-02",
+     "slug": "il-hb-1806"
     }
    ],
    "notes": "Passed the Senate 26-0 on 13 Feb 2024 and the House 73-0 on 28 Feb 2024; signed by the Governor on 13 Mar 2024 as Laws of Utah 2024, Chapter 186, and in effect from 1 May 2024. The bill enacted the Act as Title 13, Chapter 70, codified as Chapter 72, together with Utah Code 13-2-12 (generative AI and consumer protection) and 76-2-107 (offences committed with the aid of generative AI). As enacted, the Act's chapter was to be repealed on 1 May 2025; S.B. 332 and S.B. 226 of 2025 moved that date to 1 Jul 2027. S.B. 226 also repealed 13-2-12 from 7 May 2025 and replaced it with Title 13, Chapter 75: disclosure on request now needs a clear and unambiguous request, regulated occupations must disclose proactively only in high-risk AI interactions (such as collecting health, financial or biometric data or giving financial, legal, medical or mental health advice), and an AI that discloses its nature at the outset and throughout gets a safe harbour. H.B. 320 of 2026, in effect from 6 May 2026, revised the Office's duties, added joint interpretation agreements with agencies and other governmental entities, regular audits of participants and up to two 12-month extensions, and repealed the participation section, which had required participants to report incidents of consumer harm at once. H.B. 452 of 2025 separately regulates mental health chatbots.",
@@ -48837,6 +49784,10 @@
     {
      "id": "UZ-02",
      "slug": "uzbekistan-law-zru-1115-ai-regulation-amendments-2026"
+    },
+    {
+     "id": "AZ-01",
+     "slug": "azerbaijan-ai-strategy-2025-2028"
     }
    ],
    "notes": "Signed on 14 October 2024 and in force from 17 October 2024. The number is given as PQ-358 by the Ministry of Digital Technologies and as RP-358 in the English translation on lex.uz. The Minister of Digital Technologies is responsible for organising implementation and the Prime Minister oversees it; the Coordination Commission for the Digital Uzbekistan 2030 strategy reviews the priority AI projects. Presidential decrees amended the resolution: UP-189 of 22 October 2025 (loan terms, the Center's tasks, a restated 2024-2026 action plan), UP-223 of 21 November 2025 (the big-data list) and UP-141 of 24 July 2026 (targets, now 20 AI research laboratories; half-yearly monitoring by the Ministry of Digital Technologies; new chapters on monitoring and evaluation). lex.uz marks the Russian text of the Strategy, the action plan and the amendments as unofficial translations. Law ZRU-1115 of 21 January 2026 later added a definition of AI and general rules on its use to the Law on Informatization.",
@@ -52222,6 +53173,10 @@
     {
      "id": "UNESCO-01",
      "slug": "unesco-recommendation-ethics-ai"
+    },
+    {
+     "id": "AU-01",
+     "slug": "au-continental-ai-strategy"
     }
    ],
    "notes": "The published document is a summary version ('version résumée', 20 pages) dated 2023, produced with technical assistance from Expertise France under the AU-EU D4D Hub project. The minister presented the strategy publicly on 14 September 2023 as a first restitution of the work, open to public contributions, and announced that a final version would be submitted to the head of state for political validation. The OECD.AI entry gives 2024 as its start year and lists it as active. Besides orientation 6, the strategy proposes reaffirming in law the principles that multinational platforms must respect, drawing on the EU's Digital Services Act, Digital Markets Act and AI Act, and plans to train about 90,000 people in data science and AI by 2028.",
@@ -52402,7 +53357,12 @@
     "public-sector use",
     "research priorities"
    ],
-   "related": [],
+   "related": [
+    {
+     "id": "AU-01",
+     "slug": "au-continental-ai-strategy"
+    }
+   ],
    "notes": "The Council of Ministers approved the strategy and its action plan on 18 January 2023 (communiqué item II-3). Its four programmes are to be rolled out in three phases over five years, and its financing for 2023-2027 is estimated at about 4.68 billion CFA francs. The controls to be instituted under Action 4.1 are to ensure that AI systems take account of concepts such as transparency, justice and equity, responsibility, non-maleficence, privacy, freedom and autonomy.",
    "verification": {
     "level": "A",
@@ -57490,6 +58450,10 @@
     {
      "id": "KR-08",
      "slug": "kr-ai-impact-assessment-guideline-2026"
+    },
+    {
+     "id": "KR-04",
+     "slug": "kr-ai-basic-act-transparency-guideline-2026"
     }
    ],
    "notes": "Published on 22 January 2026, when the Act entered into force. NIA records revised uploads on 29 January 2026 (decision flows for criminal investigation and arrest), 13 February 2026 (health-care criteria and a non-applicable example) and 29 April 2026 (health-care decision flow); the file recorded here is the 29 April 2026 version (216 pages). Operators judge for themselves whether their AI is high-impact and may ask the Minister to confirm; the guideline says it is not legally binding, that the expert committee's advice on a request is non-binding and optional, and that the Minister's confirmation is an administrative view on which the courts have the final say. Annexes reproduce the Act (Act No. 20676), the draft Enforcement Decree and the request forms. MSIT's online form for confirmation requests asks operators to review the guideline first and refers them to an advice desk.",
@@ -62980,6 +63944,22 @@
     {
      "id": "CN-03",
      "slug": "cn-generative-ai-interim-measures"
+    },
+    {
+     "id": "CN-18",
+     "slug": "draft-national-standard-on-ai-security-capability-maturity-a"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-22",
+     "slug": "tc260-pg-202610a-ai-application-security-health"
+    },
+    {
+     "id": "CN-23",
+     "slug": "tc260-pg-202611a-ai-application-security-radio-tv-and-networ"
     }
    ],
    "notes": "Published 25 Apr 2025 and effective 1 Nov 2025. It is a recommended 'GB/T' national standard, not a mandatory 'GB' one, and SAMR's platform lists a plan for an English-language edition. It takes its definitions of generative AI data annotation and of functional and security annotation from GB/T 45654-2025 (CN-10). It applies to organisers of annotation and can guide data requesters' acceptance checks and third-party security assessments; it also sets assessment methods for each requirement, and its annexes give annotation examples and task types.",
@@ -63283,6 +64263,10 @@
     {
      "id": "CN-27",
      "slug": "tc260-pg-20267a-security-guide-for-individual-ai-users"
+    },
+    {
+     "id": "CN-19",
+     "slug": "tc260-draft-guide-on-agentic-ai-system-development-security"
     }
    ],
    "notes": "Version v1.0-202607, released with notice 网安秘字〔2026〕80号 of 1 July 2026. It can also guide the choice of commercial agent services. High-risk operations include stopping system services, formatting disks, bulk deletion, changing permissions, keys or firewall rules and accessing password managers, and may include transfers and payments. Annex A is a security checklist; Annex B gives organisations management guidance: an internal agent-use policy with prohibited behaviour and approval steps, an agent asset register, logging and risk analysis of agent activity, and discovery of unapproved agents on internal networks.",

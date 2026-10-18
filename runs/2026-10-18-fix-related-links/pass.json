@@ -1,0 +1,3132 @@
+{
+ "provenance": {
+  "date": "2026-10-18",
+  "agent": "Claude Code",
+  "model": "claude-opus-5-5",
+  "run_id": "2026-10-18-fix-related-links",
+  "scope": "make every related link two-way (one-way links from version 1); script, no agent judgment"
+ },
+ "records": [],
+ "updates": [
+  {
+   "id": "ASEAN-01",
+   "related": [
+    {
+     "slug": "asean-expanded-guide-generative-ai",
+     "id": "ASEAN-02"
+    },
+    {
+     "slug": "brunei-aiti-guide-on-ai-governance-and-ethics-2025",
+     "id": "BN-01"
+    },
+    {
+     "slug": "cambodia-draft-national-ai-strategy-2025-2030",
+     "id": "KH-01"
+    },
+    {
+     "id": "MY-01",
+     "slug": "malaysia-national-guidelines-ai-governance-ethics"
+    }
+   ]
+  },
+  {
+   "id": "ASEAN-02",
+   "related": [
+    {
+     "slug": "asean-guide-ai-governance-ethics",
+     "id": "ASEAN-01"
+    },
+    {
+     "id": "KH-01",
+     "slug": "cambodia-draft-national-ai-strategy-2025-2030"
+    },
+    {
+     "id": "SG-04",
+     "slug": "singapore-model-ai-governance-framework-generative-ai"
+    }
+   ]
+  },
+  {
+   "id": "AUS-06",
+   "related": [
+    {
+     "slug": "australia-ai-safety-institute",
+     "id": "AUS-07"
+    },
+    {
+     "slug": "australia-mandatory-guardrails-proposals-paper",
+     "id": "AUS-04"
+    },
+    {
+     "slug": "australia-guidance-for-ai-adoption",
+     "id": "AUS-05"
+    },
+    {
+     "id": "AUS-01",
+     "slug": "australia-policy-responsible-use-ai-government"
+    },
+    {
+     "id": "AUS-02",
+     "slug": "australia-deepfake-sexual-material-act-2024"
+    }
+   ]
+  },
+  {
+   "id": "BJ-01",
+   "related": [
+    {
+     "id": "AU-01",
+     "slug": "au-continental-ai-strategy"
+    }
+   ]
+  },
+  {
+   "id": "CA-01",
+   "related": [
+    {
+     "slug": "ca-ai-strategy-federal-public-service-2025-2027",
+     "id": "CA-06"
+    },
+    {
+     "slug": "ca-tbs-guide-generative-ai",
+     "id": "CA-04"
+    },
+    {
+     "id": "CA-ON-01",
+     "slug": "ontario-bill-194-edsta"
+    }
+   ]
+  },
+  {
+   "id": "CA-08",
+   "related": [
+    {
+     "slug": "ca-national-ai-strategy-2026",
+     "id": "CA-07"
+    },
+    {
+     "id": "CA-02",
+     "slug": "ca-aida"
+    }
+   ]
+  },
+  {
+   "id": "CL-01",
+   "related": [
+    {
+     "slug": "cl-ai-bill",
+     "id": "CL-02"
+    },
+    {
+     "id": "INT-12",
+     "slug": "lac-santiago-declaration-2023"
+    },
+    {
+     "id": "INT-17",
+     "slug": "lac-montevideo-declaration-2024"
+    }
+   ]
+  },
+  {
+   "id": "CN-01",
+   "related": [
+    {
+     "slug": "cn-deep-synthesis-provisions",
+     "id": "CN-02"
+    },
+    {
+     "slug": "cn-generative-ai-interim-measures",
+     "id": "CN-03"
+    },
+    {
+     "slug": "cn-ai-content-labeling-measures",
+     "id": "CN-09"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-16",
+     "slug": "cn-anthropomorphic-ai-interim-measures"
+    }
+   ]
+  },
+  {
+   "id": "CN-03",
+   "related": [
+    {
+     "slug": "cn-tc260-003-genai-security-requirements",
+     "id": "CN-06"
+    },
+    {
+     "slug": "cn-gb-t-45654-2025",
+     "id": "CN-10"
+    },
+    {
+     "slug": "cn-deep-synthesis-provisions",
+     "id": "CN-02"
+    },
+    {
+     "slug": "cn-ai-content-labeling-measures",
+     "id": "CN-09"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-24",
+     "slug": "gb-t-45674-2025"
+    },
+    {
+     "id": "CN-25",
+     "slug": "tc260-pg-202515a-generative-ai-security-emergency-response"
+    },
+    {
+     "id": "CN-01",
+     "slug": "cn-algorithmic-recommendation-provisions"
+    },
+    {
+     "id": "CN-14",
+     "slug": "cn-cybersecurity-law-2025-amendment"
+    },
+    {
+     "id": "CN-16",
+     "slug": "cn-anthropomorphic-ai-interim-measures"
+    }
+   ]
+  },
+  {
+   "id": "CN-11",
+   "related": [
+    {
+     "slug": "cn-global-ai-governance-initiative",
+     "id": "CN-05"
+    },
+    {
+     "slug": "intl-waico-agreement",
+     "id": "INT-15"
+    },
+    {
+     "id": "BRICS-01",
+     "slug": "brics-leaders-statement-global-governance-ai-2025"
+    }
+   ]
+  },
+  {
+   "id": "CN-13",
+   "related": [
+    {
+     "slug": "cn-ai-safety-governance-framework-1-0",
+     "id": "CN-07"
+    },
+    {
+     "slug": "cn-ai-safety-governance-framework-3-0",
+     "id": "CN-17"
+    },
+    {
+     "id": "CN-19",
+     "slug": "tc260-draft-guide-on-agentic-ai-system-development-security"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-22",
+     "slug": "tc260-pg-202610a-ai-application-security-health"
+    },
+    {
+     "id": "CN-12",
+     "slug": "cn-ai-plus-action-opinions"
+    }
+   ]
+  },
+  {
+   "id": "CN-14",
+   "related": [
+    {
+     "slug": "cn-generative-ai-interim-measures",
+     "id": "CN-03"
+    },
+    {
+     "slug": "cn-ai-ethics-review-measures-2026",
+     "id": "CN-15"
+    },
+    {
+     "id": "CN-12",
+     "slug": "cn-ai-plus-action-opinions"
+    }
+   ]
+  },
+  {
+   "id": "CN-24",
+   "related": [
+    {
+     "id": "CN-10",
+     "slug": "cn-gb-t-45654-2025"
+    },
+    {
+     "id": "CN-03",
+     "slug": "cn-generative-ai-interim-measures"
+    },
+    {
+     "id": "CN-18",
+     "slug": "draft-national-standard-on-ai-security-capability-maturity-a"
+    },
+    {
+     "id": "CN-20",
+     "slug": "tc260-pg-20268a-ai-application-security-general-provisions"
+    },
+    {
+     "id": "CN-22",
+     "slug": "tc260-pg-202610a-ai-application-security-health"
+    },
+    {
+     "id": "CN-23",
+     "slug": "tc260-pg-202611a-ai-application-security-radio-tv-and-networ"
+    }
+   ]
+  },
+  {
+   "id": "CN-26",
+   "related": [
+    {
+     "id": "CN-27",
+     "slug": "tc260-pg-20267a-security-guide-for-individual-ai-users"
+    },
+    {
+     "id": "CN-19",
+     "slug": "tc260-draft-guide-on-agentic-ai-system-development-security"
+    }
+   ]
+  },
+  {
+   "id": "COE-01",
+   "related": [
+    {
+     "slug": "coe-huderia",
+     "id": "COE-02"
+    },
+    {
+     "slug": "eu-ai-act",
+     "id": "EU-03"
+    },
+    {
+     "id": "CH-01",
+     "slug": "ch-federal-council-ai-regulation-approach-2025"
+    },
+    {
+     "id": "NO-02",
+     "slug": "no-ai-act-draft-ki-loven"
+    },
+    {
+     "id": "UA-01",
+     "slug": "ua-ai-regulation-roadmap-2023"
+    }
+   ]
+  },
+  {
+   "id": "COE-02",
+   "related": [
+    {
+     "slug": "coe-framework-convention-ai",
+     "id": "COE-01"
+    },
+    {
+     "id": "SI-02",
+     "slug": "si-national-ai-strategy-2030-nsui"
+    }
+   ]
+  },
+  {
+   "id": "EU-02",
+   "related": [
+    {
+     "slug": "eu-ai-act",
+     "id": "EU-03"
+    },
+    {
+     "slug": "eu-scientific-panel-implementing-regulation",
+     "id": "EU-08"
+    },
+    {
+     "slug": "eu-gpai-code-of-practice",
+     "id": "EU-10"
+    },
+    {
+     "slug": "eu-digital-omnibus-ai",
+     "id": "EU-18"
+    },
+    {
+     "id": "EU-17",
+     "slug": "eu-action-plan-cybersecurity-ai"
+    }
+   ]
+  },
+  {
+   "id": "EU-03",
+   "related": [
+    {
+     "slug": "eu-digital-omnibus-ai",
+     "id": "EU-18"
+    },
+    {
+     "slug": "eu-ai-office-decision",
+     "id": "EU-02"
+    },
+    {
+     "slug": "eu-gpai-code-of-practice",
+     "id": "EU-10"
+    },
+    {
+     "slug": "eu-guidelines-prohibited-ai-practices",
+     "id": "EU-06"
+    },
+    {
+     "slug": "eu-guidelines-ai-system-definition",
+     "id": "EU-07"
+    },
+    {
+     "slug": "eu-guidelines-gpai-providers",
+     "id": "EU-11"
+    },
+    {
+     "slug": "eu-guidelines-transparency-article-50",
+     "id": "EU-19"
+    },
+    {
+     "slug": "eu-code-of-practice-ai-generated-content",
+     "id": "EU-16"
+    },
+    {
+     "slug": "eu-draft-guidelines-high-risk-classification",
+     "id": "EU-14"
+    },
+    {
+     "slug": "eu-ai-act-standardisation-request",
+     "id": "EU-09"
+    },
+    {
+     "slug": "eu-scientific-panel-implementing-regulation",
+     "id": "EU-08"
+    },
+    {
+     "id": "SK-04",
+     "slug": "slovak-ai-synthetic-content-misuse-bill-miklosko-janckulik"
+    },
+    {
+     "id": "AT-01",
+     "slug": "at-ki-servicestelle-rtr-law-2024"
+    },
+    {
+     "id": "BG-01",
+     "slug": "bg-council-of-ministers-decision-398-2025-ai-act-fundamental-rights-authorities"
+    },
+    {
+     "id": "BG-02",
+     "slug": "bg-bill-on-the-use-and-development-of-artificial-intelligence-2026"
+    },
+    {
+     "id": "COE-01",
+     "slug": "coe-framework-convention-ai"
+    },
+    {
+     "id": "CY-01",
+     "slug": "cy-artificial-intelligence-law-2026-draft"
+    },
+    {
+     "id": "CZ-01",
+     "slug": "cz-draft-act-on-artificial-intelligence"
+    },
+    {
+     "id": "CZ-02",
+     "slug": "cz-ai-act-implementation-plan-2025"
+    },
+    {
+     "id": "DE-01",
+     "slug": "germany-ki-mig-ai-act-implementation-law"
+    },
+    {
+     "id": "DK-01",
+     "slug": "dk-ai-act-supplementary-law-2025"
+    },
+    {
+     "id": "ES-02",
+     "slug": "es-ai-sandbox-rd-817-2023"
+    },
+    {
+     "id": "ES-03",
+     "slug": "es-draft-ai-governance-law-2025"
+    },
+    {
+     "id": "EU-01",
+     "slug": "eu-ai-liability-directive-proposal"
+    },
+    {
+     "id": "EU-04",
+     "slug": "eu-ai-pact"
+    },
+    {
+     "id": "EU-05",
+     "slug": "eu-product-liability-directive-2024"
+    },
+    {
+     "id": "EU-12",
+     "slug": "eu-gpai-training-content-template"
+    },
+    {
+     "id": "EU-13",
+     "slug": "eu-serious-incident-reporting-guidance"
+    },
+    {
+     "id": "EU-15",
+     "slug": "eu-report-review-prohibitions-annex-iii"
+    },
+    {
+     "id": "EU-17",
+     "slug": "eu-action-plan-cybersecurity-ai"
+    },
+    {
+     "id": "FI-01",
+     "slug": "fi-act-supervision-certain-ai-systems-2025"
+    },
+    {
+     "id": "FR-01",
+     "slug": "fr-inesia-2025"
+    },
+    {
+     "id": "GR-01",
+     "slug": "gr-law-5321-2026-ai-act-implementation"
+    },
+    {
+     "id": "GR-02",
+     "slug": "gr-law-4961-2022-ai-chapter"
+    },
+    {
+     "id": "GR-03",
+     "slug": "gr-blueprint-ai-transformation-2024"
+    },
+    {
+     "id": "HR-01",
+     "slug": "hr-criminal-code-ai-offence-art-215a-2025"
+    },
+    {
+     "id": "HU-01",
+     "slug": "hu-act-lxxv-2025-ai-act-implementation"
+    },
+    {
+     "id": "HU-02",
+     "slug": "hu-govt-decree-344-2025-ai-act-implementation"
+    },
+    {
+     "id": "IE-01",
+     "slug": "ie-regulation-of-ai-act-2026"
+    },
+    {
+     "id": "IS-01",
+     "slug": "is-ai-action-plan-2025-2027"
+    },
+    {
+     "id": "IT-01",
+     "slug": "it-law-132-2025-ai"
+    },
+    {
+     "id": "IT-02",
+     "slug": "it-dlgs-160-2026-police-ai-and-liability"
+    },
+    {
+     "id": "IT-03",
+     "slug": "it-dlgs-179-2026-ai-authorities-powers"
+    },
+    {
+     "id": "KR-08",
+     "slug": "kr-ai-impact-assessment-guideline-2026"
+    },
+    {
+     "id": "LT-01",
+     "slug": "lt-law-xv-105-technology-and-innovation-law-ai-act-amendments"
+    },
+    {
+     "id": "LU-01",
+     "slug": "lu-projet-de-loi-8476-ai-act-implementation"
+    },
+    {
+     "id": "LV-02",
+     "slug": "lv-informative-report-ai-act-implementation-2025"
+    },
+    {
+     "id": "LV-03",
+     "slug": "lv-financial-market-digital-operational-resilience-and-ai-use-law"
+    },
+    {
+     "id": "MT-01",
+     "slug": "mt-artificial-intelligence-regulations-2025-ln226"
+    },
+    {
+     "id": "MT-02",
+     "slug": "mt-idpc-ai-act-designation-regulations-2025-ln227"
+    },
+    {
+     "id": "NL-01",
+     "slug": "nl-uitvoeringswet-ai-verordening-draft-bill"
+    },
+    {
+     "id": "NL-02",
+     "slug": "nl-government-wide-vision-generative-ai-2024"
+    },
+    {
+     "id": "NO-02",
+     "slug": "no-ai-act-draft-ki-loven"
+    },
+    {
+     "id": "PL-01",
+     "slug": "pl-ai-systems-act-2026"
+    },
+    {
+     "id": "PT-01",
+     "slug": "pt-rcm-2-2026-national-ai-agenda-ania"
+    },
+    {
+     "id": "PY-01",
+     "slug": "py-senate-ai-systems-bill-2025"
+    },
+    {
+     "id": "RO-01",
+     "slug": "ro-draft-law-responsible-use-of-ai-plx-184-2025"
+    },
+    {
+     "id": "RS-02",
+     "slug": "rs-ai-development-strategy-2025-2030"
+    },
+    {
+     "id": "SE-01",
+     "slug": "se-sou-2025-101-ai-act-adaptations"
+    },
+    {
+     "id": "SE-02",
+     "slug": "se-interim-ai-act-competent-authorities-2026"
+    },
+    {
+     "id": "SI-01",
+     "slug": "si-ziudhpui-ai-act-implementation-act-2025"
+    },
+    {
+     "id": "SI-02",
+     "slug": "si-national-ai-strategy-2030-nsui"
+    },
+    {
+     "id": "SK-01",
+     "slug": "sk-act-318-2025-conformity-assessment-ai-act-adaptation"
+    },
+    {
+     "id": "SK-02",
+     "slug": "sk-government-bill-state-administration-ai-and-european-data-regulation-1447"
+    },
+    {
+     "id": "TR-01",
+     "slug": "tr-ai-bill-2-2234-2024"
+    },
+    {
+     "id": "UA-01",
+     "slug": "ua-ai-regulation-roadmap-2023"
+    },
+    {
+     "id": "UA-02",
+     "slug": "ua-ai-regulation-white-paper-2024"
+    }
+   ]
+  },
+  {
+   "id": "EU-10",
+   "related": [
+    {
+     "slug": "eu-ai-act",
+     "id": "EU-03"
+    },
+    {
+     "slug": "eu-guidelines-gpai-providers",
+     "id": "EU-11"
+    },
+    {
+     "slug": "eu-gpai-training-content-template",
+     "id": "EU-12"
+    },
+    {
+     "slug": "eu-serious-incident-reporting-guidance",
+     "id": "EU-13"
+    },
+    {
+     "id": "EU-02",
+     "slug": "eu-ai-office-decision"
+    }
+   ]
+  },
+  {
+   "id": "EU-14",
+   "related": [
+    {
+     "slug": "eu-ai-act",
+     "id": "EU-03"
+    },
+    {
+     "slug": "eu-digital-omnibus-ai",
+     "id": "EU-18"
+    },
+    {
+     "id": "EU-15",
+     "slug": "eu-report-review-prohibitions-annex-iii"
+    }
+   ]
+  },
+  {
+   "id": "EU-18",
+   "related": [
+    {
+     "slug": "eu-ai-act",
+     "id": "EU-03"
+    },
+    {
+     "id": "EU-02",
+     "slug": "eu-ai-office-decision"
+    },
+    {
+     "id": "EU-06",
+     "slug": "eu-guidelines-prohibited-ai-practices"
+    },
+    {
+     "id": "EU-09",
+     "slug": "eu-ai-act-standardisation-request"
+    },
+    {
+     "id": "EU-14",
+     "slug": "eu-draft-guidelines-high-risk-classification"
+    },
+    {
+     "id": "EU-15",
+     "slug": "eu-report-review-prohibitions-annex-iii"
+    },
+    {
+     "id": "EU-19",
+     "slug": "eu-guidelines-transparency-article-50"
+    },
+    {
+     "id": "NL-01",
+     "slug": "nl-uitvoeringswet-ai-verordening-draft-bill"
+    },
+    {
+     "id": "NO-02",
+     "slug": "no-ai-act-draft-ki-loven"
+    }
+   ]
+  },
+  {
+   "id": "G7-01",
+   "related": [
+    {
+     "slug": "hiroshima-process-code-of-conduct",
+     "id": "G7-02"
+    },
+    {
+     "slug": "hiroshima-ai-process-comprehensive-policy-framework",
+     "id": "G7-03"
+    },
+    {
+     "slug": "oecd-recommendation-ai",
+     "id": "OECD-01"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "G7-06",
+     "slug": "g7-leaders-call-safer-digital-space-minors-2026"
+    }
+   ]
+  },
+  {
+   "id": "G7-02",
+   "related": [
+    {
+     "slug": "hiroshima-process-guiding-principles-advanced-ai",
+     "id": "G7-01"
+    },
+    {
+     "slug": "haip-reporting-framework",
+     "id": "OECD-02"
+    },
+    {
+     "slug": "frontier-ai-safety-commitments",
+     "id": "INT-06"
+    },
+    {
+     "slug": "seoul-declaration",
+     "id": "INT-04"
+    },
+    {
+     "id": "G7-03",
+     "slug": "hiroshima-ai-process-comprehensive-policy-framework"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "INT-20",
+     "slug": "hiroshima-ai-process-friends-group-action-plan-2026"
+    }
+   ]
+  },
+  {
+   "id": "GB-03",
+   "related": [
+    {
+     "slug": "uk-ai-security-institute-2025",
+     "id": "GB-07"
+    },
+    {
+     "slug": "uk-emerging-processes-frontier-ai-safety-2023",
+     "id": "GB-02"
+    },
+    {
+     "id": "GB-04",
+     "slug": "uk-ai-regulation-government-response-2024"
+    }
+   ]
+  },
+  {
+   "id": "GB-04",
+   "related": [
+    {
+     "slug": "uk-ai-regulation-white-paper-2023",
+     "id": "GB-01"
+    },
+    {
+     "slug": "uk-ai-safety-institute-2023",
+     "id": "GB-03"
+    },
+    {
+     "slug": "uk-artificial-superintelligence-bill-2026",
+     "id": "GB-10"
+    },
+    {
+     "id": "GB-05",
+     "slug": "uk-ai-opportunities-action-plan-2025"
+    }
+   ]
+  },
+  {
+   "id": "GB-07",
+   "related": [
+    {
+     "slug": "uk-ai-safety-institute-2023",
+     "id": "GB-03"
+    },
+    {
+     "id": "GB-05",
+     "slug": "uk-ai-opportunities-action-plan-2025"
+    },
+    {
+     "id": "GB-09",
+     "slug": "uk-crime-and-policing-act-2026-ai-provisions"
+    },
+    {
+     "id": "INT-19",
+     "slug": "five-country-ministerial-communique-2026-ai"
+    }
+   ]
+  },
+  {
+   "id": "GB-08",
+   "related": [
+    {
+     "slug": "uk-crime-and-policing-act-2026-ai-provisions",
+     "id": "GB-09"
+    },
+    {
+     "id": "US-MN-01",
+     "slug": "mn-hf-1606-nudification-technology-ban"
+    },
+    {
+     "id": "US-NJ-01",
+     "slug": "nj-pl-2025-c40-deepfake-penalties"
+    }
+   ]
+  },
+  {
+   "id": "IN-02",
+   "related": [
+    {
+     "slug": "india-indiaai-safety-institute",
+     "id": "IN-01"
+    },
+    {
+     "slug": "india-it-rules-synthetic-information-amendment-2026",
+     "id": "IN-03"
+    },
+    {
+     "slug": "new-delhi-declaration-ai-impact",
+     "id": "INT-02"
+    },
+    {
+     "id": "NP-01",
+     "slug": "nepal-national-ai-policy-2082-2025"
+    }
+   ]
+  },
+  {
+   "id": "INT-01",
+   "related": [
+    {
+     "slug": "bletchley-declaration",
+     "id": "INT-03"
+    },
+    {
+     "slug": "seoul-declaration",
+     "id": "INT-04"
+    },
+    {
+     "slug": "new-delhi-declaration-ai-impact",
+     "id": "INT-02"
+    },
+    {
+     "slug": "unga-79-325-scientific-panel-global-dialogue",
+     "id": "UN-07"
+    },
+    {
+     "slug": "international-ai-safety-report-2025",
+     "id": "INT-09"
+    },
+    {
+     "id": "INT-06",
+     "slug": "frontier-ai-safety-commitments"
+    },
+    {
+     "id": "INT-07",
+     "slug": "seoul-ministerial-statement"
+    }
+   ]
+  },
+  {
+   "id": "INT-02",
+   "related": [
+    {
+     "slug": "paris-ai-action-summit-statement",
+     "id": "INT-01"
+    },
+    {
+     "slug": "international-ai-safety-report-2026",
+     "id": "INT-10"
+    },
+    {
+     "id": "BRICS-02",
+     "slug": "brics-new-delhi-declaration-2026-ai"
+    },
+    {
+     "id": "IN-02",
+     "slug": "india-ai-governance-guidelines"
+    }
+   ]
+  },
+  {
+   "id": "INT-04",
+   "related": [
+    {
+     "slug": "seoul-statement-of-intent-ai-safety-science",
+     "id": "INT-05"
+    },
+    {
+     "slug": "seoul-ministerial-statement",
+     "id": "INT-07"
+    },
+    {
+     "slug": "frontier-ai-safety-commitments",
+     "id": "INT-06"
+    },
+    {
+     "slug": "bletchley-declaration",
+     "id": "INT-03"
+    },
+    {
+     "slug": "hiroshima-process-code-of-conduct",
+     "id": "G7-02"
+    },
+    {
+     "id": "INT-01",
+     "slug": "paris-ai-action-summit-statement"
+    }
+   ]
+  },
+  {
+   "id": "INT-06",
+   "related": [
+    {
+     "slug": "seoul-declaration",
+     "id": "INT-04"
+    },
+    {
+     "slug": "seoul-ministerial-statement",
+     "id": "INT-07"
+    },
+    {
+     "slug": "hiroshima-process-code-of-conduct",
+     "id": "G7-02"
+    },
+    {
+     "slug": "paris-ai-action-summit-statement",
+     "id": "INT-01"
+    },
+    {
+     "id": "GB-02",
+     "slug": "uk-emerging-processes-frontier-ai-safety-2023"
+    }
+   ]
+  },
+  {
+   "id": "INT-09",
+   "related": [
+    {
+     "slug": "international-scientific-report-safety-advanced-ai-interim",
+     "id": "INT-08"
+    },
+    {
+     "slug": "international-ai-safety-report-2026",
+     "id": "INT-10"
+    },
+    {
+     "slug": "paris-ai-action-summit-statement",
+     "id": "INT-01"
+    },
+    {
+     "id": "INT-05",
+     "slug": "seoul-statement-of-intent-ai-safety-science"
+    },
+    {
+     "id": "SG-07",
+     "slug": "singapore-consensus-ai-safety-research-priorities"
+    }
+   ]
+  },
+  {
+   "id": "INT-10",
+   "related": [
+    {
+     "slug": "international-ai-safety-report-2025",
+     "id": "INT-09"
+    },
+    {
+     "slug": "new-delhi-declaration-ai-impact",
+     "id": "INT-02"
+    },
+    {
+     "slug": "un-scientific-panel-preliminary-report",
+     "id": "UN-08"
+    },
+    {
+     "id": "INT-08",
+     "slug": "international-scientific-report-safety-advanced-ai-interim"
+    }
+   ]
+  },
+  {
+   "id": "INT-11",
+   "related": [
+    {
+     "slug": "seoul-statement-of-intent-ai-safety-science",
+     "id": "INT-05"
+    },
+    {
+     "slug": "g7-ministerial-declaration-digital-technology-2026",
+     "id": "G7-04"
+    },
+    {
+     "slug": "us-caisi",
+     "id": "US-15"
+    },
+    {
+     "id": "AUS-07",
+     "slug": "australia-ai-safety-institute"
+    },
+    {
+     "id": "IN-01",
+     "slug": "india-indiaai-safety-institute"
+    },
+    {
+     "id": "INT-19",
+     "slug": "five-country-ministerial-communique-2026-ai"
+    },
+    {
+     "id": "SG-03",
+     "slug": "singapore-ai-safety-institute"
+    }
+   ]
+  },
+  {
+   "id": "INT-13",
+   "related": [
+    {
+     "slug": "reaim-2023-call-to-action",
+     "id": "INT-14"
+    },
+    {
+     "slug": "nato-revised-ai-strategy-2024",
+     "id": "NATO-01"
+    },
+    {
+     "slug": "unga-79-62-lethal-autonomous-weapons",
+     "id": "UN-06"
+    },
+    {
+     "slug": "reaim-2026-pathways-to-action",
+     "id": "INT-18"
+    },
+    {
+     "id": "INT-16",
+     "slug": "reaim-2024-blueprint-for-action"
+    },
+    {
+     "id": "UN-01",
+     "slug": "unga-78-241-lethal-autonomous-weapons"
+    },
+    {
+     "id": "UN-10",
+     "slug": "unga-resolution-79-239-ai-military-domain"
+    }
+   ]
+  },
+  {
+   "id": "INT-14",
+   "related": [
+    {
+     "slug": "political-declaration-responsible-military-ai",
+     "id": "INT-13"
+    },
+    {
+     "slug": "unga-78-241-lethal-autonomous-weapons",
+     "id": "UN-01"
+    },
+    {
+     "slug": "reaim-2024-blueprint-for-action",
+     "id": "INT-16"
+    },
+    {
+     "slug": "reaim-2026-pathways-to-action",
+     "id": "INT-18"
+    },
+    {
+     "id": "NATO-01",
+     "slug": "nato-revised-ai-strategy-2024"
+    },
+    {
+     "id": "UN-10",
+     "slug": "unga-resolution-79-239-ai-military-domain"
+    }
+   ]
+  },
+  {
+   "id": "JP-01",
+   "related": [
+    {
+     "slug": "jp-aisi-evaluation-redteaming-guides",
+     "id": "JP-03"
+    },
+    {
+     "slug": "jp-ai-basic-plan",
+     "id": "JP-06"
+    },
+    {
+     "slug": "jp-ai-guidelines-for-business",
+     "id": "JP-02"
+    },
+    {
+     "id": "JP-07",
+     "slug": "j-aisi-ai-incident-response-approach-book-ai-irs"
+    },
+    {
+     "id": "JP-08",
+     "slug": "j-aisi-chief-ai-officer-caio-guides"
+    },
+    {
+     "id": "JP-09",
+     "slug": "j-aisi-data-quality-management-guidebook"
+    },
+    {
+     "id": "JP-10",
+     "slug": "j-aisi-activity-map-on-ai-safety-amais"
+    },
+    {
+     "id": "JP-11",
+     "slug": "j-aisi-healthcare-ai-safety-evaluation-guide"
+    },
+    {
+     "id": "JP-04",
+     "slug": "jp-ai-promotion-act"
+    }
+   ]
+  },
+  {
+   "id": "JP-02",
+   "related": [
+    {
+     "slug": "jp-ai-appropriateness-guideline",
+     "id": "JP-05"
+    },
+    {
+     "slug": "jp-aisi",
+     "id": "JP-01"
+    },
+    {
+     "id": "JP-12",
+     "slug": "mic-guidelines-on-technical-measures-for-ai-security"
+    },
+    {
+     "id": "JP-13",
+     "slug": "digital-agency-guideline-on-generative-ai-procurement-and-us"
+    },
+    {
+     "id": "JP-03",
+     "slug": "jp-aisi-evaluation-redteaming-guides"
+    }
+   ]
+  },
+  {
+   "id": "JP-05",
+   "related": [
+    {
+     "slug": "jp-ai-promotion-act",
+     "id": "JP-04"
+    },
+    {
+     "slug": "jp-ai-guidelines-for-business",
+     "id": "JP-02"
+    },
+    {
+     "id": "JP-08",
+     "slug": "j-aisi-chief-ai-officer-caio-guides"
+    },
+    {
+     "id": "JP-13",
+     "slug": "digital-agency-guideline-on-generative-ai-procurement-and-us"
+    },
+    {
+     "id": "JP-06",
+     "slug": "jp-ai-basic-plan"
+    }
+   ]
+  },
+  {
+   "id": "KR-01",
+   "related": [
+    {
+     "slug": "kr-ai-basic-act",
+     "id": "KR-02"
+    },
+    {
+     "id": "KR-03",
+     "slug": "kr-ai-basic-act-enforcement-decree"
+    },
+    {
+     "id": "KR-05",
+     "slug": "kr-ai-basic-act-safety-guideline-draft-2026"
+    }
+   ]
+  },
+  {
+   "id": "KR-06",
+   "related": [
+    {
+     "id": "KR-02",
+     "slug": "kr-ai-basic-act"
+    },
+    {
+     "id": "KR-03",
+     "slug": "kr-ai-basic-act-enforcement-decree"
+    },
+    {
+     "id": "KR-07",
+     "slug": "kr-high-impact-ai-operator-duties-guideline-2026"
+    },
+    {
+     "id": "KR-08",
+     "slug": "kr-ai-impact-assessment-guideline-2026"
+    },
+    {
+     "id": "KR-04",
+     "slug": "kr-ai-basic-act-transparency-guideline-2026"
+    }
+   ]
+  },
+  {
+   "id": "KZ-01",
+   "related": [
+    {
+     "slug": "kyrgyzstan-digital-code-2025-ai-chapter",
+     "id": "KG-01"
+    },
+    {
+     "id": "AZ-01",
+     "slug": "azerbaijan-ai-strategy-2025-2028"
+    },
+    {
+     "id": "UZ-02",
+     "slug": "uzbekistan-law-zru-1115-ai-regulation-amendments-2026"
+    }
+   ]
+  },
+  {
+   "id": "MY-01",
+   "related": [
+    {
+     "slug": "malaysia-ai-code-of-ethics",
+     "id": "MY-02"
+    },
+    {
+     "slug": "malaysia-national-ai-action-plan-2026-2030",
+     "id": "MY-03"
+    },
+    {
+     "slug": "asean-guide-ai-governance-ethics",
+     "id": "ASEAN-01"
+    },
+    {
+     "id": "BN-01",
+     "slug": "brunei-aiti-guide-on-ai-governance-and-ethics-2025"
+    }
+   ]
+  },
+  {
+   "id": "OECD-01",
+   "related": [
+    {
+     "slug": "hiroshima-process-guiding-principles-advanced-ai",
+     "id": "G7-01"
+    },
+    {
+     "slug": "haip-reporting-framework",
+     "id": "OECD-02"
+    },
+    {
+     "id": "AR-01",
+     "slug": "ar-disposicion-2-2023-recomendaciones-ia-fiable"
+    },
+    {
+     "id": "EG-01",
+     "slug": "eg-charter-for-responsible-ai-2023"
+    },
+    {
+     "id": "G20-01",
+     "slug": "g20-johannesburg-leaders-declaration-2025-ai"
+    },
+    {
+     "id": "G20-02",
+     "slug": "g20-innovation-ministerial-statement-2026"
+    },
+    {
+     "id": "INT-20",
+     "slug": "hiroshima-ai-process-friends-group-action-plan-2026"
+    },
+    {
+     "id": "NZ-01",
+     "slug": "new-zealand-public-service-ai-framework"
+    },
+    {
+     "id": "UNESCO-01",
+     "slug": "unesco-recommendation-ethics-ai"
+    },
+    {
+     "id": "ZM-01",
+     "slug": "zm-national-ai-strategy-2024-2026"
+    }
+   ]
+  },
+  {
+   "id": "OECD-02",
+   "related": [
+    {
+     "slug": "hiroshima-process-code-of-conduct",
+     "id": "G7-02"
+    },
+    {
+     "slug": "g7-ministerial-declaration-digital-technology-2026",
+     "id": "G7-04"
+    },
+    {
+     "slug": "oecd-recommendation-ai",
+     "id": "OECD-01"
+    },
+    {
+     "id": "G7-03",
+     "slug": "hiroshima-ai-process-comprehensive-policy-framework"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "INT-20",
+     "slug": "hiroshima-ai-process-friends-group-action-plan-2026"
+    }
+   ]
+  },
+  {
+   "id": "SG-04",
+   "related": [
+    {
+     "slug": "singapore-model-ai-governance-framework-2020",
+     "id": "SG-01"
+    },
+    {
+     "slug": "singapore-ai-verify",
+     "id": "SG-02"
+    },
+    {
+     "slug": "asean-expanded-guide-generative-ai",
+     "id": "ASEAN-02"
+    },
+    {
+     "id": "SG-06",
+     "slug": "singapore-csa-guidelines-securing-ai-systems"
+    },
+    {
+     "id": "SG-08",
+     "slug": "singapore-model-ai-governance-framework-agentic-ai"
+    }
+   ]
+  },
+  {
+   "id": "SN-01",
+   "related": [
+    {
+     "id": "UNESCO-01",
+     "slug": "unesco-recommendation-ethics-ai"
+    },
+    {
+     "id": "AU-01",
+     "slug": "au-continental-ai-strategy"
+    }
+   ]
+  },
+  {
+   "id": "UN-01",
+   "related": [
+    {
+     "slug": "unga-79-62-lethal-autonomous-weapons",
+     "id": "UN-06"
+    },
+    {
+     "slug": "political-declaration-responsible-military-ai",
+     "id": "INT-13"
+    },
+    {
+     "slug": "unga-resolution-79-239-ai-military-domain",
+     "id": "UN-10"
+    },
+    {
+     "slug": "unga-resolution-80-58-ai-military-domain",
+     "id": "UN-11"
+    },
+    {
+     "id": "INT-14",
+     "slug": "reaim-2023-call-to-action"
+    }
+   ]
+  },
+  {
+   "id": "UN-02",
+   "related": [
+    {
+     "slug": "unga-78-311-ai-capacity-building",
+     "id": "UN-03"
+    },
+    {
+     "slug": "global-digital-compact",
+     "id": "UN-05"
+    },
+    {
+     "id": "UN-13",
+     "slug": "un-global-dialogue-ai-governance-2026-co-chairs-summary"
+    }
+   ]
+  },
+  {
+   "id": "UN-05",
+   "related": [
+    {
+     "slug": "unga-79-325-scientific-panel-global-dialogue",
+     "id": "UN-07"
+    },
+    {
+     "slug": "un-hlab-governing-ai-for-humanity",
+     "id": "UN-04"
+    },
+    {
+     "id": "BRICS-01",
+     "slug": "brics-leaders-statement-global-governance-ai-2025"
+    },
+    {
+     "id": "G7-05",
+     "slug": "g7-leaders-statement-ai-for-prosperity-2025"
+    },
+    {
+     "id": "UN-02",
+     "slug": "unga-78-265-safe-secure-trustworthy-ai"
+    },
+    {
+     "id": "UN-03",
+     "slug": "unga-78-311-ai-capacity-building"
+    },
+    {
+     "id": "UN-13",
+     "slug": "un-global-dialogue-ai-governance-2026-co-chairs-summary"
+    }
+   ]
+  },
+  {
+   "id": "UN-07",
+   "related": [
+    {
+     "slug": "global-digital-compact",
+     "id": "UN-05"
+    },
+    {
+     "slug": "un-scientific-panel-preliminary-report",
+     "id": "UN-08"
+    },
+    {
+     "slug": "un-scientific-panel-brief-ai-agents-loss-of-control",
+     "id": "UN-09"
+    },
+    {
+     "slug": "un-hlab-governing-ai-for-humanity",
+     "id": "UN-04"
+    },
+    {
+     "slug": "un-global-dialogue-ai-governance-2026-co-chairs-summary",
+     "id": "UN-13"
+    },
+    {
+     "id": "BRICS-01",
+     "slug": "brics-leaders-statement-global-governance-ai-2025"
+    },
+    {
+     "id": "G20-01",
+     "slug": "g20-johannesburg-leaders-declaration-2025-ai"
+    },
+    {
+     "id": "INT-01",
+     "slug": "paris-ai-action-summit-statement"
+    }
+   ]
+  },
+  {
+   "id": "UNESCO-01",
+   "related": [
+    {
+     "slug": "oecd-recommendation-ai",
+     "id": "OECD-01"
+    },
+    {
+     "id": "AR-01",
+     "slug": "ar-disposicion-2-2023-recomendaciones-ia-fiable"
+    },
+    {
+     "id": "GH-01",
+     "slug": "gh-national-ai-strategy-2025-2035"
+    },
+    {
+     "id": "INT-17",
+     "slug": "lac-montevideo-declaration-2024"
+    },
+    {
+     "id": "JM-01",
+     "slug": "jm-national-ai-task-force-policy-recommendations"
+    },
+    {
+     "id": "JO-01",
+     "slug": "jo-national-ai-code-of-ethics-2022"
+    },
+    {
+     "id": "PK-01",
+     "slug": "pakistan-national-ai-policy-2025"
+    },
+    {
+     "id": "RS-01",
+     "slug": "rs-ethical-guidelines-reliable-and-responsible-ai-2023"
+    },
+    {
+     "id": "SN-01",
+     "slug": "sn-national-ai-strategy-roadmap-2023"
+    },
+    {
+     "id": "ZM-01",
+     "slug": "zm-national-ai-strategy-2024-2026"
+    }
+   ]
+  },
+  {
+   "id": "US-02",
+   "related": [
+    {
+     "slug": "us-nist-ai-600-1",
+     "id": "US-08"
+    },
+    {
+     "slug": "us-ai-action-plan-2025",
+     "id": "US-16"
+    },
+    {
+     "slug": "us-omb-m-25-21",
+     "id": "US-12"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
+    },
+    {
+     "id": "US-21",
+     "slug": "us-nist-ai-800-2"
+    },
+    {
+     "id": "US-MT-01",
+     "slug": "mt-sb-212-right-to-compute-act"
+    }
+   ]
+  },
+  {
+   "id": "US-04",
+   "related": [
+    {
+     "slug": "us-eo-14179",
+     "id": "US-11"
+    },
+    {
+     "slug": "us-aisi-establishment",
+     "id": "US-05"
+    },
+    {
+     "slug": "us-omb-m-24-10",
+     "id": "US-06"
+    },
+    {
+     "slug": "us-nsm-25",
+     "id": "US-09"
+    },
+    {
+     "slug": "us-nist-ai-800-1",
+     "id": "US-07"
+    },
+    {
+     "id": "US-01",
+     "slug": "us-blueprint-ai-bill-of-rights"
+    },
+    {
+     "id": "US-03",
+     "slug": "us-voluntary-ai-commitments-2023"
+    },
+    {
+     "id": "US-08",
+     "slug": "us-nist-ai-600-1"
+    },
+    {
+     "id": "US-10",
+     "slug": "us-bis-ai-diffusion-rule"
+    }
+   ]
+  },
+  {
+   "id": "US-05",
+   "related": [
+    {
+     "slug": "us-caisi",
+     "id": "US-15"
+    },
+    {
+     "slug": "us-eo-14110",
+     "id": "US-04"
+    },
+    {
+     "slug": "us-nist-ai-800-1",
+     "id": "US-07"
+    },
+    {
+     "id": "US-09",
+     "slug": "us-nsm-25"
+    }
+   ]
+  },
+  {
+   "id": "US-06",
+   "related": [
+    {
+     "slug": "us-omb-m-25-21",
+     "id": "US-12"
+    },
+    {
+     "slug": "us-eo-14110",
+     "id": "US-04"
+    },
+    {
+     "slug": "us-eo-14179",
+     "id": "US-11"
+    },
+    {
+     "id": "US-29",
+     "slug": "eo-13960"
+    },
+    {
+     "id": "US-01",
+     "slug": "us-blueprint-ai-bill-of-rights"
+    }
+   ]
+  },
+  {
+   "id": "US-08",
+   "related": [
+    {
+     "slug": "us-nist-ai-rmf",
+     "id": "US-02"
+    },
+    {
+     "slug": "us-eo-14110",
+     "id": "US-04"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
+    }
+   ]
+  },
+  {
+   "id": "US-09",
+   "related": [
+    {
+     "slug": "us-eo-14110",
+     "id": "US-04"
+    },
+    {
+     "slug": "us-aisi-establishment",
+     "id": "US-05"
+    },
+    {
+     "slug": "us-eo-14179",
+     "id": "US-11"
+    },
+    {
+     "slug": "us-eo-14409",
+     "id": "US-23"
+    },
+    {
+     "slug": "us-nspm-11-ai-national-security-enterprise",
+     "id": "US-28"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
+    }
+   ]
+  },
+  {
+   "id": "US-11",
+   "related": [
+    {
+     "slug": "us-eo-14110",
+     "id": "US-04"
+    },
+    {
+     "slug": "us-ai-action-plan-2025",
+     "id": "US-16"
+    },
+    {
+     "slug": "us-omb-m-25-21",
+     "id": "US-12"
+    },
+    {
+     "slug": "us-omb-m-25-22",
+     "id": "US-13"
+    },
+    {
+     "id": "US-06",
+     "slug": "us-omb-m-24-10"
+    },
+    {
+     "id": "US-09",
+     "slug": "us-nsm-25"
+    },
+    {
+     "id": "US-10",
+     "slug": "us-bis-ai-diffusion-rule"
+    },
+    {
+     "id": "US-28",
+     "slug": "us-nspm-11-ai-national-security-enterprise"
+    }
+   ]
+  },
+  {
+   "id": "US-12",
+   "related": [
+    {
+     "slug": "us-omb-m-24-10",
+     "id": "US-06"
+    },
+    {
+     "slug": "us-omb-m-25-22",
+     "id": "US-13"
+    },
+    {
+     "slug": "us-eo-14179",
+     "id": "US-11"
+    },
+    {
+     "slug": "us-omb-m-26-04",
+     "id": "US-19"
+    },
+    {
+     "id": "US-29",
+     "slug": "eo-13960"
+    },
+    {
+     "id": "US-02",
+     "slug": "us-nist-ai-rmf"
+    }
+   ]
+  },
+  {
+   "id": "US-14",
+   "related": [
+    {
+     "slug": "us-ai-action-plan-2025",
+     "id": "US-16"
+    },
+    {
+     "slug": "us-national-ai-legislative-framework-2026",
+     "id": "US-22"
+    },
+    {
+     "id": "US-FL-05",
+     "slug": "brooke-s-law-florida-hb-1161-2025"
+    },
+    {
+     "id": "US-MN-01",
+     "slug": "mn-hf-1606-nudification-technology-ban"
+    },
+    {
+     "id": "US-NJ-01",
+     "slug": "nj-pl-2025-c40-deepfake-penalties"
+    },
+    {
+     "id": "US-WY-01",
+     "slug": "wy-hb-102-ai-crimes-children-self-harm"
+    }
+   ]
+  },
+  {
+   "id": "US-15",
+   "related": [
+    {
+     "slug": "us-aisi-establishment",
+     "id": "US-05"
+    },
+    {
+     "slug": "us-nist-ai-800-2",
+     "id": "US-21"
+    },
+    {
+     "slug": "us-ai-action-plan-2025",
+     "id": "US-16"
+    },
+    {
+     "slug": "us-eo-14434",
+     "id": "US-26"
+    },
+    {
+     "slug": "us-eo-14409",
+     "id": "US-23"
+    },
+    {
+     "slug": "us-frontier-act",
+     "id": "US-25"
+    },
+    {
+     "id": "INT-11",
+     "slug": "international-network-ai-safety-institutes"
+    },
+    {
+     "id": "US-07",
+     "slug": "us-nist-ai-800-1"
+    }
+   ]
+  },
+  {
+   "id": "US-16",
+   "related": [
+    {
+     "slug": "us-eo-14179",
+     "id": "US-11"
+    },
+    {
+     "slug": "us-eo-14319",
+     "id": "US-17"
+    },
+    {
+     "slug": "us-caisi",
+     "id": "US-15"
+    },
+    {
+     "slug": "us-nist-ai-rmf",
+     "id": "US-02"
+    },
+    {
+     "slug": "us-eo-14365",
+     "id": "US-20"
+    },
+    {
+     "id": "US-14",
+     "slug": "us-take-it-down-act"
+    },
+    {
+     "id": "US-21",
+     "slug": "us-nist-ai-800-2"
+    },
+    {
+     "id": "US-23",
+     "slug": "us-eo-14409"
+    },
+    {
+     "id": "US-28",
+     "slug": "us-nspm-11-ai-national-security-enterprise"
+    }
+   ]
+  },
+  {
+   "id": "US-20",
+   "related": [
+    {
+     "slug": "us-national-ai-legislative-framework-2026",
+     "id": "US-22"
+    },
+    {
+     "slug": "us-ftc-ai-accuracy-policy-statement",
+     "id": "US-24"
+    },
+    {
+     "slug": "co-sb-24-205",
+     "id": "US-CO-01"
+    },
+    {
+     "slug": "ca-sb-53",
+     "id": "US-CA-05"
+    },
+    {
+     "slug": "ny-raise-act",
+     "id": "US-NY-01"
+    },
+    {
+     "slug": "us-frontier-act",
+     "id": "US-25"
+    },
+    {
+     "id": "US-16",
+     "slug": "us-ai-action-plan-2025"
+    },
+    {
+     "id": "US-CO-02",
+     "slug": "co-sb-26-189"
+    },
+    {
+     "id": "US-TX-01",
+     "slug": "tx-traiga"
+    }
+   ]
+  },
+  {
+   "id": "US-23",
+   "related": [
+    {
+     "slug": "us-caisi",
+     "id": "US-15"
+    },
+    {
+     "slug": "us-eo-14434",
+     "id": "US-26"
+    },
+    {
+     "slug": "us-joint-commitment-frontier-responsibilities",
+     "id": "US-27"
+    },
+    {
+     "slug": "us-ai-action-plan-2025",
+     "id": "US-16"
+    },
+    {
+     "id": "INT-19",
+     "slug": "five-country-ministerial-communique-2026-ai"
+    },
+    {
+     "id": "US-09",
+     "slug": "us-nsm-25"
+    }
+   ]
+  },
+  {
+   "id": "US-24",
+   "related": [
+    {
+     "slug": "us-eo-14365",
+     "id": "US-20"
+    },
+    {
+     "slug": "co-sb-26-189",
+     "id": "US-CO-02"
+    },
+    {
+     "slug": "us-eo-14319",
+     "id": "US-17"
+    },
+    {
+     "id": "US-22",
+     "slug": "us-national-ai-legislative-framework-2026"
+    },
+    {
+     "id": "US-CO-01",
+     "slug": "co-sb-24-205"
+    }
+   ]
+  },
+  {
+   "id": "US-25",
+   "related": [
+    {
+     "slug": "ca-sb-53",
+     "id": "US-CA-05"
+    },
+    {
+     "slug": "ny-raise-act",
+     "id": "US-NY-01"
+    },
+    {
+     "slug": "us-eo-14365",
+     "id": "US-20"
+    },
+    {
+     "slug": "us-joint-commitment-frontier-responsibilities",
+     "id": "US-27"
+    },
+    {
+     "slug": "us-ai-risk-evaluation-act",
+     "id": "US-18"
+    },
+    {
+     "id": "US-15",
+     "slug": "us-caisi"
+    },
+    {
+     "id": "US-22",
+     "slug": "us-national-ai-legislative-framework-2026"
+    },
+    {
+     "id": "US-CA-01",
+     "slug": "ca-ab-2013"
+    },
+    {
+     "id": "US-CA-07",
+     "slug": "ca-sb-813"
+    }
+   ]
+  },
+  {
+   "id": "US-26",
+   "related": [
+    {
+     "slug": "us-caisi",
+     "id": "US-15"
+    },
+    {
+     "slug": "us-joint-commitment-frontier-responsibilities",
+     "id": "US-27"
+    },
+    {
+     "slug": "us-national-ai-legislative-framework-2026",
+     "id": "US-22"
+    },
+    {
+     "id": "US-23",
+     "slug": "us-eo-14409"
+    }
+   ]
+  },
+  {
+   "id": "US-CA-04",
+   "related": [
+    {
+     "slug": "ca-sb-1047",
+     "id": "US-CA-03"
+    },
+    {
+     "slug": "ca-sb-53",
+     "id": "US-CA-05"
+    },
+    {
+     "slug": "ca-sb-813",
+     "id": "US-CA-07"
+    },
+    {
+     "id": "US-CA-09",
+     "slug": "ca-eo-n-9-26"
+    }
+   ]
+  },
+  {
+   "id": "US-CA-05",
+   "related": [
+    {
+     "slug": "ca-sb-1047",
+     "id": "US-CA-03"
+    },
+    {
+     "slug": "ca-frontier-ai-policy-report",
+     "id": "US-CA-04"
+    },
+    {
+     "slug": "ca-eo-n-9-26",
+     "id": "US-CA-09"
+    },
+    {
+     "slug": "ca-sb-813",
+     "id": "US-CA-07"
+    },
+    {
+     "slug": "ny-raise-act",
+     "id": "US-NY-01"
+    },
+    {
+     "slug": "us-eo-14365",
+     "id": "US-20"
+    },
+    {
+     "slug": "us-frontier-act",
+     "id": "US-25"
+    },
+    {
+     "slug": "illinois-ai-safety-measures-act-sb-315",
+     "id": "US-IL-03"
+    },
+    {
+     "id": "US-CA-01",
+     "slug": "ca-ab-2013"
+    },
+    {
+     "id": "US-CA-02",
+     "slug": "ca-sb-942"
+    },
+    {
+     "id": "US-CA-06",
+     "slug": "ca-sb-243"
+    },
+    {
+     "id": "US-CT-01",
+     "slug": "ct-pa-26-15-online-safety-ai"
+    }
+   ]
+  },
+  {
+   "id": "US-CA-06",
+   "related": [
+    {
+     "slug": "ca-sb-1119",
+     "id": "US-CA-08"
+    },
+    {
+     "slug": "ca-sb-53",
+     "id": "US-CA-05"
+    },
+    {
+     "slug": "wa-eshb-2225-ai-companion-chatbots",
+     "id": "US-WA-01"
+    },
+    {
+     "slug": "or-sb-1546-ai-companion-chatbots",
+     "id": "US-OR-01"
+    },
+    {
+     "slug": "ne-lb-525-conversational-ai-safety-act",
+     "id": "US-NE-01"
+    },
+    {
+     "slug": "me-ld-1727-ai-chatbot-disclosure",
+     "id": "US-ME-01"
+    },
+    {
+     "id": "US-CA-12",
+     "slug": "california-sb-867-ai-chatbot-toy-moratorium"
+    },
+    {
+     "id": "US-CA-14",
+     "slug": "california-ab-1064-lead-for-kids-act-vetoed"
+    },
+    {
+     "id": "US-CT-01",
+     "slug": "ct-pa-26-15-online-safety-ai"
+    },
+    {
+     "id": "US-FL-01",
+     "slug": "fl-sb-482-ai-bill-of-rights-2026"
+    },
+    {
+     "id": "US-GA-01",
+     "slug": "ga-sb-540-ai-companion-chatbots"
+    },
+    {
+     "id": "US-HI-01",
+     "slug": "hi-sb-3001-act-248-ai-companions"
+    },
+    {
+     "id": "US-IA-01",
+     "slug": "ia-sf-2417-conversational-ai-services"
+    },
+    {
+     "id": "US-ID-01",
+     "slug": "id-sb-1297-conversational-ai-safety-act"
+    },
+    {
+     "id": "US-IL-02",
+     "slug": "il-hb-1806"
+    },
+    {
+     "id": "US-RI-01",
+     "slug": "ri-s-2195-ai-companion-models-act"
+    }
+   ]
+  },
+  {
+   "id": "US-CO-02",
+   "related": [
+    {
+     "slug": "co-sb-24-205",
+     "id": "US-CO-01"
+    },
+    {
+     "slug": "us-ftc-ai-accuracy-policy-statement",
+     "id": "US-24"
+    },
+    {
+     "slug": "us-eo-14365",
+     "id": "US-20"
+    },
+    {
+     "id": "US-IL-01",
+     "slug": "il-hb-3773"
+    },
+    {
+     "id": "US-VA-01",
+     "slug": "va-hb-2094-high-risk-ai-act-vetoed"
+    }
+   ]
+  },
+  {
+   "id": "US-IL-02",
+   "related": [
+    {
+     "slug": "ca-sb-243",
+     "id": "US-CA-06"
+    },
+    {
+     "slug": "ut-ai-policy-act",
+     "id": "US-UT-01"
+    },
+    {
+     "slug": "illinois-ai-safety-measures-act-sb-315",
+     "id": "US-IL-03"
+    },
+    {
+     "slug": "me-ld-2082-ai-mental-health-services",
+     "id": "US-ME-02"
+    },
+    {
+     "slug": "nv-ab-406-ai-mental-health",
+     "id": "US-NV-01"
+    },
+    {
+     "id": "US-VT-01",
+     "slug": "vt-act-156-ai-mental-health-services"
+    }
+   ]
+  },
+  {
+   "id": "US-NY-01",
+   "related": [
+    {
+     "slug": "ca-sb-53",
+     "id": "US-CA-05"
+    },
+    {
+     "slug": "us-eo-14365",
+     "id": "US-20"
+    },
+    {
+     "slug": "us-frontier-act",
+     "id": "US-25"
+    },
+    {
+     "slug": "illinois-ai-safety-measures-act-sb-315",
+     "id": "US-IL-03"
+    },
+    {
+     "id": "US-CT-01",
+     "slug": "ct-pa-26-15-online-safety-ai"
+    }
+   ]
+  },
+  {
+   "id": "US-UT-01",
+   "related": [
+    {
+     "slug": "tx-traiga",
+     "id": "US-TX-01"
+    },
+    {
+     "id": "US-IL-02",
+     "slug": "il-hb-1806"
+    }
+   ]
+  },
+  {
+   "id": "UY-01",
+   "related": [
+    {
+     "slug": "lac-santiago-declaration-2023",
+     "id": "INT-12"
+    },
+    {
+     "id": "INT-17",
+     "slug": "lac-montevideo-declaration-2024"
+    }
+   ]
+  },
+  {
+   "id": "UZ-01",
+   "related": [
+    {
+     "id": "UZ-02",
+     "slug": "uzbekistan-law-zru-1115-ai-regulation-amendments-2026"
+    },
+    {
+     "id": "AZ-01",
+     "slug": "azerbaijan-ai-strategy-2025-2028"
+    }
+   ]
+  },
+  {
+   "id": "VN-01",
+   "related": [
+    {
+     "slug": "viet-nam-law-on-artificial-intelligence-2025",
+     "id": "VN-02"
+    },
+    {
+     "slug": "viet-nam-law-on-digital-technology-industry-2025-ai-chapter",
+     "id": "VN-07"
+    },
+    {
+     "id": "VN-03",
+     "slug": "viet-nam-decision-367-ai-law-implementation-plan-2026"
+    }
+   ]
+  }
+ ],
+ "history_context": {
+  "ASEAN-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: MY-01 link(s) to ASEAN-01",
+     "evidence": []
+    }
+   }
+  },
+  "ASEAN-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: KH-01, SG-04 link(s) to ASEAN-02",
+     "evidence": []
+    }
+   }
+  },
+  "AUS-06": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AUS-01, AUS-02 link(s) to AUS-06",
+     "evidence": []
+    }
+   }
+  },
+  "BJ-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AU-01 link(s) to BJ-01",
+     "evidence": []
+    }
+   }
+  },
+  "CA-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CA-ON-01 link(s) to CA-01",
+     "evidence": []
+    }
+   }
+  },
+  "CA-08": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CA-02 link(s) to CA-08",
+     "evidence": []
+    }
+   }
+  },
+  "CL-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-12, INT-17 link(s) to CL-01",
+     "evidence": []
+    }
+   }
+  },
+  "CN-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CN-16 link(s) to CN-01",
+     "evidence": []
+    }
+   }
+  },
+  "CN-03": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CN-01, CN-14, CN-16 link(s) to CN-03",
+     "evidence": []
+    }
+   }
+  },
+  "CN-11": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: BRICS-01 link(s) to CN-11",
+     "evidence": []
+    }
+   }
+  },
+  "CN-13": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CN-12 link(s) to CN-13",
+     "evidence": []
+    }
+   }
+  },
+  "CN-14": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CN-12 link(s) to CN-14",
+     "evidence": []
+    }
+   }
+  },
+  "CN-24": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CN-18, CN-20, CN-22, CN-23 link(s) to CN-24",
+     "evidence": []
+    }
+   }
+  },
+  "CN-26": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CN-19 link(s) to CN-26",
+     "evidence": []
+    }
+   }
+  },
+  "COE-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: CH-01, NO-02, UA-01 link(s) to COE-01",
+     "evidence": []
+    }
+   }
+  },
+  "COE-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: SI-02 link(s) to COE-02",
+     "evidence": []
+    }
+   }
+  },
+  "EU-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: EU-17 link(s) to EU-02",
+     "evidence": []
+    }
+   }
+  },
+  "EU-03": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AT-01, BG-01, BG-02, COE-01, CY-01, CZ-01, CZ-02, DE-01, DK-01, ES-02, ES-03, EU-01, EU-04, EU-05, EU-12, EU-13, EU-15, EU-17, FI-01, FR-01, GR-01, GR-02, GR-03, HR-01, HU-01, HU-02, IE-01, IS-01, IT-01, IT-02, IT-03, KR-08, LT-01, LU-01, LV-02, LV-03, MT-01, MT-02, NL-01, NL-02, NO-02, PL-01, PT-01, PY-01, RO-01, RS-02, SE-01, SE-02, SI-01, SI-02, SK-01, SK-02, TR-01, UA-01, UA-02 link(s) to EU-03",
+     "evidence": []
+    }
+   }
+  },
+  "EU-10": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: EU-02 link(s) to EU-10",
+     "evidence": []
+    }
+   }
+  },
+  "EU-14": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: EU-15 link(s) to EU-14",
+     "evidence": []
+    }
+   }
+  },
+  "EU-18": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: EU-02, EU-06, EU-09, EU-14, EU-15, EU-19, NL-01, NO-02 link(s) to EU-18",
+     "evidence": []
+    }
+   }
+  },
+  "G7-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: G7-05, G7-06 link(s) to G7-01",
+     "evidence": []
+    }
+   }
+  },
+  "G7-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: G7-03, G7-05, INT-20 link(s) to G7-02",
+     "evidence": []
+    }
+   }
+  },
+  "GB-03": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: GB-04 link(s) to GB-03",
+     "evidence": []
+    }
+   }
+  },
+  "GB-04": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: GB-05 link(s) to GB-04",
+     "evidence": []
+    }
+   }
+  },
+  "GB-07": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: GB-05, GB-09, INT-19 link(s) to GB-07",
+     "evidence": []
+    }
+   }
+  },
+  "GB-08": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-MN-01, US-NJ-01 link(s) to GB-08",
+     "evidence": []
+    }
+   }
+  },
+  "IN-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: NP-01 link(s) to IN-02",
+     "evidence": []
+    }
+   }
+  },
+  "INT-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-06, INT-07 link(s) to INT-01",
+     "evidence": []
+    }
+   }
+  },
+  "INT-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: BRICS-02, IN-02 link(s) to INT-02",
+     "evidence": []
+    }
+   }
+  },
+  "INT-04": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-01 link(s) to INT-04",
+     "evidence": []
+    }
+   }
+  },
+  "INT-06": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: GB-02 link(s) to INT-06",
+     "evidence": []
+    }
+   }
+  },
+  "INT-09": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-05, SG-07 link(s) to INT-09",
+     "evidence": []
+    }
+   }
+  },
+  "INT-10": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-08 link(s) to INT-10",
+     "evidence": []
+    }
+   }
+  },
+  "INT-11": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AUS-07, IN-01, INT-19, SG-03 link(s) to INT-11",
+     "evidence": []
+    }
+   }
+  },
+  "INT-13": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-16, UN-01, UN-10 link(s) to INT-13",
+     "evidence": []
+    }
+   }
+  },
+  "INT-14": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: NATO-01, UN-10 link(s) to INT-14",
+     "evidence": []
+    }
+   }
+  },
+  "JP-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: JP-04 link(s) to JP-01",
+     "evidence": []
+    }
+   }
+  },
+  "JP-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: JP-03 link(s) to JP-02",
+     "evidence": []
+    }
+   }
+  },
+  "JP-05": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: JP-06 link(s) to JP-05",
+     "evidence": []
+    }
+   }
+  },
+  "KR-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: KR-03, KR-05 link(s) to KR-01",
+     "evidence": []
+    }
+   }
+  },
+  "KR-06": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: KR-04 link(s) to KR-06",
+     "evidence": []
+    }
+   }
+  },
+  "KZ-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AZ-01, UZ-02 link(s) to KZ-01",
+     "evidence": []
+    }
+   }
+  },
+  "MY-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: BN-01 link(s) to MY-01",
+     "evidence": []
+    }
+   }
+  },
+  "OECD-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AR-01, EG-01, G20-01, G20-02, INT-20, NZ-01, UNESCO-01, ZM-01 link(s) to OECD-01",
+     "evidence": []
+    }
+   }
+  },
+  "OECD-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: G7-03, G7-05, INT-20 link(s) to OECD-02",
+     "evidence": []
+    }
+   }
+  },
+  "SG-04": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: SG-06, SG-08 link(s) to SG-04",
+     "evidence": []
+    }
+   }
+  },
+  "SN-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AU-01 link(s) to SN-01",
+     "evidence": []
+    }
+   }
+  },
+  "UN-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-14 link(s) to UN-01",
+     "evidence": []
+    }
+   }
+  },
+  "UN-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: UN-13 link(s) to UN-02",
+     "evidence": []
+    }
+   }
+  },
+  "UN-05": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: BRICS-01, G7-05, UN-02, UN-03, UN-13 link(s) to UN-05",
+     "evidence": []
+    }
+   }
+  },
+  "UN-07": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: BRICS-01, G20-01, INT-01 link(s) to UN-07",
+     "evidence": []
+    }
+   }
+  },
+  "UNESCO-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AR-01, GH-01, INT-17, JM-01, JO-01, PK-01, RS-01, SN-01, ZM-01 link(s) to UNESCO-01",
+     "evidence": []
+    }
+   }
+  },
+  "US-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-07, US-21, US-MT-01 link(s) to US-02",
+     "evidence": []
+    }
+   }
+  },
+  "US-04": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-01, US-03, US-08, US-10 link(s) to US-04",
+     "evidence": []
+    }
+   }
+  },
+  "US-05": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-09 link(s) to US-05",
+     "evidence": []
+    }
+   }
+  },
+  "US-06": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-01 link(s) to US-06",
+     "evidence": []
+    }
+   }
+  },
+  "US-08": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-07 link(s) to US-08",
+     "evidence": []
+    }
+   }
+  },
+  "US-09": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-07 link(s) to US-09",
+     "evidence": []
+    }
+   }
+  },
+  "US-11": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-06, US-09, US-10, US-28 link(s) to US-11",
+     "evidence": []
+    }
+   }
+  },
+  "US-12": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-02 link(s) to US-12",
+     "evidence": []
+    }
+   }
+  },
+  "US-14": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-MN-01, US-NJ-01, US-WY-01 link(s) to US-14",
+     "evidence": []
+    }
+   }
+  },
+  "US-15": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-11, US-07 link(s) to US-15",
+     "evidence": []
+    }
+   }
+  },
+  "US-16": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-14, US-21, US-23, US-28 link(s) to US-16",
+     "evidence": []
+    }
+   }
+  },
+  "US-20": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-16, US-CO-02, US-TX-01 link(s) to US-20",
+     "evidence": []
+    }
+   }
+  },
+  "US-23": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-19, US-09 link(s) to US-23",
+     "evidence": []
+    }
+   }
+  },
+  "US-24": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-22, US-CO-01 link(s) to US-24",
+     "evidence": []
+    }
+   }
+  },
+  "US-25": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-15, US-22, US-CA-01, US-CA-07 link(s) to US-25",
+     "evidence": []
+    }
+   }
+  },
+  "US-26": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-23 link(s) to US-26",
+     "evidence": []
+    }
+   }
+  },
+  "US-CA-04": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-CA-09 link(s) to US-CA-04",
+     "evidence": []
+    }
+   }
+  },
+  "US-CA-05": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-CA-01, US-CA-02, US-CA-06, US-CT-01 link(s) to US-CA-05",
+     "evidence": []
+    }
+   }
+  },
+  "US-CA-06": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-CT-01, US-FL-01, US-GA-01, US-HI-01, US-IA-01, US-ID-01, US-IL-02, US-RI-01 link(s) to US-CA-06",
+     "evidence": []
+    }
+   }
+  },
+  "US-CO-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-IL-01, US-VA-01 link(s) to US-CO-02",
+     "evidence": []
+    }
+   }
+  },
+  "US-IL-02": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-VT-01 link(s) to US-IL-02",
+     "evidence": []
+    }
+   }
+  },
+  "US-NY-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-CT-01 link(s) to US-NY-01",
+     "evidence": []
+    }
+   }
+  },
+  "US-UT-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: US-IL-02 link(s) to US-UT-01",
+     "evidence": []
+    }
+   }
+  },
+  "UY-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: INT-17 link(s) to UY-01",
+     "evidence": []
+    }
+   }
+  },
+  "UZ-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: AZ-01 link(s) to UZ-01",
+     "evidence": []
+    }
+   }
+  },
+  "VN-01": {
+   "reason": "related links made two-way",
+   "evidence": [],
+   "fields": {
+    "related": {
+     "reason": "two-way link added: VN-03 link(s) to VN-01",
+     "evidence": []
+    }
+   }
+  }
+ },
+ "summary": "223 one-way link(s) reversed in 79 record(s)"
+}

@@ -1,0 +1,142 @@
+{
+ "cand_id": "MX-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MX-02",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the initiative's full text (90-page PDF with a text layer) from the file server of the Legislative Information System (SIL) of the Secretaría de Gobernación, file name dated 29 Sep 2026, which gives the title, the 21 PAN signatories, the explanatory statement, the 77 articles in 22 chapters, the amendment to the Organic Law of the Federal Public Administration, the transitional articles and the signing at the Senate on 8 Sep 2026; and the SIL content page for the matter (asunto 5145594, copy of 17 Oct 2026), which gives the official name, a summary of its object and the date of publication in the Gaceta Parlamentaria (09/09/2026). Neither shows the committee referral or any later stage, and neither gives a Gaceta or bill number, so official_identifier stays null. No English translation was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 1",
+    "quote": "INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA EL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL Y EL IMPULSO DEL FUTURO DIGITAL, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MX-02/2026-10-17/secondary.html",
+    "sha256": "79fb9055fce5862d48d438726607e65c46bbd9ae5f87b0b387137db4acb03e29",
+    "locator": "Denominación",
+    "quote": "Que expide la Ley General para el Desarrollo de la Inteligencia Artificial y el Impulso del Futuro Digital, y se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 1",
+    "quote": "INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA EL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL Y EL IMPULSO DEL FUTURO DIGITAL, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 1",
+    "quote": "Senadoras y Senadores de la República, integrantes del Grupo Parlamentario del Partido Acción Nacional en esta LXVI Legislatura del H. Congreso de la Unión",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 1",
+    "quote": "Los suscritos Mauricio Vila Dosal, Ricardo Anaya Cortés, Gina Gerardina Campuzano González",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/MX-02/2026-10-17/secondary.html",
+    "sha256": "79fb9055fce5862d48d438726607e65c46bbd9ae5f87b0b387137db4acb03e29",
+    "locator": "SIL content page",
+    "quote": "Fecha de publicación en Gaceta Parlamentaria: 09/09/2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 83",
+    "quote": "Dado en la sede del Senado de la República a los 08 días del mes de septiembre de 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 1",
+    "quote": "sometemos a consideración de esta Soberanía la siguiente Iniciativa con proyecto de decreto por el que se expide la Ley General para el Desarrollo de la Inteligencia Artificial y el Impulso del Futuro Digital",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MX-02/2026-10-17/secondary.html",
+    "sha256": "79fb9055fce5862d48d438726607e65c46bbd9ae5f87b0b387137db4acb03e29",
+    "locator": "SIL content page",
+    "quote": "Fecha de publicación en Gaceta Parlamentaria: 09/09/2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 1",
+    "quote": "sometemos a consideración de esta Soberanía la siguiente Iniciativa con proyecto de decreto por el que se expide la Ley General para el Desarrollo de la Inteligencia Artificial y el Impulso del Futuro Digital",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 74, Art. 58",
+    "quote": "Queda prohibido desarrollar, implementar, operar o utilizar sistemas de inteligencia artificial cuya finalidad, diseño o utilización deliberada consista en:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 74, Art. 58(VI)",
+    "quote": "Realizar identificación biométrica masiva o indiscriminada, salvo en los supuestos permitidos por la legislación aplicable",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C026/2026-10-14/official.pdf",
+    "sha256": "8fa552113cb1ee496eba145f3c4aa92e2edd55df232f186aca5a8518245c3f62",
+    "locator": "page 81, transitional articles",
+    "quote": "Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; no field changed"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An initiative submitted to the Senate by 21 PAN senators, signed on 8 Sep 2026 and published in the Gaceta Parlamentaria on 9 Sep 2026. Its first transitional article would bring it into force the day after publication in the Diario Oficial, which needs passage by both chambers first. No stored file shows a committee opinion, a vote or a withdrawal, so 'Draft / proposed' with legal force 'Proposed' stands.",
+  "date_reasoning": "date_published 2026-09-09 is the publication in the Gaceta Parlamentaria (SIL: '09/09/2026'); the text was signed at the Senate on 8 Sep 2026, as the notes say.",
+  "scope_reasoning": "A national general AI bill with prohibitions, risk management, incident reporting and oversight powers; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "No stored file shows the committee to which the Senate referred the initiative or any later stage; the SIL tracking report for asunto 5145594 could be stored by a later run if its address is found."
+ ]
+}

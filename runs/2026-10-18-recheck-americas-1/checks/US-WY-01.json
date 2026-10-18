@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-WY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Unlawful distribution of nonconsensual synthetic sexual material is an offence",
+   "verdict": "supported",
+   "locator": "page 2, 6-4-307(a)"
+  },
+  {
+   "claim": "Developing or distributing an AI system designed to promote self-harm is a felony of up to ten years",
+   "verdict": "supported",
+   "locator": "page 6-7, 6-4-701(b), (d)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the enrolled act (effective 1 Jul 2026) and the Legislative Service Office digest (signed 7 Mar 2026, Chapter 91, HEA No. 32). In force is right at 18 Oct 2026. The search found no amendment. The notes correctly say the title still mentions censoring political speech although no such offence is created."
+}

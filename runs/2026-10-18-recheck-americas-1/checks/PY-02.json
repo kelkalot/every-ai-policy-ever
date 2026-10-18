@@ -1,0 +1,51 @@
+{
+ "cand_id": "PY-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "'2025' is all the sources allow; the presentation date is only 'shortly before 1 May 2025'."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "MITIC is the enforcement authority with a National Register of AI Systems; bans AI for indiscriminate surveillance; ethical audits for systems affecting fundamental rights",
+   "verdict": "supported",
+   "locator": "Chamber bulletin of 2 May 2025, page 8"
+  },
+  {
+   "claim": "Provides sanctions, tax incentives, a National Committee on AI Ethics and Regulation and a research centre/education plan",
+   "verdict": "supported",
+   "locator": "Chamber bulletin of 2 May 2025, page 8"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "The summary now shows prohibitions, audits and sanctions, so the bill is core AI regulation as well as promotion; the earlier scope_note is no longer needed, but may stay."
+ },
+ "overall": "accept",
+ "note": "The Chamber's own bulletins (2 May and 27 Oct 2025) support title, five sponsors, content and the committee stage; the bill text itself is blocked. The title differs between bulletins and the extractor handles this in the notes. date_published stays '2025'. Search found no vote; a hearing report of 4 Jun 2025 is the latest item."
+}

@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-MT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Government actions restricting computational resources must be narrowly tailored to a compelling government interest",
+   "verdict": "supported",
+   "locator": "s. 2-10-204"
+  },
+  {
+   "claim": "The deployer of a critical AI system controlling critical infrastructure must develop a risk management policy",
+   "verdict": "supported",
+   "locator": "s. 2-10-205"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope note kept: mainly a right-to-compute law with one AI critical-infrastructure duty."
+ },
+ "overall": "accept",
+ "note": "Quotes match the Montana Code Annotated sections and the Legislative Services Division's summary of enactments (Chapter 150, SB 212, effective 16 Apr 2025). In force is right. The existing scope note stands and fits the precedent for laws that are not AI-specific. The search found no 2026 amendment or repeal; the legislature next meets in 2027."
+}

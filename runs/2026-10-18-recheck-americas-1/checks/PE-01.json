@@ -1,0 +1,61 @@
+{
+ "cand_id": "PE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "judgment-differs",
+   "why": "The law sets no date of its own; day-after-publication under the Constitution (Art. 109) is a defensible rule, but the Constitution's text is not stored and the quote shows only the publication date."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Set to null: the old value was the regulation's date; Congress's consolidated text shows no amendment of the law."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Principles include risk-based safety standards; SGTD is the national technical-normative authority",
+   "verdict": "supported",
+   "locator": "Título preliminar; Article 4"
+  },
+  {
+   "claim": "Authority must immediately inform the Congress Intelligence Committee of serious threats or cybersecurity breaches",
+   "verdict": "supported",
+   "locator": "Article 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "Law text supports title, number, dates and content. Fix accepted: date_last_updated null (the former value, 9 Sep 2025, was the regulation's date; Congress's consolidated text shows no amendment). date_in_force 6 Jul 2023 rests on the constitutional day-after-publication rule, whose text is not stored; the law sets no date of its own. Search found bills to amend art. 4 (13553/2025-CR) but no enacted amendment."
+}

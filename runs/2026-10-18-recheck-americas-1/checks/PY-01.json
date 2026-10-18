@@ -1,0 +1,51 @@
+{
+ "cand_id": "PY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Secondary: press dateline 13 May 2025 and a co-sponsor's 5 May 2025; month-level date is consistent."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Every AI system gets a provider's preliminary risk evaluation before marketing; excessive-risk applications prohibited, high-risk ones controlled",
+   "verdict": "supported",
+   "locator": "Última Hora, 'RIESGOS' and quoted passage"
+  },
+  {
+   "claim": "Affected persons get rights to challenge decisions with significant effects",
+   "verdict": "supported",
+   "locator": "Última Hora, 'DERECHOS'"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Level C: all evidence is secondary (Última Hora of 13 May 2025; Sen. Chase's statement for the 5 May 2025 date), and the verification note says CAUTION. The SILpy file is blocked by robots.txt. Searches show the bill still in Senate committees; some results carry 2026 dates for the same article, which I take to be page metadata."
+}

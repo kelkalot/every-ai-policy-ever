@@ -1,0 +1,362 @@
+{
+ "cand_id": "US-MT-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-MT-01",
+ "record": {
+  "date_in_force": "2025-04-16",
+  "summary": "Protects the private ownership and use of computational resources for lawful purposes: government actions restricting them must be demonstrably necessary and narrowly tailored to a compelling government interest, which includes making AI-controlled critical infrastructure facilities adopt a risk management policy. Under section 2-10-205 the deployer of a critical AI system (one that makes, or is a substantial factor in making, consequential decisions) controlling critical infrastructure facilities must develop a reasonable risk management policy after deployment, considering the NIST AI Risk Management Framework, the ISO/IEC AI standard or another recognised framework.",
+  "notes": "Signed by the Governor on 16 Apr 2025 and effective immediately; chapter number 150 was assigned on 17 Apr 2025. The bill's short title still speaks of 'requiring shutdowns of AI controlled critical infrastructure', but the enacted act's title and codified sections require a risk management policy instead and contain no shutdown mandate. Section 2-10-205 names the standard as 'the ISO/IEC 4200 artificial intelligence standard', and a plan prepared under federal requirements counts as compliance. Besides AI-controlled critical infrastructure, the compelling government interests listed in the definitions include addressing deception and fraud, protecting individuals, especially minors, from knowingly distributed deepfakes and other harmful synthetic content, and abating nuisances created by datacenter infrastructure. Critical AI excludes systems for narrow procedural or preparatory tasks, common software such as antivirus or spreadsheets, and conversational tools subject to an acceptable use policy that prohibits unlawful content. The act does not alter intellectual-property rights and remedies or preempt federal law.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read sections 2-10-203 and 2-10-205 of the Montana Code Annotated 2025 (stored 11 Oct 2026) and sections 2-10-201, 2-10-204, 2-10-206 and 2-10-207 (stored in this run), all from mca.legmt.gov; they confirm the act's name, the right to compute, the risk-management duty, the definitions and the history notes citing Chapter 150, Laws of 2025. The Legislative Services Division's 2025 Montana Legislative Review (archive.legmt.gov, stored in this run) confirms Chapter 150 as Senate Bill No. 212 by D. Zolnikov with an immediate effective date, codified as sections 2-10-201 to 2-10-207, and gives 04/16/2025 as its effective date. The Governor's signature on 16 Apr 2025, the chapter assignment on 17 Apr 2025, the votes, the sponsor's full name and the Governor's name come from the Montana Free Press Capitol Tracker (secondary, stored in this run); the Legislature's own bill page is a JavaScript application."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-a4f66fc2ee/2026-10-17/official.html",
+    "sha256": "f2a71f15e45a7e09d842749bbff94b533b7356e67eb886194e00f32d34ff9317",
+    "locator": "2-10-201",
+    "quote": "2-10-201. Short title. This part may be cited as the \"Right to Compute Act\".",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 22, chapter 150",
+    "quote": "150 (Senate Bill No. 212; D. Zolnikov) GENERALLY REVISING LAWS RELATED TO TECHNOLOGY; CRE- ATING THE RIGHT TO COMPUTE ACT; REQUIRING A RISK MANAGEMENT POLICY FOR CRITICAL",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "History",
+    "quote": "History: En. Sec. 4, Ch. 150, L. 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 3",
+    "quote": "A Summary of Enactments in the 69th Montana Legislature",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 22, chapter 150",
+    "quote": "150 (Senate Bill No. 212; D. Zolnikov) GENERALLY REVISING LAWS RELATED TO TECHNOLOGY; CRE- ATING THE RIGHT TO COMPUTE ACT; REQUIRING A RISK MANAGEMENT POLICY FOR CRITICAL",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "bill summary",
+    "quote": "Sponsor: Daniel Zolnikov RBillings / SD 22",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "page header",
+    "quote": "Governor Greg Gianforte (R)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "Legislative actions",
+    "quote": "Apr 16 Signed by Governor",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 140, chapter to bill table",
+    "quote": "Ch. 150 ...........SB 212",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 84, code sections affected",
+    "quote": "2-10-201 ...................................................................enacted.........................Ch. 150 ......................SB 212",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 84, code sections affected",
+    "quote": "2-10-207 ...................................................................enacted.........................Ch. 150 ......................SB 212",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "History",
+    "quote": "History: En. Sec. 4, Ch. 150, L. 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 147, effective dates by chapter number",
+    "quote": "Ch. 150 ..............................................................SB 212 .......................................................... 04/16/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 22, chapter 150",
+    "quote": "INFRASTRUCTURE FACILITIES CONTROLLED BY AN ARTIFICIAL INTELLIGENCE SYSTEM; PRO- VIDING DEFINITIONS; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "Legislative actions",
+    "quote": "Apr 16 Signed by Governor",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 147, effective dates by chapter number",
+    "quote": "Ch. 150 ..............................................................SB 212 .......................................................... 04/16/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 22, chapter 150",
+    "quote": "INFRASTRUCTURE FACILITIES CONTROLLED BY AN ARTIFICIAL INTELLIGENCE SYSTEM; PRO- VIDING DEFINITIONS; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 147, effective dates by chapter number",
+    "quote": "Ch. 150 ..............................................................SB 212 .......................................................... 04/16/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "page heading",
+    "quote": "Montana Code Annotated 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "History",
+    "quote": "History: En. Sec. 4, Ch. 150, L. 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "2-10-205",
+    "quote": "the deployer shall develop a risk management policy after deploying the system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-105733dd1c/2026-10-17/official.html",
+    "sha256": "81f882e6ff489203568ac809574f9593944d5d952c790e4d276feed3685784b7",
+    "locator": "2-10-204",
+    "quote": "must be limited to those demonstrably necessary and narrowly tailored to fulfill a compelling government interest.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-105733dd1c/2026-10-17/official.html",
+    "sha256": "81f882e6ff489203568ac809574f9593944d5d952c790e4d276feed3685784b7",
+    "locator": "2-10-204",
+    "quote": "Government actions that restrict the ability to privately own or make use of computational resources for lawful purposes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-105733dd1c/2026-10-17/official.html",
+    "sha256": "81f882e6ff489203568ac809574f9593944d5d952c790e4d276feed3685784b7",
+    "locator": "2-10-204",
+    "quote": "must be limited to those demonstrably necessary and narrowly tailored to fulfill a compelling government interest.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/secondary.html",
+    "sha256": "a32ef53c119c661db250f92662dc14eec2b19bc26328b016790309ffef2f1b32",
+    "locator": "2-10-203(2)(a)",
+    "quote": "ensuring that a critical infrastructure facility controlled by an artificial intelligence system develops a risk management policy;",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/secondary.html",
+    "sha256": "a32ef53c119c661db250f92662dc14eec2b19bc26328b016790309ffef2f1b32",
+    "locator": "2-10-203(4)(a)",
+    "quote": "\"Critical artificial intelligence\" means an artificial intelligence system that is designed and deployed to make, or is a substantial factor in making, a consequential decision.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "2-10-205",
+    "quote": "When critical infrastructure facilities are controlled in whole or in part by a critical artificial intelligence system, the deployer shall develop a risk management policy after deploying the system that is reasonable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "2-10-205",
+    "quote": "the latest version of the artificial intelligence risk management framework from the national institute of standards and technology, the ISO/IEC 4200 artificial intelligence standard",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "Legislative actions",
+    "quote": "Apr 16 Signed by Governor",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "Legislative actions",
+    "quote": "Apr 17 Chapter Number Assigned",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-3c70918eaa/2026-10-17/official.html",
+    "sha256": "11f366368debbd17f1ac84d08822165fe0409ed3bffabe70c41446e2e879a453",
+    "locator": "page title",
+    "quote": "Senate Bill 212: Creating the Right to Compute Act and requiring shutdowns of AI controlled critical infrastructure",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 22, chapter 150",
+    "quote": "150 (Senate Bill No. 212; D. Zolnikov) GENERALLY REVISING LAWS RELATED TO TECHNOLOGY; CRE- ATING THE RIGHT TO COMPUTE ACT; REQUIRING A RISK MANAGEMENT POLICY FOR CRITICAL",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-613d149f1f/2026-10-17/official.pdf",
+    "sha256": "8853fd86125d1129337697582372f53f4c2673da1054ba3b99673d2f326c5a7a",
+    "locator": "page 22, chapter 150",
+    "quote": "INFRASTRUCTURE FACILITIES CONTROLLED BY AN ARTIFICIAL INTELLIGENCE SYSTEM; PRO- VIDING DEFINITIONS; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "2-10-205",
+    "quote": "the ISO/IEC 4200 artificial intelligence standard",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/official.html",
+    "sha256": "7493410a9f13dff11db19e33c1f7db8693f54b5aa046d59528541188e18f19f9",
+    "locator": "2-10-205",
+    "quote": "A plan prepared under federal requirements constitutes compliance with this section.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/secondary.html",
+    "sha256": "a32ef53c119c661db250f92662dc14eec2b19bc26328b016790309ffef2f1b32",
+    "locator": "2-10-203(2)(c)",
+    "quote": "protecting individuals, especially minors, from harm by a person who distributes deepfakes and other harmful synthetic content",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/secondary.html",
+    "sha256": "a32ef53c119c661db250f92662dc14eec2b19bc26328b016790309ffef2f1b32",
+    "locator": "2-10-203(2)(d)",
+    "quote": "taking actions that prevent or abate common law nuisances created by physical datacenter infrastructure.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-MT-01/2026-10-11/secondary.html",
+    "sha256": "a32ef53c119c661db250f92662dc14eec2b19bc26328b016790309ffef2f1b32",
+    "locator": "2-10-203(4)(b)(iii)",
+    "quote": "subject to an acceptable use policy that prohibits the generation of unlawful content.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-965489a8c6/2026-10-17/official.html",
+    "sha256": "d33df9f3f0ef10707a2a2b090eec3b763061d57bdc90ee03dcf7adb82df26ab3",
+    "locator": "2-10-206",
+    "quote": "Nothing in this part may be construed to alter, diminish, or interfere with the rights and remedies available under federal or state intellectual property laws",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MT-01/extra-7bd51f5ce1/2026-10-17/official.html",
+    "sha256": "8de178af78aab6a4a1dee9f116b55109b008f5f3a0fcd76e1db1e125c5a86ffb",
+    "locator": "2-10-207",
+    "quote": "Nothing in this part may be construed to preempt federal laws.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_in_force": "set to 16 Apr 2025: the Legislative Review lists Chapter 150 (SB 212) with 'an immediate effective date' and gives 04/16/2025 in its table of effective dates by chapter number",
+   "summary": "rewritten: the codified text names 'the ISO/IEC 4200 artificial intelligence standard', not ISO/IEC 42001, so the summary says 'the ISO/IEC AI standard' and notes quote the text; the right to compute is described from section 2-10-204 and the definition of critical AI added; intellectual property and federal preemption moved to notes for length",
+   "notes": "rewritten from the stored files: signing and chapter dates now rest on the stored Capitol Tracker page, the effective date on the Legislative Review; the remark that the act's text 'was not checked' and the attribution to the tracker moved to verification.note; definitions, exclusions, intellectual property and preemption added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Legislative Review gives Chapter 150 (SB 212) 'an immediate effective date' and lists its effective date as 04/16/2025; the sections appear in the Montana Code Annotated 2025 with history notes citing Ch. 150, L. 2025. 16 Apr 2025 is before 18 Oct 2026, and no stored file shows a repeal or amendment. 'In force' stands.",
+  "scope_reasoning": "Mainly limits government restrictions on computing; borderline, kept with its scope_note for the one critical-infrastructure AI risk-management obligation (unchanged).",
+  "date_reasoning": "date_published 16 Apr 2025: the Capitol Tracker (secondary) records 'Signed by Governor' on Apr 16, and the official Legislative Review gives Chapter 150 an immediate effective date of 04/16/2025, which for an act effective on passage and approval is the approval date. date_in_force is the same day."
+ },
+ "extra_urls": [
+  {
+   "url": "https://mca.legmt.gov/bills/mca/title_0020/chapter_0100/part_0020/section_0040/0020-0100-0020-0040.html",
+   "reason": "MCA 2-10-204 (right to compute), listed in the part's contents: the operative right and the 'demonstrably necessary and narrowly tailored' test that the summary describes."
+  },
+  {
+   "url": "https://mca.legmt.gov/bills/mca/title_0020/chapter_0100/part_0020/section_0010/0020-0100-0020-0010.html",
+   "reason": "MCA 2-10-201 (short title): official evidence for the act's name and its history note."
+  },
+  {
+   "url": "https://mca.legmt.gov/bills/mca/title_0020/chapter_0100/part_0020/section_0060/0020-0100-0020-0060.html",
+   "reason": "MCA 2-10-206 (preservation of intellectual property), for notes."
+  },
+  {
+   "url": "https://mca.legmt.gov/bills/mca/title_0020/chapter_0100/part_0020/section_0070/0020-0100-0020-0070.html",
+   "reason": "MCA 2-10-207 (preemption by federal law), for notes."
+  },
+  {
+   "url": "https://archive.legmt.gov/content/Publications/sales/2025-Legislative-Review.pdf",
+   "reason": "2025 Montana Legislative Review by the Legislative Services Division: Ch. 150 as Senate Bill No. 212 by D. Zolnikov with an immediate effective date, and its effective date in the table by chapter number."
+  },
+  {
+   "url": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
+   "reason": "Montana Free Press Capitol Tracker page for SB 212 (secondary): the Governor's signature on 16 Apr 2025, chapter assignment on 17 Apr 2025, votes and the bill's short title."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

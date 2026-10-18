@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-NJ-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Third-degree crime to generate deceptive media to further a crime; fourth degree for knowing or reckless disclosure",
+   "verdict": "supported",
+   "locator": "page 10-11, C.2C:21-17.8 b., c.(2)"
+  },
+  {
+   "claim": "Fine up to USD 30,000 and liquidated damages of USD 1,000 per knowing or reckless violation",
+   "verdict": "supported",
+   "locator": "page 11, C.2C:21-17.8 d., f.(1)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "The enacted findings name AI-driven deepfake technology."
+ },
+ "overall": "accept",
+ "note": "Quotes match the State Law Library's file (level B: alt-official), which holds the chapter law, the checklist (approved 2 Apr 2025, immediately effective), the conditional veto and both press releases. Status In force is right. The text states findings about AI and deepfakes, so the scope is core. No 2026 amendment found by search; the Legislature's own PDF is not stored."
+}

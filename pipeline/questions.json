@@ -49,11 +49,14 @@
    "records": [
     "PY-01"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 8,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/8",
    "opened": "2026-10-14",
-   "title": null
+   "title": null,
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "record:TH-01@2026-10-14-refresh-ids-ca-on-01-coe-01-int-15-us-ca",
@@ -102,13 +105,14 @@
    "records": [
     "US-ID-01"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 11,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/11",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null,
-   "title": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "title": null,
+   "closed_on_github": true
   },
   {
    "key": "record:US-IL-01@2026-10-14-refresh-ids-ca-on-01-coe-01-int-15-us-ca",
@@ -2212,6 +2216,81 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-recheck-north-america-2 (5 records)"
+  },
+  {
+   "key": "record:EC-01@2026-10-18-recheck-americas-1",
+   "kind": "record",
+   "subject": "EC-01",
+   "run_id": "2026-10-18-recheck-americas-1",
+   "held_back": true,
+   "why": "summary is unsupported and the checker gave no evidence-backed fix; summary claim unsupported: \"The Plenary archived 'it' on 15 Sep 2026, meaning the filed Núñez bill\"; checker: The filed bill (trámite 450889, 20 Jun 2024, Patricia Núñez) is well supported, and the Assembly releases support the committee report and the Plenary's archiving on 15 Sep 2026. But the web search shows the Education committee unified three 2024 initiatives (Núñez, Subía, Correa) into a new text in 2025, so the text archived may not be the Núñez bill the summary and the 83-article description rest on. No stored file settles this (the extractor's own note says so). A human should decide whether the record is the Núñez filing, whose later fate was archiving of a unified text, or the unified text. Also found: the Ass",
+   "records": [
+    "EC-01"
+   ],
+   "title": "EC-01 Ecuador AI bill (archived 2026): open question from run 2026-10-18-recheck-americas-1",
+   "state": "open",
+   "issue": 150,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/150",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-NE-01@2026-10-18-recheck-americas-1",
+   "kind": "record",
+   "subject": "US-NE-01",
+   "run_id": "2026-10-18-recheck-americas-1",
+   "held_back": false,
+   "why": "date_published is unsupported and the checker gave no evidence-backed fix; date_in_force is unsupported and the checker gave no evidence-backed fix; date_published has no evidence",
+   "records": [
+    "US-NE-01"
+   ],
+   "title": "US-NE-01 Nebraska Conversational AI Safety Act (LB 525): open question from run 2026-10-18-recheck-americas-1",
+   "state": "open",
+   "issue": 151,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/151",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-MN-01@2026-10-18-recheck-americas-1",
+   "kind": "record",
+   "subject": "US-MN-01",
+   "run_id": "2026-10-18-recheck-americas-1",
+   "held_back": false,
+   "why": "the checker found something possibly newer: Eighth Circuit order of 2 Oct 2026 pausing enforcement pending xAI's appeal (news reports only; no order stored); AG release of 4 Sep 2026 on ag.state.mn.us not stored",
+   "records": [
+    "US-MN-01"
+   ],
+   "title": "US-MN-01 Minnesota nudification technology ban (HF 1606): open question from run 2026-10-18-recheck-americas-1",
+   "state": "open",
+   "issue": 152,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/152",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "sample:2026-10-18-recheck-americas-1",
+   "kind": "sample",
+   "subject": "2026-10-18-recheck-americas-1",
+   "run_id": "2026-10-18-recheck-americas-1",
+   "records": [
+    "AR-03",
+    "PY-03",
+    "US-NE-01",
+    "US-NY-01",
+    "US-WY-01"
+   ],
+   "why": "Human sample of run 2026-10-18-recheck-americas-1: check each record against its stored sources.",
+   "state": "open",
+   "issue": 153,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/153",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-recheck-americas-1 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

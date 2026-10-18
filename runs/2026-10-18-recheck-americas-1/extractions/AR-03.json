@@ -1,0 +1,239 @@
+{
+ "cand_id": "AR-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AR-03",
+ "record": {
+  "original_title": "Presupuestos Mínimos para la Promoción del desarrollo de la Inteligencia Artificial (IA) en la República Argentina",
+  "official_identifier": "Expediente 0004-D-2026 (Trámite Parlamentario N° 1, 2 Mar 2026)",
+  "summary": "Framework bill declaring AI development of national strategic interest and setting minimum standards for AI providers, developers and operators in Argentina. Risk is graded high, moderate or minimal by use, transparency to users, personal-data handling and human-rights impact. Principles include robustness and safety with continuous evaluation, transparency and accountability. Those covered must avoid biometric categorisation inferring sensitive traits and manipulative systems, answer complaints, report data breaches and obtain informed consent; generative-AI operators must work towards watermarks, labels or metadata for realistic synthetic content. It creates an AI promotion council.",
+  "notes": "Entered in Trámite Parlamentario No. 1 of 2 Mar 2026 and referred to the committees on General Legislation, on science (the Chamber's list abbreviates the name) and on Human Rights and Guarantees. The bill's explanatory statement says it re-presents bill 4079-D-2024, which had lapsed, and frames it in the OECD AI Principles. The Council for the Promotion and Development of AI would sit within the Cabinet Office, with one ad honorem representative of each ministry, meet at least quarterly and report each year to Congress on how the law is applied (Arts. 10-11).",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the bill text with its explanatory statement (10-page PDF from the Chamber of Deputies' server rest.hcdn.gob.ar, copy of 11 Oct 2026), which gives the title, Articles 1-12, the author (Silvana Giudici, Diputada Nacional) and the statement that it re-presents the lapsed bill 4079-D-2024; the Chamber's textoCompleto page for the expediente (hcdn.gob.ar), which shows the number 0004-D-2026 but no text; the Chamber's list of bills in Trámite Parlamentario No. 1 (hcdn.gob.ar, copy of 17 Oct 2026, flagged for review by the archiver), headed '2 de marzo de 2026', with the entry for 0004-D-2026 and its committee referrals; and the Chamber's index of Trámites Parlamentarios (copy of 17 Oct 2026), which dates No. 1 to 02/03/2026 and gives its range 0001 to 0050-D-2026. The list cuts the second committee's name short ('ciencia...'). Version 1's remarks on some fifty AI bills, press counts and the government's stance rest on no stored file and were removed. No committee opinion or later stage appears in the stored files. No English translation was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 1",
+    "quote": "Presupuestos Mínimos para la Promoción del desarrollo de la Inteligencia Artificial (IA) en la República Argentina",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/secondary.html",
+    "sha256": "fade3eadca3d27a155b732c6443303bd9f558f26f927581c1cb516be34a22cef",
+    "locator": "expediente page heading",
+    "quote": "Boletín de Asuntos Entrados 0004-D-2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "Trámite Parlamentario No. 1 list, entry 0004-D-2026",
+    "quote": "GIUDICI, SILVANA: DE LEY. PRESUPUESTOS MÍNIMOS PARA LA PROMOCIÓN DEL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL (IA) EN LA REPÚBLICA ARGENTINA. RÉGIMEN. (0004-D-2026) LEGISLACION GENERAL / ciencia... / DERECHOS HUMANOS Y GARANTIAS",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 1",
+    "quote": "Presupuestos Mínimos para la Promoción del desarrollo de la Inteligencia Artificial (IA) en la República Argentina",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 1",
+    "quote": "PROYECTO DE LEY El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, sancionan con fuerza de ley",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 6",
+    "quote": "Artículo 12 °: Comuníquese al Poder Ejecutivo Nacional. SILVANA GIUDICI DIPUTADA NACIONAL",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "Trámite Parlamentario No. 1 list, entry 0004-D-2026",
+    "quote": "GIUDICI, SILVANA: DE LEY. PRESUPUESTOS MÍNIMOS PARA LA PROMOCIÓN DEL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL (IA) EN LA REPÚBLICA ARGENTINA. RÉGIMEN. (0004-D-2026) LEGISLACION GENERAL / ciencia... / DERECHOS HUMANOS Y GARANTIAS",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "list heading",
+    "quote": "TRÁMITE PARLAMENTARIO N° 001 | 2 DE MARZO DE 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "Trámite Parlamentario No. 1 list, entry 0004-D-2026",
+    "quote": "GIUDICI, SILVANA: DE LEY. PRESUPUESTOS MÍNIMOS PARA LA PROMOCIÓN DEL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL (IA) EN LA REPÚBLICA ARGENTINA. RÉGIMEN. (0004-D-2026) LEGISLACION GENERAL / ciencia... / DERECHOS HUMANOS Y GARANTIAS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/secondary.html",
+    "sha256": "fade3eadca3d27a155b732c6443303bd9f558f26f927581c1cb516be34a22cef",
+    "locator": "expediente page heading",
+    "quote": "Boletín de Asuntos Entrados 0004-D-2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "list heading",
+    "quote": "TRÁMITE PARLAMENTARIO N° 001 | 2 DE MARZO DE 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "Trámite Parlamentario No. 1 list, entry 0004-D-2026",
+    "quote": "GIUDICI, SILVANA: DE LEY. PRESUPUESTOS MÍNIMOS PARA LA PROMOCIÓN DEL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL (IA) EN LA REPÚBLICA ARGENTINA. RÉGIMEN. (0004-D-2026) LEGISLACION GENERAL / ciencia... / DERECHOS HUMANOS Y GARANTIAS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-117e695e89/2026-10-17/official.html",
+    "sha256": "b7aa1ca18672ee3c6789bb7c74afa65f4e43ece9fac08df07426066f02d998a5",
+    "locator": "index of Trámites Parlamentarios, row 001",
+    "quote": "001 02/03/2026 1 - - - 0001 al 0050-D-2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 1",
+    "quote": "PROYECTO DE LEY El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, sancionan con fuerza de ley",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 10",
+    "quote": "la presente iniciativa es la representación del Proyecto que oportunamente tramitara bajo el Expediente N° 4079-D-2024 que se encuentra caducado",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "Trámite Parlamentario No. 1 list, entry 0004-D-2026",
+    "quote": "GIUDICI, SILVANA: DE LEY. PRESUPUESTOS MÍNIMOS PARA LA PROMOCIÓN DEL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL (IA) EN LA REPÚBLICA ARGENTINA. RÉGIMEN. (0004-D-2026) LEGISLACION GENERAL / ciencia... / DERECHOS HUMANOS Y GARANTIAS",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 1",
+    "quote": "PROYECTO DE LEY El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, sancionan con fuerza de ley",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 1, Art. 2",
+    "quote": "Declárase de interés nacional y estratégico el desarrollo científico y tecnológico de Sistemas de Inteligencia Artificial en la República Argentina.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 2, Art. 3(5)",
+    "quote": "El nivel de Riesgo de un Sistema de Inteligencia Artificial se evaluará, entre otros, en función del uso, la transparencia frente al usuario, la gestión de datos personales y la protección de los Derechos Humanos y garantías individuales.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 4, Art. 6",
+    "quote": "Los sistemas de IA destinados al uso de sistemas de categorización biométrica que clasifiquen individualmente a las personas humanas sobre la base de sus datos biométricos",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 5, Art. 9",
+    "quote": "a través de marcadores invisibles, etiquetas, marcas de agua y/o metadatos incrustados, la posibilidad de identificar cuando se trate de contenido realista.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-03/extra-e6b3de7f0a/2026-10-17/official.html",
+    "sha256": "c408567bdb6dbdb85d8db37c07a69c1645a940e1695fd6e62bc1b3a9cf52b7c3",
+    "locator": "Trámite Parlamentario No. 1 list, entry 0004-D-2026",
+    "quote": "GIUDICI, SILVANA: DE LEY. PRESUPUESTOS MÍNIMOS PARA LA PROMOCIÓN DEL DESARROLLO DE LA INTELIGENCIA ARTIFICIAL (IA) EN LA REPÚBLICA ARGENTINA. RÉGIMEN. (0004-D-2026) LEGISLACION GENERAL / ciencia... / DERECHOS HUMANOS Y GARANTIAS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 10",
+    "quote": "la presente iniciativa es la representación del Proyecto que oportunamente tramitara bajo el Expediente N° 4079-D-2024 que se encuentra caducado",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 5, Art. 10",
+    "quote": "Créase en el ámbito de la Jefatura de Gabinete de la Nación el Consejo para la Promoción y el Desarrollo de la IA, integrado por un representante de cada uno de los Ministerios de la Nación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-03/2026-10-11/official.pdf",
+    "sha256": "111118d98404d479815469dda976c514f7033f8a242a06c368d7b61b39391f8c",
+    "locator": "page 6, Art. 11",
+    "quote": "Anualmente, el Consejo para la Promoción y el Desarrollo de la IA evaluará la aplicación de la presente norma",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "copied verbatim from the bill ('Promoción del desarrollo', lower-case d)",
+   "official_identifier": "version 1's value without the description 're-presentation of expired Expediente 4079-D-2024' (now in the notes); the expediente number and the Trámite Parlamentario number and date are confirmed by the Chamber's list",
+   "summary": "adds Article 6 (those covered must avoid biometric categorisation inferring sensitive traits, manipulative systems and dissemination of personal data without consent) and Article 7 (complaints, breach reports); 'OECD-style' dropped as evaluation",
+   "notes": "remarks on some fifty AI bills, press analyses and the government's stance rest on no stored file and were removed; entry date and committee referrals added from the Trámite Parlamentario list; the council's composition and annual report added from Arts. 10-11",
+   "english_version": "the record had none; none found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A bill ('PROYECTO DE LEY') by Deputy Giudici, entered on 2 Mar 2026 and referred to three committees. No stored file shows a committee opinion, a floor vote, a Senate stage or a withdrawal; the explanatory statement notes that its predecessor 4079-D-2024 lapsed. 'Draft / proposed' with legal force 'Proposed' stands.",
+  "date_reasoning": "date_published 2026-03-02: the Chamber's list of bills in Trámite Parlamentario No. 1 is headed '2 de marzo de 2026' and includes 0004-D-2026, and the index dates No. 1 to 02/03/2026 for bills 0001 to 0050-D-2026. That is the bill's entry date, as in version 1.",
+  "scope_reasoning": "A national AI framework bill with risk grading, transparency and labelling duties; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "No stored file shows any stage after the committee referral of 2 Mar 2026, and the Chamber's list cuts the name of the second committee short ('ciencia...')."
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "cand_id": "MX-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 58 prohibits AI systems whose purpose or deliberate use is prohibited, including mass biometric identification",
+   "verdict": "supported",
+   "locator": "page 74, Art. 58"
+  },
+  {
+   "claim": "The initiative is a draft decree issuing the General Law and amending the Organic Law of the Federal Public Administration",
+   "verdict": "supported",
+   "locator": "page 1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the stored Senate initiative (title, 21 PAN signatories, signing at the Senate on 8 Sep 2026) and the SIL page (Gaceta publication 09/09/2026). A bill is Draft / proposed and Proposed, which fits. One targeted search found no committee referral, dictamen or later stage for this initiative on any official site; it only surfaced other Mexican AI bills. date_published uses the Gaceta date, one day after the signing date, which is defensible."
+}

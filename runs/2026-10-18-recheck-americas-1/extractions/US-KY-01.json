@@ -1,0 +1,324 @@
+{
+ "cand_id": "US-KY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-KY-01",
+ "record": {
+  "issuing_body": "Kentucky General Assembly (2025 Regular Session; sponsors A. Mays Bledsoe and B. Storm); signed by the Governor",
+  "summary": "Amends KRS 42.722 and 42.726 to define AI, generative AI and high-risk AI systems and consequential decisions, and makes the Commonwealth Office of Technology set standards for the responsible, ethical and transparent use of generative and high-risk AI by state bodies. Its AI Governance Committee develops standards adhering to ISO/IEC 42001, keeps a registry of such systems and runs an approval process. Agencies must disclose AI use to the public, explain AI decisions about citizens and offer appeals, and may use high-risk AI for consequential decisions only under a risk management policy. Candidates may also sue to require disclosures on synthetic media in electioneering communications.",
+  "notes": "Its official title is 'AN ACT relating to protection of information and declaring an emergency.' Passed the Senate 30-3 (28 Feb 2025) and, with House Committee Substitute 1, the House 86-10 (13 Mar 2025); the Senate concurred 33-4, and the Governor signed the Act on 24 Mar 2025. An emergency clause made it effective on approval. The Commonwealth Office of Technology was to promulgate administrative regulations by 1 Dec 2025 and must report each year from 1 Dec 2025 to the Legislative Research Commission and the Interim Joint Committee on State Government on the AI registry, applications for AI use and third-party AI providers. In synthetic-media actions the sponsor of the communication is liable; the disseminating medium is not, unless it removes a disclosure or alters content into synthetic media.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Kentucky General Assembly bill record for 25RS SB 4 and the Acts Chapter 66 PDF, both stored 12 Oct 2026 from apps.legislature.ky.gov (the archiver found them unchanged on 17 Oct 2026); the same Acts PDF is also stored as the record's secondary source, and Senate Floor Amendment 1, which would have removed the synthetic-media sections, is stored too. They confirm the title, the sponsors, the votes, the Governor's signature on 24 Mar 2025, the provisions and the emergency clause. The stored files give the sponsors' initials only and do not name the Governor, so the issuing body no longer gives full names. No current text of KRS 42.720 to 42.742 or KRS Chapter 117 was stored, so later amendments were not checked."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Legislation, bill heading",
+    "quote": "2025 Regular Session Senate Bills Senate Bill 4",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 1",
+    "quote": "CHAPTER 66 ( SB 4 ) AN ACT relating to protection of information and declaring an emergency.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Summary of Enacted Version",
+    "quote": "creates a new section of KRS 42.720 to 42.742 to create the Artificial Intelligence Governance Committee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Summary of Enacted Version",
+    "quote": "creates a new section of KRS Chapter 117 to establish a cause of action for the use of synthetic media in an electioneering communication",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "page header",
+    "quote": "Kentucky General Assembly",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Legislation",
+    "quote": "2025 Regular Session",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "bill details",
+    "quote": "Sponsors A. Mays Bledsoe, B. Storm",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 1",
+    "quote": "Be it enacted by the General Assembly of the Commonwealth of Kentucky:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 11",
+    "quote": "Signed by Governor March 24, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Legislation, bill heading",
+    "quote": "2025 Regular Session Senate Bills Senate Bill 4",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Last Action",
+    "quote": "03/24/25: signed by Governor (Acts Ch. 66)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 1",
+    "quote": "CHAPTER 66 ( SB 4 )",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 11",
+    "quote": "Signed by Governor March 24, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Last Action",
+    "quote": "03/24/25: signed by Governor (Acts Ch. 66)",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 11, Section 6",
+    "quote": "an emergency is declared to exist, and this Act takes effect upon its passage and approval by the Governor or upon its otherwise becoming a law.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 11",
+    "quote": "Signed by Governor March 24, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Last Action",
+    "quote": "03/24/25: signed by Governor (Acts Ch. 66)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 11, Section 6",
+    "quote": "an emergency is declared to exist, and this Act takes effect upon its passage and approval by the Governor or upon its otherwise becoming a law.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 11",
+    "quote": "Signed by Governor March 24, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 1",
+    "quote": "Be it enacted by the General Assembly of the Commonwealth of Kentucky:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 1, KRS 42.722(12)",
+    "quote": "\"High-risk artificial intelligence system\":",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 1, KRS 42.722(4)",
+    "quote": "\"Consequential decision\" means any decision that has a material legal or similarly significant effect on the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 3, KRS 42.726(2)(q)",
+    "quote": "procedures for the responsible, ethical, and transparent use of generative artificial in telligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 4, Section 3(1)(a)",
+    "quote": "adhere to the latest version of Standard ISO/IEC 42001",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 4, Section 3(1)(d)",
+    "quote": "Maintaining a centralized registry to include current inventory of generative artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 5, Section 3(1)(e)",
+    "quote": "Developing an approval process to include a registry of application, use case",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 5, Section 3(6)(a)",
+    "quote": "A department, agency, or administrative body shall disclose to the public, through a clear and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 6, Section 3(6)(b)3",
+    "quote": "Make readily available options for individuals to appeal a consequential decision",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 6, Section 3(8)(a)",
+    "quote": "a high-risk artificial intelligence system to render a consequential decision without the design and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 10, Section 5(1)(a)",
+    "quote": "Any candidate for any elected office whose appearance, action, or speech is altered through the use",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Title",
+    "quote": "AN ACT relating to protection of information and declaring an emergency.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Actions, 02/28/25",
+    "quote": "3rd reading, passed 30-3",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Actions, 03/13/25",
+    "quote": "3rd reading, passed 86-10 with Committee Substitute (1)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/official.html",
+    "sha256": "0426429810a4768e03c6c224aa9fa7005600e298e4de068380e858ac3063f05a",
+    "locator": "Actions",
+    "quote": "passed 33-4 with Committee Substitute (1)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 7, Section 3(12)",
+    "quote": "KRS Chapter 13A to implement this section and Section 2 of this Act by December 1, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 6, Section 3(11)(a)",
+    "quote": "Commission and the Interim Joint Committee on State Government by December 1, 2025, and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-KY-01/2026-10-12/document-2.pdf",
+    "sha256": "a64de7d412b58033e2927a554bb849588873d66d6ceafbbe816f3ea4b3eb7c97",
+    "locator": "page 10, Section 5(2)(b)",
+    "quote": "The following shall not be liable except as provided in subsection (3) of this section:",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored files give the sponsors as 'A. Mays Bledsoe, B. Storm' and do not name the Governor; full first names and the Governor's name removed",
+   "summary": "rewritten from the Act to include its risk-governance core, which the old summary left out: high-risk AI systems and consequential decisions, ISO/IEC 42001, the registry and approval process, disclosure and appeal for AI decisions about citizens, and the risk management policy required before high-risk AI makes consequential decisions",
+   "notes": "rewritten: official title, votes, the regulation and reporting deadlines and the media-liability rule added from the stored files; the hedged sentence ('summaries describe ...') removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill record's last action is '03/24/25: signed by Governor (Acts Ch. 66)'; Section 6 of the Act declares an emergency so that the Act 'takes effect upon its passage and approval by the Governor', and the Act ends 'Signed by Governor March 24, 2025.' 24 Mar 2025 is before 18 Oct 2026 and no stored file shows a repeal. 'In force' stands.",
+  "scope_reasoning": "An AI-specific state law on AI governance in state government and synthetic media in elections; in scope with no note (unchanged).",
+  "date_reasoning": "date_published and date_in_force are both 24 Mar 2025: the Governor signed the Act that day and its emergency clause makes it effective on approval.",
+  "title_reasoning": "The record keeps its descriptive title: the Act's official title ('AN ACT relating to protection of information and declaring an emergency.') does not identify the instrument, so it is quoted in notes instead."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Kentucky HB 455 (2026 Regular Session), an act relating to artificial intelligence (AI in mental health therapy; sponsor K. Banta)",
+   "url": null,
+   "seen_in": "web search results during this recheck (policyrisk.com tracker), not stored",
+   "why": "Reported to have passed the House 88-7 on 23 Feb 2026; a possible Kentucky AI law on mental health services, not in the register."
+  }
+ ],
+ "open_questions": []
+}

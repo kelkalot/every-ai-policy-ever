@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-IA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Civil penalty of USD 1,000 per violation up to USD 500,000 per operator",
+   "verdict": "supported",
+   "locator": "page 4, 554J.6(1)"
+  },
+  {
+   "claim": "The Attorney General may enforce",
+   "verdict": "supported",
+   "locator": "page 4, 554J.6(2)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-WA-01",
+  "US-OR-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the enrolled Senate File 2417 and Iowa Acts chapter 1068 ('Approved May 2, 2026') and the bill history (effective 1 Jul 2026, applicability 1 Jul 2027). Status Adopted, not yet in force follows from Section 7, under which the Act applies from 1 Jul 2027. The search found no amendment; one secondary source gives 3 May for the signing, against the official 2 May."
+}

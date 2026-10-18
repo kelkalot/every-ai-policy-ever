@@ -1,0 +1,270 @@
+{
+ "cand_id": "UY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UY-01",
+ "record": {
+  "summary": "Uruguay's national AI strategy for 2024-2030 seeks to use AI for sustainable development and inclusive growth through its ethical, responsible, safe, critical, creative and pro-innovation development and use. Its governance axis calls for risk-based regulatory frameworks, a national analysis of AI uses unacceptable for their impact on rights with possible prohibitions or moratoria, instruments to identify and mitigate risks to human rights, transparency, accountability and audit frameworks, AI security risk assessment and regulatory sandboxes. Its other axes cover capacities (infrastructure, data, cybersecurity, talent) and sustainable development, including AI in public administration.",
+  "notes": "Approved by the Public Sector Strategic Committee for AI and Data at its session of 21 Nov 2024 and published on 22 Nov 2024 (the strategy's own page on gub.uy gives 19 Nov 2024 as its creation date), after a participatory process with contributions from more than 300 people; CAF and UNESCO gave technical cooperation. It runs from 2024 to 2030 with a mid-term review, and its implementation is subject to public monitoring and evaluation. Article 74 of Law No. 20.212 (promulgated 6 Nov 2023) tasks AGESIC with a national data and AI strategy founded on principles including equity, non-discrimination, accountability, transparency, auditing and safe innovation, acting jointly with the personal data regulator (URCDP) on personal data, and required a report with recommendations for regulating AI. IMPO records Article 74 as regulated by Decree No. 276/025 of 2 Dec 2025.",
+  "scope_note": "A national AI strategy with three objectives (governance, capacities and sustainable development); included as Uruguay's national AI strategy, whose first objective is a governance framework for ethical, responsible and safe AI.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: read the strategy itself, AGESIC's 'Estrategia Nacional de Inteligencia Artificial del Uruguay 2024 – 2030' (59-page PDF and its page on gub.uy, stored 17 Oct 2026), on which the summary rests; re-read the AGESIC publication page (stored 11 Oct 2026, unchanged on 17 Oct 2026), which confirms the title, the publication date 22/11/2024 and the committee's approval on 21 Nov 2024; and IMPO's text of Article 74 of Law No. 20.212 (stored 11 Oct 2026; IMPO returned a near-empty page on 17 Oct 2026, so the earlier copy is kept), which gives the article's principles and the note that it is regulated by Decree No. 276/025. The IMPO text layer shows accented letters as replacement characters. No English version was found."
+  },
+  "safety_topics": [
+   "risk-based classification",
+   "accountability & liability",
+   "transparency & labelling",
+   "evaluation & testing",
+   "public-sector use"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page heading",
+    "quote": "Estrategia Nacional de Inteligencia Artificial 2024 – 2030 Marco de Referencia 22/11/2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 3",
+    "quote": "ESTRATEGIA NACIONAL DE INTELIGENCIA ARTIFICIAL URUGUAY 2024 – 2030",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page heading",
+    "quote": "Estrategia Nacional de Inteligencia Artificial 2024 – 2030 Marco de Referencia",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "el Comité Estratégico del Sector Público para la Inteligencia Artificial y Datos aprobó la nueva Estrategia de Inteligencia Artificial de Uruguay",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "El proceso de revisión de la Estrategia Nacional de Inteligencia Artificial fue liderado y articulado por Agesic",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/official.html",
+    "sha256": "9cf2e6afdcda1d5d086057becb70cee441b20fee62e87b6a6c78634ca98e5b6c",
+    "locator": "publication details",
+    "quote": "Autor Agesic Fecha de creación 19/11/2024 Tipo de publicación Marco de Referencia",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page heading",
+    "quote": "Estrategia Nacional de Inteligencia Artificial 2024 – 2030 Marco de Referencia 22/11/2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "Durante la sesión del 21 de noviembre de 2024, el Comité Estratégico del Sector Público para la Inteligencia Artificial y Datos aprobó la nueva Estrategia de Inteligencia Artificial de Uruguay.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "Su implementación está sujeta a un proceso de seguimiento, monitoreo y evaluación de carácter público.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 55, Período de vigencia",
+    "quote": "El plazo de vigencia de la presente Estrategia es 2024-2030.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "La nueva Estrategia constituye la piedra angular para el despliegue de una política pública de IA",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 21, Objetivo general",
+    "quote": "Aprovechar la inteligencia artificial (IA) como instrumento para el desarrollo sostenible y el crecimiento inclusivo de Uruguay, impulsando su desarrollo y uso ético, responsable, seguro, crítico, creativo y pro-innovación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 37, Línea 1.2 Marcos regulatorios",
+    "quote": "Desarrollar y adoptar los marcos regulatorios necesarios basados en un enfoque de riesgo y otros que se determinen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 38, Línea 1.2(a)",
+    "quote": "Analizar y definir sobre la base de consensos nacionales las aplicaciones de los sistemas de IA que resultan inaceptables como sociedad por su impacto sobre los derechos de las personas, evaluando las prohibiciones o moratorias que resulten adecuadas.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 38, Línea 1.2(e)",
+    "quote": "Generar marcos que garanticen la disponibilidad de instrumentos para identificar, evaluar, prevenir, mitigar los riesgos y abordar el impacto adverso de la aplicación de la IA en los derechos humanos",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 38, Línea 1.2(h)",
+    "quote": "Generar marcos para la transparencia y rendición de cuentas sobre el desarrollo y uso de la IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 39, Línea 1.2(i)",
+    "quote": "Desarrollar los marcos necesarios para implementar modelos de auditoría",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 39, Línea 1.2(j)",
+    "quote": "se deberán desarrollar técnicas de evaluación y gestión de riesgos de seguridad asociados con la IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 39, Línea 1.2(l)",
+    "quote": "Entre estas herramientas, se considerarán los sandboxes regulatorios y los hubs de innovación.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 4",
+    "quote": "Eje 2. Capacidades para la IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 49, Línea 3.4 Gestión pública",
+    "quote": "Aplicar inteligencia artificial en el sector público para mejorar los servicios transversales",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "Fue creada a través de un proceso participativo que recogió aportes de más de 300 personas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "body",
+    "quote": "de acuerdo con lo establecido en el artículo 74 de la Ley N° 20.212 de 6 de noviembre de 2023. Contó con la cooperación técnica del Banco de Desarrollo de América Latina y el Caribe (CAF",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/secondary.html",
+    "sha256": "61f7631bf3d13384240dfd0d7068406819dc978a6749dd97890e31571c696d05",
+    "locator": "Artículo 74",
+    "quote": "La estrategia deber� fundarse en principios de equidad, no discriminaci�n, responsabilidad, rendici�n de cuentas, transparencia, auditor�a e innovaci�n segura",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/secondary.html",
+    "sha256": "61f7631bf3d13384240dfd0d7068406819dc978a6749dd97890e31571c696d05",
+    "locator": "Artículo 74",
+    "quote": "la actuaci�n conjunta con la Unidad Reguladora y de Control de Datos Personales (URCDP)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/secondary.html",
+    "sha256": "61f7631bf3d13384240dfd0d7068406819dc978a6749dd97890e31571c696d05",
+    "locator": "Artículo 74, notas",
+    "quote": "Reglamentado por: Decreto N� 276/025 de 02/12/2025.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/document-1.pdf",
+    "sha256": "9f36ffca256c0214432de8166a0ab088baf548f170e1b2d31906b74e362c3f5f",
+    "locator": "page 55, Período de vigencia",
+    "quote": "se realizará una revisión de medio término",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/official.html",
+    "sha256": "9cf2e6afdcda1d5d086057becb70cee441b20fee62e87b6a6c78634ca98e5b6c",
+    "locator": "publication details",
+    "quote": "Fecha de creación 19/11/2024",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the strategy's own text: its general objective and the governance axis's regulatory lines (risk-based frameworks, analysis of unacceptable uses with possible prohibitions or moratoria, risk-mitigation instruments, transparency, accountability and audit frameworks, AI security risk assessment, sandboxes), and the other two axes; the claim that it was developed 'together with' the regulatory-recommendations report replaced",
+   "notes": "expanded from the stored files: participatory process, CAF and UNESCO cooperation, the 2024-2030 period with a mid-term review, the creation date on the strategy's page, the principles Article 74 sets and its regulation by Decree No. 276/025",
+   "scope_note": "added: governance is one of three objectives alongside capacities and sustainable development, the case for a scope_note on strategies with a different main focus; included as the national AI strategy whose first objective is safety-relevant governance",
+   "verification.note": "rewritten for this recheck",
+   "safety_topics": "risk-based classification and evaluation & testing added for the governance axis's risk-based regulatory frameworks, audit models and AI security risk assessment"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The AGESIC page records the committee's approval on 21 Nov 2024 and publication on 22 Nov 2024; the strategy states 'El plazo de vigencia de la presente Estrategia es 2024-2030', with a mid-term review. No stored file shows a replacement or withdrawal, so it stays 'Published (non-binding, current)'.",
+  "scope_reasoning": "A national AI strategy with governance for ethical, responsible and safe AI as its first objective, alongside capacities and sustainable development; in scope, with a scope_note as a strategy whose main focus is broader than safety.",
+  "date_reasoning": "date_published is the publication date on the AGESIC page, 22/11/2024; the approval at the committee session of 21 Nov 2024 goes in the notes."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-uruguay-2024-2030/estrategia",
+   "reason": "The strategy's own text on gub.uy, linked from the stored publication page ('Accedé a la Estrategia Nacional de Inteligencia Artificial 2024 - 2030'); needed to check the summary, principles and lines of action against the strategy itself rather than the announcement."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Uruguay: Decree No. 276/025 of 2 Dec 2025 regulating provisions of Law No. 20.212 on AI (IMPO lists it as regulating Article 74; search results describe it as rules for controlled testing environments for data and AI innovation projects under Article 75)",
+   "seen_in": "https://www.impo.com.uy/bases/decretos-originales/276-2025",
+   "why": "A decree implementing Uruguay's AI provisions of Law 20.212, published 10 Dec 2025 according to IMPO's listing; not in the register."
+  }
+ ],
+ "open_questions": []
+}

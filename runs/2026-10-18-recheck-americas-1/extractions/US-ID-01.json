@@ -1,0 +1,212 @@
+{
+ "cand_id": "US-ID-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-ID-01",
+ "record": {
+  "issuing_body": "Idaho Legislature (2026 session)",
+  "official_identifier": "SB 1297 (2026)",
+  "summary": "Requires operators of conversational AI chatbots to tell users the service is AI and to adopt protocols for responding to suicidal ideation or self-harm. For minor users (under 18), operators may not use addictive reward systems to encourage engagement, must prevent the chatbot from generating sexually explicit material, making sexual suggestions or sexually objectifying the minor, and must keep it from statements that could mislead minors into thinking it is human, including statements simulating emotional dependence or role-playing adult-minor relationships. Operators must provide tools for minors and parents to manage privacy settings, with special provisions for users under 13.",
+  "notes": "Enacted on 31 Mar 2026 with an effective date of 1 Jul 2027. Nebraska LB 525 of 2026, the Conversational Artificial Intelligence Safety Act, sets similar duties toward minors and takes effect on the same date.",
+  "verification": {
+   "note": "CAUTION: no official copy is stored. Recheck of 18 Oct 2026: the only stored source is the Transparency Coalition's tracker of 2026 state chatbot-safety laws (stored again 16 Oct 2026). It confirms the bill number and name, enactment on 31 Mar 2026, the 1 Jul 2027 effective date and the duties described in the summary, so title, date and status rest on a secondary source. legislature.idaho.gov refused connections on 11, 12 and 14 Oct 2026, and in this recheck the bill page for S1297, the amended bill text (S1297E1.pdf) and the Idaho Code chapter (Title 48, chapter 22) all timed out again. Tracker and news pages seen during this recheck, not stored, give the bill as Session Law Chapter 249 and describe Attorney General enforcement with civil penalties, no private right of action and a ban on presenting the service as professional mental or behavioural health care; these, the earlier summary's penalty figures (USD 1,000 per violation, USD 500,000 cap), the votes and the Governor's signature rest on unstored sources and are left out until an official copy is stored. The tracker names the sponsor as 'Green'; a KIVI-TV report seen earlier says Sen. Ben Toews presented the bill in committee."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "SB 1297: The Conversational AI Safety Act",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "introduction",
+    "quote": "with chatbot safety laws enacted in both Republican-held legislatures like Georgia and Idaho",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Sponsor: Green. Enacted March 31, 2026. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "SB 1297: The Conversational AI Safety Act",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Sponsor: Green. Enacted March 31, 2026. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Sponsor: Green. Enacted March 31, 2026. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Sponsor: Green. Enacted March 31, 2026. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "list introduction",
+    "quote": "Listed below are all chatbot safety bills passed by state lawmakers in the first half of 2026. Most have been enacted",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Sponsor: Green. Enacted March 31, 2026. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "This chatbot disclosure and child safety bill requires notification of AI nature, steps to limits certain actions by minors, privacy tools, and protocols for response to suicidal ideation or self-harm.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Chatbot operators may not use addictive reward systems to encourage minors (under 18) to engage with the chatbot.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "For minor users, operators must prevent the chatbot from generating sexually explicit material, making sexual suggestions, or sexually objectifying the minor.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "The chatbot must not make statements that could mislead minors into thinking the AI is human, including statements simulating emotional dependence or role-playing adult-minor relationships.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Operators must provide tools for minors and parents to manage privacy settings, with special provisions for users under age 13.",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Idaho entry",
+    "quote": "Sponsor: Green. Enacted March 31, 2026. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Nebraska entry",
+    "quote": "LB 525: The Conversational Artificial Intelligence Safety Act",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-ID-01/2026-10-16/secondary.html",
+    "sha256": "6a71c72263bc3df4ca903228a9ff970b41efee5844493430a6124022738e8584",
+    "locator": "Nebraska entry",
+    "quote": "Sponsors: Bostar, Jacobson. Enacted April 14. Effective July 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "'signed by Governor Brad Little' and 'Regular Session' are in no stored file; reduced to what the stored tracker supports",
+   "official_identifier": "'68th Idaho Legislature' is in no stored file; reduced to the bill number the tracker gives",
+   "summary": "trimmed to what the stored tracker supports and the hedge removed: Attorney General enforcement, the USD 1,000 / USD 500,000 penalties ('reported at'), the three-hour disclaimer and the mental-health representation ban rest on unstored sources; the minors' duties the tracker describes are spelled out",
+   "notes": "rewritten: the votes and signature rest on unstored sources, and the closing remark ('the enrolled text should be checked') was research-process wording",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored tracker's Idaho entry reads 'Enacted March 31, 2026. Effective July 1, 2027.' Today, 18 Oct 2026, is before 1 Jul 2027, so the law is adopted but not yet in force: 'Adopted, not yet in force' stands.",
+  "scope_reasoning": "An AI-specific state statute on safety duties of conversational AI operators; in scope with no note (unchanged).",
+  "date_reasoning": "date_published 31 Mar 2026 (enactment) and date_in_force 1 Jul 2027 both come from the tracker's Idaho entry; no official copy is stored."
+ },
+ "extra_urls": [
+  {
+   "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1297/",
+   "reason": "Idaho Legislature bill page for S1297 (2026): title, sponsor, history with the Governor's signature, the session law chapter and the effective date; official evidence for every level field. The host refused connections in earlier attempts; a browser retry may work."
+  },
+  {
+   "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1297E1.pdf",
+   "reason": "Amended text of S1297 as passed (found by search): the duties, enforcement, penalties and effective date needed to restore the summary's detail from an official text."
+  },
+  {
+   "url": "https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title48/T48CH22.pdf",
+   "reason": "Idaho Code chapter that codifies the Conversational AI Safety Act (found by search; search snippets show sections 48-2101 [48-2201] and the history 'added 2026, ch. 249'): official evidence for the codified text and the session law chapter."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Colorado HB 26-1263 (2026), chatbot safety and minors' algorithmic addiction",
+   "url": null,
+   "seen_in": "archive/US-ID-01/2026-10-16/secondary.html (Colorado entry)",
+   "why": "Reported enacted 29 May 2026, effective 12 Aug 2026; a chatbot-safety law for minors not in the register."
+  },
+  {
+   "title": "Connecticut SB 5 (2026), omnibus AI and online safety act",
+   "url": null,
+   "seen_in": "archive/US-ID-01/2026-10-16/secondary.html (Connecticut entry)",
+   "why": "Reported enacted 27 May 2026 with chatbot safety protocols; not in the register."
+  },
+  {
+   "title": "New York S 9051 (2026), kids chatbot safety",
+   "url": null,
+   "seen_in": "archive/US-ID-01/2026-10-16/secondary.html (New York entry)",
+   "why": "Reported passed and awaiting the Governor's signature in July 2026; not in the register."
+  }
+ ],
+ "open_questions": [
+  "No official copy is stored (see issue #11): every Idaho source on legislature.idaho.gov has refused connections. A person can download the bill page or S1297E1.pdf and store it with the 'Provide a document' form (archive.py --provide); a later run can then restore the Attorney General enforcement, penalties and the session law chapter with official evidence.",
+  "Sponsor: the stored tracker names 'Green', while a KIVI-TV report (not stored) says Sen. Ben Toews presented the bill in the Senate State Affairs Committee; the record does not name a sponsor."
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "cand_id": "US-ID-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Operators may not use addictive reward systems to encourage minors to engage",
+   "verdict": "supported",
+   "locator": "Idaho entry (tracker)"
+  },
+  {
+   "claim": "Operators must provide tools for minors and parents to manage privacy settings",
+   "verdict": "supported",
+   "locator": "Idaho entry (tracker)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-OR-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "No official copy is stored (Idaho's site refuses connections), so the record is level C and rests on the Transparency Coalition tracker, which supports the title, the enactment on 31 Mar 2026 and the effective date of 1 Jul 2027. A search found the Idaho Legislature's S1297 text and reports of signing on 31 Mar 2026 and Session Law Chapter 249, in line with the record; nothing newer. The extractor's request to store the Legislature's pages stands."
+}

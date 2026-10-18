@@ -1,0 +1,54 @@
+{
+ "cand_id": "BO-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Set to null: the 27 Apr 2026 reposición request is not a new text."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Senate approved the bill on 22 Oct 2025 and sent it to the Chamber of Deputies (received 29 Oct 2025)",
+   "verdict": "supported",
+   "locator": "page 2 and page 11"
+  },
+  {
+   "claim": "Bill provides fiscal incentives for AI research and innovation (Art. 15) and a 90-day regulation period",
+   "verdict": "supported",
+   "locator": "page 8, Art. 15; page 11, Additional Provisions"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Chamber of Deputies' scan supports number, title, 22 Oct 2025 approval, the 27 Apr 2026 reposición request and article text. date_last_updated set to null is defensible (the reposición request is not a new text). Search found no Chamber vote or enactment. The extractor's lead on PL 310/2025-2026 and PL 288/2025-2026 is worth a discover run."
+}

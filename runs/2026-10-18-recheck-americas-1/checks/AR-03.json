@@ -1,0 +1,53 @@
+{
+ "cand_id": "AR-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Risk graded high, moderate or minimal by use, transparency, personal-data handling and human-rights impact",
+   "verdict": "supported",
+   "locator": "page 2, Art. 3(5)"
+  },
+  {
+   "claim": "Generative-AI operators must work towards watermarks, labels or metadata for realistic content; Council created in the Cabinet Office",
+   "verdict": "supported",
+   "locator": "page 5, Arts. 9 and 10"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Bill text and the Chamber's Trámite Parlamentario No. 1 list support title, author, expediente, 2 Mar 2026 entry and the 4079-D-2024 re-presentation. Dropping the 'expired Expediente' clause from official_identifier is fine. Search found no committee opinion or later stage."
+}

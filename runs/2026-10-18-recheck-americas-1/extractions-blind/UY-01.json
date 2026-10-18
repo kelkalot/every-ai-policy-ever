@@ -1,0 +1,107 @@
+{
+ "decision": "update",
+ "target_id": "UY-01",
+ "record": {
+  "summary": "National AI strategy for 2024-2030, approved on 21 November 2024. It sets ten guiding principles, including transparency and explainability, accountability, and reliability and safety, and three axes: governance, capacities and sustainable development. The governance axis calls for an institutional set-up and regulatory frameworks based on a risk approach to promote ethical, responsible and safe AI, and an action to adapt the national cybersecurity framework to AI security risks. AGESIC led its drafting under Art. 74 of Law 20.212.",
+  "safety_topics": [
+   "accountability & liability",
+   "transparency & labelling",
+   "public-sector use",
+   "risk-based classification"
+  ],
+  "notes": "Approved by the Public Sector Strategic Committee for AI and Data on 21 Nov 2024 and published on 22 Nov 2024; the publication page of the full document gives 19 Nov 2024 as its creation date. Mandated by Art. 74 of Ley N° 20.212 (6 Nov 2023). Implementation is subject to public monitoring and evaluation."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "Estrategia Nacional de Inteligencia Artificial 2024 – 2030",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "Estrategia Nacional de Inteligencia Artificial 2024 – 2030",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "Durante la sesión del 21 de noviembre de 2024, el Comité Estratégico del Sector Público para la Inteligencia Artificial y Datos aprobó la nueva Estrategia de Inteligencia Artificial de Uruguay.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "El proceso de revisión de la Estrategia Nacional de Inteligencia Artificial fue liderado y articulado por Agesic",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "Marco de Referencia 22/11/2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "Durante la sesión del 21 de noviembre de 2024, el Comité Estratégico del Sector Público para la Inteligencia Artificial y Datos aprobó la nueva Estrategia de Inteligencia Artificial de Uruguay.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UY-01/2026-10-11/official.html",
+    "sha256": "e1f0ad5aa44e2d8ba7c04d8c633763c2929d982f66065bd54bc2002bf5c4e2c2",
+    "locator": "page text",
+    "quote": "Su implementación está sujeta a un proceso de seguimiento, monitoreo y evaluación de carácter público.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/UY-01/extra-b9c8399461/2026-10-17/official.html",
+    "sha256": "9cf2e6afdcda1d5d086057becb70cee441b20fee62e87b6a6c78634ca98e5b6c",
+    "locator": "page text",
+    "quote": "constituye la piedra angular para el despliegue de una política pública de IA",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "adds the principles, risk-based regulatory line and cybersecurity action read in the full strategy PDF",
+   "safety_topics": "adds risk-based classification (Line 1.2: regulatory frameworks 'basados en un enfoque de riesgo')",
+   "notes": "adds the creation date 19/11/2024 shown on the document's own page and the monitoring clause"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding strategy approved 21 Nov 2024 and published 22 Nov 2024; the stored pages show no replacement or withdrawal, so it stays Published (non-binding, current).",
+  "scope_reasoning": "National AI strategy whose first axis is governance for safe and responsible AI; unchanged from the record."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "UY-01"
+}

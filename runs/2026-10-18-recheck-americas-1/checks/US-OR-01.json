@@ -1,0 +1,55 @@
+{
+ "cand_id": "US-OR-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "31 Mar 2026 follows from 'yesterday' in an article updated 1 Apr 2026; the quote carries no date and another secondary source says 1 Apr."
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Operators must tell users they are talking to AI, not a human",
+   "verdict": "supported",
+   "locator": "secondary article, bill summary"
+  },
+  {
+   "claim": "Annual report to the Oregon Health Authority on referrals",
+   "verdict": "supported",
+   "locator": "secondary article, bill summary"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-NE-01",
+  "US-ID-01",
+  "US-IA-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The record rests on one official post (the Governor's release of 7 May 2026, which confirms signing and the core duties) and a secondary article, so level C is right. The signing date 31 Mar 2026 is inferred from the article's 1 Apr 2026 update ('yesterday'), and the quote does not itself show the year; one secondary tracker found by search gives 1 Apr 2026, so the day is not certain. The effective date of 1 Jan 2027 is confirmed by several secondary sources found by search, none official. I found no chapter number or amendment. A person could provide the enrolled bill."
+}

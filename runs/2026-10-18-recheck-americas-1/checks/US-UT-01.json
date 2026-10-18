@@ -1,0 +1,54 @@
+{
+ "cand_id": "US-UT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Quote shows the effective date of H.B. 320 (6 May 2026) and the Code credit to Chapter 127, 2026; the signing date is not stored."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Created an Office of Artificial Intelligence Policy",
+   "verdict": "supported",
+   "locator": "page 14, s. 13-70-201(1)"
+  },
+  {
+   "claim": "Fine of up to USD 2,500 for each violation of the disclosure rules",
+   "verdict": "supported",
+   "locator": "page 3, s. 13-2-12(7)(a)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the stored S.B. 149 bill page and enrolled text, the 2025 bills S.B. 226 and S.B. 332, H.B. 320 (2026) and the Utah Code chapter. Status In force is right: Chapter 72 stands, now due for repeal on 1 Jul 2027. date_last_updated uses H.B. 320's effective date (6 May 2026), which the stored text shows, and the Code credits Chapter 127 of the 2026 session; the Governor's signing date of H.B. 320 is not stored, so the date is the best supported one. The search found H.B. 320 signed on 18 Mar 2026 (secondary), consistent with the record. No later amendment found. S.B. 226 and H.B. 452 have no record yet and are already listed as leads."
+}

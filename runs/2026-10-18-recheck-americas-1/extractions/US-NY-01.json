@@ -1,0 +1,404 @@
+{
+ "cand_id": "US-NY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-NY-01",
+ "record": {
+  "summary": "Requires frontier developers (of foundation models trained with over 10^26 operations) to publish a transparency report before deploying a new or substantially modified model, and large frontier developers (revenue above USD 500 million) to publish and follow a frontier AI framework for managing catastrophic risks, publish risk-assessment summaries and file disclosure statements. Critical safety incidents must be reported within 72 hours, or within 24 hours to an appropriate authority if death or serious injury is imminent. An office in the Department of Financial Services oversees compliance; the Attorney General can seek penalties of up to USD 1 million, or 3 million for later violations.",
+  "notes": "Both houses passed S6953-B (same as A6453-B) on 12 Jun 2025; it was delivered to the Governor on 9 Dec 2025 and signed on 19 Dec 2025 as Chapter 699 of 2025, with approval memo 76, the Governor announcing agreed chapter amendments. The chapter amendment S8828 (same as A9449) passed the Senate on 28 Jan 2026 and the Assembly on 11 Mar 2026 and was signed on 27 Mar 2026 as Chapter 96 of 2026. It repealed and replaced Article 44-B of the General Business Law as first enacted: a revenue test of over USD 500 million replaced the test of over USD 100 million in compute costs, the ban on deploying a frontier model that would create an unreasonable risk of critical harm was dropped, maximum penalties fell from USD 10 million and 30 million to 1 million and 3 million, and the effective date moved from the ninetieth day after enactment to 1 Jan 2027. Large frontier developers must also send the office summaries of catastrophic-risk assessments of internal use every three months and pay assessments to fund it. The office's annual reports begin on 1 Jan 2028. Accredited colleges and universities doing academic research and the Empire AI consortium are exempt, and there is no private right of action. The Governor described the law as building on California's recently adopted framework.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: nysenate.gov refused the archiver (HTTP 403) on 11, 16 and 17 Oct 2026, so the record now rests on the Assembly's bill pages for A6453 (same as S6953-B) and A9449 (same as S8828) and on the Governor's press release of 19 Dec 2025, stored from nyassembly.gov and governor.ny.gov on 17 Oct 2026. The A6453 page gives the actions of both houses, 'SIGNED CHAP.699' and 'APPROVAL MEMO.76' on 12/19/2025, and the text as signed. The A9449 page gives the actions, including 'SIGNED CHAP.96' on 03/27/2026, and the Assembly print of the chapter amendment with the new Article 44-B and the effective date of 1 Jan 2027; the Senate print S8828 that was signed was not stored, and the page lists the two as the same bill. The release confirms the signature, 72-hour reporting, the oversight office in the Department of Financial Services and the penalties."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text, Section 1",
+    "quote": "This act shall be known and may be cited as",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text, Section 1",
+    "quote": "the \"Responsible AI safety and education act\" or \"RAISE act\".",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 2",
+    "quote": "RESPONSIBLE AI SAFETY AND EDUCATION (RAISE) ACT",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text",
+    "quote": "The People of the State of New York, represented in Senate and Assem-",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-ab5a6d1665/2026-10-17/official.html",
+    "sha256": "3cb5d5a25f4bfd2168b5baea188b9e7c42019d46c6d84d768e898e7caaf567ea",
+    "locator": "press release of December 19, 2025",
+    "quote": "Governor Kathy Hochul today signed legislation to require AI frameworks for AI frontier models",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Actions",
+    "quote": "12/19/2025 SIGNED CHAP.699 12/19/2025 APPROVAL MEMO.76",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Summary",
+    "quote": "BILL NO A06453B SAME AS SAME AS S06953-B",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Actions",
+    "quote": "03/27/2026 SIGNED CHAP.96",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Summary",
+    "quote": "BILL NO A09449 SAME AS SAME AS S08828",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Actions",
+    "quote": "12/19/2025 SIGNED CHAP.699",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-ab5a6d1665/2026-10-17/official.html",
+    "sha256": "3cb5d5a25f4bfd2168b5baea188b9e7c42019d46c6d84d768e898e7caaf567ea",
+    "locator": "press release header",
+    "quote": "December 19, 2025 Albany, NY Governor Hochul Signs Nation-Leading Legislation to Require AI Frameworks for AI Frontier Models",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 3",
+    "quote": "have become a law] January 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Actions",
+    "quote": "03/27/2026 SIGNED CHAP.96",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Actions",
+    "quote": "03/27/2026 SIGNED CHAP.96",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Actions",
+    "quote": "03/27/2026 SIGNED CHAP.96",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 3",
+    "quote": "have become a law] January 1, 2027.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Actions",
+    "quote": "12/19/2025 SIGNED CHAP.699",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text",
+    "quote": "bly, do enact as follows:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1420(9)(a)",
+    "quote": "using a quantity of computing power greater than 10",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1420(10)",
+    "quote": "of five hundred million dollars in the preceding calendar year.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1421(3)(a)",
+    "quote": "website a transparency report containing all of the following:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1421(1)",
+    "quote": "its internet website a frontier AI framework that applies to the large",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1420(7)",
+    "quote": "tional protocols to manage, assess, and mitigate catastrophic risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1421(3)(b)",
+    "quote": "paragraph (a) of this subdivision, summaries of all of the following:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1428(1)",
+    "quote": "state, without having a current disclosure statement filed with the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1422(3)(a)",
+    "quote": "of its frontier models to the office within seventy-two hours from a",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1422(3)(b)",
+    "quote": "poses an imminent risk of death or serious physical injury, the frontier",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1422(3)(b)",
+    "quote": "developer shall disclose that incident within twenty-four hours to an",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1420(16)",
+    "quote": "16. \"Office\" means an office within the department of financial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1427(1)",
+    "quote": "to recover a civil penalty in an amount not to exceed one million",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1427(1)",
+    "quote": "dollars for a first violation and in an amount not to exceed three",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Actions",
+    "quote": "06/12/2025 PASSED SENATE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Actions",
+    "quote": "06/12/2025 passed assembly",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Actions",
+    "quote": "12/09/2025 DELIVERED TO GOVERNOR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-ab5a6d1665/2026-10-17/official.html",
+    "sha256": "3cb5d5a25f4bfd2168b5baea188b9e7c42019d46c6d84d768e898e7caaf567ea",
+    "locator": "press release of December 19, 2025",
+    "quote": "The agreed-upon chapter amendments to the RAISE Act (S6953B/A6453B)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Actions",
+    "quote": "01/28/2026 PASSED SENATE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Actions",
+    "quote": "03/11/2026 passed assembly",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 2",
+    "quote": "in legislative bills numbers S. 6953-B and A. 6453-B, is REPEALED and a",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text, § 1420(9)",
+    "quote": "frontier model and has spent over one hundred million dollars in compute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text, § 1421(2)",
+    "quote": "2. A large developer shall not deploy a frontier model if doing so",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text, § 1422(1)(a)",
+    "quote": "article, a civil penalty in an amount not exceeding ten million dollars",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-68f680ca5f/2026-10-17/official.html",
+    "sha256": "3b7791ffb4af207525ce5eb1ec46ed935c27b8ced61d1674640c69fd65a06274",
+    "locator": "A06453 Text, § 3",
+    "quote": "§ 3. This act shall take effect on the ninetieth day after it shall",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1422(2)(a)",
+    "quote": "use of its frontier models every three months or pursuant to another",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1428(4)",
+    "quote": "4. Large frontier developers shall be assessed in pro rata shares by",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1422(7)(a)",
+    "quote": "(a) Beginning January first, two thousand twenty-eight, and annual-",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1426",
+    "quote": "1. accredited colleges and universities in New York state, to the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1426",
+    "quote": "2. the Empire AI consortium or the institute, as such terms are",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-4290f9d2eb/2026-10-17/official.html",
+    "sha256": "3305502787ccc11469a8c7458c846367f47fc1a8a8ecefd758c84c945029538b",
+    "locator": "A09449 Text, § 1427(2)",
+    "quote": "or create a private right of action associated with violations of this",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-NY-01/extra-ab5a6d1665/2026-10-17/official.html",
+    "sha256": "3cb5d5a25f4bfd2168b5baea188b9e7c42019d46c6d84d768e898e7caaf567ea",
+    "locator": "press release of December 19, 2025, statement of the Governor",
+    "quote": "This law builds on California’s recently adopted framework",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored text of the chapter amendment: the evaluative opening ('modelled on, but stricter than, California SB 53') removed; the transparency report applies to all frontier developers and the frontier AI framework only to large frontier developers; the 24-hour notice goes to an appropriate authority",
+   "notes": "rewritten from the Assembly pages: passage and delivery dates added, what Chapter 96 changed (the dropped deployment ban added), quarterly internal-use summaries and assessments, exemptions; the sentence on a federal legal challenge, EO 14365 and the FRONTIER Act removed, as it is not about the instrument and no stored file supports it; the Governor's own comparison with California kept as his statement",
+   "verification.note": "rewritten: the record now rests on the Assembly pages and the Governor's release"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Chapter 96 of 2026 ('03/27/2026 SIGNED CHAP.96') amended section 3 of Chapter 699 to read 'This act shall take effect ... January 1, 2027', and section 5 makes the new Article 44-B take effect on that date. 1 Jan 2027 is after 18 Oct 2026, so 'Adopted, not yet in force' stands.",
+  "scope_reasoning": "An AI-specific state law on frontier AI developers' safety frameworks, incident reporting and oversight; in scope with no note (unchanged).",
+  "date_reasoning": "date_published 19 Dec 2025, the signature as Chapter 699 (A6453 page; the Governor's release of that date). date_last_updated 27 Mar 2026, the signature of the chapter amendment as Chapter 96. date_in_force 1 Jan 2027 from the amended section 3."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The text of the chapter amendment comes from the Assembly print A9449; the Senate print S8828, which was signed as Chapter 96, was not stored (nysenate.gov refuses the archiver). The Assembly page lists them as the same bill; a stored copy of S8828 or of the chaptered law would confirm the wording."
+ ]
+}

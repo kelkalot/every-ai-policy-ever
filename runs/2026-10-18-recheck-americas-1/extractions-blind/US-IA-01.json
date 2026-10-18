@@ -1,0 +1,121 @@
+{
+ "decision": "update",
+ "target_id": "US-IA-01",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-IA-01/extra-468b7b07b6/2026-10-17/official.pdf",
+    "sha256": "fe27b3419fc7fad4b6ddd378bbf727387f8842eabfe7e02ed83bdb430bb34124",
+    "locator": "page 1",
+    "quote": "AN ACT establishing requirements and guidelines for conversational AI services, and providing civil penalties, and including applicability provisions.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-IA-01/2026-10-17/secondary.html",
+    "sha256": "e129ede4e2dd19d02a02c5ff5ee0ebe78be7941cad089201f4bde3ab39d9f3d8",
+    "locator": "page text",
+    "quote": "By COMMITTEE ON TECHNOLOGY",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IA-01/2026-10-17/secondary.html",
+    "sha256": "e129ede4e2dd19d02a02c5ff5ee0ebe78be7941cad089201f4bde3ab39d9f3d8",
+    "locator": "page text",
+    "quote": "May 02, 2026 Signed by Governor. S.J. 1013.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-IA-01/extra-468b7b07b6/2026-10-17/official.pdf",
+    "sha256": "fe27b3419fc7fad4b6ddd378bbf727387f8842eabfe7e02ed83bdb430bb34124",
+    "locator": "page 1",
+    "quote": "CHAPTER 1068",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IA-01/2026-10-17/secondary.html",
+    "sha256": "e129ede4e2dd19d02a02c5ff5ee0ebe78be7941cad089201f4bde3ab39d9f3d8",
+    "locator": "page text",
+    "quote": "Bill History for Senate File 2417 - Status: Signed by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-IA-01/extra-468b7b07b6/2026-10-17/official.pdf",
+    "sha256": "fe27b3419fc7fad4b6ddd378bbf727387f8842eabfe7e02ed83bdb430bb34124",
+    "locator": "page 2",
+    "quote": "Approved May 2, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IA-01/2026-10-17/secondary.html",
+    "sha256": "e129ede4e2dd19d02a02c5ff5ee0ebe78be7941cad089201f4bde3ab39d9f3d8",
+    "locator": "page text",
+    "quote": "May 02, 2026 Signed by Governor. S.J. 1013.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-IA-01/extra-468b7b07b6/2026-10-17/official.pdf",
+    "sha256": "fe27b3419fc7fad4b6ddd378bbf727387f8842eabfe7e02ed83bdb430bb34124",
+    "locator": "page 2",
+    "quote": "Sec. 7. APPLICABILITY. This Act applies July 1, 2027.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-IA-01/extra-468b7b07b6/2026-10-17/official.pdf",
+    "sha256": "fe27b3419fc7fad4b6ddd378bbf727387f8842eabfe7e02ed83bdb430bb34124",
+    "locator": "page 2",
+    "quote": "Sec. 7. APPLICABILITY. This Act applies July 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-IA-01/2026-10-17/secondary.html",
+    "sha256": "e129ede4e2dd19d02a02c5ff5ee0ebe78be7941cad089201f4bde3ab39d9f3d8",
+    "locator": "page text",
+    "quote": "Effective date: 07/01/2026. Applicability date: 07/01/2027.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-IA-01/extra-468b7b07b6/2026-10-17/official.pdf",
+    "sha256": "fe27b3419fc7fad4b6ddd378bbf727387f8842eabfe7e02ed83bdb430bb34124",
+    "locator": "page 2",
+    "quote": "An operator that violates this chapter shall be subject to an injunction and liable for the greater of the following",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force",
+   "summary",
+   "safety_topics",
+   "notes"
+  ],
+  "status_reasoning": "Signed 2 May 2026 (bill history and Acts chapter 1068). The Act's requirements apply from 1 July 2027 (Section 7), which is after today's date of 18 Oct 2026, so the status stays Adopted, not yet in force; the bill history lists a 1 Jul 2026 effective date for the Act itself, which the notes already record.",
+  "scope_reasoning": "AI-specific state law on conversational AI services; clearly in scope."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "US-IA-01"
+}

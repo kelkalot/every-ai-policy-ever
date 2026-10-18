@@ -1,0 +1,343 @@
+{
+ "cand_id": "US-VA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-VA-01",
+ "record": {
+  "official_identifier": "HB 2094 (2025 Regular Session); would have added Chapter 58 (§§ 59.1-607 to 59.1-612) to Title 59.1 of the Code of Virginia",
+  "summary": "Passed bill to regulate high-risk AI systems intended to make, or be a substantial factor in making, consequential decisions on parole, education, employment, lending, health care, housing, insurance, marital status or legal services. Developers and deployers would have owed a duty of care against algorithmic discrimination; developers would have had to document uses, limitations, evaluation and mitigations and make synthetic content detectable, and deployers to run risk-management programmes, complete impact assessments and inform consumers. The Attorney General would have enforced it, with civil penalties of up to USD 10,000 per wilful violation, from 1 July 2026. Vetoed on 24 March 2025.",
+  "notes": "Passed the House 51-47 on 3 Feb 2025; the Senate passed it with a substitute 21-19 on 19 Feb 2025, and the House agreed to the substitute 52-46 the same day. The enrolled bill was communicated to the Governor on 11 Mar 2025; he vetoed it on 24 Mar 2025, and the House sustained the veto on 1 Apr 2025. The bill generally mirrored Colorado's 2024 AI Act. Systems conforming to the NIST AI Risk Management Framework, ISO/IEC 42001 or another recognised AI risk management framework would have been presumed to conform; the Attorney General would have had exclusive enforcement power, and a developer or deployer that found a violation through red-teaming or otherwise and cured it within 45 days would have had an affirmative defence. Penalties were up to USD 1,000 per violation, and USD 1,000 to 10,000 per wilful violation. date_published is the veto date.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the LIS bill page for HB 2094 (2025 Regular Session), stored from lis.virginia.gov with the archiver's browser mode on 11 Oct 2026 and printed to PDF again on 17 Oct 2026 with the same text, and read the enrolled text (HB2094ER), stored from LIS with the browser mode on 17 Oct 2026. The bill page confirms the caption, the chief patron, the summary as passed, the votes, the veto on 24 Mar 2025 and the House sustaining it on 1 Apr 2025; the enrolled text confirms the short title, the Code chapter and sections, the duties and the penalties and the effective date of 1 Jul 2026. The Governor's name and the comparison with Colorado rest on a Skadden client note of 25 Mar 2025 (secondary). The Governor's veto explanation was not stored, so the reasons for the veto are not recorded."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "enrolled text, Chapter 58 heading",
+    "quote": "HIGH-RISK ARTIFICIAL INTELLIGENCE DEVELOPER AND DEPLOYER ACT.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "bill heading",
+    "quote": "High-risk artificial intelligence; definitions, development, deployment, and use, civil penalties.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/secondary.html",
+    "sha256": "c776951ecdee78b2b6372472644584e15c9c4e89ef4482b65d6b2a2e9a13d85e",
+    "locator": "first paragraph",
+    "quote": "On March 24, 2025, Virginia Gov. Glenn Youngkin vetoed the High-Risk Artificial Intelligence Developer and Deployer Act (House Bill 2094).",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "Patrons",
+    "quote": "Introduced by: Michelle Lopes Maldonado (Chief Patron)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "session",
+    "quote": "2025 Regular Session",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "enrolled text",
+    "quote": "Be it enacted by the General Assembly of Virginia:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 3/24/2025",
+    "quote": "3/24/2025 Governor Vetoed by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/secondary.html",
+    "sha256": "c776951ecdee78b2b6372472644584e15c9c4e89ef4482b65d6b2a2e9a13d85e",
+    "locator": "first paragraph",
+    "quote": "On March 24, 2025, Virginia Gov. Glenn Youngkin vetoed the High-Risk Artificial Intelligence Developer and Deployer Act (House Bill 2094).",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "enrolled text, title",
+    "quote": "An Act to amend the Code of Virginia by adding in Title 59.1 a chapter numbered 58, consisting of sections numbered 59.1-607 through 59.1-612",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "bill heading",
+    "quote": "HB2094 High-risk artificial intelligence; definitions, development, deployment, and use, civil penalties.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 3/24/2025",
+    "quote": "3/24/2025 Governor Vetoed by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-17/official-print.pdf",
+    "sha256": "30ea55125e45b348b78ae25879329a405cfbf200c84621a04698e2d901c86865",
+    "locator": "page 3, History",
+    "quote": "3/24/2025 Governor Vetoed by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "Status",
+    "quote": "Status Governor's Veto",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 4/1/2025",
+    "quote": "4/1/2025 House House sustained Governor's veto",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "Status",
+    "quote": "Status Governor's Veto",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 3/24/2025",
+    "quote": "3/24/2025 Governor Vetoed by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-607, 'High-risk artificial intelligence system'",
+    "quote": "\"High-risk artificial intelligence system\" means any artificial intelligence system that is specifically intended to autonomously make, or be a substantial factor in making, a consequential decision.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-607, 'Consequential decision'",
+    "quote": "(i) parole, probation, a pardon, or any other release from incarceration or court supervision; (ii) education enrollment or an education opportunity; (iii) access to employment; (iv) a financial or lending service; (v) access to health care services; (vi) housing; (vii) insurance;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-607, 'Consequential decision'",
+    "quote": "(viii) marital status; or (ix) a legal service.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-608 A",
+    "quote": "Each developer of a high-risk artificial intelligence system shall use a reasonable duty of care to protect consumers from any known or reasonably foreseeable risks of algorithmic discrimination",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-609 A",
+    "quote": "Each deployer of a high-risk artificial intelligence system shall use a reasonable duty of care to protect consumers from any known or reasonably foreseeable risks of algorithmic discrimination.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-608 B",
+    "quote": "A statement disclosing the intended uses of such high-risk artificial intelligence system;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-608 B 2 a",
+    "quote": "The known or reasonably known limitations of such high-risk artificial intelligence system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-608 B 3",
+    "quote": "a description of how the high-risk artificial intelligence system was evaluated for performance and for mitigation of algorithmic discrimination",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-608 H 1",
+    "quote": "shall ensure that the outputs of such high-risk artificial intelligence system (i) are identifiable and detectable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-609 B",
+    "quote": "unless the deployer has designed and implemented a risk management policy and program for such high-risk artificial intelligence system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-609 C",
+    "quote": "unless the deployer has completed an impact assessment for such high-risk artificial intelligence system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-609 D",
+    "quote": "the deployer shall disclose to the consumer that the deployer is interacting with an artificial intelligence system",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-611 A",
+    "quote": "The Attorney General shall have exclusive authority to enforce the provisions of this chapter.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-611 D",
+    "quote": "Any person who willfully violates the provisions of this chapter shall be subject to a civil penalty in an amount not less than $1,000 and not more than $10,000",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "enactment clause 2",
+    "quote": "That the provisions of this act shall become effective on July 1, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 3/24/2025",
+    "quote": "3/24/2025 Governor Vetoed by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 2/3/2025",
+    "quote": "2/3/2025 House Read third time and passed House (51-Y 47-N)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 2/19/2025",
+    "quote": "2/19/2025 Senate Passed Senate with substitute (21-Y 19-N)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 2/19/2025",
+    "quote": "2/19/2025 House Senate substitute agreed to by House (52-Y 46-N)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 3/10/2025",
+    "quote": "Enrolled Bill communicated to Governor on March 11, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/official-rendered.html",
+    "sha256": "e234e96bd7087e53cb301baf35a85d389f37019b7c2088fb6f6e9f0e76820f1f",
+    "locator": "History, 4/1/2025",
+    "quote": "4/1/2025 House House sustained Governor's veto",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-VA-01/2026-10-11/secondary.html",
+    "sha256": "c776951ecdee78b2b6372472644584e15c9c4e89ef4482b65d6b2a2e9a13d85e",
+    "locator": "third paragraph",
+    "quote": "The Virginia bill generally mirrored a Colorado law that was enacted in 2024.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-608 F",
+    "quote": "High-risk artificial intelligence systems that are in conformity with the latest version of the Artificial Intelligence Risk Management Framework published by the National Institute of Standards and Technology, Standard ISO/IEC 42001",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-611 G",
+    "quote": "it shall be an affirmative defense that the developer or deployer (i) discovers a violation of any provision of this chapter through red-teaming or other method; (ii) no later than 45 days after discovering such violation (a) cures such violation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-VA-01/extra-656a84917b/2026-10-17/official-rendered.html",
+    "sha256": "93b6456374e643eac230c2523e67f490cf2308ac7f61577c7a2c92b75717c691",
+    "locator": "§ 59.1-611 D",
+    "quote": "Any person who violates the provisions of this chapter shall be subject to a civil penalty in an amount not to exceed $1,000",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "the enrolled text names the Code chapter: Chapter 58 of Title 59.1, sections 59.1-607 to 59.1-612",
+   "summary": "rewritten from the enrolled text: the full list of consequential decisions (education restored), the duty of care, the developers' documentation and synthetic-content duties, the deployers' consumer notice, and the penalty range; the comparison with Colorado moved to the notes",
+   "notes": "rewritten: votes, communication to the Governor, veto and sustained veto from the bill page; the conformity presumption, the cure defence and the penalties from the enrolled text; the veto's reasons and the 'second US state' remark removed, as no stored file supports them",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The LIS page gives the status 'Governor's Veto', with 'Vetoed by Governor' on 3/24/2025 and 'House sustained Governor's veto' on 4/1/2025. A vetoed bill stays 'Proposed' with status 'Lapsed' (AGENTS.md section 5.6); nothing in the stored files shows a later re-enactment. 'Lapsed' stands.",
+  "scope_reasoning": "A passed but vetoed AI-specific state bill on high-risk AI systems; vetoed bills are kept in scope (AGENTS.md section 10), no note (unchanged).",
+  "date_reasoning": "date_published is the veto date, 24 Mar 2025, following the register's convention for vetoed bills (as in US-CA-03 and US-CA-14); date_in_force stays null because the bill never took effect (it would have applied from 1 Jul 2026)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "Version 1's notes gave the veto's reasons (a rigid framework unsuited to a fast-moving industry, burdens on start-ups, existing consumer-protection law); they are left out because the Governor's veto explanation, listed on the LIS bill page, was not stored."
+ ]
+}

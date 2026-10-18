@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-KY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The Commonwealth Office of Technology's committee develops standards adhering to ISO/IEC 42001",
+   "verdict": "supported",
+   "locator": "page 4, Section 3(1)(a)"
+  },
+  {
+   "claim": "Agencies must offer options to appeal a consequential decision",
+   "verdict": "supported",
+   "locator": "page 6, Section 3(6)(b)3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the Acts chapter 66 PDF ('Signed by Governor March 24, 2025', emergency clause) and the bill record. In force is right. The search found no later amendment of KRS 42.722 or 42.726; the 2026 SB 4 is an unrelated education bill. The lead on HB 455 (2026) is unverified and not in the register."
+}

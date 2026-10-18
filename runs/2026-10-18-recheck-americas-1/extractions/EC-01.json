@@ -1,0 +1,390 @@
+{
+ "cand_id": "EC-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "EC-01",
+ "record": {
+  "summary": "Bill for an organic law to regulate and promote AI in Ecuador, filed by assembly member Patricia Núñez in June 2024. It sorted AI systems into four risk levels and banned extreme-risk practices such as mass social scoring, imperceptible manipulation, lethal autonomous weapons and indiscriminate surveillance. High-risk systems were to be registered and to ensure explainability, meaningful human oversight, unbiased data, cybersecurity and audit trails, with prior human rights impact assessments; people gained rights against solely automated decisions, and AI-generated works had to be labelled. The Plenary archived it on 15 Sep 2026.",
+  "notes": "Filed on 20 Jun 2024 with 83 articles and qualified by the Legislative Administration Council on 26 Jul 2024 (CAL-HKK-2023-2025-0376). On 31 Aug 2026 the Committee on Education, Culture, Science, Technology, Innovation and Ancestral Knowledge approved, with seven votes, a first-debate report recommending archiving. It cited the lack of adaptive governance tools (national guidelines, technical standards, sectoral rules, codes of conduct, transparency standards and impact assessments for high-risk systems), new spending for the powers given to the telecommunications ministry (MINTEL) and the personal data protection superintendency (SPDP), contrary to Article 135 of the Constitution, a sanctions regime that left the ranges and limits of penalties to the regulation, the risk of early over-regulation, and overlap with the Organic Law on Personal Data Protection and the Organic Law for Digital and Audiovisual Transformation; it pointed to ISO/IEC 42001:2023 and the Council of Europe Framework Convention on AI as international references. The Plenary approved the archiving in first debate with 88 votes on 15 Sep 2026. The committee chair, Cecilia Baltazar, said the archiving does not set AI regulation aside but means first building the institutional, technical and legal conditions for an updated framework, and the report calls for first strengthening the national strategy for the ethical and responsible development and use of AI.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: stored in this run from asambleanacional.gob.ec (17 Oct 2026) the Assembly's page for the bill (As. Patricia Núñez / 450889), which gives the filing date 2024-06-20 and the Legislative Administration Council's qualification of 2024-07-26; the bill as filed (84-page scan with the filing memorandum and receipt as trámite 450889, read by OCR, which covers the first 60 pages, up to Article 52 of the 83); and the Assembly's news release of 20 Jun 2024 on its presentation. The summary rests on the filed text; the stored files do not show whether the committee worked on an amended text. Re-read the Assembly's press releases of 15 Sep 2026 (Plenary archives the bill, 88 votes) and 31 Aug 2026 (committee report, seven votes), stored again on 17 Oct 2026 with only layout changes; they support the notes on the archiving. The linked PDF stored on 12 Oct 2026 (document-1) is the Assembly's code of ethics for its media, unrelated to the bill. No English version was found."
+  },
+  "issuing_body": "National Assembly of Ecuador (bill filed by assembly member Patricia Núñez; reported on by the Permanent Specialised Committee on Education, Culture, Science, Technology, Innovation and Ancestral Knowledge, chair Cecilia Baltazar)",
+  "date_published": "2024-06-20",
+  "official_identifier": "Trámite No. 450889",
+  "safety_topics": [
+   "risk-based classification",
+   "prohibited practices",
+   "human oversight",
+   "transparency & labelling",
+   "evaluation & testing",
+   "accountability & liability"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-eb9e4cf8f5/2026-10-17/official.html",
+    "sha256": "039571d4a7c57349ea1d78b6e2d0310f4d9fc3f6e3fc96a3970d0e173bbeb50d",
+    "locator": "page heading",
+    "quote": "Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador (As. Patricia Núñez / 450889)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "el archivo del Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en Ecuador",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "el informe para primer debate del Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 1, memorandum",
+    "quote": "ASUNTO: PRESENTACIÓN DEL PROYECTO DE LEY ORGÁNICA DE REGULACIÓN Y PROMOCIÓN DE LA INTELIGENCIA ARTIFICIAL EN ECUADOR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 1, memorandum",
+    "quote": "En mi calidad de Asambleísta por la Provincia de Chimborazo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-eb9e4cf8f5/2026-10-17/official.html",
+    "sha256": "039571d4a7c57349ea1d78b6e2d0310f4d9fc3f6e3fc96a3970d0e173bbeb50d",
+    "locator": "page heading",
+    "quote": "(As. Patricia Núñez / 450889)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "con base en el informe elaborado por la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología, Innovación y Saberes Ancestrales",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "La moción fue presentada por la presidenta de la Comisión, Cecilia Baltazar",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "Martes, 15 de septiembre del 2026 - 13:08",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "El Pleno de la Asamblea Nacional aprobó, en primer debate y con 88 votos, el archivo del Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en Ecuador",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "Martes, 15 de septiembre del 2026 - 13:08",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "El documento recomienda al Pleno de la Asamblea Nacional el archivo de la iniciativa",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-c66a0bcd9b/2026-10-17/official.html",
+    "sha256": "7ad08d56b707e559aa744296aea6fddd25d77daefb0f1cb1e3f20ad1b4db2638",
+    "locator": "news release",
+    "quote": "La legisladora por la provincia de Chimborazo, Patricia Núñez presentó una nueva iniciativa legal",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 23, Article 7",
+    "quote": "Los sistemas de IA se clasificarán en cuatro niveles de riesgo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 26, Article 9(a)",
+    "quote": "Sistemas de calificación social masiva que categoricen y determinen castigos",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 26, Article 9(c)",
+    "quote": "Armas autónomas letales o sistemas automatizados de uso de la fuerza contra seres humanos",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 26, Article 9(d)",
+    "quote": "Tecnologías de vigilancia indiscriminada o predictiva que intercedan masivamente comunicaciones privadas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 32, Article 14",
+    "quote": "deberán inscribirlos en el Registro Nacional de Sistemas de IA de Alto Riesgo, antes de su puesta en operación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 33, Article 15(b)",
+    "quote": "Asegurar la intervención y supervisión humana significativa en las decisiones que puedan afectar sustancialmente los derechos",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 33, Article 15(e)",
+    "quote": "Implementar mecanismos de trazabilidad y registro inalterable de las operaciones realizadas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 36, Article 18",
+    "quote": "deberán realizar una evaluación de impacto en los derechos humanos (EIDH) de manera previa a su desarrollo, despliegue o uso sustancial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 45, Article 25",
+    "quote": "Toda persona tiene derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado de sus datos personales",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 51, Article 36",
+    "quote": "Obligación de etiquetado de productos generados por IA",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-eb9e4cf8f5/2026-10-17/official.html",
+    "sha256": "039571d4a7c57349ea1d78b6e2d0310f4d9fc3f6e3fc96a3970d0e173bbeb50d",
+    "locator": "bill page",
+    "quote": "Calificación del CAL: 2024-07-26: CAL-HKK-2023-2025-0376",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-c66a0bcd9b/2026-10-17/official.html",
+    "sha256": "7ad08d56b707e559aa744296aea6fddd25d77daefb0f1cb1e3f20ad1b4db2638",
+    "locator": "news release",
+    "quote": "El proyecto, en sus 83 artículos, busca desarrollar un marco normativo integral",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "aprobó, con siete votos, el informe para primer debate",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "parte de los aspectos abordados ya cuenta con regulación en normas como la Ley Orgánica de Protección de Datos Personales y la Ley Orgánica para la Transformación Digital y Audiovisual",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "El informe señala que esto sería contrario a lo establecido en el artículo 135 de la Constitución.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "ni establece directamente en la ley los rangos y límites de las sanciones, sino que remite estos aspectos al reglamento",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "la norma ISO/IEC 42001:2023 y el Convenio Marco sobre Inteligencia Artificial, Derechos Humanos, Democracia y Estado de Derecho",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "Baltazar aseguró que el archivo no supone dejar de lado la inteligencia artificial, sino reconocer la necesidad de construir previamente condiciones institucionales, técnicas y jurídicas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "considera necesario fortalecer previamente la estrategia nacional para el desarrollo y uso ético y responsable de la inteligencia artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "quote": "las nuevas atribuciones previstas para el Ministerio de Telecomunicaciones y de la Sociedad de la Información (MINTEL) y la Superintendencia de Protección de Datos Personales (SPDP)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "Lunes, 31 de agosto del 2026 - 15:26",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "la falta de mecanismos de gobernanza adaptativos, como lineamientos nacionales, normas técnicas, reglamentos sectoriales, códigos de conducta, estándares de transparencia y evaluaciones de impacto para sistemas de alto riesgo",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/secondary.html",
+    "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+    "locator": "Educación aprueba informe para primer debate que recomienda archivar proyecto sobre inteligencia artificial",
+    "quote": "Otro de los aspectos analizados es el riesgo de una sobrerregulación temprana de la inteligencia artificial",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 1, receipt stamp",
+    "quote": "No. de trámite: 450889 Fecha recepción: 2024-06-20 11:21",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-eb9e4cf8f5/2026-10-17/official.html",
+    "sha256": "039571d4a7c57349ea1d78b6e2d0310f4d9fc3f6e3fc96a3970d0e173bbeb50d",
+    "locator": "page heading",
+    "quote": "(As. Patricia Núñez / 450889)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-eb9e4cf8f5/2026-10-17/official.html",
+    "sha256": "039571d4a7c57349ea1d78b6e2d0310f4d9fc3f6e3fc96a3970d0e173bbeb50d",
+    "locator": "bill page",
+    "quote": "Fecha de presentación: 2024-06-20",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-0f28f1fee0/2026-10-17/official.pdf",
+    "sha256": "73084fb20fa1b27fad9cb01e53f5649721955e6fcdb16842acc7869467aade68",
+    "locator": "page 1, receipt stamp",
+    "quote": "No. de trámite: 450889 Fecha recepción: 2024-06-20 11:21",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/EC-01/extra-c66a0bcd9b/2026-10-17/official.html",
+    "sha256": "7ad08d56b707e559aa744296aea6fddd25d77daefb0f1cb1e3f20ad1b4db2638",
+    "locator": "news release",
+    "quote": "Jueves, 20 de junio del 2024",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "now names the proponent, assembly member Patricia Núñez, from the filing memorandum and the Assembly's bill page, alongside the committee that reported on it",
+   "date_published": "set to 20 Jun 2024, the filing date on the Assembly's bill page and receipt stamp; version 1 had only the year '2024', from press coverage",
+   "official_identifier": "set to the Assembly's procedure number, trámite 450889, from the receipt stamp and the bill page (was null)",
+   "summary": "rewritten from the bill as filed (risk levels, prohibitions, high-risk duties, impact assessments, rights, labelling); the archiving reasons moved to the notes; version 1's content description rested on press coverage",
+   "safety_topics": "prohibited practices and evaluation & testing added for Article 9's bans and the high-risk evaluations and human rights impact assessments (Articles 15 and 18)",
+   "notes": "rewritten: filing and qualification dates, the article count, the committee's reasons and votes and the Plenary vote; the remark on the unconfirmed filing date moved out",
+   "english_version": "recorded as none found (the field was missing)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Assembly's release of 15 Sep 2026 says the Plenary approved, in first debate and with 88 votes, the archiving of the bill on the committee's report. An archived bill ends its passage, so the record keeps legal force 'Proposed' with status 'Revoked / withdrawn'; the stored files show no later revival of this bill.",
+  "scope_reasoning": "An AI-specific framework bill that was archived; AGENTS.md section 10 keeps revoked or withdrawn bills for context, with no note (unchanged).",
+  "date_reasoning": "date_published is the filing date, 20 Jun 2024 ('Fecha de presentación: 2024-06-20'; receipt 'Fecha recepción: 2024-06-20 11:21'). date_last_updated stays 15 Sep 2026, the Plenary's archiving that ended the bill."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+   "reason": "The Assembly's page for 'Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador (As. Patricia Núñez / 450889)', with the filing date, the Legislative Administration Council's qualification and links to the bill and its documents; needed for date_published, official_identifier, the proponent and the bill's content."
+  },
+  {
+   "url": "https://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-19130/2192.%20Proyecto%20de%20Ley%20Org%C3%A1nica%20de%20Regulaci%C3%B3n%20y%20Promoci%C3%B3n%20de%20la%20Inteligencia%20Artificial%20en%20Ecuador%20-pnu%C3%B1ez/pp%20-%20proyecto%20de%20ley%20450889-nu%C3%B1ez.pdf",
+   "reason": "The bill's text as linked from the Assembly's page above (path reconstructed from the page; if it fails, the archiver may still pick the PDF up from that page); needed to write the summary and safety topics from the bill itself."
+  },
+  {
+   "url": "https://www.asambleanacional.gob.ec/es/noticia/97256-promover-y-regular-el-uso-de-la-inteligencia-artificial",
+   "reason": "The Assembly's news release on the presentation of the bill by assembly member Patricia Núñez; supports the filing date and the bill's purpose."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Ecuador: further AI bills before the National Assembly, including a proposal to regulate the ethical development and use of AI heard by the Education Committee in 2026 (presented by Cecilia Baltazar on 1 Sep 2026 according to press) and the 2024 'Proyecto de Ley para el Fomento y Desarrollo de la Inteligencia Artificial' (As. Karina Subía / 453516)",
+   "seen_in": "https://www.asambleanacional.gob.ec/es/noticia/119810-comision-de-educacion-conoce-propuesta-para-regular-el",
+   "why": "Pending or newer AI framework bills in Ecuador not in the register; the Subía bill page is https://www.asambleanacional.gob.ec/es/multimedios-legislativos/98762-proyecto-de-ley-para-el-fomento-y."
+  }
+ ],
+ "open_questions": [
+  "The stored text layer of the bill covers only its first 60 of 84 pages (up to Article 52); the later articles, including any sanctions and final provisions, were not read."
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "cand_id": "CL-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CL-01",
+ "record": {
+  "notes": "Approved by Decree No. 12 of 11 Apr 2024 and published in the Diario Oficial (No. 44,060) on 28 Jan 2025; Article II of the decree repeals Supreme Decree No. 20 of 2021, which approved the first policy. The update keeps the policy's ten-year horizon, so it applies until 2031, and centres on its third axis, governance and ethics, adding sub-axes on international articulation, environment and climate crisis, inclusion and non-discrimination, children and adolescents, and culture and heritage. The Ministry presented it on 2 May 2024 with an action plan of 177 measures, 100 of them due by 2026, whose progress 14 ministries follow every six months.",
+  "scope_note": "A national AI policy with three axes (enabling factors, development and adoption, and governance and ethics); included as Chile's national AI policy, whose 2024 update centres on the governance and ethics axis.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: the official source, the Diario Oficial PDF of 28 Jan 2025, cannot be stored (its site's robots.txt does not allow automated downloads). Stored instead: the full text of Decree No. 12 with the updated policy from the National Congress Library's LeyChile service (XML, leychile.cl, stored 17 Oct 2026), the Ministry of Science's news release of 2 May 2024 on the policy's presentation (minciencia.gob.cl, stored 17 Oct 2026) and the Ministry's policy page (stored 16 Oct 2026). The LeyChile text confirms the title, the decree number and date (11 Apr 2024), the Diario Oficial number 44,060, the repeal of DS 20/2021, the horizon to 2031 and every element of the summary; the publication date 28 Jan 2025 appears in the XML's metadata (fechaPublicacion=\"2025-01-28\"), not in its text layer. leychile.cl is not listed in pipeline/official-sites.json, so the decree's date counts as secondary evidence until a person records the host; the Ministry's release confirms the update, its governance and ethics focus and the action plan. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news heading",
+    "quote": "Con más de 100 acciones comprometidas para 2026, ministra de Ciencia presenta nueva Política de Inteligencia Artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news body",
+    "quote": "son algunos de los temas que incluye esta actualización de la Política de IA, cuya primera versión se publicó en 2021",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "Decree No. 12, article I",
+    "quote": "POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL Actualización 2024",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "Decree No. 12, article I",
+    "quote": "POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL Actualización 2024",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/CL-01/2026-10-16/secondary.html",
+    "sha256": "0e39f98addb2294115a612f9d111ef2134608f9e87baadc5ab62b5a20ff34763",
+    "locator": "Inteligencia Artificial menu",
+    "quote": "Política Nacional de Inteligencia Artificial (actual)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "decree heading",
+    "quote": "MINISTERIO DE CIENCIA, TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN APRUEBA ACTUALIZACIÓN DE LA “POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL”",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news body",
+    "quote": "la ministra de Ciencia, Tecnología, Conocimiento e Innovación, Aisén Etcheverry, presentó hoy el documento",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "decree heading",
+    "quote": "Núm. 12.- Santiago, 11 de abril de 2024.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "closing formula",
+    "quote": "Lo que transcribo a Ud. para su conocimiento, decreto N° 12 de 11 de abril de 2024.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "decree heading",
+    "quote": "Núm. 12.- Santiago, 11 de abril de 2024.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "closing formula",
+    "quote": "GABRIEL BORIC FONT, Presidente de la República.- Aisén Etcheverry E., Ministra de Ciencia, Tecnología, Conocimiento e Innovación.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "I. Introducción, Vigencia",
+    "quote": "conserva y reafirma el horizonte temporal de 10 años originalmente establecido por su primera versión",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "I. Introducción, Vigencia",
+    "quote": "extendiendo su aplicabilidad hasta el año 2031",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/CL-01/2026-10-16/secondary.html",
+    "sha256": "0e39f98addb2294115a612f9d111ef2134608f9e87baadc5ab62b5a20ff34763",
+    "locator": "Inteligencia Artificial menu",
+    "quote": "Política Nacional de Inteligencia Artificial (actual)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news body",
+    "quote": "presentó hoy el documento que guiará a nuestro país en el desarrollo y la adopción de Inteligencia Artificial por los próximos cuatro años",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "Decree No. 12, article I",
+    "quote": "I. Apruébase la actualización de la \"Política Nacional de Inteligencia Artificial\", cuyo texto será el siguiente:",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "III. Principios, Principio 1(a)",
+    "quote": "que funcione de manera que pueda ser controlada y vigilada adecuadamente por seres humanos",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "III. Principios, Principio 1(b)",
+    "quote": "Solidez y seguridad: Los sistemas de IA se desarrollarán y se utilizarán de manera que se minimicen los daños previstos e imprevistos",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "IV. Eje 3, 3.1 Regulación e institucionalidad",
+    "quote": "Impulsar la construcción de un marco regulatorio integral sobre los sistemas de IA que permitan su investigación, desarrollo y uso responsable, respetando los derechos fundamentales.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "IV. Eje 3, 3.1 Regulación e institucionalidad",
+    "quote": "Implementar requisitos éticos y de transparencia en el sistema de compras públicas.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "IV. Eje 3, 3.10 Ecosistema Digital Seguro",
+    "quote": "Estudiar impacto y realizar medidas para prevenir y combatir la desinformación, la violencia digital y sus efectos en la salud mental.",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "decree heading",
+    "quote": "Diario Oficial 44060",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "Decree No. 12, article II",
+    "quote": "II. Derógase el decreto supremo N° 20, de 2021, del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news body",
+    "quote": "Especial apoyo tuvo la incorporación de 5 sub ejes nuevos: Articulación Internacional, Medioambiente y Crisis Climática, Inclusión y No Discriminación, Niños, Niñas y Adolescentes, Cultura y Preservación del Patrimonio.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news lead",
+    "quote": "Incluye 177 acciones -cien deben cumplirse durante el gobierno del presidente Boric- y seguimiento semestral de sus avances por parte de 14 ministerios.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news body",
+    "quote": "De las 177 medidas, que pueden revisarse en el Plan de Acción, hay cien que tienen como plazo el 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-f92ac722e6/2026-10-17/official.html",
+    "sha256": "e8494f3c49e17b0184ead7366ee26aee7326ab4b1743b64e63743bf90c7b964f",
+    "locator": "news date",
+    "quote": "02 Mayo 2024",
+    "source_kind": "official"
+   }
+  ],
+  "scope_note": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "IV. Ejes de la Política",
+    "quote": "Eje N° 1 Factores habilitantes. . Eje N° 2 Desarrollo y adopción. . Eje N° 3 Gobernanza y ética.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-01/extra-cca75bad73/2026-10-17/official.xml",
+    "sha256": "44dc9944f9c6aacc41349e9f464cd7b06e1c17b18d75d6599f5bb11ebcd8f4fa",
+    "locator": "I. Introducción",
+    "quote": "con un foco particular en el eje 3 de la política, el cual se enfoca en los aspectos de gobernanza y ética",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the decree text and the Ministry's release: the repeal now cites Article II, and the horizon to 2031, the focus on axis 3, the new sub-axes and the action plan of 177 measures are added; 'an updated action plan was to follow' replaced by the plan presented on 2 May 2024",
+   "scope_note": "added: the policy's axes are enabling factors, development and adoption, and governance and ethics, so safety is not its main content; the case for a scope_note on strategies with a different main focus",
+   "english_version": "recorded as none found (the field was missing)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Decree No. 12 of 11 Apr 2024 approved the update, published in Diario Oficial No. 44,060; the text keeps the ten-year horizon 'extendiendo su aplicabilidad hasta el año 2031'. The Ministry's page still lists it as the current policy ('(actual)'). Nothing stored shows a replacement or repeal, so 'Published (non-binding, current)' stands, with legal force 'Non-binding' as a policy approved by decree.",
+  "scope_reasoning": "A national AI policy whose main content spans enabling factors, development and adoption and governance and ethics, with the 2024 update centred on governance and ethics: in scope, with a scope_note.",
+  "date_reasoning": "date_published is the decree's date, 11 Apr 2024 ('Núm. 12.- Santiago, 11 de abril de 2024'); the Diario Oficial publication (28 Jan 2025, in the XML's metadata) and the presentation (2 May 2024) go in the notes."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1210664",
+   "reason": "The full text of Decree No. 12 of 2024 approving the update of the National AI Policy, from the National Congress Library's LeyChile service (XML), since the Diario Oficial disallows automated downloads; stored on 17 Oct 2026."
+  },
+  {
+   "url": "https://www.minciencia.gob.cl/noticias/con-mas-de-100-acciones-comprometidas-para-2026-ministra-de-ciencia-presenta-nueva-politica-de-inteligencia-artificial/",
+   "reason": "The Ministry's news release of 2 May 2024 on the presentation of the updated policy and its action plan; stored on 17 Oct 2026."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "leychile.cl (LeyChile, run by the Biblioteca del Congreso Nacional de Chile) is not listed in pipeline/official-sites.json, so the decree's number and date count as secondary evidence and the computed level is C; recording the host as official (tools/pipeline.py hosts --add) would make the decree text official evidence.",
+  "The Diario Oficial PDF (the record's official_url) disallows automated downloads; a person could provide it (Provide a document)."
+ ]
+}

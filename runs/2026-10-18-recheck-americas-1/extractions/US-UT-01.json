@@ -1,0 +1,467 @@
+{
+ "cand_id": "US-UT-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-UT-01",
+ "record": {
+  "issuing_body": "Utah State Legislature (2024 General Session; chief sponsor Sen. Kirk A. Cullimore, House sponsor Rep. Jefferson Moss); signed by the Governor",
+  "official_identifier": "Utah S.B. 149 (2024 General Session); Laws of Utah 2024, Chapter 186; Utah Code Title 13, Chapter 72",
+  "date_last_updated": "2026-05-06",
+  "summary": "Created Utah's Artificial Intelligence Policy Act. It provided that using generative AI is no defence to a violation of consumer protection law and required disclosure of generative AI on request in consumer matters and, prominently at the start of an exchange, in regulated occupations, with fines of up to USD 2,500 per violation. It created an Office of Artificial Intelligence Policy and an AI Learning Laboratory to study AI risks and policy, which can grant temporary regulatory mitigation agreements with safeguards, and made offences committed with the aid of generative AI punishable. In 2025 its disclosure rules were replaced by a separate chapter with narrower duties.",
+  "safety_topics": [
+   "transparency & labelling",
+   "accountability & liability",
+   "evaluation & testing"
+  ],
+  "notes": "Passed the Senate 26-0 on 13 Feb 2024 and the House 73-0 on 28 Feb 2024; signed by the Governor on 13 Mar 2024 as Laws of Utah 2024, Chapter 186, and in effect from 1 May 2024. The bill enacted the Act as Title 13, Chapter 70, codified as Chapter 72, together with Utah Code 13-2-12 (generative AI and consumer protection) and 76-2-107 (offences committed with the aid of generative AI). As enacted, the Act's chapter was to be repealed on 1 May 2025; S.B. 332 and S.B. 226 of 2025 moved that date to 1 Jul 2027. S.B. 226 also repealed 13-2-12 from 7 May 2025 and replaced it with Title 13, Chapter 75: disclosure on request now needs a clear and unambiguous request, regulated occupations must disclose proactively only in high-risk AI interactions (such as collecting health, financial or biometric data or giving financial, legal, medical or mental health advice), and an AI that discloses its nature at the outset and throughout gets a safe harbour. H.B. 320 of 2026, in effect from 6 May 2026, revised the Office's duties, added joint interpretation agreements with agencies and other governmental entities, regular audits of participants and up to two 12-month extensions, and repealed the participation section, which had required participants to report incidents of consumer harm at once. H.B. 452 of 2025 separately regulates mental health chatbots.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Legislature's S.B. 149 (2024) bill page and the introduced and amended texts (stored from le.utah.gov on 11 Oct 2026, unchanged on 17 Oct 2026), and read the enrolled S.B. 149, the enrolled 2025 bills S.B. 226, S.B. 332 and H.B. 452, the enrolled 2026 bill H.B. 320 and the Utah Code text of Title 13, Chapter 72, all stored from le.utah.gov on 17 Oct 2026. The bill page confirms the title, the sponsors, the votes and the Governor's signature on 13 Mar 2024 (it does not name the Governor); the enrolled text confirms the provisions and the effective date of 1 May 2024. The amending bills are enrolled copies, which show the text as passed but not the Governor's signature; H.B. 320's status page was stored without its status table. That they were enacted rests on their effective-date clauses and on the Utah Code text, which shows Chapter 72 in force with changes credited to the 2026 General Session."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "bill heading",
+    "quote": "S.B. 149 Artificial Intelligence Amendments",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 1, long title",
+    "quote": "This bill creates the Artificial Intelligence Policy Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 1, chapter heading",
+    "quote": "Chapter 72 Artificial Intelligence Policy Act",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "bill heading",
+    "quote": "2024 General Session",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "bill sponsors",
+    "quote": "Bill Sponsor: Sen. Cullimore, Kirk A.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "bill sponsors",
+    "quote": "Floor Sponsor: Rep. Moss, Jefferson",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Bill Status / Votes, 3/13/2024",
+    "quote": "3/13/2024 Governor Signed Lieutenant Governor's office for filing",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "bill heading",
+    "quote": "S.B. 149 Artificial Intelligence Amendments",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-feec209efe/2026-10-17/official.pdf",
+    "sha256": "d27d659781af84c97cfffb677089c1f91711edd76b47c692be3adb62380e1211",
+    "locator": "page 1, Utah Code Sections Affected",
+    "quote": "13-72-101, as enacted by Laws of Utah 2024, Chapter 186",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 2, Utah Code Sections Affected",
+    "quote": "13-2-12 (Effective 05/07/25), as enacted by Laws of Utah 2024, Chapter 186",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 1, chapter heading",
+    "quote": "Chapter 72 Artificial Intelligence Policy Act",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Bill Status / Votes, 3/13/2024",
+    "quote": "3/13/2024 Governor Signed Lieutenant Governor's office for filing",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Information",
+    "quote": "Last Action: 13 Mar 2024, Governor Signed",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 18, Section 13",
+    "quote": "This bill takes effect on May 1, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-feec209efe/2026-10-17/official.pdf",
+    "sha256": "d27d659781af84c97cfffb677089c1f91711edd76b47c692be3adb62380e1211",
+    "locator": "page 8, Section 8, Effective Date",
+    "quote": "This bill takes effect on May 6, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 2, 13-72-101",
+    "quote": "Amended by Chapter 127, 2026 General Session",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Information",
+    "quote": "Last Action: 13 Mar 2024, Governor Signed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 18, Section 13",
+    "quote": "This bill takes effect on May 1, 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-804ba98612/2026-10-17/official.pdf",
+    "sha256": "40fc7c8eb86e26fe4c8529dec31ee94c740ab9bb221640fb1ee7dab0d7301884",
+    "locator": "page 2, Section 1, 63I-2-213(5)",
+    "quote": "(5) Title 13, Chapter 72, Artificial Intelligence Policy Act, is repealed [May] July 1, [2025]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 2, 13-72-101",
+    "quote": "Amended by Chapter 127, 2026 General Session",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 2, enacting clause",
+    "quote": "Be it enacted by the Legislature of the state of Utah:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Information",
+    "quote": "Last Action: 13 Mar 2024, Governor Signed",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 3, s. 13-2-12(2)",
+    "quote": "It is not a defense to the violation of any statute administered and enforced by the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 3, s. 13-2-12(3)",
+    "quote": "person with whom the generative artificial intelligence interacts, if asked or prompted by",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 3, s. 13-2-12(4)(a)",
+    "quote": "A person who provides the services of a regulated occupation shall prominently",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 3, s. 13-2-12(5)",
+    "quote": "verbally at the start of an oral exchange or conversation; and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 3, s. 13-2-12(7)(a)",
+    "quote": "the division director may impose an administrative fine for up to $2,500 for each",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 14, s. 13-70-201(1)",
+    "quote": "There is created in the department the Office of Artificial Intelligence Policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 15, s. 13-70-301(2)(a)",
+    "quote": "analyze and research the risks, benefits, impacts, and policy implications of artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 16, s. 13-70-302(2)",
+    "quote": "The office may grant, on a temporary basis, regulatory mitigation to a participant by",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 16, s. 13-70-302(4)(b)",
+    "quote": "safeguards to be implemented; and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 18, s. 76-2-107(2)(a)",
+    "quote": "the actor commits the offense with the aid of a generative artificial intelligence; or",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 6, Section 8, Repealer",
+    "quote": "Section 13-2-12, Generative artificial intelligence -- Impact on liability for violation of",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Bill Status / Votes, 2/13/2024",
+    "quote": "Senate/ passed 3rd reading Clerk of the House 26 0 3",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-UT-01/2026-10-11/official.html",
+    "sha256": "02db4dfb7fcc9c536f4aa7e006458da3ed0ba3567a7cc4478db9e3d5c3195514",
+    "locator": "Bill Status / Votes, 2/28/2024",
+    "quote": "House/ passed 3rd reading House Speaker 73 0 2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 13, Section 4",
+    "quote": "CHAPTER 70. ARTIFICIAL INTELLIGENCE POLICY ACT",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 2, Utah Code Sections Affected",
+    "quote": "13-2-12, as Utah Code Annotated 1953",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 2, Utah Code Sections Affected",
+    "quote": "76-2-107, as Utah Code Annotated 1953",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 18, s. 63I-2-213(3)",
+    "quote": "Title 13, Chapter 70, Artificial Intelligence Act, is repealed on May 1, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-804ba98612/2026-10-17/official.pdf",
+    "sha256": "40fc7c8eb86e26fe4c8529dec31ee94c740ab9bb221640fb1ee7dab0d7301884",
+    "locator": "page 1, long title",
+    "quote": "extends the repeal date of the Artificial Intelligence Policy Act to July 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 6, Section 7, 63I-2-213(5)",
+    "quote": "(5) Title 13, Chapter 72, Artificial Intelligence Policy Act, is repealed [May 1, 2025] July 1,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 1, Utah Code Sections Affected",
+    "quote": "13-75-101 (Effective 05/07/25), Utah Code Annotated 1953",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 6, Section 9, Effective Date",
+    "quote": "Except as provided in Subsection (2), this bill takes effect on May 7, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 4, s. 13-75-103(1)(b)",
+    "quote": "The individual's prompt or question under Subsection (1)(a) must be a clear and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 4, s. 13-75-103(2)(a)",
+    "quote": "generative artificial intelligence constitutes a high-risk artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 2, s. 13-75-101(5)(a)",
+    "quote": "the collection of sensitive personal information, including:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-e07772e0f9/2026-10-17/official.pdf",
+    "sha256": "279184eb1ee69adb7c9ada3e29763f9766b0705c87770b6330c13bada07c60e8",
+    "locator": "page 4, s. 13-75-104(1)",
+    "quote": "A person is not subject to an enforcement action for violating Section 13-75-103 if the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-feec209efe/2026-10-17/official.pdf",
+    "sha256": "d27d659781af84c97cfffb677089c1f91711edd76b47c692be3adb62380e1211",
+    "locator": "page 8, Section 8, Effective Date",
+    "quote": "This bill takes effect on May 6, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-feec209efe/2026-10-17/official.pdf",
+    "sha256": "d27d659781af84c97cfffb677089c1f91711edd76b47c692be3adb62380e1211",
+    "locator": "page 1, long title",
+    "quote": "modifies duties of the Office of Artificial Intelligence Policy;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 1, 13-72-101(12)",
+    "quote": "\"Joint interpretation agreement\" means an agreement between a participant, the office, and a",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 4, 13-72-401(6)",
+    "quote": "The office shall perform regular audits of a participant's application of artificial intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-903fb28a54/2026-10-17/official.pdf",
+    "sha256": "e7885623dd782178ef8553c9b28bdcd836408edbc322d769230d023af0eda933",
+    "locator": "page 5, 13-72-403(4)",
+    "quote": "The office may grant up to two extensions for any regulatory mitigation or joint interpretation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-feec209efe/2026-10-17/official.pdf",
+    "sha256": "d27d659781af84c97cfffb677089c1f91711edd76b47c692be3adb62380e1211",
+    "locator": "page 2, Utah Code Sections Affected",
+    "quote": "13-72-304, as enacted by Laws of Utah 2024, Chapter 186",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-04fed74c1e/2026-10-17/official.pdf",
+    "sha256": "bfa2cca6c0a5a1f6e8c7ab123127d7c0263ef8f5f5a582672c8185af6c865835",
+    "locator": "page 17, s. 13-70-304(5)",
+    "quote": "A participant shall immediately report to the office any incidents resulting in consumer",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-UT-01/extra-09dc67f1d0/2026-10-17/official.pdf",
+    "sha256": "4a46dfa2524603d0ae5b90b9941c755206c19b16b269add496f55191749c4e9f",
+    "locator": "page 1, long title",
+    "quote": "This bill enacts provisions relating to the regulation of mental health chatbots that use",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored files give the sponsors and the session but do not name the Governor; the Governor's name is removed and the sponsors added",
+   "official_identifier": "Laws of Utah 2024, Chapter 186 added (cited by the 2025 and 2026 amending bills); the codification as Title 13, Chapter 72 is now supported by the Utah Code text and the amending bills",
+   "date_last_updated": "set to 6 May 2026, when H.B. 320 (2026), the latest amendment of the Act's chapter, took effect",
+   "summary": "rewritten from the enrolled text: the scope of the disclosure duty corrected, fines, the Laboratory's purpose and the offence provision added, and the 2025 replacement of the disclosure rules noted",
+   "safety_topics": "'evaluation & testing' added (the Laboratory analyses AI risks and supervises limited testing under regulatory mitigation)",
+   "notes": "rewritten from the stored files: votes, Laws of Utah chapter, effective date, codification, the original repeal date and its extension, S.B. 226's replacement of 13-2-12, H.B. 320's changes and H.B. 452; the Axios report on a 2026 bill removed (no stored source)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed 13 Mar 2024 and in effect from 1 May 2024 ('This bill takes effect on May 1, 2024.'). As enacted the Act's chapter was to be repealed on 1 May 2025, but S.B. 332 and S.B. 226 (2025) amend 63I-2-213 to 'repealed [May] July 1, [2025] 2027', and the Utah Code text of Chapter 72 shows it amended in the 2026 General Session (H.B. 320, in effect 6 May 2026), so the chapter is still in force on 18 Oct 2026 and runs until 1 Jul 2027 unless extended again. 13-2-12 was repealed from 7 May 2025 and replaced by Title 13, Chapter 75; 76-2-107 has no repeal date in the stored files. 'In force' stands; the coming repeal date is in the notes.",
+  "scope_reasoning": "An AI-specific state law on generative AI disclosure and liability and on an AI policy office and learning laboratory; in scope with no note (unchanged).",
+  "date_reasoning": "date_published 13 Mar 2024, the Governor's signature (bill page). date_in_force 1 May 2024 from Section 13 of the enrolled bill. date_last_updated 6 May 2026, the effective date of H.B. 320 (Section 8); the stored files do not give the date the Governor signed H.B. 320, so the effective date is used for the new version."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Utah H.B. 452 (2025 General Session), Artificial Intelligence Amendments: regulation of mental health chatbots that use AI",
+   "url": "https://le.utah.gov/Session/2025/bills/enrolled/HB0452.pdf",
+   "note": "Enacts Utah Code 13-72a on protections, disclosures, data use and policies of mental health chatbots, in effect from 7 May 2025 (enrolled copy stored in this run under US-UT-01); not in the register."
+  },
+  {
+   "title": "Utah S.B. 226 (2025 General Session), Artificial Intelligence Consumer Protection Amendments",
+   "url": "https://le.utah.gov/Session/2025/bills/enrolled/SB0226.pdf",
+   "note": "Repeals 13-2-12 of S.B. 149 and enacts Utah Code Title 13, Chapter 75 on generative AI disclosures in consumer transactions and regulated services, with a safe harbour (enrolled copy stored in this run under US-UT-01); now the operative disclosure law, so it may deserve its own record."
+  }
+ ],
+ "open_questions": [
+  "date_last_updated uses the effective date of H.B. 320 (6 May 2026) because no stored file gives the date it was signed; the Utah Code credits the changes to Chapter 127 of the 2026 General Session.",
+  "The Act's chapter is due to be repealed on 1 Jul 2027 (63I-2-213 as amended in 2025); a refresh around that date should check whether it was extended again."
+ ]
+}

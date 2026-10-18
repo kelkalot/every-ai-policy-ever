@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-NY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Critical safety incidents are reported within 72 hours, or 24 hours if death or serious injury is imminent",
+   "verdict": "supported",
+   "locator": "A09449 Text, s. 1422(3)(a)-(b)"
+  },
+  {
+   "claim": "Civil penalties up to USD 1 million for a first violation and USD 3 million for later ones",
+   "verdict": "supported",
+   "locator": "A09449 Text, s. 1427(1)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the stored Assembly bill pages A6453 and A9449 and the Governor's release. Chapter 699 of 2025 was amended by Chapter 96 of 2026 (signed 27 Mar 2026), which moved the effective date to 1 Jan 2027; with today at 18 Oct 2026 the status Adopted, not yet in force is right. The search for newer versions found only law-firm notes and a secondary report that the oversight office was named in Sep 2026; nothing on an official site that changes the record. The Senate print S8828 is not stored but the Assembly page lists it as the same bill."
+}

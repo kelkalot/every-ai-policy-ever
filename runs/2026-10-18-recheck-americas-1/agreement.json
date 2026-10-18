@@ -1,0 +1,151 @@
+{
+ "run_id": "2026-10-18-recheck-americas-1",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.308,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "original_title": {
+   "compared": 1,
+   "agree": 1,
+   "rate": 1.0
+  },
+  "issuing_body": {
+   "compared": 3,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "official_identifier": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_published": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_in_force": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_last_updated": {
+   "compared": 1,
+   "agree": 1,
+   "rate": 1.0
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 4,
+   "agree": 2,
+   "rate": 0.5
+  }
+ },
+ "disagreements": {
+  "JM-01": [
+   {
+    "field": "title",
+    "first": "National Artificial Intelligence - Policy Recommendations (National AI Task Force, Jamaica)",
+    "blind": null
+   },
+   {
+    "field": "issuing_body",
+    "first": "Office of the Prime Minister of Jamaica",
+    "blind": null
+   },
+   {
+    "field": "date_published",
+    "first": null,
+    "blind": "2025-02-13"
+   }
+  ],
+  "PY-02": [
+   {
+    "field": "issuing_body",
+    "first": "Chamber of Deputies of Paraguay; bill by Deputies Rodrigo Gamarra, Rocío Abed, Miguel Del Puerto, Del Pilar Vázquez and Hugo Meza",
+    "blind": null
+   }
+  ],
+  "US-IA-01": [
+   {
+    "field": "safety_topics",
+    "first": [
+     "child safety",
+     "transparency & labelling",
+     "accountability & liability",
+     "prohibited practices"
+    ],
+    "blind": null
+   }
+  ],
+  "US-UT-01": [
+   {
+    "field": "issuing_body",
+    "first": "Utah State Legislature (2024 General Session; chief sponsor Sen. Kirk A. Cullimore, House sponsor Rep. Jefferson Moss); signed by the Governor",
+    "blind": null
+   },
+   {
+    "field": "official_identifier",
+    "first": "Utah S.B. 149 (2024 General Session); Laws of Utah 2024, Chapter 186; Utah Code Title 13, Chapter 72",
+    "blind": null
+   },
+   {
+    "field": "date_in_force",
+    "first": null,
+    "blind": "2024-05-01"
+   },
+   {
+    "field": "safety_topics",
+    "first": [
+     "transparency & labelling",
+     "accountability & liability",
+     "evaluation & testing"
+    ],
+    "blind": null
+   }
+  ],
+  "UY-01": []
+ },
+ "resulting_record_agreement": 0.912,
+ "resulting_record_fields": 57
+}

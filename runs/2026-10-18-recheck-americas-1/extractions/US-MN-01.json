@@ -1,0 +1,303 @@
+{
+ "cand_id": "US-MN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-MN-01",
+ "record": {
+  "issuing_body": "Minnesota Legislature (94th Legislature, 2026 session; chief author Rep. J. Hanson); signed by the Governor",
+  "summary": "Bars whoever owns or controls a website, application, software, program or other service from letting users access, download or use it to 'nudify' an image or video, that is, to alter or generate it so that it realistically shows intimate parts of an identifiable person not shown in the original, or from nudifying images for users; advertising or promoting such services is banned. Services that need a user's own substantial technical or artistic skill are exempt. Depicted individuals may sue for up to three times actual damages, punitive damages and injunctive relief, and the Attorney General may seek civil penalties of up to USD 500,000 for each unlawful access, download or use.",
+  "notes": "Passed the House 132-1 (23 Apr 2026) and the Senate 65-0 (29 Apr 2026); presented to the Governor on 6 May 2026 and signed on 7 May 2026; effective 1 Aug 2026 for causes of action accruing on or after that date. Civil penalties go to the general fund, and each year's balance is appropriated to the Office of Justice Programs for grants to organisations serving victims of sexual assault, domestic violence, child abuse and other crime. The section does not alter the liabilities and protections of 47 U.S.C. § 230. xAI challenges the law in federal court as a restriction of constitutionally protected free speech; US District Judge Donovan Frank refused to block it in September 2026, finding no showing of irreparable harm and undue delay, but on 2 Oct 2026 the US Court of Appeals for the Eighth Circuit granted xAI an injunction that puts the law on hold while the lawsuit proceeds.",
+  "scope_note": "The statute regulates services that alter or generate realistic intimate images of identifiable people and does not name artificial intelligence; included as Minnesota's operative instrument against deepfake 'nudification' tools.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Revisor of Statutes' session-law page and PDF for Laws 2026, chapter 72, and the HF 1606 bill-status page, all stored 12 Oct 2026 from revisor.mn.gov (the archiver found them unchanged on 17 Oct 2026). They confirm the title, section 325E.91, the definitions, prohibitions, exemption, remedies and penalties, the votes, the Governor's signature on 7 May 2026 and the 1 Aug 2026 effective date. The stored files do not name the Governor, so the issuing body no longer does. The litigation in notes rests on one secondary source, a Reuters report published by MPR News on 2 Oct 2026 and stored in this run; the Minnesota Attorney General's release of 4 Sep 2026 on ag.state.mn.us could not be stored (connection timed out), and no court order is stored. A committee schedule grid stored with the record (house.mn.gov) does not concern HF 1606."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "session law heading",
+    "quote": "CHAPTER 72--H.F.No. 1606",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Section 1",
+    "quote": "[325E.91] PROHIBITION ON NUDIFICATION TECHNOLOGY.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "session law heading",
+    "quote": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MINNESOTA:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "page header",
+    "quote": "94th Legislature (2025 - 2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "after the text",
+    "quote": "Signed by the governor May 7, 2026, 9:14 a.m.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/secondary.html",
+    "sha256": "88a11dd70533c8e18ba59bfca4133561ebd4807453b881422789657f2b9719e3",
+    "locator": "Actions, House, 02/17/2026",
+    "quote": "Hanson, J. as Chief Author",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "session law heading",
+    "quote": "CHAPTER 72--H.F.No. 1606",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Section 1",
+    "quote": "[325E.91] PROHIBITION ON NUDIFICATION TECHNOLOGY.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/secondary.html",
+    "sha256": "88a11dd70533c8e18ba59bfca4133561ebd4807453b881422789657f2b9719e3",
+    "locator": "bill summary",
+    "quote": "Session Law Chapter: 72",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "after the text",
+    "quote": "Signed by the governor May 7, 2026, 9:14 a.m.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/secondary.html",
+    "sha256": "88a11dd70533c8e18ba59bfca4133561ebd4807453b881422789657f2b9719e3",
+    "locator": "Actions, House",
+    "quote": "Governor approval 05/07/2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Section 1, EFFECTIVE DATE",
+    "quote": "This section is effective August 1, 2026, and applies to causes of action accruing on or after that date.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/secondary.html",
+    "sha256": "88a11dd70533c8e18ba59bfca4133561ebd4807453b881422789657f2b9719e3",
+    "locator": "Actions, Senate",
+    "quote": "Effective date 08/01/2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "after the text",
+    "quote": "Signed by the governor May 7, 2026, 9:14 a.m.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Section 1, EFFECTIVE DATE",
+    "quote": "This section is effective August 1, 2026, and applies to causes of action accruing on or after that date.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "session law heading",
+    "quote": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MINNESOTA:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 2(a)",
+    "quote": "A person who owns or controls a website, application, software, program, or other service must not:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 1(d)",
+    "quote": "an image or video is altered or generated to depict an intimate part not depicted in an original unaltered image or video of an identifiable individual; and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 2(b)",
+    "quote": "No person may advertise or promote any website, application, software, program, or other service that performs the actions described in paragraph (a).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 3",
+    "quote": "requires the technical skill of a user to nudify an image or video.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 4(1)",
+    "quote": "in an amount up to three times the actual damages sustained;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 5(a)",
+    "quote": "a person who violates this section is subject to a civil penalty not to exceed $500,000 for each unlawful access, download, or use under subdivision 2.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MN-01/extra-e2b2554bb5/2026-10-17/official.html",
+    "sha256": "e64d2fd168eceac1e148fb6c39be4c39777f61279ef9e0d1563d876cbf7e9a04",
+    "locator": "article",
+    "quote": "The St. Louis-based 8th US Circuit Court of Appeals in its order put",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MN-01/extra-e2b2554bb5/2026-10-17/official.html",
+    "sha256": "e64d2fd168eceac1e148fb6c39be4c39777f61279ef9e0d1563d876cbf7e9a04",
+    "locator": "article",
+    "quote": "injunction by xAI. A lower court judge last month had",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MN-01/extra-e2b2554bb5/2026-10-17/official.html",
+    "sha256": "e64d2fd168eceac1e148fb6c39be4c39777f61279ef9e0d1563d876cbf7e9a04",
+    "locator": "article",
+    "quote": "October 2, 2026 5:08 PM",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MN-01/extra-e2b2554bb5/2026-10-17/official.html",
+    "sha256": "e64d2fd168eceac1e148fb6c39be4c39777f61279ef9e0d1563d876cbf7e9a04",
+    "locator": "article",
+    "quote": "the measure restricts free speech protected by the US Constitution.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-MN-01/extra-e2b2554bb5/2026-10-17/official.html",
+    "sha256": "e64d2fd168eceac1e148fb6c39be4c39777f61279ef9e0d1563d876cbf7e9a04",
+    "locator": "article",
+    "quote": "that xAI had not shown it would suffer irreparable harm while challenging the law and said the company had waited too long to seek emergency relief.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/secondary.html",
+    "sha256": "88a11dd70533c8e18ba59bfca4133561ebd4807453b881422789657f2b9719e3",
+    "locator": "Actions, House, 04/23/2026",
+    "quote": "Bill was passed pg. 6139 vote: 132-1",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/secondary.html",
+    "sha256": "88a11dd70533c8e18ba59bfca4133561ebd4807453b881422789657f2b9719e3",
+    "locator": "Actions, Senate, 04/29/2026",
+    "quote": "Third reading Passed pg. 9258 vote: 65-0",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "after the text",
+    "quote": "Presented to the governor May 6, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 5(b)",
+    "quote": "the accumulated balance of civil penalties collected in the previous year is appropriated to the commissioner of public safety for the Office of Justice Programs",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 7",
+    "quote": "This section does not alter or amend the liabilities and protections granted by United States Code, title 47, section 230",
+    "source_kind": "official"
+   }
+  ],
+  "scope_note": [
+   {
+    "file": "archive/US-MN-01/2026-10-12/official.html",
+    "sha256": "76ee2b32930b1a82cf81f94e97a72e62004b34a90b87d71943bdf35c4c4777bb",
+    "locator": "Subd. 1(d)",
+    "quote": "an image or video is altered or generated to depict an intimate part not depicted in an original unaltered image or video of an identifiable individual; and",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored files do not name the Governor; 'signed by Governor Tim Walz' becomes 'signed by the Governor'",
+   "summary": "the closing sentence ('targets providers of AI image-generation tools rather than individual users') is removed: the statute does not mention artificial intelligence; the definition of 'nudify' is spelled out instead",
+   "notes": "the xAI sentence ('Press reports describe ...; its outcome was not verified') replaced by the course of the litigation from the stored MPR News report: the district court's refusal in September 2026 and the Eighth Circuit's injunction of 2 Oct 2026; presentment date, use of civil penalties and the 47 U.S.C. § 230 clause added",
+   "scope_note": "added: the statute never names artificial intelligence, so it is in scope as a law that is not AI-specific but is the operative instrument for an AI-safety question (deepfakes), which AGENTS.md section 10 includes with a scope_note",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The session law shows 'Signed by the governor May 7, 2026' and its effective-date clause reads 'This section is effective August 1, 2026, and applies to causes of action accruing on or after that date.' 1 Aug 2026 is before 18 Oct 2026, so the section is in force. The stored MPR News report of 2 Oct 2026 says the Eighth Circuit 'put the law on hold for now, granting a request for an injunction by xAI'. An injunction pending appeal stops enforcement without repealing the statute or changing its effective date, and the status vocabulary has no value for an enjoined law, so 'In force' stands with the injunction in notes (as US-CO-01's notes describe a stipulated non-enforcement order); the open question asks a person to confirm this",
+  "scope_reasoning": "The statute bans services that alter or generate realistic intimate images of identifiable people (deepfake nudification) and never uses the words 'artificial intelligence'. That is the AGENTS.md section 10 case of a law that is not AI-specific but is the operative instrument for an AI-safety question (deepfakes): in, with a scope_note.",
+  "date_reasoning": "date_published is the Governor's signature, 7 May 2026; date_in_force is 1 Aug 2026 from the section's effective-date clause."
+ },
+ "extra_urls": [
+  {
+   "url": "https://ag.state.mn.us/Office/Communications/2026/09/04_xAI.asp",
+   "reason": "Minnesota Attorney General release of 4 Sep 2026, 'Judge again denies X.AI's attempt to block Minnesota's AI nudification ban' (found by search): official account of the federal challenge X.AI LLC v. Ellison, the denied temporary restraining order and preliminary injunction, for notes."
+  },
+  {
+   "url": "https://mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit",
+   "reason": "MPR News report of 2 Oct 2026 that the Eighth Circuit granted xAI an injunction putting the law on hold pending appeal (secondary): needed to record in notes that enforcement is paused, and for the status reasoning."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "Enforcement of section 325E.91 is on hold under the Eighth Circuit's injunction of 2 Oct 2026 in xAI's appeal (stored source: MPR News, secondary; no court order or official release is stored). The status vocabulary has no value for an enjoined law; this extraction keeps 'In force' and describes the injunction in notes. A person can decide whether an enjoined law should keep 'In force', and a later run should check the outcome of the appeal."
+ ]
+}

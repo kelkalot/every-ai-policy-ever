@@ -320,6 +320,9 @@ def cmd_merge(args):
     if not args.dry_run:
         P.write_json(DEFS, reg)
         H.append(events)
+        P.build.write_history_md()  # generated from the history, which has new events
+        run["status"] = "merged"
+        P.save_run(d, run)
     print("%d added, %d changed, %d re-verified%s in data/definitions.json%s" % (
         added, changed, confirmed, (", %d held back by the checker" % held) if held else "",
         " (dry run)" if args.dry_run else ""))
@@ -393,6 +396,7 @@ def cmd_report(args):
               "status page rather than the instrument's text (the extraction's note says so), that text has to be "
               "archived before a later run can look again.", ""] + ["- %s: %s" % (rid, ", ".join(nf)) for rid, nf in missing] + [""]
     (d / "report.md").write_text("\n".join(L) + "\n", encoding="utf-8")
+    P.build.write_history_md()  # HISTORY.md links each run to its report, which exists only from now on
     print("Written runs/%s/report.md (%d definitions)" % (args.run, len(mine)))
     return 0
 

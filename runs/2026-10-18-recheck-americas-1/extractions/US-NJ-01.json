@@ -1,0 +1,308 @@
+{
+ "cand_id": "US-NJ-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-NJ-01",
+ "record": {
+  "summary": "Defines 'deceptive audio or visual media' as recordings, images or other representations that appear to a reasonable person to realistically depict speech, conduct or writing of a person who did not engage in it, produced substantially by technical means. Generating such media, or soliciting, disclosing or using it, to attempt or further any crime or offence (such as harassment or endangering children) is a third-degree crime; knowingly or recklessly disclosing media so generated is a fourth-degree crime; fines reach USD 30,000. Victims can sue for actual damages of at least USD 1,000 per knowing or reckless violation, punitive damages, attorney's fees and equitable relief.",
+  "notes": "Introduced on 5 Feb 2024 as A3540, for which the Senate bill S2544 was substituted. The Governor conditionally vetoed the bill on 17 Mar 2025; the Assembly adopted his recommended amendments, which among other things made knowing or reckless disclosure a fourth-degree instead of a third-degree crime, and both houses passed it on 24 Mar 2025. Approved on 2 Apr 2025 and effective immediately. The law does not apply to content that a reasonable viewer or listener would understand as criticism, comment, satire, parody, news reporting, teaching, scholarship or research, nor to interactive computer service providers, cloud services providers or commercial AI developers not deemed publishers under 47 U.S.C. 230. Disclosure to law enforcement, to a school administrator or other advocate to report a violation, or for investigations of fraud, cybersecurity, identity theft or harassment is exempt. The Governor's office said the law was inspired partly by the advocacy of a Westfield High School student targeted by peers who created and shared AI-generated explicit images.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the New Jersey State Law Library's legislative history checklist for Laws of 2025, Chapter 40 (stored from repo.njstatelib.org on 11 Oct 2026, unchanged on 17 Oct 2026). It holds the checklist (bill numbers, sponsor, introduction, passage and approval dates), the enacted Assembly Committee Substitute (Third Reprint), the chapter law as approved on 2 Apr 2025, earlier versions, the Governor's conditional veto of 17 Mar 2025 and his press release of 2 Apr 2025; together they confirm every field. The Legislature's chapter-law PDF on pub.njleg.state.nj.us timed out again on 17 Oct 2026. The State Law Library compiled the file but did not issue the law, so its quotes count as another official source."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 9, chapter law",
+    "quote": "AN ACT establishing civil and criminal penalties for the production and dissemination of deceptive audio or visual media and supplementing Title 2C of the New Jersey Statutes.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 3",
+    "quote": "P.L. 2025, CHAPTER 40, approved April 2, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 1, checklist",
+    "quote": "BILL NO: A3540 (Substituted for S2544 (SS))",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 1, checklist",
+    "quote": "SPONSOR(S) Conaway, Herb and others",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 100, Governor's press release of 04/02/2025",
+    "quote": "Governor Phil Murphy today signed A3540/S2544, establishing civil and criminal penalties for the",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 3",
+    "quote": "P.L. 2025, CHAPTER 40, approved April 2, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 3",
+    "quote": "Assembly Committee Substitute (Third Reprint) for Assembly, No. 3540",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 1, checklist",
+    "quote": "NJSA: 2C:21-17.7 & 2C:21-17.8",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 1, checklist",
+    "quote": "DATE OF APPROVAL: 4/2/2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, chapter law",
+    "quote": "Approved April 2, 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, chapter law, s. 3",
+    "quote": "This act shall take effect immediately.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, chapter law",
+    "quote": "Approved April 2, 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, chapter law, s. 3",
+    "quote": "This act shall take effect immediately.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, chapter law",
+    "quote": "Approved April 2, 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 9, chapter law",
+    "quote": "BE IT ENACTED by the Senate and General Assembly of the State of New Jersey:",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 10, C.2C:21-17.8 a.",
+    "quote": "appears to a reasonable person to realistically depict any speech",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 10, C.2C:21-17.8 a.",
+    "quote": "substantially dependent upon technical means, rather than the ability of another person to physically or verbally impersonate the person",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 10, C.2C:21-17.8 b.",
+    "quote": "A natural person commits a crime of the third degree if, without license or privilege to do so, the person generates or creates",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 10, C.2C:21-17.8 c.(1)",
+    "quote": "the person solicits, discloses, or uses a work of deceptive audio or visual media for the purpose of attempting or furthering the commission of any crime or offense",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 10, C.2C:21-17.8 b.(3)",
+    "quote": "endangering the welfare of children, pursuant to N.J.S.2C:24 -4;",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 c.(2)",
+    "quote": "a crime of the fourth degree if, without license or privilege to do so, the person knowingly or recklessly discloses a work of deceptive audio or visual media created in violation of subsection b. of this section",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 d.",
+    "quote": "a fine of up to $30,000 may be imposed for a violation of this section",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 f.(1)",
+    "quote": "actual damages, but not less than liquidated damages computed at the rate of $1,000 for each knowing or reckless violation",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 f.(2)-(4)",
+    "quote": "punitive damages upon proof of willful disregard of the law",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 f.(3)",
+    "quote": "reasonable attorney’s fees and other litigation costs reasonably incurred",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 1, checklist",
+    "quote": "DATE INTRODUCED: 2/5/2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 99, Governor's news release of 03/17/2025",
+    "quote": "Governor Murphy conditionally vetoed the following bills: ACS for A-3540/SS for S-2544",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 3",
+    "quote": "Assembly amendments adopted in accordance with Governor's recommendations March 17, 2025.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 6, third reprint",
+    "quote": "commits a crime of the 3[third] fourth3",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 1, checklist",
+    "quote": "DATE OF PASSAGE: ASSEMBLY: 03/24/2025 SENATE: 03/24/2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 g.(1)",
+    "quote": "shall not apply to content that a reasonable viewer or listener would understand to constitute criticism, comment, satire, parody, news reporting, teaching, scholarship, research",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 11, C.2C:21-17.8 g.(2)",
+    "quote": "or commercial developer or provider of artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, C.2C:21-17.8 g.(5)",
+    "quote": "or other advocate for purposes of reporting conduct that may constitute a violation of this section",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 12, C.2C:21-17.8 g.(5)",
+    "quote": "in furtherance of an investigation concerning fraud, cybersecurity, identity theft, harassment",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 100, Governor's press release of 04/02/2025",
+    "quote": "Today’s legislation was inspired partly by the advocacy of Francesca Mani, a student at Westfield High School who",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-NJ-01/2026-10-11/official.pdf",
+    "sha256": "019cfeeca0f5270fee3cbf4bae3a6dcd04c7a07bb37d4dc9391467cc486bce06",
+    "locator": "page 100, Governor's press release of 04/02/2025",
+    "quote": "has called for change after being targeted and victimized by peers that created and shared AI-generated, explicit",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "corrected the offences: generating, soliciting, disclosing or using such media to attempt or further a crime is third-degree, but knowingly or recklessly disclosing media so generated is fourth-degree (the version 1 summary made 'knowingly disclose' third-degree)",
+   "notes": "rewritten from the chapter law, the conditional veto and the Governor's press release: introduction date, the conditional veto and what it changed, the exemptions, and the Westfield case as the press release describes it",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The chapter law says 'This act shall take effect immediately.' and 'Approved April 2, 2025.' Nothing in the stored file shows a repeal or amendment. 'In force' since 2 Apr 2025 stands.",
+  "scope_reasoning": "A law that is not AI-specific in form but is New Jersey's operative instrument on deepfakes, with findings on AI 'deepfake' technology; in scope (deepfakes) with no note, unchanged.",
+  "date_reasoning": "date_published and date_in_force are both 2 Apr 2025: the approval date (checklist and chapter law) and the immediate-effect clause."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

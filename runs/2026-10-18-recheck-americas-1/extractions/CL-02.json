@@ -1,0 +1,233 @@
+{
+ "cand_id": "CL-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CL-02",
+ "record": {
+  "date_published": "2024-05-07",
+  "date_last_updated": "2025-10-13",
+  "notes": "Executive bill (message) filed in the Chamber of Deputies on 7 May 2024 and merged on 29 May 2024 with motion 15869-19, which the Senate lists as the lead bulletin. The Chamber approved it in general on 4 Aug 2025 and in particular on 13 Oct 2025 and sent it to the Senate the same day; on 14 Oct 2025 the Senate referred it to its Committee on Future Challenges, Science, Technology and Innovation, which was still in the general study at its session of 13 Jul 2026. On 26 May 2026 the Minister of Science, Ximena Lincolao, gave the committee a proposal for a different framework built on six pillars, and the committee chair, Sen. Rojo Edwards, expected a substitute amendment shifting from review before marketing to review after it. The Senate's record shows no amendment filed up to its last entry, a renewal of simple urgency on 1 Sep 2026.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: the Chamber of Deputies' pages (camara.cl) refuse the archiver (HTTP 403, also in the browser). Stored instead: the Senate's public processing record for bulletin 16821-19 (XML from tramitacion.senado.cl, stored 17 Oct 2026), which gives the title, the filing on 7 May 2024 as an Executive message, the merger with 15869-19, the Chamber's votes of 4 Aug and 13 Oct 2025, the dispatch to the Senate on 13 Oct 2025, the current stage and every urgency up to 1 Sep 2026; the Senate committee's session page of 13 Jul 2026 (stored 11 Oct 2026); and a Radio Agricultura report of 26 May 2026 (radioagricultura.cl, a secondary source) on the minister's proposal and the expected substitute amendment, on which that sentence of the notes rests. The Senate record does not give the vote counts, so version 1's 63-47-6 and its list of articles the Chamber rejected (both from camara.cl news) were dropped. The summary still rests on camara.cl news coverage of the Chamber's text (4 Aug and 13 Oct 2025): the Senate's copy of the dispatched text (oficio No. 20843) is a .docx without a text layer, and no other copy is stored. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion",
+    "quote": "16821-19 Regula los sistemas de inteligencia artificial 07/05/2024 Mensaje C.Diputados",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CL-02/2026-10-11/secondary.html",
+    "sha256": "8778fa4ddc931ede9376757681b7929e094aedbd845c77ece0c4a205b9ab4655",
+    "locator": "Punto 1, Aspectos considerados",
+    "quote": "Continuar el estudio en general del proyecto de ley, en segundo trámite constitucional, que regula los sistemas de inteligencia artificial, con urgencia calificada de simple (Boletines Nos 15.869-19 y 16.821-19, refundidos).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion",
+    "quote": "16821-19 Regula los sistemas de inteligencia artificial 07/05/2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CL-02/2026-10-11/secondary.html",
+    "sha256": "8778fa4ddc931ede9376757681b7929e094aedbd845c77ece0c4a205b9ab4655",
+    "locator": "Punto 1, Aspectos considerados",
+    "quote": "proyecto de ley, en segundo trámite constitucional, que regula los sistemas de inteligencia artificial",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion",
+    "quote": "07/05/2024 Mensaje C.Diputados Simple Segundo trámite constitucional (Senado)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 14/10/2025",
+    "quote": "Cuenta de proyecto . Pasa a Comisión de Desafíos del Futuro, Ciencia, Tecnología e InnovaciónSegundo trámite constitucionalSenado",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion, refundidos",
+    "quote": "15869-19 *matriz* / 16821-19",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CL-02/2026-10-11/secondary.html",
+    "sha256": "8778fa4ddc931ede9376757681b7929e094aedbd845c77ece0c4a205b9ab4655",
+    "locator": "Punto 1, Aspectos considerados",
+    "quote": "(Boletines Nos 15.869-19 y 16.821-19, refundidos)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion (fecha de ingreso)",
+    "quote": "16821-19 Regula los sistemas de inteligencia artificial 07/05/2024 Mensaje C.Diputados",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 07/05/2024",
+    "quote": "/07/05/2024Ingreso de proyecto . Primer trámite constitucionalC.Diputados",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 13/10/2025",
+    "quote": "79/37313/10/2025Discusión particular . Aprobado Primer trámite constitucionalC.Diputados",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "oficios, No. 20843",
+    "quote": "2084313/10/2025Oficio de ley a Cámara RevisoraPrimer trámite constitucionalLeyC. Diputados",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion (etapa, subetapa, estado)",
+    "quote": "Segundo trámite constitucional (Senado) Primer informe de comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación En tramitación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 01/09/2026",
+    "quote": "53/37401/09/2026Cuenta del Mensaje 288-374 que retira y hace presente la urgencia SimpleSegundo trámite constitucionalSenado",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "descripcion (estado)",
+    "quote": "Primer informe de comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación En tramitación",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 29/05/2024",
+    "quote": "por el cual solicita recabar el acuerdo de la Sala para refundir el proyecto, iniciado en moción, contenido en el boletín N° 15869-19, con el iniciado en mensaje, boletín N° 16821-19. ACORDADO.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 04/08/2025",
+    "quote": "54/37304/08/2025Discusión general . Aprobado en general",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 13/10/2025",
+    "quote": "/13/10/2025Oficio de ley a Cámara Revisora . Primer trámite constitucionalC.Diputados",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-7b138cafb1/2026-10-17/official.xml",
+    "sha256": "dbbd81f91c4b595a923c8473fe8755a87f60eb89019d5586419850b3061dfa8b",
+    "locator": "tramitacion, 14/10/2025",
+    "quote": "61/37314/10/2025Cuenta de proyecto . Pasa a Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CL-02/2026-10-11/secondary.html",
+    "sha256": "8778fa4ddc931ede9376757681b7929e094aedbd845c77ece0c4a205b9ab4655",
+    "locator": "Punto 1",
+    "quote": "A este punto se encuentra invitada la Ministra de Ciencia, Tecnología, Conocimiento e Innovación, señora Ximena Lincolao.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-da0ece6f6d/2026-10-17/official.html",
+    "sha256": "3f1b50da368e92d817402f4368b9f68cb81453c8472d4e207587f7299c99f55f",
+    "locator": "article body",
+    "quote": "La secretaria de Estado presentó una propuesta que consta de seis pilares para el desarrollo científico, tecnológico y productivo de Chile",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-da0ece6f6d/2026-10-17/official.html",
+    "sha256": "3f1b50da368e92d817402f4368b9f68cb81453c8472d4e207587f7299c99f55f",
+    "locator": "article body, Cambio de enfoque",
+    "quote": "El cambio clave sería pasar de la revisión ex ante (previa a comercialización) a la revisión ex post (posterior)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/CL-02/extra-da0ece6f6d/2026-10-17/official.html",
+    "sha256": "3f1b50da368e92d817402f4368b9f68cb81453c8472d4e207587f7299c99f55f",
+    "locator": "article byline",
+    "quote": "por Constanza Fuentes mayo 26, 2026",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the Senate's record gives the filing day, 7 May 2024 ('Ingreso de proyecto'), so the month-only '2024-05' becomes a full date",
+   "date_last_updated": "13 Oct 2025, when the Chamber approved the text in particular and sent it to the Senate: the current version of the bill. Version 1's 13 Jul 2026 was a committee session, not a new version",
+   "notes": "rewritten from the Senate's record and the committee page: filing, merger, the Chamber's votes and dispatch, the Senate referral and the last urgency renewal; the vote count and rejected articles (unstored camara.cl news) dropped; the minister's proposal of 26 May 2026 kept, now resting on a stored press report",
+   "english_version": "recorded as none found (the field was missing)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Senate's record (stored 17 Oct 2026) puts the bill at the second constitutional stage (Senate), first committee report pending, 'En tramitación', with the last entry a renewal of simple urgency on 1 Sep 2026. No Senate vote or enactment appears, so it stays 'Draft / proposed' with legal force 'Proposed'.",
+  "scope_reasoning": "An AI-specific, risk-based framework bill; a pending bill is in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the filing date, 7 May 2024 ('07/05/2024', 'Ingreso de proyecto'). date_last_updated is 13 Oct 2025, the Chamber's approval in particular and its 'Oficio de ley a Cámara Revisora', which is the text now before the Senate; later entries are urgency renewals and committee sessions."
+ },
+ "extra_urls": [
+  {
+   "url": "https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin=16821",
+   "reason": "The Senate's public processing record (XML) for bulletin 16821-19, since camara.cl refuses the archiver; stored on 17 Oct 2026."
+  },
+  {
+   "url": "https://www.radioagricultura.cl/noticias/nacional/comision-del-senado-evalua-proyecto-de-ley-sobre-nuevo-marco-para-ia-tras-propuesta-de-lincolao_20260526/",
+   "reason": "Press report of 26 May 2026 on the Science Minister's proposal to the Senate committee (secondary source for one sentence of the notes); stored on 17 Oct 2026."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The summary describes the text the Chamber of Deputies approved, but no copy of that text is stored: camara.cl answers HTTP 403, and the Senate's copy of the Chamber's dispatch (oficio No. 20843 of 13 Oct 2025) is a .docx file, for which textify has no text extraction. A person could provide the dispatched text as a PDF (Provide a document)."
+ ]
+}

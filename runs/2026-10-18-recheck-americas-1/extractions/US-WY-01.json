@@ -1,0 +1,300 @@
+{
+ "cand_id": "US-WY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-WY-01",
+ "record": {
+  "issuing_body": "Wyoming Legislature (68th Legislature, 2026 Budget Session; sponsor Rep. Lien); signed by the Governor",
+  "summary": "Creates crimes involving AI: distributing, promoting or threatening to distribute nonconsensual synthetic sexual material of an identifiable person (W.S. 6-4-307), and knowingly developing or distributing an AI system specifically designed to create child pornography or synthetic sexual material (6-4-308) or to promote self-harm (6-4-701), each a felony with up to ten years' imprisonment. Using AI to generate child pornography is sexual exploitation of a child. Using AI to commit a crime is no defence (6-1-206), and developers are immune from damages for misuse by others unless the system was developed knowing or intending that its primary purpose would be illegal or illicit (1-1-143).",
+  "notes": "Passed the House 61-0 (21 Feb 2026) and, with Senate amendments, the Senate 31-0 (5 Mar 2026); the House concurred 58-1 on 6 Mar 2026. Signed by the Governor on 7 Mar 2026 and assigned Chapter 91, Session Laws of Wyoming 2026; effective 1 Jul 2026. The Act's title still refers to offences concerning the use of AI to censor political speech, but its enacted sections create no such offence. A second conviction for distributing synthetic sexual material carries up to twelve years. The development offences do not apply to systems that produce such content solely in response to user prompts without the developer's intent, to bona fide school, college, university, museum or public library activities, to law enforcement and judicial activities, or to interactive computer services for content provided by others; the self-harm offence also exempts licensed health care providers giving legitimate medical or therapeutic services.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the enrolled act for HB0102 (House Enrolled Act No. 32), stored 12 Oct 2026 from wyoleg.gov (the archiver found it unchanged on 17 Oct 2026), and the Legislative Service Office bill digest for HB0102, stored in this run from wyoleg.gov. The enrolled act confirms the title, the offences, penalties and exemptions, the developer immunity and the 1 Jul 2026 effective date (Section 3); its approval lines are blank. The digest confirms the catch title, the sponsors, the votes, the Governor's signature of HEA No. 0032 on 7 Mar 2026 and Chapter 91. The bill page stored as the secondary source is an empty JavaScript shell. The stored files do not name the Governor, so the issuing body no longer does."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 1",
+    "quote": "HB0102 Protecting kids from deepfakes and exploitative images.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/7/2026 Assigned Chapter Number 91",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "ORIGINAL HOUSE ENGROSSED BILL NO. HB0102 ENROLLED ACT NO. 32, HOUSE OF REPRESENTATIVES",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "establishing criminal offenses concerning the use of synthetic sexual material or artificial intelligence against children",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 1",
+    "quote": "Sponsored By: Representative(s) Lien",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/7/2026 Governor Signed HEA No. 0032",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING 2026 BUDGET SESSION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "Be It Enacted by the Legislature of the State of Wyoming:",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "Chapter No. 91 Session Laws of Wyoming 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/6/2026 Assigned Number HEA No. 0032",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "ORIGINAL HOUSE ENGROSSED BILL NO. HB0102 ENROLLED ACT NO. 32, HOUSE OF REPRESENTATIVES",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/7/2026 Governor Signed HEA No. 0032",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 10, Section 3",
+    "quote": "Section 3. This act is effective July 1, 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/7/2026 Governor Signed HEA No. 0032",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 10, Section 3",
+    "quote": "Section 3. This act is effective July 1, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "ENROLLED ACT NO. 32, HOUSE OF REPRESENTATIVES",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1",
+    "quote": "Be It Enacted by the Legislature of the State of Wyoming:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 2, 6-4-307(a)",
+    "quote": "A person commits the offense of unlawful distribution of nonconsensual synthetic sexual material if:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 3, 6-4-307(a)(iii)",
+    "quote": "The person intentionally threatens to distribute synthetic sexual material",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 4, 6-4-308(b)(i)",
+    "quote": "artificial intelligence system specifically designed to create, distribute or promote child pornography or to create, distribute or promote synthetic sexual material;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 6, 6-4-701(b)(i)",
+    "quote": "Knowingly develops or distributes an artificial intelligence system specifically designed to promote self-harm; and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 7, 6-4-701(d)",
+    "quote": "felony punishable by imprisonment for not more than ten (10) years",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 8, 6-4-303(b)(v)",
+    "quote": "Uses an artificial intelligence system to generate or create child pornography;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 2, 6-1-206(b)",
+    "quote": "The use of an artificial intelligence system by a person to commit a criminal offense shall not be a defense to a criminal charge.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1, 1-1-143(c)",
+    "quote": "system was developed with the knowledge or intent that the primary purpose of the system would be for illegal or illicit activities.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 2",
+    "quote": "2/21/2026 H 3rd Reading:Passed 61-0-1-0-0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 2",
+    "quote": "2/27/2026 S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/5/2026 S 3rd Reading:Passed 31-0-0-0-0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/6/2026 H Concur:Passed 58-1-3-0-0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/US-WY-01/extra-2c26e3e98c/2026-10-17/official.pdf",
+    "sha256": "a1c6ceeb957159b0b4f87ec937fb1f689eab3ab4ad547792451ace4cf960703c",
+    "locator": "page 3",
+    "quote": "3/7/2026 Assigned Chapter Number 91",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 1, title",
+    "quote": "establishing criminal offenses concerning the use of artificial intelligence to promote self-harm or to censor political speech;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 4, 6-4-307(c)(ii)",
+    "quote": "a felony punishable by imprisonment for not more than twelve (12) years",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 6, 6-4-701(c)(i)",
+    "quote": "of user prompts or inputs and without the developer's intent to encourage or promote self-harm;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-WY-01/2026-10-12/official.pdf",
+    "sha256": "b3edef51fc46ff069dce33a85b58375f0c261b2a50b125b6d9bc766ef77c3728",
+    "locator": "page 7, 6-4-701(c)(iv)",
+    "quote": "To licensed health care providers providing legitimate medical or therapeutic services;",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored files do not name the Governor; 'signed by Governor Mark Gordon' becomes 'signed by the Governor'",
+   "summary": "corrected: the old summary described 6-4-701 as covering AI systems that 'censor political speech'; the enacted 6-4-701 covers self-harm only (the political-speech offence survives only in the Act's title). AI-generated child pornography under 6-4-303 added",
+   "notes": "rewritten: votes from the digest, and the title discrepancy, the repeat-offence penalty and the exemptions from the enrolled act added; the comparison with chatbot statutes removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The digest records '3/7/2026 Governor Signed HEA No. 0032' and '3/7/2026 Assigned Chapter Number 91'; Section 3 of the enrolled act reads 'This act is effective July 1, 2026.' 1 Jul 2026 is before 18 Oct 2026, and no stored file shows a repeal. 'In force' stands.",
+  "scope_reasoning": "An AI-specific state criminal law on AI systems built for child sexual abuse material, synthetic sexual material and self-harm; in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the Governor's signature, 7 Mar 2026 (digest; the enrolled act leaves the approval date blank); date_in_force is 1 Jul 2026 from Section 3."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.wyoleg.gov/2026/Digest/HB0102.pdf",
+   "reason": "Legislative Service Office bill digest for 2026 HB0102: catch title ('Protecting kids from deepfakes and exploitative images'), sponsors, votes, the Governor's signature of HEA No. 0032 on 3/7/2026 and Chapter 91. Needed as official evidence for date_published, the chapter number in official_identifier and title, and the sponsor in issuing_body; the stored enrolled act leaves the approval date blank and the stored bill page is an empty shell."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

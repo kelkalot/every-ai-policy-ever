@@ -1,0 +1,231 @@
+{
+ "cand_id": "CO-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CO-01",
+ "record": {
+  "original_title": "Documento CONPES 4144 de 2025: Política Nacional de Inteligencia Artificial",
+  "summary": "Colombia's national AI policy, approved by CONPES and prepared by the National Planning Department with six ministries and the Presidency, sets more than 100 actions to 2030 under six axes. Four are enabling conditions: governance and ethical principles for responsible AI, infrastructure and data, research and innovation, and skills and talent. A cross-cutting axis on preventing and mitigating AI risks covers environmental impact, labour protection, mental-health effects and tools against deepfakes, false news and identity impersonation; the sixth promotes ethical adoption of AI in public bodies, businesses and the regions.",
+  "safety_topics": [
+   "accountability & liability",
+   "deepfakes & synthetic media",
+   "public-sector use",
+   "research priorities"
+  ],
+  "notes": "Approved on 14 Feb 2025, with an indicative investment of COP 479,000 million. The Ministry of ICT, the Administrative Department of the Presidency, the Ministry of Science, Technology and Innovation and the National Planning Department lead its implementation, with the Planning Department coordinating. The governance axis provides for stakeholder participation in evaluating the policy, an expert advisory council and normative instruments to verify compliance with ethical principles for AI.",
+  "scope_note": "Mainly a policy for AI infrastructure, data, research, skills and adoption; included as Colombia's national AI policy, two of whose six axes cover AI governance and ethics and the prevention and mitigation of AI risks.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the government normative compilation on normativa.colpensiones.gov.co (stored 11 Oct 2026), which gives the document's cover: 'Documento CONPES 4144 DNP de 2025 (febrero 14)', the issuing council, the participating ministries, 'Versión aprobada' and 'Bogotá, D.C., 14 de febrero de 2025'; it links the full PDF only on normograma.com. Also re-read the DNP article on CONPES 4144 in its journal Planeación y Desarrollo (No. 21, stored 11 Oct 2026 from dnp.gov.co), written by staff of DNP's Digital Development Directorate, which describes the six axes, the risk-mitigation measures, the more than 100 actions to 2030, the COP 479,000 million and the lead entities; the summary rests on that article. Both files were found unchanged on 17 Oct 2026. The policy document itself is not stored: its PDF on colaboracion.dnp.gov.co was requested in this run, but the copy stored on 17 Oct 2026 has no readable text (24 characters) and the browser retry failed on a certificate error. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "CONSEJO NACIONAL DE POLÍTICA ECONÓMICA Y SOCIAL REPÚBLICA DE COLOMBIA DEPARTAMENTO NACIONAL DE PLANEACIÓN POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "DOCUMENTO CONPES 4144 DNP DE 2025",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "I. Política Nacional de Inteligencia Artificial (IA)",
+    "quote": "Documento CONPES 4144 de 2025: Política Nacional de Inteligencia Artificial",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "DEPARTAMENTO NACIONAL DE PLANEACIÓN POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "CONSEJO NACIONAL DE POLÍTICA ECONÓMICA Y SOCIAL REPÚBLICA DE COLOMBIA DEPARTAMENTO NACIONAL DE PLANEACIÓN",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "DOCUMENTO CONPES 4144 DNP DE 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "Versión aprobada Bogotá, D.C., 14 de febrero de 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "I. Política Nacional de Inteligencia Artificial (IA)",
+    "quote": "la cual fue aprobada el 14 de febrero de 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "Versión aprobada Bogotá, D.C., 14 de febrero de 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "III. Ruta para ejecución de las acciones del CONPES",
+    "quote": "la entidad ha iniciado con el acompañamiento a las diferentes entidades públicas del orden nacional para apoyar en la implementación de las respectivas acciones",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "CONSEJO NACIONAL DE POLÍTICA ECONÓMICA Y SOCIAL REPÚBLICA DE COLOMBIA DEPARTAMENTO NACIONAL DE PLANEACIÓN POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "Departamento Nacional de Planeación Ministerio de Defensa Nacional Ministerio del Trabajo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/official.html",
+    "sha256": "b0d20aaa9b1fb41698bd6537dff001fe31a2e915cfaf327fdd815485528d5a63",
+    "locator": "document heading",
+    "quote": "Ministerio del Trabajo Ministerio de Comercio, Industria y Turismo Ministerio de Educación Nacional Ministerio de Tecnologías de la Información y las Comunicaciones Ministerio de Ciencia, Tecnología e Innovación Departamento Administrativo de Presidencia de la República",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "I. Política Nacional de Inteligencia Artificial (IA)",
+    "quote": "La suma de esfuerzos permitió estructurar una política con más de 100 acciones concretas hasta 2030",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "II. Ejes que soportan las transformaciones del país a través de la IA",
+    "quote": "la Política Nacional de IA se diseñó mediante el enfoque formado por seis ejes estratégicos; de ellos, los cuatro primeros se consideran condiciones habilitantes para el uso y adopción de la IA",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "II. Ejes que soportan las transformaciones del país a través de la IA",
+    "quote": "Los dos ejes restantes son transversales: el quinto aborda la prevención de riesgos, crucial para habilitar el sexto, enfocado en el uso y adopción ética y responsable de la IA en todos los sectores.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "E. Definición de medidas para la prevención y mitigación de riesgos",
+    "quote": "Estudios del impacto en la salud mental del uso de la IA en las personas",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "E. Definición de medidas para la prevención y mitigación de riesgos",
+    "quote": "la construcción de herramientas que permitan a la ciudadanía evitar ser engañados por los Deepfakes, noticias falsas y suplantación de identidad",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "II. Ejes que soportan las transformaciones del país a través de la IA",
+    "quote": "Impulsar el uso y adopción de los sistemas de IA en las entidades públicas, el tejido empresarial, y los territorios",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "I. Política Nacional de Inteligencia Artificial (IA)",
+    "quote": "una inversión de $479.000 millones, la cual fue aprobada el 14 de febrero de 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "A. Articulación, coordinación e involucramiento",
+    "quote": "lideran la implementación del CONPES. Adicionalmente, el DNP asume un rol central en la articulación, coordinación y acompañamiento",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CO-01/2026-10-11/secondary.html",
+    "sha256": "90abf82fc8ce05a8e15f82bab3629e3239d7e075a246b80114560c557b0ed889",
+    "locator": "A. Fortalecimiento de la gobernanza y la ética en IA",
+    "quote": "(2) articular un consejo asesor de expertos que oriente la aplicación de las acciones de política en el país e (3) instrumentos normativos para la verificación y cumplimiento de principios éticos",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "now verbatim as the DNP gives it ('Documento CONPES 4144 de 2025: Política Nacional de Inteligencia Artificial'); the old value joined the two parts with a dash and reversed them",
+   "summary": "rewritten from the DNP article: the six axes (four enabling, two cross-cutting), the risk-mitigation measures, the more than 100 actions to 2030 and the issuers, which version 1 took from background knowledge",
+   "safety_topics": "'deepfakes & synthetic media' added for the risk axis's tools against deepfakes and identity impersonation",
+   "notes": "expanded from the DNP article: investment, lead entities and the governance axis's instruments",
+   "scope_note": "added: the policy's main content is AI development and adoption; governance and ethics and risk mitigation are two of its six axes, the case for a scope_note on strategies with a different main focus",
+   "english_version": "recorded as none found (the field was missing)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The normative compilation marks the document 'Versión aprobada' and dated 14 Feb 2025; the DNP article (May 2025) describes its implementation under way, with actions running to 2030. Nothing in the stored files shows it replaced or withdrawn, so it stays 'Published (non-binding, current)'.",
+  "scope_reasoning": "A national AI policy whose main content is development and adoption, with axes on governance and ethics and on preventing AI risks: in scope, with a scope_note as a strategy whose main focus is not safety.",
+  "date_reasoning": "date_published is the approval date on the cover, 14 Feb 2025 ('Bogotá, D.C., 14 de febrero de 2025'; '(febrero 14)'), which the DNP article confirms."
+ },
+ "extra_urls": [
+  {
+   "url": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/4144.pdf",
+   "reason": "The CONPES 4144 policy document itself, as the DNP's SisCONPES link in the stored DNP article points to it; needed to check the summary, the axes and the action plan against the policy text rather than the DNP article. If its host refuses the archiver, the record keeps resting on the compilation and the article."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The CONPES 4144 document itself is not stored (the colaboracion.dnp.gov.co PDF came back without readable text), so the summary and safety topics rest on the DNP's own article about the policy rather than on the policy text; a person could provide the PDF (Provide a document)."
+ ]
+}

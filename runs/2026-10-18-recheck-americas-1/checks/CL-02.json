@@ -1,0 +1,53 @@
+{
+ "cand_id": "CL-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Filed as an Executive message on 7 May 2024 and merged with motion 15869-19",
+   "verdict": "supported",
+   "locator": "descripcion / tramitacion 29/05/2024"
+  },
+  {
+   "claim": "Chamber approved in general 4 Aug 2025 and in particular 13 Oct 2025; now in the Senate's Future Challenges Committee",
+   "verdict": "supported",
+   "locator": "tramitacion 04/08/2025, 13/10/2025, 14/10/2025"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Senate processing record supports title, 7 May 2024 filing date, merged bulletins, votes, dispatch and current stage (second stage, Senate). Searched for a newer stage or text: nothing newer than the 13 Jul 2026 committee session and the 1 Sep 2026 urgency entry. The summary rests on the text the Chamber dispatched, which is not stored (open question left by the extractor)."
+}

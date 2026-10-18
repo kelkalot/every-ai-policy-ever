@@ -1,0 +1,51 @@
+{
+ "cand_id": "US-VA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "judgment-differs",
+   "why": "The last sentence describes how the record's date field was chosen."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Developers and deployers owe a reasonable duty of care against algorithmic discrimination",
+   "verdict": "supported",
+   "locator": "s. 59.1-608 A and 59.1-609 A"
+  },
+  {
+   "claim": "Wilful violations carry a civil penalty of USD 1,000 to 10,000",
+   "verdict": "supported",
+   "locator": "s. 59.1-611 D"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the LIS bill page and enrolled text: vetoed 24 Mar 2025, veto sustained 1 Apr 2025, so Proposed / Lapsed is right. A search for a 2026 successor found that most Virginia AI bills were shelved until 2027 and no new official instrument. The notes end with the sentence 'date_published is the veto date', which is a remark about the record rather than the instrument; a later run could drop it. The Governor's name rests on a secondary source, which the verification note says."
+}

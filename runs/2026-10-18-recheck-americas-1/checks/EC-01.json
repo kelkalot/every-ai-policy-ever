@@ -1,0 +1,71 @@
+{
+ "cand_id": "EC-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "unsupported",
+   "why": "The summary attributes the archived text to the Núñez filing; per the Assembly's own coverage found by search, the committee unified three bills, and no stored file shows which text was archived."
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Núñez bill sorts AI systems into four risk levels and bans mass social scoring, lethal autonomous weapons and indiscriminate surveillance",
+   "verdict": "supported",
+   "locator": "pages 23, 26 (Arts. 7, 9) of the filed bill"
+  },
+  {
+   "claim": "The Plenary archived 'it' on 15 Sep 2026, meaning the filed Núñez bill",
+   "verdict": "unsupported",
+   "locator": "Assembly release of 15 Sep 2026; no stored file ties the archived text to the Núñez filing"
+  }
+ ],
+ "newer_versions": [
+  {
+   "url": "https://www.asambleanacional.gob.ec/es/noticia/118939-cecilia-baltazar-presenta-proyecto-de-ley-sobre-el-uso",
+   "what": "A new, separate AI bill by Cecilia Baltazar presented 1 Sep 2026; also reports that the committee unified three 2024 bills (Núñez, Subía, Correa) into one text in 2025"
+  }
+ ],
+ "extra_urls": [
+  {
+   "url": "https://www.asambleanacional.gob.ec/es/noticia/118939-cecilia-baltazar-presenta-proyecto-de-ley-sobre-el-uso",
+   "reason": "Assembly release of 1 Sep 2026 on a new AI bill by Cecilia Baltazar; to see whether it relates to the archived bill"
+  },
+  {
+   "url": "https://www.asambleanacional.gob.ec/es/node/119394",
+   "reason": "Assembly item on the Plenary debate of the archiving, which may say what text was archived (unified from three 2024 bills)"
+  }
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "The filed bill (trámite 450889, 20 Jun 2024, Patricia Núñez) is well supported, and the Assembly releases support the committee report and the Plenary's archiving on 15 Sep 2026. But the web search shows the Education committee unified three 2024 initiatives (Núñez, Subía, Correa) into a new text in 2025, so the text archived may not be the Núñez bill the summary and the 83-article description rest on. No stored file settles this (the extractor's own note says so). A human should decide whether the record is the Núñez filing, whose later fate was archiving of a unified text, or the unified text. Also found: the Assembly's release of 1 Sep 2026 on a new bill by Cecilia Baltazar on AI use (a separate instrument, a lead)."
+}

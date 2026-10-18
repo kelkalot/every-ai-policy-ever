@@ -1,0 +1,229 @@
+{
+ "cand_id": "AR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AR-01",
+ "record": {
+  "notes": "In force from its publication in the Boletín Oficial on 2 Jun 2023 (Article 3). Annex I is addressed to members of the national public sector who lead AI projects, develop technologies, adopt technologies developed by others or draft the technical specifications for acquiring them; Annex II is a graphic scheme of the stages of AI projects. Argentina's official legal database lists Resolución 111/2024 of the Ministry of Justice (Boletín Oficial, 11 Apr 2024), which creates the National Comprehensive Programme on Artificial Intelligence in Justice, as a norm that complements or modifies the Disposición; no repeal is listed. A separate AAIP resolution of August 2023 created a programme on transparency and personal-data protection in AI use (AR-02).",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the original text of Disposición 2/2023 with Annex I on Argentina's official legal database (argentina.gob.ar, copy of 11 Oct 2026), which gives the number DI-2023-2-APN-SSTI#JGM, the issuing sub-secretariat, the signature (01/06/2023), the publication in the Boletín Oficial (02/06/2023, no. 35182, p. 67), Articles 1-4 and the annex; the Boletín Oficial notice of 2 Jun 2023 (boletinoficial.gob.ar, copy of 11 Oct 2026), with the same text and publication date; and the database's list of norms that complement or modify the Disposición (argentina.gob.ar, copy of 17 Oct 2026), which lists only Resolución 111/2024 of the Ministry of Justice, creating a national programme on AI in justice. The list gives that resolution's title, not its text, so how it relates to the Recommendations is not stated. The Boletín Oficial could not be reached on 17 Oct 2026, so its copy of 11 Oct 2026 is used. Version 1's notes said the database shows no amendment, and that the issuing sub-secretariat was reorganised after December 2023; the first is contradicted by that list and the second rests on no stored file, so both were removed. No English translation by an Argentine public body was found; law-firm summaries in English are not translations."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "page header",
+    "quote": "RECOMENDACIONES PARA UNA INTELIGENCIA ARTIFICIAL FIABLE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Article 1",
+    "quote": "ARTÍCULO 1° - Apruébanse las “Recomendaciones para una Inteligencia Artificial Fiable” que como ANEXO I (DI-2023-61676487-APN-SSTI#JGM) forma parte integrante de la presente medida.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "page header",
+    "quote": "TEXTO ORIGINAL - Disposición 2/2023 - JEFATURA DE GABINETE DE MINISTROS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Article 1",
+    "quote": "Apruébanse las “Recomendaciones para una Inteligencia Artificial Fiable”",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "enacting formula",
+    "quote": "LA SUBSECRETARIA DE TECNOLOGÍAS DE LA INFORMACIÓN de la JEFATURA DE GABINETE DE MINISTROS DISPONE:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "signature",
+    "quote": "ARTÍCULO 4° - Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. Agustina Brizio",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "text header",
+    "quote": "SUBSECRETARÍA DE TECNOLOGÍAS DE LA INFORMACIÓN Disposición 2/2023 DI-2023-2-APN-SSTI#JGM",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "norm data",
+    "quote": "Boletín Oficial número: 35182 Página: 67",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "text header",
+    "quote": "DI-2023-2-APN-SSTI#JGM Ciudad de Buenos Aires, 01/06/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "norm data",
+    "quote": "Sanción: 01-06-2023 Publicada en el Boletín Oficial: 02-06-2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Article 3",
+    "quote": "ARTÍCULO 3° - Establécese que la presente entrará en vigencia desde su publicación en el BOLETÍN OFICIAL.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "publication line after the signature",
+    "quote": "e. 02/06/2023 N° 41133/23 v. 02/06/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/secondary.html",
+    "sha256": "88c68a3ec458473fa648c7cc2160473d1ad97d76969afe8f489053b5930b510e",
+    "locator": "notice footer",
+    "quote": "Fecha de publicación 02/06/2023",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Article 3",
+    "quote": "ARTÍCULO 3° - Establécese que la presente entrará en vigencia desde su publicación en el BOLETÍN OFICIAL.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Annex I, 1.2 Alcance",
+    "quote": "Este manual busca ofrecer herramientas teóricas y prácticas a quienes formen parte del sector público",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "sidebar 'Acerca de esta norma'",
+    "quote": "Modifica o complementa esta norma Es modificada o complementada por esta norma",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-01/extra-b1a661b8cf/2026-10-17/official.html",
+    "sha256": "3fa1d76394b245b0aebda2edcae47849f2c0d291e56f48f2c303fba9fbcfd6c3",
+    "locator": "list 'Esta norma es complementada o modificada por las siguientes'",
+    "quote": "Resolución 111 / 2024 MINISTERIO DE JUSTICIA 11-04-2024 PROGRAMA NACIONAL INTEGRAL DE INTELIGENCIA ARTIFICIAL EN LA JUSTICIA - CREASE",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Annex I, 1.1 Objetivo",
+    "quote": "A través del presente documento se procura recopilar y brindar herramientas para quienes llevan adelante proyectos de innovación pública a través de la tecnología",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Annex I, 1.2 Alcance",
+    "quote": "Este manual busca ofrecer herramientas teóricas y prácticas a quienes formen parte del sector público",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Annex I, 1.2 Alcance",
+    "quote": "ya sea liderando proyectos de innovación, desarrollando tecnologías, adoptando tecnologías desarrolladas por otros equipos técnicos/proveedores, formulando las especificaciones técnicas para esas adquisiciones",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AR-01/2026-10-11/official.html",
+    "sha256": "24e787c6e4c551a923e06ea8e0419aec843c9d94d094eac86a8b8983c60ea924",
+    "locator": "Article 2",
+    "quote": "Apruébase como ANEXO II (DI-2023-61679227-APN-SSTI#JGM el esquema gráfico de las etapas de Proyectos de Inteligencia Artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-01/extra-b1a661b8cf/2026-10-17/official.html",
+    "sha256": "3fa1d76394b245b0aebda2edcae47849f2c0d291e56f48f2c303fba9fbcfd6c3",
+    "locator": "list 'Esta norma es complementada o modificada por las siguientes'",
+    "quote": "Resolución 111 / 2024 MINISTERIO DE JUSTICIA 11-04-2024 PROGRAMA NACIONAL INTEGRAL DE INTELIGENCIA ARTIFICIAL EN LA JUSTICIA - CREASE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/AR-01/extra-b1a661b8cf/2026-10-17/official.html",
+    "sha256": "3fa1d76394b245b0aebda2edcae47849f2c0d291e56f48f2c303fba9fbcfd6c3",
+    "locator": "list, description",
+    "quote": "CREASE EL “PROGRAMA NACIONAL INTEGRAL DE INTELIGENCIA ARTIFICIAL EN LA JUSTICIA” QUE FUNCIONARA BAJO LA ORBITA DE ESTE MINISTERIO.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "version 1 said the official database shows no amendment or repeal, but its list of complementing or modifying norms names Resolución 111/2024 of the Ministry of Justice (a programme on AI in justice), now in the notes; version 1's remark that the issuing sub-secretariat was reorganised after December 2023 rests on no stored file and was removed; the annex's addressees (section 1.2) and Annex II added",
+   "english_version": "the record had none; no English translation by an Argentine public body was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 3 makes the Disposición effective from its publication in the Boletín Oficial, which took place on 2 Jun 2023 (no. 35182, p. 67). It approves recommendations ('Recomendaciones'), and Annex I calls itself a manual offering theoretical and practical tools to the public sector, so it is non-binding guidance. The database's list of norms that complement or modify it (copy of 17 Oct 2026) holds only Resolución 111/2024 of the Ministry of Justice, which creates a programme on AI in justice; nothing stored shows the Recommendations repealed, withdrawn or replaced. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2023-06-01 is the signature ('Sanción: 01-06-2023'; 'Ciudad de Buenos Aires, 01/06/2023'); date_in_force 2023-06-02 is the publication in the Boletín Oficial, from which Article 3 makes it effective.",
+  "scope_reasoning": "Government guidelines on trustworthy AI for AI projects of the national public sector; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Resolución 111/2024 of Argentina's Ministry of Justice, creating the Programa Nacional Integral de Inteligencia Artificial en la Justicia",
+   "url": "https://www.argentina.gob.ar/normativa/nacional/norma-397996",
+   "seen_in": "archive/_runs/2026-10-18-recheck-americas-1/AR-01/extra-b1a661b8cf/2026-10-17/official.html (argentina.gob.ar list of norms that complement or modify Disposición 2/2023)",
+   "why": "Ministry of Justice programme on AI in the justice system, published in the Boletín Oficial on 11 Apr 2024; not in the register."
+  }
+ ],
+ "open_questions": [
+  "The official database lists Resolución 111/2024 of the Ministry of Justice as complementing or modifying Disposición 2/2023 but stores only its title; whether it changes the Recommendations themselves needs its text (the lead above)."
+ ]
+}

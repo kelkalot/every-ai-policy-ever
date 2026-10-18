@@ -1,0 +1,50 @@
+{
+ "cand_id": "UY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "General objective: use AI for sustainable development and inclusive growth through ethical, responsible, safe, critical, creative and pro-innovation development",
+   "verdict": "supported",
+   "locator": "page 21, Objetivo general"
+  },
+  {
+   "claim": "Line 1.2 calls for risk-based regulation, a national analysis of unacceptable uses with possible prohibitions or moratoria, audit frameworks and sandboxes",
+   "verdict": "supported",
+   "locator": "pages 37-39, Línea 1.2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "National AI strategy whose first objective is a governance framework; extractor's scope_note is reasonable."
+ },
+ "overall": "accept",
+ "note": "The 59-page strategy itself is stored and supports the summary; the AGESIC page supports title, 22 Nov 2024 publication and the committee's 21 Nov 2024 approval. Search found no replacement or update; Decree 276/025 regulating art. 74 of Law 20.212 is raised as a lead by the extractor and is not a new strategy."
+}

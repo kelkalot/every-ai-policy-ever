@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-MN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "Enacted and effective, but enforcement is paused by the Eighth Circuit since 2 Oct 2026; the record keeps In force and explains this in the notes."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Owners of a website, app or other service must not let users nudify an image or video of an identifiable individual",
+   "verdict": "supported",
+   "locator": "Subd. 2(a), Subd. 1(d)"
+  },
+  {
+   "claim": "Civil penalty up to USD 500,000 for each unlawful access, download or use",
+   "verdict": "supported",
+   "locator": "Subd. 5(a)"
+  }
+ ],
+ "newer_versions": [
+  "Eighth Circuit order of 2 Oct 2026 pausing enforcement pending xAI's appeal (news reports only; no order stored); AG release of 4 Sep 2026 on ag.state.mn.us not stored"
+ ],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope note kept: the statute does not name AI; it is Minnesota's operative instrument against deepfake nudification tools."
+ },
+ "overall": "accept",
+ "note": "Quotes match the Revisor's session law (signed 7 May 2026, effective 1 Aug 2026) and the bill status page. The scope note is sound: the statute does not name AI, which fits the precedent for non-AI-specific laws. Newer development: the search confirms that on 2 Oct 2026 the Eighth Circuit paused enforcement of the law pending xAI's appeal (several news reports; no court order or official release is stored, and the Attorney General's release of 4 Sep 2026 is not stored). The vocabulary has no status for an enjoined law, so In force with the injunction in the notes is defensible; a maintainer may want to decide. A later run should check the appeal."
+}

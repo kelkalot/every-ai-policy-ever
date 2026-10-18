@@ -1,0 +1,194 @@
+{
+ "cand_id": "PY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PY-01",
+ "record": {
+  "original_title": "Que regula y promueve la creación, desarrollo, innovación e implementación de Sistemas de Inteligencia Artificial (IA)",
+  "summary": "Senate bill to regulate and promote AI systems through risk categorisation. Before being marketed or put into service, every AI system would undergo a preliminary evaluation by its provider to classify its risk; applications with excessive risk would be prohibited and high-risk applications subject to stricter controls. The bill sets transparency and bias-mitigation measures, additional measures for high-risk and government AI systems, and an algorithmic impact assessment procedure. Persons affected by AI systems would have rights to prior information, explanation, challenge of decisions with significant effects, human participation, non-discrimination and data protection.",
+  "notes": "Presented by Sen. Basilio Núñez, President of Congress, with six other senators, and referred to the Senate's advisory committees on Constitutional Affairs; National Defence and Public Force; Legislation, Codification, Justice and Labour; Human Rights; Industry and Commerce; and Science, Technology, Innovation and Future. A co-sponsor, Sen. Natalicio Chase, dates the presentation to 5 May 2025 and describes the bill as based, like the EU's regulation, on risks and fundamental rights. Its explanatory statement reviews AI legislation in the European Union, China and the United States. A separate Chamber of Deputies bill on promoting AI for economic and social development is PY-02.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. CAUTION: the title, date, status and sponsors rest on secondary sources. Stored and read: Última Hora's report of 13 May 2025 on the bill's entry in the Senate (copy of 17 Oct 2026; the copy of 16 Oct 2026 has the same article), which quotes the title, names Sen. Basilio Núñez as the presenter, lists the committee referrals and quotes the bill's passages on risk categorisation and on the rights of affected persons; and La Nación's report of 15 May 2025 (copy of 17 Oct 2026), which names the seven sponsoring senators and quotes Sen. Chase that the bill was presented on 5 May 2025. The summary rests on the passages Última Hora quotes; the bill text was not read. The bill's file on the Congress's legislative information system (SILpy) cannot be stored because the site's robots.txt disallows automated downloads, so official_url and official_identifier stay null. Two Senate news pages on a committee hearing of June 2025 could not be stored (their site's robots.txt answered HTTP 503, which RFC 9309 treats as 'do not crawl'), so version 1's account of that hearing and the ICT ministry's position there stays out of the notes. The day of presentation comes only from a co-sponsor quoted in the press, so date_published keeps the month. No English translation was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, first paragraph",
+    "quote": "presentó en mesa de entrada del Senado el proyecto de ley “Que regula y promueve la creación, desarrollo, innovación e implementación de Sistemas de Inteligencia Artificial (IA)”.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "headline",
+    "quote": "Proyecto que regula la inteligencia artificial ya tuvo entrada en el Senado",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-01/extra-7a939da085/2026-10-17/official.html",
+    "sha256": "a33cc067b88a9eff583ced6adda72e22cc14938f57185502decfc9a8a673a5f1",
+    "locator": "article body, first paragraph",
+    "quote": "un grupo de legisladores presentó un proyecto de Ley que regula y promueve la creación, desarrollo, innovación e implementación de sistemas de inteligencia artificial (IA).",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, first paragraph",
+    "quote": "presentó en mesa de entrada del Senado el proyecto de ley “Que regula y promueve la creación, desarrollo, innovación e implementación de Sistemas de Inteligencia Artificial (IA)”.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "dateline",
+    "quote": "Mayo 13, 2025 02:54 p. m.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "standfirst",
+    "quote": "Basilio Bachi Núñez, presidente del Congreso Nacional, ya remitió al Senado el proyecto de ley que regula la inteligencia artificial en Paraguay.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-01/extra-7a939da085/2026-10-17/official.html",
+    "sha256": "a33cc067b88a9eff583ced6adda72e22cc14938f57185502decfc9a8a673a5f1",
+    "locator": "quoted statement of Sen. Chase",
+    "quote": "“Por eso hemos presentado en Paraguay el 5 de mayo de 2025, una propuesta legislativa que establece un marco legal integral y detallado",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body",
+    "quote": "El proyecto fue remitido a las siguientes comisiones asesoras: Asuntos Constitucionales, Defensa Nacional y Fuerza Pública, Legislación, Codificación, y Justicia y Trabajo.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body",
+    "quote": "También fue destinada a Derechos Humanos, a Industria y Comercio y a la comisión de Ciencias, Tecnología, Innovación y Futuro.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, first paragraph",
+    "quote": "Basilio Bachi Núñez, presidente del Congreso Nacional, presentó en mesa de entrada del Senado el proyecto de ley",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, quoted passage of the bill",
+    "quote": "la propuesta establece la exigencia de evaluación preliminar y define las aplicaciones prohibidas por riesgos excesivos, las aplicaciones de alto riesgo que están sujetas a normas de control más estrictas.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, quoted passage of the bill",
+    "quote": "estableciendo medidas adicionales para los sistemas de alto riesgo y para los sistemas gubernamentales de inteligencia artificial, y el procedimiento para la evaluación de impacto algorítmico",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, 'RIESGOS'",
+    "quote": "previamente a su comercialización o uso en servicio, todo sistema de inteligencia artificial pasará por una evaluación preliminar realizada por el proveedor para la clasificación de su grado de riesgo.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, 'DERECHOS'",
+    "quote": "el derecho a impugnar decisiones o predicciones de sistemas de inteligencia artificial que produzcan efectos jurídicos o que impacten de manera significativa los intereses del afectado",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body",
+    "quote": "En la exposición de motivos, Núñez explica que, a nivel mundial, los proyectos de ley más avanzados en legislación sobre IA están en la Unión Europea, en China y en EEUU.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-01/extra-7a939da085/2026-10-17/official.html",
+    "sha256": "a33cc067b88a9eff583ced6adda72e22cc14938f57185502decfc9a8a673a5f1",
+    "locator": "quoted statement of Sen. Chase",
+    "quote": "“Por eso hemos presentado en Paraguay el 5 de mayo de 2025, una propuesta legislativa que establece un marco legal integral y detallado",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-01/extra-7a939da085/2026-10-17/official.html",
+    "sha256": "a33cc067b88a9eff583ced6adda72e22cc14938f57185502decfc9a8a673a5f1",
+    "locator": "section 'Regulación de la UE'",
+    "quote": "la propuesta legislativa está enfocada en regulaciones similares que son aplicados en la Unión Europea, basado en riesgos y derechos fundamentales.",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-01/extra-7a939da085/2026-10-17/official.html",
+    "sha256": "a33cc067b88a9eff583ced6adda72e22cc14938f57185502decfc9a8a673a5f1",
+    "locator": "article body, first paragraph",
+    "quote": "Los proyectistas son los senadores Basilio Núñez, Natalicio Chase, José Ledesma, Arnaldo Samaniego, Javier Zacarías Irún, Juan Carlos Galaverna Ortega y Mario Varela.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/PY-01/2026-10-17/secondary.html",
+    "sha256": "21fdf9f40ccafbc0c9e6c2d314759287fb853ea9a029084319cbc6b317b6efa6",
+    "locator": "article body, first paragraph",
+    "quote": "Basilio Bachi Núñez, presidente del Congreso Nacional, presentó en mesa de entrada del Senado el proyecto de ley",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "copied verbatim as the stored report quotes it ('Que regula y promueve ... (IA)'); version 1's 'Proyecto de ley que regula ...' was a rendering",
+   "summary": "'As reported' and 'modelled on the EU's risk-based approach' removed (a hedge and an evaluation); rewritten from the bill passages the stored report quotes; the committee referral moved to the notes",
+   "notes": "the co-sponsors and the presentation date given by Sen. Chase (5 May 2025) are back, now from the stored La Nación report; the June 2025 hearing and the ICT ministry's position stay out because the Senate pages could not be stored; the committees are listed by name instead of a count ('Legislación, Codificación, Justicia y Trabajo' is one committee, so six, not seven); the Chamber of Deputies bill is now PY-02",
+   "english_version": "the record had none; none found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored reports of 13 and 15 May 2025 say the bill was presented in the Senate and referred to six advisory committees. No stored file shows a committee opinion, a vote, a withdrawal or a lapse, so 'Draft / proposed' with legal force 'Proposed' stands. The bill's current stage is on SILpy, which cannot be stored, and the Senate's news pages on the June 2025 hearing could not be stored either.",
+  "date_reasoning": "date_published 2025-05: Última Hora (13 May 2025) reports the bill already presented in the Senate, and La Nación (15 May 2025) quotes a co-sponsor dating the presentation to 5 May 2025. No official source gives the day, so the record keeps the month and the notes give the day with its source.",
+  "scope_reasoning": "A comprehensive national AI bill with risk categorisation and prohibitions; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The bill's file on SILpy (a search engine lists it as expediente S-2502197 at silpy.congreso.gov.py/web/expediente/142635) cannot be stored because robots.txt disallows all automated downloads. A person could provide the bill text and file (AGENTS.md section 7.8); that would give official_identifier, official_url, the presentation day and the current stage.",
+  "The Senate's news pages on the committee hearing of 25-26 Jun 2025 could not be stored (robots.txt answered HTTP 503); a later run could retry them for the hearing and any later stage."
+ ]
+}

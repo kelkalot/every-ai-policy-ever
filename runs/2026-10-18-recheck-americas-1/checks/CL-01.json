@@ -1,0 +1,55 @@
+{
+ "cand_id": "CL-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported",
+   "why": "From the decree text on LeyChile (not yet an official host, so counted secondary)."
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "From the decree text on LeyChile (not yet an official host, so counted secondary)."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The policy lays down human control and oversight and robustness/safety principles",
+   "verdict": "supported",
+   "locator": "III. Principios 1(a),(b)"
+  },
+  {
+   "claim": "Axis 3 sets out a comprehensive regulatory framework and ethical and transparency requirements in public procurement",
+   "verdict": "supported",
+   "locator": "IV. Eje 3, 3.1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "A national AI policy with three axes; included as Chile's national AI policy whose 2024 update centres on governance and ethics. Extractor's scope_note is reasonable."
+ },
+ "overall": "accept",
+ "note": "Level C only because leychile.cl is not yet in official-sites.json; the decree text it stores is the Biblioteca del Congreso's. Title, decree number and date (11 Apr 2024), repeal of DS 20/2021 and the ministry's 2 May 2024 release are supported by the stored texts. The Diario Oficial date (28 Jan 2025) rests on the XML's version date, not on a quotation. Search for a newer policy or amending decree found none. A host decision for leychile.cl would lift the level."
+}

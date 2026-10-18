@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-VT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "A corporation or entity shall not provide, advertise or offer mental health services through AI unless a licensed professional provides them",
+   "verdict": "supported",
+   "locator": "page 3-4, 18 V.S.A. s. 7115(b)"
+  },
+  {
+   "claim": "Prohibited AI use is unprofessional conduct under 3 V.S.A. s. 129a",
+   "verdict": "supported",
+   "locator": "page 1, s. 129a(a)(30)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the enacted Act 156 ('Date Governor signed bill: June 17, 2026', effective on passage) and the status page. In force is right. The search found only the same act and secondary summaries. Two leads (H.814, election synthetic media) are unchecked and not in the register."
+}

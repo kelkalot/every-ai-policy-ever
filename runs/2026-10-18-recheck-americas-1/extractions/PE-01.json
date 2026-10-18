@@ -1,0 +1,225 @@
+{
+ "cand_id": "PE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PE-01",
+ "record": {
+  "date_last_updated": null,
+  "summary": "Framework law promoting the use of AI for economic and social development in a secure environment that guarantees its ethical, sustainable, transparent, replicable and responsible use. Its principles include risk-based safety standards, multi-stakeholder participation, ethical development and privacy. It makes the Presidency of the Council of Ministers, through its Secretariat of Government and Digital Transformation, the national technical-normative authority to direct, evaluate and supervise AI use; the authority reports to Congress every year and must immediately inform its Intelligence Committee of serious threats or breaches of national cybersecurity.",
+  "notes": "Approved by Congress on 13 Jun 2023, promulgated on 4 Jul 2023 and published in El Peruano on 5 Jul 2023. The law sets no date of its own for entry into force, so the date recorded is the day after publication, 6 Jul 2023, the Constitution's general rule for laws. Its single final complementary provision required the Executive to approve the regulation within 90 working days of entry into force; the regulation was approved by Supreme Decree No. 115-2025-PCM, signed on 8 Sep 2025 and published on 9 Sep 2025 (record PE-02). Congress's consolidated text shows no amendment of the law.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read Congress's consolidated text of Law No. 31814 (stored 11 Oct 2026 from leyes.congreso.gob.pe, found unchanged on 17 Oct 2026). It confirms the number and title, the approval by Congress on 13 Jun 2023, the promulgation on 4 Jul 2023, the publication in El Peruano on 5 Jul 2023, the principles, the national authority and its reporting duties, and shows no amendment. Also stored in this run: Supreme Decree No. 115-2025-PCM as published in El Peruano (busquedas.elperuano.pe, 17 Oct 2026), which confirms the regulation's number, its signature on 8 Sep 2025 and publication on 9 Sep 2025. The entry-into-force date rests on the Constitution's rule that a law binds from the day after its publication; the copy of the Constitution requested for Article 109 (diresapuno.gob.pe) returned HTTP 404, so that rule is not in a stored file. Bills to amend the law were seen in Congress's bill database but are not stored; none is shown as enacted."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "LEY QUE PROMUEVE EL USO DE LA INTELIGENCIA ARTIFICIAL EN FAVOR DEL DESARROLLO ECONÓMICO Y SOCIAL DEL PAÍS LEY 31814",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "LEY QUE PROMUEVE EL USO DE LA INTELIGENCIA ARTIFICIAL EN FAVOR DEL DESARROLLO ECONÓMICO Y SOCIAL DEL PAÍS LEY 31814",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "EL CONGRESO DE LA REPÚBLICA; Ha dado la Ley siguiente",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "DESARROLLO ECONÓMICO Y SOCIAL DEL PAÍS LEY 31814",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 4",
+    "quote": "Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los cuatro días del mes de julio del año dos mil veintitrés.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "PUBLICADA EL 5 DE JULIO DE 2023 EN EL DIARIO OFICIAL EL PERUANO",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "PUBLICADA EL 5 DE JULIO DE 2023 EN EL DIARIO OFICIAL EL PERUANO",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 4, Disposición complementaria final única",
+    "quote": "El Poder Ejecutivo aprueba el reglamento de la presente ley en el plazo de noventa días hábiles, contados a partir de su entrada en vigor.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 4",
+    "quote": "Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los cuatro días del mes de julio del año dos mil veintitrés.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "PUBLICADA EL 5 DE JULIO DE 2023 EN EL DIARIO OFICIAL EL PERUANO",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1",
+    "quote": "EL CONGRESO DE LA REPÚBLICA; Ha dado la Ley siguiente",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 2, Article 1",
+    "quote": "en un entorno seguro que garantice su uso ético, sostenible, transparente, replicable y responsable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 1, Título preliminar",
+    "quote": "Estándares de seguridad basados en riesgos: Se promueve un enfoque basado en riesgos para el uso y desarrollo de la inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 3, Article 4",
+    "quote": "es la autoridad técnico -normativa a nivel nacional responsable de dirigir, evaluar y supervisar el uso y la promoción del desarrollo de la inteligencia artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 4, Article 5",
+    "quote": "En el caso de que se identifique amenazas graves o vulneración de ciberseguridad nacional, la Autoridad Nacional informa inmediatamente a la Comisión de Inteligencia del Congreso de la República.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 4",
+    "quote": "En Lima, a los trece días del mes de junio de dos mil veintitrés.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PE-01/extra-58a35aa046/2026-10-17/official.html",
+    "sha256": "842ccb249adf8098e69f92efebd6a84b1dc9b195e0d7779cd4a2c4d23969ff16",
+    "locator": "page heading",
+    "quote": "Fecha de publicación: 09/09/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PE-01/extra-58a35aa046/2026-10-17/official.html",
+    "sha256": "842ccb249adf8098e69f92efebd6a84b1dc9b195e0d7779cd4a2c4d23969ff16",
+    "locator": "heading",
+    "quote": "Decreto Supremo que aprueba el Reglamento de la Ley Nº 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PE-01/extra-58a35aa046/2026-10-17/official.html",
+    "sha256": "842ccb249adf8098e69f92efebd6a84b1dc9b195e0d7779cd4a2c4d23969ff16",
+    "locator": "heading",
+    "quote": "DECRETO SUPREMO nº 115-2025-pcm",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PE-01/extra-58a35aa046/2026-10-17/official.html",
+    "sha256": "842ccb249adf8098e69f92efebd6a84b1dc9b195e0d7779cd4a2c4d23969ff16",
+    "locator": "closing formula",
+    "quote": "Dado en la Casa de Gobierno, en Lima, a los ocho días del mes de setiembre del año dos mil veinticinco.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PE-01/2026-10-11/official.pdf",
+    "sha256": "bd1d7428b4be4809a125375e9bce898bdc6306be47a581c2daeebf76f4045ae0",
+    "locator": "page 4, Disposición complementaria final única",
+    "quote": "El Poder Ejecutivo aprueba el reglamento de la presente ley en el plazo de noventa días hábiles, contados a partir de su entrada en vigor.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "set to null: 9 Sep 2025 is the publication of Supreme Decree No. 115-2025-PCM, a separate implementing regulation (record PE-02), not an amendment or new version of the law; Congress's consolidated text shows no amendment. The regulation stays in the notes",
+   "summary": "made more precise from the law's text: the 'secure environment' objective, the principles, the authority's role, and that serious threats or national-cybersecurity breaches are reported to Congress's Intelligence Committee",
+   "notes": "rewritten: the in-force date stated as the result of the general constitutional rule rather than as an assumption, the 90-working-day deadline for the regulation added, the regulation's signature and publication dates now quoted from the stored El Peruano copy of DS 115-2025-PCM, and the absence of amendments recorded",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The law was promulgated on 4 Jul 2023 ('Mando se publique y cumpla') and published in El Peruano on 5 Jul 2023. It contains no vacatio legis, so under Article 109 of the Constitution it has bound since the day after publication, 6 Jul 2023, which is before 18 Oct 2026. Congress's consolidated text shows no repeal or amendment, so 'In force' stands.",
+  "scope_reasoning": "An AI-specific framework law with a risk-based safety principle and a national AI authority; in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the promulgation date, 4 Jul 2023 ('a los cuatro días del mes de julio del año dos mil veintitrés'); date_in_force is 6 Jul 2023, the day after publication in El Peruano on 5 Jul 2023, by the constitutional rule. date_last_updated is cleared because the law has not been amended."
+ },
+ "extra_urls": [
+  {
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2436426-1",
+   "reason": "Supreme Decree No. 115-2025-PCM approving the Regulation of Law No. 31814, as published in El Peruano (the official source of record PE-02); needed so that the notes' statement of the regulation's number and publication date (9 Sep 2025) rests on a stored copy for this record."
+  },
+  {
+   "url": "https://www.diresapuno.gob.pe/wp-content/uploads/2020/10/CPP-Constitucion-Politica-del-Peru-marzo-2019.pdf",
+   "reason": "The Ministry of Justice's official edition of the Constitution of Peru (March 2019), for Article 109 (a law is binding from the day after its publication in the official gazette unless it postpones its own entry into force), on which date_in_force (6 Jul 2023) rests."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Peru: bills to amend Law No. 31814 (for example Bill 13553/2025-CR on Article 4, and a Somos Perú bill extending the law to AI in the private business sector)",
+   "seen_in": "https://api.congreso.gob.pe/spley-portal-service/archivo/MzY5ODk0/pdf",
+   "why": "Pending amendment bills of the 2021-2026 Congress, seen only in search results of Congress's bill database; whether they lapsed with the change of legislature in July 2026 needs checking before a record is made."
+  }
+ ],
+ "open_questions": [
+  "date_in_force (6 Jul 2023) rests on the Constitution's rule that a law binds from the day after publication (Article 109); the requested copy of the Constitution returned HTTP 404, so the rule itself is not in a stored file. The law's own text shows the publication date (5 Jul 2023) and no later date of entry into force."
+ ]
+}

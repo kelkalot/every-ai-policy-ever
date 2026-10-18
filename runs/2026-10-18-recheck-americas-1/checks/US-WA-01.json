@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-WA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Disclosure that the chatbot is artificially generated at the start and at least every three hours; hourly for minors",
+   "verdict": "supported",
+   "locator": "page 4, s. 3(2)(b); page 5, s. 4(2)(b)"
+  },
+  {
+   "claim": "Operators publicly disclose the number of crisis referral notifications",
+   "verdict": "supported",
+   "locator": "page 6, s. 5(3)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Quotes match the Legislature's bill page (signed 24 Mar 2026, effective 1 Jan 2027) and the certified session law, Chapter 168, Laws of 2026, stored as the secondary source (level A from the bill page). Status Adopted, not yet in force is right at 18 Oct 2026. The search found law-firm notes on the same facts and no amendment."
+}

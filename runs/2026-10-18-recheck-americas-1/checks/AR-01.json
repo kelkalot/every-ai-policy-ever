@@ -1,0 +1,53 @@
+{
+ "cand_id": "AR-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Annex I is addressed to public-sector members who lead AI projects, develop or adopt technologies or draft specifications",
+   "verdict": "supported",
+   "locator": "Annex I, 1.2 Alcance"
+  },
+  {
+   "claim": "In force from publication in the Boletín Oficial on 2 Jun 2023",
+   "verdict": "supported",
+   "locator": "Article 3; norm data"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Official database text supports every field. Resolución 111/2024 of the Ministry of Justice is listed as complementing the Disposición; I read its text on argentina.gob.ar (norma-397996) and it cites the Disposición only in its recitals and neither modifies nor repeals it, so status stands. Search found no repeal."
+}

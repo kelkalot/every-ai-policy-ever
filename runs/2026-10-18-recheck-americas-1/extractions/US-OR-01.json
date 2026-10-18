@@ -1,0 +1,285 @@
+{
+ "cand_id": "US-OR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-OR-01",
+ "record": {
+  "issuing_body": "Oregon Legislative Assembly (sponsor Sen. Lisa Reynolds); signed by Governor Tina Kotek",
+  "official_identifier": "SB 1546 (2026)",
+  "summary": "Requires operators of AI chatbots to tell users they are interacting with AI, not a human, and to keep protocols that prevent outputs causing suicidal thoughts and refer users who express suicidal ideation or interest in self-harm to mental health and crisis resources, reporting such referrals yearly to the Oregon Health Authority. Where the operator has reason to believe a user is a minor, the chatbot must warn that it may not suit minors, remind the user hourly that it is AI and to take a break, and must not produce sexually explicit content, use rewards designed to maximise engagement or voice distress when the user wants to leave. Harmed users may sue for damages and an injunction.",
+  "notes": "The Senate passed it 26-1 and the House 52-0, with final legislative approval on 5 Mar 2026. Governor Tina Kotek signed it on 31 Mar 2026, and on 7 May 2026 listed it among the bills of a bill-signing ceremony at the University of Oregon's Ballmer Institute. Its requirements take effect on 1 Jan 2027. A chatbot interacting with a minor may not misrepresent its identity or claim to be anything other than an AI system.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Governor of Oregon's newsroom post of 7 May 2026 (stored from apps.oregon.gov on 11 Oct 2026) and the Transparency Coalition article with its 1 Apr 2026 update (stored again on 17 Oct 2026; only the byline's capitalisation changed). The Governor's post confirms that the Governor signed Senate Bill 1546, which requires AI chatbot operators to disclose artificial interactions and to safeguard users, especially minors, against self-harm and suicidal ideation, and names Sen. Lisa Reynolds. The signing date (31 Mar 2026, the day before the article's 1 Apr 2026 update), the votes, the effective date of 1 Jan 2027, the duties for minors, the yearly reporting to the Oregon Health Authority and the private right of action rest on the Transparency Coalition article (secondary). The Legislature's OLIS overview of SB 1546 and its enrolled text could not be stored: the archiver's connections timed out on 17 Oct 2026, as on earlier runs. So the enrolled bill, its chapter number in Oregon Laws 2026 and the damages per violation given in version 1 (USD 1,000) are not confirmed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "The Governor also signed Senate Bill 1546 that requires AI chatbot operators to disclose artificial interactions and implement safeguards to protect users – especially minors – from self-harm or suicidal ideation.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "The Governor also signed Senate Bill 1546 that requires AI chatbot operators to disclose artificial interactions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "Governor Tina Kotek signed bills",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "Why this bill matters",
+    "quote": "Oregon’s SB 1546, sponsored by Sen. Lisa Reynolds",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026, quote of Senator Reynolds",
+    "quote": "“SB 1546B requires that when people are at their lowest, chatbots refer them to mental health experts and crisis lines",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "The Governor also signed Senate Bill 1546",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "update of April 1, 2026",
+    "quote": "Oregon Gov. Tina Kotek yesterday signed SB 1546 into law.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "update of April 1, 2026 (top of the article)",
+    "quote": "Oregon Gov. Tina Kotek yesterday signed SB 1546 into law.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "update of April 1, 2026 (top of the article)",
+    "quote": "The provisions and requirements specified in the measure will become effective on Jan. 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "The Governor also signed Senate Bill 1546",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "update of April 1, 2026 (top of the article)",
+    "quote": "The provisions and requirements specified in the measure will become effective on Jan. 1, 2027.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "The Governor also signed Senate Bill 1546",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "requires AI chatbot operators to disclose artificial interactions and implement safeguards to protect users – especially minors – from self-harm or suicidal ideation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "bill summary",
+    "quote": "tell users they are talking to AI, not a human,",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "bill summary",
+    "quote": "implement protocols for preventing outputs that cause suicidal feelings or thoughts,",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "identify when a user (of any age) indicates suicidal ideation or interest in self-harm, and to refer the user to appropriate mental health resources",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026, quote of Senator Reynolds",
+    "quote": "chatbots refer them to mental health experts and crisis lines",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "bill summary",
+    "quote": "report each year to the Oregon Health Authority concerning incidents in which users were referred to resources to prevent suicidal ideation, suicide, or self-harm",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "who the operator has reason to believe may be a minor",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "state, up front, that the chatbot may not be suitable for kids",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "This reminder must be repeated at least once per hour.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "that the user should take a break from interacting with the chatbot",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "the chatbot does not produce sexually explicit content",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "deliver a system of rewards or affirmations designed to maximize a minor’s engagement time with the chatbot",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "generating messages of emotional distress, loneliness, or abandonment in response to a user’s desire to end a conversation or delete an account",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "bill summary",
+    "quote": "allows a user who has suffered ascertainable harm to bring an action for damages and injunctive relief",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "entry of March 5, 2026",
+    "quote": "It passed the Senate on a 26-1 vote and was approved by the House, 52-0.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "entry of March 5, 2026",
+    "quote": "Oregon legislators earlier this morning gave final approval to SB 1546",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "update of April 1, 2026 (top of the article)",
+    "quote": "Oregon Gov. Tina Kotek yesterday signed SB 1546 into law.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release header",
+    "quote": "Press Release · May 7, 2026 Governor Kotek Signs Bills to Strengthen Oregon’s Behavioral Health Workforce",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-11/official.html",
+    "sha256": "6fc959b3544b192d77808cc898a30c33a6e15d44cb70ec36b669bde6b4a118b6",
+    "locator": "press release of May 7, 2026",
+    "quote": "During a bill signing ceremony today at the University of Oregon’s Ballmer Institute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-OR-01/2026-10-17/secondary.html",
+    "sha256": "261c85dc4219397c95645ba7ca156632328fd85343dabdb74008896f0df43093",
+    "locator": "what's in it specifically for families and kids",
+    "quote": "The bill prohibits a chatbot interacting with a minor from misrepresenting the chatbot’s identity",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "'2026 Regular Session' and 'chief sponsor' are not in the stored files; reduced to what the Governor's post and the article show (sponsor Sen. Lisa Reynolds, signed by Governor Tina Kotek)",
+   "official_identifier": "'reported as Chapter 85, 2026 Oregon Laws' removed: no stored file gives a chapter number, and 'reported' is a hedge",
+   "summary": "rewritten from the stored files: the 'reasonable person' trigger, the 988 lifeline and the USD 1,000 damages are not in them; the minors' duties, the yearly reports to the Oregon Health Authority and the private right of action follow the stored article",
+   "notes": "rewritten: 'reported signed' hedge removed (the source moves to verification.note), the 7 May 2026 ceremony described as the Governor's post does, and the identity rule for minors added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Governor's official post says 'The Governor also signed Senate Bill 1546'. The Transparency Coalition update of 1 Apr 2026 says the Governor signed it 'yesterday' and that its requirements 'will become effective on Jan. 1, 2027'. 1 Jan 2027 is after 18 Oct 2026, so 'Adopted, not yet in force' stands; the effective date rests on the secondary article only.",
+  "scope_reasoning": "An AI-specific state law on chatbot disclosure and self-harm safeguards, especially for minors; in scope with no note (unchanged).",
+  "date_reasoning": "date_published 31 Mar 2026: the article's update dated 1 Apr 2026 says the Governor signed the bill 'yesterday'; the Governor's post of 7 May 2026 describes a later bill-signing ceremony, not the date of signature. Both dates rest on secondary evidence for now. date_in_force 1 Jan 2027 from the same article."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published (31 Mar 2026), date_in_force (1 Jan 2027), the votes and most of the summary rest on the Transparency Coalition article (secondary); the Governor's own post confirms only that the bill was signed and its core duties, so the record is level C. The Legislature's hosts (olis.oregonlegislature.gov) time out for the archiver; a person could provide the enrolled bill and the OLIS overview (https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546, .../Downloads/MeasureDocument/SB1546/Enrolled) with the 'Provide a document' form.",
+  "Version 1's official_identifier gave 'Chapter 85, 2026 Oregon Laws' and its summary 'USD 1,000 per violation' and a 'reasonable person' trigger for the disclosure; these were removed because no stored file shows them and should be restored if the enrolled bill or OLIS confirms them."
+ ]
+}

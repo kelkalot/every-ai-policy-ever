@@ -1,0 +1,208 @@
+{
+ "cand_id": "PY-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PY-02",
+ "record": {
+  "original_title": "Que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país",
+  "issuing_body": "Chamber of Deputies of Paraguay; bill by Deputies Rodrigo Gamarra, Rocío Abed, Miguel Del Puerto, Del Pilar Vázquez and Hugo Meza",
+  "summary": "Chamber of Deputies bill declaring the development and implementation of AI of national interest as a strategic tool for modernising the country's sectors. In 20 articles it would make the ICT ministry (MITIC) the enforcement authority, in charge of national AI policies, supervision and a National Register of AI Systems; set principles for ethical AI use stressing privacy, prevention of bias and discrimination, and algorithmic transparency; prohibit AI for indiscriminate surveillance; require ethical audits of systems affecting fundamental rights; set sanctions for misuse; and create a National Committee on AI Ethics and Regulation, with tax incentives, research and education measures.",
+  "safety_topics": [
+   "prohibited practices",
+   "evaluation & testing",
+   "transparency & labelling",
+   "accountability & liability",
+   "research priorities"
+  ],
+  "notes": "Presented in the Chamber of Deputies shortly before 1 May 2025 by five deputies; a press report of 1 May 2025 also names Deputies Carlos Núñez Salinas and Johanna Ortega among its sponsors. The Chamber's bulletin item of 2 May 2025 gives the title as 'Que promueve el uso de la Inteligencia Artificial (IA) en favor del desarrollo económico, social, científico y cultural del país'; later references give the shorter title. The Committee on Social Equity and Equal Rights of Men and Women, chaired by Deputy Abed, convened a public hearing on the bill for 4 Jun 2025. On 27 Oct 2025 the Committee on National Defence, Security, Intelligence and Internal Order continued studying it; it still awaited technical opinions from MITIC, which would be the main regulator, and from the Ministry of the Interior. A separate Senate bill regulating AI systems, presented in May 2025, is PY-01.",
+  "scope_note": null,
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: two weekly bulletins of the Chamber of Deputies (diputados.gov.py, copies of 17 Oct 2026): one with an item of 2 May 2025 (page 8) on the bill's presentation by five deputies, its title, its 20 articles and their content, and one with an item of 27 Oct 2025 (page 13) on the Defence committee's study of the bill and the opinions it awaited; La Nación's report of 1 May 2025 (copy of 17 Oct 2026) on the presentation, the aims of the explanatory statement and seven sponsors; and La Nación's report of 1 Jun 2025 announcing the Social Equity committee's public hearing for 4 Jun 2025. The bill text was not read: its SILpy file (expediente D-2584139, file 142181, as the Morrison & Foerster AI tracker lists it) cannot be stored because the site's robots.txt disallows automated downloads, so official_identifier and official_url stay null, and the summary rests on the Chamber's bulletin. The bulletins and the press differ on the title's wording and on the number of sponsors; the record follows the Chamber's latest wording and its list of sponsors. No stored file shows whether the June hearing took place or any stage after 27 Oct 2025."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-237152493b/2026-10-17/official.pdf",
+    "sha256": "c82d390f80926c32f3d8edf690a340259607c47dda11d8482a26d8373c1734db",
+    "locator": "page 13, item of 27 Oct 2025",
+    "quote": "En la misma reunión, la comisión asesora continuó el estudio del proyecto de ley “Que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PY-02/2026-10-17/secondary.html",
+    "sha256": "7e83385e6ba45806988d41861a096a77f6a92812b33da494229b113bc150c468",
+    "locator": "article body, first paragraph",
+    "quote": "invita a participar de la audiencia pública en que será analizado el proyecto de ley “que promueve el uso de la inteligencia artificial a favor del desarrollo económico y social del país”.",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-237152493b/2026-10-17/official.pdf",
+    "sha256": "c82d390f80926c32f3d8edf690a340259607c47dda11d8482a26d8373c1734db",
+    "locator": "page 13, item of 27 Oct 2025",
+    "quote": "En la misma reunión, la comisión asesora continuó el estudio del proyecto de ley “Que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-8f1de32928/2026-10-17/official.html",
+    "sha256": "cb6b19c2b46efcd048a4995b0c87c2624b5087b14958f3d83e6f63d77578ab6f",
+    "locator": "article body, first paragraph",
+    "quote": "En la Cámara de Diputados, se presentó recientemente el proyecto de ley que promueve el uso de la Inteligencia Artificial en favor del desarrollo económico y social del país.",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "La iniciativa, impulsada por los diputa - dos Rodrigo Gamarra (ANR-Central); Ro - cío Abed (ANR-Alto Paraná); Miguel Del Puerto (ANR-Caaguazú); Del Pilar Váz - quez (PLRA-Itapúa); y Hugo Meza (ANR- Cordillera)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "Presentan proyecto de ley para regular y promover la inteligencia artificial en el país 2 mayo 2025 Un grupo de cinco legisladores de la Cámara de Diputados presentó un pro - yecto de ley",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "Presentan proyecto de ley para regular y promover la inteligencia artificial en el país 2 mayo 2025 Un grupo de cinco legisladores de la Cámara de Diputados presentó un pro - yecto de ley",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-8f1de32928/2026-10-17/official.html",
+    "sha256": "cb6b19c2b46efcd048a4995b0c87c2624b5087b14958f3d83e6f63d77578ab6f",
+    "locator": "dateline and first paragraph",
+    "quote": "1 de mayo de 2025 a las 18:45 Compartir en redes En la Cámara de Diputados, se presentó recientemente el proyecto de ley",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-237152493b/2026-10-17/official.pdf",
+    "sha256": "c82d390f80926c32f3d8edf690a340259607c47dda11d8482a26d8373c1734db",
+    "locator": "page 13, item of 27 Oct 2025",
+    "quote": "En la misma reunión, la comisión asesora continuó el estudio del proyecto de ley “Que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-237152493b/2026-10-17/official.pdf",
+    "sha256": "c82d390f80926c32f3d8edf690a340259607c47dda11d8482a26d8373c1734db",
+    "locator": "page 13, item of 27 Oct 2025",
+    "quote": "El presidente de la comisión asesora informó que este proyecto aún aguarda el dictamen tecnico del Ministerio de Tecnologías de la Información y Comunicación (MITIC), que será el órgano regulador principal",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "Presentan proyecto de ley para regular y promover la inteligencia artificial en el país 2 mayo 2025 Un grupo de cinco legisladores de la Cámara de Diputados presentó un pro - yecto de ley",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "declara de interés nacional el desarrollo e implementación de la IA como herramienta estratégica para mo - dernizar diversos sectores del país.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "Designa al Ministerio de Tecnologías de Información y Comunicación (MITIC), como autoridad de aplicación, encargado de formular políticas nacionales de IA, supervi- sar su implementación, y crear un Registro Nacional de Sistemas de Inteligencia Artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "En esencia, prohíbe el uso de IA para vigilancia indiscriminada y establece la obligatoriedad de auditorías éticas para sistemas que impacten en derechos fundamentales.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "previendo la creación de un Comité Nacional de Ética y Regula- ción en IA para este fin.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-8f1de32928/2026-10-17/official.html",
+    "sha256": "cb6b19c2b46efcd048a4995b0c87c2624b5087b14958f3d83e6f63d77578ab6f",
+    "locator": "article body",
+    "quote": "El proyecto de ley es impulsado por los diputados Rodrigo Gamarra, Rocío Abed, Miguel del Puerto, Del Pilar Vázquez, Hugo Meza, Carlos Núñez Salinas y Johanna Ortega.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-b30b23d273/2026-10-17/official.pdf",
+    "sha256": "c4c61dbb0b76bfedffcb55bf2525f9ee4678154061eeb8bb128b0626c347488a",
+    "locator": "page 8, item of 2 May 2025",
+    "quote": "“Que promueve el uso de la Inteligencia Artificial (IA) en favor del desarrollo económico, social, científico y cultural del país”.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PY-02/2026-10-17/secondary.html",
+    "sha256": "7e83385e6ba45806988d41861a096a77f6a92812b33da494229b113bc150c468",
+    "locator": "article body, first paragraph",
+    "quote": "La Comisión de Equidad Social e Igualdad de Derechos del Hombre y la Mujer, presidida por la diputada Rocío Abed, invita a participar de la audiencia pública",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-237152493b/2026-10-17/official.pdf",
+    "sha256": "c82d390f80926c32f3d8edf690a340259607c47dda11d8482a26d8373c1734db",
+    "locator": "page 13, item of 27 Oct 2025",
+    "quote": "La Comisión de Defensa Na - cional, Seguridad, Inteligencia y Orden Interno, presidida por el diputado Pedro Ortiz",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/PY-02/extra-237152493b/2026-10-17/official.pdf",
+    "sha256": "c82d390f80926c32f3d8edf690a340259607c47dda11d8482a26d8373c1734db",
+    "locator": "page 13, item of 27 Oct 2025",
+    "quote": "El presidente de la comisión asesora informó que este proyecto aún aguarda el dictamen tecnico del Ministerio de Tecnologías de la Información y Comunicación (MITIC), que será el órgano regulador principal",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "'en favor del' instead of 'a favor del': the Chamber's bulletin of October 2025 and La Nación's report of 1 May 2025 agree on 'en favor del desarrollo económico y social del país'; only the report of 1 Jun 2025 has 'a favor'",
+   "issuing_body": "the Chamber's own bulletin names five sponsors; version 1's seven came from the press, and the other two are now in the notes",
+   "summary": "rewritten from the Chamber's bulletin item of 2 May 2025 on the bill's 20 articles (enforcement authority, register, ban on indiscriminate surveillance, ethical audits, sanctions, ethics committee); version 1 rested on the explanatory statement's general aims as the press reported them",
+   "safety_topics": "'prohibited practices' (ban on AI for indiscriminate surveillance), 'evaluation & testing' (mandatory ethical audits) and 'transparency & labelling' (algorithmic transparency) added from the bulletin; 'research priorities' and 'accountability & liability' (sanctions for misuse) kept",
+   "notes": "sponsor and title discrepancies between sources, and the committee stage of 27 Oct 2025, added; presentation date and hearing kept",
+   "scope_note": "removed: the Chamber's bulletin describes a comprehensive regulatory framework (enforcement authority, register, a prohibition, mandatory audits, sanctions), so this is a pending AI-specific bill, in scope with no note",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Chamber's bulletin reports that on 27 Oct 2025 the Committee on National Defence, Security, Intelligence and Internal Order continued studying the bill, which still awaited technical opinions from MITIC and the Ministry of the Interior. No stored file shows a committee opinion, a floor vote, a withdrawal or a lapse after that, so 'Draft / proposed' with legal force 'Proposed' stands.",
+  "date_reasoning": "date_published 2025: the bill was presented shortly before 1 May 2025 (La Nación of 1 May 2025: 'se presentó recientemente'; the Chamber's bulletin item of 2 May 2025: 'presentó'). Neither gives the day, and the month could be April or May, so the record keeps the year.",
+  "scope_reasoning": "A pending national AI bill with an enforcement authority, a register of AI systems, a prohibition, mandatory ethical audits and sanctions; in scope with no note (AGENTS.md section 10 lists pending bills among the instruments in scope with no note)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The bill text and its official title are on SILpy, which cannot be stored (robots.txt). The Chamber's bulletin of 2 May 2025 gives a longer title ('... en favor del desarrollo económico, social, científico y cultural del país') than its bulletin of 27 Oct 2025 and the press, and La Nación lists two more sponsors than the Chamber. A person could provide the bill (AGENTS.md section 7.8) to settle the title, the sponsors, the presentation day and the expediente number.",
+  "No stored file shows the bill's stage after 27 Oct 2025."
+ ]
+}

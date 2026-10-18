@@ -1,0 +1,198 @@
+{
+ "cand_id": "BO-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BO-01",
+ "record": {
+  "issuing_body": "Plurinational Legislative Assembly of Bolivia – Chamber of Senators (approved text), transmitted to the Chamber of Deputies for review",
+  "date_last_updated": null,
+  "notes": "The Chamber of Senators approved the text on 22 Oct 2025, and its President transmitted it the same day to the Chamber of Deputies under Article 163(5) of the Constitution; the Chamber received it on 29 Oct 2025. By note of 27 Apr 2026 a deputy asked the Chamber's President, under Article 117 of its General Rules, to reinstate ('reposición') the bill so that its treatment continues in the current legislative year; the Chamber lists it among bills under review. The bill also provides fiscal, financial and administrative incentives for AI research and innovation (Article 15), requires the Executive to regulate it within 90 days of publication and to amend Supreme Decree No. 2514 of 9 Sep 2015, and gives AGETIC 180 days to issue technical guidelines and the national AI strategy.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Chamber of Deputies' scan of PL-CS-178-2024-2025 (read by OCR) and its listing of bills under review, both stored on 12 Oct 2026 from diputados.gob.bo and found unchanged by the archiver on 17 Oct 2026. The scan confirms the number and title, the Senate's text of 22 Oct 2025 with its 31 articles and two additional provisions, the transmittal note of 22 Oct 2025 (received 29 Oct 2025) and the reposición request of 27 Apr 2026; the listing shows the bill among bills under review. The sponsor's name (Sen. Claudia Egüez, Creemos) rested only on press reports (Correo del Sur, 23 Oct 2025; DPL News, 27 Oct 2025) that are not stored, so it was taken out of the issuing body. No later stage in the Chamber of Deputies (committee report or vote) appears in the stored files. The OCR text may contain minor character errors. No English version of the bill was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 2",
+    "quote": "el Proyecto de Ley N° 178/2024-2025 C.S. “PROMOCIÓN, GESTIÓN Y USO DE LA INTELIGENCIA ARTIFICIAL”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/secondary.html",
+    "sha256": "5e33b2abc778ff80da16aa4066680840248bdcfa0607758faa894b755b50c58e",
+    "locator": "Proyectos de Ley en Revisión, PLS Nº 178/2024-2025",
+    "quote": "PROYECTO DE LEY \"PROMOCION, GESTION Y USO DE LA INTELIGENCIA ARTIFICIAL\"",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 2",
+    "quote": "el Proyecto de Ley N° 178/2024-2025 C.S. “PROMOCIÓN, GESTIÓN Y USO DE LA INTELIGENCIA ARTIFICIAL”",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 11",
+    "quote": "Remítase a la Camara de Diputados, para fines constitucionales de revisión. Es dada en la Asamblea Legislativa Plurinacional",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 11",
+    "quote": "PRESIDENTE CAMARA DE SENADORES",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 2",
+    "quote": "De conformidad con lo previsto en el numeral 5 del Artículo 163 de la Constitución Política del Estado, adjunto a la presente me permito remitir a la Cámara de Diputados",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 2",
+    "quote": "el Proyecto de Ley N° 178/2024-2025 C.S.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 1",
+    "quote": "Proyecto de Ley: PL-CS-N°178/2024-2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 11",
+    "quote": "Es dada en la Asamblea Legislativa Plurinacional, a los veintidós días del mes de octubre del año dos mil veinticinco.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 2",
+    "quote": "La Paz, 22 de octubre de 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 1",
+    "quote": "se proceda a la REPOSICIÓN del siguiente Proyecto de Ley, para la continuidad de su tratamiento en la presente gestión legislativa",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 1",
+    "quote": "La Paz, 27 de abril de 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/secondary.html",
+    "sha256": "5e33b2abc778ff80da16aa4066680840248bdcfa0607758faa894b755b50c58e",
+    "locator": "Proyectos de Ley en Revisión, PLS Nº 178/2024-2025",
+    "quote": "PROYECTO DE LEY \"PROMOCION, GESTION Y USO DE LA INTELIGENCIA ARTIFICIAL\" 2026 Proyecto de Ley en Revisión",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 11",
+    "quote": "Remítase a la Camara de Diputados, para fines constitucionales de revisión.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 2",
+    "quote": "29 OCT 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 1",
+    "quote": "En virtud al Artículo 117 del Reglamento General de la Cámara de Diputados",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 8, Article 15",
+    "quote": "El Estado establecerá incentivos fiscales, financieros y administrativos para promover la investigación, desarrollo e innovación en Inteligencia Artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 11, Additional Provisions",
+    "quote": "El Órgano Ejecutivo mediante Decreto Supremo reglamentará la presente ley en lo pertinente en el plazo de 90 días desde su publicación. En el mismo plazo establecerá las modificaciones al Decreto Supremo No 2514 de 9 de septiembre de 2015.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BO-01/2026-10-12/official.pdf",
+    "sha256": "517bb5c18e98f02d8b63195711511b0007f0a32695ed5b2ba38bf0497cb37876",
+    "locator": "page 11, Additional Provisions",
+    "quote": "en el plazo de 180 dias a partir de la publicación de la presente ley deberá elaborar los lineamientos técnicos necesarios y la Estrategia Nacional señalada en la presente ley",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the sponsor's name and party rest only on unstored press reports; the stored scan names the Chamber of Senators (its President and First Secretary sign the text) and the transmission to the Chamber of Deputies",
+   "date_last_updated": "set to null: 27 Apr 2026 is a deputy's request to reinstate the bill for the new legislative year, not an amendment or new version; the latest text is the Senate's text of 22 Oct 2025, already date_published",
+   "notes": "rewritten from the stored scan: the Senate approval date now rests on the text's own closing formula, the reposición request's legal basis, and the bill's incentives and additional provisions added; the remark on the unconfirmed Senate filing date and the press reference moved to verification.note",
+   "english_version": "recorded as none found (the field was missing)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The latest events in the stored files are the Senate's text of 22 Oct 2025 ('Remítase a la Camara de Diputados, para fines constitucionales de revisión'), its receipt by the Chamber of Deputies on 29 Oct 2025, and a deputy's request of 27 Apr 2026 to reinstate the bill for continued treatment in the current legislative year. The Chamber's listing (stored 12 Oct 2026, unchanged on 17 Oct 2026) shows it as 'Proyecto de Ley en Revisión'. No approval by the Chamber of Deputies or promulgation appears, so the bill is still 'Draft / proposed' with legal force 'Proposed'.",
+  "scope_reasoning": "An AI-specific bill with prohibited practices, rights against solely automated decisions, transparency duties and a regulator; a pending bill is in scope with no note (unchanged).",
+  "date_reasoning": "date_published stays 22 Oct 2025, the date the Chamber of Senators gave the approved text ('a los veintidós días del mes de octubre del año dos mil veinticinco') and transmitted it ('La Paz, 22 de octubre de 2025'). date_last_updated is cleared because no new version of the text appears after that date."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Bolivia: Bill PL 310/2025-2026 establishing a general framework for the development, implementation and use of AI systems, and Bill PL 288/2025-2026 proposing a risk-based AI framework",
+   "seen_in": "https://www.mofo.com/artificial-intelligence/bolivia",
+   "why": "Two further AI framework bills of the 2025-2026 legislative year named in a law-firm guide; neither is in the register. Their numbers and chambers need checking on diputados.gob.bo or senado.gob.bo."
+  }
+ ],
+ "open_questions": []
+}

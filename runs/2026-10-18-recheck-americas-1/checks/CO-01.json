@@ -1,0 +1,53 @@
+{
+ "cand_id": "CO-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "More than 100 actions to 2030 under six axes, four enabling and two cross-cutting",
+   "verdict": "supported",
+   "locator": "II. Ejes (DNP article)"
+  },
+  {
+   "claim": "Axis 5 covers risk prevention including mental-health impact studies and tools against deepfakes, false news and impersonation",
+   "verdict": "supported",
+   "locator": "E. Definición de medidas para la prevención y mitigación de riesgos"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly a policy for infrastructure, data, research, skills and adoption; two axes cover governance/ethics and AI risk. Extractor's scope_note is reasonable."
+ },
+ "overall": "accept",
+ "note": "Title, number, issuing council and approval of 14 Feb 2025 are supported by the Colpensiones compilation of the CONPES cover (official domain). The summary rests on the DNP's own article, not the CONPES text, which could not be stored (extractor's open question). Search found no CONPES updating or replacing 4144."
+}

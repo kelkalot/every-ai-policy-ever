@@ -1,0 +1,231 @@
+{
+ "cand_id": "JM-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JM-01",
+ "record": {
+  "title": "National Artificial Intelligence - Policy Recommendations (National AI Task Force, Jamaica)",
+  "issuing_body": "Office of the Prime Minister of Jamaica",
+  "date_last_updated": null,
+  "summary": "Recommendations of Jamaica's National AI Task Force, presented to the Office of the Prime Minister as the basis for a National AI Policy. Its ethical foundations, drawing on the UNESCO Recommendation on the Ethics of AI, call for warnings about system limitations such as hallucinations, transparency about AI processes and labelling of AI-generated content, accountability of human operators, risk assessments of systems' suitability, and compliance with the Data Protection Act 2020. It recommends interim AI ethics and data-privacy guidelines (short term), a national AI regulatory framework on liability, bias and transparency (medium term) and a national AI regulatory authority (long term).",
+  "notes": "Written by the National Artificial Intelligence Task Force, which was set up under the Office of the Prime Minister in 2023, is chaired by Christopher Reckord of the Private Sector Organisation of Jamaica and drew its members from the private sector, public institutions and academia; the report was presented to the Office of the Prime Minister. The document is undated; the Office of the Prime Minister dates the report to September 2024, and the Government announced its official publication on 13 Feb 2025, adding that Cabinet had begun reviewing the recommendations. After a Cabinet decision, the Minister responsible for science and technology in the Office of the Prime Minister convened a reconstituted 23-member Task Force on 19 Feb 2026 and charged it with a draft national AI policy within six to nine months and a draft legislative framework within twelve months, building on these recommendations and the UNESCO AI Readiness Assessment. In May 2026 the Task Force was still working towards Jamaica's first National AI Policy.",
+  "scope_note": "A report written by the National AI Task Force, an expert group the Government convened, and published by the Office of the Prime Minister; included as the evidence base for Jamaica's national AI policy.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the recommendations PDF on the Office of the Prime Minister's site (opm.gov.jm, 33 pages, copy of 12 Oct 2026), which gives its title ('This document, titled National Artificial Intelligence - Policy Recommendations'), the Task Force's members and chair, the ethical considerations and the short-, medium- and long-term recommendations, but no date; the OPM announcement posted on 13 Feb 2025 of the report's official publication on the OPM website (copy of 17 Oct 2026); the OPM release of 3 Mar 2026 on the reconstituted Task Force's first meeting on 19 Feb 2026; and the OPM release of 22 May 2026 (copy of 17 Oct 2026), which says the Task Force was set up under the OPM in 2023, dates the report to September 2024 and says the Task Force is working towards the first National AI Policy. date_published 2025-02 is the publication the OPM announced on 13 Feb 2025; the announcement says the report 'will be made available', so the record keeps the month. Version 1 gave 19 Feb 2026 as date_last_updated, but that is the reconstituted Task Force's first meeting, not a new version of the report, so it is now null and the meeting stays in the notes. Version 1's statement that Jamaica had no national AI policy as of October 2026 was replaced by what the May 2026 release says."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 5 (Introduction)",
+    "quote": "This document, titled National Artificial Intelligence - Policy Recommendations, represents the culmination of our detailed analysis and deliberative processes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-7817b22400/2026-10-17/official.html",
+    "sha256": "9110a12dbff659fa37612df90dbc8be4937982e05a08b3b216232483d4f95e4a",
+    "locator": "OPM announcement of 13 Feb 2025",
+    "quote": "The Government of Jamaica is pleased to announce the official publication of the National Artificial Intelligence (AI) Task Force Report. The National AI Task Force Report will be made available to the public via the Office of the Prime Minister’s website.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 5 (Introduction)",
+    "quote": "Presented to the Office of the Prime Minister, these recommendations are the outcomes of a transparent, collaborative, and comprehensive approach",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-7817b22400/2026-10-17/official.html",
+    "sha256": "9110a12dbff659fa37612df90dbc8be4937982e05a08b3b216232483d4f95e4a",
+    "locator": "OPM announcement of 13 Feb 2025",
+    "quote": "The Government of Jamaica is pleased to announce the official publication of the National Artificial Intelligence (AI) Task Force Report. The National AI Task Force Report will be made available to the public via the Office of the Prime Minister’s website.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-758712f60a/2026-10-17/official.html",
+    "sha256": "3b2e258a339a3b62c5b911e9cc30bbb3bf2b2e3784db90bb1046d7a29faa6fb5",
+    "locator": "OPM release of 22 May 2026, 'About the National AI Task Force'",
+    "quote": "The National Artificial Intelligence Task Force was established under the Office of the Prime Minister in 2023, chaired by Mr. Christopher Reckord, with a mandate to provide evidence-based recommendations for Jamaica’s National AI Policy.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-7817b22400/2026-10-17/official.html",
+    "sha256": "9110a12dbff659fa37612df90dbc8be4937982e05a08b3b216232483d4f95e4a",
+    "locator": "OPM announcement, heading and posting line",
+    "quote": "National AI Task Force Report Published Posted on February 13, 2025February 26, 2025 by OPM Communications",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-7817b22400/2026-10-17/official.html",
+    "sha256": "9110a12dbff659fa37612df90dbc8be4937982e05a08b3b216232483d4f95e4a",
+    "locator": "OPM announcement of 13 Feb 2025",
+    "quote": "The Government of Jamaica is pleased to announce the official publication of the National Artificial Intelligence (AI) Task Force Report. The National AI Task Force Report will be made available to the public via the Office of the Prime Minister’s website.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/secondary.html",
+    "sha256": "8f9333df9db406a78b4ddb965ea4f520c7d1f8975ceebc212886f5796b023fbc",
+    "locator": "OPM release of 3 Mar 2026",
+    "quote": "The Minister reaffirmed the Government’s intent to build directly on the Task Force’s prior work, particularly the National AI Policy Recommendations and the UNESCO AI Readiness Assessment Methodology (RAM), completed in 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 4 (Introduction)",
+    "quote": "This task force was established to lay the evidence-based foundation for a comprehensive National A.I. Policy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/secondary.html",
+    "sha256": "8f9333df9db406a78b4ddb965ea4f520c7d1f8975ceebc212886f5796b023fbc",
+    "locator": "OPM release of 3 Mar 2026",
+    "quote": "A draft national AI policy within 6–9 months, grounded in evidence and designed to be implementation-ready.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-758712f60a/2026-10-17/official.html",
+    "sha256": "3b2e258a339a3b62c5b911e9cc30bbb3bf2b2e3784db90bb1046d7a29faa6fb5",
+    "locator": "OPM release of 22 May 2026, 'About the National AI Task Force'",
+    "quote": "It is currently working toward the drafting of Jamaica’s first National AI Policy",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 5 (Introduction)",
+    "quote": "It not only outlines actionable, SMART (Specific, Measurable, Achievable, Relevant, and Time- bound) recommendations",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 10 (Ethical Considerations)",
+    "quote": "Human operators of A.I. systems must be held accountable for the behaviour and outcomes of these systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 10 (Ethical Considerations)",
+    "quote": "Comprehensive risk assessments must be conducted to evaluate the suitability of A.I. systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 23 (6. Legal & Regulatory Frameworks)",
+    "quote": "Develop interim guidelines for A.I. ethics and data privacy, ensuring A.I. applications comply with existing data protection laws.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 24 (6. Legal & Regulatory Frameworks)",
+    "quote": "Establish a national A.I. regulatory authority responsible for monitoring A.I. development, enforcing ethical standards, and ensuring compliance with international best practices.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 6 (The Task Force)",
+    "quote": "The Task Force is a multidisciplinary team of experts from the private sector, public institutions, and academia",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/official.pdf",
+    "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+    "locator": "page 7 (Task Force Members)",
+    "quote": "Christopher Reckord, Private Sector Organisation of Jamaica (Chairman)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/secondary.html",
+    "sha256": "8f9333df9db406a78b4ddb965ea4f520c7d1f8975ceebc212886f5796b023fbc",
+    "locator": "OPM release of 3 Mar 2026",
+    "quote": "convened the first meeting of the reconstituted National Artificial Intelligence (AI) Task Force on February 19, 2026, following a Cabinet decision to accelerate Jamaica’s national AI programme.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/JM-01/2026-10-12/secondary.html",
+    "sha256": "8f9333df9db406a78b4ddb965ea4f520c7d1f8975ceebc212886f5796b023fbc",
+    "locator": "OPM release of 3 Mar 2026",
+    "quote": "A draft legislative framework within 12 months, including a structured review of existing laws to determine what must be updated to reflect current AI realities",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-758712f60a/2026-10-17/official.html",
+    "sha256": "3b2e258a339a3b62c5b911e9cc30bbb3bf2b2e3784db90bb1046d7a29faa6fb5",
+    "locator": "OPM release of 22 May 2026, 'About the National AI Task Force'",
+    "quote": "The National Artificial Intelligence Task Force was established under the Office of the Prime Minister in 2023, chaired by Mr. Christopher Reckord, with a mandate to provide evidence-based recommendations for Jamaica’s National AI Policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-758712f60a/2026-10-17/official.html",
+    "sha256": "3b2e258a339a3b62c5b911e9cc30bbb3bf2b2e3784db90bb1046d7a29faa6fb5",
+    "locator": "OPM release of 22 May 2026, 'About the National AI Task Force'",
+    "quote": "Its National AI Policy Recommendations Report (September 2024), spanning nine policy areas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-7817b22400/2026-10-17/official.html",
+    "sha256": "9110a12dbff659fa37612df90dbc8be4937982e05a08b3b216232483d4f95e4a",
+    "locator": "OPM announcement of 13 Feb 2025",
+    "quote": "The Cabinet has already begun reviewing the Task Force’s recommendations to explore pathways for implementation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-americas-1/JM-01/extra-758712f60a/2026-10-17/official.html",
+    "sha256": "3b2e258a339a3b62c5b911e9cc30bbb3bf2b2e3784db90bb1046d7a29faa6fb5",
+    "locator": "OPM release of 22 May 2026, 'About the National AI Task Force'",
+    "quote": "It is currently working toward the drafting of Jamaica’s first National AI Policy",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the document names itself 'National Artificial Intelligence - Policy Recommendations' (page 5); version 1's title came from the PDF's file name",
+   "issuing_body": "AGENTS.md section 10 and the scope precedent on reports that an expert group convened by an authority wrote: the issuing body is the authority that publishes it. The Task Force was set up under the Office of the Prime Minister (May 2026 release), the report was presented to it (page 5), and the OPM announced its official publication on its website (13 Feb 2025); the notes say who wrote it",
+   "date_last_updated": "19 Feb 2026 is the first meeting of the reconstituted Task Force, not an amendment or new version of the report; set to null, the meeting stays in the notes",
+   "summary": "'risk assessments before deployment' corrected to what the text says (assessments of AI systems' suitability); otherwise checked against pages 9-10 and 22-24",
+   "notes": "authorship moved here from issuing_body; the Task Force's establishment under the OPM in 2023, the report's date (September 2024), the publication announcement of 13 Feb 2025 and the Cabinet review added; 'Jamaica had not adopted a national AI policy as of October 2026' (no stored file) replaced by the May 2026 release's statement that the Task Force is working towards the first National AI Policy",
+   "scope_note": "added: a report by a government-convened expert group published by an authority is included with a scope_note naming the group",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Non-binding recommendations ('SMART ... recommendations', presented to the OPM) meant as the basis for a National AI Policy. The OPM announced their official publication on 13 Feb 2025 and said Cabinet had begun reviewing them; the release of 3 Mar 2026 shows the Government building on them, and the release of 22 May 2026 says the Task Force is still working towards the first National AI Policy. Nothing stored shows the report withdrawn or replaced by an adopted policy, so 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2025-02: the OPM announced the report's official publication in a post of 13 Feb 2025 that says the report 'will be made available' on the OPM website, and the PDF sits under uploads/2025/02. The day of publication is therefore not certain, so the record keeps the month. The OPM's release of May 2026 dates the report itself to September 2024; that is when it was completed, not when it was issued, and it is in the notes.",
+  "scope_reasoning": "AI policy recommendations with substantial risk-governance content (ethics, accountability, liability, regulatory authority), written by a government-convened task force and published by the OPM; in scope with a scope_note under the expert-group rule."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Jamaica UNESCO AI Readiness Assessment (RAM) report, launched by the Government",
+   "url": "https://opm.gov.jm/jamaica-takes-the-lead-on-ai-government-launches-landmark-unesco-readiness-report/",
+   "seen_in": "OPM release of 3 Mar 2026 (archive/JM-01/2026-10-12/secondary.html), which names the UNESCO AI Readiness Assessment completed in 2025; the launch page turned up in a search",
+   "why": "A government-launched national AI readiness assessment that the national AI policy is to build on; not in the register."
+  }
+ ],
+ "open_questions": []
+}

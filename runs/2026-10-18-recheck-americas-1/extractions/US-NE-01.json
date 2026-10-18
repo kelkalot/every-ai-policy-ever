@@ -1,0 +1,181 @@
+{
+ "cand_id": "US-NE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-NE-01",
+ "record": {
+  "issuing_body": "Nebraska Legislature (LB 525 introduced by Sen. Mike Jacobson on behalf of Gov. Jim Pillen; AI provisions from LB 1185 by Sen. Eliot Bostar)",
+  "official_identifier": "LB 525 (Nebraska Legislature, 2026), incorporating LB 1185 (Conversational Artificial Intelligence Safety Act)",
+  "summary": "Adopts the Conversational Artificial Intelligence Safety Act. Operators of conversational AI services must disclose that the user is interacting with AI whenever a user reasonably could believe they are interacting with a human being, and must apply additional safeguards for minor account holders. Operators must keep a protocol for responding to prompts involving suicidal ideation or self-harm that includes referral to crisis services, and a service may not claim to be designed to provide professional mental or behavioral health care. The Attorney General enforces the provisions through civil actions.",
+  "notes": "LB 525, introduced in the 2025 session by Sen. Mike Jacobson on behalf of Gov. Jim Pillen, mainly protects agricultural data: controllers of such data need written consent agreements with agricultural producers, and from 1 Jan 2027 every new contract on agricultural data must prohibit its sale without the producer's express written consent. The provisions of LB 1185 (Sen. Eliot Bostar), which adopt the Conversational Artificial Intelligence Safety Act, were added to it, and the combined bill passed 49-0.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Nebraska Legislature's Unicameral Update session review of the Banking, Commerce and Insurance Committee (15 May 2026), stored again from update.legislature.ne.gov on 17 Oct 2026 (only the site's sidebar changed since 11 Oct 2026). It confirms the act's name, the incorporation of LB 1185 into LB 525, the sponsors, the provisions in the summary, enforcement by the Attorney General and the 49-0 vote. It does not say when the Governor signed the bill or when the AI provisions become operative: date_published (14 Apr 2026) and date_in_force (1 Jul 2027) rest on version 1, which took them from law-firm summaries and LegiScan excerpts without storing them. The slip law on nebraskalegislature.gov could not be stored: the archiver's connections timed out on 11 and 17 Oct 2026, including a separate attempt for this recheck."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "Also included in the bill are the provisions of LB1185, sponsored by Sen. Eliot Bostar of Lincoln, which adopt the Conversational Artificial Intelligence Safety Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "LB525 passed on a 49-0 vote.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "LB525, introduced last session by North Platte Sen. Mike Jacobson on behalf of Gov. Jim Pillen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "Also included in the bill are the provisions of LB1185, sponsored by Sen. Eliot Bostar of Lincoln",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "Also included in the bill are the provisions of LB1185, sponsored by Sen. Eliot Bostar of Lincoln, which adopt the Conversational Artificial Intelligence Safety Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "page heading",
+    "quote": "Session Review: Banking, Commerce and Insurance May 15, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "Lawmakers approved a measure aimed at creating comprehensive privacy protections for Nebraska agricultural data and strengthening regulation of conversational artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "LB525 passed on a 49-0 vote.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "LB525 passed on a 49-0 vote.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "The attorney general is empowered to enforce the provisions through civil action.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "The provisions require disclosure when a user reasonably could believe that they are interacting with a human being and add additional safeguards for minor account holders.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "The measure also requires a protocol to respond to prompts involving suicidal ideation or self-harm that includes referral to crisis services, and prohibits a service from claiming to be designed to provide professional mental or behavioral health care.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "The attorney general is empowered to enforce the provisions through civil action.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "requires controllers and potential controllers of agricultural data to enter into written consent agreements with agricultural producers before providing, using or selling that data.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "Under the bill, starting Jan. 1, 2027, every new contract or agreement involving the collection or processing of agricultural data in Nebraska must include a specific provision that prohibits the selling of that data unless the producer has given express written consent.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "LB525, introduced last session by North Platte Sen. Mike Jacobson on behalf of Gov. Jim Pillen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-NE-01/2026-10-17/official.html",
+    "sha256": "4ef2e14289e816ebf3a1ca77d7989d2fc39e54065262576ae43945e4de74c1c9",
+    "locator": "Consumer protections",
+    "quote": "LB525 passed on a 49-0 vote.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "'109th Legislature, Second Session' and 'signed by Governor Jim Pillen' are not in the stored file; the sponsors and the Governor's request remain",
+   "official_identifier": "'109th Legislature' replaced by what the stored session review shows (Nebraska Legislature, 2026 session review)",
+   "summary": "rewritten from the stored session review: the additional disclosure duty for minors, the blocking of sexual content and romantic innuendo and the definition of the service are not in it",
+   "notes": "rewritten: the AM2444 number, the agricultural act's name, the signing and operative dates and the remark on law-firm summaries are not in the stored file (the source remark moves to verification.note); the agricultural-data rules are described from the session review",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored session review of 15 May 2026 says 'Lawmakers approved a measure ...' and 'LB525 passed on a 49-0 vote', reports no veto, and dates the agricultural contract rule from 1 Jan 2027. It does not give the date of the Governor's signature or the operative date of the AI provisions. The published date_in_force, 1 Jul 2027, is after 18 Oct 2026, so 'Adopted, not yet in force' stands if that date is right; it is left as published, with the dates as open questions.",
+  "scope_reasoning": "An AI-specific state act on conversational AI disclosure, minors' safeguards and self-harm protocols, carried in a bill mainly on agricultural data; the AI act itself is clearly in scope, no note (unchanged).",
+  "date_reasoning": "No stored file gives date_published or date_in_force; both are left as published and listed as open questions."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Nebraska LB 1083 (2026): duties of large frontier AI developers and large chatbot providers to publish plans on catastrophic risks and risks to children",
+   "url": "https://update.legislature.ne.gov/?p=41128",
+   "note": "Introduced by Sen. Tanya Storer; advanced to general file but not scheduled for debate (stored session review of 15 May 2026). A frontier-AI bill that did not pass; not in the register."
+  }
+ ],
+ "open_questions": [
+  "date_published (14 Apr 2026, the Governor's signature) has no stored evidence; one tracker seen in a search gives 17 Apr 2026 instead. The slip law (https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB525.pdf) times out for the archiver; a person can provide it with the 'Provide a document' form.",
+  "date_in_force (1 Jul 2027, the operative date of the AI provisions) has no stored evidence; the stored session review gives only the agricultural contract date of 1 Jan 2027. The slip law would settle it.",
+  "The summary is limited to what the session review states; version 1 also described an extra disclosure duty for minors and the blocking of sexually explicit content and romantic or sexual innuendo for minor account holders, which the slip law could confirm."
+ ]
+}

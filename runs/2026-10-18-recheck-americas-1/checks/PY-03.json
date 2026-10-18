@@ -1,0 +1,56 @@
+{
+ "cand_id": "PY-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Forbids delegating decisions to AI, fully automating processes affecting fundamental rights, and determining guilt or innocence",
+   "verdict": "supported",
+   "locator": "Annex Art. 8"
+  },
+  {
+   "claim": "Wholly opaque systems are banned; use of generative AI to draft texts must be disclosed",
+   "verdict": "supported",
+   "locator": "Annex Art. 11; Art. 10(b)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The Court's PDF (OCR text layer, garbled in places) supports resolution number, 4 Mar 2026 date, authorisation of the policy and the summarised rules. No amendment found; the Court's own notices of Apr 2026 describe the same policy."
+}

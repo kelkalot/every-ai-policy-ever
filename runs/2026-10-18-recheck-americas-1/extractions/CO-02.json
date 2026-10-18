@@ -1,0 +1,313 @@
+{
+ "cand_id": "CO-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CO-02",
+ "record": {
+  "title": "Bill No. 025 of 2026 (House of Representatives) regulating artificial intelligence in Colombia to guarantee its ethical and responsible development",
+  "original_title": "Proyecto de Ley No. 025 de 2026 Cámara, “Por medio de la cual se regula la inteligencia artificial en Colombia para garantizar su desarrollo ético y responsable y se dictan otras disposiciones”",
+  "issuing_body": "Congress of Colombia – House of Representatives (bill filed by members of the House and the Senate)",
+  "summary": "Bill to regulate AI in Colombia and guarantee its ethical and responsible development. The text proposed for first debate bans social scoring by public authorities, real-time remote biometric identification for mass surveillance without judicial authorisation, harmful subliminal manipulation, biometric inference of sensitive traits, and systems that attack targets without a prior human decision. High-impact systems need risk management, impact assessment, human oversight and serious-incident reporting; chatbots must disclose themselves and deepfakes be labelled. It adds rights to explanation and human review, child protection, an Intersectoral AI Commission, sandboxes and fines.",
+  "safety_topics": [
+   "risk-based classification",
+   "prohibited practices",
+   "human oversight",
+   "deepfakes & synthetic media",
+   "incident reporting",
+   "accountability & liability"
+  ],
+  "notes": "Filed in the House of Representatives on 21 Jul 2026 by members of the House and the Senate and published in Gaceta del Congreso No. 878 of 2026. It takes up the bill that the Ministry of Science, Technology and Innovation and the Ministry of ICT presented in the 2022-2026 term, PL 324/2025 Cámara – 043/2025 Senado, which was archived under Article 190 of Law 5 of 1992. The House's Sixth Committee designated rapporteurs on 29 Aug 2026 (one replaced on 3 Sep 2026) and held a technical roundtable on 15 Sep 2026. The first-debate report, posted in Sep 2026, proposes a rewritten text: it adds articles on synthetic-content labelling, the right to explanation and human review, and child protection, drops the filed text's National Advisory Council of AI Experts and makes a National AI Committee advisory to the Intersectoral AI Commission (the Ministry of Science, the Ministry of ICT and the Superintendence of Industry and Commerce acting jointly, without a new entity). Under the proposed Article 34 the prohibitions would apply from promulgation, the high-impact obligations 12 months later unless the Commission or the sectoral authority sets another period, and the other provisions later still (the text reads 'veinticuatro (18) meses', giving two different figures). Fines for the most serious infringements reach 3,000 monthly minimum wages or 150% of the economic benefit obtained.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the House of Representatives' first-debate report on PL 025/2026C, stored on 11 Oct 2026 from camara.gov.co and found unchanged by the archiver on 17 Oct 2026. It confirms the bill number and title, the filing on 21 Jul 2026, Gaceta del Congreso No. 878 of 2026, the rapporteur designations, the technical roundtable of 15 Sep 2026, the archiving of the predecessor bill under Article 190 of Law 5 of 1992, the comparison table with the filed text and the proposed text summarised here. The report states no date of its own; the month (Sep 2026) follows from the roundtable it reports and the PDF's upload folder (2026/09). The proposed text in the stored text layer breaks off in Article 34 on page 92 (page 93 has no text layer); the full Article 34 is quoted from the comparison table on page 64. Details of the predecessor bill that rested on sources not stored (its filing on 28 Jul 2025, a positive first-debate report in Dec 2025) were dropped from the notes. No first-debate vote appears in the stored file. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 69, 9. Proposición",
+    "quote": "aprobar el Proyecto de Ley No. 025 de 2026 Cámara, “Por medio de la cual se regula la inteligencia artificial en Colombia para garantizar su desarrollo ético y responsable y se dictan otras disposiciones”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 71",
+    "quote": "TEXTO PROPUESTO PARA PRIMER DEBATE AL PROYECTO DE LEY No. 025 DE 2026 CÁMARA Por medio de la cual se regula la inteligencia artificial en Colombia para garantizar su desarrollo ético y responsable y se dictan otras disposiciones",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 69, 9. Proposición",
+    "quote": "aprobar el Proyecto de Ley No. 025 de 2026 Cámara, “Por medio de la cual se regula la inteligencia artificial en Colombia para garantizar su desarrollo ético y responsable y se dictan otras disposiciones”",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2, 1. Trámite de la iniciativa",
+    "quote": "El Proyecto de Ley 025 de 2026 fue radicado el día 21 de julio de 2026 en la Secretaría General de la Cámara de Representantes por parte de los H.R",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2, 1. Trámite de la iniciativa",
+    "quote": "Yolanda Silva Romero y los H.S Alex Xavier Flórez Hernández",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2",
+    "quote": "INFORME DE PONENCIA PARA PRIMER DEBATE EN LA CÁMARA DE REPRESENTANTES AL PROYECTO DE LEY No. 025 DE 2026 CÁMARA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2",
+    "quote": "El Proyecto de Ley radicado fue publicado en la Gaceta del Congreso No. 878 de 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2, 1. Trámite de la iniciativa",
+    "quote": "El Proyecto de Ley 025 de 2026 fue radicado el día 21 de julio de 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 32",
+    "quote": "8. MESA TÉCNICA DEL 15 DE SEPTIEMBRE DE 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 71",
+    "quote": "TEXTO PROPUESTO PARA PRIMER DEBATE AL PROYECTO DE LEY No. 025 DE 2026 CÁMARA",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 69, 9. Proposición",
+    "quote": "solicitamos a los honorables Representantes miembros de la Comisión Sexta de la Cámara de Representantes dar primer debate y aprobar el Proyecto de Ley No. 025 de 2026 Cámara",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 69, 9. Proposición",
+    "quote": "dar primer debate y aprobar el Proyecto de Ley No. 025 de 2026 Cámara",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 79, Article 6(1)",
+    "quote": "Impliquen la calificación social (social scoring) de personas naturales por parte de autoridades públicas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 79, Article 6(2)",
+    "quote": "Realicen identificación biométrica remota en tiempo real en espacios de acceso público con fines de vigilancia masiva, salvo autorización judicial previa y motivada",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 79, Article 6(4)",
+    "quote": "Infieran características biométricas para deducir el origen étnico, las opiniones políticas, la afiliación sindical, las convicciones religiosas o la orientación sexual de las personas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 79, Article 6(5)",
+    "quote": "Sistemas con la capacidad de identificar, seleccionar y atacar objetivos mediante el empleo de fuerza letal o no letal contra personas u objetos, sin una decisión humana previa, específica e informada",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 80, Article 7(1)",
+    "quote": "Antes de su implementación y cuando se realice una modificación sustancial del sistema deberá efectuarse una evaluación de impacto proporcional a la naturaleza y nivel del riesgo.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 81, Article 7(7)",
+    "quote": "Los incidentes graves que generen o puedan generar afectaciones significativas a la vida, la integridad, la seguridad o los derechos fundamentales deberán ser informados a la autoridad sectorial competente",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 77, Article 5",
+    "quote": "deberán indicar claramente que el contenido ha sido generado o manipulado artificialmente, incluido el contenido político o electoral",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 82, Article 11",
+    "quote": "Solicitar una explicación en lenguaje claro sobre los criterios generales de la decisión; y c. Solicitar la revisión humana de la decisión.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 83, Article 12",
+    "quote": "Los sistemas de IA dirigidos a niñas, niños y adolescentes deberán diseñarse conforme al interés superior del menor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 86, Article 17",
+    "quote": "podrá autorizar sandbox regulatorios para probar sistemas de IA innovadores bajo condiciones de supervisión especial",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2, 3. Antecedentes",
+    "quote": "retoma la propuesta presentada por el Ministerio de Ciencias, Tecnología e Innovación en conjunto con el Ministerio de Tecnologías de la Información y las Comunicaciones",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 3, 3. Antecedentes",
+    "quote": "Cámara – 043 de 2025 Senado y el cual fue archivado de acuerdo a lo dispuesto en el Artículo 190 de la Ley 5 de 1992",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2",
+    "quote": "El día 29 de agosto de 2026, mediante oficio No. C.S.S.P 3.6-386/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 2",
+    "quote": "El día 03 de septiembre de 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 49, comparison table",
+    "quote": "ARTÍCULO NUEVO Artículo 8. Señalización de contenido sintético",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 50, comparison table",
+    "quote": "ARTÍCULO NUEVO Artículo 11. Supervisión humana y derecho a explicación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 50, comparison table",
+    "quote": "ARTÍCULO NUEVO Artículo 12. Protección de niñas, niños y adolescentes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 64, comparison table",
+    "quote": "Artículos eliminados Artículo 11. Creación del Consejo Asesor Nacional de Expertos en Inteligencia Artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 86, Article 15",
+    "quote": "Créase el Comité Nacional de Inteligencia Artificial como instancia asesora de la Comisión Intersectorial de Inteligencia Artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 84, Article 14",
+    "quote": "no implicará la creación de una nueva entidad u organismo administrativo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 64, comparison table, Article 34",
+    "quote": "salvo que la Comisión Intersectorial de Inteligencia Artificial o la autoridad sectorial competente señale un plazo distinto; y las demás disposiciones regirán veinticuatro (18) meses después de su promulgación",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CO-02/2026-10-11/official.pdf",
+    "sha256": "449aa46465805f161fea50d9442389eb6e84895eb7837dc40e3f1ebe28fb5feb",
+    "locator": "page 92, Article 32(4)",
+    "quote": "multa de hasta tres mil (3.000) salarios mínimos mensuales legales vigentes o hasta el ciento cincuenta por ciento (150%) del beneficio económico obtenido con la infracción",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the English title now renders the bill's own title as given in the report ('Por medio de la cual se regula la inteligencia artificial en Colombia para garantizar su desarrollo ético y responsable...'), instead of the generic 'on artificial intelligence in Colombia'",
+   "original_title": "now gives the bill's full title verbatim from the report, not only its number",
+   "issuing_body": "'cross-party authors' is not stated in the stored report; it lists representatives (H.R.) and senators (H.S.) as filers",
+   "summary": "rewritten from the text proposed for first debate (the stored report), instead of describing the archived predecessor's content",
+   "safety_topics": "prohibited practices, human oversight, deepfakes & synthetic media and incident reporting added: the proposed text bans specified practices (Article 6), requires human oversight and serious-incident reporting for high-impact systems (Article 7) and labelling of deepfakes and synthetic content (Articles 5 and 8)",
+   "notes": "rewritten from the stored report: filing, Gaceta, rapporteurs, roundtable, the changes made by the proposed text, the staggered entry into force (with the report's own 24/18 discrepancy) and the top fine; the predecessor's filing date and December 2025 report, which the stored file does not give, and the remark that the provisions were not analysed are removed",
+   "english_version": "recorded as none found (the field was missing)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The latest event in the stored report is the first-debate report itself, which asks the House's Sixth Committee to 'dar primer debate y aprobar' the bill with the proposed text; it postdates the technical roundtable of 15 Sep 2026. No vote in the committee or later stage appears in the stored file, and the bill has not been enacted, so it remains 'Draft / proposed' with legal force 'Proposed'.",
+  "scope_reasoning": "An AI-specific framework bill with prohibited practices, high-impact obligations and transparency duties; a pending bill is in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the filing date, 21 Jul 2026 ('fue radicado el día 21 de julio de 2026'). date_last_updated stays 2026-09: the first-debate report proposes a new text and reports a roundtable of 15 Sep 2026, so it dates from the second half of September 2026; it gives no exact date."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,55 @@
+{
+ "cand_id": "US-NE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Passage 49-0 shown; adoption and the not-yet-in-force part rest on the unstored dates."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "No stored quote gives the signing date; the session review says only that the bill passed 49-0."
+  },
+  "date_in_force": {
+   "verdict": "unsupported",
+   "why": "No stored file gives the operative date of the AI provisions; the review gives only 1 Jan 2027 for agricultural contracts."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Disclosure when a user could reasonably believe they interact with a human, with added safeguards for minor account holders",
+   "verdict": "supported",
+   "locator": "Consumer protections section"
+  },
+  {
+   "claim": "The Attorney General enforces through civil action",
+   "verdict": "supported",
+   "locator": "Consumer protections section"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-OR-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The only stored source is the Legislature's Unicameral Update session review (official). It supports the title, the incorporation of LB 1185, the sponsors, the summary and the 49-0 vote, but it gives neither the date the Governor signed nor the operative date of the AI provisions. date_published (14 Apr 2026) and date_in_force (1 Jul 2027) therefore have no stored evidence; the search found secondary trackers giving the same two dates, consistent with the record. The run does not change these values, so they go to a question, not a hold. Status rests on the 49-0 passage and the same secondary reports."
+}

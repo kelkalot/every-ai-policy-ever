@@ -1,0 +1,56 @@
+{
+ "cand_id": "CO-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Bans social scoring by public authorities, real-time remote biometric ID for mass surveillance without judicial authorisation, subliminal manipulation, sensitive biometric inference and autonomous attack systems",
+   "verdict": "supported",
+   "locator": "pages 79 (Art. 6)"
+  },
+  {
+   "claim": "High-impact systems need impact assessment and serious-incident reporting; deepfakes labelled; sandboxes and fines",
+   "verdict": "supported",
+   "locator": "pages 80-81 (Art. 7), 77 (Art. 5), 86 (Art. 17), 92 (Art. 32)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The House's first-debate report supports number, title, filing on 21 Jul 2026, Gaceta 878/2026, rapporteurs, roundtable and the proposed text summarised. The summary describes the text proposed for first debate, not the filed text, and says so. Search found no first-debate vote yet (Comisión VI report of 18 Sep 2026 does not list it as approved). The 'veinticuatro (18) meses' wording in Art. 34 is the source's own."
+}

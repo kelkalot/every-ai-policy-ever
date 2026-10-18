@@ -1,0 +1,52 @@
+{
+ "cand_id": "JM-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "The quote shows the OPM's announcement of publication (Feb 2025); the OPM elsewhere dates the report to Sep 2024. The publication month is defensible."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Set to null: 19 Feb 2026 is a Task Force meeting, not a new version of the report."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Ethical foundations draw on the UNESCO Recommendation and call for labelling of AI-generated content and accountability of human operators",
+   "verdict": "supported",
+   "locator": "pages 8-10 of the PDF (ethical considerations)"
+  },
+  {
+   "claim": "Recommends interim ethics and data-privacy guidelines (short term), a regulatory framework (medium) and an authority (long)",
+   "verdict": "supported",
+   "locator": "recommendations section"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Report by an expert group the Government convened, published by the Prime Minister's Office; extractor's scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "OPM pages support title, the OPM's 13 Feb 2025 publication announcement and the Task Force's role. date_published 2025-02 is the publication month; the OPM release of 22 May 2026 dates the report to Sep 2024, which the notes give. date_last_updated null is right (19 Feb 2026 was a meeting). Search found no adopted national AI policy; the draft is due Nov 2026."
+}

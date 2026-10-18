@@ -1,0 +1,104 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1",
+    "quote": "Executive Order 13960 of December 3, 2020",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1",
+    "quote": "Promoting the Use of Trustworthy Artificial Intelligence in",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5",
+    "quote": "[FR Doc. 2020–27065",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 2",
+    "quote": "78940 Federal Register / Vol. 85, No. 236 / Tuesday, December 8, 2020 / Presidential Documents",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5",
+    "quote": "THE WHITE HOUSE,",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 5",
+    "quote": "December 3, 2020.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 1",
+    "quote": "laws of the United States of America, it is hereby ordered as follows:",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-29/extra-69004c5fb8/2026-10-17/official.pdf",
+    "sha256": "d33b0277d720baac843babc5f24269e4c0b8777447870a36309d8b4f3d9c79bc",
+    "locator": "Appendix A",
+    "quote": "and use of AI, such as President Trump’s Executive Order 13960, Promoting the Use of",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads/C004/2026-10-16/official.pdf",
+    "sha256": "806dd5f22488f28f063bf06eae6f3f0480d40baf263bbe7e11721c01a265e5af",
+    "locator": "page 3",
+    "quote": "Sec. 4 . Implementation of Principles. (a) Existing OMB policies currently",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed 3 Dec 2020, published 8 Dec 2020 (85 FR 78939). No commencement clause, so it took effect on signature. OMB memo M-26-04 of 11 Dec 2025 still lists it among the 'existing directives and policies' it builds on, and no stored text revokes or amends it.",
+  "scope_reasoning": "Executive order on trustworthy AI in federal agencies: in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "US-29",
+ "decision": "update",
+ "target_id": "US-29"
+}

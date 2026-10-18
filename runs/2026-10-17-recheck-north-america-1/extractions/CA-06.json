@@ -1,0 +1,245 @@
+{
+ "cand_id": "CA-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-06",
+ "record": {
+  "notes": "Published by the Treasury Board of Canada Secretariat on 4 March 2025 after engagement from May to October 2024, including a public consultation from 16 September to 31 October 2024; the What We Heard report followed on 30 January 2025. It applies to AI in any department or agency covered by the Policy on Service and Digital; organisations exempt from that policy are encouraged to follow it. A first-year progress update added to the full text reports the fourth review of the Directive on Automated Decision-Making, the launch of the Government of Canada AI Register (a minimum viable product published on 28 November 2025) with public consultations on its design from January to March 2026, whose What We Heard report followed on 11 September 2026, and 14 research projects launched by the National Research Council under its Canadian AI Safety Institute mandate. The update says the strategy complements Canada's National Artificial Intelligence Strategy: AI for All.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the strategy's full-text page on canada.ca (stored 11 Oct 2026; the archiver found it unchanged on 17 Oct 2026), which now ends with 'An Update on our Progress' on the first year and shows 'Page details 2026-10-02', and the priority-areas page (secondary source, page date 2026-02-25). The strategy's own pages show only the year of publication; the date of 4 March 2025, the consultation dates and the What We Heard reports rest on TBS's 'Progress on AI in government' page, stored in this run on 17 Oct 2026. The earlier source for the date, the priority-areas page's metadata, is not in its stored text."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "page heading",
+    "quote": "AI Strategy for the Federal Public Service 2025-2027: Full-text",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "page footer",
+    "quote": "© His Majesty the King in Right of Canada, as represented by the President of the Treasury Board, 2025,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Engagement and consultation",
+    "quote": "Between May and October 2024, TBS engaged stakeholders, Indigenous partners, public servants, and the public on the development of the Strategy.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-06/extra-1ad51c856d/2026-10-17/official.html",
+    "sha256": "b45138fedb86bf973b3f5f99fc2fdbcae3f1082fb6e68ff8e1008dacbf9d7ff9",
+    "locator": "Progress on AI in government",
+    "quote": "Publication of the AI Strategy for the Federal Public Service 2025-2027 (March 4, 2025)",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "page footer",
+    "quote": "Page details 2026-10-02",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Message from the Chief Information Officer and Chief Data Officer",
+    "quote": "We are pleased to present the AI Strategy for the Federal Public Service 2025–2027, our plan for the responsible, secure, and accelerated adoption of AI in the public service.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Looking ahead",
+    "quote": "Within this broader national context, the AI Strategy for the Federal Public Service 2025–2027 provides the roadmap for how the Government of Canada will lead by example and responsibly adopt and scale AI within its own operations.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Scope",
+    "quote": "Organizations that are partially or wholly exempt from the Policy on Service and Digital, including those that fall under the national security exemption, are encouraged to comply with the AI Strategy as far as possible as a matter of good practice.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Expectations of all federal organizations",
+    "quote": "To prepare for this, all organizations should:",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-06/extra-1ad51c856d/2026-10-17/official.html",
+    "sha256": "b45138fedb86bf973b3f5f99fc2fdbcae3f1082fb6e68ff8e1008dacbf9d7ff9",
+    "locator": "Progress on AI in government",
+    "quote": "Publication of the AI Strategy for the Federal Public Service 2025-2027 (March 4, 2025)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Engagement and consultation",
+    "quote": "Between May and October 2024, TBS engaged stakeholders, Indigenous partners, public servants, and the public on the development of the Strategy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-06/extra-1ad51c856d/2026-10-17/official.html",
+    "sha256": "b45138fedb86bf973b3f5f99fc2fdbcae3f1082fb6e68ff8e1008dacbf9d7ff9",
+    "locator": "Progress on AI in government",
+    "quote": "Public Consultation on Government of Canada’s artificial intelligence strategy for the federal public service (September 16 – October 31, 2024)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-06/extra-1ad51c856d/2026-10-17/official.html",
+    "sha256": "b45138fedb86bf973b3f5f99fc2fdbcae3f1082fb6e68ff8e1008dacbf9d7ff9",
+    "locator": "Progress on AI in government",
+    "quote": "Publication of the What We Heard Report on the Consultations on the AI Strategy for the Federal Public Service (January 30, 2025)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Scope",
+    "quote": "In use for any purpose in any department or agency covered by the Policy on Service and Digital, including those used by external subcontractors.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Policy, legislation and governance",
+    "quote": "The past year saw the completion of the fourth review of the Directive on Automated Decision-Making and the supporting Algorithmic Impact Assessment tool.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Engagement, transparency and value to Canadians",
+    "quote": "TBS launched the Government of Canada AI Register in November 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-06/extra-1ad51c856d/2026-10-17/official.html",
+    "sha256": "b45138fedb86bf973b3f5f99fc2fdbcae3f1082fb6e68ff8e1008dacbf9d7ff9",
+    "locator": "Progress on AI in government",
+    "quote": "Publication of the Government of Canada AI Register (Minimum Viable Product) (November 28, 2025)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Engagement, transparency and value to Canadians",
+    "quote": "Between January and March 2026, TBS held public consultations with stakeholders to further refine the register’s design and usability.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-06/extra-1ad51c856d/2026-10-17/official.html",
+    "sha256": "b45138fedb86bf973b3f5f99fc2fdbcae3f1082fb6e68ff8e1008dacbf9d7ff9",
+    "locator": "Progress on AI in government",
+    "quote": "Publication of the What We Heard Report on the Consultations on the Government of Canada AI Register (Minimum Viable Product) (September 11, 2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Policy, legislation and governance",
+    "quote": "The National Research Council, launched 14 research projects under its Canadian AI Safety Institute mandate",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Looking ahead",
+    "quote": "The strategy complements Canada’s National Artificial Intelligence Strategy: AI for All.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Priority 2, Key actions",
+    "quote": "These frameworks will balance risk with the pace required for innovation; be scaled to system risk, sensitivity, and impact",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Priority 2, Key actions",
+    "quote": "including system shutdown measures to respond to emergencies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Priority 2, Key actions",
+    "quote": "This will include an AI ethics review board responsible for providing guidance on responsible AI and for evaluating higher risk and impact projects at key stages of the project lifecycle.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Priority 4, Key actions",
+    "quote": "the Government of Canada will prioritize the establishment of a public register of its AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-06/2026-10-11/official.html",
+    "sha256": "7220e1dab9046883981681fce8d6ac2e2b4418d92c06a0cc106d905d21315c3b",
+    "locator": "Key actions",
+    "quote": "Establish an AI Centre of Expertise for the Government of Canada",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten: the engagement period and scope from the strategy text; the first-year progress update now on the full-text page (fourth DADM review, AI Register and its consultations, NRC projects under the CAISI mandate, relation to AI for All) added; publication, consultation and What We Heard dates now quoted from TBS's progress page, with the AI Register's publication (28 Nov 2025) and its What We Heard report (11 Sep 2026)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A 2025-2027 strategy whose full text now carries a first-year progress update and 'Looking ahead' section and was last modified on 2 October 2026; it runs to 2027 and nothing shows it was replaced. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A government strategy for AI in the federal public service whose priorities include common AI governance and risk-management frameworks, an AI ethics review board, emergency shutdown controls, disclosure requirements and a public AI register; risk governance is a main part of it, so no scope_note is added (unchanged).",
+  "date_reasoning": "date_published 4 March 2025 is quoted from TBS's progress page ('Publication of the AI Strategy for the Federal Public Service 2025-2027 (March 4, 2025)'); the strategy's pages show only the copyright year 2025. date_last_updated stays at the full-text page's last modification, 2 October 2026, when it carries the first-year update, as recorded before."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/progress.html",
+   "reason": "TBS's 'Progress on AI in government' page: 'Publication of the AI Strategy for the Federal Public Service 2025-2027 (March 4, 2025)', the public consultation of 16 September to 31 October 2024 and the What We Heard report of 30 January 2025, for date_published and the notes (the strategy's own pages show only the year). (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Safe and Secure AI Advisory Group (Government of Canada)",
+   "url": null,
+   "seen_in": "archive/CA-06/2026-10-11/official.html (An Update on our Progress: Address policy and legislative alignment, gaps and barriers)",
+   "why": "A new federal advisory body on safe and secure AI, launched in the strategy's first year; its mandate may be in scope as an AI safety body."
+  }
+ ],
+ "open_questions": []
+}

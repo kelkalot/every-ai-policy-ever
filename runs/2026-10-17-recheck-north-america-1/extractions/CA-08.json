@@ -1,0 +1,197 @@
+{
+ "cand_id": "CA-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-08",
+ "record": {
+  "notes": "First reading in the House of Commons on 10 June 2026 (sitting 133). LEGISinfo lists the bill as at second reading in the House of Commons, with no second-reading activity, no recorded votes and no major speeches. The Digital Safety Commission would set details of the obligations by regulation, including age estimation and verification and design features such as labelling tools; for social media services the government intends a minimum age of 16 for accounts. The bill was informed by the Expert Advisory Group on Online Safety, reconvened from March to May 2026.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: LEGISinfo's page for C-34 (45-1), stored 11 Oct 2026 and found unchanged by the archiver on 17 Oct 2026, confirms the long and short titles, the sponsor, the bill type, first reading on 10 June 2026 and the current status 'At second reading in the House of Commons' with no second-reading activity; the 45th Parliament, 1st session, runs 'to present'. Canadian Heritage's page on the bill (secondary source, page date 2026-09-08, also unchanged) confirms the duties of AI chatbot and social media services, the labelling of synthetically generated content and the deepfake provisions."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "bill header",
+    "quote": "An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential amendments to other Acts",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "bill header",
+    "quote": "Short title: Safe Social Media Act",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "bill header",
+    "quote": "Sponsor Minister of Canadian Identity and Culture and Minister responsible for Official Languages",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "bill header",
+    "quote": "Bill type House Government Bill",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "page title",
+    "quote": "C-34 (45-1) - LEGISinfo - Parliament of Canada",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "bill header",
+    "quote": "45th Parliament, 1st session Monday, May 26, 2025, to present",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Latest activity",
+    "quote": "Introduction and first reading on Wednesday, June 10, 2026 (House of Commons)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Current status",
+    "quote": "Current status At second reading in the House of Commons",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Progress",
+    "quote": "Second reading No activity",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "bill header",
+    "quote": "Bill type House Government Bill",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Current status",
+    "quote": "Current status At second reading in the House of Commons",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Progress",
+    "quote": "Debates (Hansard) Wednesday, June 10, 2026 Sitting 133",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Details",
+    "quote": "There are currently no recorded votes for this bill.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/official.html",
+    "sha256": "173312f5d9874a380066a11ff8362e27611e86f88ac748a75f76aa71454ac06e",
+    "locator": "Details",
+    "quote": "There are currently no major speeches for this bill.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Part 2: Digital Safety Commission of Canada Act",
+    "quote": "Details of certain obligations under the Safe Social Media Act will be outlined in regulations made by the Digital Safety Commission.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Minimum Age Requirement",
+    "quote": "For social media services, the government intends to implement a 16-year-old minimum age requirement for having accounts.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Engagement and consultations",
+    "quote": "the recent reconvening of the Expert Advisory Group on Online Safety (March to May 2026)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Duties",
+    "quote": "AI chatbot services will also be subject to a Duty to Act Responsibly, tailored to chatbot services, which will require them to: (1) mitigate the risk of the chatbot communicating harmful content; (2) implement emergency measures in crisis situations",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Duties",
+    "quote": "(3) mitigate the risk that the chatbot will engage in harmful behaviour.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Duties",
+    "quote": "applying labels to synthetically generated content",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CA-08/2026-10-11/secondary.html",
+    "sha256": "386910aac3832d97ce8b56591c23ae41c5217789d17c2c5841da58c6622e374a",
+    "locator": "Duties",
+    "quote": "intimate content communicated without consent including deepfake sexual images",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten: the status details stated without the check date (which moved to verification.note); the Commission's regulation-making, the intended minimum age of 16 and the expert advisory group added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "LEGISinfo (stored 11 Oct, unchanged 17 Oct 2026) shows 'At second reading in the House of Commons', second reading 'No activity', Senate stages 'Not reached', and the 45th Parliament, 1st session running 'to present', so the bill has not died on the order paper. 'Draft / proposed' stands.",
+  "scope_reasoning": "An online-safety bill that regulates AI chatbot services directly and requires labelling of synthetic content and removal of sexual deepfakes; the existing scope_note fits."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

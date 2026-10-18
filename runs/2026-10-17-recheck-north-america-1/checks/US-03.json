@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "No stored source of this record shows the commitments were replaced; the banner and the \"until regulations\" sentence do not say so, and the stored US-27 text does not mention them. Value is unchanged from the published record."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "President Biden is convening seven leading AI companies at the White House today – Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI",
+   "verdict": "supported",
+   "locator": "first paragraph"
+  },
+  {
+   "claim": "Commit to internal and external red-teaming of models or systems in areas including misuse, societal risks, and national security concerns, such as bio, cyber, and other safety areas.",
+   "verdict": "supported",
+   "locator": "page 2, Safety 1)"
+  },
+  {
+   "claim": "Bio, chemical, and radiological risks, such as the ways in which systems can lower barriers to entry for weapons development",
+   "verdict": "supported",
+   "locator": "page 2, Safety 1)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Company commitments brokered and published by the White House (section 10, in with a scope_note)."
+ },
+ "overall": "needs-human",
+ "note": "Fields other than status are supported by the stored fact sheet and commitments PDF. Status \"Superseded\" is not shown by any stored file (US-27 stored text does not mention the 2023 commitments); a human should decide whether to keep it. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

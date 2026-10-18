@@ -83,13 +83,14 @@
    "records": [
     "US-27"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 10,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/10",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null,
-   "title": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "title": null,
+   "closed_on_github": true
   },
   {
    "key": "record:US-ID-01@2026-10-14-refresh-ids-ca-on-01-coe-01-int-15-us-ca",
@@ -1916,6 +1917,99 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-17-recheck-europe-3 (5 records)"
+  },
+  {
+   "key": "record:US-03@2026-10-17-recheck-north-america-1",
+   "kind": "record",
+   "subject": "US-03",
+   "run_id": "2026-10-17-recheck-north-america-1",
+   "held_back": false,
+   "why": "checker: Fields other than status are supported by the stored fact sheet and commitments PDF. Status \"Superseded\" is not shown by any stored file (US-27 stored text does not mention the 2023 commitments); a human should decide whether to keep it. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added.; status is unsupported and the checker gave no evidence-backed fix",
+   "records": [
+    "US-03"
+   ],
+   "title": "US-03 White House Voluntary AI Commitments (2023): open question from run 2026-10-17-recheck-north-america-1",
+   "state": "open",
+   "issue": 134,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/134",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-05@2026-10-17-recheck-north-america-1",
+   "kind": "record",
+   "subject": "US-05",
+   "run_id": "2026-10-17-recheck-north-america-1",
+   "held_back": false,
+   "why": "checker: The press release (title) could not be stored; title has no stored evidence and the evidence script reports it. Other fields rest on alt-official NIST documents, so level A is not reachable. Summary now follows NIST's own description. Scope core. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added.; title is unsupported and the checker gave no evidence-backed fix; title has no evidence",
+   "records": [
+    "US-05"
+   ],
+   "title": "US-05 US AI Safety Institute (founding): open question from run 2026-10-17-recheck-north-america-1",
+   "state": "open",
+   "issue": 135,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/135",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-14@2026-10-17-recheck-north-america-1",
+   "kind": "record",
+   "subject": "US-14",
+   "run_id": "2026-10-17-recheck-north-america-1",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-begins-enforcing-take-it-down-act', 'why': \"FTC press release 'FTC begins enforcing TAKE IT DOWN Act' (May 2026): implementation news, no amendment of the Act\"}",
+   "records": [
+    "US-14"
+   ],
+   "title": "US-14 TAKE IT DOWN Act: open question from run 2026-10-17-recheck-north-america-1",
+   "state": "open",
+   "issue": 136,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/136",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-15@2026-10-17-recheck-north-america-1",
+   "kind": "record",
+   "subject": "US-15",
+   "run_id": "2026-10-17-recheck-north-america-1",
+   "held_back": false,
+   "why": "checker: Notes update (CAISSI renaming, EO 14434, evaluations) is supported by stored NIST pages. Title, date_published, date_last_updated and Commerce as co-issuer cannot be supported from stored text (level C); values are unchanged by the run and already raised as open questions. A person could provide the commerce.gov statement. Search: no sign of the CAISSI name outside NIST pages; no newer commerce.gov statement found.; title is unsupported and the checker gave no evidence-backed fix; date_published is unsupported and the checker gave no evidence-backed fix; date_last_updated is unsupported and the checker gave no evidence-backed fix; title has no evidence; date_published has no evidence",
+   "records": [
+    "US-15"
+   ],
+   "title": "US-15 Center for AI Standards and Innovation (CAISI), now CAISSI: open question from run 2026-10-17-recheck-north-america-1",
+   "state": "open",
+   "issue": 137,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/137",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "sample:2026-10-17-recheck-north-america-1",
+   "kind": "sample",
+   "subject": "2026-10-17-recheck-north-america-1",
+   "run_id": "2026-10-17-recheck-north-america-1",
+   "records": [
+    "CA-01",
+    "CA-08",
+    "US-08",
+    "US-15",
+    "US-27"
+   ],
+   "why": "Human sample of run 2026-10-17-recheck-north-america-1: check each record against its stored sources.",
+   "state": "open",
+   "issue": 138,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/138",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-17-recheck-north-america-1 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

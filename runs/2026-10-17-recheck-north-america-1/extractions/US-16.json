@@ -1,0 +1,257 @@
+{
+ "cand_id": "US-16",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-16",
+ "record": {
+  "issuing_body": "The White House (Assistant to the President for Science and Technology; Special Advisor for AI and Crypto; Assistant to the President for National Security Affairs)",
+  "summary": "White House plan of recommended federal policy actions in three pillars: accelerating AI innovation, building AI infrastructure, and leading in international AI diplomacy and security. Its safety and risk content: CAISI to evaluate frontier models for national-security risks such as cyber and CBRNE, and adversary AI systems for backdoors; a DARPA-led programme on interpretability, control and robustness; federal guidelines for AI evaluations; a DHS-led AI-ISAC and AI in incident-response playbooks; requiring federally funded research institutions to use nucleic acid synthesis providers that screen sequences and customers; and a deepfake forensic guideline.",
+  "safety_topics": [
+   "evaluation & testing",
+   "safety institute",
+   "national security & military",
+   "catastrophic risk",
+   "critical infrastructure",
+   "deepfakes & synthetic media"
+  ],
+  "notes": "Released by the White House on 23 July 2025 under Executive Order 14179 (US-11), which directed the creation of an AI Action Plan; the document itself is dated July 2025. The White House announcement of the release calls it 'Winning the AI Race: America's AI Action Plan' and counts over 90 federal policy actions. The plan is signed by Michael J. Kratsios (Assistant to the President for Science and Technology), David O. Sacks (Special Advisor for AI and Crypto) and Marco A. Rubio (Assistant to the President for National Security Affairs). It says AI-related federal funding should not go to states with burdensome AI regulations, but that the federal government should not interfere with states' rights to pass prudent laws that are not unduly restrictive to innovation, and it asks agencies to consider a state's AI regulatory climate in funding decisions; EO 14365 of December 2025 (US-20) later directed action against state AI laws. It asks NIST to revise the AI RMF (US-02) to remove references to misinformation, diversity, equity and inclusion, and climate change. CAISI's draft NIST AI 800-2 (US-21) answers the plan's call for evaluation guidelines. The White House fact sheet on EO 14434 of 29 September 2026 (US-26) still cites the plan and its more than 90 federal actions.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the whitehouse.gov PDF stored on 11 Oct 2026 (the archiver found it unchanged on 17 Oct 2026). It confirms the title, 'JULY 2025', the three signatories and the recommended actions in the summary. The PDF gives only the month; the release day, 23 July 2025, rests on the White House announcement of that day, stored in this run, so date_published stays 2025-07-23. The earlier summary called nucleic acid screening 'mandated'; the plan recommends requiring it. The count of more than 90 federal actions is not in the plan; it comes from the announcement and the White House fact sheet of 29 Sep 2026, both stored in this run, and is now in the notes. The earlier record had eight safety topics; the two least supported ('incident reporting', 'research priorities') were dropped to meet the limit of six. The issuing body now names the signatories by the titles the plan gives them."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 1 (cover)",
+    "quote": "Winning the Race AMERICA’S AI ACTION PLAN",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 1 (cover)",
+    "quote": "AI ACTION PLAN JULY 2025 THE WHITE HOUSE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction, signatures)",
+    "quote": "Michael J. Kratsios Assistant to the President for Science and Technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction, signatures)",
+    "quote": "David O. Sacks Special Advisor for AI and Crypto Marco A. Rubio Assistant to the President for National Security Affairs",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article heading and date",
+    "quote": "White House Unveils America’s AI Action Plan The White House July 23, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article body",
+    "quote": "The White House today released “Winning the AI Race: America’s AI Action Plan”",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction)",
+    "quote": "This Action Plan sets forth clear policy goals for near -term execution by the Federal government.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-298d71c67d/2026-10-17/official.html",
+    "sha256": "08c7ed5d088c532bbe109c4cdfa2e26d273bebdb6783293ece7af1d8b575a54e",
+    "locator": "Fact Sheet of September 29, 2026 (ADVANCING THE FRONTIER OF AMERICAN INNOVATION)",
+    "quote": "In July 2025, the White House released America’s AI Action Plan, identifying more than 90 Federal actions",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 5 (Introduction)",
+    "quote": "The Action Plan’s objective is to articulate policy recommendations that this Administration can deliver for the American people",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 4 (Introduction)",
+    "quote": "America’s AI Action Plan has three pillars: innovation, infrastructure, and international diplomacy and security",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 25 (Ensure that the U.S. Government is at the Forefront of Evaluating National Security Risks in Frontier Models)",
+    "quote": "Evaluate frontier AI systems for national security risks in partnership with frontier AI developers, led by CAISI at DOC in collaboration with other agencies with relevant expertise in CBRNE and cyber risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 25",
+    "quote": "including the possibility of backdoors and other malicious behavior",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 12 (Invest in AI Interpretability, Control, and Robustness Breakthroughs)",
+    "quote": "Launch a technology development program  led by the Defense Advanced Research Projects Agency in collaboration with CAISI at DOC and NSF, to advance AI interpretability, AI control systems, and adversarial robustness.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 13 (Build an AI Evaluations Ecosystem)",
+    "quote": "Publish guidelines and resources  through NIST at DOC, including CAISI, for Federal agencies to conduct their own evaluations of AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 21 (Bolster Critical Infrastructure Cybersecurity)",
+    "quote": "Establish an AI Information Sharing and Analysis Center (AI -ISAC), led by DHS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 22 (Promote Mature Federal Capacity for AI Incident Response)",
+    "quote": "Modify the Cybersecurity and Infrastructure Security Agency’s Cybersecurity Incident & Vulnerability Response Playbooks to incorporate considerations for AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 26 (Invest in Biosecurity)",
+    "quote": "Require all institutions receiving Federal funding for scientific research  to use nucleic acid synthesis tools  and synthesis providers  that have robust  nucleic acid sequence screening and customer verification procedures.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 16 (Combat Synthetic Media in the Legal System)",
+    "quote": "consider developing NIST’s Guardians of Forensic Evidence deepfake evaluation program into a formal guideline",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article body",
+    "quote": "The White House today released “Winning the AI Race: America’s AI Action Plan”, in accordance with President Trump’s January executive order on Removing Barriers to American Leadership in AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-6dd5634361/2026-10-17/official.html",
+    "sha256": "559249de6865bd101912768cded7f884ba4ff052282d869baee86aa5b5600140",
+    "locator": "article body",
+    "quote": "The Plan identifies over 90 Federal policy actions across three pillars",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-16/extra-298d71c67d/2026-10-17/official.html",
+    "sha256": "08c7ed5d088c532bbe109c4cdfa2e26d273bebdb6783293ece7af1d8b575a54e",
+    "locator": "Fact Sheet of September 29, 2026",
+    "quote": "In July 2025, the White House released America’s AI Action Plan, identifying more than 90 Federal actions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 4 (Introduction)",
+    "quote": "directing the creation of an AI Action Plan",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 6 (Remove Red Tape and Onerous Regulation)",
+    "quote": "but should also not interfere with states’ rights to pass prudent laws that are not unduly restrictive to innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 6 (Remove Red Tape and Onerous Regulation)",
+    "quote": "consider a s tate’s AI regulatory climate when making funding decisions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-16/2026-10-11/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 7 (Ensure that Frontier AI Protects Free Speech and American Values)",
+    "quote": "revise the NIST AI Risk Management Framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate change.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the cover names THE WHITE HOUSE and the plan is signed by the Assistant to the President for Science and Technology, the Special Advisor for AI and Crypto and the Assistant to the President for National Security Affairs; the earlier 'Office of Science and Technology Policy' and 'National Security Advisor' are not the titles the document uses",
+   "summary": "rewritten from the stored text: the actions are recommendations (the earlier 'mandated' screening was overstated) and the count of 90 actions is not in the plan",
+   "safety_topics": "eight topics exceed the limit of six; 'incident reporting' (the plan covers incident response, not reporting) and 'research priorities' were dropped",
+   "notes": "rewritten: release day and the count of actions from the White House announcement, signatories, the state-regulation passage, the AI RMF revision and the follow-up records; the same-day executive orders without safety content and the scope remark were removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding plan of recommended policy actions, released 23 July 2025. Nothing stored withdraws or replaces it; the White House fact sheet of 29 Sep 2026, stored in this run, still cites it. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "The federal government's AI action plan with substantial safety content (frontier model evaluation for CBRNE and cyber risks, biosecurity screening, AI-ISAC, incident response); in scope with no note.",
+  "date_reasoning": "The cover gives 'JULY 2025'; the White House announcement dated 23 July 2025 says the White House 'today released' the plan. date_published 2025-07-23 is therefore confirmed from an official source."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/",
+   "reason": "White House article 'White House Unveils America's AI Action Plan', dated 23 July 2025: the release day (date_published 2025-07-23 from an official source instead of the month only) and the plan's 'over 90 Federal policy actions' across three pillars."
+  },
+  {
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "reason": "White House fact sheet of 29 Sep 2026 on EO 14434 (already stored as US-26's secondary source): says the plan, released in July 2025, identified more than 90 federal actions; supports the notes and shows the plan still cited as current policy."
+  }
+ ],
+ "leads": [
+  {
+   "title": "IC Standard on AI Assurance under Intelligence Community Directive 505 on Artificial Intelligence (Office of the Director of National Intelligence)",
+   "url": null,
+   "seen_in": "archive/US-16/2026-10-11/official.pdf (page 21, Promote Secure-By-Design AI Technologies and Applications)",
+   "why": "The plan asks ODNI to publish this standard; ICD 505 itself and any published standard may be in scope and are not in the register."
+  },
+  {
+   "title": "DHS guidance to private sector entities on remediating and responding to AI-specific vulnerabilities and threats",
+   "url": null,
+   "seen_in": "archive/US-16/2026-10-11/official.pdf (page 21, Bolster Critical Infrastructure Cybersecurity)",
+   "why": "Recommended action of the plan; if DHS or CISA has issued it, it is AI-specific security guidance in scope."
+  }
+ ],
+ "open_questions": []
+}

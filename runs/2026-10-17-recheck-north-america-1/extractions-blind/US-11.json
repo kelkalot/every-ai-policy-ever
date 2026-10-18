@@ -1,0 +1,114 @@
+{
+ "record": {
+  "safety_topics": [
+   "public-sector use",
+   "national security & military"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "Removing Barriers to American Leadership in Artificial",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "Executive Order 14179 of January 23, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2",
+    "quote": "[FR Doc. 2025–02172",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2",
+    "quote": "8742 Federal Register / Vol. 90, No. 20 / Friday, January 31, 2025 / Presidential Documents",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2",
+    "quote": "THE WHITE HOUSE,",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 2",
+    "quote": "January 23, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "page 1",
+    "quote": "laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "Sec. 5",
+    "quote": "identify any actions taken pursuant",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-11/extra-0304c0f947/2026-10-17/official.pdf",
+    "sha256": "332b46f8cf4f4e7ed120a8092f14389640ada7538c65debc6fb3733298a5959e",
+    "locator": "Sec. 6",
+    "quote": "(b) This order shall be implemented consistent with applicable law and",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "safety_topics": "The record carried one topic (the rule needs 2 to 6); added 'national security & military' because Sec. 2 states the policy as promoting 'human flourishing, economic competitiveness, and national security'."
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed 23 Jan 2025 and published 31 Jan 2025 (90 FR 8741). It has no commencement clause, so it took effect on signature; Sec. 5(a) says 'immediately review'. The stored Federal Register text contains no sunset or revocation. Whether later orders (the record's notes cite EO 14434) amended it cannot be checked from the stored files.",
+  "scope_reasoning": "Executive order on AI policy: in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The Federal Register page stored under archive/US-11 is a CAPTCHA page in every snapshot; all quotes come from the govinfo.gov copy of 90 FR 8741.",
+  "The notes' statement about EO 14434 rests on no file stored for this record."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "US-11",
+ "decision": "update",
+ "target_id": "US-11"
+}

@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-27",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Four layers of controls",
+   "verdict": "supported",
+   "locator": "items 1-4 of accord text"
+  },
+  {
+   "claim": "Companies to meet regularly on standards",
+   "verdict": "supported",
+   "locator": "accord text"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Government-brokered company commitment; scope_note supplied by extractor is appropriate. US-03 has none; consider adding one for consistency."
+ },
+ "overall": "accept",
+ "note": "Level C: only secondary (American Presidency Project) copy of the accord stored. Changes supported by that copy. CAUTION already in verification note."
+}

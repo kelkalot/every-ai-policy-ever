@@ -1,0 +1,275 @@
+{
+ "cand_id": "US-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-02",
+ "record": {
+  "notes": "Released on 26 January 2023 after a request for information (July 2021), a concept paper, two public drafts (17 March and 18 August 2022) and workshops. NIST describes it as a living document, with a review with formal input from the AI community expected no later than 2028. NIST also publishes a companion AI RMF Playbook, a Roadmap and a Crosswalk, and Arabic and Japanese translations. On 26 July 2024 NIST released the Generative Artificial Intelligence Profile (NIST AI 600-1), and on 7 April 2026 a concept note for an AI RMF Profile on Trustworthy AI in Critical Infrastructure. NIST states that the AI RMF 1.0 is being revised as part of the White House AI Action Plan of July 2025, which recommends revising the framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate change.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the NIST publication page was stored again on 17 Oct 2026 (it changed only in its 'Accessed' date) and confirms the title, NIST AI 100-1, the DOI and the 26 Jan 2023 date. The framework itself (NIST AI 100-1 PDF on nvlpubs.nist.gov) was stored in this run and confirms the title, the January 2023 date, the voluntary character, the trustworthiness characteristics and the four Core functions. The NIST AI RMF page stored on 11 Oct 2026 confirms the revision under the AI Action Plan, the drafts, companion resources, translations and the 7 Apr 2026 critical-infrastructure concept note; the Action Plan PDF (whitehouse.gov) was stored in this run for its recommendation on the framework. Version 1's remark that NIST is moving to 'super intelligence' terminology after EO 14434 was removed from the notes: no stored file of this record says so."
+  },
+  "summary": "Voluntary, rights-preserving, non-sector-specific and use-case agnostic framework, directed by the National Artificial Intelligence Initiative Act of 2020, to help organizations designing, developing, deploying or using AI systems manage AI risks. Part 1 frames AI risks and the characteristics of trustworthy AI: valid and reliable, safe, secure and resilient, accountable and transparent, explainable and interpretable, privacy-enhanced, and fair with harmful biases managed. Part 2, the Core, sets four functions, Govern, Map, Measure and Manage, broken down into categories and subcategories."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "publication page heading",
+    "quote": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 2, title page",
+    "quote": "NIST AI 100-1 Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "Citation",
+    "quote": "Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST Trustworthy and Responsible AI, National Institute of Standards and Technology, Gaithersburg, MD",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "Citation / Report Number",
+    "quote": "NIST Trustworthy and Responsible AI - NIST AI 100-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "Download Paper",
+    "quote": "https://doi.org/10.6028/NIST.AI.100-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 2, title page",
+    "quote": "https://doi.org/10.6028/NIST.AI.100-1 January 2023",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "Published",
+    "quote": "Published January 26, 2023",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "Published",
+    "quote": "Published January 26, 2023",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-02/2026-10-17/official.html",
+    "sha256": "4405a726091399f3bd9f1185dc4142cc1bee084cde58a181d3d81c115612d881",
+    "locator": "Abstract",
+    "quote": "The Framework is intended to be voluntary, rights-preserving, non-sector specific, and use-case agnostic",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 7, Executive Summary",
+    "quote": "The Framework is intended to be voluntary, rights-preserving, non-sector-specific, and use-case agnostic",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Overview of the AI RMF",
+    "quote": "Released on January 26, 2023, the Framework was developed through a consensus-driven, open, transparent, and collaborative process that included a Request for Information, several draft versions for public comments, multiple workshops",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Prior Documents",
+    "quote": "Second draft of the AI Risk Management Framework (August 18, 2022)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Prior Documents",
+    "quote": "Initial draft of the AI Risk Management Framework (March 17, 2022)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Overview of the AI RMF",
+    "quote": "A companion NIST AI RMF Playbook also has been published by NIST along with an AI RMF Roadmap, AI RMF Crosswalk, and various Perspectives.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Translations",
+    "quote": "NIST AI Risk Management Framework (Japanese)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Translations",
+    "quote": "NIST AI Risk Management Framework (Arabic)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Prior Documents",
+    "quote": "Concept paper to help guide development of the AI Risk Management Framework (December 13, 2021)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Prior Documents",
+    "quote": "AI Risk Management Framework Request for Information (July 29, 2021)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Overview of the AI RMF",
+    "quote": "On July 26, 2024, NIST released NIST-AI-600-1, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Overview of the AI RMF",
+    "quote": "On April 7, 2026, NIST released a concept note for an AI RMF Profile on Trustworthy AI in Critical Infrastructure.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-02/2026-10-11/secondary.html",
+    "sha256": "ee349f0b8ea49649ae46c60e5eef6572de58a8fa63c95f2284750e062e494f19",
+    "locator": "Overview of the AI RMF",
+    "quote": "The AI RMF 1.0 is being revised as part of the White House AI Action Plan.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 3, Update Schedule and Versions",
+    "quote": "The Artificial Intelligence Risk Management Framework (AI RMF) is intended to be a living document.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 3, Update Schedule and Versions",
+    "quote": "a review with formal input from the AI community is expected to take place no later than 2028",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-71a4a8c9c2/2026-10-17/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "Pillar I, Recommended Policy Actions",
+    "quote": "revise the NIST AI Risk Management Framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate change.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-71a4a8c9c2/2026-10-17/official.pdf",
+    "sha256": "91d56ab3ddefe43f395bde31e1c3923fb37f47091275aaf2a0d7da500ff547f4",
+    "locator": "page 1, cover",
+    "quote": "Winning the Race AMERICA’S AI ACTION PLAN JULY 2025 THE WHITE HOUSE",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 7, Executive Summary",
+    "quote": "As directed by the National Artificial Intelligence Initiative Act of 2020 (P.L. 116-283), the goal of the AI RMF is to offer a resource to the organizations designing, developing, deploying, or using AI systems to help manage the many risks of AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 7, Executive Summary",
+    "quote": "The Framework is intended to be voluntary, rights-preserving, non-sector-specific, and use-case agnostic",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 8, Executive Summary",
+    "quote": "valid and reliable, safe, secure and resilient, accountable and transparent, explainable and interpretable, privacy enhanced, and fair with their harmful biases managed.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 8, Executive Summary",
+    "quote": "Part 2 comprises the “Core” of the Framework. It describes four specific functions to help organizations address the risks of AI systems in practice.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-02/extra-a562dd579b/2026-10-17/official.pdf",
+    "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
+    "locator": "page 8, Executive Summary",
+    "quote": "These functions – GOVERN , MAP, MEASURE , and MANAGE – are broken down further into categories and",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored framework (NIST AI 100-1): its purpose and statutory basis, its voluntary character, the trustworthiness characteristics in the framework's own words ('explainable and interpretable', 'fair with their harmful biases managed') and the four Core functions",
+   "notes": "rewritten from the stored NIST pages, the framework and the Action Plan: drafts, the living-document review by 2028, companion resources, translations, AI 600-1, the critical-infrastructure concept note, and the Action Plan's recommendation (worded as the Plan words it); the EO 14434 'super intelligence' remark removed (no stored support)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The NIST publication page (stored 17 Oct 2026) still lists AI RMF 1.0 as published on 26 Jan 2023; the AI RMF page says it is being revised under the AI Action Plan but no revised version is shown. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A government AI risk-management framework; in scope with no note."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": [
+  {
+   "title": "Concept note: AI RMF Profile on Trustworthy AI in Critical Infrastructure (NIST, 7 April 2026)",
+   "url": "https://www.nist.gov/programs-projects/concept-note-ai-rmf-profile-trustworthy-ai-critical-infrastructure",
+   "seen_in": "archive/US-02/2026-10-11/secondary.html (banner and Overview of the AI RMF)",
+   "why": "NIST profile in development to guide critical infrastructure operators on AI risk management; not in the register."
+  },
+  {
+   "title": "NIST AI RMF Playbook",
+   "url": "https://www.nist.gov/itl/ai-risk-management-framework/nist-ai-rmf-playbook",
+   "seen_in": "archive/US-02/2026-10-11/secondary.html (Overview of the AI RMF)",
+   "why": "NIST's companion guidance with suggested actions for each AI RMF function; not in the register (possibly part of US-02 rather than a record of its own)."
+  }
+ ]
+}

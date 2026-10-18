@@ -1,0 +1,178 @@
+{
+ "cand_id": "US-15",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-15",
+ "record": {
+  "notes": "Announced 3 Jun 2025; the centre is part of NIST. After EO 14434 of 29 Sep 2026 (US-26), NIST presents it as the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) and its mandate refers to 'SI' systems, while its news items still use the name CAISI. Its published work includes the NIST AI 800-2 draft on automated benchmark evaluations (Jan 2026, US-21); evaluations of DeepSeek V4 Pro (1 May 2026), Z.ai's GLM-5.2 (17 Jul 2026) and GLM-5.3's cyber capabilities (17 Sep 2026); a preliminary assessment of Kimi K3's cyber capabilities with the UK AI Security Institute (23 Jul 2026); and key practices for incident readiness and response in SI training and evaluation (16 Oct 2026). America's AI Action Plan (Jul 2025, US-16) assigns it tasks that include evaluating frontier models. The House 'Great American AI Act' discussion draft (Jun 2026) would codify the centre; it has not been enacted.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the official source, the commerce.gov statement of 3 Jun 2025, again could not be stored (HTTP 403 Forbidden; the browser retry timed out), so the title and date_published rest on the record's earlier verification of 11 Oct 2026, when the statement was read but not stored. Stored: NIST's centre page (nist.gov/caissi), on 11 Oct and again on 17 Oct 2026, and in this run NIST's super intelligence page (nist.gov/super-intelligence). The centre page confirms the CAISSI name, the mandate in the summary (now worded for 'SI' systems), the voluntary character of its agreements and standards, and the evaluations in notes (DeepSeek V4 Pro on the 11 Oct copy; the 16 Oct 2026 incident-readiness practices on the 17 Oct copy). The super intelligence page confirms that NIST does this work through CAISSI and that NIST is updating its communications under EO 14434 of 29 Sep 2026. The 30 Sep 2026 date in date_last_updated appears only in the centre page's metadata (article modified time), not in its text. The tasks in America's AI Action Plan rest on US-16's stored plan, the NIST AI 800-2 draft on US-21, and the Great American AI Act draft on US-25. Press reports (GovConWire, Sep 2026) say the centre signed pre- and post-release testing agreements with Google DeepMind, Microsoft and xAI; no stored official source confirms this."
+  }
+ },
+ "evidence": {
+  "issuing_body": [
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "page title",
+    "quote": "Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) | NIST",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "News and Updates",
+    "quote": "Today, NIST’s Center for Advancing Innovation and Standards for",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-15/extra-5a99c18641/2026-10-17/official.html",
+    "sha256": "5f462fd5e7c36b13d6b9a69f6c045cd9fac82028560eca9a4e60da4893043383",
+    "locator": "nist.gov/super-intelligence, introduction",
+    "quote": "NIST does this work through the laboratory programs and the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "About",
+    "quote": "The Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) will serve as industry’s primary point of contact within the U.S. government to facilitate testing and collaborative research",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-15/extra-5a99c18641/2026-10-17/official.html",
+    "sha256": "5f462fd5e7c36b13d6b9a69f6c045cd9fac82028560eca9a4e60da4893043383",
+    "locator": "nist.gov/super-intelligence, introduction",
+    "quote": "NIST does this work through the laboratory programs and the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI)",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "About",
+    "quote": "Establish voluntary agreements with private sector SI developers and evaluators, and lead unclassified evaluations of SI capabilities that may pose risks to national security.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "About",
+    "quote": "In conducting these evaluations, CAISSI will focus on demonstrable risks, such as cybersecurity, biosecurity, and chemical weapons.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "About",
+    "quote": "including the possibility of backdoors and other covert, malicious behavior",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "About",
+    "quote": "Represent U.S. interests internationally to guard against burdensome and unnecessary regulation of American technologies by foreign governments",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-15/extra-5a99c18641/2026-10-17/official.html",
+    "sha256": "5f462fd5e7c36b13d6b9a69f6c045cd9fac82028560eca9a4e60da4893043383",
+    "locator": "nist.gov/super-intelligence, introduction",
+    "quote": "Per the Sept. 29, 2026, Executive Order 14434: Inaugurating the Era of Super Intelligence, NIST is working to update its communications to incorporate the term “super intelligence” as directed.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-15/extra-5a99c18641/2026-10-17/official.html",
+    "sha256": "5f462fd5e7c36b13d6b9a69f6c045cd9fac82028560eca9a4e60da4893043383",
+    "locator": "nist.gov/super-intelligence, introduction",
+    "quote": "NIST does this work through the laboratory programs and the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-15/2026-10-11/secondary-2.html",
+    "sha256": "442de0991f18b3ef8462b716f392d6ffd48a92932e8df7d4bd07983c7c4cd1e7",
+    "locator": "News and Updates",
+    "quote": "CAISI Evaluation of DeepSeek V4 Pro May 1, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "News and Updates",
+    "quote": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation October 16, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "News and Updates",
+    "quote": "CAISI’s Assessment of Z.ai’s GLM-5.3 Cyber Capabilities September 17, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "News and Updates",
+    "quote": "UK AISI / CAISI Preliminary Assessment of Kimi K3's Cyber Capabilities July 23, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "News and Updates",
+    "quote": "CAISI Assessment of Z.ai’s GLM-5.2 July 17, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-15/2026-10-17/secondary.html",
+    "sha256": "81766a303cfa04623d510f77fd35cb8193ff0b98571d96809c3c5ccee816e2e2",
+    "locator": "News and Updates",
+    "quote": "the U.S. Center for AI Standards and Innovation (CAISI)",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten: the remark that the testing agreements reported by GovConWire could not be confirmed is research-process language and moved to verification.note; adds the 16 Oct 2026 incident-readiness practices now listed on the NIST page and the AI Action Plan's tasks, and names the records that other statements rest on",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The NIST page stored on 17 Oct 2026 still states the centre's mandate in the future tense of the original statement ('will serve as industry's primary point of contact ... CAISSI will:') under its new name, and lists work published up to 16 Oct 2026. Nothing in the stored files shows the mandate withdrawn; the renaming after EO 14434 changed the name and the wording ('SI' for 'AI'), not the functions. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Mandate of a national AI testing and standards body that succeeded the US AI Safety Institute; in scope with no note.",
+  "date_reasoning": "No stored file gives the statement's date (3 Jun 2025). For the renaming, the super intelligence page gives only the date of the executive order behind it (29 Sep 2026); the centre page's own modification date, 30 Sep 2026, is in its metadata, not its text. date_published and date_last_updated stay as published (see open_questions).",
+  "summary_reasoning": "The summary's mandate list matches the six functions on the stored NIST page (which also names OSTP among the coordination partners). Its opening clause, that the statement reorganises the US AI Safety Institute as CAISI, rests on the title of the unstored commerce.gov statement. Left unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.nist.gov/super-intelligence",
+   "why": "NIST page linked from the stored centre page (menu 'Super intelligence'); the record's earlier verification read it as confirming that the renaming to CAISSI was made under EO 14434. Storing it may give a citable date for date_last_updated and support the renaming in notes."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation (NIST, Center for Advancing Innovation and Standards for Super Intelligence, 16 Oct 2026)",
+   "url": "https://www.nist.gov/news-events/news/2026/10/key-practices-incident-readiness-and-response-super-intelligence-training",
+   "seen_in": "archive/US-15/2026-10-17/secondary.html (News and Updates)",
+   "why": "Guidance from the US government AI testing centre on incident readiness and response in frontier model training and evaluation; published 16 Oct 2026 and not in the register."
+  }
+ ],
+ "open_questions": [
+  "title and date_published: the official source (commerce.gov statement of 3 Jun 2025) still cannot be stored (HTTP 403, browser timeout), and neither stored NIST page gives the statement's title or date. Both stay as published; a person could provide the statement with the 'Provide a document' form so that a later run can confirm them.",
+  "date_last_updated (2026-09-30): no stored text gives the date of the renaming; 30 Sep 2026 is the centre page's metadata modification date, and the super intelligence page gives only the date of EO 14434 (29 Sep 2026). It stays as published.",
+  "issuing_body: the stored pages show NIST; 'U.S. Department of Commerce' rests on the unstored commerce.gov statement."
+ ]
+}

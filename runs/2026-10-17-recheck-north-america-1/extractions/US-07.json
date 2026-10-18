@@ -1,0 +1,298 @@
+{
+ "cand_id": "US-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-07",
+ "record": {
+  "official_identifier": "NIST AI 800-1",
+  "summary": "Draft voluntary guidelines of the U.S. AI Safety Institute at NIST, chiefly for initial developers of dual-use foundation models, on managing the risk that models are deliberately misused to harm public safety or national security, for example to develop chemical, biological, radiological or nuclear weapons, enable offensive cyber-attacks or generate child sexual abuse material. The second draft sets seven objectives: identify potential misuse risk, plan to manage it, protect the model from unauthorized access, measure it, mitigate it before deployment, monitor and respond to misuse, and disclose risk management practices.",
+  "notes": "Initial public draft released in July 2024 for public comment. The second public draft (NIST AI 800-1 2pd) was released on 15 January 2025, with comments open until 15 March 2025. It added an appendix on measuring misuse risk, appendices on chemical and biological and on cyber misuse risk, a 'marginal risk' framework, guidance for developers of open models and content for other actors across the AI supply chain. It is consistent with the National AI Initiative Act, Executive Order 14110 and the National Security Memorandum on AI of 24 October 2024, and builds on the AI Risk Management Framework and its Generative AI Profile.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the initial public draft PDF on nvlpubs.nist.gov (stored 11 Oct 2026, unchanged on 17 Oct 2026), and stored in this run NIST's news release of 15 Jan 2025 and the second public draft (NIST AI 800-1 2pd, January 2025). Together they confirm the title, NIST AI 800-1, the U.S. AI Safety Institute as issuer, July 2024 for the first draft, 15 Jan 2025 for the second (date_last_updated), the draft status and the comment period to 15 Mar 2025. The summary now follows the second draft, the current text. That no final version exists rests on a web search on 17 Oct 2026 that found none and on version 1's reading of NIST's guidelines page; no stored file shows it. official_identifier is now the publication number alone, since each draft has its own DOI."
+  },
+  "related": [
+   "US-05",
+   "US-15",
+   "US-21",
+   "US-04",
+   "US-02",
+   "US-08",
+   "US-09"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3, running header",
+    "quote": "NIST AI 800-1 ipd (Initial Public Draft) Managing Misuse Risk for Dual-Use Foundation Models",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 3, running header",
+    "quote": "NIST AI 800-1 2pd (Second Public Draft) Managing Misuse Risk for Dual-Use Foundation Models",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3",
+    "quote": "The U.S. AI Safety Institute (AISI) at NIST is releasing this document as an Initial Public",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "first paragraph",
+    "quote": "The U.S. AI Safety Institute (US AISI) at the National Institute of Standards and Technology (NIST) released the second public draft of its guidelines on Managing Misuse Risk for Dual-Use Foundation Models (NIST AI 800-1)",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3, running header",
+    "quote": "NIST AI 800-1 ipd (Initial Public Draft) Managing Misuse Risk for Dual-Use Foundation Models",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 3, running header",
+    "quote": "NIST AI 800-1 2pd (Second Public Draft) Managing Misuse Risk for Dual-Use Foundation Models",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3, running header",
+    "quote": "July 2024 U.S. AI Safety Institute",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3",
+    "quote": "The U.S. AI Safety Institute (AISI) at NIST is releasing this document as an Initial Public",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 3",
+    "quote": "The U.S. AI Safety Institute (AISI) at NIST is releasing this document as an updated draft",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "comment period",
+    "quote": "The comment period is now open through March 15, 2025, at 11:59PM Eastern Time.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3, running header",
+    "quote": "NIST AI 800-1 ipd (Initial Public Draft) Managing Misuse Risk for Dual-Use Foundation Models",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "This document provides voluntary guidelines for improving the safety, security, and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "the risk that such models will be deliberately misused to cause harm to public safety or national",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "include using a model to facilitate the development of chemical, biological, radiological, or",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "nuclear weapons; enable offensive cyber-attacks; and generate harmful or dangerous content,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "such as child sexual abuse material (CSAM) and non-consensual intimate imagery (NCII) of real",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "foundation models’ initial developers, but additional actors across the AI supply chain play a",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "section 5",
+    "quote": "This section outlines seven objectives that organizations should aim to meet to assess and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "section 5",
+    "quote": "1. Identify potential misuse risk",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "section 5",
+    "quote": "3. Protect the model from unauthorized access (if necessary)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "section 5",
+    "quote": "7. Disclose misuse risk management practices",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-07/2026-10-11/official.pdf",
+    "sha256": "30ced091493af421d454ca138a3496a39b8c6079f74223e868325318ffa767e4",
+    "locator": "page 3, running header",
+    "quote": "July 2024 U.S. AI Safety Institute",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "first paragraph",
+    "quote": "US AISI made a number of improvements to the initial public draft (released July 2024) to improve usability and incorporate thoughtful feedback",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "comment period",
+    "quote": "The comment period is now open through March 15, 2025, at 11:59PM Eastern Time.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "key updates",
+    "quote": "This version was expanded to include a new appendix, which provides a detailed overview of existing approaches to measuring misuse risk",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "key updates",
+    "quote": "US AISI added two extensive appendices to the document – one on chemical and biological misuse risk and a second on cybersecurity misuse risk.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "key updates",
+    "quote": "US AISI further clarified the importance of a “marginal risk” framework for assessing and managing risk",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "key updates",
+    "quote": "These guidelines were updated to support their proportional application to and usefulness for open model developers",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "key updates",
+    "quote": "US AISI included additional content to support risk management practices for a range of actors across the AI supply chain.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "page 5, 1. Introduction",
+    "quote": "consistent with the National AI Initiative Act,iii Executive Order 14110,iv and the October 24,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-71b0dfb9b9/2026-10-17/official.pdf",
+    "sha256": "362c24f9cfc1e3ba4e0756a49654eaacf3837e963fbd6ff20fe5fcefe06d3b82",
+    "locator": "section 5",
+    "quote": "particularly the NIST AI RMF and its Generative AI",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "date line",
+    "quote": "Released January 15, 2025, Updated February 4, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-07/extra-cc63996269/2026-10-17/official.html",
+    "sha256": "d1ba243fe5826f43613c47a886fd1754833d5a22a78407ea624a5db594fcb4d6",
+    "locator": "first paragraph",
+    "quote": "The U.S. AI Safety Institute (US AISI) at the National Institute of Standards and Technology (NIST) released the second public draft of its guidelines on Managing Misuse Risk for Dual-Use Foundation Models (NIST AI 800-1)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "'second public draft NIST AI 800-1 2pd' is a description, which the field excludes; the publication number alone remains, since each draft has its own DOI (.ipd, .2pd)",
+   "summary": "rewritten from the second public draft, the current text: 'voluntary guidelines', its harm to public safety or national security, and its seven objectives in its own words",
+   "notes": "rewritten: both drafts, the comment period and what the second draft added (from NIST's news release), and the instruments it is consistent with (from the second draft)",
+   "related": "US-02 and US-08 added (the second draft builds on the AI RMF and its Generative AI Profile); US-09 added (the National Security Memorandum on AI of 24 Oct 2024, which the second draft is consistent with)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The second public draft (January 2025) was released 'as an updated draft for the second round of public comment', with comments to 15 March 2025. No final version is stored, and a web search on 17 Oct 2026 found none. 'Draft / proposed' with legal force 'Proposed' stands.",
+  "scope_reasoning": "Government guidelines on misuse risk of frontier foundation models; in scope with no note.",
+  "date_reasoning": "date_published stays 2024-07: the initial draft gives only 'July 2024'. date_last_updated 2025-01-15 is the release date of the second public draft in NIST's news release; the draft itself gives 'January 2025'."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

@@ -1,0 +1,94 @@
+{
+ "record": {
+  "summary": "Cross-sectoral companion profile to the AI Risk Management Framework (AI RMF 1.0) for generative AI, prepared under Executive Order 14110. It defines twelve risks that are novel to or exacerbated by generative AI, among them CBRN information or capabilities, confabulation, dangerous or violent content, harmful bias, information integrity, information security and intellectual property, and sets out suggested actions to govern, map, measure and manage them."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "page title",
+    "quote": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile | NIST",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 2",
+    "quote": "National Institute of Standards and Technology",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 1",
+    "quote": "NIST AI 600-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 1",
+    "quote": "https://doi.org/10.6028/NIST.AI.600-1",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Published field",
+    "quote": "Created July 26, 2024, Updated April 8, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-08/2026-10-17/official.html",
+    "sha256": "90f33298501e91eb8ec461f3aeafc55373fab8eefd80211c1ee2a9fbe252a5ed",
+    "locator": "Abstract",
+    "quote": "This document is a cross-sectoral profile of and companion resource for the AI Risk Management Framework",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-08/extra-b8df5c3760/2026-10-17/official.pdf",
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "locator": "page 3",
+    "quote": "About AI at NIST: The National Institute of Standards and Technology (NIST) develops measurements,",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "'more than 200 suggested actions' is not stated in the stored publication; replaced with what the text says (twelve risks, suggested actions to govern, map, measure and manage)."
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force",
+   "date_last_updated"
+  ],
+  "status_reasoning": "The NIST page of 2026-10-17 still lists the publication under its original title with 'Created July 26, 2024, Updated April 8, 2026'; the text of the PDF is the July 2024 version and the page shows no withdrawal or replacement. The new snapshot differs from the old only in NIST's site wording (AI renamed SI in a topic keyword) and the access date.",
+  "scope_reasoning": "Government guidance on generative AI risk: in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_last_updated stays null: the NIST page says 'Updated April 8, 2026' but the stored PDF is the July 2024 text and no new version is shown."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "cand_id": "US-08",
+ "decision": "update",
+ "target_id": "US-08"
+}

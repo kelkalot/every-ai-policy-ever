@@ -1,0 +1,200 @@
+{
+ "cand_id": "US-25",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-25",
+ "record": {
+  "summary": "Bipartisan House bill on frontier AI models, trained with more than 10^26 operations. All frontier developers would publish transparency reports on new models and report critical safety incidents within 72 hours. Larger developers, tiered by revenue and AI spending, would also publish frontier AI frameworks, register, undergo annual independent audits and report catastrophic risk; the largest would retain a licensed independent verifier. A new Under Secretary of Commerce for AI Security would administer it, the Commerce Secretary could suspend models posing imminent catastrophic risk, and new state catastrophic-risk transparency, audit and incident-reporting rules would be preempted.",
+  "notes": "Introduced on 23 Jul 2026 by Rep. Jay Obernolte with Reps. Lori Trahan, Scott Franklin, Scott Peters, Erin Houchin and Suhas Subramanyam; the bill text published with the announcement leaves the bill number and the committee blank. The sponsors say it was developed as part of their broader Great American AI Act framework. Large frontier developers have AI-related development expenditures of at least $1B and revenues above $50M; very large ones at least $10B and above $5B, measured over 36 months. Preemption (Sec. 9) is aimed at state frontier-safety statutes such as California SB 53, New York's RAISE Act and Illinois SB 315, and preserves generally applicable laws, use- and deployment-based rules for deployers and users, laws protecting minors, and state procurement and use rules. Civil penalties reach $1M per violation per day, and $10M per violation per day for emergency orders, whose wilful violation is criminal. Rules on minimum framework requirements, licensing of independent verification organisations and modification criteria are due within 180 days of enactment. On 1 Oct 2026 Reps. Obernolte and Trahan said the bill would build on the White House Accord that leading AI companies had signed and make it durable.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the sponsors' press release of 23 Jul 2026 on obernolte.house.gov (unchanged on 17 Oct 2026), the bill text linked from it (74 pages, dated 22 Jul 2026, headed 'H. R. __' without a number) and the section-by-section summary. They confirm the full title, the sponsors, the introduction on 23 Jul 2026 and the provisions. The release spells the sixth sponsor 'Subramanyan'; the record keeps 'Subramanyam'. The House bill number, the committee referral and any later action are not in the stored sources (congress.gov could not be reached on 11 Oct 2026). The earlier notes' details of the Great American AI Act discussion draft (released 4 Jun 2026, a three-year freeze on state AI development rules, CAISI codification, not introduced as of Sep 2026) rested on secondary sources that are not stored and were removed; the press release confirms only that the bill was developed as part of that framework. The summary no longer says that only large developers report critical safety incidents: the bill text requires every frontier developer to report them. The 1 Oct 2026 statement of Reps. Obernolte and Trahan is stored as US-27's source (archive/US-27/2026-10-11/secondary.html)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-25/2026-10-11/official.html",
+    "sha256": "4f11b8a1aeefb537a81396906aa00b9b72db6d331178b631f92b7f38f82f817c",
+    "locator": "press release, first paragraph",
+    "quote": "introduced the Frontier Risk Oversight, National Transparency, Independent Evaluation, and Reporting Act, or the FRONTIER Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 1, Sec. 1",
+    "quote": "This section provides that the Act may be cited as the Frontier Risk Oversight, National Transparency, Independent Evaluation, and Reporting Act — the FRONTIER Act.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-25/2026-10-11/official.html",
+    "sha256": "4f11b8a1aeefb537a81396906aa00b9b72db6d331178b631f92b7f38f82f817c",
+    "locator": "press release, first paragraph",
+    "quote": "Today, Congressman Jay Obernolte (R-CA) and Congresswomen Lori Trahan (D-MA), alongside Representatives Scott Franklin (R-FL), Scott Peters (D-CA), Erin Houchin (R-IN), and Suhas Subramanyan (D-VA), introduced",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-1.pdf",
+    "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+    "locator": "page 1",
+    "quote": "IN THE HOUSE OF REPRESENTATIVES Mr. OBERNOLTE introduced the following bill",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-25/2026-10-11/official.html",
+    "sha256": "4f11b8a1aeefb537a81396906aa00b9b72db6d331178b631f92b7f38f82f817c",
+    "locator": "press release heading and date",
+    "quote": "Obernolte, Trahan Introduce Bipartisan FRONTIER Act to Strengthen Oversight of Advanced AI Image July 23, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-25/2026-10-11/document-1.pdf",
+    "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+    "locator": "page 1",
+    "quote": "119TH CONGRESS 2D SESSION H. R. ll",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/official.html",
+    "sha256": "4f11b8a1aeefb537a81396906aa00b9b72db6d331178b631f92b7f38f82f817c",
+    "locator": "press release, quote of Rep. Subramanyan",
+    "quote": "We need a bill like this that can actually pass this Congress and get signed into law.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-25/2026-10-11/document-1.pdf",
+    "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+    "locator": "page 1",
+    "quote": "A BILL To provide for Federal oversight of the development and deployment of frontier artificial intelligence in interstate and foreign commerce, and for other purposes.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 1, Sec. 2",
+    "quote": "The term \"frontier model\" means a foundation model trained using more than 10²⁶ operations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 2, Sec. 4",
+    "quote": "It further requires all frontier developers to publish, before or when deploying a new or substantially modified frontier model, a transparency report",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-1.pdf",
+    "sha256": "1a9767abc12edcd92dce0a7aa981e6e642609c7f357f3ee0f1f5c90c4ad0a6a1",
+    "locator": "page 28, Sec. 4(h)(1)",
+    "quote": "(h) DISCOVERY OF A CRITICAL SAFETY INCIDENT.— 10 (1) I N GENERAL .—Subject to subsection (g) 11 and except as provided in paragraph (2), not later 12 than 72 hours after a frontier developer learns facts",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 2, Sec. 4",
+    "quote": "and to undergo an annual independent compliance audit and register with the Under Secretary",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 2, Sec. 4",
+    "quote": "requires large frontier developers to also report catastrophic risk arising from their models, including internal use",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 2, Sec. 5",
+    "quote": "It requires each very large frontier developer to retain an IVO for ongoing assessment",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 3, Sec. 8",
+    "quote": "This section authorizes the Secretary of Commerce to suspend or restrict a frontier developer's development, deployment, or internal use of a frontier model upon a written finding that it presents an imminent catastrophic risk.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 3, Sec. 9",
+    "quote": "it prohibits any State or political subdivision from imposing new substantive obligations on AI developers as to frontier AI catastrophic-risk transparency, third-party auditing and independent verification, or incident reporting",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-25/2026-10-11/official.html",
+    "sha256": "4f11b8a1aeefb537a81396906aa00b9b72db6d331178b631f92b7f38f82f817c",
+    "locator": "press release, first paragraph",
+    "quote": "The bipartisan legislation, which was developed as part of the broader Great American AI Act framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 1, Sec. 2",
+    "quote": "gross revenues above $50M plus at least $1B in such expenditures for the large tier, and gross revenues above $5B plus at least $10B in such expenditures for the very large tier",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 3, Sec. 9",
+    "quote": "The clause is aimed at closely related State frontier-safety statutes (e.g., CA SB-53, NY RAISE, IL SB-315).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 3, Sec. 8",
+    "quote": "Violations carry a civil penalty of up to $10M per violation per day, and willful violations are criminal.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-25/2026-10-11/document-2.pdf",
+    "sha256": "a0da1c4d88c98f1b21eb19a9c057e50aea9eedc855130b771d8ffdc786dd4c08",
+    "locator": "page 2, Sec. 3",
+    "quote": "It places three rulemakings on 180-day clocks: minimum requirements for frontier AI frameworks; IVO licensing and oversight; and criteria for substantial (model) and material (framework) modifications.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "corrected: the bill text requires every frontier developer, not only large ones, to report critical safety incidents (within 72 hours) and to publish transparency reports; shortened the rest",
+   "notes": "removed research remarks ('could not be confirmed (congress.gov blocked)', 'No committee action verified'), a hedge ('per secondary sources') and details of the Great American AI Act draft that rest on unstored secondary sources; added the tier thresholds, the 180-day rulemakings and the published text's blank bill number; kept the 1 Oct 2026 statement in the wording of the stored statement",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The sponsors' release of 23 Jul 2026 says the bill was introduced that day; the linked text is a House bill of the 119th Congress, 2nd session, with no number filled in. No committee action, passage or enactment appears in the stored sources, and the 119th Congress has not yet ended (its term runs to 3 Jan 2027), so the bill has not lapsed. 'Draft / proposed' with legal_force 'Proposed' stands.",
+  "scope_reasoning": "A federal frontier-AI safety bill (transparency, audits, incident reporting, emergency orders against catastrophic risk); a pending bill is in scope with no note.",
+  "date_reasoning": "date_published is the introduction date given in the sponsors' release (23 Jul 2026); the bill text is stamped 22 Jul 2026, the drafting date.",
+  "notes_sources": "The sentence on 1 Oct 2026 rests on the statement of Reps. Obernolte and Trahan stored for US-27 (archive/US-27/2026-10-11/secondary.html): 'The FRONTIER Act would build on this foundation and make it durable.'"
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The House bill number and committee referral are not in the stored sources (the bill text reads 'H. R. ll'); official_identifier stays null."
+ ]
+}

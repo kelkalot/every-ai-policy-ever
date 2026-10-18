@@ -1,0 +1,254 @@
+{
+ "cand_id": "US-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-06",
+ "record": {
+  "summary": "OMB memorandum directing federal agencies to strengthen AI governance, advance responsible AI innovation and manage risks from their use of AI. Each agency had to designate a Chief AI Officer within 60 days, and CFO Act agencies had to develop AI strategies. By 1 December 2024 agencies had to apply minimum risk-management practices to safety-impacting and rights-impacting AI, including an AI impact assessment, real-world testing, independent evaluation, ongoing monitoring, operator training and human oversight, and public notice, plus notice to negatively affected individuals and opt-out options for rights-impacting AI, or else stop using the AI.",
+  "notes": "Issued on 28 March 2024 consistent with the AI in Government Act of 2020, the Advancing American AI Act and Executive Order 14110, after a draft published for public comment on 1 November 2023. It governs only agencies' own use of AI and does not create rights or obligations for the public; Sections 5(a) to 5(c) do not apply to elements of the Intelligence Community. Rescinded and replaced on 3 April 2025 by OMB Memorandum M-25-21 (US-12), issued after Executive Order 14179 of 23 January 2025. Its companion acquisition memorandum M-24-18 was likewise rescinded and replaced by M-25-22 of the same day.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the M-24-10 PDF stored on 11 Oct 2026 from the NARA-archived Biden White House site (bidenwhitehouse.archives.gov could not be resolved from the archiver's machine on 17 Oct 2026). It confirms the memo number, title, 28 Mar 2024 date, the CAIO and 1 Dec 2024 deadlines and the minimum practices. M-25-21 and M-25-22 (whitehouse.gov) were stored in this run: M-25-21 of 3 Apr 2025 rescinds and replaces M-24-10 (status, date_last_updated), and M-25-22 of the same day rescinds and replaces M-24-18. Version 1's 'First binding government-wide policy', the EO 14179 section number and the October 2024 date of M-24-18 rest on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1",
+    "quote": "SUBJECT: Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1",
+    "quote": "EXECUTIVE OFFICE OF THE PRESIDENT OFFICE OF MANAGEMENT AND BUDGET",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1",
+    "quote": "March 28, 2024 M-24-10 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1",
+    "quote": "March 28, 2024 M-24-10 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1",
+    "quote": "March 28, 2024 M-24-10 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 14, Section 5",
+    "quote": "all agencies are required to implement minimum practices, detailed below, to manage risks from safety-impacting AI",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1, Overview",
+    "quote": "each agency must designate a Chief AI Officer (CAIO) within 60 days of the date of the issuance of this memorandum.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 2, Overview",
+    "quote": "This memorandum requires each agency identified in the Chief Financial Officers Act (CFO Act)4 to develop an enterprise strategy for how they will advance the responsible use of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 14, Section 5(a)(i)",
+    "quote": "By December 1, 2024, agencies must implement the minimum practices in Section 5(c) of this memorandum for safety-impacting and rights-impacting AI, or else stop using any AI in their operations that is not compliant with the minimum practices",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 17, Section 5(c)(iv)",
+    "quote": "A. Complete an AI impact assessment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 18, Section 5(c)(iv)",
+    "quote": "B. Test the AI for performance in a real-world context.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 19, Section 5(c)(iv)",
+    "quote": "C. Independently evaluate the AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 19, Section 5(c)(iv)",
+    "quote": "D. Conduct ongoing monitoring.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 20, Section 5(c)(iv)",
+    "quote": "G. Ensure adequate human training and assessment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 21, Section 5(c)(iv)",
+    "quote": "I. Provide public notice and plain-language documentation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "Section 5(c)(v)",
+    "quote": "D. Notify negatively affected individuals.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "Section 5(c)(v)",
+    "quote": "F. Maintain options to opt-out for AI-enabled decisions.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1, footnote 3",
+    "quote": "This memorandum accounts for public comments that OMB received following its publication of a draft version of this memorandum on November 1, 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 1",
+    "quote": "Consistent with the AI in Government Act of 2020,1 the Advancing American AI Act,2 and Executive Order 14110 on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 2, footnote 5",
+    "quote": "this memorandum governs only agencies’ own use of AI and does not create rights or obligations for the public",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-06/2026-10-11/official.pdf",
+    "sha256": "89e548f806c3e2c6702ab9996f92344b5c05ec0f26e0d4874ddb402449c044fb",
+    "locator": "page 14, Section 5",
+    "quote": "However, Section 5(a) through (c) of this memorandum do not apply to elements of the Intelligence Community.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-547999b51e/2026-10-17/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1, Overview",
+    "quote": "This memorandum rescinds and replaces Office of Management and Budget (0MB) Memorandum M-24-10, Advancing Governance, Innovation, and Risk Management for Agency Use ofArtificial Intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-547999b51e/2026-10-17/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1, Overview",
+    "quote": "On January 23, 2025, President Trump signed Executive Order (E.O.) 14179, Removing Barriers to American Leadership in Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-4bd5764357/2026-10-17/official.pdf",
+    "sha256": "e157538371eb9665fabdacff748788fc6afc0575bb3661d15b146f3138084cd8",
+    "locator": "page 1",
+    "quote": "April 3, 2025 M-25-22 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-4bd5764357/2026-10-17/official.pdf",
+    "sha256": "e157538371eb9665fabdacff748788fc6afc0575bb3661d15b146f3138084cd8",
+    "locator": "page 1, Overview",
+    "quote": "This memorandum rescinds and replaces 0MB Memorandum M-24-18, Advancing the Responsible Acquisition ofArtificial Intelligence in Government.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-547999b51e/2026-10-17/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1, Overview",
+    "quote": "This memorandum rescinds and replaces Office of Management and Budget (0MB) Memorandum M-24-10, Advancing Governance, Innovation, and Risk Management for Agency Use ofArtificial Intelligence.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-547999b51e/2026-10-17/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1",
+    "quote": "April 3, 2025 M-25-21 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-06/extra-547999b51e/2026-10-17/official.pdf",
+    "sha256": "0aab0aa4eaeac969ed93894d3940c5dc9d0b7377048171b164a439e8b9e49813",
+    "locator": "page 1, Overview",
+    "quote": "This memorandum rescinds and replaces Office of Management and Budget (0MB) Memorandum M-24-10, Advancing Governance, Innovation, and Risk Management for Agency Use ofArtificial Intelligence.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored memo: 'First binding government-wide policy' removed (no stored support); the CAIO and CFO Act strategy requirements and the minimum practices named as the memo names them",
+   "notes": "rewritten: legal bases, the November 2023 draft, the memo's limits and the Intelligence Community carve-out added from the stored memo; the rescission by M-25-21 and of M-24-18 by M-25-22 now quoted from the stored memoranda; the EO 14179 section number and M-24-18's October 2024 date removed (no stored support)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "date_last_updated",
+   "legal_force"
+  ],
+  "status_reasoning": "M-25-21, OMB's memorandum of 3 April 2025 (stored in this run), says: 'This memorandum rescinds and replaces Office of Management and Budget (0MB) Memorandum M-24-10'. 'Superseded' stands, and date_last_updated 2025-04-03 is the date of the replacing memorandum.",
+  "scope_reasoning": "An AI-specific binding policy on federal agencies' use of AI; in scope with no note."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

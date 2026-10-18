@@ -1,0 +1,255 @@
+{
+ "cand_id": "CA-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-05",
+ "record": {
+  "notes": "One component of the CAD 2.4 billion AI investment announced in Budget 2024. The institute is led by ISED and draws on the National Research Council, CIFAR and the three national AI institutes (Amii, Mila and the Vector Institute). Its page names as its focus the risks of advanced AI systems, including synthetic content used for impersonation and fraud and systems that may be dangerous or hinder human oversight; its government-directed projects include joint testing with international counterparts and guidance to AI developers, users and the public. Canada is a founding member of the International Network of AI Safety Institutes. Under its international role, the institute's page lists the Network's mission statement, a Research Agenda on Risks from Synthetic Content and a memorandum of understanding with Australia on AI safety collaboration; its first blog post, on reporting AI evaluations, appeared on 8 July 2026. Canada's National Artificial Intelligence Strategy: AI for All, launched on 4 June 2026, commits a further CAD 50 million to expand its capabilities to track emerging AI risks, advance technical research and conduct transparent evaluations of AI models.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read ISED's news release of 12 November 2024 (stored 11 Oct 2026; the archiver found it unchanged on 17 Oct 2026), which confirms the launch, the initial CAD 50 million over five years, the home at ISED and the CIFAR and NRC research streams, and the National AI Strategy page (secondary source), which commits a further CAD 50 million to expand the institute. Stored in this run on 17 Oct 2026: the institute's own page on ised-isde.canada.ca (date modified 2026-07-08), which confirms that it is current and gives its focus, research streams, partners and publications, and ISED's news release of 5 June 2026, which dates the strategy's launch to 4 June 2026 (date_last_updated). The remark 'Name unchanged as of Oct 2026' was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "announced the launch of the Canadian Artificial Intelligence Safety Institute (CAISI) to bolster Canada’s capacity to address AI safety risks",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "From: Innovation, Science and Economic Development Canada",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "Quick facts",
+    "quote": "CAISI will be housed at Innovation, Science and Economic Development Canada",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "introduction",
+    "quote": "CAISI is led by Innovation, Science and Economic Development Canada",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "November 12, 2024 – Montréal, Quebec",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "introduction",
+    "quote": "The Canadian Artificial Intelligence Safety Institute (CAISI) is part of the Government of Canada's plan to support the safe and responsible development and deployment of artificial intelligence (AI).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "page footer",
+    "quote": "Date modified: 2026-07-08",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "Quick facts",
+    "quote": "The Canadian Artificial Intelligence Safety Institute (CAISI) will have an initial budget of $50 million over five years.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "Today, the Honourable François-Philippe Champagne, Minister of Innovation, Science and Industry, announced the launch of the Canadian Artificial Intelligence Safety Institute",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "It is one component of a broader $2.4 billion investment announced in Budget 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "introduction",
+    "quote": "CAISI is led by Innovation, Science and Economic Development Canada, leveraging the research capabilities of the National Research Council of Canada and of the broader Canadian research community through the Canadian Institute for Advanced Research (CIFAR).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "Quick facts",
+    "quote": "Canada’s three national AI institutes—Amii in Edmonton, Mila in Montréal and the Vector Institute in Toronto",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "introduction",
+    "quote": "These include risks posed by synthetic content, including impersonation and fraud, as well as risks posed by the development or deployment of systems that may be dangerous or hinder human oversight.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "Our work",
+    "quote": "We conduct projects supporting the government's priorities on AI safety, including joint testing with international counterparts, and provide guidance to AI developers and users and to the public on the risks of advanced AI systems and how to address them.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "Canada's global role in AI safety",
+    "quote": "with Canada as a founding member",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "Canada's global role in AI safety",
+    "quote": "Research Agenda on Risks from Synthetic Content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "Blog posts",
+    "quote": "What information should AI evaluators share? July 8, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html",
+    "sha256": "9aba4d0c320a615aec057b06305566a4b3b01e5283654bb0889ea597a4d195bd",
+    "locator": "Canada's global role in AI safety",
+    "quote": "Memorandum of understanding between the Department of Industry, Science and Resources of Australia and the Department of Industry of Canada concerning artificial intelligence safety collaboration",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-0aeaac6097/2026-10-17/official.html",
+    "sha256": "8117f4c63bb5635cf6fb8eac5af6af66d012f47a3bfaadac5381cbd9ec015cb1",
+    "locator": "Quick facts",
+    "quote": "On June 4, 2026, Prime Minister Mark Carney announced the launch of Canada’s National Artificial Intelligence Strategy: AI for All.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/secondary.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will invest $50 million to expand the capabilities of the Canadian AI Safety Institute to track emerging AI risks, advance technical research, and to conduct transparent evaluations of AI models.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "CAISI will leverage Canada’s world-leading AI research ecosystem and talent base to advance the understanding of risks associated with advanced AI systems and to drive the development of measures to address those risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "news release",
+    "quote": "CAISI will also collaborate with safety institutes in other jurisdictions as part of the new International Network of AI Safety Institutes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "Quick facts",
+    "quote": "Applied and investigator-led research will be funded through a contribution agreement with the global Canada-based research organization, CIFAR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/official.html",
+    "sha256": "f99cacdee9253f31e40732b01afaa811e3d4864b44f04cb6a73ae10230de5c8a",
+    "locator": "Quick facts",
+    "quote": "Government-directed projects will be implemented by the National Research Council of Canada",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-0aeaac6097/2026-10-17/official.html",
+    "sha256": "8117f4c63bb5635cf6fb8eac5af6af66d012f47a3bfaadac5381cbd9ec015cb1",
+    "locator": "Quick facts",
+    "quote": "On June 4, 2026, Prime Minister Mark Carney announced the launch of Canada’s National Artificial Intelligence Strategy: AI for All.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-05/2026-10-11/secondary.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will invest $50 million to expand the capabilities of the Canadian AI Safety Institute to track emerging AI risks, advance technical research, and to conduct transparent evaluations of AI models.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the stored release, strategy page and the institute's own page: leadership and partners, the risks it focuses on, its government-directed projects, founding membership of the International Network, its publications and the MOU with Australia, and the strategy's expansion with its launch date; 'Name unchanged as of Oct 2026' removed (a remark, not about the instrument)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The institute's own page (date modified 8 July 2026) presents CAISI as a current part of the Government of Canada's AI plan with ongoing research and publications, and the June 2026 national strategy commits more money to expand it; nothing shows it was wound up or renamed. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Mandate of a national AI safety institute; in scope with no note.",
+  "date_reasoning": "date_published 12 November 2024 from the launch release. date_last_updated stays 4 June 2026, the launch of the national strategy that expands the institute's capabilities, now dated by ISED's release of 5 June 2026; the institute page's own modification date (8 July 2026) reflects a blog post, not a change to the mandate."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-solomon-highlights-canadas-national-artificial-intelligence.html",
+   "reason": "ISED news release of 5 June 2026: 'On June 4, 2026, Prime Minister Mark Carney announced the launch of Canada's National Artificial Intelligence Strategy', the date of the strategy that expands CAISI (date_last_updated). (stored in this run)"
+  },
+  {
+   "url": "https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute",
+   "reason": "The institute's own ISED page, linked from the stored release: its current mandate, programmes and any later changes, to confirm status and notes. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Memorandum of understanding between the Department of Industry, Science and Resources of Australia and the Department of Industry of Canada concerning artificial intelligence safety collaboration",
+   "url": "https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute/memorandum-understanding-between-department-industry-science-and-resources-australia-and-department",
+   "seen_in": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html (Canada's global role in AI safety)",
+   "why": "Bilateral government agreement on AI safety collaboration between the Canadian and Australian AI safety institutes' departments; not in the register."
+  },
+  {
+   "title": "Research Agenda on Risks from Synthetic Content (Canadian Artificial Intelligence Safety Institute)",
+   "url": "https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute/research-agenda-risks-synthetic-content",
+   "seen_in": "archive/_runs/2026-10-17-recheck-north-america-1/CA-05/extra-f889c816ca/2026-10-17/official.html (Canada's global role in AI safety)",
+   "why": "Research agenda on synthetic-content risks listed on CAISI's page under its international role (possibly the International Network of AI Safety Institutes' agenda); possibly in scope (research priorities, deepfakes); not in the register."
+  }
+ ],
+ "open_questions": []
+}

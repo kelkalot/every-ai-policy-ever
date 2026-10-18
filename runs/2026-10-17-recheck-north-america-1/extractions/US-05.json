@@ -1,0 +1,190 @@
+{
+ "cand_id": "US-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-05",
+ "record": {
+  "summary": "Announcement of a new U.S. AI Safety Institute, led by the National Institute of Standards and Technology in the Department of Commerce, as part of NIST's response to Executive Order 14110. The institute was to build on the AI Risk Management Framework to improve organizations' ability to evaluate and validate AI systems, partner with other agencies on evaluating AI capabilities, limitations, risks and impacts and on building testbeds, and work with ally and partner countries to share best practices and align capability evaluation and red-team guidance and benchmarks. An AI Safety Institute Consortium supports its work.",
+  "safety_topics": [
+   "safety institute",
+   "evaluation & testing",
+   "international cooperation"
+  ],
+  "notes": "Announced on 1 November 2023 at the UK's AI Safety Summit 2023, in which Commerce Secretary Gina Raimondo took part, as part of NIST's response to Executive Order 14110 (US-04). On 2 November 2023 NIST called for participants in the AI Safety Institute Consortium, a core element of the institute. The Commerce Secretary's statement of 3 June 2025 transformed the institute into the Center for AI Standards and Innovation (CAISI) within NIST (US-15). By October 2026 NIST presents the center as the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI).",
+  "verification": {
+   "note": "PARTIAL. Recheck of 17 Oct 2026: the press release itself is not stored. commerce.gov answered every attempt with HTTP 403 (11, 16 and 17 Oct 2026) and the browser retry timed out, so the title rests on version 1 and on no stored file. Stored in this run from nist.gov: NIST's news release of 2 Nov 2023, which says the institute was 'announced yesterday' and describes its tasks (date_published, issuing body, summary); the CAISI evaluation report of September 2025, which dates the Commerce Secretary's tasking of CAISI to 3 Jun 2025 and cites his statement transforming the institute into CAISI (status, date_last_updated); and the CAISSI page (the current name). These are other NIST documents, not the press release, so they count at most as alt-official evidence. The White House fact sheet of 1 Nov 2023 could not be stored (DNS lookup failed). The summary now follows NIST's description of the institute; version 1's 'lead federal AI safety work', 'standards for authenticating AI-generated content' and 'allied safety institutes such as the UK's' are not in a stored file and were dropped, and the topic 'general-purpose / frontier AI' was removed for the same reason."
+  }
+ },
+ "evidence": {
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "first paragraph",
+    "quote": "The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) is calling for participants",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "first paragraph",
+    "quote": "This consortium is a core element of the new NIST-led U.S. AI Safety Institute announced yesterday at the U.K.’s AI Safety Summit 2023, in which U.S. Secretary of Commerce Gina Raimondo participated.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "first paragraph",
+    "quote": "This consortium is a core element of the new NIST-led U.S. AI Safety Institute announced yesterday at the U.K.’s AI Safety Summit 2023, in which U.S. Secretary of Commerce Gina Raimondo participated.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-abe7fbb649/2026-10-17/official.pdf",
+    "sha256": "0577019513c6636753deb7818f0af7e4534a68217bb1c45b9baaed0759b01ecc",
+    "locator": "page 4, footnote 1",
+    "quote": "Statement from U.S. Secretary of Commerce Howard Lutnick on Transforming the U.S. AI Safety Institute into the Pro-Innovation, Pro-Science U.S. Center for AI Standards and Innovation.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-abe7fbb649/2026-10-17/official.pdf",
+    "sha256": "0577019513c6636753deb7818f0af7e4534a68217bb1c45b9baaed0759b01ecc",
+    "locator": "page 4, 2. Methodology",
+    "quote": "On June 3, 2025, U.S. Secretary of Commerce Howard Lutnick tasked the Center for AI Standards and",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-abe7fbb649/2026-10-17/official.pdf",
+    "sha256": "0577019513c6636753deb7818f0af7e4534a68217bb1c45b9baaed0759b01ecc",
+    "locator": "page 4, footnote 1",
+    "quote": "Statement from U.S. Secretary of Commerce Howard Lutnick on Transforming the U.S. AI Safety Institute into the Pro-Innovation, Pro-Science U.S. Center for AI Standards and Innovation.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "first paragraph",
+    "quote": "This consortium is a core element of the new NIST-led U.S. AI Safety Institute announced yesterday at the U.K.’s AI Safety Summit 2023, in which U.S. Secretary of Commerce Gina Raimondo participated.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "second paragraph",
+    "quote": "The institute and its consortium are part of NIST’s response to the recently released Executive Order on Safe, Secure, and Trustworthy Development and Use of AI.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "fourth paragraph",
+    "quote": "The institute aims to measurably improve organizations’ ability to evaluate and validate AI systems, as detailed in the AI RMF Roadmap.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "fourth paragraph",
+    "quote": "The U.S. AI Safety Institute will harness work already underway by NIST and others to build the foundation for trustworthy AI systems, supporting use of the AI RMF",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "last paragraph",
+    "quote": "The U.S. AI Safety Institute will partner with other U.S. government agencies on evaluating AI capabilities, limitations, risks and impacts and coordinate on building testbeds.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "last paragraph",
+    "quote": "The institute will also work with organizations in ally and partner countries to share best practices, align capability evaluation, and red-team guidance and benchmarks.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "date line",
+    "quote": "Released November 2, 2023, Updated April 8, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-f95d5e72bd/2026-10-17/official.html",
+    "sha256": "3ae9061a6dcbe2010802b291679e0d7a8af29bf83f988d21e99d312719c94000",
+    "locator": "first paragraph",
+    "quote": "This consortium is a core element of the new NIST-led U.S. AI Safety Institute announced yesterday at the U.K.’s AI Safety Summit 2023, in which U.S. Secretary of Commerce Gina Raimondo participated.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-abe7fbb649/2026-10-17/official.pdf",
+    "sha256": "0577019513c6636753deb7818f0af7e4534a68217bb1c45b9baaed0759b01ecc",
+    "locator": "page 4, 2. Methodology",
+    "quote": "On June 3, 2025, U.S. Secretary of Commerce Howard Lutnick tasked the Center for AI Standards and",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-abe7fbb649/2026-10-17/official.pdf",
+    "sha256": "0577019513c6636753deb7818f0af7e4534a68217bb1c45b9baaed0759b01ecc",
+    "locator": "page 4, footnote 1",
+    "quote": "Statement from U.S. Secretary of Commerce Howard Lutnick on Transforming the U.S. AI Safety Institute into the Pro-Innovation, Pro-Science U.S. Center for AI Standards and Innovation.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-fe01877259/2026-10-17/official.html",
+    "sha256": "958d6bfc1ceb77ff217e4d2cab89d4c5dadf5ca12495795ef21acb88f7e2ce79",
+    "locator": "page heading",
+    "quote": "Center for Advancing Innovation and Standards for Super Intelligence (CAISSI)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-05/extra-fe01877259/2026-10-17/official.html",
+    "sha256": "958d6bfc1ceb77ff217e4d2cab89d4c5dadf5ca12495795ef21acb88f7e2ce79",
+    "locator": "News and Updates, 16 Oct 2026",
+    "quote": "Today, NIST’s Center for Advancing Innovation and Standards for",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from NIST's news release of 2 Nov 2023, the only stored official description of the institute's tasks; version 1's claims that no stored file supports were dropped",
+   "safety_topics": "'general-purpose / frontier AI' removed: no stored file ties the institute to frontier models; the other three topics are supported by NIST's description",
+   "notes": "rewritten from the stored NIST files: the summit, EO 14110, the consortium, the 3 Jun 2025 transformation into CAISI and the CAISSI name",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "issuing_body",
+   "date_published",
+   "status",
+   "date_last_updated"
+  ],
+  "status_reasoning": "NIST's CAISI evaluation report (September 2025) cites the Commerce Secretary's 'Statement ... on Transforming the U.S. AI Safety Institute into the Pro-Innovation, Pro-Science U.S. Center for AI Standards and Innovation' and dates his tasking of CAISI to 3 June 2025. The institute this announcement created was replaced by CAISI (record US-15), so 'Superseded' stands.",
+  "date_reasoning": "NIST's news release is dated 2 November 2023 ('Released November 2, 2023') and says the institute was 'announced yesterday', which gives 1 November 2023, the published value. date_last_updated 2025-06-03 is the date of the Commerce Secretary's statement transforming the institute into CAISI, as the CAISI report gives it.",
+  "scope_reasoning": "The founding mandate of a national AI safety institute; in scope with no note."
+ },
+ "extra_urls": [],
+ "open_questions": [
+  "title has no stored evidence: the press release exists only on commerce.gov, which refuses the archiver (HTTP 403; the browser retry timed out). A person could provide it (archive.py --provide). The White House fact sheet of 1 Nov 2023 could not be stored either (DNS lookup failed).",
+  "legal_force ('Non-binding') is not shown by a stored file; it is left as published.",
+  "date_published, issuing_body, status and date_last_updated rest on other NIST documents (alt-official), not on the press release, so the record cannot reach level A until the release itself is stored."
+ ],
+ "leads": [
+  {
+   "title": "Artificial Intelligence Safety Institute Consortium, NIST notice, Federal Register 88 FR 75276 (2 November 2023), document 2023-24216",
+   "url": "https://www.govinfo.gov/content/pkg/FR-2023-11-02/html/2023-24216.htm",
+   "seen_in": "web search on 17 Oct 2026 (not stored)",
+   "why": "NIST's notice establishing the AI Safety Institute Consortium (AISIC) that supports the U.S. AI Safety Institute; not in the register."
+  }
+ ]
+}

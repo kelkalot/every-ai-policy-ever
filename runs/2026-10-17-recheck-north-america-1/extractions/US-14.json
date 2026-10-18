@@ -1,0 +1,183 @@
+{
+ "cand_id": "US-14",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-14",
+ "record": {
+  "issuing_body": "U.S. Congress",
+  "notes": "Approved 19 May 2025 as Public Law 119-12 (S. 146); the Senate passed it on 13 Feb 2025 and the House on 28 Apr 2025. The criminal offences in section 2 have no delayed start date. Covered platforms had to establish the notice-and-removal process within one year of enactment, so the platform duties apply from 19 May 2026. A failure to reasonably comply with the notice-and-takedown obligations is treated as an unfair or deceptive act or practice under the Federal Trade Commission Act, and the FTC enforces the section also against non-profit organisations.",
+  "scope_note": "Not an AI-specific law: it covers authentic intimate images as well as AI-generated digital forgeries. Included as the operative US federal instrument against publishing sexual deepfakes and for their removal by online platforms.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the GovInfo details page and the Public Law PDF (govinfo.gov, Government Publishing Office) stored on 11 Oct 2026; the archiver found both unchanged on 17 Oct 2026. The PDF confirms the full and short titles, Public Law 119-12, 139 Stat. 55, S. 146, approval on 19 May 2025, the offences covering digital forgeries, the 48-hour removal duty, the one-year deadline for platforms and FTC enforcement; the details page gives the legislative history. The congress.gov bill page (secondary_url) answers the archiver with HTTP 403 Forbidden. The stored files do not name the President who approved the Act, so issuing_body now names Congress only; the earlier note that the 48-hour window and FTC enforcement rested on summaries no longer applies, since the stored statute states both."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-14/2026-10-11/official.html",
+    "sha256": "a4b3631f104e3bb120d4eb168a7f495a6672d78efca26866efdce71a6e11d56d",
+    "locator": "page heading",
+    "quote": "Public Law 119 - 12 - Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act\" or the \"TAKE IT DOWN Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 1, Sec. 1",
+    "quote": "Networks Act’’ or the ‘‘TAKE IT DOWN Act’’.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 1",
+    "quote": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 1",
+    "quote": "139 STAT. 55 PUBLIC LAW 119–12—MAY 19, 2025 Public Law 119–12 119th Congress",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/official.html",
+    "sha256": "a4b3631f104e3bb120d4eb168a7f495a6672d78efca26866efdce71a6e11d56d",
+    "locator": "Content Details",
+    "quote": "Law Number Public Law 119-12",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/official.html",
+    "sha256": "a4b3631f104e3bb120d4eb168a7f495a6672d78efca26866efdce71a6e11d56d",
+    "locator": "Content Details",
+    "quote": "Bill Number S. 146",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 8",
+    "quote": "Approved May 19, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/official.html",
+    "sha256": "a4b3631f104e3bb120d4eb168a7f495a6672d78efca26866efdce71a6e11d56d",
+    "locator": "Content Details",
+    "quote": "Date Approved May 19, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 8",
+    "quote": "Approved May 19, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 8",
+    "quote": "Approved May 19, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 5, Sec. 3(a)(1)(A)",
+    "quote": "Not later than 1 year after the date of enactment of this Act, a covered platform shall establish a process",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 3, Sec. 2(a), new 47 U.S.C. 223(h)(3)(A)",
+    "quote": "it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish a digital forgery",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 1, Sec. 2(a), new 47 U.S.C. 223(h)(1)(B)",
+    "quote": "created through the use of software, machine learning, artificial intelligence, or any other",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 4, Sec. 2(a), new 47 U.S.C. 223(h)(4)",
+    "quote": "Any person who violates paragraph (2)(B) or (3)(B) shall be fined under title 18, United States Code, imprisoned not more than 3 years, or both.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 6, Sec. 3(a)(3)",
+    "quote": "a covered platform shall, as soon as possible, but not later than 48 hours after receiving such request— (A) remove the intimate visual depiction",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 7, Sec. 3(b)",
+    "quote": "A failure to reasonably comply with the notice and takedown obligations under subsection (a) shall be treated as a violation of a rule defining an unfair or a deceptive act or practice",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-14/2026-10-11/official.html",
+    "sha256": "a4b3631f104e3bb120d4eb168a7f495a6672d78efca26866efdce71a6e11d56d",
+    "locator": "Legislative History",
+    "quote": "Feb. 13, considered and passed Senate. Apr. 28, considered and passed House.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-14/2026-10-11/document-1.pdf",
+    "sha256": "53a58ea5b5cfbca4a0ee0c10d642dd30fdd38a56fe64cf17a4a0baf7230f8fda",
+    "locator": "page 7, Sec. 3(b)(2)(D)",
+    "quote": "with respect to organizations that are not organized to carry on business for their own profit or that of their members",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored files show enactment by Congress ('Be it enacted by the Senate and House of Representatives') and approval on 19 May 2025, but do not name the President who approved it; the parenthesis is dropped rather than kept without a source",
+   "notes": "rewritten from the statute: the old notes said date_last_updated was 19 May 2026 although the field is null, and called the 48-hour window and FTC enforcement 'widely summarised' although the stored statute states both; adds the legislative history and FTC jurisdiction over non-profits",
+   "verification.note": "rewritten for this recheck",
+   "scope_note": "added: the Act covers authentic and computer-generated intimate depictions alike, so it is a law that is not AI-specific but is the operative instrument for deepfakes, which the scope rules include with a note (as AUS-02 and GB-08)"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Approved 19 May 2025. Section 2 (the criminal offences) states no later effective date, so it applies from enactment. Section 3(a)(1)(A) gives covered platforms 'not later than 1 year after the date of enactment' to establish the notice-and-removal process: 19 May 2025 plus one year is 19 May 2026, which has passed. Nothing in the stored files shows an amendment or repeal. 'In force' stands as of 17 Oct 2026; date_last_updated stays null because no amendment is known, and the platform start date goes in notes as a partial commencement.",
+  "scope_reasoning": "A federal law on nonconsensual intimate imagery that defines 'digital forgery' as a depiction created through software, machine learning, artificial intelligence or other technological means and applies its offences and takedown duty to such forgeries. Its offences also cover authentic images, so it is not AI-specific; under the rule for laws that are the operative instrument for deepfakes it is in with a scope_note, like AUS-02 and GB-08.",
+  "date_reasoning": "date_published and date_in_force are the approval date, 19 May 2025; the one-year platform deadline is a partial commencement and stays in notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

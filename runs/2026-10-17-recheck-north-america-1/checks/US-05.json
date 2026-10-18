@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "unsupported",
+   "why": "The press release exists only on commerce.gov, which refused the archiver; no stored file gives the title. The value is unchanged from the published record."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "This consortium is a core element of the new NIST-led U.S. AI Safety Institute announced yesterday at the U.K.’s AI Safety Summit 2023, in which U.S. Secretary of Commerce Gina Raimondo participated.",
+   "verdict": "supported",
+   "locator": "first paragraph"
+  },
+  {
+   "claim": "The institute and its consortium are part of NIST’s response to the recently released Executive Order on Safe, Secure, and Trustworthy Development and Use of AI.",
+   "verdict": "supported",
+   "locator": "second paragraph"
+  },
+  {
+   "claim": "The institute aims to measurably improve organizations’ ability to evaluate and validate AI systems, as detailed in the AI RMF Roadmap.",
+   "verdict": "supported",
+   "locator": "fourth paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "The press release (title) could not be stored; title has no stored evidence and the evidence script reports it. Other fields rest on alt-official NIST documents, so level A is not reachable. Summary now follows NIST's own description. Scope core. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

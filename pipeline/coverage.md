@@ -1,6 +1,6 @@
 # Search coverage
 
-Written 2026-10-17 by tools/pipeline.py frame --report from pipeline/frame.json: 266 jurisdictions, 1646 cells; 5 cells searched by the pipeline, 5 of them within 180 days.
+Written 2026-10-18 by tools/pipeline.py frame --report from pipeline/frame.json: 266 jurisdictions, 1646 cells; 5 cells searched by the pipeline, 5 of them within 180 days.
 
 | Region | Cells | Searched | Within 180 days | Jurisdictions with records |
 |---|---:|---:|---:|---:|

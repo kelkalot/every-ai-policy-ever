@@ -1,0 +1,61 @@
+{
+ "cand_id": "US-14",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "48-hour removal",
+   "verdict": "supported",
+   "locator": "Sec 3(a)(3)"
+  },
+  {
+   "claim": "FTC enforcement as unfair or deceptive practice",
+   "verdict": "supported",
+   "locator": "Sec 3(b)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  {
+   "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-begins-enforcing-take-it-down-act",
+   "why": "FTC press release 'FTC begins enforcing TAKE IT DOWN Act' (May 2026): implementation news, no amendment of the Act"
+  }
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Not AI-specific; extractor note kept: operative federal instrument on sexual deepfakes."
+ },
+ "overall": "accept",
+ "note": "Quotes found by the evidence script; changed fields traced to stored official text. No newer official version found in one search; the check was mainly against stored sources. Targeted search found an official FTC release on enforcement from 19 May 2026; it does not change the Act or the record fields."
+}

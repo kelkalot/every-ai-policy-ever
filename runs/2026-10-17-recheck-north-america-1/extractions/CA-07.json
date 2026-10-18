@@ -1,0 +1,308 @@
+{
+ "cand_id": "CA-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CA-07",
+ "record": {
+  "summary": "Canada's national AI strategy, built on trust, opportunity and sovereignty and organised in six pillars. Its first pillar, protecting Canadians and safeguarding democracy, commits to modernised privacy and online safety laws, legal tools against deepfakes and for safe chatbot interactions, protection of elections from AI-enabled misinformation, CAD 50 million for the Canadian AI Safety Institute to track emerging risks and evaluate AI models, AI transparency work including watermarking, a Canada Trusted AI Certification program, renewed funding for the Standards Council of Canada's AI Program, and work with frontier AI companies against cyber and national security threats from advanced AI.",
+  "safety_topics": [
+   "safety institute",
+   "evaluation & testing",
+   "transparency & labelling",
+   "deepfakes & synthetic media",
+   "child safety",
+   "national security & military"
+  ],
+  "notes": "Launched by Prime Minister Mark Carney on 4 June 2026; the strategy page was last modified on 8 June 2026. The Prime Minister's release says that over the next five years the strategy will introduce new legislation, investments and programs. It draws on national consultations in 2025, with more than 11,000 submissions, and a 28-member AI Strategy Task Force. Its legislative commitments concern consumer privacy legislation, online safety laws (including legal tools against deepfakes and for safe chatbot interactions) and the continued review of the Privacy Act. Further measures include applied AI research and testing with law enforcement and security agencies for fraud prevention, cyber defence and threat detection, a National AI Literacy Initiative, and, under the Canada-Germany Sovereign Technology Alliance launched in February 2026, shared AI evaluation standards and benchmarks. The government says it will review and update the plan.",
+  "scope_note": "Mainly a strategy for AI adoption, skills, sovereign infrastructure and scaling Canadian AI companies; included as Canada's national AI strategy, whose first pillar sets out its commitments on AI safety, online harms, transparency and the Canadian AI Safety Institute.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the strategy page on ised-isde.canada.ca and its PDF (Iu4-458/2026E-PDF, ISBN 978-0-662-35657-8), both stored 11 Oct 2026 and found unchanged by the archiver on 17 Oct 2026, and ISED's news release of 5 June 2026 (secondary source). Neither the page nor the PDF dates the launch; the Prime Minister's news release of 4 June 2026, stored in this run on 17 Oct 2026 from pm.gc.ca, confirms the launch that day, the title 'AI for All' and the five-year horizon. Removed from the notes as not supported by the stored files: the page creation date, succession to the Pan-Canadian AI Strategy, the remark on AIDA, Bill C-36, and an ISED consultation on AI transparency (July to September 2026) that rested on press reports. safety_topics cut from eight values to six."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 1",
+    "quote": "Canada’s National Artificial Intelligence Strategy: AI for All",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "page heading",
+    "quote": "Canada’s National Artificial Intelligence Strategy: AI for All (PDF, 2.37 MB)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-07/extra-3ab979fb27/2026-10-17/official.html",
+    "sha256": "445ec0d788eccd7e015c77a65858f4c7e35173ebf4ac5497c6f11ab8040b679a",
+    "locator": "news release",
+    "quote": "Prime Minister Carney launches AI for All: Canada’s new national artificial intelligence strategy",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 2",
+    "quote": "©His Majesty the King in Right of Canada, as represented by the Minister of Innovation, Science and Industry, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/document-1.pdf",
+    "sha256": "289625fcc57402709fd8aabc92fd3886d7da53872abb4d8511973f3fccceae58",
+    "locator": "page 5",
+    "quote": "The Honourable Evan Solomon Minister of Artificial Intelligence and Digital Innovation",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-07/extra-3ab979fb27/2026-10-17/official.html",
+    "sha256": "445ec0d788eccd7e015c77a65858f4c7e35173ebf4ac5497c6f11ab8040b679a",
+    "locator": "news release",
+    "quote": "June 4, 2026 Toronto, Ontario",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-07/extra-3ab979fb27/2026-10-17/official.html",
+    "sha256": "445ec0d788eccd7e015c77a65858f4c7e35173ebf4ac5497c6f11ab8040b679a",
+    "locator": "news release",
+    "quote": "Today, the Prime Minister, Mark Carney, launched AI for All, Canada’s new national AI strategy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/secondary.html",
+    "sha256": "6fa43aeedbc9acf7969583f6198888ac14813cf747f8c8d82240363828e997b3",
+    "locator": "Quick facts",
+    "quote": "On June 4, 2026, Prime Minister Mark Carney announced the launch of Canada’s National Artificial Intelligence Strategy: AI for All.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "page footer",
+    "quote": "Date modified: 2026-06-08",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Conclusion",
+    "quote": "This National AI Strategy gives Canada the direction, tools, and ambition to act with purpose, adapt with confidence, and build an AI future that truly serves Canadians.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "page footer",
+    "quote": "Date modified: 2026-06-08",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Conclusion",
+    "quote": "the Government of Canada will continue to review and update this plan to address the evolving opportunities and challenges presented by AI",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "The Government’s vision: AI for All",
+    "quote": "this strategy sets out six pillars",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1",
+    "quote": "This will include providing Canadians with the legal tools to combat deepfakes, ensure that interactions with chatbots are safe, and hold those responsible for online harms accountable.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will protect elections and democratic institutions from AI‑enabled misinformation and foreign interference.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will invest $50 million to expand the capabilities of the Canadian AI Safety Institute to track emerging AI risks, advance technical research, and to conduct transparent evaluations of AI models.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will work on AI transparency, including capabilities like watermarking of AI-generated content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will create a Canada Trusted AI Certification program to help Canadians identify trustworthy AI products in the marketplace.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will renew funding for the Standards Council of Canada’s AI Program",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will proactively work with frontier AI companies and international partners, leveraging our strengths in AI safety and cybersecurity, to ensure that Canadians and critical systems are protected from cyber and national security threats from advanced AI systems.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-07/extra-3ab979fb27/2026-10-17/official.html",
+    "sha256": "445ec0d788eccd7e015c77a65858f4c7e35173ebf4ac5497c6f11ab8040b679a",
+    "locator": "news release",
+    "quote": "Over the next five years, this strategy will introduce new legislation, investments, and programs that ensure AI is adopted responsibly",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/CA-07/extra-3ab979fb27/2026-10-17/official.html",
+    "sha256": "445ec0d788eccd7e015c77a65858f4c7e35173ebf4ac5497c6f11ab8040b679a",
+    "locator": "Quick facts",
+    "quote": "To inform AI for All, the government undertook national consultations in 2025. More than 11,000 submissions were received",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Message from the minister",
+    "quote": "We also received insights from our 28-member expert AI Strategy Task Force.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "page footer",
+    "quote": "Date modified: 2026-06-08",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will modernize consumer privacy legislation to enshrine a fundamental right to privacy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will introduce online safety laws to protect Canadians in the digital age",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "the Government will continue its review of the Privacy Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 1, Key actions",
+    "quote": "Canada will accelerate, in partnership with law enforcement and security and intelligence agencies, applied AI research, testing, and deployment of Canadian technologies for fraud and extortion prevention, cyber defence, threat detection, and data protection.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 2, Key actions",
+    "quote": "Canada will create a National AI Literacy Initiative",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 6",
+    "quote": "In February 2026, Canada and Germany launched the Sovereign Technology Alliance",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Pillar 6",
+    "quote": "It will also ensure similar approaches to safety and security, and establish shared AI evaluation standards and benchmarks",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/CA-07/2026-10-11/official.html",
+    "sha256": "be9c5728348acce2c89372a69b88d2637a529d39efbe778686a224d56d398612",
+    "locator": "Outcomes for Canada",
+    "quote": "Protect Canadians, particularly children, against AI risks and online harms",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the strategy text: the first pillar is 'Protecting Canadians and safeguarding our democracy' (trust is one of three values, not a pillar), election protection added",
+   "safety_topics": "eight values exceed the limit of six; 'general-purpose / frontier AI' and 'international cooperation' dropped (one action each, and Pillar 6 is mainly about economic partnerships), the six kept are each a key action of Pillar 1",
+   "notes": "rewritten: unsupported items removed (page creation date, succession to the Pan-Canadian AI Strategy, AIDA remark, Bill C-36, a consultation reported in the press, ISED release date); the five-year horizon and 2025 consultations from the Prime Minister's release, legislative commitments, security research, literacy, the Sovereign Technology Alliance's evaluation standards and the review clause added",
+   "scope_note": "added: the strategy's main content is adoption, skills, sovereign infrastructure and scaling companies, with safety in its first pillar; national strategies of this kind carry a scope_note (general rule on strategies; compare GB-05, NO-01)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Launched on 4 June 2026; the page (modified 8 June 2026) and PDF present it as Canada's current strategy and say it will be reviewed and updated; nothing shows a replacement. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A national AI strategy whose main focus is adoption and sovereignty, with a first pillar on protecting Canadians (AI safety institute, deepfakes, chatbots, transparency, certification). In scope with a scope_note under the general rule for strategies with a different main focus.",
+  "date_reasoning": "date_published 4 June 2026 from the Prime Minister's launch release (dateline 'June 4, 2026', 'Today ... launched'), matching ISED's release of 5 June 2026; the page and PDF carry no launch date. date_last_updated stays at the page's 'Date modified: 2026-06-08', as recorded before."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.pm.gc.ca/en/news/news-releases/2026/06/04/prime-minister-carney-launches-ai-all-canadas-new-national-artificial",
+   "reason": "The Prime Minister's news release of 4 June 2026 launching the strategy (linked from the stored ISED release): an official source for date_published from the announcing office, since the strategy page and PDF give no date. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Sovereign Technology Alliance (Canada and Germany, February 2026)",
+   "url": null,
+   "seen_in": "archive/CA-07/2026-10-11/official.html (Pillar 6)",
+   "why": "Intergovernmental initiative that, per the strategy, will 'ensure similar approaches to safety and security, and establish shared AI evaluation standards and benchmarks'; its founding declaration may be in scope as an intergovernmental instrument."
+  },
+  {
+   "title": "Protecting Victims Act (Government of Canada bill, introduced December 2025)",
+   "url": null,
+   "seen_in": "archive/_runs/2026-10-17-recheck-north-america-1/CA-07/extra-3ab979fb27/2026-10-17/official.html (Quick facts)",
+   "why": "Bill that 'proposes to prohibit the distribution of non-consensual sexual deepfakes'; an operative instrument on deepfakes, in scope with a scope_note under the general rules; not in the register."
+  }
+ ],
+ "open_questions": []
+}

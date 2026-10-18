@@ -1,0 +1,193 @@
+{
+ "cand_id": "US-27",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-27",
+ "record": {
+  "issuing_body": "The White House (President Donald J. Trump) with Google, Anthropic, Meta, OpenAI, xAI and Nvidia",
+  "notes": "Signed on 29 Sep 2026 by President Trump and by Sundar Pichai (Google), Dario Amodei (Anthropic), Mark Zuckerberg (Meta), Greg Brockman (OpenAI), Elon Musk (xAI) and Jensen Huang (Nvidia), the day the President signed Executive Order 14434 on 'Super Intelligence' terminology (US-26). The text sets no enforcement or reporting mechanism; each company is to partner with an independent external auditor or evaluator, and the accord says it may make sense over time to codify these steps into laws or regulations. On 1 Oct 2026 Reps. Jay Obernolte and Lori Trahan, authors of the FRONTIER Act (US-25), said the accord embraces principles at the heart of their bill (robust internal risk management, strong corporate governance and independent third-party evaluation) and that the bill would build on it and make it durable.",
+  "scope_note": "Commitments by six AI companies that the White House brokered and the President co-signed; included as a government-brokered company commitment.",
+  "verification": {
+   "note": "No copy of the accord on a White House site is stored. Recheck of 17 Oct 2026: the American Presidency Project's copy of the accord (UC Santa Barbara, a secondary source; stored again for this run, same text as the copy stored on 14 Oct 2026) gives the title and subtitle, the date of 29 September 2026, the full text and the signature block of the President and six company leaders; the summary, issuing_body and notes rest on it. The stored statement of Reps. Obernolte and Trahan of 1 Oct 2026 (obernolte.house.gov, unchanged on 17 Oct) confirms that leading AI companies signed the 'White House Accord' on the preceding Tuesday (29 Sep 2026) and names its principles, but gives only that short name. Press reports (IAPP, GovConWire, Washington Examiner, TechCrunch, CFR) say the text was shared on the President's Truth Social account after a White House roundtable and that the President called it 'morally binding'; this is not in a stored source and was moved here from notes, as was the remark that no copy was found on whitehouse.gov (fact sheets, releases, briefings and presidential actions checked by web search on 11 and 14 Oct 2026). The date of EO 14434 comes from the order's text stored for US-26."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "document heading and subtitle",
+    "quote": "White House Accord on Super Intelligence Joint Commitment on Frontier Responsibilities",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "document title and date line",
+    "quote": "White House Accord on Super Intelligence September 29, 2026",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-27/2026-10-11/secondary.html",
+    "sha256": "798af29ed00983636efdc44ff37253af05fd61bdce69e043cc175c0bc2a6beed",
+    "locator": "press release dated October 1, 2026 (a Thursday), first paragraph",
+    "quote": "issued the following statement on the White House Accord signed by leading AI companies on Tuesday",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-27/2026-10-11/secondary.html",
+    "sha256": "798af29ed00983636efdc44ff37253af05fd61bdce69e043cc175c0bc2a6beed",
+    "locator": "press release, quoted statement",
+    "quote": "This week, America's leading AI companies signed the White House Accord, an important step toward ensuring that the most advanced AI systems are developed responsibly.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "accord text",
+    "quote": "The participating companies will meet regularly to establish standards and best practices to improve the safety of their systems.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "closing paragraph",
+    "quote": "Over time, it may make sense to codify these steps into laws or regulations. Regardless of whether this is required of companies, we believe that implementing these controls and audits is critical to ensuring a safe future for everyone",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-27/2026-10-11/secondary.html",
+    "sha256": "798af29ed00983636efdc44ff37253af05fd61bdce69e043cc175c0bc2a6beed",
+    "locator": "press release, quoted statement",
+    "quote": "we look forward to each company expeditiously following through",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-27/2026-10-11/secondary.html",
+    "sha256": "798af29ed00983636efdc44ff37253af05fd61bdce69e043cc175c0bc2a6beed",
+    "locator": "press release, quoted statement",
+    "quote": "The FRONTIER Act would build on this foundation and make it durable.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "signature block",
+    "quote": "DONALD J. TRUMP President of the Unites States SUNDAR PICHAI Google DARIO AMODEI Anthropic MARK ZUCKERBERG Meta GREG BROCKMAN OpenAI ELON MUSK XAI JENSEN HUANG Nvidia",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "closing paragraph",
+    "quote": "Over time, it may make sense to codify these steps into laws or regulations. Regardless of whether this is required of companies, we believe that implementing these controls and audits is critical to ensuring a safe future for everyone",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "item (3)",
+    "quote": "(3) Partner with an independent external auditor or evaluator to carry out independent assessments",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-27/2026-10-11/secondary.html",
+    "sha256": "798af29ed00983636efdc44ff37253af05fd61bdce69e043cc175c0bc2a6beed",
+    "locator": "press release, quoted statement",
+    "quote": "The Accord embraces several principles at the heart of our bipartisan FRONTIER Act: robust internal risk management, strong corporate governance, and independent third-party evaluation.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-27/2026-10-11/secondary.html",
+    "sha256": "798af29ed00983636efdc44ff37253af05fd61bdce69e043cc175c0bc2a6beed",
+    "locator": "press release, quoted statement",
+    "quote": "The FRONTIER Act would build on this foundation and make it durable.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "signature block",
+    "quote": "DONALD J. TRUMP President of the Unites States SUNDAR PICHAI Google DARIO AMODEI Anthropic MARK ZUCKERBERG Meta GREG BROCKMAN OpenAI ELON MUSK XAI JENSEN HUANG Nvidia",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "first paragraph",
+    "quote": "we believe every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "item (1)",
+    "quote": "(1) Implement robust internal controls to monitor the capabilities and alignment of its models during training and deployment around areas like cybersecurity, biosecurity, and chemical threats, and to ensure that its models do not hack or access technical systems in unintended ways.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "items (2) and (3)",
+    "quote": "(2) Empower an internal team to ensure all of the controls, monitoring, and detection are operating as intended, and that any issues are remediated. (3) Partner with an independent external auditor or evaluator",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "item (4)",
+    "quote": "(4) Designate an independent committee of the board of directors to oversee and receive reports from the teams operating the controls",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-27/extra-199626f0e9/2026-10-17/official.html",
+    "sha256": "3434007eae2f09d55eb5b91ff955d585d5291ce59bf5c4dc80a1a13b6f0a83c8",
+    "locator": "accord text",
+    "quote": "The participating companies will meet regularly to establish standards and best practices to improve the safety of their systems.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "aligned with the signature block of the accord: 'Google' (not 'Alphabet/Google') and 'Nvidia' (not 'NVIDIA'); 'XAI' in the block is rendered as the company's name, xAI",
+   "notes": "removed hedges and research remarks ('Press reports say', 'Reported signatories', 'no copy on whitehouse.gov could be found ... were checked') and claims that are in no stored source (the roundtable, the Truth Social posting, the 'morally binding' remark, the counterpart-to-2023 comparison, 'auditors are chosen by the companies'); these go to verification.note. Signatories, the codification remark and the auditor partnership are quoted from the accord's text (APP copy stored in this run); the 1 Oct statement from the stored congressional statement",
+   "scope_note": "added: AGENTS.md section 10 puts company commitments that governments brokered and published in scope with a scope_note; the accord's commitments are the six companies', co-signed by the President",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A voluntary commitment signed on 29 Sep 2026; the 1 Oct 2026 congressional statement treats it as signed and current, and nothing stored shows withdrawal or replacement. 'Published (non-binding, current)' with legal_force 'Non-binding' stands; the accord's own text (APP copy) leaves codification into law for the future.",
+  "scope_reasoning": "Government-brokered commitments of frontier AI developers on safety controls and audits; in scope with a scope_note under the company-commitments rule.",
+  "date_reasoning": "The statement dated Thursday 1 Oct 2026 says the accord was signed 'on Tuesday', which is 29 Sep 2026; the APP copy dates it September 29, 2026.",
+  "title_evidence": "The full title is quoted from the American Presidency Project copy, a secondary source; the congressional statement gives only the short name 'White House Accord', so it is no longer cited for the title. The level therefore stays C."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence",
+   "reason": "The American Presidency Project's copy of the accord: full title and subtitle, date, text and signature block (stored in this run)."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "No official (White House) text of the accord is stored; the full title, the issuing parties and the summary's four layers of controls rest on the American Presidency Project copy, a secondary source. The record stays level C.",
+  "US-03 (the 2023 voluntary commitments), the comparable government-brokered company commitment, has no scope_note either."
+ ]
+}

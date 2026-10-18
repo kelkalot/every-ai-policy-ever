@@ -1,0 +1,52 @@
+{
+ "cand_id": "CA-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI chatbot services will also be subject to a Duty to Act Responsibly, tailored to chatbot services, which will require them to: (1) mitigate the risk of the chatbot communicating harmful content; (2)",
+   "verdict": "supported",
+   "locator": "Duties"
+  },
+  {
+   "claim": "(3) mitigate the risk that the chatbot will engage in harmful behaviour.",
+   "verdict": "supported",
+   "locator": "Duties"
+  },
+  {
+   "claim": "applying labels to synthetically generated content",
+   "verdict": "supported",
+   "locator": "Duties"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Online-safety bill with AI chatbot and synthetic-content duties; the existing scope_note fits."
+ },
+ "overall": "accept",
+ "note": "All quotes pass the evidence script and say what the fields state; the changes are confined to verification notes, notes and summary supported by stored text. No newer version found in the stored texts. Step 4 search on 18 Oct 2026 for an amendment, repeal, consolidated or newer version found nothing newer on an official site; no extra_urls added."
+}

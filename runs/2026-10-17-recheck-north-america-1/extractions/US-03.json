@@ -1,0 +1,192 @@
+{
+ "cand_id": "US-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-03",
+ "record": {
+  "summary": "Voluntary commitments by Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI, secured by the White House, to internal and external red-teaming of models before release (including biological, chemical, radiological and cyber risks), information sharing on safety risks with companies and governments, protecting unreleased model weights, third-party discovery and reporting of vulnerabilities, provenance or watermarking for AI-generated audio and visual content, public reports on capabilities and limitations, and research on societal risks. They cover generative models more powerful than the industry frontier at the time.",
+  "notes": "Announced on 21 July 2023 at the White House. The commitments rest on three principles, safety, security and trust, and the companies intended them to remain in effect until regulations covering substantially the same issues come into force. The White House said it had consulted on them with 20 countries and linked them to the G7 Hiroshima Process and the UK AI Safety Summit. The fact sheet now exists only on the archived Biden White House website. The Joint Commitment on Frontier Responsibilities of 29 September 2026 (US-27) replaced them as the federal government's voluntary framework with frontier AI companies.",
+  "scope_note": "Commitments made by AI companies, which the White House brokered and published; included as a government-brokered voluntary framework.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the White House fact sheet and the commitments PDF stored on 11 Oct 2026 (bidenwhitehouse.archives.gov could not be resolved from the archiver's machine on 17 Oct 2026). They confirm the title wording, 21 Jul 2023, the seven companies, the eight commitments, their scope and their intended duration. Version 1's note that a second group of eight companies joined in September 2023 was removed: the White House fact sheet of 12 Sep 2023 and the September 2023 commitments PDF requested in this run could not be stored (DNS lookup failed). 'Superseded' is a judgment resting on record US-27, whose own sources are secondary; no stored file of this record shows the commitments withdrawn or replaced."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "page heading",
+    "quote": "Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "first paragraph",
+    "quote": "to announce that the Biden-Harris Administration has secured voluntary commitments from these companies to help move toward safe, secure, and transparent development of AI technology",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "date line above the heading",
+    "quote": "July 21, 2023",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "archive banner at the top of the page",
+    "quote": "This is historical material “frozen in time”. The website is no longer updated and links to external websites and some internal pages may not work.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Voluntary AI Commitments",
+    "quote": "Companies intend these voluntary commitments to remain in effect until regulations covering substantially the same issues come into force.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 1",
+    "quote": "These voluntary commitments are only a first step in developing and enforcing binding obligations to ensure safety, security, and trust.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "first paragraph",
+    "quote": "President Biden is convening seven leading AI companies at the White House today – Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Safety 1)",
+    "quote": "Commit to internal and external red-teaming of models or systems in areas including misuse, societal risks, and national security concerns, such as bio, cyber, and other safety areas.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Safety 1)",
+    "quote": "Bio, chemical, and radiological risks, such as the ways in which systems can lower barriers to entry for weapons development",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Safety 2)",
+    "quote": "Work toward information sharing among companies and governments regarding trust and safety risks, dangerous or emergent capabilities, and attempts to circumvent safeguards",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 3, Security 3)",
+    "quote": "Invest in cybersecurity and insider threat safeguards to protect proprietary and unreleased model weights",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 3, Security 4)",
+    "quote": "Incent third-party discovery and reporting of issues and vulnerabilities",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 3, Trust 5)",
+    "quote": "AI-generated, including robust provenance, watermarking, or both, for AI-generated audio or visual content",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 4, 6)",
+    "quote": "Publicly report model or system capabilities, limitations, and domains of appropriate and inappropriate use, including discussion of societal risks",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 4, 7)",
+    "quote": "Prioritize research on societal risks posed by AI systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/document-1.pdf",
+    "sha256": "4f0551712391edcb251e4908276ea66f807ee08ca0e6d8afae8b4125a4bcfe41",
+    "locator": "page 2, Scope",
+    "quote": "they apply only to generative models that are overall more powerful than the current industry frontier",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "first commitments paragraph",
+    "quote": "underscore three principles that must be fundamental to the future of AI – safety, security, and trust",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "international paragraph",
+    "quote": "It has already consulted on the voluntary commitments with Australia, Brazil, Canada, Chile, France, Germany, India, Israel, Italy, Japan, Kenya, Mexico, the Netherlands, New Zealand, Nigeria, the Philippines, Singapore, South Korea, the UAE, and the UK.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "international paragraph",
+    "quote": "support and complement Japan’s leadership of the G-7 Hiroshima Process",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-03/2026-10-11/official.html",
+    "sha256": "af7c1bc0c4e1d792e7efd2e290bbd7bc7ed67799f4ad89c42215af54478a50df",
+    "locator": "archive banner at the top of the page",
+    "quote": "This is historical material “frozen in time”. The website is no longer updated and links to external websites and some internal pages may not work.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored PDF: the commitments in the PDF's own terms (biological, chemical, radiological and cyber risks; audio and visual content), and their scope (models above the then-current frontier)",
+   "notes": "rewritten: the three principles, the intended duration, the 20 consulted countries and the archive banner added from the stored files; the second group of eight companies (September 2023) removed because its source could not be stored; the status explanation shortened",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored files show voluntary commitments the companies intended to keep 'until regulations covering substantially the same issues come into force'; no such federal regulation is recorded in the register, and no stored file shows them withdrawn. The page survives only on the archived Biden White House site. The register's US-27 (29 Sep 2026) is the current administration's voluntary accord with frontier AI companies, so version 1's 'Superseded' is kept as a judgment; it rests on US-27, not on a stored file of this record.",
+  "scope_reasoning": "Commitments made by companies that the White House brokered and published: in, with a scope_note under AGENTS.md section 10 and the general rules in pipeline/scope-decisions.md. The record had none; one is added."
+ },
+ "extra_urls": [],
+ "open_questions": [
+  "Version 1's notes said a second group of eight companies joined in September 2023; no stored file supports it, so it was removed. The White House fact sheet of 12 Sep 2023 (https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/12/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/) could not be stored (DNS lookup failed); a later run or a person providing it could restore the sentence."
+ ],
+ "leads": []
+}

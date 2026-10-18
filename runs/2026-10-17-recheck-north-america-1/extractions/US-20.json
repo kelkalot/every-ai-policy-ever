@@ -1,0 +1,353 @@
+{
+ "cand_id": "US-20",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-20",
+ "record": {
+  "official_url": "https://www.govinfo.gov/content/pkg/FR-2025-12-16/pdf/2025-23092.pdf",
+  "secondary_url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+  "summary": "Sets a policy of a 'minimally burdensome' national AI framework and acts against state AI laws until one exists. The Attorney General must set up an AI Litigation Task Force to challenge conflicting state AI laws; Commerce must publish an evaluation identifying 'onerous' ones and bar states with them from BEAD non-deployment funds as far as federal law allows; agencies must assess whether to condition discretionary grants. The FCC is to consider a preemptive federal reporting and disclosure standard, and the FTC must say when state laws requiring changes to truthful AI outputs are preempted. A recommended preemption law must spare state child-safety, AI infrastructure and procurement laws.",
+  "notes": "Signed 11 December 2025 and published in the Federal Register on 16 December 2025 (90 FR 58499). The order gave 30 days for the AI Litigation Task Force and 90 days (to about 11 March 2026) for the Commerce evaluation of state AI laws, the BEAD Policy Notice and the FTC policy statement; the FCC proceeding is due within 90 days of the Commerce evaluation. The Attorney General established the Task Force by memorandum of 9 January 2026, chaired by the Attorney General or a designee with the Associate Attorney General as vice chair. The order cites a new Colorado law banning 'algorithmic discrimination' (SB 24-205, US-CO-01); on 24 April 2026 the Department of Justice moved to intervene in xAI's suit against that law, alleging that it violates the Equal Protection Clause. The FTC's proposed policy statement on the suppression of accuracy in AI systems of 1 July 2026 (US-24) says the order directs the Commission to issue it. The White House's legislative recommendations of March 2026 (US-22) set out the preemption that section 8 asks for.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: federalregister.gov still returns a CAPTCHA page to the archiver (stored copies of 11 and 17 Oct 2026), so official_url is now the GPO Federal Register PDF on govinfo.gov, stored in this run (the same file as the eo-14365.pdf linked from the White House page). It confirms the title, EO 14365, the 11 Dec 2025 signature, 90 FR 58499-58501 (FR Doc. 2025-23092) of 16 Dec 2025 and the provisions; the White House text of the order, also stored in this run and now secondary_url, adds the President's name. The implementation notes rest on the Attorney General's memorandum of 9 Jan 2026, the DOJ press release of 24 Apr 2026 and the FTC's proposed policy statement of 1 Jul 2026, all stored in this run; the archiver flagged the DOJ release page for review because its title appears little in the text, but the stored text is the release itself. The earlier notes' statements on the Commerce list (not made public, per secondary sources), the 99-1 Senate vote on the moratorium, H.R. 5388 and the absence of a preemption statute rested on law-firm alerts and Axios and were removed (see open_questions). The summary now states the grant and FCC provisions as the order words them."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1 (58499)",
+    "quote": "Executive Order 14365 of December 11, 2025 Ensuring a National Policy Framework for Artificial Intel-",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-07bbfdc7df/2026-10-17/official.html",
+    "sha256": "548ad019b473cdc9976cf7c07e68c8be425c8c7abd99a9d81ab23bbea4ecd4ec",
+    "locator": "Presidential Actions, Executive Orders",
+    "quote": "ENSURING A NATIONAL POLICY FRAMEWORK FOR ARTIFICIAL INTELLIGENCE Executive Orders December 11, 2025 Executive Order 14365",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1 (preamble)",
+    "quote": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-07bbfdc7df/2026-10-17/official.html",
+    "sha256": "548ad019b473cdc9976cf7c07e68c8be425c8c7abd99a9d81ab23bbea4ecd4ec",
+    "locator": "signature",
+    "quote": "DONALD J. TRUMP THE WHITE HOUSE, December 11, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1 (header)",
+    "quote": "58499 Federal Register / Vol. 90, No. 239 / Tuesday, December 16, 2025 / Presidential Documents",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 3",
+    "quote": "[FR Doc. 2025–23092",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1",
+    "quote": "Executive Order 14365 of December 11, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1",
+    "quote": "Executive Order 14365 of December 11, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 3 (signature)",
+    "quote": "THE WHITE HOUSE, December 11, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 3 (signature)",
+    "quote": "THE WHITE HOUSE, December 11, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1",
+    "quote": "Executive Order 14365 of December 11, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-be9eca48b3/2026-10-17/official.pdf",
+    "sha256": "efb3455943cb6c4e024894e6755c27328cc856522cbcb09633ec8141f0db87e7",
+    "locator": "page 1",
+    "quote": "I am hereby \"establish[ing] an AI Litigation Task Force (Task Force) whose sole responsibility shall be to challenge State AI laws inconsistent with the policy.\"",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-a13059632f/2026-10-17/official.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3 (II. Background)",
+    "quote": "Order directs the Commission to issue this enforcement policy statement",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 3",
+    "quote": "Within 30 days of the date of this order, the Attorney General shall establish an AI Litigation Task Force",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-be9eca48b3/2026-10-17/official.pdf",
+    "sha256": "efb3455943cb6c4e024894e6755c27328cc856522cbcb09633ec8141f0db87e7",
+    "locator": "page 1",
+    "quote": "I or my designee will serve as the Chair of the Task Force, and the Associate Attorney General will serve as the Vice Chair.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 2",
+    "quote": "through a minimally burdensome national policy framework for AI",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 4",
+    "quote": "publish an evaluation of existing State AI laws that identifies onerous laws",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 5(a)",
+    "quote": "States with onerous AI laws identified pursuant to section 4 of this order are ineligible for non-",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 5(b)",
+    "quote": "shall assess their discretionary grant programs",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 6",
+    "quote": "initiate a proceeding to determine whether to adopt a Federal reporting and disclosure standard for AI models that preempts conflicting State laws",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 7",
+    "quote": "State laws that require alterations to the truthful outputs of AI models are preempted",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 8(b)",
+    "quote": "(i) child safety protections;",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1 (header)",
+    "quote": "Federal Register / Vol. 90, No. 239 / Tuesday, December 16, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 6",
+    "quote": "Within 90 days of the publication of the identification specified in section 4 of this order",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-be9eca48b3/2026-10-17/official.pdf",
+    "sha256": "efb3455943cb6c4e024894e6755c27328cc856522cbcb09633ec8141f0db87e7",
+    "locator": "page 1",
+    "quote": "January 9, 2026 MEMORANDUM FOR ALL DEPARTMENT OF JUSTICE EMPLOYEES FROM: THE ATTORNEY GENERAL",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-be9eca48b3/2026-10-17/official.pdf",
+    "sha256": "efb3455943cb6c4e024894e6755c27328cc856522cbcb09633ec8141f0db87e7",
+    "locator": "page 1",
+    "quote": "SUBJECT: ARTIFICIAL INTELLIGENCE LITIGATION TASK FORCE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-be9eca48b3/2026-10-17/official.pdf",
+    "sha256": "efb3455943cb6c4e024894e6755c27328cc856522cbcb09633ec8141f0db87e7",
+    "locator": "page 1",
+    "quote": "I or my designee will serve as the Chair of the Task Force, and the Associate Attorney General will serve as the Vice Chair.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-20/2026-10-11/secondary.html",
+    "sha256": "b887522af2246fad7907ac73bdc4b8126db5ed09b08e676dd4070ee6668cdf4d",
+    "locator": "Sec. 1",
+    "quote": "a new Colorado law banning ``algorithmic discrimination'' may even force AI models to produce false results",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release",
+    "quote": "Friday, April 24, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release",
+    "quote": "The Justice Department moved to intervene in a lawsuit filed by artificial intelligence company xAI, challenging a new Colorado law that prohibits so-called “algorithmic discrimination.”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release",
+    "quote": "The Justice Department alleges that the Colorado law violates the Equal Protection Clause of the Fourteenth Amendment",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release",
+    "quote": "The statute, Colorado SB24-205",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-a13059632f/2026-10-17/official.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 1",
+    "quote": "SUPPRESSION OF ACCURACY IN ARTIFICIAL INTELLIGENCE SYSTEMS July 1, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-a13059632f/2026-10-17/official.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3 (II. Background)",
+    "quote": "On December 11, 2025, President Trump signed Executive Order 14365",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-a13059632f/2026-10-17/official.pdf",
+    "sha256": "fe359747815914cd7ada8916e4d1c87efc066a02636c6a0e9fa595b095c81f2b",
+    "locator": "page 3 (II. Background)",
+    "quote": "Order directs the Commission to issue this enforcement policy statement",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "federalregister.gov serves the archiver only a CAPTCHA page; the GPO Federal Register PDF on govinfo.gov is the order's official publication and was stored in this run",
+   "secondary_url": "the White House text of the order (stored in this run), with the President's signature; the GovInfo HTML it replaces duplicates the new official_url",
+   "summary": "the order has agencies assess whether to condition discretionary grants and the FCC consider a standard; the earlier summary said the order itself conditions the grants and directs the standard",
+   "notes": "rewritten: deadlines from the order; the Task Force memo, the DOJ intervention in the Colorado case and the FTC statement from official sources stored in this run; items resting only on unstored secondary sources removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed 11 Dec 2025; an executive order takes effect on signature and this one has no later effective date. No stored text revokes it, and the Attorney General's memo of 9 Jan 2026 and the FTC statement of 1 Jul 2026 act under it. 'In force' stands.",
+  "scope_reasoning": "An AI-specific executive order on federal preemption of state AI laws, including disclosure and child-safety carve-outs; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/FR-2025-12-16/pdf/2025-23092.pdf",
+   "reason": "GPO's signed Federal Register PDF of EO 14365 (90 FR 58499-58501, 16 Dec 2025): an official copy the archiver can store, since federalregister.gov serves it a CAPTCHA page; proposed as the new official_url so that title, date and status rest on an official source (level A)."
+  },
+  {
+   "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+   "reason": "The White House text of the order ('Ensuring a National Policy Framework for Artificial Intelligence', 11 Dec 2025), with the President's name in the signature for issuing_body."
+  },
+  {
+   "url": "https://www.justice.gov/ag/media/1422986/dl",
+   "reason": "Attorney General's memorandum of 9 Jan 2026 establishing the Artificial Intelligence Litigation Task Force under section 3 of the order; supports the notes on implementation (version 1 cited it but it was not stored)."
+  },
+  {
+   "url": "https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination",
+   "reason": "DOJ press release on its intervention in xAI's suit against Colorado's SB 24-205 (US-CO-01), the law the order cites; supports the notes on the Task Force's first case."
+  },
+  {
+   "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/ai-policy-statement_0.pdf",
+   "reason": "FTC proposed policy statement (US-24's stored document), which says the order directs the Commission to issue it; supports the notes' link between section 7 and US-24 from this record's own sources."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Attorney General memorandum establishing the Artificial Intelligence Litigation Task Force (9 January 2026)",
+   "url": "https://www.justice.gov/ag/media/1422986/dl",
+   "seen_in": "version 1 verification note of US-20; section 3 of EO 14365 in archive/US-20/2026-10-11/secondary.html",
+   "why": "DOJ instrument creating a body whose sole task is to challenge state AI laws; possibly in scope as the mandate of an AI-specific body, with a scope_note."
+  },
+  {
+   "title": "Department of Commerce evaluation of existing State AI laws under section 4 of EO 14365",
+   "url": null,
+   "seen_in": "archive/US-20/2026-10-11/secondary.html (Sec. 4)",
+   "why": "Required within 90 days of 11 Dec 2025; if published, an AI-specific federal instrument naming state AI laws to be challenged."
+  },
+  {
+   "title": "NTIA BEAD Policy Notice on state AI laws under section 5(a) of EO 14365",
+   "url": null,
+   "seen_in": "archive/US-20/2026-10-11/secondary.html (Sec. 5)",
+   "why": "Required within 90 days of 11 Dec 2025; conditions BEAD non-deployment funds on state AI laws."
+  },
+  {
+   "title": "FCC proceeding on a federal reporting and disclosure standard for AI models under section 6 of EO 14365",
+   "url": null,
+   "seen_in": "archive/US-20/2026-10-11/secondary.html (Sec. 6)",
+   "why": "A notice of inquiry or rulemaking on a preemptive AI disclosure standard would be in scope."
+  }
+ ],
+ "open_questions": [
+  "Implementation of sections 4 to 6: whether Commerce has published the evaluation of state AI laws, whether NTIA has issued the BEAD Policy Notice and whether the FCC has opened the proceeding. No official source on them is stored; version 1's notes said, from secondary sources, that the Commerce list had not been made public by April 2026. The statement was removed from the notes.",
+  "Version 1's notes also said that no federal preemption statute had been enacted as of October 2026, that the Senate removed a 10-year state AI law moratorium from the 2025 reconciliation bill by 99-1 in July 2025, and that H.R. 5388 (American Artificial Intelligence Leadership and Uniformity Act, introduced 16 Sep 2025) was pending. None of these is in a stored file, and they were removed from the notes."
+ ]
+}

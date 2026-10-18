@@ -1,0 +1,34 @@
+{
+ "record_id": "EU-03",
+ "definitions": [
+  {
+   "term": "AI system",
+   "term_group": "AI system",
+   "definition": "‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments",
+   "file": "archive/EU-03/2026-10-17/official-rendered.html",
+   "sha256": "e3544c93d29ebd2ba44a65d6253d86697c86a36838618d49706606e4fa4a172e",
+   "locator": "Article 3, point (1)",
+   "language": "English"
+  },
+  {
+   "term": "general-purpose AI model",
+   "term_group": "general-purpose AI model",
+   "definition": "‘general-purpose AI model’ means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are placed on the market",
+   "file": "archive/EU-03/2026-10-17/official-rendered.html",
+   "sha256": "e3544c93d29ebd2ba44a65d6253d86697c86a36838618d49706606e4fa4a172e",
+   "locator": "Article 3, point (63)",
+   "language": "English"
+  }
+ ],
+ "not_found": [
+  "artificial intelligence",
+  "AI model",
+  "model",
+  "high-risk AI system",
+  "frontier model",
+  "foundation model",
+  "generative AI",
+  "automated decision system"
+ ],
+ "note": "Quoted from the EUR-Lex HTML of the text published in the Official Journal (OJ L, 2024/1689, 12.7.2024). The same EUR-Lex page states that the act has been changed and that a consolidated version of 27/07/2026 exists; that consolidated text is not among the stored files, so any amendment of these points is not reflected here. The same points are on pages 50 and 54 of the stored print (official-print-2.pdf); official-2.html has an empty text layer. The Regulation uses 'AI model' without defining it; Article 3 defines only the general-purpose kind (point (63)). 'High-risk AI system' is not defined in Article 3: Article 6 sets classification rules across paragraphs 1 to 3 that refer to Annexes I and III, which are not one self-contained definition and do not fit in a single complete quote. Likewise Article 51 classifies a 'general-purpose AI model with systemic risk' by conditions rather than defining it; Article 3 defines 'high-impact capabilities' (point (64)) and 'systemic risk' (point (65)), which are capabilities and risks, not models, so they are not put in the frontier model group. Article 3 also defines 'general-purpose AI system' (point (66)), which would share the AI system group with point (1) and is left out. 'Artificial intelligence', 'generative AI', 'foundation model' and 'automated decision system' are not defined terms of the Regulation."
+}

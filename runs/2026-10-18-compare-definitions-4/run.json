@@ -1,0 +1,104 @@
+{
+ "run_id": "2026-10-18-compare-definitions-4",
+ "type": "compare",
+ "scope": "ids:EU-03,OECD-01,TW-01",
+ "started": "2026-10-18",
+ "coordinator": {
+  "tool": "Claude Code",
+  "model": "claude-opus-5-5"
+ },
+ "stages": {
+  "collect": {
+   "tool": null,
+   "model": null,
+   "date": null
+  },
+  "extract": {
+   "tool": "Claude Code",
+   "model": "claude-opus-5-5",
+   "date": "2026-10-18",
+   "tokens": 106404
+  },
+  "blind": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 71969
+  },
+  "check": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 62614
+  }
+ },
+ "status": "textify",
+ "record_ids": [
+  "EU-03",
+  "OECD-01",
+  "TW-01"
+ ],
+ "reasons": {
+  "EU-03": [
+   "named in the scope"
+  ],
+  "OECD-01": [
+   "named in the scope"
+  ],
+  "TW-01": [
+   "named in the scope"
+  ]
+ },
+ "steps": [
+  {
+   "step": "textify",
+   "who": "script",
+   "do": "python3 tools/definitions.py textify --run 2026-10-18-compare-definitions-4"
+  },
+  {
+   "step": "extract",
+   "who": "an extractor",
+   "do": "pipeline/roles/compare.md -> definitions/<ID>.json"
+  },
+  {
+   "step": "blind",
+   "who": "a fresh extractor",
+   "do": "pipeline/roles/compare.md -> definitions-blind/<ID>.json; never opens definitions/"
+  },
+  {
+   "step": "quotes",
+   "who": "script",
+   "do": "python3 tools/definitions.py check --run 2026-10-18-compare-definitions-4"
+  },
+  {
+   "step": "agreement",
+   "who": "script",
+   "do": "python3 tools/definitions.py compare --run 2026-10-18-compare-definitions-4"
+  },
+  {
+   "step": "check",
+   "who": "the checker, in a fresh context",
+   "do": "pipeline/roles/compare.md -> checks/<ID>.json"
+  },
+  {
+   "step": "merge",
+   "who": "script",
+   "do": "python3 tools/definitions.py merge --run 2026-10-18-compare-definitions-4; python3 tools/build.py"
+  },
+  {
+   "step": "report",
+   "who": "script",
+   "do": "python3 tools/definitions.py report --run 2026-10-18-compare-definitions-4"
+  },
+  {
+   "step": "gate",
+   "who": "script",
+   "do": "python3 tools/gate.py: every change against the rules; fix what fails, never skip it"
+  },
+  {
+   "step": "commit",
+   "who": "coordinator",
+   "do": "one commit on the branch run/2026-10-18-compare-definitions-4"
+  }
+ ]
+}

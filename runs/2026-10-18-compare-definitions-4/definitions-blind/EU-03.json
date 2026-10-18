@@ -1,0 +1,34 @@
+{
+ "record_id": "EU-03",
+ "definitions": [
+  {
+   "term": "AI system",
+   "term_group": "AI system",
+   "definition": "‘AI system’ means a machine-based system that is designed to operate with varying levels of\nautonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit\nobjectives, infers, from the input it receives, how to generate outputs such as predictions, content,\nrecommendations, or decisions that can influence physical or virtual environments;",
+   "file": "archive/EU-03/2026-10-17/official-print.pdf",
+   "sha256": "790b50b7a6918c4a92fe66948a1371ef4b9d5c8af961d0f02d3d08788d4720db",
+   "locator": "Article 3(1), page 50",
+   "language": "English"
+  },
+  {
+   "term": "general-purpose AI model",
+   "term_group": "general-purpose AI model",
+   "definition": "‘general-purpose AI model’ means an AI model, including where such an AI model is trained with\na large amount of data using self-supervision at scale, that displays significant generality and is\ncapable of competently performing a wide range of distinct tasks regardless of the way the model is\nplaced on the market and that can be integrated into a variety of downstream systems or\napplications, except AI models that are used for research, development or prototyping activities\nbefore they are placed on the market;",
+   "file": "archive/EU-03/2026-10-17/official-print.pdf",
+   "sha256": "790b50b7a6918c4a92fe66948a1371ef4b9d5c8af961d0f02d3d08788d4720db",
+   "locator": "Article 3(63), page 54",
+   "language": "English"
+  }
+ ],
+ "not_found": [
+  "artificial intelligence",
+  "AI model",
+  "model",
+  "high-risk AI system",
+  "frontier model",
+  "foundation model",
+  "generative AI",
+  "automated decision system"
+ ],
+ "note": "Article 6 sets classification rules for high-risk AI systems but gives no 'high-risk AI system' definition in Article 3, so that group is not found. Article 3(66) defines 'general-purpose AI system' (not a plan group)."
+}

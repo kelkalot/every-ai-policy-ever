@@ -475,6 +475,14 @@ changed 108, re-verified 1
 - **PY-02** verification.level: C → A — level computed from the evidence by tools/pipeline.py
 - **PY-03** summary: Policy of Paraguay's Supreme Court of Justice guiding magis… → Policy of Paraguay's Supreme Court of Justice guiding magis… — Annex Art. 8(d)-(e) read more closely: AI may not be used to determine guilt or innocence, and penalties may not be set without human intervention (version 1: 'using AI to determine guilt or set penalties'); Art. 11 bans systems whose working is 'completamente opaco', now 'wholly opaque'
 
+## 2026-10-18 · [2026-10-18-compare-definitions-4](runs/2026-10-18-compare-definitions-4/report.md)
+
+re-verified 3
+
+- **EU-03** re-verified, no change to definition D0002 (AI system) — the same wording quoted again from archive/EU-03/2026-10-17/official-rendered.html
+- **EU-03** re-verified, no change to definition D0003 (general-purpose AI model) — the same wording quoted again from archive/EU-03/2026-10-17/official-rendered.html
+- **OECD-01** re-verified, no change to definition D0006 (AI system) — the same wording quoted again from archive/OECD-01/2026-10-17/official-print.pdf
+
 ## 2026-10-18 · [2026-10-17-recheck-north-america-1](runs/2026-10-17-recheck-north-america-1/report.md)
 
 changed 93, re-verified 3

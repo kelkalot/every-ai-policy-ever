@@ -25,9 +25,9 @@
    "english_by": null,
    "language": "English",
    "locator": "Article 3, point (1)",
-   "file": "archive/EU-03/2026-10-11/official-2.html",
-   "sha256": "04b84ff27d3a06619a937798707d5c924c92787fd80cc2f1811b238f3eb45aaa",
-   "run_id": "2026-10-16-definitions-pilot"
+   "file": "archive/EU-03/2026-10-17/official-rendered.html",
+   "sha256": "e3544c93d29ebd2ba44a65d6253d86697c86a36838618d49706606e4fa4a172e",
+   "run_id": "2026-10-18-compare-definitions-4"
   },
   {
    "id": "D0003",
@@ -39,9 +39,9 @@
    "english_by": null,
    "language": "English",
    "locator": "Article 3, point (63)",
-   "file": "archive/EU-03/2026-10-11/official-2.html",
-   "sha256": "04b84ff27d3a06619a937798707d5c924c92787fd80cc2f1811b238f3eb45aaa",
-   "run_id": "2026-10-16-definitions-pilot"
+   "file": "archive/EU-03/2026-10-17/official-rendered.html",
+   "sha256": "e3544c93d29ebd2ba44a65d6253d86697c86a36838618d49706606e4fa4a172e",
+   "run_id": "2026-10-18-compare-definitions-4"
   },
   {
    "id": "D0004",
@@ -81,9 +81,9 @@
    "english_by": null,
    "language": "English",
    "locator": "Paragraph I, 'AI system', page 2",
-   "file": "archive/OECD-01/2026-10-11/official-print.pdf",
-   "sha256": "0b79ac72e6bb3cece194387fb81d9a28e2d0d845f04c8923a5d4ac6b5bdf6b9a",
-   "run_id": "2026-10-16-definitions-pilot"
+   "file": "archive/OECD-01/2026-10-17/official-print.pdf",
+   "sha256": "620ff14bbdba734f74ff5846c8f47457b91fccef0353f01cde4e5bfbed683eb0",
+   "run_id": "2026-10-18-compare-definitions-4"
   },
   {
    "id": "D0007",
@@ -402,15 +402,15 @@
    }
   },
   "EU-03": {
-   "run_id": "2026-10-16-definitions-pilot",
-   "date": "2026-10-16",
+   "run_id": "2026-10-18-compare-definitions-4",
+   "date": "2026-10-18",
    "files": {
-    "archive/EU-03/2026-10-11/official-2.html": "04b84ff27d3a06619a937798707d5c924c92787fd80cc2f1811b238f3eb45aaa",
-    "archive/EU-03/2026-10-11/official.html": "dcce562553e6a62ee57ac9c9efff09aa52513ccd23ac60723ade7bce12127610",
-    "archive/EU-03/2026-10-11/document-1.pdf": "bba630444b3278e881066774002a1d7824308934f49ccfa203e65be43692f55e",
-    "archive/EU-03/2026-10-11/document-2.pdf": "bba630444b3278e881066774002a1d7824308934f49ccfa203e65be43692f55e",
-    "archive/EU-03/2026-10-11/secondary-2.html": "b8c4058802a77c47451d62ba02e4e923e6bc62a1cef9a36600a9d24ae3f0b231",
-    "archive/EU-03/2026-10-11/secondary.html": "2df36c35173e992f157a88d8e2bc0096be143ab4612aa8d771c0f5c8e658e4d5"
+    "archive/EU-03/2026-10-17/official-2.html": "8ad048371c675034dcd42e1ac3a6cd4ae27a6ba5df4e55f4d379c316ddab117c",
+    "archive/EU-03/2026-10-17/official-rendered.html": "e3544c93d29ebd2ba44a65d6253d86697c86a36838618d49706606e4fa4a172e",
+    "archive/EU-03/2026-10-17/official-print-2.pdf": "a19310072aa9a749c3b2d3d2ef450e69bb2609839629c842a7e9f58deb6226b9",
+    "archive/EU-03/2026-10-17/official-print.pdf": "790b50b7a6918c4a92fe66948a1371ef4b9d5c8af961d0f02d3d08788d4720db",
+    "archive/EU-03/2026-10-17/secondary.html": "264c36245a9715bcba89457ccb28c807a21d32af31a32424272d06bb018a5703",
+    "archive/EU-03/2026-10-11/secondary-2.html": "b8c4058802a77c47451d62ba02e4e923e6bc62a1cef9a36600a9d24ae3f0b231"
    }
   },
   "JP-04": {
@@ -441,12 +441,14 @@
    }
   },
   "OECD-01": {
-   "run_id": "2026-10-16-definitions-pilot",
-   "date": "2026-10-16",
+   "run_id": "2026-10-18-compare-definitions-4",
+   "date": "2026-10-18",
    "files": {
     "archive/OECD-01/2026-10-11/official.html": "2d7447c98e31677dab7c7e4d619f5222ec47160cf1ea91b6b20245efb9b4d3e3",
     "archive/OECD-01/2026-10-11/official-rendered.html": "b324f3d8a3bae0b6a54ef54d6932564c98d193cd2e194384d972320da3844086",
+    "archive/OECD-01/2026-10-17/official-print.pdf": "620ff14bbdba734f74ff5846c8f47457b91fccef0353f01cde4e5bfbed683eb0",
     "archive/OECD-01/2026-10-11/official-print.pdf": "0b79ac72e6bb3cece194387fb81d9a28e2d0d845f04c8923a5d4ac6b5bdf6b9a",
+    "archive/OECD-01/2026-10-17/secondary.html": "36bd0a3afc98e16670fa319c3b18e06c45429f84d927475b2156519f4f16e59b",
     "archive/OECD-01/2026-10-11/secondary.html": "8f3722dded3bf299d7abcc2869a30ba427df471ff54b4847e6bdf8a081f6e956"
    }
   },
@@ -458,10 +460,11 @@
    }
   },
   "TW-01": {
-   "run_id": "2026-10-16-definitions-2",
-   "date": "2026-10-16",
+   "run_id": "2026-10-18-compare-definitions-4",
+   "date": "2026-10-18",
    "files": {
-    "archive/TW-01/2026-10-11/official.html": "53efa9363ba8ac7ccd02281eb84ddd480312d8a259792ad2d5a2139e22cd567a",
+    "archive/TW-01/2026-10-18/official-2.html": "e9ad2c3f6f19e2c04c125570c1653b2cc60e9934d35524edf6103558d92282f5",
+    "archive/TW-01/2026-10-18/official.html": "116e17f05df167de3c3e8c72ed2c00f6e60abd1c8ebf555f4f1d7b12af9d99e6",
     "archive/TW-01/2026-10-11/document-1.pdf": "dac3aa16e2a6cb8a94513a18d35e5dc55fc5a111e4da06fe4495830f4992bfe9",
     "archive/TW-01/2026-10-11/secondary.html": "32b7d9c73b84b1ec568e170a153b3b14a9e555bb8fb7d3d026c8573b306d3154"
    }

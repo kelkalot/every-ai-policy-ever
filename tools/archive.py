@@ -667,6 +667,9 @@ class RecordJob:
 
     # -- storage
     def store(self, role_key, role, res, warning=None):
+        # a new download replaces the earlier copy that keep_previous kept as stale for the same role (for example
+        # after a failed plain download, when the browser retry stores the page again)
+        self.files = [f for f in self.files if not (f.get("role_key") == role_key and f.get("stale"))]
         body = res.body
         digest = sha256(body)
         prev = self.prev_files.get(role_key)
@@ -970,7 +973,6 @@ def run_browser(job, bf, fetcher, args):
         job.notes.append("The browser retry also failed (%s)." % res.error)
         return
     if res.is_pdf:
-        job.files = [f for f in job.files if not (f["role_key"] == "official" and f.get("stale"))]
         job.store("official", "official", res)
         job.official_warnings = []
         return
@@ -978,6 +980,7 @@ def run_browser(job, bf, fetcher, args):
     job.store("official-rendered", "official-rendered", res, "; ".join(warnings) or None)
     if pres:
         job.store("official-print", "official-print", pres)
+    # the plain copy kept as stale is replaced by the browser copy
     job.files = [f for f in job.files if not (f["role_key"] == "official" and f.get("stale"))]
     job.official_warnings = warnings
     if not warnings:

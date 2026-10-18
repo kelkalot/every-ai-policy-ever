@@ -1009,11 +1009,18 @@ def _write_provided(folder, src, url, by, confirmed_by=None, issue=None, note=No
     ctype = mimetypes.guess_type(str(src))[0] or "application/octet-stream"
     ext = Path(src).suffix.lower() or ext_for(ctype, body, url)
     folder.mkdir(parents=True, exist_ok=True)
-    name, n = "provided" + ext, 2
-    while (folder / name).exists():
-        name, n = "provided-%d%s" % (n, ext), n + 1
-    (folder / name).write_bytes(body)
-    RecordJob._append_sums(folder, name, digest)
+    # a retry after an interrupted store reuses the copy already written to this folder instead of writing another
+    sums = folder / "SHA256SUMS"
+    listed = [l.split("  ", 1)[1] for l in (sums.read_text(encoding="utf-8").splitlines() if sums.exists() else [])
+              if l.startswith(digest + "  ")]
+    name = next((x for x in listed if x.startswith("provided") and (folder / x).is_file()
+                 and sha256((folder / x).read_bytes()) == digest), None)
+    if not name:
+        name, n = "provided" + ext, 2
+        while (folder / name).exists():
+            name, n = "provided-%d%s" % (n, ext), n + 1
+        (folder / name).write_bytes(body)
+        RecordJob._append_sums(folder, name, digest)
     now = iso(utcnow())
     return {"role_key": "provided", "role": "provided", "label": ROLE_LABELS["provided"],
             "path": (folder / name).relative_to(ROOT).as_posix(), "url": url, "final_url": source_url or url,
@@ -1080,7 +1087,7 @@ def store_provided(db, rid, src, url, by, confirmed_by=None, issue=None, note=No
     files.append(f)
     has_fresh_official = any(x.get("role_key") in ("official", "official-rendered") and not x.get("stale") for x in files)
     rec["local_copy"] = dict(lc, files=files, status="archived",
-                             flag=None if has_fresh_official else provided_flag(f), last_attempt=now)
+                             flag=None if has_fresh_official else provided_flag(f), last_attempt=f["retrieved_at"])
     return f
 
 

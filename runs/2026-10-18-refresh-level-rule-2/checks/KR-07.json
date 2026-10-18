@@ -1,0 +1,47 @@
+{
+ "cand_id": "KR-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Article 34 duties: risk-management plan, explanation plan, user-protection plan, human supervision, documents",
+   "verdict": "supported",
+   "locator": "guideline text"
+  },
+  {
+   "claim": "Operators post main elements of plans on their premises or website (decree Article 27)",
+   "verdict": "supported",
+   "locator": "guideline text"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "NIA's copy is the guideline's own text (cover title, MSIT as author); the date rests on NIA's notice (alt-official), so level B. No newer revision found."
+}

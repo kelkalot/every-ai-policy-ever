@@ -1,0 +1,55 @@
+{
+ "cand_id": "FR-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "The 2021 press kit launches a second phase of the national strategy, which supports Superseded as the first phase ended 2022; the strategy has no text of its own."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "1.5 billion euros over the five-year term; presented 29 March 2018 at the Collège de France",
+   "verdict": "supported",
+   "locator": "press kit of 28 Nov 2018 page 5"
+  },
+  {
+   "claim": "Proposal for an IPCC-like body for AI (GIEC de l'IA)",
+   "verdict": "supported",
+   "locator": "press kit page 5; President's speech"
+  }
+ ],
+ "newer_versions": [
+  {
+   "url": "https://www.info.gouv.fr/actualite/ia-une-nouvelle-impulsion-pour-la-strategie-nationale",
+   "what": "Third stage of the national AI strategy announced after the interministerial committee of 6 Feb 2025; not stored; does not change the fields this run sets."
+  }
+ ],
+ "extra_urls": [
+  "https://www.economie.gouv.fr/la-strategie-nationale-pour-lintelligence-artificielle"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: mainly a research, talent and funding strategy with an ethics pillar."
+ },
+ "overall": "accept",
+ "note": "All quotes are press kits or a speech, announcements labelled alt-official, so level B is right. A search found that a third stage of the national strategy was announced after the interministerial AI committee of 6 Feb 2025 (info.gouv.fr and economie.gouv.fr); it does not contradict Superseded, but a later run may want a record for it."
+}

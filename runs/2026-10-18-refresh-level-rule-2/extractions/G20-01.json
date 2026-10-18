@@ -1,0 +1,165 @@
+{
+ "cand_id": "G20-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "G20-01",
+ "record": {
+  "date_published": "2025-11",
+  "notes": "Adopted on 22 November 2025, the first day of the summit, in the absence of the United States: the South African Presidency's text of President Ramaphosa's address at the leaders' reception that evening says 'Today, we have adopted the Leaders' Declaration', and the government news service SAnews reported on 23 November 2025 that the leaders adopted it at the very start of the summit. The declaration itself gives only the summit's dates, 22 and 23 November 2025. It has 122 paragraphs; its AI section is paragraphs 44-47 under the heading 'Artificial Intelligence, Data Governance and Innovation for Sustainable Development'. Paragraph 46 notes the Technology Policy Assistance Facility set up by UNESCO under the South African Presidency to support countries in shaping their AI policies. Paragraph 122 commits members to working together under the United States' Presidency in 2026 and to meeting in the United Kingdom in 2027 and the Republic of Korea in 2028.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the declaration's PDF from the site of South Africa's Department of International Relations and Cooperation (dirco.gov.za, stored 17 Oct 2026; the copy on g20.org refuses the archiver with HTTP 403), the declaration's own text, which gives the title, the summit on 22 and 23 November 2025 and paragraphs 44-47 and 118-122; and the South African Presidency's text of the President's address at the G20 leaders' reception, dated Saturday 22 November 2025 ('Today, we have adopted the Leaders' Declaration'), stored as the record's secondary source. The declaration gives no day of adoption, only the summit's two days, so date_published now has the month the declaration gives and the notes keep the day with its sources; the address is a speech, an announcement, and counts as alt-official. Stored again in this run: the SAnews report of Sunday 23 November 2025 (sanews.gov.za, a government news service; a news report, so alt-official), which says the leaders adopted the declaration at the very start of the summit, in the absence of the United States. The G20 Research Group's reprint (not an official host) is dated Johannesburg, 22 November 2025."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 1",
+    "quote": "G20 South Africa Summit: LEADERS’ DECLARATION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 1, paragraph 1",
+    "quote": "We, Leaders of the G20, who gathered in Johannesburg, South Africa, for this historic first Summit on the African Continent",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 1, paragraph 1",
+    "quote": "under the South African G20 Presidency, on 22 and 23 November 2025, addressed major global challenges",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 1, paragraph 1",
+    "quote": "We, Leaders of the G20, who gathered in Johannesburg, South Africa, for this historic first Summit on the African Continent",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 1, paragraph 1",
+    "quote": "under the South African G20 Presidency, on 22 and 23 November 2025, addressed major global challenges",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/secondary.html",
+    "sha256": "1a7daa759d73bb590ac0ed2e116da6c20c53a5a820c80bcd45d2b73c0ec9d4c6",
+    "locator": "address, header and body",
+    "quote": "Today, we have adopted the Leaders’ Declaration of the G20 South Africa Summit",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 1",
+    "quote": "G20 South Africa Summit: LEADERS’ DECLARATION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/secondary.html",
+    "sha256": "1a7daa759d73bb590ac0ed2e116da6c20c53a5a820c80bcd45d2b73c0ec9d4c6",
+    "locator": "address, body",
+    "quote": "Today, we have adopted the Leaders’ Declaration of the G20 South Africa Summit",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 12, paragraph 45",
+    "quote": "We will work to promote international cooperation and further discussions to unlock the full potential of AI, equitably share its beneﬁts and mitigate risks",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/G20-01/2026-10-17/secondary.html",
+    "sha256": "1a7daa759d73bb590ac0ed2e116da6c20c53a5a820c80bcd45d2b73c0ec9d4c6",
+    "locator": "address, header",
+    "quote": "Submitted by nolan on 22 November 2025 Saturday, 22 November 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/secondary.html",
+    "sha256": "1a7daa759d73bb590ac0ed2e116da6c20c53a5a820c80bcd45d2b73c0ec9d4c6",
+    "locator": "address, body",
+    "quote": "Today, we have adopted the Leaders’ Declaration of the G20 South Africa Summit",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/G20-01/extra-afa67d3d4e/2026-10-18/official.html",
+    "sha256": "c446b8737d0d329cd4a36c21fb82015adbd20b96844d68762de07a25e071beb9",
+    "locator": "article date",
+    "quote": "Sunday, November 23, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/G20-01/extra-afa67d3d4e/2026-10-18/official.html",
+    "sha256": "c446b8737d0d329cd4a36c21fb82015adbd20b96844d68762de07a25e071beb9",
+    "locator": "article, second paragraph",
+    "quote": "G20 leaders yesterday adopted a declaration on the climate crisis and other global challenges at the very start of their summit, breaking with long-standing tradition.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/G20-01/extra-afa67d3d4e/2026-10-18/official.html",
+    "sha256": "c446b8737d0d329cd4a36c21fb82015adbd20b96844d68762de07a25e071beb9",
+    "locator": "article, third paragraph",
+    "quote": "Despite weeks of tough negotiations and the absence of the United States, South Africa succeeded in securing a consensus firmly on its own terms.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 12, paragraph 46",
+    "quote": "We note the establishment of the Technology Policy Assistance Facility (TPAF) by UNESCO under the South African Presidency",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/G20-01/2026-10-17/official.pdf",
+    "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+    "locator": "page 30, paragraph 122",
+    "quote": "We commit to working together under the United States’ Presidency in 2026 and meeting again in the United Kingdom in 2027 and in the Republic of Korea in 2028.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "2025-11-22 -> 2025-11: the declaration's own text gives only the summit's dates ('on 22 and 23 November 2025'), not the day of adoption; the day comes from the President's address at the leaders' reception, a speech (announcement), and from SAnews, so it moves to the notes with its sources (rule 7b), as for ASEAN-01's two-day meeting",
+   "notes": "first sentence now names the sources of the adoption day (the Presidency's text of the address of 22 November 2025 and SAnews of 23 November 2025) and says the declaration itself gives only the summit's dates; the rest unchanged",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding leaders' declaration adopted at the Johannesburg summit; it is a political statement that stays current as the G20's position until a later declaration restates it. Nothing stored withdraws it. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A general G20 summit declaration whose AI content is paragraphs 44-47; in scope with the existing scope_note.",
+  "date_reasoning": "The declaration says the leaders 'gathered in Johannesburg ... on 22 and 23 November 2025' and carries no date of its own; it does not say on which day it was adopted. The President's address of Saturday 22 November 2025 says 'Today, we have adopted the Leaders' Declaration', but it is a speech about the instrument, so its day goes into the notes and date_published is written at the declaration's precision, 2025-11.",
+  "level_reasoning": "The declaration's PDF is the instrument's own text (a declaration that is itself the instrument), on dirco.gov.za, a government domain, and it confirms the title, the month and the status: level A. The Presidency's text of the address is a speech and is labelled alt-official; it supports only the day in the notes."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.sanews.gov.za/south-africa/president-ramaphosa-hails-g20-declaration-victory-multilateralism",
+   "reason": "SAnews report of 23 November 2025 for the first sentence of the notes. Stored in this run."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,45 @@
+{
+ "cand_id": "G20-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The declaration gives only \"on 22 and 23 November 2025\", so YYYY-MM is right; the adoption day of 22 Nov rests on the President's address and SAnews (alt-official) in the notes."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Paragraphs 44-47 on AI; welcomes the AI for Africa Initiative",
+   "verdict": "supported",
+   "locator": "page 12, paragraph 47"
+  },
+  {
+   "claim": "Paragraph 46 notes UNESCO's Technology Policy Assistance Facility",
+   "verdict": "supported",
+   "locator": "page 12, paragraph 46"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: general summit declaration with an AI section."
+ },
+ "overall": "accept",
+ "note": "The declaration text on dirco.gov.za is the instrument itself and counts as official; the address and SAnews report are correctly labelled alt-official. The status quote is only the title, but nothing suggests withdrawal. No corrected or amended text found."
+}

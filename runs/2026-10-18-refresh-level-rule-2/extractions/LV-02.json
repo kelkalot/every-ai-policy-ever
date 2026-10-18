@@ -1,0 +1,97 @@
+{
+ "cand_id": "LV-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "LV-02",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. The record rests on VARAM's English press release of 25 February 2025 (varam.gov.lv, stored 12 Oct 2026, unchanged on 18 Oct 2026), an announcement, and on the Commission's page of single points of contact for market surveillance under the AI Act (last updated 7 September 2026). The release confirms the title, the report's preparation by VARAM, the Cabinet's consideration on 25 February 2025 and the designated authorities, as another official source would (level B). The summary and notes are written from the release, not from the report. The report itself, a Word file of 2025 on the Cabinet's legal-acts portal TAP (file 24-TA-2633), was requested in this run, but the portal's robots.txt does not allow automated downloads, so it is not stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "press release, first paragraph",
+    "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "press release, first paragraph",
+    "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "press release, date",
+    "quote": "Published: 25.02.2025.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "press release, first paragraph",
+    "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "press release, first paragraph",
+    "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/LV-02/2026-10-12/official.html",
+    "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+    "locator": "press release",
+    "quote": "the information report describes the current situation, the requirements of the AI Act and defines the actions to be taken by public authorities to ensure its national implementation",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification": "note rewritten: VARAM's release is an announcement, so the record is level B until the report's own text is stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "An informative report the Cabinet considered on 25 February 2025; it sets out tasks and designations but has no binding force of its own, and nothing stored shows it replaced. Published (non-binding, current).",
+  "date_reasoning": "25 February 2025, the Cabinet's consideration, from VARAM's release (published 25.02.2025); the report's own text is not stored.",
+  "scope_reasoning": "A government report designating the authorities for the AI Act's implementation; in scope with no note; unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/88c0238b-81ba-4fea-82ed-6bffab2b3512/download",
+   "reason": "The informative report 'Par Mākslīgā intelekta akta prasību ieviešanu' itself (Word file), a document version on the Cabinet's legal-acts portal TAP; requested in this run, refused by the portal's robots.txt."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Informatīvais ziņojums 'Par aizsardzības resora uzdevumiem saistībā ar Mākslīgā intelekta akta prasību ieviešanu' (Latvia, 2025)",
+   "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/bd8a75c9-67a8-4150-a3e1-4296297f17cf/download",
+   "note": "Informative report on the defence sector's tasks under the AI Act, seen in search results on the Cabinet's TAP portal; not opened; not in the register."
+  }
+ ],
+ "open_questions": [
+  "The report's own text is not stored: the TAP portal's robots.txt does not allow the archiver to download it. A person could provide the version the Cabinet considered on 25 February 2025 (AGENTS.md section 7.8); with it, or with the Cabinet's protocol decision for that sitting, the record could rest on the instrument's own text. Until then it rests on VARAM's release and is level B."
+ ]
+}

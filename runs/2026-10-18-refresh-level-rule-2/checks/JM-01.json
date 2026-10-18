@@ -1,0 +1,46 @@
+{
+ "cand_id": "JM-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The OPM announcement of 13 Feb 2025 is an announcement (alt-official); the report cover reads September 2024 but has no text layer, so it cannot be quoted."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Report is still the basis for the policy; OPM release of 22 May 2026 says the Task Force is drafting the first National AI Policy."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Ethical foundations include warnings about limitations such as hallucinations and compliance with the Data Protection Act 2020",
+   "verdict": "supported",
+   "locator": "report PDF, ethical considerations"
+  },
+  {
+   "claim": "Recommends a national AI regulatory authority in the long term",
+   "verdict": "supported",
+   "locator": "report PDF, recommendations (section 6)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: expert-group report published by the OPM."
+ },
+ "overall": "accept",
+ "note": "Announcements are labelled alt-official and the report's own text official, so level B follows from the publication date. The extractor's question on 2024-09 versus 2025-02 stands. A search found the draft National AI Policy due November 2026 with a public consultation site announced for September; no draft is published yet."
+}

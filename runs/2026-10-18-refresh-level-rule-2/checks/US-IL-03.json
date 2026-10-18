@@ -1,0 +1,48 @@
+{
+ "cand_id": "US-IL-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Release says SB 315 takes effect 1 Jan 2027; secondary law-firm notes say frontier-framework and audit duties start 1 Jan 2028, not confirmed by an official text."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Regular independent third-party safety audits by qualified experts without financial conflicts of interest",
+   "verdict": "supported",
+   "locator": "Governor release, first section"
+  },
+  {
+   "claim": "Confidential reporting channels and whistleblower protections for employees",
+   "verdict": "supported",
+   "locator": "Governor release"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The Governor's newsroom release is an announcement and is labelled alt-official, so level B is right. Status \"Adopted, not yet in force\" is correct today (effective 1 Jan 2027 per the release). Phased dates reported by secondary sources are an open question, already raised; the Act's text on ilga.gov is not stored."
+}

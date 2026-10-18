@@ -1,0 +1,200 @@
+{
+ "cand_id": "KH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KH-01",
+ "record": {
+  "official_url": "https://api.oecd.ai/storage//policy-initiatives/Apr2026/117ojpi25umod2xb23-Cambodia%20National%20Ai%20strategy.pdf",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. official_url now points at the draft's own text: the English 'Draft National Artificial Intelligence Strategy 2025-2030', prepared by MPTC and dated June 2025 (29 pages), the copy that the OECD.AI Policy Navigator entry links on OECD.AI's file storage (api.oecd.ai; the entry was updated by Cambodia's national contact point). MPTC's consultation announcement distributed the draft through a QR code, and no copy on an MPTC site is stored. The draft confirms the title, MPTC as author, the date June 2025, its draft status, priority 5, the 41 measures and the implementation mechanism. Also stored and read: MPTC's press release of 22 April 2025 on the deep-dive workshop (mptc.gov.kh; the previous official_url, copy of 12 Oct 2026), MPTC's announcement opening the public consultation (posted under 1 June 2025) and its release of 13 May 2025 on consultation meetings with ministries, all announcements, and the OECD.AI entry (the secondary source, copy of 18 Oct 2026), which gives the Khmer title and lists the strategy as proposed or under development. Whether the stored draft is the same text MPTC put to consultation is not stated in it. No adoption decision appears in any stored file."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1, cover",
+    "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1, cover",
+    "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, summary",
+    "quote": "Cambodia’s Draft National Artificial Intelligence Strategy 2025–2030, prepared by the Ministry of Post and Telecommunications",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, original-language name",
+    "quote": "យុទ្ធសាស្ត្រជាតិស្តីពីបញ្ញាសិប្បនិម្មិត ២០២៥–២០៣០",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1, cover",
+    "quote": "Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-12/official.html",
+    "sha256": "e8d8c77cee2f04be2415128228473ea704cd8519f63535d50c6a05f49296bfbc",
+    "locator": "press release, first paragraph",
+    "quote": "the Ministry of Post and Telecommunications (MPTC) organized a deep dive workshop on draft “National Artificial Intelligence Strategy”, in collaboration with and supported by the United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1, cover",
+    "quote": "Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "813384199a84515fccd0ea41109dff1acdbdf927d3c53e0c5a40f377086b5a2d",
+    "locator": "announcement, consultation",
+    "quote": "MPTC is pleased to open a public consultation on the draft Artificial Intelligence National Strategy, from today until 20 June 2025.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1, cover",
+    "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 23, section V",
+    "quote": "However, this national strategy on artificial intelligence is a living document that can be revised as necessary.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, metadata",
+    "quote": "Status: Proposed or under development",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, metadata",
+    "quote": "Updated on: 09 Jun 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 1, cover",
+    "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KH-01/2026-10-18/secondary.html",
+    "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+    "locator": "OECD.AI entry, metadata",
+    "quote": "Status: Proposed or under development",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/KH-01/2026-10-12/official.html",
+    "sha256": "e8d8c77cee2f04be2415128228473ea704cd8519f63535d50c6a05f49296bfbc",
+    "locator": "press release",
+    "quote": "the draft was submitted for 2 rounds of technical consultation with UN-ESCAP experts, held on February 19 and March 18, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "813384199a84515fccd0ea41109dff1acdbdf927d3c53e0c5a40f377086b5a2d",
+    "locator": "announcement",
+    "quote": "organized 10 bilateral and multilateral consultation meetings with those ministries and institutions between 9-20 May 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-ee86ca06da/2026-10-18/official.html",
+    "sha256": "813384199a84515fccd0ea41109dff1acdbdf927d3c53e0c5a40f377086b5a2d",
+    "locator": "announcement, date",
+    "quote": "Jun 1, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+    "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+    "locator": "page 23, section V",
+    "quote": "At the end of 2026 and 2028, MPTC will prepare an achievement report for dissemination",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-af03e22c06/2026-10-18/official.html",
+    "sha256": "78e6a00f9a29442e72ac1b33e9151072dd9ee1119a295d08a785642708e0b902",
+    "locator": "release of 13 May 2025",
+    "quote": "chaired a consultation meeting with representatives from relevant ministries and institutions to discuss and gather input on the draft National Artificial Intelligence Strategy",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at MPTC's press release on the deep-dive workshop, an announcement; the draft's own text (the English PDF dated June 2025 that the OECD.AI entry links) becomes official_url (rule 7c); the OECD.AI entry stays secondary_url because it carries the Khmer title and the current status",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored text is a draft ('Draft National Artificial Intelligence Strategy 2025-2030', June 2025) that calls itself a living document; MPTC put it to public consultation until 20 June 2025, and the OECD.AI entry, updated by Cambodia's national contact point on 9 June 2026, still lists it as proposed or under development. No stored file shows adoption. Draft / proposed.",
+  "date_reasoning": "The draft's cover gives June 2025, and the consultation opened on 1 June 2025; date_published 2025-06 keeps the draft's own precision.",
+  "scope_reasoning": "National AI strategy draft with a full priority on ethical and responsible AI (risk assessments, safety evaluation datasets, incident response); in scope with no note; unchanged.",
+  "source_kind_reasoning": "The PDF is the draft's own text; it is published on OECD.AI's storage through the entry that Cambodia's national contact point maintains, and MPTC's announcement distributed the draft through a QR code, so it is labelled official as the instrument's text."
+ },
+ "extra_urls": [
+  {
+   "url": "https://api.oecd.ai/storage//policy-initiatives/Apr2026/117ojpi25umod2xb23-Cambodia%20National%20Ai%20strategy.pdf",
+   "reason": "The draft strategy's own text (stored in this run); now official_url."
+  },
+  {
+   "url": "https://mptc.gov.kh/en/2025/06/announcement-on-progress-of-preparing-and-opening-public-consultation-on-draft-national-artificial-intelligence-strategy/",
+   "reason": "MPTC's announcement opening the public consultation until 20 June 2025 (stored in this run), behind the notes and the date."
+  },
+  {
+   "url": "https://mptc.gov.kh/en/2025/05/his-excellency-secretary-of-state-keo-sothie-chairs-consultation-meetings-with-ministries-and-institutions-on-the-draft-national-artificial-intelligence-strategy/",
+   "reason": "MPTC's release of 13 May 2025 on consultation meetings with ministries (stored in this run), behind the notes."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The draft's own text is stored only from OECD.AI's file storage, linked from the entry Cambodia's national contact point maintains; no copy on an MPTC site is stored. Whether that copy counts as the issuer's publication (official) or as another official body's (alt-official) is for the checker to judge."
+ ]
+}

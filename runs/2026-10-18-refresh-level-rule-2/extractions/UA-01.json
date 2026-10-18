@@ -1,0 +1,122 @@
+{
+ "cand_id": "UA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UA-01",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. The record rests on two announcements: the Cabinet of Ministers portal's news item of 7 October 2023 on the roadmap's presentation (kmu.gov.ua; the item's text is the same in the copies of 11 and 17 Oct 2026, only the page around it changed) and the Ministry of Digital Transformation's news item on the planned AI law (thedigital.gov.ua, stored 11 Oct 2026; the page's metadata dates it 15 June 2026, a date its text does not show). They confirm the title, the date of presentation, the ministry as author, the expert committee, the bottom-up tools and the later instruments, as announcements do (level B). The roadmap itself is linked from the Cabinet item only through a URL shortener (cutt.ly) that leads to a PDF on cms.thedigital.gov.ua; the archiver could not store it on 17 or 18 Oct 2026 (the download timed out both times). No English version of the roadmap was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, first paragraph",
+    "quote": "Дорожня карта з регулювання штучного інтелекту в Україні допоможе українським компаніям підготуватися до ухвалення закону-аналога AI Act Європейського Союзу",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, first paragraph",
+    "quote": "Дорожня карта з регулювання штучного інтелекту в Україні допоможе українським компаніям підготуватися до ухвалення закону-аналога AI Act Європейського Союзу",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, headline",
+    "quote": "Регулювання штучного інтелекту в Україні: Мінцифри презентувало дорожню карту",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, byline",
+    "quote": "Міністерство цифрової трансформації України, опубліковано 07 жовтня 2023",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, byline",
+    "quote": "Міністерство цифрової трансформації України, опубліковано 07 жовтня 2023",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item, last paragraph",
+    "quote": "Ознайомитися з дорожньою картою можна за посиланням",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "section 'Від саморегуляції до закону'",
+    "quote": "Опублікували Дорожню карту та Білу книгу з регулювання ШІ, щоб бізнес міг адаптуватися до європейського AI Act.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-11/secondary.html",
+    "sha256": "0c5fe5b7928e531eb7580e82a3b92243182885cc1cc223d25a5539aefa1217e6",
+    "locator": "section 'Наступний крок — профільний закон'",
+    "quote": "Протягом 2026 року спільна робоча група розробить закон про штучний інтелект",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "спочатку ми надамо бізнесу інструменти для підготовки до майбутніх вимог, а після цього буде ухвалено закон",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-01/2026-10-17/official.html",
+    "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+    "locator": "news item",
+    "quote": "Зокрема, підписанням добровільних кодексів поведінки",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification": "note rewritten: the Cabinet portal's item is an announcement about the roadmap, not its text, so it counts as alt-official and the record is level B until the roadmap's own text is stored"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The roadmap was presented on 7 October 2023 and made available through the item's link; the ministry's 2026 page lists it among what has been done ('Опублікували Дорожню карту') and names the next step, a law to be drafted during 2026. Nothing stored shows it replaced or withdrawn: Published (non-binding, current).",
+  "date_reasoning": "7 October 2023 is the date of the Cabinet portal's item on the roadmap's presentation; no stored text of the roadmap gives its own date.",
+  "scope_reasoning": "A government roadmap for AI regulation, in scope with no note; unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://cms.thedigital.gov.ua/storage/uploads/files/page/community/docs/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%B7_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%A8%D0%86_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_compressed.pdf",
+   "reason": "The roadmap's own text, reached from the Cabinet portal's item through cutt.ly/BwnN8fA5; requested in this run, the download timed out again (as on 17 Oct 2026)."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The roadmap's own text (PDF on cms.thedigital.gov.ua) could not be stored (timeouts on 17 and 18 Oct 2026), so the record rests on announcements and is level B. A person could provide the PDF (AGENTS.md section 7.8); once stored, it should become official_url."
+ ]
+}

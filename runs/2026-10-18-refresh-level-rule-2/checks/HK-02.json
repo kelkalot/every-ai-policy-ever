@@ -1,0 +1,48 @@
+{
+ "cand_id": "HK-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The press release of 15 Apr 2025 is an announcement and is correctly labelled alt-official; the guideline itself gives only the version date, so level B follows."
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Guidelines for reference by various sectors; DPO will update the content regularly",
+   "verdict": "supported",
+   "locator": "document-1.pdf page 2, Preamble"
+  },
+  {
+   "claim": "DPO commissioned HKGAI",
+   "verdict": "supported",
+   "locator": "document-1.pdf page 2, Preamble"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title, issuer, first-release date (press release, alt-official) and version 1.1 of December 2025 are supported. Source kinds are labelled correctly (the press release is alt-official). A targeted search found no version later than 1.1 of December 2025."
+}

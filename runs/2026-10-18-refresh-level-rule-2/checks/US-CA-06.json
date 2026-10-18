@@ -1,0 +1,55 @@
+{
+ "cand_id": "US-CA-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Start date of 1 Jan 2026 rests on Senator Padilla's release (alt-official)."
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Approval of SB 867 and SB 1119 on 10 Sep 2026 amending sections 22601 and 22602 is in the Senate Weekly History of 1 Oct 2026."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Break reminders for minors; sexually explicit images blocked",
+   "verdict": "supported",
+   "locator": "Governor release of 13 Oct 2025"
+  },
+  {
+   "claim": "Private right of action for families",
+   "verdict": "supported",
+   "locator": "Padilla release of 13 Oct 2025"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "SB 243 as Chapter 677 and its amendment by Chapters 189 and 190 of 2026 are supported by the Senate Weekly Histories. Source kinds are correct. No further amendment found; the texts of the 2026 acts are not stored, as the extractor says."
+}

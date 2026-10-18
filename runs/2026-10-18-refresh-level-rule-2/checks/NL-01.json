@@ -1,0 +1,45 @@
+{
+ "cand_id": "NL-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "The release and the Kamerstuk name the Uitvoeringswet AI-verordening; both are announcements, labelled alt-official."
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Ten market surveillance authorities designated",
+   "verdict": "supported",
+   "locator": "Kamerstuk 22 112, nr. 4318"
+  },
+  {
+   "claim": "Consultation ran to 1 June 2026",
+   "verdict": "supported",
+   "locator": "Rijksoverheid release, last paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Both sources are announcements of a draft bill and are labelled alt-official, so level B is right. The draft's own text cannot be stored (robots.txt), and original_title stays unsupported by stored text, as the extractor says. A search found only consultation responses (Raad voor de rechtspraak of 15 Jul 2026, Raad van State section of 8 Jul 2026) and no formal submission of the bill; status Draft / proposed stands."
+}

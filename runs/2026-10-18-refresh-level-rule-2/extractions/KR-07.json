@@ -1,0 +1,115 @@
+{
+ "cand_id": "KR-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KR-07",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the guideline (nia.or.kr, PDF, 111 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; the text layer displaces some numbers and punctuation; the cover image shows the logos of MSIT and the Telecommunications Technology Association, TTA) and NIA's notice of 22 January 2026 listing the five guideline files and their revisions (the record's secondary source, copy of 18 Oct 2026, which differs from the copy of 14 Oct 2026 only in the view count). The guideline confirms the title, MSIT as its author, the Article 34 duties, the reproduced decree and notification articles, the annexes and the hiring example. It carries no date of its own (its background section says only that the Act was to take effect in January 2026), so the publication date rests on NIA's notice (its date and the file name 260122). The notice is an announcement and counts as alt-official, so the record is level B until an official record dating the guideline is stored. The notice also says that the posted files are the current versions. No stored file gives the number or status of the technical notification."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/KR-07/2026-10-12/official.pdf",
+    "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+    "locator": "page 1, cover title",
+    "quote": "고영향 인공지능 사업자 책무 가이드라인",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-07/2026-10-18/secondary.html",
+    "sha256": "16d33dad1523d6fafcc47efdfb82d56bf4b945293363f8f537309ae596947a1d",
+    "locator": "NIA notice, attachment list",
+    "quote": "4._260122_고영향_인공지능_사업자_책무_가이드라인-1.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/KR-07/2026-10-12/official.pdf",
+    "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+    "locator": "page 1, cover title",
+    "quote": "고영향 인공지능 사업자 책무 가이드라인",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/KR-07/2026-10-12/official.pdf",
+    "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+    "locator": "page 3, 추진배경 (background)",
+    "quote": "과학기술정보통신부는 인공지능 기본법의 시행을 위한 하위법령 정비단을 출범시켰으며 고영향 인공지능 사업자의 , 책무를 구체화하고 안내하기 위해 본 가이드라인을 마련하였고",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-07/2026-10-18/secondary.html",
+    "sha256": "16d33dad1523d6fafcc47efdfb82d56bf4b945293363f8f537309ae596947a1d",
+    "locator": "NIA notice, attachment list",
+    "quote": "4._260122_고영향_인공지능_사업자_책무_가이드라인-1.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/KR-07/2026-10-18/secondary.html",
+    "sha256": "16d33dad1523d6fafcc47efdfb82d56bf4b945293363f8f537309ae596947a1d",
+    "locator": "NIA notice, heading and date",
+    "quote": "AI기본법 시행 및 하위법령 공개(1.22.~) 2026.01.22",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KR-07/2026-10-18/secondary.html",
+    "sha256": "16d33dad1523d6fafcc47efdfb82d56bf4b945293363f8f537309ae596947a1d",
+    "locator": "NIA notice, attachment list",
+    "quote": "4._260122_고영향_인공지능_사업자_책무_가이드라인-1.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/KR-07/2026-10-12/official.pdf",
+    "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+    "locator": "page 3, 추진배경 (background)",
+    "quote": "과학기술정보통신부는 인공지능 기본법의 시행을 위한 하위법령 정비단을 출범시켰으며 고영향 인공지능 사업자의 , 책무를 구체화하고 안내하기 위해 본 가이드라인을 마련하였고",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-07/2026-10-18/secondary.html",
+    "sha256": "16d33dad1523d6fafcc47efdfb82d56bf4b945293363f8f537309ae596947a1d",
+    "locator": "NIA notice, text",
+    "quote": "AI기본법 하위법령(가이드라인)의 현재본이 공개되었습니다.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/KR-07/2026-10-12/official.pdf",
+    "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+    "locator": "page 3, 추진배경 (background)",
+    "quote": "본 가이드라인은 사업자들이 법적 의무를 명확히 이해하고 이행할 수 있도록 지원하며",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this refresh: the guideline carries no date, and the publication date rests on NIA's notice, an announcement, which counts as alt-official (level B)"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "MSIT prepared the guideline to explain the Article 34 duties (background section); NIA's notice of 22 January 2026 distributed it with the other AI Basic Act guidelines and, in its copy of 18 Oct 2026, still lists it (file 260122) among the current versions, with no revision recorded for it. A guidance document that supports operators in meeting their statutory duties: 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "No page of the guideline's text gives its date; the cover image shows no date either. 2026-01-22 is the date of NIA's notice and of the file name (260122); both are announcements, so the date has alt-official support only. Rule 7b does not apply, as the instrument's own text gives neither the month nor the year.",
+  "scope_reasoning": "Unchanged: national government guidance on the statutory duties of high-impact AI operators under the AI Basic Act; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

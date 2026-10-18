@@ -1,0 +1,84 @@
+{
+ "cand_id": "KR-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "unsupported",
+   "why": "The only official quote is the running header, which misprints the title as 인공지능 안정성 확보 가이드라인, so it does not show the value; the correct title rests on NIA's file name.",
+   "fix": {
+    "value": "Guideline on Securing AI Safety (draft, Article 32 of the AI Basic Act)",
+    "evidence": [
+     {
+      "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+      "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+      "locator": "NIA notice, attachment list",
+      "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+      "source_kind": "alt-official"
+     }
+    ]
+   }
+  },
+  "original_title": {
+   "verdict": "unsupported",
+   "why": "The official quote is the misprinted running header (안정성); the title 인공지능 안전성 확보 가이드라인 is supported by NIA's attachment list only.",
+   "fix": {
+    "value": "인공지능 안전성 확보 가이드라인",
+    "evidence": [
+     {
+      "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+      "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+      "locator": "NIA notice, attachment list",
+      "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+      "source_kind": "alt-official"
+     }
+    ]
+   }
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "unsupported",
+   "why": "No evidence for issuing_body in the extraction; the guideline shows MSIT and ETRI logos only, and the KOSA part rests on an unstored non-official page. The run does not change the field."
+  },
+  "date_last_updated": {
+   "verdict": "unsupported",
+   "why": "'2026-02' rests on the KOSA help desk's later version, which is not stored and is on a host listed as not official. The run does not change the field."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Three criteria: 10^26 FLOP, state of the art, broad and serious risk",
+   "verdict": "supported",
+   "locator": "guideline chapter on scope"
+  },
+  {
+   "claim": "Safety measures to be submitted within three months of recognising the system is in scope",
+   "verdict": "supported",
+   "locator": "guideline text"
+  }
+ ],
+ "newer_versions": [
+  {
+   "what": "KOSA help desk version of Feb 2026 (최첨단 인공지능 안전성 확보 가이드라인)",
+   "where": "sw.or.kr",
+   "note": "not an official host, robots.txt blocks the archiver; no final notification found"
+  }
+ ],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "The draft text is stored and confirms draft status, Article 32 basis and content. The title evidence is moved to the alt-official file name because the official header misprints it. date_last_updated and the KOSA issuing body have no stored support; this run does not change them, so they become a question. A later KOSA-hosted version (draft notification No. 2026-126 of February 2026, titled 최첨단 인공지능 안전성 확보 가이드라인) exists per the extractor; searches found no final notification, and the page is not on an official host."
+}

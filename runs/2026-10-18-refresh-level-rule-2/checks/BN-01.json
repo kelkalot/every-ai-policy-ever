@@ -1,0 +1,69 @@
+{
+ "cand_id": "BN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "AITI's AI governance page, an official site, lists a 'Second Edition' of the guide, undated and unread (flipbook viewer with no text), and a Hansard answer of March 2026 says a Version 2.0 draft was targeted for the second quarter of 2026. Whether the stored edition is still the current one cannot be judged from stored text."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "language": {
+   "verdict": "judgment-differs",
+   "why": "Only the English text of the guide is stored; Malay appears in the press release only. 'English' alone would be better supported; the run does not change the field."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Seven principles (transparency and explainability ... accountability and integrity)",
+   "verdict": "supported",
+   "locator": "press release and guide"
+  },
+  {
+   "claim": "Working group of 25 members set up May 2024; consultation paper 9 July 2024 with 17 respondents",
+   "verdict": "supported",
+   "locator": "AITI AI governance page"
+  }
+ ],
+ "newer_versions": [
+  {
+   "what": "Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)",
+   "where": "https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics",
+   "note": "listed for download, shown in a flowpaper viewer; undated"
+  }
+ ],
+ "extra_urls": [
+  {
+   "url": "https://78460737.flowpaper.com/GuideonAIGovernanceandEthicsforBruneiDarussalamSecondEditiopdf/",
+   "reason": "Second Edition of the guide, linked from AITI's AI governance page; text and date unknown."
+  }
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "The guide's own PDF on aiti.gov.bn now backs the title, issuer and non-binding character (official); the date rests on the press release (alt-official), so level B. A Second Edition is listed on AITI's own site and may replace the stored edition, so the status 'current' and possibly the date and title need a person or a later run to read it."
+}

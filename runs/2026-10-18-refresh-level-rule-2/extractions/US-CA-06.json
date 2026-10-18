@@ -1,0 +1,209 @@
+{
+ "cand_id": "US-CA-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-06",
+ "record": {
+  "official_identifier": "Chapter 677, Statutes of 2025 (Senate Bill 243); amended by Chapter 189 (Senate Bill 867) and Chapter 190 (Senate Bill 1119), Statutes of 2026",
+  "date_last_updated": "2026-09-10",
+  "notes": "Passed the Assembly 59-1 on 10 Sep 2025 and the Senate 33-3 on 11 Sep 2025; signed on 13 Oct 2025 as Chapter 677, Statutes of 2025, in a package on children's online safety that also included AB 1043 (age verification signals), AB 316 (artificial intelligence: defenses), AB 621 (deepfake pornography) and AB 853 (California AI Transparency Act amendments). It adds Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code. Effective 1 Jan 2026. On 10 Sep 2026 the Governor approved SB 867 ('Toys: companion chatbots', Chapter 189, Statutes of 2026), which amends Section 22601 and adds and repeals Section 22604.5, and SB 1119 ('Companion chatbots: children's safety', Chapter 190, Statutes of 2026), which amends Section 22602 and adds Chapter 11.6 (commencing with Section 21810) to Division 8 of that Code.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 41 of 5 Feb 2026, the last complete history of the 2025 bills, and No. 67 of 1 Oct 2026 (senate.ca.gov, compiled under the Secretary of the Senate). They are the legislature's record of SB 243: its subject title 'Companion chatbots', the chapter of the Business and Professions Code it adds, the floor votes and its approval and chaptering on 13 Oct 2025 as Chapter 677, Statutes of 2025. The history of 1 Oct 2026 also records SB 867 (Chapter 189) and SB 1119 (Chapter 190), both approved on 10 Sep 2026, which amend Sections 22601 and 22602 of that chapter; date_last_updated and official_identifier follow it. Stored again: Senator Padilla's release of 13 Oct 2025 (sd18.senate.ca.gov), which gives the start date of 1 Jan 2026 and the private right of action, and the Assembly Privacy and Consumer Protection Committee's 2025 bill summary, which also gives Chapter 677. Re-read: the Governor's release of 13 Oct 2025 (gov.ca.gov, copy of 17 Oct 2026). The bill's page on leginfo.legislature.ca.gov still refuses automated downloads (HTTP 403), so official_url stays the Governor's release. The texts of SB 867 and SB 1119 as enacted, and when their amendments take effect, are not in a stored file. Version 1's reporting start of 1 Jul 2027 rests on no source and stays out of the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 785, Senate bills approved by the Governor, chaptered",
+    "quote": "243 677 Padilla ............. Companion chatbots. ................................... Oct. 13, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 106, S.B. No. 243",
+    "quote": "S.B. No. 243—Padilla—Companion chatbots. (Chapter − 677.)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 161, S.B. No. 243, history",
+    "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-06/2026-10-17/official.html",
+    "sha256": "8bb9aa463756101303435721b1bade46b0b3802acae7d6b8a3a758d548eea045",
+    "locator": "full list of the signed bills",
+    "quote": "SB 243 by Senator Steve Padilla (D-San Diego). Companion chatbots.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 161, S.B. No. 243, history",
+    "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119, history",
+    "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 936, Senate bills approved by the Governor, chaptered",
+    "quote": "867 189 Padilla ............. Toys: companion chatbots. ............................... Sep. 10, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 161, S.B. No. 243, history",
+    "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 785, Senate bills approved by the Governor, chaptered",
+    "quote": "243 677 Padilla ............. Companion chatbots. ................................... Oct. 13, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-7b262f97c0/2026-10-18/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "last paragraph",
+    "quote": "The bill becomes law on January 1st, 2026.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 161, S.B. No. 243",
+    "quote": "An act to add Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code, relating to artificial intelligence. 2025 Jan. 30—Introduced",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 322, S.B. No. 867",
+    "quote": "An act to amend Section 22601 of, and to add and repeal Section 22604.5 of, the Business and Professions Code, relating to business regulations.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 936, Senate bills approved by the Governor, chaptered",
+    "quote": "867 189 Padilla ............. Toys: companion chatbots. ............................... Sep. 10, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119",
+    "quote": "An act to amend Section 22602 of, and to add Chapter 11.6 (commencing with Section 21810) to Division 8 of, the Business and Professions Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119, history",
+    "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 939, Senate bills approved by the Governor, chaptered",
+    "quote": "1119 190 Padilla ............. Companion chatbots: children’s safety. ..................... Sep. 10, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 161, S.B. No. 243, history",
+    "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-7b262f97c0/2026-10-18/official.html",
+    "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+    "locator": "last paragraph",
+    "quote": "The bill becomes law on January 1st, 2026.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+    "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+    "locator": "page 161, S.B. No. 243",
+    "quote": "An act to add Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code, relating to artificial intelligence. 2025 Jan. 30—Introduced",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "null -> 2026-09-10: the Senate's record shows that SB 867 (Chapter 189) amends Section 22601 and SB 1119 (Chapter 190) amends Section 22602 of the Business and Professions Code, both approved on 10 Sep 2026, and that SB 243 added Chapter 22.6 commencing with Section 22601; the earlier recheck had no stored file showing which sections SB 1119 amends",
+   "official_identifier": "adds the two amending chapters of 2026 (SB 867, SB 1119)",
+   "notes": "adds the Code chapter SB 243 adds and replaces the last sentence (based on a release no longer among the stored sources) with the two amending acts from the Senate's record",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Senate's record: 'Oct. 13—Approved by the Governor' and 'Chaptered by Secretary of State. Chapter 677, Statutes of 2025'. Senator Padilla's release: 'The bill becomes law on January 1st, 2026', which has passed (today 18 Oct 2026). The 2026 amendments (SB 867, SB 1119) amend the chapter and do not repeal it. 'In force' stands.",
+  "date_reasoning": "date_published 2025-10-13 (approval and chaptering, 'Oct. 13, 2025' in the table of chaptered bills). date_in_force 2026-01-01 from the author's release. date_last_updated 2026-09-10: the approval of SB 867 and SB 1119, the latest acts amending SB 243's sections; their own effective dates are not in a stored file, so the date is the date of the amending acts, as for US-CA-02.",
+  "scope_reasoning": "AI-specific state law on companion chatbot safety; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.senate.ca.gov/media/4462",
+   "reason": "Senate Weekly History No. 41 of 5 Feb 2026 (stored in this run, round 1 request)."
+  },
+  {
+   "url": "https://www.senate.ca.gov/media/4621",
+   "reason": "Senate Weekly History No. 67 of 1 Oct 2026 (stored in this run, round 1 request)."
+  },
+  {
+   "url": "https://sd18.senate.ca.gov/news/first-nation-ai-chatbot-safeguards-signed-law",
+   "reason": "Senator Padilla's release of 13 Oct 2025 (stored in this run, round 1 request)."
+  },
+  {
+   "url": "https://apcp.assembly.ca.gov/system/files/2025-12/2025-legislative-bill-summary.pdf",
+   "reason": "APCP 2025 bill summary (stored in this run, round 1 request)."
+  }
+ ],
+ "open_questions": [
+  "The texts of SB 867 (Chapter 189) and SB 1119 (Chapter 190), Statutes of 2026, are not stored, so what they change in Sections 22601 and 22602 and when the changes take effect is open; the summary describes SB 243 as enacted in 2025.",
+  "The statute's own text is still not stored: leginfo.legislature.ca.gov refuses the archiver. official_url stays the Governor's release of 13 Oct 2025."
+ ],
+ "leads": []
+}

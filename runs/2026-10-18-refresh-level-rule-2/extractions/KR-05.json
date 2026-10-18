@@ -1,0 +1,133 @@
+{
+ "cand_id": "KR-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KR-05",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the draft guideline (nia.or.kr, PDF, 71 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; read through pdftotext, as the PDF's own text layer is garbled) and NIA's notice of 22 January 2026 distributing the AI Basic Act guidelines, stored in this run. The cover image shows the title, '2026. 1' and the logos of MSIT and ETRI, but the cover has no text layer, so the month cannot be quoted, and no page of the text gives a date for the guideline; the publication date therefore rests on NIA's notice (its date and the file name 260122), an announcement that counts as alt-official, and the record is level B. The PDF confirms the draft marking, the Article 32 and Decree Article 24 basis, the three criteria, the draft notification with its blank number, the compute-calculation methods, the chapter structure, the three-month submission rule and the 24-hour, 7-day and 15-day incident reports. The running header on every page misprints the title as '인공지능 안정성 확보 가이드라인'; the notice's file name gives the title correctly. MSIT as author rests on the cover logos and on the guideline's purpose of explaining MSIT's notification; no text names it as the author. The KOSA help desk's later version (draft notification No. 2026-126 of February 2026, title '최첨단 인공지능 안전성 확보 가이드라인'), on which date_last_updated '2026-02' and the KOSA part of issuing_body rest, could not be stored: the site's robots.txt does not allow automated downloads, and sw.or.kr is listed as not official. The archiver flagged NIA's notice for review because it barely mentions the guideline's title; it is the notice that distributes the guideline files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+    "locator": "NIA notice, attachment list",
+    "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "running header, pages 6, 8, 10 (misprints 안전성 as 안정성)",
+    "quote": "인공지능 안정성 확보 가이드라인",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 5, 1-1 가이드라인의 목적",
+    "quote": "본 가이드라인은 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」(이하 “법”이라 한다) 제32조 및 같은 법 시행령(이하 “영”이라 한다) 제24조에 따라 제정된 「인공지능 안전성 확보 의무의 이행방법 등에 관한 고시」",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+    "locator": "NIA notice, attachment list",
+    "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "running header, pages 6, 8, 10 (misprints 안전성 as 안정성)",
+    "quote": "인공지능 안정성 확보 가이드라인",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+    "locator": "NIA notice, heading and date",
+    "quote": "AI기본법 시행 및 하위법령 공개(1.22.~) 2026.01.22",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+    "locator": "NIA notice, attachment list",
+    "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2, notice",
+    "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아, 해외 동향과 인공지능 기술의 발전, 서비스 형태 등을 종합적으로 반영해 작성 중인 자료입니다.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2, notice",
+    "quote": "따라서 여기에 담긴 내용은 앞으로 공개될 최종본과는 달라질 수 있습니다.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+    "locator": "NIA notice, text",
+    "quote": "AI기본법 하위법령(가이드라인)의 현재본이 공개되었습니다.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2, notice",
+    "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아, 해외 동향과 인공지능 기술의 발전, 서비스 형태 등을 종합적으로 반영해 작성 중인 자료입니다.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 5, 1-1 가이드라인의 목적",
+    "quote": "체계적으로 정리한 참고 문서로서, 법령이나 고시를 대체하거나 새로운 의무를 부과하는 것을 목적으로 하지 않는다.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this refresh: the guideline's text gives no date (the cover's '2026. 1' is an image without a text layer), so the publication date rests on NIA's notice, an announcement, which counts as alt-official (level B); NIA's notice is now stored for this record"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The PDF opens with a notice that this guideline (draft, 가이드라인(안)) is still being written and may differ from the final version to be published, and the draft notification it explains has a blank number (제2026-○○호). NIA's notice (copy of 18 Oct 2026) still lists this file (260122) among the current versions; no final version is stored. 'Draft / proposed' and legal force 'Proposed' stand.",
+  "date_reasoning": "The cover image shows '2026. 1', but it has no text layer and cannot be quoted; no page of the text dates the guideline. 2026-01-22 rests on NIA's notice of that day and the file name 260122, an announcement, so the date has alt-official support only.",
+  "scope_reasoning": "Unchanged: draft national government guidance on the safety duty for frontier AI under Article 32 of the AI Basic Act; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99835&bcIdx=28987",
+   "reason": "Stored in this run (round 2): NIA's notice of 22 January 2026: the publication date and the file name with the correct original title."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "date_last_updated '2026-02' and the KOSA help desk named in issuing_body rest on the help desk's later version of the guideline (draft notification No. 2026-126 of February 2026, titled '최첨단 인공지능 안전성 확보 가이드라인'), which no stored file supports: sw.or.kr refuses automated downloads and is listed as not official. Either a person provides that version (archive.py --provide) or an official copy of it is found, or both values lose their support and should be reconsidered."
+ ]
+}

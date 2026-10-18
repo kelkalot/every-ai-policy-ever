@@ -1,0 +1,131 @@
+{
+ "cand_id": "US-IL-02",
+ "decision": "update",
+ "target_id": "US-IL-02",
+ "record": {
+  "official_identifier": "HB 1806"
+ },
+ "evidence": {
+  "official_identifier": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2",
+    "quote": "With HB1806, Illinois sets the standard for regulating the use of AI in mental health",
+    "source_kind": "alt-official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1",
+    "quote": "The Wellness and Oversight for Psychological",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2",
+    "quote": "With HB1806, Illinois sets the standard for regulating the use of AI in mental health",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1",
+    "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2",
+    "quote": "Resources Act was unanimously passed in each chamber of the Illinois General Assembly and goes into effect",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1",
+    "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1",
+    "quote": "August 4, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2",
+    "quote": "immediately with Governor Pritzker’s signature.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1",
+    "quote": "August 4, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2",
+    "quote": "immediately with Governor Pritzker’s signature.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 2",
+    "quote": "will result in a fine of up to $10,000 to IDFPR.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-02/2026-10-11/official.pdf",
+    "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+    "locator": "page 1",
+    "quote": "Resources Act prohibits anyone from using AI to provide mental health and therapeutic decision-making,",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "the stored release writes 'HB1806'; 'HB 1806 (104th General Assembly)' adds a General Assembly number that no stored file gives, so only the bill number is kept"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The release of Monday 4 August 2025 says the Governor signed 'on Friday' (1 August 2025) and that the Act 'goes into effect immediately with Governor Pritzker's signature'; nothing stored shows a later amendment or repeal, so the status stays In force.",
+  "scope_reasoning": "AI use in therapy and psychotherapy, a state law prohibiting it; in scope without a note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The Act's own text is not stored, so the Public Act number, the 104th General Assembly and the statutory commencement clause are unconfirmed; the summary's claims rest on the IDFPR release alone (level B at best).",
+  "The signing date 2025-08-01 is derived from 'on Friday' in a release dated Monday 4 August 2025."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

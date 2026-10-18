@@ -1,0 +1,134 @@
+{
+ "cand_id": "NL-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NL-01",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. The record's official source, the internetconsultatie.nl page with the draft bill, still cannot be stored because the site's robots.txt disallows automated downloads, so the draft bill's own text has not been read. Re-read the Rijksoverheid news release of 20 April 2026 (stored 11 Oct 2026 as the record's secondary source), which confirms that the State Secretary put the proposal for the implementing act out for consultation that day, the consultation's end date of 1 June 2026, the ministry and the roles of the AP and RDI. Stored again in this run, with its PDF: the State Secretary's letter to the House of 20 April 2026, Kamerstuk 22 112, nr. 4318, on zoek.officielebekendmakingen.nl (recorded as an official Dutch government site on 18 Oct 2026, issue #127), which names the implementing act and the six-week consultation, sets out the steps after it (an amended bill to the Council of Ministers and the Council of State, then the House) and gives the ten authorities, the single point of contact, the sandbox, the notifying authority, the timetable and the fundamental-rights authorities. The news release and the letter are announcements of the draft bill rather than its text, so their quotes count as alt-official. No later stage of the bill is shown in the stored files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, first paragraph",
+    "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/NL-01/extra-85a474c383/2026-10-18/official.html",
+    "sha256": "66978f6e99620c17a7a08a2c4a0caf297925b402f9a336dea43d62eb0217dd78",
+    "locator": "Kamerstuk 22 112, nr. 4318, first paragraph",
+    "quote": "De internetconsultatie over de uitvoeringswet AI-verordening, waarin deze inrichting wordt voorgesteld, loopt gedurende 6 weken na de publicatiedatum op https://www.internetconsultatie.nl/uaiv.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, first paragraph",
+    "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, footer",
+    "quote": "Ministerie van Economische Zaken en Klimaat",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/NL-01/extra-85a474c383/2026-10-18/official.html",
+    "sha256": "66978f6e99620c17a7a08a2c4a0caf297925b402f9a336dea43d62eb0217dd78",
+    "locator": "Kamerstuk 22 112, nr. 4318, heading",
+    "quote": "BRIEF VAN DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, header",
+    "quote": "Kabinet zet stap met toezicht op Europese AI-regels Nieuwsbericht20-04-2026 | 16:00",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, first paragraph",
+    "quote": "heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/NL-01/extra-85a474c383/2026-10-18/official.html",
+    "sha256": "66978f6e99620c17a7a08a2c4a0caf297925b402f9a336dea43d62eb0217dd78",
+    "locator": "Kamerstuk 22 112, nr. 4318, heading",
+    "quote": "Aan de Voorzitter van de Tweede Kamer der Staten-Generaal Den Haag, 20 april 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, last paragraph",
+    "quote": "Het wetsvoorstel is tot en met 1 juni 2026 (online) opengesteld voor consultatie.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/NL-01/extra-85a474c383/2026-10-18/official.html",
+    "sha256": "66978f6e99620c17a7a08a2c4a0caf297925b402f9a336dea43d62eb0217dd78",
+    "locator": "Kamerstuk 22 112, nr. 4318, timetable",
+    "quote": "Na ontvangst van alle reacties wordt een aangepaste versie van het wetsvoorstel en de bijhorende memorie van toelichting aan de ministerraad voorgelegd met het oog op aanbieding daarvan aan de Raad van State voor advies.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NL-01/2026-10-11/secondary.html",
+    "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+    "locator": "news release, last paragraph",
+    "quote": "Het wetsvoorstel is tot en met 1 juni 2026 (online) opengesteld voor consultatie.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/NL-01/extra-85a474c383/2026-10-18/official.html",
+    "sha256": "66978f6e99620c17a7a08a2c4a0caf297925b402f9a336dea43d62eb0217dd78",
+    "locator": "Kamerstuk 22 112, nr. 4318, timetable",
+    "quote": "Na verwerking van het advies van de Raad van State en wanneer het wetsvoorstel volledig van dekking is voorzien kan het bij uw Kamer worden ingediend.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this refresh: the draft bill's own text cannot be stored, and the news release and the State Secretary's letter are announcements of it, so the record stays at level B even though zoek.officielebekendmakingen.nl is now an official host"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The draft implementing act was put out for internet consultation on 20 April 2026, open until 1 June 2026 (news release). The State Secretary's letter of the same day says that after the consultation an amended bill goes to the Council of Ministers and the Council of State, and only then to the House. The stored files show no later stage, so the bill has not been submitted to the House as far as they show. A government draft bill after consultation and before submission is 'Draft / proposed' with legal force 'Proposed' on 18 Oct 2026.",
+  "scope_reasoning": "A national bill implementing the EU AI Act's supervision provisions; in scope with no note.",
+  "date_reasoning": "date_published 20 April 2026, the day the draft was put out for consultation ('vandaag', in the news release dated 20-04-2026). The draft bill's own text cannot be stored, so the date rests on the announcement.",
+  "level_reasoning": "The instrument is the draft bill published on internetconsultatie.nl, which robots.txt keeps the archiver from storing. The Kamerstuk 22 112, nr. 4318 is the State Secretary's letter informing the House how the cabinet intends to organise supervision and that the consultation runs for six weeks; it is a formal letter about the draft bill, not its text and not a register entry of a bill before Parliament, so its quotes are labelled alt-official like the news release. With its host now official, the letter counts as alt-official evidence; the record stays at level B until the draft bill itself is stored or provided."
+ },
+ "extra_urls": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4318.html",
+   "reason": "The State Secretary's letter to the House of 20 April 2026 (Kamerstuk 22 112, nr. 4318), on which the summary and notes rest. Stored in this run, with its PDF."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "original_title ('Wetsvoorstel tot uitvoering van de verordening artificiële intelligentie (Uitvoeringswet AI-verordening)') is left as published but no stored file supports it: the draft bill on internetconsultatie.nl cannot be stored because the site's robots.txt disallows automated downloads. A person could provide the consultation version of the draft bill with the 'Provide a document' form; it would also bring the record to level A."
+ ]
+}

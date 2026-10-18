@@ -1,0 +1,172 @@
+{
+ "cand_id": "US-CA-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-07",
+ "record": {
+  "title": "Independent Verification Organizations (SB 813) and Artificial Intelligence: Auditors: Registration (AB 1405)",
+  "official_identifier": "Chapter 179, Statutes of 2026 (Senate Bill 813); Chapter 178, Statutes of 2026 (Assembly Bill 1405)",
+  "notes": "Both approved by the Governor on 9 Sep 2026: SB 813 as Chapter 179 and AB 1405 as Chapter 178, Statutes of 2026. SB 813 adds Chapter 14 (commencing with Section 8898) to Division 1 of Title 2 of the Government Code, and AB 1405 adds Chapter 5.9.5 (commencing with Section 11549.80) to Part 1 of Division 3 of Title 2. EO N-9-26 of 18 Sep 2026 (US-CA-09) orders the Government Operations Agency to complete the requirements of Gov. Code sec. 8898.1 and post application requirements, procedures and criteria for independent verification organizations by 1 May 2027, and to complete the requirements of Gov. Code sec. 11549.82(a) by 1 Dec 2027. Combined into one record because they were enacted together as a single verification and audit framework.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 67 of 1 Oct 2026 (senate.ca.gov) and the Assembly Weekly History No. 37 of 5 Oct 2026 (clerk.assembly.ca.gov), the legislature's records of SB 813 and AB 1405. They give the subject titles 'Independent verification organizations' and 'Artificial intelligence: auditors: registration', the Government Code chapters the acts add and their approval and chaptering on 9 Sep 2026 as Chapters 179 and 178, Statutes of 2026; the title and official_identifier now follow them. Re-read: the Governor's release of 9 Sep 2026 (gov.ca.gov, copy of 18 Oct 2026), which gives the authors and purposes, and EO N-9-26 of 18 Sep 2026 (gov.ca.gov PDF, stored as the record's secondary source), which gives the implementation deadlines and the Government Code sections. The bills' text on leginfo.legislature.ca.gov still refuses automated downloads, so the statutes' text and their effective date are not stored, and the summary rests on the release and the executive order."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 935, Senate bills approved by the Governor, chaptered",
+    "quote": "813 179 McNerney .......... Independent verification organizations. ..................... Sep. 9, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 1347, Assembly bills approved by Governor and chaptered, 2026",
+    "quote": "1405 178 Bauer−Kahan ........ Artificial intelligence: auditors: registration. ................. Sep. 9, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 306, S.B. No. 813, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 413, A.B. No. 1405, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State − Chapter 178, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-07/2026-10-18/official.html",
+    "sha256": "6b18759be36e7151d035354f515232ecde6af825dff69d648bcc83b164d25a94",
+    "locator": "first paragraph",
+    "quote": "Governor Gavin Newsom today signed legislation (Senate Bill 813 and Assembly Bill 1405)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 306, S.B. No. 813, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 413, A.B. No. 1405, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State − Chapter 178, Statutes of 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 306, S.B. No. 813, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 935, Senate bills approved by the Governor, chaptered",
+    "quote": "813 179 McNerney .......... Independent verification organizations. ..................... Sep. 9, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 413, A.B. No. 1405, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State − Chapter 178, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 1347, Assembly bills approved by Governor and chaptered, 2026",
+    "quote": "1405 178 Bauer−Kahan ........ Artificial intelligence: auditors: registration. ................. Sep. 9, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 306, S.B. No. 813, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 413, A.B. No. 1405, history",
+    "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State − Chapter 178, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-07/2026-10-11/secondary.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2, Order, paragraph 1",
+    "quote": "No later than May 1, 2027, the Government Operations Agency shall complete the requirements of Section 8898.1 of the Government Code",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 306, S.B. No. 813",
+    "quote": "An act to add Chapter 14 (commencing with Section 8898) to Division 1 of Title 2 of the Government Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 413, A.B. No. 1405",
+    "quote": "An act to add Chapter 5.9.5 (commencing with Section 11549.80) to Part 1 of Division 3 of Title 2 of the Government Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the agent's rendering ('Independent Verification Organizations for AI Systems (SB 813), with companion AI Auditor Registry law (AB 1405)') replaced by the two bills' subject titles in the legislature's records, as for the register's other California bills (US-CA-12 'Toys: Companion Chatbots (SB 867)')",
+   "official_identifier": "bill numbers and Code sections replaced by the citable chapter numbers from the legislature's records (Chapters 179 and 178, Statutes of 2026); the Code sections stay in the notes",
+   "notes": "first sentence now gives the approval date, the chapters and the Government Code chapters each act adds",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Both bills were approved and chaptered on 9 Sep 2026 (Senate and Assembly histories). No stored file gives their effective date; EO N-9-26 sets the implementation steps for 1 May 2027 and 1 Dec 2027. Enacted, with no stored in-force date: 'Adopted, not yet in force' stands, and date_in_force stays null.",
+  "date_reasoning": "date_published 2026-09-09: 'Sep. 9—Approved by the Governor' in both histories, 'Sep. 9, 2026' in both tables of chaptered bills, and the release of that day.",
+  "scope_reasoning": "AI-specific state laws establishing independent verification of AI models and systems and a registry of AI auditors; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.senate.ca.gov/media/4621",
+   "reason": "Senate Weekly History No. 67 of 1 Oct 2026 (stored in this run, round 1 request): SB 813."
+  },
+  {
+   "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/10.5.2026-weekly-history.pdf",
+   "reason": "Assembly Weekly History No. 37 of 5 Oct 2026 (stored in this run, round 1 request): AB 1405."
+  }
+ ],
+ "open_questions": [
+  "date_in_force stays null: no stored file gives the effective date of Chapters 178 and 179, Statutes of 2026 (the statutes' text on leginfo.legislature.ca.gov refuses the archiver). A person could provide the chaptered texts with the 'Provide a document' form; official_url would then point at them instead of the Governor's release."
+ ],
+ "leads": []
+}

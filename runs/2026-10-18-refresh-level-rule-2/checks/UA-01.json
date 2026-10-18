@@ -1,0 +1,47 @@
+{
+ "cand_id": "UA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Presented by the Ministry of Digital Transformation on 7 October 2023",
+   "verdict": "supported",
+   "locator": "news item byline"
+  },
+  {
+   "claim": "Version 2.0 of the AI glossary and 90 sandbox applications (notes)",
+   "verdict": "supported",
+   "locator": "thedigital.gov.ua item, section on next steps"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All evidence is correctly labelled alt-official (announcements of the Cabinet portal and the ministry); the roadmap PDF itself is not stored, so level B is right. Targeted search found no revised roadmap or law; the AI law is still in drafting by the working group (reports differ on whether work starts in 2026 or 2027)."
+}

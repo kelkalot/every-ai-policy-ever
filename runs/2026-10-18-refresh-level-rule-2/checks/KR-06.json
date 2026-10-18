@@ -1,0 +1,50 @@
+{
+ "cand_id": "KR-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Two-step test: Article 2(4) area and significant effect on life, safety or fundamental rights",
+   "verdict": "supported",
+   "locator": "guideline text, section 1"
+  },
+  {
+   "claim": "Not legally binding",
+   "verdict": "supported",
+   "locator": "FAQ, page 214"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "NIA's copy (29 April 2026 version) is the guideline's own text; the date and revisions rest on NIA's notice (alt-official), so level B. The title in text appears only in a FAQ reference; the issuer's English cover title is an image. No later revision found."
+}

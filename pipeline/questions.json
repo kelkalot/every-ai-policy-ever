@@ -2123,12 +2123,13 @@
     "US-CA-02"
    ],
    "title": "US-CA-02 California AI Transparency Act: open question from run 2026-10-18-recheck-north-america-2",
-   "state": "open",
+   "state": "settled",
    "issue": 144,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/144",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "record:US-ME-01@2026-10-18-recheck-north-america-2",
@@ -2177,12 +2178,13 @@
     "US-HI-01"
    ],
    "title": "US-HI-01 Hawaii AI companion law (SB 3001, Act 248): open question from run 2026-10-18-recheck-north-america-2",
-   "state": "open",
+   "state": "settled",
    "issue": 147,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/147",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "host:ag-opinions.s3.amazonaws.com",
@@ -2438,12 +2440,13 @@
     "BN-01"
    ],
    "title": "BN-01 Brunei AI Governance and Ethics Guide (AITI): open question from run 2026-10-18-recheck-south-asia-1",
-   "state": "open",
+   "state": "settled",
    "issue": 161,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/161",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "sample:2026-10-18-recheck-south-asia-1",
@@ -2631,6 +2634,117 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-refresh-level-rule-1 (5 records)"
+  },
+  {
+   "key": "record:KR-05@2026-10-18-refresh-level-rule-2",
+   "kind": "record",
+   "subject": "KR-05",
+   "run_id": "2026-10-18-refresh-level-rule-2",
+   "held_back": false,
+   "why": "issuing_body is unsupported and the checker gave no evidence-backed fix; date_last_updated is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: {'what': 'KOSA help desk version of Feb 2026 (최첨단 인공지능 안전성 확보 가이드라인)', 'where': 'sw.or.kr', 'note': 'not an official host, robots.txt blocks the archiver; no final notification found'}",
+   "records": [
+    "KR-05"
+   ],
+   "title": "KR-05 Korea frontier AI safety guideline (Art. 32, draft): open question from run 2026-10-18-refresh-level-rule-2",
+   "state": "open",
+   "issue": 184,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/184",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:FR-02@2026-10-18-refresh-level-rule-2",
+   "kind": "record",
+   "subject": "FR-02",
+   "run_id": "2026-10-18-refresh-level-rule-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://www.info.gouv.fr/actualite/ia-une-nouvelle-impulsion-pour-la-strategie-nationale', 'what': 'Third stage of the national AI strategy announced after the interministerial committee of 6 Feb 2025; not stored; does not change the fields this run sets.'}; https://www.economie.gouv.fr/la-",
+   "records": [
+    "FR-02"
+   ],
+   "title": "FR-02 France AI for Humanity strategy (2018): open question from run 2026-10-18-refresh-level-rule-2",
+   "state": "open",
+   "issue": 185,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/185",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-IL-02@2026-10-18-refresh-level-rule-2",
+   "kind": "record",
+   "subject": "US-IL-02",
+   "run_id": "2026-10-18-refresh-level-rule-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: https://ilga.gov/Legislation/PublicActs/PrinterFriendly/104-0054",
+   "records": [
+    "US-IL-02"
+   ],
+   "title": "US-IL-02 Illinois AI therapy ban (HB 1806): open question from run 2026-10-18-refresh-level-rule-2",
+   "state": "open",
+   "issue": 186,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/186",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-CA-02@2026-10-18-refresh-level-rule-2",
+   "kind": "record",
+   "subject": "US-CA-02",
+   "run_id": "2026-10-18-refresh-level-rule-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://www.senate.ca.gov/media/4621', 'what': 'Senate Weekly History No. 67 of 1 Oct 2026: SB 1000 (Becker), Chapter 861, Statutes of 2026, amending the California AI Transparency Act; urgency statute, effective immediately. Affects summary, notes and possibly date_in_force; the run does n",
+   "records": [
+    "US-CA-02"
+   ],
+   "title": "US-CA-02 California AI Transparency Act: open question from run 2026-10-18-refresh-level-rule-2",
+   "state": "open",
+   "issue": 187,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/187",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:BN-01@2026-10-18-refresh-level-rule-2",
+   "kind": "record",
+   "subject": "BN-01",
+   "run_id": "2026-10-18-refresh-level-rule-2",
+   "held_back": false,
+   "why": "checker: The guide's own PDF on aiti.gov.bn now backs the title, issuer and non-binding character (official); the date rests on the press release (alt-official), so level B. A Second Edition is listed on AITI's own site and may replace the stored edition, so the status 'current' and possibly the date and title need a person or a later run to read it.; status is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: {'what': 'Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)', 'where': 'https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics', 'note': 'listed for download, shown in a flowpaper viewer; undated'}; {'url': 'https://78460737.flowpaper.com/GuideonAIGovernanceandEthicsforBr",
+   "records": [
+    "BN-01"
+   ],
+   "title": "BN-01 Brunei AI Governance and Ethics Guide (AITI): open question from run 2026-10-18-refresh-level-rule-2",
+   "state": "open",
+   "issue": 188,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/188",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "sample:2026-10-18-refresh-level-rule-2",
+   "kind": "sample",
+   "subject": "2026-10-18-refresh-level-rule-2",
+   "run_id": "2026-10-18-refresh-level-rule-2",
+   "records": [
+    "IS-01",
+    "KR-04",
+    "KR-05",
+    "LV-02",
+    "NL-01"
+   ],
+   "why": "Human sample of run 2026-10-18-refresh-level-rule-2: check each record against its stored sources.",
+   "state": "open",
+   "issue": 189,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/189",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-refresh-level-rule-2 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

@@ -1,0 +1,44 @@
+{
+ "cand_id": "LV-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Twelve market surveillance authorities named",
+   "verdict": "supported",
+   "locator": "press release, market surveillance paragraph"
+  },
+  {
+   "claim": "Ombudsman as fundamental-rights authority; Latvian National Accreditation Bureau as accreditation body",
+   "verdict": "supported",
+   "locator": "press release"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "VARAM's press release is an announcement labelled alt-official, so level B is right; the report itself is not stored (robots.txt). No newer Cabinet report on AI Act implementation was found; the defence-sector report seen in search is a separate instrument (listed by the extractor as a lead)."
+}

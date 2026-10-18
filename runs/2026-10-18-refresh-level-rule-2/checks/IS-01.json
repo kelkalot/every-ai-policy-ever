@@ -1,0 +1,56 @@
+{
+ "cand_id": "IS-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Both editions give only \"July 2025\", so YYYY-MM is right; the news items give 1 and 2 July."
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "The plan says it is valid for two years from publication, so it runs to July 2027 and is current."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported",
+   "why": "The English edition PDF carries the ministry imprint, July 2025 and its ISBN, so it is the plan's own text rather than the announcement."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Action 5 analyses effects on democratic debate, information disorder and foreign interference (autumn 2026)",
+   "verdict": "supported",
+   "locator": "English edition, impact of AI on democratic debate action"
+  },
+  {
+   "claim": "Plan valid for two years; review every six months",
+   "verdict": "supported",
+   "locator": "page 10, Review"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: action plan whose safety content is limited to a few actions."
+ },
+ "overall": "accept",
+ "note": "The plan's own text (English, with the Icelandic edition as the secondary source) now carries the evidence, so level A is right; the quotes match only with spacing ignored because the PDF text layer is letter-spaced. The news item stays alt-official. A search found no 2026 update or new edition."
+}

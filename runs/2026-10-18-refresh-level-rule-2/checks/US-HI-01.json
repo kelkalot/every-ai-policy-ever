@@ -1,0 +1,52 @@
+{
+ "cand_id": "US-HI-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Governor release of 14 Jul 2026 says the measures were signed that day."
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "The quote is from a tracker (secondary) and says effective 14 Jul 2026; no stored official file confirms it. Value is not changed by this run."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Operators must disclose AI interaction, adopt response protocols for suicidal ideation or self-harm, report annually to the Behavioral Health Administration",
+   "verdict": "supported",
+   "locator": "Governor release of 14 Jul 2026"
+  },
+  {
+   "claim": "Guidelines against addictive patterns aimed at minors and chatbots posing as human",
+   "verdict": "supported",
+   "locator": "Governor release of 14 Jul 2026"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Both Governor releases are announcements and are labelled alt-official; the tracker is secondary. Level B is right. The effective date remains open (issue #147). Secondary sources say the annual reports start 1 Jan 2028, which the summary does not state. No newer version found."
+}

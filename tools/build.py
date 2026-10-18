@@ -380,8 +380,9 @@ def _record_page(r, db, hist, questions, reverse_rel, slugmap):
         body.append('  <section><h2>Local copy</h2><div class="flag">%s%s</div></section>\n' % (lch, lcf))
 
     # verification
-    VLABEL = {"A": "The official source was fetched and confirms the title, date and status.",
-              "B": "Another official source confirms the title, date and status.",
+    VLABEL = {"A": "The instrument's own official text, or an official register, was stored and confirms the title, date "
+                   "and status.",
+              "B": "Another official source, such as an announcement by the issuer, confirms the title, date and status.",
               "C": "Not confirmed on an official page; the record rests on secondary sources. Check it before citing."}
     sc = v.get("second_check")
     body.append('  <section><h2>Verification</h2><div class="verify"><span class="big">%s</span>'

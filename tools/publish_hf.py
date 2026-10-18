@@ -283,8 +283,8 @@ No human has reviewed every record. The hand check of 50 records rules out frequ
 
 | Verification level | Meaning | Records |
 |---|---|---:|
-| A | The official page or document was fetched and confirmed the title, date and status | {A} |
-| B | Another official page confirmed them (a gazette entry, a ministry release, an official translation, the OECD.AI entry) | {B} |
+| A | The instrument's own official text, or an official register (gazette, law database, legislative record), was stored and confirmed the title, date and status | {A} |
+| B | Another official source confirmed them (an announcement by the issuer, a page of another official body, an official translation, the OECD.AI entry) | {B} |
 | C | No official page could be fetched; the record rests on at least two independent secondary sources and says CAUTION | {C} |
 
 Check the level before citing a record, and re-check level C records against the original.

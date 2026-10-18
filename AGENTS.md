@@ -111,7 +111,7 @@ Not part of a pipeline run: `python3 tools/package.py` (the zip in `dist/`, huma
 
 Scopes: a discover run selects frame cells with `codes:FI,SE`, `region:Europe`, `level:Sub-national`, `types:legislature,gazette`, `due` and `all`, combined with spaces (quote values with spaces: `region:"Sub-Saharan Africa"`). A refresh or recheck run selects records with `ids:EU-03,US-09`, `codes:`, `region:`, `level:` or `all`; a refresh run without a scope takes the top of the queue. Selectors combine, so `region:Europe types:legislature` is a run-sized part of a region; a scope larger than one run (section 8) is refused.
 
-Python 3.8 or later and the standard library are enough for the core; `pypdf` reads PDFs, `playwright` gives the browser retry, and `tesseract` reads scanned PDFs.
+Python 3.8 or later and the standard library are enough for the core; `pypdf` reads PDFs, `playwright` gives the browser retry, `tesseract` reads scanned PDFs, and `antiword`, `catdoc` or LibreOffice reads `.doc` files (macOS has `textutil`; `.docx` needs nothing extra). `textify` also reads the page data that Next.js sites keep in their scripts instead of their HTML (Finlex, IMDA).
 
 ## 4. Rules for any agent
 

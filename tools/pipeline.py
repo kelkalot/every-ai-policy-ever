@@ -686,6 +686,9 @@ def cmd_menu(args):
             setup.append("Python package %s is missing (%s): python3 -m pip install %s" % (mod, why, mod))
     if not shutil.which("tesseract"):
         setup.append("tesseract is missing (OCR for scanned PDFs); runs work without it but cannot read scans")
+    if not any(shutil.which(t) for t in ("textutil", "antiword", "catdoc", "soffice", "libreoffice")):
+        setup.append("no reader for .doc files (antiword, catdoc or LibreOffice; macOS has textutil); runs work without "
+                     "it but cannot quote stored Word documents")
     if setup:
         print("Setup first:")
         for x in setup:
@@ -1100,17 +1103,8 @@ class _Blocks(HTMLParser):
             self.parts.append(data)
 
 
-def html_text(path):
-    import archive  # noqa: E402  (same folder; imported late because it is large)
-    body = Path(path).read_bytes()
-    p = _Blocks()
-    try:
-        p.feed(archive.decode_html(body, "text/html"))
-        p.close()
-    except Exception:
-        pass
-    text = "".join(p.parts)
-    lines = [re.sub(r"[ \t ]+", " ", l).strip() for l in text.splitlines()]
+def _tidy(text):
+    lines = [re.sub(r"[ \t\u00a0]+", " ", l).strip() for l in text.splitlines()]
     out, blank = [], 0
     for l in lines:
         if l:
@@ -1119,7 +1113,213 @@ def html_text(path):
         elif not blank:
             out.append("")
             blank = 1
-    return "\n".join(out).strip(), None, "html"
+    return "\n".join(out).strip()
+
+
+def _html_fragment_text(html):
+    p = _Blocks()
+    try:
+        p.feed(html)
+        p.close()
+    except Exception:
+        pass
+    return "".join(p.parts)
+
+
+_NEXT_SKIP = {"script", "style", "link", "meta", "noscript", "template", "svg", "path", "title", "head"}
+_SVG_PATH = re.compile(r"^[MmLlHhVvCcSsQqTtAaZz0-9.,\s-]+$")
+
+
+def _flight_rows(payload):
+    """Rows of a React Server Components payload: ("T", text) for text rows, ("J", json) for the others."""
+    pos, n, row = 0, len(payload), re.compile(r"([0-9a-f]+):")
+    while pos < n:
+        m = row.match(payload, pos)
+        if not m:
+            nl = payload.find("\n", pos)
+            if nl < 0:
+                break
+            pos = nl + 1
+            continue
+        pos = m.end()
+        if payload.startswith("T", pos) and "," in payload[pos:pos + 12]:
+            comma = payload.find(",", pos)
+            try:
+                size = int(payload[pos + 1:comma], 16)
+            except ValueError:
+                size = 0
+            raw = payload[comma + 1:comma + 1 + size * 4].encode("utf-8")[:size].decode("utf-8", "ignore")
+            yield "T", raw
+            pos = comma + 1 + len(raw)
+        else:
+            nl = payload.find("\n", pos)
+            end = n if nl < 0 else nl
+            yield "J", payload[pos:end]
+            pos = end + 1
+
+
+def _flight_walk(node, out):
+    """Text of a React element tree as the payload stores it (["$", tag, key, props]), in document order."""
+    if isinstance(node, str):
+        if node.startswith("$$"):
+            out.append(node[1:])
+        elif not node.startswith("$"):
+            out.append(node)
+    elif isinstance(node, list):
+        if len(node) == 4 and node[0] == "$" and isinstance(node[1], str):
+            tag, props = node[1], node[3] if isinstance(node[3], dict) else {}
+            if tag in _NEXT_SKIP:
+                return
+            block = tag in _Blocks.BLOCK
+            if block:
+                out.append("\n")
+            inner = props.get("dangerouslySetInnerHTML")
+            if isinstance(inner, dict) and isinstance(inner.get("__html"), str):
+                out.append(_html_fragment_text(inner["__html"]))
+            _flight_walk(props.get("children"), out)
+            if block:
+                out.append("\n")
+        else:
+            for x in node:
+                _flight_walk(x, out)
+    elif isinstance(node, dict) and "children" in node:
+        _flight_walk(node["children"], out)
+
+
+def _json_strings(node, out):
+    """Prose in the page props of an older Next.js page (__NEXT_DATA__): strings with words, HTML converted."""
+    if isinstance(node, str):
+        if re.search(r"<(p|div|h\d|li|br|span|strong|em|table)\b", node):
+            out.append("\n" + _html_fragment_text(node) + "\n")
+        elif " " in node.strip() and re.search(r"[^\W\d_]{2}", node) and not node.startswith(("http", "/")):
+            out.append(node + "\n")
+    elif isinstance(node, list):
+        for x in node:
+            _json_strings(x, out)
+    elif isinstance(node, dict):
+        for x in node.values():
+            _json_strings(x, out)
+
+
+def nextjs_text(html):
+    """Text a Next.js page keeps in its script data instead of its HTML: the App Router payload
+    (self.__next_f.push) or the older __NEXT_DATA__ props. Finlex statutes and IMDA articles are stored this way;
+    the browser draws them from this data, so the plain HTML holds only the page frame. Empty for other pages."""
+    out = []
+    pushes = re.findall(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', html)
+    if pushes:
+        try:
+            payload = "".join(json.loads('"' + p + '"') for p in pushes)
+        except ValueError:
+            payload = ""
+        for kind, row in _flight_rows(payload):
+            if kind == "T":
+                if re.search(r"<(p|div|h\d|li|br|span|strong|em|table)\b", row):
+                    out.append("\n" + _html_fragment_text(row) + "\n")
+                elif row.strip() and not _SVG_PATH.match(row.strip()):
+                    out.append("\n" + row + "\n")
+                continue
+            try:
+                node = json.loads(row)
+            except ValueError:
+                continue
+            _flight_walk(node, out)
+            out.append("\n")
+    m = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
+    if m:
+        try:
+            data = json.loads(m.group(1))
+            _json_strings(((data.get("props") or {}).get("pageProps")), out)
+        except ValueError:
+            pass
+    return _tidy("".join(out))
+
+
+def html_text(path):
+    import archive  # noqa: E402  (same folder; imported late because it is large)
+    body = Path(path).read_bytes()
+    html = archive.decode_html(body, "text/html")
+    text = _tidy(_html_fragment_text(html))
+    data = nextjs_text(html)
+    if data:
+        seen = {l for l in text.splitlines() if l}
+        extra = [l for l in data.splitlines() if l and l not in seen]
+        if extra:  # only what the page frame does not already show
+            return text + "\n\n[page data]\n" + "\n".join(extra), None, "html+page data"
+    return text, None, "html"
+
+
+WORD_EXTS = (".doc", ".docx", ".rtf", ".odt")
+
+
+def word_text(path):
+    """Text of a word-processor file: .docx read directly, the others with a converter if one is installed
+    (textutil on macOS, antiword or catdoc for .doc, LibreOffice for all). Returns (text, pages, method, warning)."""
+    path = Path(path)
+    ext = path.suffix.lower()
+    if ext == ".docx":
+        import zipfile
+        import xml.etree.ElementTree as ET
+        w = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+        try:
+            with zipfile.ZipFile(path) as z:
+                root = ET.fromstring(z.read("word/document.xml"))
+            paras = []
+            for para in root.iter(w + "p"):
+                bits = []
+                for el in para.iter():
+                    if el.tag == w + "t" and el.text:
+                        bits.append(el.text)
+                    elif el.tag == w + "tab":
+                        bits.append("\t")
+                    elif el.tag == w + "br":
+                        bits.append("\n")
+                paras.append("".join(bits))
+            return _tidy("\n".join(paras)), None, "docx", None
+        except Exception as e:  # not a valid .docx (some servers label other files so); try the converters
+            first_error = str(e)
+    else:
+        first_error = None
+    tools = [["textutil", "-convert", "txt", "-encoding", "UTF-8", "-stdout", str(path)]]
+    if ext == ".doc":
+        tools += [["antiword", "-w", "0", str(path)], ["catdoc", "-w", "-d", "utf-8", str(path)]]
+    for cmd in tools:
+        if shutil.which(cmd[0]):
+            try:
+                res = subprocess.run(cmd, capture_output=True, timeout=120)
+            except (OSError, subprocess.SubprocessError):
+                continue
+            out = res.stdout.decode("utf-8", "replace")
+            if res.returncode == 0 and out.strip():
+                return _tidy(out), None, cmd[0], None
+    office = shutil.which("soffice") or shutil.which("libreoffice")
+    if office:
+        with tempfile.TemporaryDirectory() as tmp:
+            try:
+                subprocess.run([office, "--headless", "--convert-to", "txt:Text", "--outdir", tmp, str(path)],
+                               capture_output=True, timeout=180)
+                outs = list(Path(tmp).glob("*.txt"))
+                if outs:
+                    return _tidy(outs[0].read_text(encoding="utf-8", errors="replace")), None, "libreoffice", None
+            except (OSError, subprocess.SubprocessError):
+                pass
+    return "", None, None, ("no reader for %s files: install antiword, catdoc or LibreOffice (macOS has textutil)%s"
+                            % (ext, "; " + first_error if first_error else ""))
+
+
+def file_text(src, ocr_lang):
+    """Text of one stored file for textify: (text, pages, method, warning)."""
+    ext = Path(src).suffix.lower()
+    if ext == ".pdf":
+        return pdf_text(src, ocr_lang)
+    if ext in (".html", ".htm", ".xml"):
+        text, _, method = html_text(src)
+        return text, None, method, None
+    if ext in (".txt", ".json"):
+        return Path(src).read_text(encoding="utf-8", errors="replace"), None, "copy", None
+    if ext in WORD_EXTS:
+        return word_text(src)
+    return "", None, None, "no text extraction for %s files" % ext
 
 
 def garbled_share(pages):
@@ -1220,14 +1420,7 @@ def cmd_textify(args):
             ext = src.suffix.lower()
             pages, method, warning = None, None, None
             try:
-                if ext == ".pdf":
-                    text, pages, method, warning = pdf_text(src, args.ocr_lang)
-                elif ext in (".html", ".xml"):
-                    text, _, method = html_text(src)
-                elif ext in (".txt", ".json"):
-                    text, method = src.read_text(encoding="utf-8", errors="replace"), "copy"
-                else:
-                    text, warning = "", "no text extraction for %s files" % ext
+                text, pages, method, warning = file_text(src, args.ocr_lang)
             except Exception as e:
                 text, warning = "", "text extraction failed: %s" % e
             header = "# Text of %s (sha256 %s), made by tools/pipeline.py textify (%s)\n\n" % (path, digest, method or "-")

@@ -133,14 +133,9 @@ def cmd_textify(args):
         for path, digest in record_files(db, rid).items():
             src, out = ROOT / path, text_path(d, path)
             ext, method = src.suffix.lower(), None
-            if ext == ".pdf":
-                text, _, method, _ = P.pdf_text(src, (plan.get("ocr_lang") or {}).get(rid, args.ocr_lang))
-            elif ext in (".html", ".xml"):
-                text = P.html_text(src)[0]
-            elif ext == ".txt":
-                text = src.read_text(encoding="utf-8", errors="replace")
-            else:
+            if ext not in (".pdf", ".html", ".htm", ".xml", ".txt") + P.WORD_EXTS:
                 continue
+            text, _, method, _ = P.file_text(src, (plan.get("ocr_lang") or {}).get(rid, args.ocr_lang))
             out.parent.mkdir(parents=True, exist_ok=True)
             out.write_text(text, encoding="utf-8")
             rows.append(dict({"record_id": rid, "file": path, "sha256": digest, "text": str(out.relative_to(ROOT)),

@@ -115,6 +115,7 @@ NOT_OFFICIAL_HOSTS = set(publish_hf.THIRD_PARTY_HOSTS)
 SUMMARY_MIN, SUMMARY_MAX = 250, 700
 TOPICS_MIN, TOPICS_MAX = 2, 6
 STALE_DAYS = 180
+RECHECK_DAYS = 31  # the monthly recheck: every record checked by a recheck or refresh run within this many days
 PROCESS_PATTERNS = [
     r"\bfetch(?:ed|ing)?\b", r"\b(?:could|can) ?not be (?:fetched|confirmed|verified|retrieved|reached|downloaded|found)\b",
     r"\bwas not (?:confirmed|verified|fetched)\b", r"\bnot (?:been )?(?:confirmed|verified) (?:on|from|against)\b",
@@ -762,7 +763,17 @@ def run_summary(d):
         n = len([x for x in (read_json(ROOT / "data" / "definitions.json", {}) or {}).get("definitions") or []
                  if x.get("run_id") == d.name])
         line = "%d definitions merged%s" % (n, ("; " + m.group(1)) if m else "") if plan else ""
-    return run.get("started") or d.name[:10], kind, run.get("status") or ("reported" if rep else "open"), line
+    status = run.get("status") or ("reported" if rep else "open")
+    if kind == "compare" and status != "merged" and d.name in history_runs():
+        status = "merged"  # compare runs merged before definitions.py merge recorded it in run.json
+    return run.get("started") or d.name[:10], kind, status, line
+
+
+def history_runs(_cache={}):
+    """The run IDs that wrote events to data/history.jsonl."""
+    if "runs" not in _cache:
+        _cache["runs"] = {e.get("run_id") for e in history.load()}
+    return _cache["runs"]
 
 
 def days_ago(date):
@@ -770,6 +781,34 @@ def days_ago(date):
         return (dt.date.today() - dt.date.fromisoformat(str(date)[:10])).days
     except ValueError:
         return None
+
+
+def check_dates():
+    """{record ID: sorted dates} of the checks that count for the monthly recheck: a recheck or refresh run changed or
+    re-verified the record."""
+    kinds = {d.name: (read_json(d / "run.json", {}) or {}).get("type") for d in RUNS.iterdir() if d.is_dir()}
+    out = defaultdict(set)
+    for e in history.load():
+        if kinds.get(e.get("run_id")) in ("recheck", "refresh") and e.get("event") in ("changed", "re-verified") \
+                and e.get("date"):
+            out[e["record_id"]].add(str(e["date"])[:10])
+    return {k: sorted(v) for k, v in out.items()}
+
+
+def snapshot_day(ids, dates):
+    """The latest day on which every record in ids had been checked within the RECHECK_DAYS days up to it (the
+    snapshot date: when every record was last re-verified together), and the records that keep the latest check day
+    from being one, or (None, those records)."""
+    today = dt.date.today().isoformat()
+    days = sorted({x for v in dates.values() for x in v if x <= today}, reverse=True)
+
+    def missing(day):
+        lo = (dt.date.fromisoformat(day) - dt.timedelta(days=RECHECK_DAYS)).isoformat()
+        return [i for i in ids if not any(lo <= x <= day for x in dates.get(i) or [])]
+    for day in days:
+        if not missing(day):
+            return day, []
+    return None, (missing(days[0]) if days else list(ids))
 
 
 def board_markdown(priorities=None, live=True):
@@ -826,16 +865,19 @@ def board_markdown(priorities=None, live=True):
             ("Release", "after merged runs", last_date, last, 31)]
     L += ["## Rhythm", "", "| What | How often | Last | |", "|---|---|---|---|"]
     # the monthly recheck covers the register only when every record was checked by a run in the last 31 days
-    kinds = {d.name: (read_json(d / "run.json", {}) or {}).get("type") for d in RUNS.iterdir() if d.is_dir()}
-    fresh = {e["record_id"] for e in history.load()
-             if kinds.get(e.get("run_id")) in ("recheck", "refresh") and e.get("event") in ("changed", "re-verified")
-             and (days_ago(e.get("date")) if days_ago(e.get("date")) is not None else 99) <= 31}  # today is 0 days ago
+    checks = check_dates()
+    fresh = {rid for rid, v in checks.items()  # today is 0 days ago
+             if (days_ago(v[-1]) if days_ago(v[-1]) is not None else 99) <= RECHECK_DAYS}
     for what, often, date, rid, limit in rows:
         n = days_ago(date) if date else None
         state = "never" if date is None else ("due" if n is not None and limit and n > limit else "ok")
         if limit is None:  # the full recheck: how much of the register a run checked in the last 31 days
             done = len(fresh & {r["id"] for r in recs})
-            state = "ok" if done == len(recs) else "%d of %d records checked in the last 31 days" % (done, len(recs))
+            state = "ok" if done == len(recs) else "%d of %d records checked in the last %d days" % (
+                done, len(recs), RECHECK_DAYS)
+            snap = snapshot_day([r["id"] for r in recs], checks)[0] if done == len(recs) else None
+            if snap and snap > str(meta.get("snapshot_date") or ""):
+                state += "; the snapshot date can move to %s: `python3 tools/pipeline.py snapshot`" % snap
         if what == "Release" and since:
             state = "%d change(s) not released yet" % len(since)
         L.append("| %s | %s | %s%s | %s |" % (what, often, date or "-", (" (%s)" % rid) if rid else "", state))
@@ -884,6 +926,36 @@ def board_markdown(priorities=None, live=True):
 
 def git_out(*args):
     return subprocess.run(["git", "-C", str(ROOT)] + list(args), capture_output=True, text=True).stdout
+
+
+def cmd_snapshot(args):
+    """Move meta.snapshot_date to the latest day on which every record had been checked by a recheck or refresh run
+    within RECHECK_DAYS days (AGENTS.md section 2). Refuses while a record has no such check."""
+    db = load_db()
+    ids = [r["id"] for r in db["records"]]
+    checks = check_dates()
+    day, missing = snapshot_day(ids, checks)
+    old = str(db["meta"].get("snapshot_date") or "")
+    if not day:
+        print("No snapshot date: %d of %d records have no check by a recheck or refresh run in the %d days up to the "
+              "last check: %s" % (len(missing), len(ids), RECHECK_DAYS, ", ".join(missing[:40]) +
+                                  (" ..." if len(missing) > 40 else "")))
+        return 1
+    if day <= old:
+        print("The snapshot date is %s; the latest day on which every record had been checked is %s. Nothing to do."
+              % (old, day))
+        return 0
+    lo = (dt.date.fromisoformat(day) - dt.timedelta(days=RECHECK_DAYS)).isoformat()
+    first = min(max(x for x in checks[i] if lo <= x <= day) for i in ids)
+    print("Snapshot date %s -> %s: every one of the %d records was checked by a recheck or refresh run between %s and %s."
+          % (old or "-", day, len(ids), first, day))
+    if args.dry_run:
+        print("Dry run: nothing written.")
+        return 0
+    db["meta"]["snapshot_date"] = day
+    build.save(db)
+    print("Written to data/records.json and the generated files.")
+    return 0
 
 
 def cmd_board(args):
@@ -3521,6 +3593,9 @@ def main(argv=None):
     s.add_argument("--sync", action="store_true")
     s.add_argument("--dry-run", action="store_true")
     s.add_argument("--offline", action="store_true", help="do not read GitHub")
+    s = sub.add_parser("snapshot", help="move meta.snapshot_date once every record was checked within %d days"
+                                        % RECHECK_DAYS)
+    s.add_argument("--dry-run", action="store_true")
     s = sub.add_parser("status")
     s.add_argument("--run", required=True)
     s = sub.add_parser("stage", help="record the tool and model of a stage")
@@ -3610,7 +3685,7 @@ def main(argv=None):
     s.add_argument("--note", required=True)
     s.add_argument("--by")
     args = ap.parse_args(argv)
-    cmds = {"new": cmd_new, "menu": cmd_menu, "board": cmd_board, "status": cmd_status, "stage": cmd_stage, "dedupe": cmd_dedupe, "textify": cmd_textify,
+    cmds = {"new": cmd_new, "menu": cmd_menu, "board": cmd_board, "snapshot": cmd_snapshot, "status": cmd_status, "stage": cmd_stage, "dedupe": cmd_dedupe, "textify": cmd_textify,
             "evidence": cmd_evidence, "sample": cmd_sample, "compare": cmd_compare, "queue": cmd_queue,
             "assemble": cmd_assemble, "report": cmd_report, "frame": cmd_frame, "log-human": cmd_log_human,
             "log-scope": cmd_log_scope, "hosts": cmd_hosts, "questions": cmd_questions, "intake": cmd_intake,

@@ -1,0 +1,60 @@
+{
+ "cand_id": "PT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English version found; the extractor notes a page saying Portuguese only, not stored, so 'none found' is the supportable value."
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "32 initiatives in four axes; fourth axis 'Responsabilidade e Ética' guaranteeing a regulatory regime. Literal translation: 'The ANIA is operationalised through 32 initiatives... Fourth, Responsibility and Ethics, to promote the ecosystem of responsible and sustainable AI research and development, guaranteeing a regulatory regime...'",
+   "verdict": "supported",
+   "locator": "Preamble"
+  },
+  {
+   "claim": "Six guiding principles; monitoring by the Council for Digital in Public Administration (RCM 94/2024); voluntary certification under Portuguese Standard 4595 (IV.2)",
+   "verdict": "supported",
+   "locator": "preamble; para. 5; Annex"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly an agenda for AI infrastructure, adoption, talent and productivity; one of four axes covers responsibility, ethics and the AI Act's implementation. The extractor's scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "Rendered DR page and the PDF of Série I n.º 5/2026 confirm issuer, publication on 8 January 2026, 'Em vigor', signature of 4 December 2025 and entry into force the day after publication (para. 6). Notes claims found. The run removed v1's ANACOM remarks because no stored file supports them; the blind extraction reached the same open questions. The extractor's leads on ANACOM's designation and consultation stay leads. No newer official version found."
+}

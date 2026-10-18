@@ -1,0 +1,105 @@
+{
+ "cand_id": "NO-03",
+ "decision": "update",
+ "target_id": "NO-03",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "page title",
+    "quote": "Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "page title",
+    "quote": "Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "Om KI Norge",
+    "quote": "KI Norge er en nasjonal satsing under Digitaliseringsdirektoratet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release header",
+    "quote": "Dato: 12.06.2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release header",
+    "quote": "Dato: 12.06.2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release",
+    "quote": "Regjeringens spydspiss for ansvarlig og innovativ bruk av kunstig intelligens – KI Norge er klar.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release",
+    "quote": "Nå åpner dørene!",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NO-03/2026-10-11/official.html",
+    "sha256": "5b76376067440f497bb511aefd8885592ce42127e295b21168f7928d2b77026f",
+    "locator": "press release",
+    "quote": "KI Norge er ikke enda et byråkratisk lag på toppen, men skal sørge for at alle snakker godt sammen",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "regjeringen.no page is Norwegian only (\"Page not available in English\"); recorded as none found."
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force",
+   "scope_note",
+   "date_last_updated"
+  ],
+  "status_reasoning": "Press release of 12 Jun 2026 says KI Norge is ready and opening; no later event in the stored files. Published (non-binding, current) stands.",
+  "scope_reasoning": "Adoption and guidance agency plus national AI sandbox; borderline, scope_note retained."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "Notes claim NOK 10m for KI Norge plus NOK 20m for the sandbox in the 2026 state budget of 15 Oct 2025: not in the stored files. The director advertisement of 11 Feb 2026 is supported by the stored secondary page (11.02.2026).",
+  "date_last_updated is null: no later update of the press release or of KI Norge is in the stored files."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,58 @@
+{
+ "cand_id": "IT-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Entry into force is 23 October 2026, after today (17 October 2026), so 'Adopted, not yet in force' is correct today; a refresh run is due after 23 October."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English text found; acceptable."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Fines follow AI Act ceilings and add up to EUR 1 million or 0.5% of worldwide turnover for breaches of Articles 27 and 86. Literal translation: 'is subject to an administrative fine of up to EUR 1,000,000 or, if higher, up to 0.5 per cent of total worldwide annual turnover.'",
+   "verdict": "supported",
+   "locator": "GU, sanctions article"
+  },
+  {
+   "claim": "Employers must leave final decisions on the employment relationship to a person; ACN is competent for national registration of Annex III point 2 systems; Art. 52 trade secrets",
+   "verdict": "supported",
+   "locator": "workplace article; registration article; Art. 52"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GU n. 234 PDF (Arts. 1-54, signed 7 October 2026) and the ELI page confirm title, GU 8 October 2026, 26G00200 and entry into force on 23 October 2026. The extractor's summary and notes claims (unannounced inspections, fines, work provisions, follow-up deadlines, Art. 52) were found in the GU text. The extractor supplied no evidence entries for summary or notes, so I checked these myself. No amendment found."
+}

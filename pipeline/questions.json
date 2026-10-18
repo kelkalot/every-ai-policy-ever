@@ -301,12 +301,12 @@
     "checked_on": "2026-10-14"
    },
    "records": [],
-   "state": "open",
+   "state": "decided",
    "issue": 22,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/22",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-17",
+   "resolution": "host official"
   },
   {
    "key": "host:sgaisi.sg",
@@ -321,12 +321,12 @@
     "checked_on": "2026-10-14"
    },
    "records": [],
-   "state": "open",
+   "state": "decided",
    "issue": 23,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/23",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-17",
+   "resolution": "host official"
   },
   {
    "key": "host:senatepress.net",
@@ -341,12 +341,12 @@
     "checked_on": "2026-10-14"
    },
    "records": [],
-   "state": "open",
+   "state": "decided",
    "issue": 24,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/24",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-17",
+   "resolution": "host official"
   },
   {
    "key": "host:daibieunhandan.vn",
@@ -357,12 +357,12 @@
     "VN-02"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 25,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/25",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-17",
+   "resolution": "host official"
   },
   {
    "key": "host:vanban.chinhphu.vn",
@@ -374,12 +374,12 @@
     "VN-09"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 26,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/26",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-17",
+   "resolution": "host official"
   },
   {
    "key": "sample:2026-10-14-refresh-ids-ca-on-01-coe-01-int-15-us-ca",
@@ -735,12 +735,12 @@
     "DE-02"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 65,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/65",
    "opened": "2026-10-16",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-17",
+   "resolution": "host official",
    "title": "Is ki-strategie-deutschland.de an official site for DE?"
   },
   {
@@ -752,12 +752,12 @@
     "DE-02"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 66,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/66",
    "opened": "2026-10-16",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-17",
+   "resolution": "host official",
    "title": "Is dserver.bundestag.de an official site for DE?"
   },
   {
@@ -769,12 +769,12 @@
     "DE-02"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 67,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/67",
    "opened": "2026-10-16",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-17",
+   "resolution": "host official",
    "title": "Is bundesregierung.de an official site for DE?"
   },
   {
@@ -825,12 +825,12 @@
     "KZ-01"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 77,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/77",
    "opened": "2026-10-16",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-17",
+   "resolution": "host official",
    "title": "Is old.adilet.zan.kz an official site for KZ?"
   },
   {
@@ -1539,12 +1539,12 @@
     "BRICS-01"
    ],
    "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
-   "state": "open",
+   "state": "decided",
    "issue": 104,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/104",
    "opened": "2026-10-17",
-   "closed": null,
-   "resolution": null,
+   "closed": "2026-10-17",
+   "resolution": "host official",
    "title": "Is static.kremlin.ru an official site for BRICS?"
   },
   {
@@ -1681,6 +1681,148 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-17-recheck-europe-1 (5 records)"
+  },
+  {
+   "key": "record:DK-01@2026-10-17-recheck-europe-2",
+   "kind": "record",
+   "subject": "DK-01",
+   "run_id": "2026-10-17-recheck-europe-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: Possible Danish bill introduced 18 Feb 2026 (per lovguiden.dk, not an official site) that would repeal LOV nr 467 af 14/05/2025; no official page found or stored, adoption unconfirmed. A later run should check ft.dk and retsinformation.dk.",
+   "records": [
+    "DK-01"
+   ],
+   "title": "DK-01 Danish AI Act implementation law: open question from run 2026-10-17-recheck-europe-2",
+   "state": "open",
+   "issue": 121,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/121",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:GB-06@2026-10-17-recheck-europe-2",
+   "kind": "record",
+   "subject": "GB-06",
+   "run_id": "2026-10-17-recheck-europe-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: https://www.ncsc.gov.uk/blog-post/new-etsi-standard-protects-ai-systems-from-evolving-cyber-threats",
+   "records": [
+    "GB-06"
+   ],
+   "title": "GB-06 UK AI Cyber Security Code of Practice: open question from run 2026-10-17-recheck-europe-2",
+   "state": "open",
+   "issue": 122,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/122",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "host:recht.bund.de",
+   "kind": "host",
+   "subject": "recht.bund.de",
+   "code": "DE",
+   "records": [
+    "DE-01"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 123,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/123",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Is recht.bund.de an official site for DE?"
+  },
+  {
+   "key": "host:congreso.es",
+   "kind": "host",
+   "subject": "congreso.es",
+   "code": "ES",
+   "records": [
+    "ES-03"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 124,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/124",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Is congreso.es an official site for ES?"
+  },
+  {
+   "key": "host:bills-api.parliament.uk",
+   "kind": "host",
+   "subject": "bills-api.parliament.uk",
+   "code": "GB",
+   "records": [
+    "GB-10"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 125,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/125",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Is bills-api.parliament.uk an official site for GB?"
+  },
+  {
+   "key": "host:irishstatutebook.ie",
+   "kind": "host",
+   "subject": "irishstatutebook.ie",
+   "code": "IE",
+   "records": [
+    "IE-01"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 126,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/126",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Is irishstatutebook.ie an official site for IE?"
+  },
+  {
+   "key": "host:zoek.officielebekendmakingen.nl",
+   "kind": "host",
+   "subject": "zoek.officielebekendmakingen.nl",
+   "code": "NL",
+   "records": [
+    "NL-01"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 127,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/127",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Is zoek.officielebekendmakingen.nl an official site for NL?"
+  },
+  {
+   "key": "sample:2026-10-17-recheck-europe-2",
+   "kind": "sample",
+   "subject": "2026-10-17-recheck-europe-2",
+   "run_id": "2026-10-17-recheck-europe-2",
+   "records": [
+    "ES-02",
+    "FI-01",
+    "FR-01",
+    "GB-06",
+    "GB-09"
+   ],
+   "why": "Human sample of run 2026-10-17-recheck-europe-2: check each record against its stored sources.",
+   "state": "open",
+   "issue": 128,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/128",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-17-recheck-europe-2 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

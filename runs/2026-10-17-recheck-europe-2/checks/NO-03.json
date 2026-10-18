@@ -1,0 +1,45 @@
+{
+ "cand_id": "NO-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "judgment-differs",
+   "why": "The stored heading reads 'Slik blir KI Norge – samler krefter for ansvarlig og innovativ kunstig intelligens'; the record drops the lead-in 'Slik blir' (literally 'This is what KI Norge will be'). Defensible as the title of the initiative, but not verbatim."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "KI Norge is a national initiative under Digdir whose purpose is to make it easier for businesses to adopt AI in a safe, lawful and value-creating way. Literal: 'KI Norge is a national initiative under the Directorate for Digitalisation'.",
+   "verdict": "supported",
+   "locator": "Om KI Norge"
+  },
+  {
+   "claim": "Runs the national AI sandbox together with Datatilsynet and Nkom.",
+   "verdict": "supported",
+   "locator": "Om KI Norge"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "An AI adoption and guidance body rather than a safety institute; the extractor's scope_note is adequate."
+ },
+ "overall": "accept",
+ "note": "Press release of 12 Jun 2026 and the 11 Feb 2026 release are stored. Date, issuer, director and sandbox claims match. The English title is the extractor's rendering ('samler krefter' = 'joins forces'), which is accurate; english_version 'none found' is right."
+}

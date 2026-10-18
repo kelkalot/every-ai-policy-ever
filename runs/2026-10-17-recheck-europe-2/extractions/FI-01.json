@@ -1,0 +1,254 @@
+{
+ "cand_id": "FI-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "FI-01",
+ "record": {
+  "official_identifier": "1377/2025",
+  "notes": "Based on Government proposal HE 46/2025, the Economic Affairs Committee's report TaVM 18/2025 and Parliament's reply EV 162/2025. Signed by the President on 22 Dec 2025 (countersigned by the Minister of Economic Affairs), published in the Statute Book on 29 Dec 2025 and in force from 1 Jan 2026; the penalty fee for prohibited practices (s. 21) does not apply to breaches that occurred before entry into force. The Act does not apply to Parliament's work and offices, the Parliamentary Ombudsman or the Chancellor of Justice. The maximum penalty fees follow the AI Act: EUR 35 million or 7% of worldwide turnover for prohibited practices, and EUR 15 million or 3% for most other breaches.",
+  "verification": {
+   "note": "Stored and read in this run: the Statute Book (Suomen säädöskokoelma) PDF of 1377/2025 on finlex.fi, which gives the title, the number, publication in Helsinki on 29 Dec 2025, the full Finnish text including s. 29 (entry into force on 1 Jan 2026) and the signature of 22.12.2025 by the President and the Minister of Economic Affairs; and the Finnish and Swedish Finlex pages of the Act, whose text layers hold only the Finnish and Swedish titles and the number (the rest of each page is script data). The Eduskunta reply (RSv 162/2025 rd) could not be stored: the URL returns HTTP 404. No English translation was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/FI-01/2026-10-11/official.html",
+    "sha256": "e9f0a4b12251358e63f3e5e1761bd247349197d841538c284165004e7548b0af",
+    "locator": "page title",
+    "quote": "Laki eräiden tekoälyjärjestelmien valvonnasta | 1377/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, Statute Book header",
+    "quote": "Julkaistu Helsingissä 29 päivänä joulukuuta 2025 1377/2025 Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, Statute Book header",
+    "quote": "Julkaistu Helsingissä 29 päivänä joulukuuta 2025 1377/2025 Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-69bfe1b8c8/2026-10-17/official.html",
+    "sha256": "81c75156903935b6f136e4a509bfadc78fc8e6c857195b9c56a7193b219d40ff",
+    "locator": "page title",
+    "quote": "Lag om tillsyn över vissa system för artificiell intelligens | 1377/2025",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, Statute Book header",
+    "quote": "Julkaistu Helsingissä 29 päivänä joulukuuta 2025 1377/2025 Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-85f42424a4/2026-10-17/official.html",
+    "sha256": "59c18f670a33c58872f3f7e61eb45ce2fc79e4292a1c7045060c605ffd889f13",
+    "locator": "page title",
+    "quote": "Laki eräiden tekoälyjärjestelmien valvonnasta | 1377/2025 | Suomen säädöskokoelma",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, signature, after § 29",
+    "quote": "Helsingissä 22.12.2025 Tasavallan Presidentti",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, § 29 Voimaantulo",
+    "quote": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, § 29 Voimaantulo",
+    "quote": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, Statute Book header",
+    "quote": "Julkaistu Helsingissä 29 päivänä joulukuuta 2025 1377/2025 Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, enacting formula",
+    "quote": "Eduskunnan päätöksen mukaisesti säädetään",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, enacting formula",
+    "quote": "Eduskunnan päätöksen mukaisesti säädetään",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, signature, after § 29",
+    "quote": "Tasavallan Presidentti Alexander Stubb El inkeinoministeri Sa kari Puisto",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 3, § 4",
+    "quote": "Tietosuojavaltuutettu valvoo markkinavalvontaviranomaisena tekoälyasetuksen 5 ar",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 3, § 5",
+    "quote": "Liikenne- ja viestintävirasto valvoo markkinavalvontaviranomaisena tekoälyasetuksen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 3, § 6",
+    "quote": "Liikenne- ja viestintävirasto toimii tekoälyasetuksen 70 artiklan 2 kohdassa tarkoitettu",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 2, § 3",
+    "quote": "1) Turvallisuus- ja kemikaalivirasto tekoälyasetuksen liitteen I jakson A kohdissa 4, 5,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 2, § 3",
+    "quote": "1) Energiavirasto mainitun liitteen 2 kohdassa tarkoitetun kriittisen infrastruktuurin",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 2, § 3",
+    "quote": "5) Lääkealan turvallisuus- ja kehittämiskeskus tekoälyasetuksen liitteen I jakson A",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 5, § 13",
+    "quote": "Liikenne- ja viestintäviraston yhteydessä toimii tekoälyjärjestelmien valvonnan seuraa",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 11, § 23",
+    "quote": "Seuraamusmaksun enimmäismäärä on:",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, Statute Book header",
+    "quote": "HE 46/2025 TaVM 18/2025 EV 162/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, Statute Book header",
+    "quote": "Julkaistu Helsingissä 29 päivänä joulukuuta 2025 1377/2025 Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, signature, after § 29",
+    "quote": "Helsingissä 22.12.2025 Tasavallan Presidentti",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, § 29 Voimaantulo",
+    "quote": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 13, § 29",
+    "quote": "Lain 21 §:ää ei sovelleta kielletyn tekoälyyn liittyvän käytännön rikkomiseen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 1, § 1",
+    "quote": "Tätä lakia ei sovelleta eduskunnan valtiopäivätoimintaan eikä eduskunnan kansliaan",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FI-01/extra-328144c171/2026-10-17/official.pdf",
+    "sha256": "0449fb3f5273e2cf18121c780e522838313652725b052ff5abba0fe8591025ea",
+    "locator": "page 11, § 23",
+    "quote": "1) 21 §:n nojalla määrätyn seuraamusmaksun osalta 35 000 000 euroa tai",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "reduced to the citable number 1377/2025; the government proposal (HE 46/2025) is a description of the legislative history, not the identifier, and moves to the notes",
+   "notes": "rewritten from the Statute Book PDF: the date of Parliament's reply (12 Dec 2025) and the related amendments to other acts are not in the stored files and were removed; the references HE 46/2025, TaVM 18/2025 and EV 162/2025, the transitional rule for s. 21, the exclusions in s. 1 and the maximum penalty fees in s. 23 were added",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 22 Dec 2025 and published on 29 Dec 2025; s. 29 puts entry into force on 1 Jan 2026, which has passed (today 17 Oct 2026). No stored file shows an amendment or repeal. 'In force' stands.",
+  "scope_reasoning": "A national law implementing the AI Act's governance and enforcement provisions; clearly in scope, no scope_note.",
+  "summary_check": "The unchanged summary is supported by the stored text: s. 4 (Data Protection Ombudsman for prohibited practices), ss. 5 and 6 (Traficom for Article 50 transparency and as single point of contact), s. 3 (Tukes, Customs, Traficom, the Licensing and Supervisory Agency, Fimea, the Energy Authority, the Data Protection Ombudsman and the Financial Supervisory Authority for high-risk systems), s. 13 (the penalty fee board at Traficom) and s. 23 (maximum fees as in the AI Act)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

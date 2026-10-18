@@ -1,0 +1,296 @@
+{
+ "cand_id": "SE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SE-01",
+ "record": {
+  "title": "Adaptations to the AI Regulation: Safe use, effective control and support for innovation (SOU 2025:101)",
+  "original_title": "Anpassningar till AI-förordningen – Säker användning, effektiv kontroll och stöd för innovation (SOU 2025:101)",
+  "date_last_updated": null,
+  "english_version": {
+   "kind": "none found"
+  },
+  "summary": "Report of the government inquiry on the EU AI Regulation proposing a new Swedish act and ordinance to supplement it. It proposes eleven market surveillance authorities and two notifying authorities, Swedac and the Medical Products Agency. The Post and Telecom Authority (PTS) would hold main responsibility, coordinate and be the single point of contact, and the Authority for Privacy Protection (IMY) would lead on prohibited practices. It also proposes reprimands and administrative fines that can be imposed on public authorities too, confidentiality rules including protection of incident reporting, an AI regulatory sandbox set up by PTS, and approval of testing in real-world conditions.",
+  "safety_topics": [
+   "prohibited practices",
+   "risk-based classification",
+   "accountability & liability",
+   "evaluation & testing"
+  ],
+  "notes": "Report of the Inquiry on the AI Regulation, a special inquiry the Government appointed on 19 September 2024 under committee terms of reference Dir. 2024:83. It was published on 6 October 2025 and sent out for consultation on 11 November 2025 (Fi2025/01969). It proposes that the supplementary act, the supplementary ordinance and the other amendments enter into force on 2 August 2026, and it recommends that the Government designate market surveillance and notifying authorities at least temporarily while its proposals are prepared. The report includes a summary in English. As of October 2026 the Government's page for the report lists no referral to the Council on Legislation and no government bill.",
+  "verification": {
+   "note": "Stored and read in this run: the Government's page for SOU 2025:101 on regeringen.se (title, publication on 6 October 2025, the inquiry's proposals in brief, and the related-documents panel showing no Council on Legislation referral and no government bill; last checked 17 Oct 2026, unchanged since 11 Oct), the full report as a PDF (998 pages, with its Swedish and English summaries, the 19 September 2024 appointment and the proposed entry into force), and the consultation page (Fi2025/01969, published 11 November 2025, updated 23 February 2026). The English title is a rendering; the report's English summary gives no English title. Version 1's statement that PTS describes Sweden as awaiting supplementary legislation, and the interim designation of 4 June 2026, rest on SE-02's sources, not on this record's, and were removed from the notes; the recommendation of a temporary designation is in the report itself."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "page heading",
+    "quote": "Anpassningar till AI-förordningen Säker användning, effektiv kontroll och stöd för innovation SOU 2025:101",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 4",
+    "quote": "överlämnar nu sitt betänkande Anpassningar till AI-för- ordningen – Säker användning, effektiv kontroll och stöd för innova- tion (SOU 2025:101)",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 4",
+    "quote": "överlämnar nu sitt betänkande Anpassningar till AI-för- ordningen – Säker användning, effektiv kontroll och stöd för innova- tion (SOU 2025:101)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 1",
+    "quote": "Anpassningar till AI-förordningen Säker användning, effektiv kontroll och stöd för innovation",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "page heading",
+    "quote": "SOU 2025:101 Publicerad 06 oktober 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-17/secondary.html",
+    "sha256": "b231a6671a0906f453e3645a4780976f358228614dcd91fbe2f3e34ca062d2c5",
+    "locator": "page heading",
+    "quote": "Diarienummer: Fi2025/01969",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "page heading",
+    "quote": "SOU 2025:101 Publicerad 06 oktober 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 4",
+    "quote": "Stockholm i oktober 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "page heading",
+    "quote": "SOU 2025:101 Publicerad 06 oktober 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "related documents panel",
+    "quote": "En proposition är ett förslag från regeringen till riksdagen om ny lag eller ändring av gällande lag. Inga dokument",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "page heading",
+    "quote": "Statens offentliga utredningar från Finansdepartementet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 1",
+    "quote": "Betänkande av Utredningen om AI-förordningen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 3",
+    "quote": "Regeringen beslutade den 19 september 2024 att tillkalla en särskild utredare",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "Utredningens förslag i korthet",
+    "quote": "Utredningen föreslår att de svenska bestämmelser som behöver komplettera AI-förordningen huvudsakligen ska samlas i en ny lag och en ny förordning.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "Utredningens förslag i korthet",
+    "quote": "Utredningen föreslår ett system för marknadsövervakning, marknadskontroll, styrning och kontroll av efterlevnad som består av elva marknadskontrollmyndigheter och två anmälande myndigheter.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 41",
+    "quote": "The Inquiry proposes that Swedac and the Medical Products Agency be notifying authorities under the AI Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 40",
+    "quote": "the Swedish Post and Telecom Authority (PTS) will be the market surveillance authority with primary responsibility for the AI Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 30",
+    "quote": "PTS i egenskap av marknadskontrollmyndighet med huvudsakligt ansvar för AI-förordningen, ska vara samordnande marknadskontrollmyndighet och att den myndigheten också ska vara gemensam kontaktpunkt.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 41",
+    "quote": "the Inquiry proposes that the IMY be primarily responsible for market surveillance of the prohibited AI practices in Article 5.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 43",
+    "quote": "The Inquiry proposes that reprimands and administrative fines as well as injunctions with or without fines also be imposed on public authorities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 44",
+    "quote": "a new provision to protect incident reporting in the Public Access and Secrecy Act (2009:400) (OSL)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "Utredningens förslag i korthet",
+    "quote": "Post- och telestyrelsen föreslås inrätta en sådan regulatorisk sandlåda.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 46",
+    "quote": "The Inquiry proposes that these authorities be the PTS, the IMY and the FI in accordance with the division of responsibili- ties",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 3",
+    "quote": "Regeringen beslutade den 19 september 2024 att tillkalla en särskild utredare",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "related documents panel",
+    "quote": "Dir. 2024:83 Trygg och tillförlitlig användning av AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-17/secondary.html",
+    "sha256": "b231a6671a0906f453e3645a4780976f358228614dcd91fbe2f3e34ca062d2c5",
+    "locator": "page heading",
+    "quote": "Publicerad 11 november 2025 Uppdaterad 23 februari 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 37",
+    "quote": "Utredningen föreslår att kompletteringslagen, kompletteringsförord- ningen och övriga författningsändringar ska träda i kraft den 2 augusti 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 37",
+    "quote": "Utredningen anser dock att det finns skäl för regeringen att i vart fall tillfälligt utse marknadskontrollmyndigheter och anmälande myndigheter",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 39",
+    "quote": "The AI Act entered into force on 1 August 2024. However, the majority of its provisions will not start to apply until 2 August 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-01/2026-10-11/official.html",
+    "sha256": "f0931d326122ec180e4fb7b00d9ebceec3216486c9da640b16373b0dcab8ecc7",
+    "locator": "related documents panel",
+    "quote": "En lagrådsremiss är ett utkast till lag som regeringen lämnar till Lagrådet för granskning. Inga dokument",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/SE-01/2026-10-11/document-1.pdf",
+    "sha256": "3c857ec66da6de5f76037d4ce5fc21aa1b4e758362bd772e8c3da8f9b38a2051",
+    "locator": "page 46",
+    "quote": "Testing in real-world conditions may be carried out on high-risk AI systems covered by Annex III.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "A government inquiry report (SOU) published on 6 Oct 2025 and sent out for consultation; it has no legal force. The Government's page lists no Council on Legislation referral and no bill, and nothing replaces it, so 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government-commissioned report proposing the national implementation of the EU AI Act (authorities, sanctions, sandbox); in scope without a note.",
+  "changes": {
+   "title": "the report's full title has the subtitle 'Säker användning, effektiv kontroll och stöd för innovation'; the English title is a rendering, now including it",
+   "original_title": "now verbatim with the subtitle, as the report itself and the Government's page give it",
+   "date_last_updated": "23 Feb 2026 was the date the consultation page was last updated (responses added), not a new version of the report; under the field rule consultation dates go in the notes",
+   "english_version": "required for a Swedish-language record and missing; no English translation of the report exists, though the report has an English summary chapter (noted in the notes)",
+   "summary": "extended from the report's Swedish and English summaries: notifying authorities named, PTS's coordinating and single-point-of-contact role, IMY's lead on prohibited practices, fines on public authorities, protection of incident reporting, real-world testing",
+   "safety_topics": "added 'evaluation & testing' (regulatory sandbox and approval of testing in real-world conditions)",
+   "notes": "rewritten from this record's stored files; version 1's PTS statement and the 4 June 2026 interim designation are not in them (the latter is the related record SE-02)",
+   "verification.note": "rewritten for this run's stored files"
+  },
+  "confirmed": [
+   "date_published",
+   "status",
+   "issuing_body",
+   "official_identifier",
+   "legal_force"
+  ]
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Ds 2025:32 Polisens och Tullverkets användning av AI för biometrisk fjärridentifiering i efterhand (Ministry memorandum, 19 December 2025)",
+   "url": "https://www.regeringen.se/rattsliga-dokument/departementsserien-och-promemorior/2025/12/ds-202532/",
+   "seen_in": "https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2025/10/sou-2025101/",
+   "why": "Proposal on the authorisation process for post-remote biometric identification under Article 26(10) of the AI Act, which SOU 2025:101 left open; not in the register."
+  }
+ ],
+ "open_questions": []
+}

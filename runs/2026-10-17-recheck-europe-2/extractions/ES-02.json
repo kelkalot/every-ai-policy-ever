@@ -1,0 +1,400 @@
+{
+ "cand_id": "ES-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ES-02",
+ "record": {
+  "date_published": "2023-11-08",
+  "summary": "Sets up a controlled testing environment (regulatory sandbox), launched with the European Commission's collaboration, to test how AI systems that may pose risks to safety, health and fundamental rights can meet requirements of the then-proposed EU AI Regulation. Selected providers and users of high-risk systems, general-purpose systems and foundation models implement risk management, data quality, technical documentation, logging, transparency, human oversight, and accuracy, robustness and cybersecurity requirements, self-assess compliance, set up post-market monitoring and report serious incidents. The competent body publishes a report on results, good practices and recommendations.",
+  "safety_topics": [
+   "evaluation & testing",
+   "risk-based classification",
+   "general-purpose / frontier AI",
+   "human oversight",
+   "incident reporting"
+  ],
+  "notes": "Dated 8 November 2023 and published in BOE No. 268 of 9 November 2023; in force from 10 November 2023, the day after publication. Under its second final provision it was valid for at most 36 months from entry into force, that is to November 2026, or until the EU Regulation laying down harmonised rules on artificial intelligence became applicable in Spain; Regulation (EU) 2024/1689 applies generally from 2 August 2026, with earlier dates for some chapters and a later one for the high-risk rules of Article 6(1). The sandbox took the position of the Council of the EU of 25 November 2022 on the proposed Regulation as its reference, and the Secretary of State for Digitalisation and Artificial Intelligence was the competent body. The pilot, whose call was opened by a resolution of the Secretary of State of 20 December 2024, has finished and its results report has been published. The organic law bill on AI that the Government sent to the Congress in 2026 would expressly repeal the decree, given the obligation to set up a new AI regulatory sandbox under the EU Regulation.",
+  "verification": {
+   "note": "Stored and read in this run: the BOE ELI page of the decree (HTML, last checked 17 Oct 2026 and unchanged since 11 Oct 2026) and the BOE PDF of the official text in Spanish (the Catalan PDF is also stored), which confirm the title, the date of 8 November 2023 (Council of Ministers deliberation on 7 November), publication in BOE No. 268 of 9 November 2023 as BOE-A-2023-22767, entry into force on 10 November 2023, the second final provision on validity and the content in the summary; the BOE analysis block gives the validity as 'in the terms of final provision 2' and lists no later references. Also stored: Regulation (EU) 2024/1689 on EUR-Lex (Article 113, application from 2 August 2026; EUR-Lex marks the act as changed, consolidated version of 27 July 2026), the ministry's sandbox page (last updated 28 September 2026: the pilot has finished and its results report is published), and the BOCG Congreso text of the organic law bill of 12 June 2026, whose single repealing provision names the decree (congreso.es is not yet listed in pipeline/official-sites.json, so it counts as secondary). The status 'Lapsed' is derived from the validity clause and the Regulation's date of application; no official notice of lapse or repeal was found. The English translation on regalert.today shows the title and preamble in the stored copy, does not name a translator, and lists the CNMV as the issuer, which is wrong (the decree is the Government's). Version 1's statement that the Government continued sandbox calls in 2026 is not supported: the stored ministry page names only the call of 20 December 2024 and says the pilot has finished."
+  },
+  "status": "Lapsed",
+  "english_version": {
+   "kind": "third-party translation",
+   "url": "https://regalert.today/document/7d5933b5-d3eb-4de1-98d4-24f2fb2e664c/text",
+   "by": "RegAlert (regalert.today), a commercial regulatory database; the translator is not named"
+  },
+  "related": [
+   "ES-01",
+   "EU-03",
+   "ES-03"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "document heading",
+    "quote": "Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "document heading",
+    "quote": "Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/document-1.pdf",
+    "sha256": "aa9cfe8f19dc6a1bc84f16425081fbf27193473e58fdd76aac78a3f9dcb7c340",
+    "locator": "page 1",
+    "quote": "22767 Real Decreto 817/2023, de 8 de noviembre, que establece un entorno",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Análisis",
+    "quote": "Fecha de disposición: 08/11/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "signature",
+    "quote": "Dado en Madrid, el 8 de noviembre de 2023.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Análisis",
+    "quote": "Fecha de entrada en vigor: 10/11/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Disposición final segunda",
+    "quote": "Este real decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Disposición final segunda. Entrada en vigor y vigencia",
+    "quote": "Este real decreto tendrá una vigencia de máximo treinta y seis meses desde su entrada en vigor o, en su caso, hasta que sea aplicable en el Reino de España el Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-9f7d87fbe9/2026-10-17/official-rendered.html",
+    "sha256": "ad57ae37dab2852251851dec75f4cd50edef90cf287e5fe0745878964bde494b",
+    "locator": "Article 113",
+    "quote": "It shall apply from 2 August 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-9f7d87fbe9/2026-10-17/official-rendered.html",
+    "sha256": "ad57ae37dab2852251851dec75f4cd50edef90cf287e5fe0745878964bde494b",
+    "locator": "Article 113",
+    "quote": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Análisis",
+    "quote": "Fecha de entrada en vigor: 10/11/2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-249aaf27db/2026-10-17/official.html",
+    "sha256": "dbc5911debe9edd3435af08d71e777d02fd5fe2c2a34037268571dd72a00d9f1",
+    "locator": "Sandbox IA",
+    "quote": "Tras varios meses de trabajo, el Sandbox de Inteligencia Artificial de España ha finalizado",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "document metadata",
+    "quote": "Referencia: BOE-A-2023-22767",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "document metadata",
+    "quote": "«BOE» núm. 268, de 9 de noviembre de 2023, páginas 149138 a 149168 (31 págs.)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "enacting formula",
+    "quote": "previa deliberación del Consejo de Ministros en su reunión del día 7 de noviembre de 2023",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "document metadata",
+    "quote": "Departamento: Ministerio de Asuntos Económicos y Transformación Digital",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Análisis",
+    "quote": "Rango: Real Decreto",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "preamble, part I",
+    "quote": "el Gobierno de España, con la colaboración de la Comisión Europea, pone en marcha el primer entorno controlado de pruebas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 1",
+    "quote": "establecer un entorno controlado de pruebas para ensayar el cumplimiento de ciertos requisitos por parte de algunos sistemas de inteligencia artificial que puedan suponer riesgos para la seguridad, la salud y los derechos fundamentales de las personas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 5.2",
+    "quote": "que hagan uso de un sistema de inteligencia artificial de alto riesgo, sistemas de propósito general, o modelos fundacionales",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 11.1 a)",
+    "quote": "El establecimiento, implementación, documentación y mantenimiento de un sistema de gestión de riesgo relativo al sistema de inteligencia artificial en cuestión.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 11.1 d)",
+    "quote": "Los sistemas de inteligencia artificial deberán técnicamente permitir el registro automático de eventos (logs) a lo largo del ciclo de vida del sistema.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 11.1 g)",
+    "quote": "Los sistemas de inteligencia artificial habrán sido o serán diseñados y desarrollados de manera que puedan ser supervisados por personas físicas durante los periodos en que esté en uso.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 11.1 h)",
+    "quote": "un nivel adecuado de precisión, solidez y ciberseguridad",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 13.2",
+    "quote": "Esta declaración de cumplimiento se inicia con un proceso de autoevaluación en el que participan tanto el proveedor IA participante como, en su caso, el usuario participante",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 14.1",
+    "quote": "deberá implementar un sistema de seguimiento posterior a la comercialización",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 15",
+    "quote": "comunicarán al órgano competente, a la mayor brevedad desde que sean conocedores del mismo, cualquier incidente grave en los sistemas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Disposición adicional segunda",
+    "quote": "publicará en su portal web el informe con las conclusiones sobre el desarrollo, buenas prácticas, y recomendaciones al mismo",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "preamble, part I",
+    "quote": "se utilizará como referencia la posición del Consejo de la Unión Europea del 25 de noviembre de 2022",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 3.1",
+    "quote": "«Órgano competente»: Secretaría de Estado de Digitalización e Inteligencia Artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 4.3",
+    "quote": "Los proveedores IA participantes y los usuarios participantes en el entorno controlado de pruebas no recibirán ningún tipo de contraprestación económica o en especie.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 13.10",
+    "quote": "Esta autoevaluación de cumplimiento no tiene efectos fuera del estricto ámbito de este entorno.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Disposición final segunda. Entrada en vigor y vigencia",
+    "quote": "Este real decreto tendrá una vigencia de máximo treinta y seis meses desde su entrada en vigor o, en su caso, hasta que sea aplicable en el Reino de España el Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-9f7d87fbe9/2026-10-17/official-rendered.html",
+    "sha256": "ad57ae37dab2852251851dec75f4cd50edef90cf287e5fe0745878964bde494b",
+    "locator": "Article 113",
+    "quote": "Chapters I and II shall apply from 2 February 2025;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-9f7d87fbe9/2026-10-17/official-rendered.html",
+    "sha256": "ad57ae37dab2852251851dec75f4cd50edef90cf287e5fe0745878964bde494b",
+    "locator": "Article 113",
+    "quote": "Article 6(1) and the corresponding obligations in this Regulation shall apply from 2 August 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-249aaf27db/2026-10-17/official.html",
+    "sha256": "dbc5911debe9edd3435af08d71e777d02fd5fe2c2a34037268571dd72a00d9f1",
+    "locator": "Sandbox IA",
+    "quote": "La convocatoria del piloto se realizó a través de la Resolución de la Secretaría de Estado de Digitalización e Inteligencia Artificial, de 20 de diciembre de 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-249aaf27db/2026-10-17/official.html",
+    "sha256": "dbc5911debe9edd3435af08d71e777d02fd5fe2c2a34037268571dd72a00d9f1",
+    "locator": "Sandbox IA",
+    "quote": "se ha publicado el informe de resultados",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-2db351b32c/2026-10-17/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 38, Disposición derogatoria única",
+    "quote": "y en especial, el Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-2db351b32c/2026-10-17/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 10, exposición de motivos",
+    "quote": "ante la obligación de establecer un nuevo espacio controlado de pruebas para la IA.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-2db351b32c/2026-10-17/official.pdf",
+    "sha256": "7aa8c76f68f32c89c394245cc0be558cd3f0695480455be6d3d3586aec98b96a",
+    "locator": "page 1",
+    "quote": "121/000096 Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial.",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 15",
+    "quote": "cualquier incidente grave en los sistemas que pudiera constituir un incumplimiento de la legislación en vigor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ES-02/2026-10-11/official.html",
+    "sha256": "ebc283abbb86e6f78f6065278debbb1343f7490553bce2cc4144efad16ee7a32",
+    "locator": "Artículo 11.1 g)",
+    "quote": "Contendrá interfaces humano-máquina apropiadas a tal efecto.",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/ES-02/extra-71137eb35e/2026-10-17/official-rendered.html",
+    "sha256": "74d6f76f3155eb1b783e98af999c9365a4259943d4c57fc5eef54baa33baea7e",
+    "locator": "page heading",
+    "quote": "Royal Decree 817/2023, of November 8, establishing a controlled testing environment for testing compliance with the proposal for a Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Rule: the second final provision limits the decree's validity to at most 36 months from entry into force (10 Nov 2023, so to 10 Nov 2026) 'or, where applicable, until the EU Regulation laying down harmonised rules on AI is applicable in Spain'. Event: Article 113 of Regulation (EU) 2024/1689 says it 'shall apply from 2 August 2026' and is directly applicable in all Member States (some chapters earlier, Article 6(1) high-risk rules from 2027). Arithmetic: 2 Aug 2026 is before today, 17 Oct 2026, so the earlier of the two limits has passed and the decree is no longer valid: 'Lapsed'. Consistent with this, the ministry's page (28 Sep 2026) says the sandbox pilot has finished. The Government's bill of May/June 2026 still lists the decree for express repeal, which fits a decree still valid before 2 Aug 2026. A narrower reading (the decree runs until the high-risk rules it tests apply) would keep it valid to 10 Nov 2026 at the latest; the general date of application is the plain reading. Whichever reading applies, the decree lapses no later than 10 Nov 2026.",
+  "scope_reasoning": "Binding implementing decree setting up a national AI regulatory sandbox for compliance testing; in scope without a note.",
+  "changes": {
+   "date_published": "2023-11-09 was the BOE publication date; the field takes the adoption date, 8 Nov 2023 (BOE 'Fecha de disposición' and the signature), as ES-01 does for its royal decree; publication on 9 Nov moves to the notes",
+   "summary": "rewritten from Articles 1, 5, 11, 13, 14 and 15 and the second additional provision; version 1's 'the EU's first pilot' is not what the preamble says ('el primer entorno controlado de pruebas' launched with the Commission's collaboration), and the summary now names the requirements, incident reporting and the published report",
+   "safety_topics": "added 'human oversight' (Article 11.1 g) and 'incident reporting' (Article 15)",
+   "notes": "rewritten from the decree, the AI Regulation's Article 113, the ministry's sandbox page and the bill's repealing provision; version 1's repeated validity clause, process remarks and unsupported claim that sandbox calls continued in 2026 are gone",
+   "verification.note": "rewritten for this run's stored files",
+   "status": "lapsed under its own second final provision: the EU AI Regulation has applied generally since 2 Aug 2026 (Article 113), which is earlier than the 36-month limit; the sandbox pilot has finished",
+   "english_version": "required and missing; an English text of the decree is on regalert.today (stored), a commercial database that does not name a translator: third-party translation",
+   "related": "added ES-03: the organic law bill would expressly repeal this decree"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_in_force",
+   "issuing_body",
+   "official_identifier",
+   "legal_force"
+  ]
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Estrategia de Inteligencia Artificial 2024 (Spain), approved by the Council of Ministers in May 2024",
+   "url": null,
+   "seen_in": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF",
+   "why": "Spain's national AI strategy, whose third axis concerns transparent, responsible AI and supervision; not in the register (only ES-01 to ES-03 exist for Spain)."
+  },
+  {
+   "title": "Informe de resultados del Sandbox de Inteligencia Artificial de España (results report of the RD 817/2023 sandbox)",
+   "url": "https://digital.gob.es/digitalizacion/areas-interes/sandbox-ia",
+   "seen_in": "https://digital.gob.es/digitalizacion/areas-interes/sandbox-ia",
+   "why": "Government report with guidance on implementing high-risk AI requirements; possibly in scope as a government guidance document."
+  }
+ ],
+ "open_questions": [
+  "Status set to 'Lapsed' on the reading that the EU AI Regulation became 'applicable in Spain' on its general date of application, 2 Aug 2026. No official notice confirms the lapse, and the BOE page still shows the validity 'in the terms of final provision 2'. On a narrower reading the decree stays valid until 10 Nov 2026; after that date it has lapsed on any reading."
+ ]
+}

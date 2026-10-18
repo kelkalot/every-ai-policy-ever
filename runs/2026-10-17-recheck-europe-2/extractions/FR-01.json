@@ -1,0 +1,234 @@
+{
+ "cand_id": "FR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "FR-01",
+ "record": {
+  "summary": "France's national institute for AI evaluation and security, created on 31 January 2025 ahead of the Paris AI Action Summit and steered by SGDSN and the Directorate General for Enterprise (DGE). It brings together ANSSI, Inria, LNE and PEReN to build a public capacity to evaluate advanced AI. Its 2026-2027 roadmap sets eleven projects: evaluation tools for AI Act market surveillance authorities, standards work and synthetic-content detection; research on systemic risks from information manipulation, offensive cyber capabilities and CBRN proliferation, and on agentic systems; and performance challenges. SGDSN represents France in the international network of AI safety institutes.",
+  "notes": "SGDSN announced on 12 Feb 2026 that INESIA had adopted its 2026-2027 roadmap, with eleven projects in three poles (support for AI regulation, systemic risks, performance and reliability) and a cross-cutting axis. SGDSN says the network of AI Safety Institutes was renamed the 'International Network for Advanced AI Measurement, Evaluation and Science' in December 2025. The DGE leads exchanges with the European Commission, in particular its AI Office.",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://www.sgdsn.gouv.fr/files/files/Publications/INESIA%20roadmap%202026-2027.pdf",
+   "by": "Secrétariat général de la défense et de la sécurité nationale (SGDSN)"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the SGDSN mission page 'Evaluer et sécuriser l'IA' (dated 5 Feb 2026), rendered in a browser and printed to PDF on 17 Oct 2026, which gives the institute's name, creation on 31 Jan 2025, steering by SGDSN and DGE, members, poles and the network renaming; the INESIA 2026-2027 roadmap (French PDF, sgdsn.gouv.fr), which sets out the eleven projects; the SGDSN news item of 12 Feb 2026 on the roadmap's adoption (stored as the secondary source); press release no. 373 of 12 Feb 2026 (sgdsn.gouv.fr PDF); and SGDSN's English courtesy translation of the roadmap (sgdsn.gouv.fr PDF), which gives the English name of the institute and states that the French document is the official version. No founding decree or standalone founding press release is among the stored files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, introduction",
+    "quote": "Créé en 2025, l’Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA) structure une capacité publique d’expertise sur l’évaluation et la sécurité des IA avancées.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-e7830c0e80/2026-10-17/official.pdf",
+    "sha256": "d2147c8102e971dbf72694e22edc57fd7d05f2fe2a23cab92814c349d943d309",
+    "locator": "page 4, executive summary",
+    "quote": "the National Institute for the Evaluation and Security of Artificial Intelligence (INESIA) was created. Launched in 2025, it brings together ANSSI, Inria, LNE, and PEReN.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, introduction",
+    "quote": "Créé en 2025, l’Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA) structure une capacité publique d’expertise sur l’évaluation et la sécurité des IA avancées.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 3",
+    "quote": "Sous le pilotage du Secrétariat général de la défense et de la sécurité nationale (SGDSN) et de la Direction générale des Entreprises (DGE), l’INESIA structure son activité autour de trois pôles",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/secondary.html",
+    "sha256": "0fefb21d202bd1191ed4175b023a352eeb39219be7ced173d507455595d74adb",
+    "locator": "news item, 12 février 2026",
+    "quote": "Sous le pilotage conjoint de la Direction générale des Entreprises (DGE) et du Secrétariat général de la défense et de la sécurité nationale (SGDSN), l’Institut national pour l’évaluation et la sécurité de l’IA (INESIA) a adopté sa feuille de route 2026-2027.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 2",
+    "quote": "Le 31 janvier 2025, en amont du sommet français pour l’action sur l’intelligence artificielle, l’Institut national pour l’évaluation et la sécurité de l’IA a été créé.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-f87e80ea50/2026-10-17/official.pdf",
+    "sha256": "b47f8c9192fcfec15181dbc268def99e1eed44ae9a830df07d5e355fbd016320",
+    "locator": "page 1, press release header",
+    "quote": "Paris, le 12 février 2026 N°373 L’Institut national pour l’évaluation et la sécurité de l’IA adopte sa feuille de route 2026-2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/secondary.html",
+    "sha256": "0fefb21d202bd1191ed4175b023a352eeb39219be7ced173d507455595d74adb",
+    "locator": "news item header",
+    "quote": "Informations 12 février 2026 Sous le pilotage conjoint de la Direction générale des Entreprises (DGE)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "page header",
+    "quote": "Evaluer et sécuriser l'IA Anticiper et prévenir 05 février 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 3",
+    "quote": "Sous le pilotage du Secrétariat général de la défense et de la sécurité nationale (SGDSN) et de la Direction générale des Entreprises (DGE), l’INESIA structure son activité autour de trois pôles",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/secondary.html",
+    "sha256": "0fefb21d202bd1191ed4175b023a352eeb39219be7ced173d507455595d74adb",
+    "locator": "news item, 12 février 2026",
+    "quote": "l’Institut national pour l’évaluation et la sécurité de l’IA (INESIA) a adopté sa feuille de route 2026-2027",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 2",
+    "quote": "Le 31 janvier 2025, en amont du sommet français pour l’action sur l’intelligence artificielle, l’Institut national pour l’évaluation et la sécurité de l’IA a été créé.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 3",
+    "quote": "Sous le pilotage du Secrétariat général de la défense et de la sécurité nationale (SGDSN) et de la Direction générale des Entreprises (DGE), l’INESIA structure son activité autour de trois pôles",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 4",
+    "quote": "L’INESIA fédère un écosystème de chercheurs et d’ingénieurs issus de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), de l’Institut national de recherche en sciences et technologies du numérique (Inria)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/document-1.pdf",
+    "sha256": "dea71b54806f5cf6b4b8dcab3ecbfa30ba55e3774bae3df6e81b36d8f477ad8b",
+    "locator": "page 13, Projet n°1",
+    "quote": "Mettre des outils d’évaluation à disposition des autorités françaises de surveillance du marché au titre du règlement IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/document-1.pdf",
+    "sha256": "dea71b54806f5cf6b4b8dcab3ecbfa30ba55e3774bae3df6e81b36d8f477ad8b",
+    "locator": "page 20, Pôle risques systémiques",
+    "quote": "le Projet n°5. vise à objectiver les risques systémiques en lien avec les problématiques de manipulation d’information à grande échelle (santé, système financier, systèmes d’information), de cybersécurité offensive et de prolifération NRBC",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/document-1.pdf",
+    "sha256": "dea71b54806f5cf6b4b8dcab3ecbfa30ba55e3774bae3df6e81b36d8f477ad8b",
+    "locator": "page 20, Pôle risques systémiques",
+    "quote": "le Projet n°6. se concentre sur l’évaluation des systèmes d’agents",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-e7830c0e80/2026-10-17/official.pdf",
+    "sha256": "d2147c8102e971dbf72694e22edc57fd7d05f2fe2a23cab92814c349d943d309",
+    "locator": "page 18, Systemic risks pillar",
+    "quote": "related to large -scale information manipulation (health, financial system, information systems), offensive cyber security and CBRN proliferation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 5",
+    "quote": "le SGDSN représente ainsi la France au sein du réseau des AI Safety Institutes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, Pôle 3",
+    "quote": "Des challenges seront conduits, qui permettront de renforcer l’émulation entre les acteurs",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-f87e80ea50/2026-10-17/official.pdf",
+    "sha256": "b47f8c9192fcfec15181dbc268def99e1eed44ae9a830df07d5e355fbd016320",
+    "locator": "page 1, press release, paragraph 1",
+    "quote": "l’Institut national pour l’évaluation et la sécurité de l’IA (INESIA) a adopté sa feuille de route 2026-2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-11/secondary.html",
+    "sha256": "0fefb21d202bd1191ed4175b023a352eeb39219be7ced173d507455595d74adb",
+    "locator": "news item, 12 février 2026",
+    "quote": "a adopté sa feuille de route 2026-2027",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 7",
+    "quote": "Ces quatre axes sont déclinés en trois pôles stratégiques et un axe transverse, qui se traduisent par onze projets opérationnels, décrits au sein de sa feuille de route 2026-2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 5",
+    "quote": "rebaptisé « International Network for Advanced AI Measurement, Evaluation and Science » en décembre 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA, paragraph 5",
+    "quote": "la DGE pilote les échanges avec la Commission européenne, et en particulier avec le Bureau de l’IA",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the mission page and the roadmap (NRBC rendered as CBRN, as SGDSN's English translation does): adds the roadmap's projects (tools for AI Act market surveillance authorities, synthetic-content detection, systemic risks from information manipulation, offensive cyber and NRBC proliferation, agentic systems) and says, as the page does, that SGDSN represents France in the AISI network",
+   "notes": "the sentence that INESIA has no separate legal personality or regulatory power was removed because no stored file supports it; the roadmap date is given as the date SGDSN announced the adoption",
+   "english_version": "the record had none; SGDSN publishes an English courtesy translation of the 2026-2027 roadmap, stored in this run, which says the French document is the official version, so the kind is government translation",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status"
+  ],
+  "status_reasoning": "INESIA is a standing institute without a founding legal act among the stored files. The SGDSN mission page, dated 5 Feb 2026 and stored on 17 Oct 2026, describes it as active under SGDSN and DGE steering, and SGDSN announced its 2026-2027 roadmap on 12 Feb 2026. Nothing stored says it was wound up or replaced. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A national AI evaluation and security institute and France's member of the international AI safety institutes network; clearly in scope (mandates of AI safety bodies), no scope_note.",
+  "date_last_updated_reasoning": "12 Feb 2026 is the date of SGDSN's news item announcing the roadmap's adoption; the mission page, dated 5 Feb 2026, already refers to the roadmap, so the adoption itself may be a few days earlier; press release no. 373, dated 12 Feb 2026, announces the adoption without giving another date, so 12 Feb 2026 is kept."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

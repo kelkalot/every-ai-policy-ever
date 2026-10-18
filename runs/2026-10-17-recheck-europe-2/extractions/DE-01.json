@@ -1,0 +1,403 @@
+{
+ "cand_id": "DE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "DE-01",
+ "record": {
+  "issuing_body": "German Bundestag",
+  "summary": "Germany's law implementing the EU AI Act (Regulation (EU) 2024/1689). It makes the Bundesnetzagentur the main market surveillance authority, single point of contact and central complaints office; BaFin supervises AI systems linked to regulated financial activities, and existing product regulators cover AI in products under Annex I. An independent AI market surveillance chamber oversees certain high-risk systems, including biometric systems used for law enforcement, border management, justice and democracy. The law also sets up a coordination and competence centre, AI regulatory sandboxes, approval of real-world tests of high-risk systems, fines and a register of certain high-risk systems.",
+  "safety_topics": [
+   "accountability & liability",
+   "risk-based classification",
+   "evaluation & testing",
+   "public-sector use"
+  ],
+  "notes": "The Federal Government sent its bill to the Bundesrat on 13 February 2026 as particularly urgent, noting that Germany had to implement the AI Act by 2 August 2025 (Bundesrat printed paper 97/26). The Bundestag passed the act on 11 June 2026, and on 10 July 2026 the Bundesrat decided not to call the mediation committee. The act was signed on 22 July 2026 and published in Bundesgesetzblatt 2026 I No. 223 on 28 July 2026; under its Article 5 it entered into force the day after promulgation, 29 July 2026. The KI-MIG is Article 1 of that act (Gesetz zur Durchführung der Verordnung über künstliche Intelligenz); Articles 2 to 4 amend the Whistleblower Protection Act to cover breaches of the AI Act, the First Book of the Social Code and the Financial Services Supervision Act. Structure of the KI-MIG: Part 1 scope; Part 2 competent authorities and cooperation (sections 2-10); Part 3 powers (section 11); Part 4 innovation support (sections 12-14, AI regulatory sandboxes and real-world testing of high-risk systems); Part 5 fines (sections 15-17); Part 6 retention duties; Part 7 evaluation; Part 8 register of certain high-risk AI systems (section 20). Breaches listed in section 15 carry fines of up to EUR 50,000, and no fines are imposed on public authorities and other public bodies (section 17(2)). A real-world test plan counts as approved if the provider receives no answer within 30 days. The AI market surveillance chamber reports to the Bundestag every year, first for 2026; the government evaluates the supervisory structure within 18 months and again within three years of entry into force.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the gesetze-im-internet.de text of the KI-MIG (Federal Ministry of Justice portal, stored 11 Oct 2026): full title and abbreviation, Ausfertigungsdatum 22.07.2026, citation BGBl. 2026 I Nr. 223, the footnote that the Bundestag adopted it as Article 1 of the act of 22.7.2026 and that it enters into force on 29.7.2026 under Article 5, and sections 1-20. Stored in this run: the promulgated act from the Bundesgesetzblatt on recht.bund.de (issued 28 July 2026; enacting formula 'Der Bundestag hat das folgende Gesetz beschlossen', Articles 2-5 and the signatures), the government bill (Bundesrat printed paper 97/26 of 13 February 2026) and the Bundesrat decision of 10 July 2026 (printed paper 375/26 (B)) on dserver.bundestag.de. The act was passed by the Bundestag without the Bundesrat's consent, so the issuing body now names the Bundestag; recht.bund.de is not on the list of official sites, so quotes from it count as secondary. No English translation is listed on gesetze-im-internet.de."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "page heading",
+    "quote": "Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz - KI-MIG)",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "page heading",
+    "quote": "Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz - KI-MIG)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 1, Artikel 1",
+    "quote": "Artikel 1 Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz – KI-MIG)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "Fußnote",
+    "quote": "Das G wurde als Artikel 1 des G v. 22.7.2026 I Nr. 223 vom Bundestag beschlossen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 1, enacting formula",
+    "quote": "(Gesetz zur Durchführung der Verordnung über künstliche Intelligenz) Vom 22. Juli 2026 Der Bundestag hat das folgende Gesetz beschlossen:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 14, Artikel 5",
+    "quote": "Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-903b809255/2026-10-17/official.pdf",
+    "sha256": "92f4efbf33a96ea38ef3c5e80ef9a69e5bc3e35af0fee793a4aab43112ac0936",
+    "locator": "page 1",
+    "quote": "Der Bundesrat hat in seiner 1067. Sitzung am 10. Juli 2026 beschlossen, zu dem vom Deutschen Bundestag am 11. Juni 2026 verabschiedeten Gesetz einen Antrag gemäß Artikel 77 Absatz 2 des Grundgesetzes nicht zu stellen.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "header",
+    "quote": "Ausfertigungsdatum: 22.07.2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "Vollzitat",
+    "quote": "\"KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz vom 22. Juli 2026 (BGBl. 2026 I Nr. 223)\"",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "Fußnote",
+    "quote": "Es tritt gem. Art. 5 dieses G am 29.7.2026 in Kraft.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 14, Artikel 5",
+    "quote": "Artikel 5 Inkrafttreten Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 1, header",
+    "quote": "2026 Ausgegeben zu Bonn am 28. Juli 2026 Nr. 223",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "Vollzitat",
+    "quote": "\"KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz vom 22. Juli 2026 (BGBl. 2026 I Nr. 223)\"",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "Fußnote",
+    "quote": "Das G wurde als Artikel 1 des G v. 22.7.2026 I Nr. 223 vom Bundestag beschlossen. Es tritt gem. Art. 5 dieses G am 29.7.2026 in Kraft.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 1 Anwendungsbereich",
+    "quote": "Dieses Gesetz dient der Durchführung der Verordnung (EU) 2024/1689.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 15 Bußgeldvorschriften",
+    "quote": "Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 1 Anwendungsbereich",
+    "quote": "Dieses Gesetz dient der Durchführung der Verordnung (EU) 2024/1689.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 2 Abs. 1",
+    "quote": "Die Bundesnetzagentur ist die für die Einhaltung der Verordnung (EU) 2024/1689 zuständige Marktüberwachungsbehörde, soweit in diesem Gesetz nichts anderes bestimmt ist.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 6 Abs. 1",
+    "quote": "Zentrale Anlaufstelle im Sinne des Artikels 70 Absatz 2 Satz 3 der Verordnung (EU) 2024/1689 ist die Bundesnetzagentur.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 8 Abs. 1",
+    "quote": "bei der Bundesnetzagentur als zentraler Beschwerdestelle eingereicht werden",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 2 Abs. 3",
+    "quote": "Die Bundesanstalt für Finanzdienstleistungsaufsicht ist die zuständige Marktüberwachungsbehörde für in direktem Zusammenhang mit einer regulierten Finanztätigkeit stehende KI-Systeme",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 2 Abs. 2",
+    "quote": "nehmen auch die Aufgaben als zuständige Marktüberwachungsbehörden gemäß der Verordnung (EU) 2024/1689 wahr, wenn KI-Systeme betroffen sind, die mit solchen Produkten in Zusammenhang stehen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 2 Abs. 5",
+    "quote": "wird bei der Bundesnetzagentur gemäß § 4 eine unabhängige KI-Marktüberwachungskammer zur Marktüberwachung der folgenden KI-Systeme eingerichtet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 2 Abs. 5 Nr. 1",
+    "quote": "sofern sie für Strafverfolgungszwecke, Grenzmanagement und Justiz und Demokratie eingesetzt werden",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 5",
+    "quote": "Bei der Bundesnetzagentur wird ein zentrales Koordinierungs- und Kompetenzzentrum für die Verordnung (EU) 2024/1689 eingerichtet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 13 Abs. 1",
+    "quote": "Die Bundesnetzagentur errichtet und betreibt mindestens ein KI-Reallabor nach den Artikeln 57 und 58 der Verordnung (EU) 2024/1689.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 14 Abs. 2",
+    "quote": "Die zuständige Marktüberwachungsbehörde genehmigt den Test unter Realbedingungen und den Plan für den Test unter Realbedingungen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 20 Abs. 1",
+    "quote": "Die Bundesnetzagentur führt ein nicht-öffentliches Register nach Artikel 49 Absatz 5 der Verordnung (EU) 2024/1689 über Hochrisiko-KI-Systeme nach Anhang III Nummer 2 der Verordnung (EU) 2024/1689.",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 17 Abs. 2",
+    "quote": "Gegen Behörden und sonstige öffentliche Stellen im Sinne des § 2 Absatz 1 oder 2 des Bundesdatenschutzgesetzes werden in den Fällen des § 15 Absatz 1 und 2 sowie des Artikels 99 Absatz 3 bis 5 der Verordnung (EU) 2024/1689 keine Geldbußen verhängt.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 20 Abs. 3",
+    "quote": "wenn es sich bei den Betreibern um öffentliche Stellen des Bundes im Sinne des § 2 des Bundesdatenschutzgesetzes handelt",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 12 Nr. 2",
+    "quote": "oder dessen Einstufung als Hochrisiko-KI-System gemäß Artikel 6 Absatz 2 und 3 der Verordnung (EU) 2024/1689 mit Blick auf den konkreten Einzelfall zu beraten",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 15 Abs. 3",
+    "quote": "Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 14 Abs. 2",
+    "quote": "Die Genehmigung der zuständigen Marktüberwachungsbehörde gilt als erteilt, wenn der Anbieter oder zukünftige Anbieter binnen 30 Tagen nach Eingang des Plans gemäß Satz 1 keine Antwort erhalten hat.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 4 Abs. 4",
+    "quote": "Die KI-Marktüberwachungskammer legt dem Bundestag jährlich einen Tätigkeitsbericht vor. Der Bericht ist erstmals für das Jahr 2026 zu erstellen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 19 Abs. 2",
+    "quote": "Die Bundesregierung führt spätestens 18 Monate nach Inkrafttreten dieses Gesetzes eine erste Evaluierung der Aufsichts- und Behördenstruktur durch.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 19 Abs. 3",
+    "quote": "Die Bundesregierung evaluiert spätestens drei Jahre nach Inkrafttreten dieses Gesetzes die Wirksamkeit der Aufsichts- und Behördenstruktur",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DE-01/2026-10-11/official.html",
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "locator": "§ 18",
+    "quote": "Stellt ein Anbieter nach Artikel 3 Nummer 3 der Verordnung (EU) 2024/1689 oder ein in Deutschland niedergelassener Bevollmächtigter",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f7789fc905/2026-10-17/official.pdf",
+    "sha256": "831de06ec19c7efcd20f317ebdd870043dfbd0157f2462dafd49a765d0e0a3cc",
+    "locator": "page 1",
+    "quote": "Bundesrat Drucksache 97/26 13.02.26",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f7789fc905/2026-10-17/official.pdf",
+    "sha256": "831de06ec19c7efcd20f317ebdd870043dfbd0157f2462dafd49a765d0e0a3cc",
+    "locator": "cover letter",
+    "quote": "Bundesrepublik Deutschland Berlin, 13. Februar 2026 Der Bundeskanzler",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f7789fc905/2026-10-17/official.pdf",
+    "sha256": "831de06ec19c7efcd20f317ebdd870043dfbd0157f2462dafd49a765d0e0a3cc",
+    "locator": "cover letter",
+    "quote": "besonders eilbedürftige Vorlage gemäß Artikel 76 Absatz 2 Satz 4 GG",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f7789fc905/2026-10-17/official.pdf",
+    "sha256": "831de06ec19c7efcd20f317ebdd870043dfbd0157f2462dafd49a765d0e0a3cc",
+    "locator": "page 6",
+    "quote": "Der Gesetzentwurf ist besonders eilbedürftig, weil die Bundesrepublik Deutschland die KI-Verordnung bis zum 2. August 2025 durchführen musste.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-903b809255/2026-10-17/official.pdf",
+    "sha256": "92f4efbf33a96ea38ef3c5e80ef9a69e5bc3e35af0fee793a4aab43112ac0936",
+    "locator": "page 1",
+    "quote": "Der Bundesrat hat in seiner 1067. Sitzung am 10. Juli 2026 beschlossen, zu dem vom Deutschen Bundestag am 11. Juni 2026 verabschiedeten Gesetz einen Antrag gemäß Artikel 77 Absatz 2 des Grundgesetzes nicht zu stellen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 14, Artikel 5",
+    "quote": "Das vorstehende Gesetz wird hiermit ausgefertigt. Es ist im Bundesgesetzblatt zu verkünden. Berlin, den 22. Juli 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 12, Artikel 2",
+    "quote": "Artikel 2 Änderung des Hinweisgeberschutzgesetzes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 12, Artikel 2",
+    "quote": "10. Verstöße gegen Vorschriften der Verordnung (EU) 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 13, Artikel 3",
+    "quote": "Artikel 3 Änderung des Ersten Buches Sozialgesetzbuch",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-01/extra-f2ead9ec20/2026-10-17/official.pdf",
+    "sha256": "683a06ff551312249367a8049a614305c04babdc0abfed1650fb7b00b4b4ac1a",
+    "locator": "page 13, Artikel 4",
+    "quote": "Artikel 4 Änderung des Finanzdienstleistungsaufsichtsgesetzes",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the promulgated act reads 'Der Bundestag hat das folgende Gesetz beschlossen' and 'Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt', and the Bundesrat only decided not to call the mediation committee (printed paper 375/26 (B)); the act did not need the Bundesrat's consent, so 'with the consent of the Bundesrat' is removed",
+   "summary": "rewritten from sections 2-20 of the stored text: adds BaFin's and the product regulators' remits, what the chamber supervises and the approval of real-world tests",
+   "safety_topics": "'public-sector use' added for the rules on public bodies (no fines, section 17(2); registration of federal public deployers, section 20(3); classification advice to public bodies, section 12)",
+   "notes": "replaced the press-reported parliamentary dates with those of the stored Bundesrat papers (government bill 13 Feb 2026, Bundestag 11 Jun 2026, Bundesrat 10 Jul 2026) and the promulgation date; removed the claim about when the AI Act's main obligations apply; added Articles 2-4 of the enacting act, fines, the deemed approval of test plans, the chamber's report and the evaluation deadlines",
+   "english_version": "no English translation of the KI-MIG is listed on gesetze-im-internet.de",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "date_in_force",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 5 of the enacting act: in force the day after promulgation. The Bundesgesetzblatt issue is dated 28 July 2026, so the act entered into force on 29 July 2026, which the official consolidated text confirms. That is before today (17 October 2026), and no amendment or repeal is shown, so 'In force' stands.",
+  "scope_reasoning": "A national law implementing the EU AI Act (authorities, powers, sandboxes, fines); in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "recht.bund.de, the federal platform of the Bundesgesetzblatt, is not listed in pipeline/official-sites.json for DE, so quotes from the promulgated act stored in this run count as secondary until a person records the host (the record keeps level A through gesetze-im-internet.de)."
+ ]
+}

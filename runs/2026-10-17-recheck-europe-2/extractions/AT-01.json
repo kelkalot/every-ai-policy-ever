@@ -1,0 +1,374 @@
+{
+ "cand_id": "AT-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AT-01",
+ "record": {
+  "date_in_force": "2024-01-01",
+  "summary": "Amendment to the KommAustria Act (new § 17(8), § 18(3a) and § 20c) and the Telecommunications Act 2021 (new § 194a) that tasks the regulator RTR-GmbH with building and running a Service Centre for Artificial Intelligence. The centre runs an information portal on AI projects and advises the public, companies and public bodies on the regulatory framework for developing and using AI, technical documentation of AI systems, AI's effects on cyber security and AI already used in high-risk areas. The act also sets up an 11-member AI Advisory Board at RTR to advise the government on technical, ethical and societal aspects of AI.",
+  "notes": "Introduced in the Nationalrat on 15 December 2023 as motion 3821/A by Eva-Maria Himmelbauer and Süleyman Zorba; the Constitutional Committee recommended it unchanged on 22 January 2024 (report 2419 d.B.), the Nationalrat adopted the act on 31 January 2024 and the Bundesrat decided on 15 February 2024 not to object. Promulgated as BGBl. I Nr. 6/2024; the new provisions apply retroactively from 1 January 2024. Supervision of the centre is split between the chair of KommAustria (for tasks linked to media regulation), the Federal Chancellor (its other media tasks) and the Finance Minister (its tasks under § 194a TKG 2021). The service centre receives EUR 700,000 a year from the federal budget. The Finance Ministry described it as a first step, to be developed into an AI authority (KI-Behörde). A parliamentary question of 2 April 2026 (5638/J) asked why Austria had still not designated the national authorities required by Article 70 of the AI Act although the deadline was 2 August 2025; the Minister for Housing, Arts, Culture, Media and Sport replied on 2 June 2026 that his ministry is not responsible for implementing the AI Act.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Austrian Parliament page for 3821/A and the motion text (stored 11 Oct 2026) and the Finance Ministry press release of 22 January 2024 (stored again 17 Oct 2026; the page around the release changed, the release did not). Stored in this run from parlament.gv.at: the page of the Constitutional Committee's report 2419 d.B., the report itself and the text the Nationalrat adopted, which match the motion (recommended unchanged) and confirm the AI Advisory Board, the funding and entry into force on 1 January 2024; and parliamentary question 5638/J with the answer 5062/AB. The RIS copy of BGBl. I Nr. 6/2024 could not be stored (the archiver treats RIS's robots.txt answer, HTTP 503, as a refusal), so the promulgated text and its issue date are not confirmed by a stored file; BGBl. I Nr. 6/2024 is named on the parliament page. Version 1's promulgation date, the ORF report and the Commission's list of single points of contact rested on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1",
+    "quote": "Bundesgesetz, mit dem das KommAustria-Gesetz und das Telekommunikationsgesetz 2021 geändert werden",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "page heading",
+    "quote": "KommAustria-Gesetz,Telekommunikationsgesetz, Änderung (3821/A)",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1",
+    "quote": "Bundesgesetz, mit dem das KommAustria-Gesetz und das Telekommunikationsgesetz 2021 geändert werden",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Status",
+    "quote": "Beschlossen im Bundesrat 891/BNR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Plenarberatungen NR",
+    "quote": "249. Sitzung des Nationalrates: Gesetzesvorschlag in dritter Lesung angenommen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Plenarberatungen BR",
+    "quote": "963. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Plenarberatungen NR",
+    "quote": "31.01.2024 Beschluss im Nationalrat 891/BNR",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-557f5dea61/2026-10-17/official.html",
+    "sha256": "86404339768b8c18428ac0375ba45ff689cd6225db7691f82ca6afb7a5bf232a",
+    "locator": "2419 d.B. Gesetzestext, Art. 1 Z 5 (§ 44 Abs. 36 KOG)",
+    "quote": "§ 17 Abs. 8, § 18 Abs. 3a, § 19 Abs. 3 Z 5a, § 20c samt Überschrift und § 46 in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/2023 treten mit 1. Jänner 2024 in Kraft.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-557f5dea61/2026-10-17/official.html",
+    "sha256": "86404339768b8c18428ac0375ba45ff689cd6225db7691f82ca6afb7a5bf232a",
+    "locator": "2419 d.B. Gesetzestext, Art. 2 Z 3 (§ 217 Abs. 3 TKG 2021)",
+    "quote": "Das Inhaltsverzeichnis und § 194a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/2023 treten mit 1. Jänner 2024 in Kraft.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, Art. 1 Z 5 (§ 44 Abs. 36 KOG)",
+    "quote": "§ 17 Abs. 8, § 18 Abs. 3a, § 19 Abs. 3 Z 5a, § 20c samt Überschrift und § 46 in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/2023 treten mit 1. Jänner 2024 in Kraft.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, Art. 2 Z 3 (§ 217 Abs. 3 TKG 2021)",
+    "quote": "Das Inhaltsverzeichnis und § 194a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. xxx/2023 treten mit 1. Jänner 2024 in Kraft.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Status",
+    "quote": "Bundesgesetzblatt I Nr. 6/2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1",
+    "quote": "3821/A XXVII. GP",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Status",
+    "quote": "Status Beschlossen Beschlossen im Bundesrat 891/BNR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Status",
+    "quote": "Bundesgesetzblatt I Nr. 6/2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-557f5dea61/2026-10-17/official.html",
+    "sha256": "86404339768b8c18428ac0375ba45ff689cd6225db7691f82ca6afb7a5bf232a",
+    "locator": "2419 d.B. Gesetzestext",
+    "quote": "Bundesgesetz, mit dem das KommAustria-Gesetz und das Telekommunikationsgesetz 2021 geändert werden Der Nationalrat hat beschlossen:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1, § 17 Abs. 8 KOG",
+    "quote": "Die RTR-GmbH hat unter der gemeinsamen Verantwortung beider Geschäftsführer die Aufgabe des Aufbaus und der Führung einer Servicestelle für Künstliche Intelligenz",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 2, § 20c Abs. 2 KOG",
+    "quote": "hat die RTR-GmbH ein Informationsportal zu betreiben, auf dem Projekte und Initiativen dargestellt werden, die dem Einsatz von KI dienen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, § 194a Abs. 1 TKG 2021",
+    "quote": "jedenfalls folgende Unterstützungs- und Beratungsleistungen für die Öffentlichkeit",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, § 194a Abs. 1 Z 1",
+    "quote": "die regulatorischen Rahmenbedingungen bei der Entwicklung und den Einsatz von KI in Unternehmen und öffentlichen Rechtsträgern",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, § 194a Abs. 1 Z 2",
+    "quote": "die regulatorischen Rahmenbedingungen für die technische Dokumentation von KI-Systemen einschließlich der Informationen für Nutzerinnen und Nutzer",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, § 194a Abs. 1 Z 4 und 5",
+    "quote": "die Auswirkungen von KI auf Cyber-Sicherheit; 5. bereits eingesetzte KI in Hochrisikobereichen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 2, § 20c Abs. 6 KOG",
+    "quote": "Bei der RTR-GmbH wird ein \"Beirat für Künstliche Intelligenz\" (KI-Beirat) eingerichtet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 2, § 20c Abs. 6 Z 1 KOG",
+    "quote": "Information und Beratung der mit KI-Angelegenheiten befassten Mitglieder der Bundesregierung sowie der RTR-GmbH über aktuelle Entwicklungen im Bereich KI. Dies umfasst sowohl technische als auch ethische und gesellschaftliche Aspekte",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 2, § 20c Abs. 7 KOG",
+    "quote": "Der Beirat besteht aus elf Mitgliedern.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-557f5dea61/2026-10-17/official.html",
+    "sha256": "86404339768b8c18428ac0375ba45ff689cd6225db7691f82ca6afb7a5bf232a",
+    "locator": "2419 d.B. Gesetzestext, § 20c Abs. 6 KOG",
+    "quote": "Bei der RTR‑GmbH wird ein „Beirat für Künstliche Intelligenz“ (KI‑Beirat) eingerichtet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-557f5dea61/2026-10-17/official.html",
+    "sha256": "86404339768b8c18428ac0375ba45ff689cd6225db7691f82ca6afb7a5bf232a",
+    "locator": "2419 d.B. Gesetzestext, § 20c Abs. 7 KOG",
+    "quote": "Der Beirat besteht aus elf Mitgliedern.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-557f5dea61/2026-10-17/official.html",
+    "sha256": "86404339768b8c18428ac0375ba45ff689cd6225db7691f82ca6afb7a5bf232a",
+    "locator": "2419 d.B. Gesetzestext, § 194a Abs. 1 Z 4 TKG 2021",
+    "quote": "Auswirkungen von KI auf Cyber-Sicherheit;",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Einbringung NR",
+    "quote": "15.12.2023 Einbringung im Nationalrat",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Selbständiger Antrag",
+    "quote": "Antrag der Abgeordneten Eva-Maria Himmelbauer, BSc, Süleyman Zorba, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das KommAustria-Gesetz und das Telekommunikationsgesetz 2021 geändert werden",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Ausschussberatungen NR",
+    "quote": "22.01.2024 Verfassungsausschuss: Bericht 2419 d.B.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-efa4a078cd/2026-10-17/official.html",
+    "sha256": "d11b214af9dec4bdf424b0e760133bf4bda9616b00006e7981c27ae348667fc4",
+    "locator": "Parlamentarisches Verfahren",
+    "quote": "22.01.2024 Verfassungsausschuss: Antrag auf Annahme des unveränderten Gesetzesvorschlags",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-a353d2cf91/2026-10-17/official.html",
+    "sha256": "8f3c0abd2e908688995e3aa93997a8355a6eb69af780e8bc776ffd80cf25496e",
+    "locator": "Bericht des Verfassungsausschusses",
+    "quote": "Initiativantrag am 15. Dezember 2023 im Nationalrat eingebracht",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-80b10bea57/2026-10-17/official-print.pdf",
+    "sha256": "9fdf172fa716e4acd3a7555d216e952a0008996c89ae2ba0d9d4a12420d11484",
+    "locator": "5638/J",
+    "quote": "Schriftliche Anfrage der Abgeordneten Süleyman Zorba, Kolleginnen und Kollegen an den Bundesminister für Wohnen, Kunst, Kultur, Medien und Sport betreffend Wo bleibt die Umsetzung des AI Acts?",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-a48e91c001/2026-10-17/official.pdf",
+    "sha256": "593cb3986cf19b2321131cf800e6fa7680fcd8eea374d985d3cad77e4027cefb",
+    "locator": "5062/AB, page 1",
+    "quote": "Warum wurden bis heute keine national zuständigen Behörden gemäß Art. 70 Al Act (notifizierende Behörde und Marktüberwachungsbehörde) benannt, obwohl die Frist am 2. August 2025 endete?",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-a48e91c001/2026-10-17/official.pdf",
+    "sha256": "593cb3986cf19b2321131cf800e6fa7680fcd8eea374d985d3cad77e4027cefb",
+    "locator": "5062/AB, page 1",
+    "quote": "haben am 2. April 2026 unter der Nr. 5638/J an mich eine schriftliche parlamentarische Anfrage betreffend „Wo bleibt die Umsetzung des AI Acts“ gerichtet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-a48e91c001/2026-10-17/official.pdf",
+    "sha256": "593cb3986cf19b2321131cf800e6fa7680fcd8eea374d985d3cad77e4027cefb",
+    "locator": "5062/AB, page 1",
+    "quote": "Wien, 2. Juni 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/AT-01/extra-a48e91c001/2026-10-17/official.pdf",
+    "sha256": "593cb3986cf19b2321131cf800e6fa7680fcd8eea374d985d3cad77e4027cefb",
+    "locator": "5062/AB, page 2",
+    "quote": "Das Bundesministerium für Kunst, Kultur, Medien und Sport trifft keine Zuständigkeit zur nationalen Umsetzung des AI Acts.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/official.html",
+    "sha256": "33a955b8fa276566c8c7846a3ffa801c83c5291818787c75a4044db1e06787d9",
+    "locator": "Plenarberatungen BR",
+    "quote": "15.02.2024 963. Sitzung: Antrag, keinen Einspruch zu erheben, angenommen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1, § 18 Abs. 3a Z 1 KOG",
+    "quote": "Aufsicht und Regulierung elektronischer Medien und zur Förderung der Medien durch die KommAustria aufweist, dem Vorsitzenden der KommAustria",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1, § 18 Abs. 3a Z 3 KOG",
+    "quote": "soweit es sich um Tätigkeiten nach § 194a TKG 2021 handelt, dem Bundesminister für Finanzen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 1, § 18 Abs. 3a Z 2 KOG",
+    "quote": "soweit es sich um Tätigkeiten nach § 20c Abs. 3 außerhalb des Anwendungsbereichs der Z 1 handelt, dem Bundeskanzler",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-11/document-2.pdf",
+    "sha256": "bbafa09d6da2493b114a023fefb19406fb0cf9fc128cde0ffe4a5c62cf9e86e7",
+    "locator": "page 3, § 20c Abs. 9 KOG",
+    "quote": "sind der RTR-GmbH jährlich 700 000 Euro aus dem Bundeshaushalt per 31. Jänner zu überweisen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AT-01/2026-10-17/secondary.html",
+    "sha256": "a3d205835b0d6f81c615616479aa5658e2cd427841879aab43ff7db4a3faeda7",
+    "locator": "press release of 22 January 2024",
+    "quote": "Diese Servicestelle soll in einem weiteren Ausbauschritt in eine KI-Behörde übergehen.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_in_force": "the entry-into-force clauses of the adopted text (2419 d.B.: § 44 Abs. 36 KOG, § 217 Abs. 3 TKG 2021) give 1 January 2024 for all new provisions, retroactively, since the act was adopted on 31 January 2024",
+   "summary": "rewritten from the stored motion text: the service centre's tasks under § 194a TKG 2021 and the 11-member AI Advisory Board (§ 20c(6)-(7) KOG) added; the reference to the AI Act's risk-based requirements removed (the provisions name the regulatory framework, not the AI Act)",
+   "notes": "rewritten: duplicate sentences on the procedure merged; supervision and funding added from §§ 18(3a) and 20c(9) KOG; the statement on Austria's missing AI Act authorities now rests on the stored question 5638/J and answer 5062/AB; the promulgation date, the ORF report and the Commission's list removed (no stored file)",
+   "english_version": "no English text of the amending act was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The parliament page shows the act passed the Nationalrat on 31 January 2024, the Bundesrat raised no objection on 15 February 2024, and it was promulgated as BGBl. I Nr. 6/2024. Its provisions enter into force on 1 January 2024. No repeal or replacement is shown. 'In force' stands.",
+  "scope_reasoning": "The statutory mandate of a national AI service centre at the communications regulator, presented in its explanatory memorandum with reference to the AI Act; in scope as an institutional mandate with no note.",
+  "date_reasoning": "date_published stays the Nationalrat's adoption (31 January 2024). The entry-into-force date comes from the text the Nationalrat adopted (2419 d.B., the committee's unchanged motion); the promulgated text in RIS could not be stored."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The promulgated text of BGBl. I Nr. 6/2024 in RIS could not be stored (RIS answered the archiver's robots.txt request with HTTP 503), so the issue date of the Federal Law Gazette and the promulgated wording are not confirmed by a stored file; the record rests on the text the Nationalrat adopted."
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "cand_id": "FR-01",
+ "decision": "update",
+ "target_id": "FR-01",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA",
+    "quote": "Créé en 2025, l’Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA) structure",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA",
+    "quote": "Créé en 2025, l’Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (INESIA) structure",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA",
+    "quote": "Sous le pilotage du Secrétariat général de la défense et de la sécurité nationale (SGDSN) et de la Direction générale des Entreprises (DGE)",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA",
+    "quote": "Le 31 janvier 2025, en amont du sommet français pour l’action sur l’intelligence artificielle, l’Institut national pour l’évaluation et la sécurité de l’IA a été créé.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-f87e80ea50/2026-10-17/official.pdf",
+    "sha256": "b47f8c9192fcfec15181dbc268def99e1eed44ae9a830df07d5e355fbd016320",
+    "locator": "page 1",
+    "quote": "Paris, le 12 février 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-f87e80ea50/2026-10-17/official.pdf",
+    "sha256": "b47f8c9192fcfec15181dbc268def99e1eed44ae9a830df07d5e355fbd016320",
+    "locator": "page 1",
+    "quote": "a adopté sa feuille de route 2026-2027.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA",
+    "quote": "L’INESIA fédère un écosystème de chercheurs et d’ingénieurs issus de l’Agence nationale de la sécurité des systèmes d’information (ANSSI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/FR-01/extra-f87e80ea50/2026-10-17/official.pdf",
+    "sha256": "b47f8c9192fcfec15181dbc268def99e1eed44ae9a830df07d5e355fbd016320",
+    "locator": "page 1",
+    "quote": "a adopté sa feuille de route 2026-2027.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/FR-01/2026-10-17/official-rendered.html",
+    "sha256": "cfcca91027a48a7d947b17ebfd2160def0fd81d6a36256edb20113597a39cef7",
+    "locator": "Evaluer et sécuriser l'IA",
+    "quote": "Sous le pilotage du Secrétariat général de la défense et de la sécurité nationale (SGDSN) et de la Direction générale des Entreprises (DGE), l’INESIA structure son activité autour de trois pôles",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "Official text is French only (SGDSN page and press release); no English text of the page itself is stored, so recorded as none found. The SGDSN also publishes an English roadmap PDF (document-1.pdf), a different document."
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The institute was created on 31 Jan 2025 and the official page (dated 5 Feb 2026) describes it in the present tense; the latest event is the adoption of the 2026-2027 roadmap on 12 Feb 2026 (press release no. 373). Nothing says it was closed or replaced, so Published (non-binding, current) stands.",
+  "scope_reasoning": "AI safety institute mandate; clearly in scope."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "No stored text states the legal force of INESIA or that it has no separate legal personality and no regulatory power (record notes); legal_force Non-binding rests on the absence of any legal act in the sources. A Premier ministre act or decree creating it, if any, was not found in the stored files."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

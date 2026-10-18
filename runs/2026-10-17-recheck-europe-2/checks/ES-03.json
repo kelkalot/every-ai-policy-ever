@@ -1,0 +1,53 @@
+{
+ "cand_id": "ES-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Bill designates AESIA by default, the data protection authorities, the CGPJ, Bank of Spain, CNMV and the DGSFP as market surveillance authorities (art. 5). Literal: 'The AESIA is designated as market surveillance authority of the following AI systems'.",
+   "verdict": "supported",
+   "locator": "art. 5.2-5.7"
+  },
+  {
+   "claim": "Very serious infringements carry fines up to EUR 35,000,000 or 7 % of worldwide turnover (art. 30.1.a); repeal of RD 817/2023 in the single repealing provision.",
+   "verdict": "supported",
+   "locator": "art. 30; DD única"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "La Moncloa referencias of 11 Mar 2025 and 26 May 2026 and the BOCG no. 97-1 of 12 Jun 2026 (file 121/000096; amendment deadline 30 Jun 2026) are stored and match. The record moves from anteproyecto to proyecto de ley orgánica of the same instrument; the title, official identifier and date_last_updated (26 May 2026) follow. Status stays Draft / proposed. The BOCG quotes count as secondary because congreso.es is not in official-sites.json; the La Moncloa quotes carry the level. One targeted search found nothing after the 30 Jun 2026 amendment deadline; later parliamentary stages need an official source in a later run."
+}

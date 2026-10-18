@@ -1,0 +1,250 @@
+{
+ "cand_id": "SE-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SE-02",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  },
+  "summary": "Government decision assigning five agencies to act as Sweden's national competent authorities under the EU AI Regulation until 31 December 2026. The Post and Telecom Authority (PTS) supervises some prohibited practices, some high-risk systems and the transparency duties in Article 50(1), (2) and (4), is single point of contact and must set up an AI regulatory sandbox. The Authority for Privacy Protection (IMY) supervises the other prohibited practices, several high-risk areas and Article 50(3). Finansinspektionen covers credit and insurance uses, the Medical Products Agency medical devices, and Swedac is the general notifying authority.",
+  "notes": "The assignment runs until 31 December 2026, pending supplementary Swedish legislation. IMY's high-risk areas are points 1, 5(b) (outside Finansinspektionen's remit) and 6 to 8 of Annex III; PTS's are radio equipment and points 2 to 4, 5(a) and 5(d). The Medical Products Agency is also notifying authority for medical-device AI. The decision refers to the inquiry report SOU 2025:101 and to the Commission's digital omnibus of 19 November 2025, on which the Council and the European Parliament agreed in early May 2026, changing when the high-risk rules apply and when the AI regulatory sandbox must be operational.",
+  "verification": {
+   "note": "Stored and read in this run: the government decision as a PDF on regeringen.se (decision III:50 of 4 June 2026, Fi2026/01365; text layer reads 'Al-förordningen' for 'AI-förordningen'), which confirms the title, the date, the five authorities and their tasks, and the end date of 31 December 2026; and PTS's page on the AI Regulation (pts.se, checked 17 Oct 2026), which says the authorities were assigned pending supplementary Swedish legislation. Version 1's note that the Commission's list of single points of contact (7 Sep 2026) showed PTS with 'designation pending' is not in a stored file and was removed from the notes. The decision takes effect on its date; it states no separate commencement date."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Uppdrag att vara nationella behöriga myndigheter enligt Al- förordningen",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Uppdrag att vara nationella behöriga myndigheter enligt Al- förordningen",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Regeringsbeslut= III:50 2026-06-04 Fi2026/01365",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Regeringsbeslut= III:50 2026-06-04 Fi2026/01365",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Uppdraget ska pågå t.o.m. den 31 december 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Uppdraget ska pågå t.o.m. den 31 december 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-17/secondary.html",
+    "sha256": "a91d1ecfe4cac1b69a14ddec10f1341ab7c6c347f1bb2325253714bd30363914",
+    "locator": "Implementering av AI-förordningen i Sverige",
+    "quote": "I väntan på kompletterande svensk lagstiftning har PTS och flera andra myndigheter fått i uppdrag att till och med 31 december 2026 vara nationella behöriga myndigheter enligt AI-förordningen.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Regeringsbeslut= III:50 2026-06-04 Fi2026/01365",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Finansdepartementet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1, Regeringens beslut",
+    "quote": "Regeringen ger Post- och telestyrelsen (PTS), Integritetsskyddsmyndigheten, Finansinspektionen, Läkemedelsverket och Styrelsen för ackreditering och teknisk kontroll (Swedac) i uppdrag att vara nationella behöriga myndigheter",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1, Regeringens beslut",
+    "quote": "Regeringen ger Post- och telestyrelsen (PTS), Integritetsskyddsmyndigheten, Finansinspektionen, Läkemedelsverket och Styrelsen för ackreditering och teknisk kontroll (Swedac) i uppdrag att vara nationella behöriga myndigheter",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "transparenskraven enligt artikel 50.1, 2 och 4 i AI-förordningen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "vara gemensam kontaktpunkt för AI-förordningen enligt artikel 70.2 i förordningen, och",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "inrätta en regulatorisk sandlåda för AI enligt artikel 57 i AI- förordningen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "de förbjudna AI-användningsområden som avses i artikel 5 i AI- förordningen med undantag för de områden i samma artikel som PTS och Finansinspektionen ansvarar för,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "transparenskraven enligt artikel 50.3 i AI-förordningen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "områden som anges i punkten 5 b i bilaga III till förordningen (inom ramen för myndighetens verksamhet) och punkten 5 c i samma bilaga",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Swedac ska i övrigt vara anmälande myndighet med ansvar för att utse och anmäla organ för bedömning av överensstämmelse enligt AI-förordningen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Uppdraget ska pågå t.o.m. den 31 december 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "förordningen inom de områden som anges i punkterna 1 och 5 b, med undantag för det område som Finansinspektionens ansvarar för, och områdena i punkterna 6—8 i bilaga III till förordningen,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 2",
+    "quote": "sådana AI-system med hög risk som avses i artikel 6.2 i AI- förordningen inom de områden som anges i punkterna 2-4, 5 a och 5 d i bilaga III till förordningen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Läkemedelsverket ska också vara anmälande myndighet med ansvar för att utse och anmäla organ för bedömning av överensstämmelse",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 4",
+    "quote": "Europeiska kommissionen presenterade den 19 november 2025 Omnibus VII Digital",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 4",
+    "quote": "i början av maj nådde Europeiska rådet och Europaparlamentet en överenskommelse om ändringar i AI-förordningen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-17/secondary.html",
+    "sha256": "a91d1ecfe4cac1b69a14ddec10f1341ab7c6c347f1bb2325253714bd30363914",
+    "locator": "Implementering av AI-förordningen i Sverige",
+    "quote": "I väntan på kompletterande svensk lagstiftning har PTS och flera andra myndigheter fått i uppdrag",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "status_reasoning": "Government decision of 4 Jun 2026; the assignment runs to 31 Dec 2026, which has not passed on 17 Oct 2026, and PTS's page (17 Oct 2026) still describes it as current. 'In force' stands; a refresh after 31 Dec 2026 must check whether it was extended or replaced by legislation.",
+  "scope_reasoning": "Binding government decision designating AI Act supervisory authorities; in scope without a note.",
+  "changes": {
+   "english_version": "required for a Swedish-language record and missing; no English version of the decision was found",
+   "summary": "the decision runs to 31 Dec 2026; version 1's 'until national legislation is in place' is replaced by the stated end date, the transparency articles are made precise (50(1), (2) and (4) for PTS) and Finansinspektionen's areas (credit and insurance, Annex III 5(b) and 5(c)) named",
+   "notes": "rewritten from the decision and PTS's page; version 1's Commission single-point-of-contact list (7 Sep 2026) is not in a stored file and was removed",
+   "verification.note": "rewritten for this run's stored files"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "issuing_body",
+   "official_identifier",
+   "legal_force"
+  ]
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Sweden's AI strategy and action plan (Regeringen)",
+   "url": null,
+   "seen_in": "https://pts.se/ai/ai-forordningen/",
+   "why": "PTS's page says the Government has adopted an AI strategy and an action plan that PTS and Digg support; not in the register (only SE-01 and SE-02 exist for Sweden); scope depends on its safety content."
+  },
+  {
+   "title": "Guidelines for generative AI in public administration (Digg with the Swedish Authority for Privacy Protection, IMY)",
+   "url": null,
+   "seen_in": "https://pts.se/ai/ai-forordningen/",
+   "why": "Government agency guidelines on generative AI use by public bodies; not in the register."
+  }
+ ],
+ "open_questions": []
+}

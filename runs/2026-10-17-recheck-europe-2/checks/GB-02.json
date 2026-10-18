@@ -1,0 +1,44 @@
+{
+ "cand_id": "GB-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Nine emerging processes and associated practices for frontier AI organisations' safety policies (p. 4).",
+   "verdict": "supported",
+   "locator": "p. 4"
+  },
+  {
+   "claim": "Document is a snapshot and not government policy that must be enacted (p. 3).",
+   "verdict": "supported",
+   "locator": "p. 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GOV.UK page and the 45-page PDF confirm the title, DSIT, 27 Oct 2023 and the nine processes. Removed notes about the Seoul commitments were not in stored sources; the INT-06 link stays in related. No withdrawal or newer edition found."
+}

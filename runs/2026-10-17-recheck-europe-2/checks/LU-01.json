@@ -1,0 +1,59 @@
+{
+ "cand_id": "LU-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "judgment-differs",
+   "why": "The English title omits the amendments to EU regulations and directives that the long title lists and names only three laws; an abbreviated rendering, not wrong."
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English text found; acceptable."
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Clearing 2026-07-10 is correct: it is the dossier's update date, not a new version of the bill."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Sandbox deadline of 2 August 2026 and approval of a real-world test plan if the authority does not answer within 30 days. Literal translation: 'where the market surveillance authority has not given an answer within 30 days, the real-world tests and the real-world test plan are deemed approved.'",
+   "verdict": "supported",
+   "locator": "bill articles on sandbox and testing"
+  },
+  {
+   "claim": "Council of State renders formal objections (opposition formelle) on the CSSF's remit under Article 74(6) of the AI Act; Government Commissioner renamed by the law of 19 December 2025",
+   "verdict": "supported",
+   "locator": "Council of State opinion 62.024"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Dossier page (12 October 2026 snapshot), deposit document and consolidated dossier confirm deposit 23 December 2024, referral 16 January 2025, rapporteur appointed 3 June 2025 and the Council of State opinion of 10 July 2026. chd.lu refused the dossier page on 17 October 2026 (robots.txt), so the stage 'En commission' is from 12 October. A search found no vote. The status and notes are as of the 10 July 2026 dossier update."
+}

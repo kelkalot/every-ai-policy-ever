@@ -481,6 +481,21 @@
    }
   },
   {
+   "code": "BRICS",
+   "host": "static.kremlin.ru",
+   "status": "official",
+   "operator": "Kremlin, Presidential Administration",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/104#issuecomment-6238395467",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #104"
+  },
+  {
    "code": "CA",
    "host": "canada.ca",
    "status": "official",
@@ -943,6 +958,36 @@
   },
   {
    "code": "DE",
+   "host": "bundesregierung.de",
+   "status": "official",
+   "operator": "Deutsche Bundesregierung",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/67#issuecomment-6238411209",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #67"
+  },
+  {
+   "code": "DE",
+   "host": "dserver.bundestag.de",
+   "status": "official",
+   "operator": "Deutsche Bundesregierung",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/66#issuecomment-6238421251",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #66"
+  },
+  {
+   "code": "DE",
    "host": "gesetze-im-internet.de",
    "status": "official",
    "operator": null,
@@ -951,6 +996,21 @@
    "decided_by": "seed",
    "decided_on": "2026-10-14",
    "note": "Seeded from the hosts of records' official_url when the frame was built; not yet reviewed by a person."
+  },
+  {
+   "code": "DE",
+   "host": "ki-strategie-deutschland.de",
+   "status": "official",
+   "operator": "Die Bundesregierung",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/65#issuecomment-6238435701",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #65"
   },
   {
    "code": "DK",
@@ -2248,6 +2308,21 @@
    "note": "Seeded from the hosts of records' official_url when the frame was built; not yet reviewed by a person."
   },
   {
+   "code": "KZ",
+   "host": "old.adilet.zan.kz",
+   "status": "official",
+   "operator": null,
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/77#issuecomment-6238449049",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #77"
+  },
+  {
    "code": "LT",
    "host": "e-seimas.lrs.lt",
    "status": "official",
@@ -2944,17 +3019,23 @@
   {
    "code": "RS",
    "host": "kmp.respaweb.eu",
-   "status": "proposed",
-   "operator": "Regional School of Public Administration (ReSPA)",
-   "kind": "intergovernmental body",
+   "status": "official",
+   "operator": "Co-operated with EU",
+   "kind": null,
    "evidence": {
-    "url": "https://kmp.respaweb.eu/",
-    "quote": "© 2024 ReSPA Regional School of Public Administration (ReSPA). All rights reserved.",
-    "checked_on": "2026-10-14"
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/22#issuecomment-6238484022",
+    "quote": null,
+    "checked_on": "2026-10-17"
    },
-   "decided_by": null,
-   "decided_on": null,
-   "note": "Operator check unclear: ReSPA is a regional intergovernmental organisation of Western Balkan governments (classification of ReSPA's status is from background knowledge; page describes it as a knowledge hub for public administrations, EU-funded). Needs a decision."
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #22",
+   "previous": {
+    "status": "proposed",
+    "decided_by": null,
+    "decided_on": null,
+    "note": "Operator check unclear: ReSPA is a regional intergovernmental organisation of Western Balkan governments (classification of ReSPA's status is from background knowledge; page describes it as a knowledge hub for public administrations, EU-funded). Needs a decision."
+   }
   },
   {
    "code": "RS",
@@ -3198,17 +3279,23 @@
   {
    "code": "SG",
    "host": "sgaisi.sg",
-   "status": "proposed",
-   "operator": "Singapore AI Safety Institute (Digital Trust Centre Singapore, in partnership with IMDA)",
-   "kind": "regulator or supervisor",
+   "status": "official",
+   "operator": "Singapore AI Safety Institute",
+   "kind": null,
    "evidence": {
-    "url": "https://sgaisi.sg/",
-    "quote": "the Digital Trust Centre Singapore (DTC), in partnership with the Infocomm Media Development Authority of Singapore (IMDA)",
-    "checked_on": "2026-10-14"
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/23#issuecomment-6238491302",
+    "quote": null,
+    "checked_on": "2026-10-17"
    },
-   "decided_by": null,
-   "decided_on": null,
-   "note": "Operator check unclear: The page ties the institute to DTC and IMDA but the fetch did not show whether it is a government body or a university-hosted centre; IMDA (imda.gov.sg) was not checked for a link. Needs a decision."
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #23",
+   "previous": {
+    "status": "proposed",
+    "decided_by": null,
+    "decided_on": null,
+    "note": "Operator check unclear: The page ties the institute to DTC and IMDA but the fetch did not show whether it is a government body or a university-hosted centre; IMDA (imda.gov.sg) was not checked for a link. Needs a decision."
+   }
   },
   {
    "code": "SI",
@@ -3938,17 +4025,23 @@
   {
    "code": "US-GA",
    "host": "senatepress.net",
-   "status": "proposed",
-   "operator": "Georgia State Senate Press Office (self-described)",
-   "kind": "official channel on a vendor platform",
+   "status": "official",
+   "operator": "Georgia State Senate Press Office",
+   "kind": null,
    "evidence": {
-    "url": "https://senatepress.net/",
-    "quote": "Georgia Senate Press Office – Official Press Releases",
-    "checked_on": "2026-10-14"
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/24#issuecomment-6238463403",
+    "quote": null,
+    "checked_on": "2026-10-17"
    },
-   "decided_by": null,
-   "decided_on": null,
-   "note": "Operator check unclear: The page calls itself the Senate press office's official releases, but it is on a .net domain and links to no senate.ga.gov page; confirmation from senate.ga.gov is missing. Needs a decision."
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #24",
+   "previous": {
+    "status": "proposed",
+    "decided_by": null,
+    "decided_on": null,
+    "note": "Operator check unclear: The page calls itself the Senate press office's official releases, but it is on a .net domain and links to no senate.ga.gov page; confirmation from senate.ga.gov is missing. Needs a decision."
+   }
   },
   {
    "code": "US-HI",
@@ -4470,6 +4563,21 @@
   },
   {
    "code": "VN",
+   "host": "daibieunhandan.vn",
+   "status": "official",
+   "operator": "The Congress Office",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/25#issuecomment-6238505222",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #25"
+  },
+  {
+   "code": "VN",
    "host": "datafiles.chinhphu.vn",
    "status": "official",
    "operator": null,
@@ -4551,6 +4659,21 @@
    "decided_by": "seed",
    "decided_on": "2026-10-14",
    "note": "Seeded from the hosts of records' official_url when the frame was built; not yet reviewed by a person."
+  },
+  {
+   "code": "VN",
+   "host": "vanban.chinhphu.vn",
+   "status": "official",
+   "operator": "Department of Government Information and Communications",
+   "kind": null,
+   "evidence": {
+    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/26#issuecomment-6238517291",
+    "quote": null,
+    "checked_on": "2026-10-17"
+   },
+   "decided_by": "kelkalot",
+   "decided_on": "2026-10-17",
+   "note": "decided in issue #26"
   },
   {
    "code": "VN",

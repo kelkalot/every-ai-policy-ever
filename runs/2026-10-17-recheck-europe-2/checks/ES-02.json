@@ -1,0 +1,54 @@
+{
+ "cand_id": "ES-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Disposición final segunda limits validity to 36 months or until the Regulation is applicable in Spain; Article 113 of Regulation (EU) 2024/1689 (consolidated version) makes it apply generally from 2 August 2026, and the ministry page of 28 Sep 2026 says the pilot has finished. No official notice of lapse or repeal is stored, and the pending organic law bill would repeal the decree, so a person may still prefer 'In force' until repeal; I find the rule-based status defensible under checklist item 3."
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Pilot sandbox launched with the European Commission's collaboration; participants self-assess compliance and report serious incidents (preamble; arts. 13.2, 15).",
+   "verdict": "supported",
+   "locator": "preamble; arts. 13, 15"
+  },
+  {
+   "claim": "Competent body publishes a report with conclusions, good practices and recommendations (DA 2).",
+   "verdict": "supported",
+   "locator": "disposición adicional segunda"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "BOE text confirms RD 817/2023 of 8 Nov 2023, BOE no. 268 of 9 Nov 2023, in force 10 Nov 2023. The date_published change to 8 Nov 2023 (decree date, 'Fecha de disposición') follows the convention of ES-01. Status Lapsed rests on the decree's own validity clause plus Article 113; it is a judgment, flagged here. The English translation on regalert.today is a third-party translation (not named, wrong issuer shown) and is a stored source. congreso.es quotes count as secondary until the host is decided by a person."
+}

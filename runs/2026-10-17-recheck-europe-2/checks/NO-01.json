@@ -1,0 +1,44 @@
+{
+ "cand_id": "NO-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Strategy adopts ethical principles as basis for responsible AI and says supervisory authorities should oversee AI systems in their areas (Summary p. 6; ch. 5.2).",
+   "verdict": "supported",
+   "locator": "p. 6, p. 58"
+  },
+  {
+   "claim": "Government will establish a data-protection regulatory sandbox under Datatilsynet.",
+   "verdict": "supported",
+   "locator": "p. 25"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly a data, skills and adoption strategy; safety content sits in chapter 5 (Trustworthy AI). The extractor's scope_note is adequate."
+ },
+ "overall": "accept",
+ "note": "Official regjeringen.no pages and PDFs (English and Norwegian) confirm title, 14 Jan 2020 date and the original publisher. The new-strategy announcement of 5 Oct 2026 (press release, first half of 2027) is the only newer item and is a plan, not a strategy; the record stays current. The status quote is a date header rather than a status statement, but the press release says the strategy is still to be replaced, so 'Published (non-binding, current)' holds."
+}

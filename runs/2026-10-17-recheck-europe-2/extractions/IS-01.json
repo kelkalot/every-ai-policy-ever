@@ -1,0 +1,301 @@
+{
+ "cand_id": "IS-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IS-01",
+ "record": {
+  "original_title": "Aðgerðaáætlun um gervigreind 2025-2027",
+  "english_version": {
+   "kind": "authentic",
+   "url": "https://www.stjornarradid.is/library/?itemid=55ec2a72-a5b9-11f0-b896-005056bcde1f",
+   "by": "Ministry of Culture, Innovation and Higher Education (Iceland)"
+  },
+  "notes": "Published in July 2025 in Icelandic as 'Aðgerðaáætlun um gervigreind 2025-2027' (ISBN 978-9935-570-03-1) and in English (ISBN 978-9935-570-05-5); the government announced the English edition on 1 July 2025 and the Icelandic one on 2 July 2025. The plan is valid for two years from publication, with a review every six months and a comprehensive review no later than mid-2027; Iceland's 2021 AI strategy is to be reviewed in parallel. It builds on that strategy and on a November 2024 report on the economic opportunities of AI in Iceland, and each action names a responsible ministry, an implementing body and a time frame. The EFTA's EEA-Lex database lists the AI Act as under scrutiny for incorporation into the EEA Agreement by Iceland, Liechtenstein and Norway (as stored on 17 October 2026).",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Government of Iceland news item of 1 July 2025 and the English plan PDF from the government library (both stored 11 Oct 2026; the PDF as the record's secondary source). Stored in this run: the Icelandic news item of 2 July 2025 and the Icelandic plan PDF from the government library, which give the Icelandic title, July 2025, the publisher and a separate ISBN, and the EFTA's EEA-Lex entry for Regulation (EU) 2024/1689. The English edition carries the ministry's imprint and its own ISBN and does not call itself a translation, so it is recorded as one of the issuer's own texts. efta.int is not on the list of official sites, so the EEA-Lex quote counts as secondary. Version 1's notes on a November 2024 draft consultation, secondary sources describing a 2024-2026 plan with 25 measures and the absence of an AI bill in the Althingi rested on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "page heading",
+    "quote": "Iceland's AI Action Plan 2025-2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 1, cover",
+    "quote": "Iceland’s AI Action Plan 2025-2027",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IS-01/extra-2ef8770009/2026-10-17/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 2, imprint",
+    "quote": "Útgefandi: Menningar-, nýsköpunar- og háskólaráðuneytið Aðgerðaáætlun um gervigreind 2025-2027 Júlí 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IS-01/extra-290b5bffa2/2026-10-17/official.html",
+    "sha256": "b0fa84f4bf767fec1bc24aae5c421a484d176ebbf67c32888912af03676ea291",
+    "locator": "news item",
+    "quote": "Aðgerðaáætlun um gervigreind",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item header",
+    "quote": "Ministry of Culture٫ Innovation and Higher Education",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 4, imprint",
+    "quote": "Published by: the Ministry of Culture, Innovation and Higher Education",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item header",
+    "quote": "1. júlí 2025 / Ministry of Culture٫ Innovation and Higher Education Iceland's AI Action Plan 2025-2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 4, imprint",
+    "quote": "National Action Plan on AI 2025-2027 July 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 4, imprint",
+    "quote": "The Government Offices of Iceland ISBN: 978-9935-570-05-5",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 10, Review",
+    "quote": "This action plan is valid for two years from the date of publication.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item",
+    "quote": "This Action Plan supports the government's stated strategy of establishing a clear legal framework for AI",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 7, Foreword by the Minister",
+    "quote": "The government's first Action Plan on Artificial Intelligence sets out its main focuses and actions that support them.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 7, Foreword by the Minister",
+    "quote": "The government's first Action Plan on Artificial Intelligence sets out its main focuses and actions that support them.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 9, Foundations",
+    "quote": "Actions are categorised, based on their content and objectives, into five basic pillars that form the core structure of the plan.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item",
+    "quote": "The Action Plan also reflects Iceland's Strategy on Artificial Intelligence of 2021.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 13, Action 2",
+    "quote": "The EU has adopted harmonised legislation on AI for the internal market, which is currently being incorporated into the EEA Agreement.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 13, Action 2",
+    "quote": "The action includes assessing the need for adaptation arising from the transposition of the EU legislation and the associated costs, as well as preparing draft legislation introducing the necessary amendments to Icelandic law.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 13, Action 2",
+    "quote": "This includes defining which institutions have roles under the legislation",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 13, Action 2",
+    "quote": "A bill on Artificial Intilligence. Objective Action Product Spring 2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 16, Action 5",
+    "quote": "Among other things, consideration will be given to information disorder, propaganda techniques and external interference in democratic decision-making processes.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 16, Action 5",
+    "quote": "with the aim of formulating general standards and guidelines for transparency and the responsible use of AI in political activities",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 16, Action 5",
+    "quote": "Impact of AI on Democratic Debate and Decision-Making 5 July 2025 Iceland’s AI Action Plan 2025-2027 Autumn 2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 31, Action 16",
+    "quote": "Work will continue on developing and expanding a centralised set of standards and guidelines for public bodies at different levels of government to utilise AI safely and effectively.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 31, Action 16",
+    "quote": "including guidelines for the procurement of AI solutions. 16 Objective Action Product Spring 2027.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IS-01/extra-2ef8770009/2026-10-17/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 2, imprint",
+    "quote": "Umbrot og textavinnsla: Stjórnarráð Íslands ISBN: 978-9935-570-03-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IS-01/extra-290b5bffa2/2026-10-17/official.html",
+    "sha256": "b0fa84f4bf767fec1bc24aae5c421a484d176ebbf67c32888912af03676ea291",
+    "locator": "news item header",
+    "quote": "2. júlí 2025 / Menningar-٫ nýsköpunar- og háskólaráðuneytið Verðmætasköpun og velferð leiðarstef í fyrstu aðgerðaáætluninni um gervigreind",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IS-01/extra-290b5bffa2/2026-10-17/official.html",
+    "sha256": "b0fa84f4bf767fec1bc24aae5c421a484d176ebbf67c32888912af03676ea291",
+    "locator": "news item",
+    "quote": "Fyrsta aðgerðaáætlun Íslands um gervigreind hefur verið gefin út.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IS-01/extra-7f7ef9abae/2026-10-17/official.html",
+    "sha256": "f857c53f1fc6ac848fe97b7557a030b1ca2015fa8d42870289f38b04b46de2a1",
+    "locator": "Legal status",
+    "quote": "EU legal act marked as EEA relevant by the EU and under scrutiny for incorporation into the EEA Agreement by Iceland, Liechtenstein and Norway",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 10, Review",
+    "quote": "A review is planned every six months",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 10, Review",
+    "quote": "A comprehensive review of the plan will be carried out no later than mid-2027.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 10, Review",
+    "quote": "it is also deemed timely to review Iceland's Strategy on Artificial Intelligence. This review will be carried out in parallel with the implementation of the actions in this plan",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item",
+    "quote": "The plan was also based on a report by the Ministry of Higher Education, Science and Innovation and Statistics Iceland on the economic opportunities of AI in Iceland, which was published in November 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/secondary.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 9, Foundations",
+    "quote": "Furthermore, it specifies which ministry is responsible for the progression of the relevant action, the implementing agency and expected implementation completion.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "the Icelandic edition, stored in this run, is titled 'Aðgerðaáætlun um gervigreind 2025-2027'",
+   "english_version": "the English edition is published by the ministry under its own imprint and ISBN, as one of its own texts",
+   "notes": "rewritten from the stored plans and news items: both editions and ISBNs, validity, review cycle, basis and the AI Act's EEA status added; statements resting on no stored file removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding government action plan published on 1 July 2025 and valid for two years from publication, so until about July 2027. Nothing stored shows it was withdrawn or replaced; 'Published (non-binding, current)' stands on 17 October 2026.",
+  "scope_reasoning": "A national AI action plan whose actions include preparing the AI Act implementing bill, analysing AI's effects on democracy and standards for safe public-sector use; in scope, as in version 1, with no note.",
+  "date_reasoning": "The news item gives 1 July 2025; the PDF gives July 2025. The full date rests on the official news item."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Skýrsla starfshóps um málefni gervigreindar (report of a working group on AI matters), Government of Iceland, 9 October 2026",
+   "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-09-skyrsla-starfshops-um-malefni-gervigreindar",
+   "seen_in": "web search for the Icelandic AI action plan",
+   "why": "A government working group report on AI policy published on 9 October 2026, reported to make proposals across several policy areas; not in the register and not checked."
+  }
+ ],
+ "open_questions": [
+  "official_identifier keeps the English edition's ISBN (978-9935-570-05-5); the Icelandic edition has its own ISBN (978-9935-570-03-1), given in the notes. Should the field name the Icelandic edition's ISBN, since the Icelandic title is now the original_title?"
+ ]
+}

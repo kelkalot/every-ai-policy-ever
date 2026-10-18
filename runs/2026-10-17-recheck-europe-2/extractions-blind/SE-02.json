@@ -1,0 +1,128 @@
+{
+ "cand_id": "SE-02",
+ "decision": "update",
+ "target_id": "SE-02",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Uppdrag att vara nationella behöriga myndigheter enligt Al-",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Regeringen ger Post- och telestyrelsen (PTS), Integritetsskyddsmyndigheten,",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Finansdepartementet Finansinspektionen",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Regeringen ger Post- och telestyrelsen (PTS), Integritetsskyddsmyndigheten,",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Regeringsbeslut= III:50",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "Fi2026/01365",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "2026-06-04",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "2026-06-04",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Uppdraget ska pågå t.o.m. den 31 december 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 3",
+    "quote": "Uppdraget ska pågå t.o.m. den 31 december 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SE-02/2026-10-11/official.pdf",
+    "sha256": "28e8d7c5525706f42f6ed14801db85d0a42a6e009c374d8a146590b2f0c31153",
+    "locator": "page 1",
+    "quote": "teknisk kontroll (Swedac) i uppdrag att vara nationella behöriga myndigheter",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "Government decision is Swedish only; no English text stored, recorded as none found."
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Decision dated 2026-06-04; the assignment runs until 31 Dec 2026, so on 17 Oct 2026 it is still running. The decision has no separate commencement clause, so in-force date is taken as the decision date.",
+  "scope_reasoning": "Designation of AI Act market surveillance authorities; clearly in scope."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "Notes claim the Commission single point of contact list (updated 7 Sep 2026) shows PTS as designation pending: not in the stored files (the PTS page does not say it, the secondary-4 file is a bot-check page).",
+  "date_in_force 2026-06-04 is an inference: the decision text has no commencement clause."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

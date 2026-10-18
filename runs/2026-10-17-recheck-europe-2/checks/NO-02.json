@@ -1,0 +1,53 @@
+{
+ "cand_id": "NO-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "§ 3: Nasjonal kommunikasjonsmyndighet is the coordinating market surveillance authority and national contact point; § 4: Norsk akkreditering is the accreditation body. Literal: 'The Norwegian Communications Authority is coordinating market surveillance authority'.",
+   "verdict": "supported",
+   "locator": "draft Act pp. 62"
+  },
+  {
+   "claim": "The ministry proposes no penal provisions for breaches (19.2.4); administrative and coercive fines instead (§§ 5-6).",
+   "verdict": "supported",
+   "locator": "p. 53; p. 62-63"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Consultation page, paper and the 4 Aug 2026 press release are stored and match. Removing date_last_updated is right: the 4 Aug 2026 announcement of a new consultation is neither an amendment nor a new version of the draft. The new consultation draft is not yet published, so the status stays Draft / proposed. One targeted search found no new draft on regjeringen.no. COE-01 exists and is a fitting related link."
+}

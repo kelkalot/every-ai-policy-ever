@@ -1,0 +1,163 @@
+{
+ "cand_id": "LU-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "LU-01",
+ "record": {
+  "original_title": "Projet de loi portant mise en oeuvre de certaines dispositions du règlement (UE) 2024/1689 du Parlement européen et du Conseil du 13 juin 2024 établissant des règles harmonisées concernant l'intelligence artificielle et modifiant les règlements (CE) n° 300/2008, (UE) n° 167/2013, (UE) n° 168/2013, (UE) 2018/858, (UE) 2018/1139 et (UE) 2019/2144 et les directives 2014/90/UE, (UE) 2016/797 et (UE) 2020/1828 (règlement sur l'intelligence artificielle) et portant modification de : 1° la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données ; 2° la loi modifiée du 23 décembre 1998 portant création d'une commission de surveillance du secteur financier ; 3° la loi modifiée du 7 décembre 2015 sur le secteur des assurances",
+  "date_last_updated": null,
+  "notes": "Approved by the Government in council on 29 November 2024 and deposited by Elisabeth Margue, Minister Delegate to the Prime Minister for Media and Connectivity, on 23 December 2024; referred on 16 January 2025 to the Committee on Media and Communications, which appointed Félix Eischen rapporteur on 3 June 2025. Twelve opinions are on file, from the CSSF, ILNAS, FEDIL, the Chamber of Employees, ALIA, the Chambers of Commerce and Trades, the Competition Authority, the CNPD, the ILR, the Bar Council, the judicial control authority (23 January 2026) and the Council of State (10 July 2026, No 62.024). The Council of State raised formal objections, among them to the missing split of notifying tasks between ILNAS and the Government Commissioner (renamed Government Commissioner for Data Sovereignty by a law of 19 December 2025), to the CSSF's remit unless limited as Article 74(6) of the AI Act requires, to the regulatory and complaint-handling provisions of Article 9 and to inexact references in Article 14. As of the dossier's last update on 10 July 2026 the bill was in committee and had not been voted. The bill sets 2 August 2026 as the deadline for the CNPD's first regulatory sandbox, treats a real-world testing plan as approved when the market surveillance authority has not answered within 30 days, and follows the AI Act's fine ceilings (EUR 35 million or 7%, 15 million or 3%, 7.5 million or 1% of worldwide turnover).",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the Chamber of Deputies dossier page for bill 8476 (chd.lu, snapshot of 12 October 2026), which gives the title, type, author, deposit date, committee, rapporteur, the twelve opinions and the stage 'En commission' with the last update on 10 July 2026; the deposit document (wdocs-pub.chd.lu, stored as the record's secondary source), with the Government's decision of 29 November 2024, the deposit order of 23 December 2024 and the bill's 22 articles; the consolidated dossier created on 10 July 2026, which includes every opinion and the Council of State's opinion No 62.024; and ILNAS's opinion. On 17 October 2026 chd.lu's robots.txt refused the dossier page, so the stage cannot be checked after 12 October 2026. The Commission's list of market surveillance authorities cited in version 1 is not stored, and its mention was removed. No English text of the bill was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "dossier header",
+    "quote": "8476 Projet de loi En commission",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "A propos du dossier",
+    "quote": "Projet de loi portant mise en oeuvre de certaines dispositions du règlement (UE) 2024/1689 du Parlement européen et du Conseil du 13 juin 2024 établissant des règles harmonisées concernant l'intelligence artificielle",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "A propos du dossier",
+    "quote": "Projet de loi portant mise en oeuvre de certaines dispositions du règlement (UE) 2024/1689 du Parlement européen et du Conseil du 13 juin 2024 établissant des règles harmonisées concernant l'intelligence artificielle et modifiant les règlements (CE) n° 300/2008, (UE) n° 167/2013, (UE) n° 168/2013,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "A propos du dossier",
+    "quote": "(UE) 2018/858, (UE) 2018/1139 et (UE) 2019/2144 et les directives 2014/90/UE, (UE) 2016/797 et (UE) 2020/1828 (règlement sur l'intelligence artificielle) et portant modification de :",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "A propos du dossier",
+    "quote": "1° la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données ; 2° la loi modifiée du 23 décembre 1998 portant création d'une commission de surveillance du secteur financier ;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "A propos du dossier",
+    "quote": "3° la loi modifiée du 7 décembre 2015 sur le secteur des assurances Document de dépôt",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "Informations",
+    "quote": "Auteur Elisabeth Margue Date de dépôt 23.12.2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/secondary.pdf",
+    "sha256": "664e351e8f7fee9c698db183d416de2ebaeb8ac4f9ab51904025038ab4eb79cc",
+    "locator": "page 1, arrêté of the Prime Minister",
+    "quote": "Art. 1er. La Ministre déléguée auprès du Premier ministre, chargée des Médias et de la Connectivité est autorisée à déposer au nom du Gouvernement à la Chambre des Députés le projet de loi",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "dossier header",
+    "quote": "8476 Projet de loi En commission",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/document-1.pdf",
+    "sha256": "90674959a42cf22bb4cf792a512fc8a938ce996b14867cf0b5b6b7b96594f37c",
+    "locator": "page 1",
+    "quote": "Projet de loi 8476",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "Informations",
+    "quote": "Date de dépôt 23.12.2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/secondary.pdf",
+    "sha256": "664e351e8f7fee9c698db183d416de2ebaeb8ac4f9ab51904025038ab4eb79cc",
+    "locator": "page 1",
+    "quote": "Document de dépôt Dépôt: le 23.12.2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "dossier header",
+    "quote": "8476 En commission Dernière mise à jour · 10.07.2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "Activités liées au dossier, latest entry",
+    "quote": "10.07.2026 Avis du Conseil d'État Conseil d'État 8476/12 - Avis du Conseil d'État",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/LU-01/2026-10-12/official.html",
+    "sha256": "6497e97b0fce7243cc32353784689f69834cb4c6c08dae2df4d79cb176f4d4df",
+    "locator": "Informations",
+    "quote": "Type Projet de loi Auteur Elisabeth Margue",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "now the verbatim title from the dossier page; version 1 left out the list of EU acts the AI Act amends ('et modifiant les règlements (CE) n° 300/2008 ... (UE) 2020/1828') and inserted 'n° 8476', which the title does not contain",
+   "date_last_updated": "set to null: 10 July 2026 is the Council of State's opinion, not an amendment or new version of the bill; the dossier lists no amendments",
+   "notes": "rewritten from the dossier page, the deposit document and the Council of State's opinion (formal objections added, sandbox deadline, 30-day tacit approval of real-world testing plans and fine ceilings from Articles 8, 12 and 16); the Commission's list of 7 September 2026 is not stored and was removed",
+   "english_version": "the field was missing; no English text of the bill was found",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The dossier page (snapshot of 12 October 2026) shows the bill 'En commission' with the last update on 10 July 2026, the Council of State's opinion; no vote, adoption or publication is recorded. The bill stays 'Draft / proposed' with legal force 'Proposed'. chd.lu refused the dossier page on 17 October 2026, so a step after 12 October 2026 would not be seen.",
+  "scope_reasoning": "A national bill implementing the EU AI Act; in scope with no note."
+ },
+ "extra_urls": [],
+ "open_questions": [
+  "The dossier page on chd.lu was refused by the site's robots.txt on 17 October 2026; the status rests on the snapshot of 12 October 2026. A person could provide a current copy if the bill moves (for example a committee report or a vote)."
+ ],
+ "leads": []
+}

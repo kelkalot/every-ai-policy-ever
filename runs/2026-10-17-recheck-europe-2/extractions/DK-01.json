@@ -1,0 +1,280 @@
+{
+ "cand_id": "DK-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "DK-01",
+ "record": {
+  "issuing_body": "Folketing; Ministry of Digital Affairs (Digitaliseringsministeriet)",
+  "summary": "Denmark's law supplementing the EU AI Act. It designates the Agency for Digital Government (Digitaliseringsstyrelsen), the Data Protection Agency (Datatilsynet) and the Danish Courts Administration (Domstolsstyrelsen) as national competent authorities and divides market surveillance of the prohibited AI practices among them; the Agency is also notifying authority and single point of contact. Market surveillance authorities may demand information, enter business premises without a court order, examine AI systems on site, publish decisions, order compliance and temporarily ban an AI system that may pose a risk. Breaches of the prohibitions are punishable by fines.",
+  "notes": "Bill L 154 of the 2024-25 session was introduced on 26 Feb 2025 by the Minister for Digital Affairs, Caroline Stage Olsen. The Act was signed on 14 May 2025, published in Lovtidende A on 15 May 2025 and entered into force on 2 Aug 2025 (s. 12). It does not apply to the Faroe Islands or Greenland (s. 13). The limitation period for breaches of the AI Act and the Act is five years (s. 10(4)). Retsinformation now lists Forsknings-, Uddannelses- og Digitaliseringsministeriet as the responsible ministry and Digitaliseringsstyrelsen as the administering authority.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Stored and read in this run: the retsinformation.dk page of LOV nr 467 af 14/05/2025, rendered in a browser (11 Oct 2026) and printed to PDF (17 Oct 2026), which gives the title, signature on 14 May 2025, publication in Lovtidende A on 15 May 2025, the status GÆLDENDE (in force) and the full text, including s. 12 (entry into force on 2 Aug 2025); and the bill as introduced (2024/1 LSF 154, a retsinformation.dk PDF stored as the secondary source), which gives its introduction on 26 Feb 2025 by the Minister for Digital Affairs and the sponsoring ministry. The plain HTTP copies of the page are bot-check pages with no text. No English translation published by the issuer or another public body was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "document heading",
+    "quote": "Lov om supplerende bestemmelser til forordningen om kunstig intelligens",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-17/official-print.pdf",
+    "sha256": "519c177cf9bc13027ab564048bb7f61ec32de10207897c81a155de0a6b1bb972",
+    "locator": "page 2, document heading",
+    "quote": "Lov om supplerende bestemmelser til forordningen om kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "document heading",
+    "quote": "Lov om supplerende bestemmelser til forordningen om kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "document header",
+    "quote": "GÆLDENDE LOV nr 467 af 14/05/2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Yderligere oplysninger",
+    "quote": "Dato for underskrift 14/05/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "signature, after § 13",
+    "quote": "Givet på Amalienborg, den 14. maj 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-17/official-print.pdf",
+    "sha256": "519c177cf9bc13027ab564048bb7f61ec32de10207897c81a155de0a6b1bb972",
+    "locator": "page 6, signature, after § 13",
+    "quote": "Givet på Amalienborg, den 14. maj 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Kapitel 4, § 12",
+    "quote": "§ 12. Loven træder i kraft den 2. august 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-17/official-print.pdf",
+    "sha256": "519c177cf9bc13027ab564048bb7f61ec32de10207897c81a155de0a6b1bb972",
+    "locator": "page 5, Kapitel 4, § 12",
+    "quote": "§ 12. Loven træder i kraft den 2. august 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "document header",
+    "quote": "GÆLDENDE LOV nr 467 af 14/05/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Kapitel 4, § 12",
+    "quote": "§ 12. Loven træder i kraft den 2. august 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "enacting formula",
+    "quote": "Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "enacting formula",
+    "quote": "Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-17/secondary.pdf",
+    "sha256": "c54f2066ef190689dd7334372653c48b8429e4ce429ace5adc69e86b747a285f",
+    "locator": "page 1, cover sheet",
+    "quote": "2024/1 LSF 154 (Gældende) Forslag til Lov om supplerende bestemmelser til forordningen om kunstig intelligens Ministerium: Digitaliseringsministeriet",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-17/secondary.pdf",
+    "sha256": "c54f2066ef190689dd7334372653c48b8429e4ce429ace5adc69e86b747a285f",
+    "locator": "page 2",
+    "quote": "Fremsat den 26. februar 2025 af minister for digitalisering (Caroline Stage Olsen)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 2",
+    "quote": "Digitaliseringsstyrelsen, Datatilsynet og Domsstolsstyrelsen udpeges som nationale kompetente myndigheder",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 2, stk. 2",
+    "quote": "Digitaliseringsstyrelsen udpeges som bemyndigende myndighed, jf. artikel 28, stk. 1, og artikel 70, stk. 1, i forordningen om kunstig intelligens, centralt kontaktpunkt",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 2, stk. 3",
+    "quote": "Datatilsynet udpeges som markedsovervågningsmyndighed for de dele af tilsynet med forbudte former for AI-praksis, der er omfattet af artikel 5, stk. 1, litra d og g",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 5",
+    "quote": "afkræve alle oplysninger, som er nødvendige for myndighedernes tilsynsvirksomhed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 6",
+    "quote": "har til enhver tid mod behørig legitimation og uden retskendelse adgang til alle erhvervsmæssige lokaliteter",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 6, stk. 2",
+    "quote": "Markedsovervågningsmyndighederne kan som led i kontrolbesøget foretage tekniske undersøgelser af et AI-system på stedet.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 7",
+    "quote": "Markedsovervågningsmyndighederne kan offentliggøre deres afgørelser i sager om forbudte former for AI-praksis",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 8, stk. 2",
+    "quote": "Markedsovervågningsmyndighederne kan udstede et midlertidigt forbud mod levering, markedsføring, udstilling eller anden tilgængeliggørelse af et AI-system, hvis AI-systemet vurderes at kunne udgøre en risiko.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 10, stk. 1",
+    "quote": "Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der 1) overtræder artikel 5, stk. 1, litra a-g, i forordningen om kunstig intelligens",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/DK-01/2026-10-17/secondary.pdf",
+    "sha256": "c54f2066ef190689dd7334372653c48b8429e4ce429ace5adc69e86b747a285f",
+    "locator": "page 2",
+    "quote": "Fremsat den 26. februar 2025 af minister for digitalisering (Caroline Stage Olsen)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Yderligere oplysninger",
+    "quote": "Offentliggørelsesdato 15/05/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Yderligere oplysninger",
+    "quote": "Offentliggjort i (publiceringsmedie) Lovtidende A",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Kapitel 5, § 13",
+    "quote": "§ 13. Loven gælder ikke for Færøerne og Grønland.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "§ 10, stk. 4",
+    "quote": "Forældelsesfristen for overtrædelse af forordningen om kunstig intelligens, denne lov og regler udstedt i medfør heraf er 5 år.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "document header",
+    "quote": "Ressort Forsknings-, Uddannelses- og Digitaliseringsministeriet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/DK-01/2026-10-11/official-rendered.html",
+    "sha256": "2cfc1d54bca02aa671e757664016940822590d103b18d5f9071e25df3b05699c",
+    "locator": "Yderligere oplysninger",
+    "quote": "Administrerende myndighed Digitaliseringsstyrelsen",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the old value equated the Ministry of Digital Affairs with Forsknings-, Uddannelses- og Digitaliseringsministeriet; the bill was sponsored by Digitaliseringsministeriet (LSF 154 cover sheet) and adopted by the Folketing, while the current responsible ministry is now in the notes",
+   "summary": "rewritten from ss. 2 and 5 to 10: all three bodies are national competent authorities (s. 2(1)), market surveillance of the prohibited practices is split among them, and the inspection, publication, order and temporary-ban powers are stated as the Act gives them",
+   "notes": "publication date and gazette, s. 13 and the five-year limitation period added from the stored page; the remark about the European Commission's list of single points of contact and the claim that it was one of the first national implementing laws were removed because no stored file supports them",
+   "english_version": "the record had none; no English translation by the issuer or another public body was found",
+   "verification.note": "rewritten for the files stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed 14 May 2025 and published 15 May 2025; s. 12 puts entry into force on 2 Aug 2025, which has passed (today 17 Oct 2026). Retsinformation marks the Act GÆLDENDE (in force) in the browser rendering of 11 Oct 2026 and in the print of 17 Oct 2026, and neither shows a repeal. 'In force' stands.",
+  "scope_reasoning": "A national law implementing the AI Act's governance and enforcement provisions; clearly in scope, no scope_note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

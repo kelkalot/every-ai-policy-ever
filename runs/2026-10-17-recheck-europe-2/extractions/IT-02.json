@@ -1,0 +1,321 @@
+{
+ "cand_id": "IT-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IT-02",
+ "record": {
+  "summary": "First decree under Article 24 of Law 132/2025 adapting Italian law to the AI Act. Title I governs police AI use under the principles of proportionality, non-discrimination, human oversight and transparency, including real-time remote biometric identification and retrospective facial recognition with judicial authorisation. Article 12 adds Article 437-bis to the Criminal Code; failing to adopt required safety or human-oversight measures for high-risk AI systems carries one to five years in prison if it endangers life or safety. Articles 16-20 let courts order disclosure of evidence on an AI system, presume causation on breach of an AI Act obligation and allow direct action against insurers.",
+  "notes": "Approved in preliminary form by the Council of Ministers on 10 June 2026 and finally on 4 August 2026, after opinions of the data protection authority (Garante), the Unified Conference (20 July 2026) and the competent parliamentary committees; issued on 9 September 2026, published in GU n. 214 of 15 September 2026 and in force from 30 September 2026. 22 articles in three titles. Where the danger is to the security of the State, the new offence carries two to eight years; altering a high-risk AI system is a separate offence. Article 15 makes companies liable under Legislative Decree 231/2001 for the new offence. Compliance with the AI Act, even if certified, does not by itself exclude liability (Article 19). Police AI systems already contracted, under development or testing, or in use must be brought into line with Chapter II of Title I within one year of entry into force.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Gazzetta Ufficiale ELI page (stored 11 Oct 2026), which confirms the title, number and date, the GU reference and code 26G00179 and entry into force on 30/09/2026, and the GU n. 214 index. Stored in this run: the PDF of GU Serie Generale n. 214 of 15 September 2026, with the full decree (preamble, Articles 1-22, signatures), the decree on Normattiva and the GU article index. The decree text confirms the legal basis in Article 24 of Law 132/2025, the Council of Ministers deliberations of 10 June and 4 August 2026, the opinions obtained and Articles 1, 7-10, 12, 15-21. Version 1's mention of Atto del Governo n. 418 and its transmission to the Senate on 24 June 2026 rests on no stored file and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "ELI page heading",
+    "quote": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160 Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che stabilisce regole armonizzate sull'intelligenza artificiale",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 5 (GU p. 1)",
+    "quote": "DECRETO LEGISLATIVO 9 settembre 2026 , n. 160 . Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 5 (GU p. 1)",
+    "quote": "che stabilisce regole armo-nizzate sull’intelligenza artificiale, in materia di utilizzo dei sistemi di intelligenza artificiale per l’attività di polizia e di responsabilità civile e penale.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "ELI page heading",
+    "quote": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160 Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che stabilisce regole armonizzate sull'intelligenza artificiale",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 5, preamble",
+    "quote": "Vista la legge 23 settembre 2025, n. 132, recante «Disposizioni e deleghe al Governo in materia di intelligenza artificiale» e, in particolare, l’articolo 24",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "Sulla proposta del Presidente del Consiglio dei ministri e dei Ministri per gli affari europei, il PNRR e le politiche di coesione, dell’interno e della giustizia",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "EMANA il seguente decreto legislativo:",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "ELI page heading",
+    "quote": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 14, signature",
+    "quote": "Dato a Roma, addì 9 settembre 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "note",
+    "quote": "Entrata in vigore del provvedimento: 30/09/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-955cc91dc4/2026-10-17/official.html",
+    "sha256": "deea490a24912ec02c6614092fa6678ff4ecb3d92419a8fadaf65b201010b5dc",
+    "locator": "Normattiva",
+    "quote": "Entrata in vigore del provvedimento: 30/09/2026",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "ELI page heading",
+    "quote": "(GU Serie Generale n.214 del 15-09-2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "ELI page heading",
+    "quote": "civile e penale. (26G00179)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IT-02/2026-10-11/secondary.html",
+    "sha256": "d6c63175ca9e2ba3b27045ec8e1a2d4536deadf9b84c804dd2313aec7eb61588",
+    "locator": "GU n. 214 index",
+    "quote": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "note",
+    "quote": "Entrata in vigore del provvedimento: 30/09/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-955cc91dc4/2026-10-17/official.html",
+    "sha256": "deea490a24912ec02c6614092fa6678ff4ecb3d92419a8fadaf65b201010b5dc",
+    "locator": "Normattiva",
+    "quote": "Testo in vigore dal: 30-9-2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/IT-02/2026-10-11/official.html",
+    "sha256": "cca115b60740db536bbd640bf2ed6adec62a36403b39ef44936d1e5d11a2bcee",
+    "locator": "ELI page heading",
+    "quote": "DECRETO LEGISLATIVO 9 settembre 2026, n. 160 Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 14",
+    "quote": "È fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, Art. 1(1)",
+    "quote": "Il presente titolo reca disposizioni in materia di uti-lizzo di sistemi di intelligenza artificiale da parte degli or-gani, uffici e comandi delle Forze di Polizia",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, Art. 1(2)",
+    "quote": "nonché dei principi di proporzionalità, di non discrimi-nazione, di sorveglianza umana e di trasparenza di cui all’articolo 3 della legge n. 132 del 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "Title I, Chapter III heading",
+    "quote": "PER L’IDENTIFICAZIONE BIOMETRICA REMOTA IN TEMPO REALE PER FINALITÀ DI PREVENZIONE O DI PROTEZIONE E PER IL RICONOSCIMENTO FACCIALE A POSTERIORI A FINI DI CONTRASTO DEI REATI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "Art. 10(2)",
+    "quote": "chiede al giudice per le indagini preliminari l’au-torizzazione all’utilizzo dei medesimi sistemi senza ritardo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 12, Art. 12",
+    "quote": "Al codice penale, dopo l’articolo 437 è inserito il seguente:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 12, Art. 12",
+    "quote": "misure di sorveglianza umana è punito con la reclusione da uno a cinque anni, quando da tali omissioni derivi pe-ricolo per la vita o l’incolumità pubblica o individuale.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "Art. 17(1)",
+    "quote": "ordina all’altra parte o al terzo che ne dispone, l’esibizione degli elementi di prova specificamente pertinenti relativi al funzionamento del si-stema di intelligenza artificiale",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 14, Art. 18",
+    "quote": "Quando il danno deriva dalla violazione di uno o più obblighi previsti dal regolamento (UE) 2024/1689, il nesso di causalità tra la violazione e il danno è presunto, salvo prova contraria.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 14, Art. 20(2)",
+    "quote": "Il danneggiato ha azione diretta per il risarcimento del danno nei confronti dell’impresa di assicurazione",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 10 giugno 2026;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "Acquisito il parere del Garante per la protezione dei dati personali;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "espresso nella seduta del 20 luglio 2026;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "Acquisiti i pareri delle competenti Commissioni par-lamentari della Camera dei deputati e del Senato della Repubblica;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 6, preamble",
+    "quote": "Vista la deliberazione del Consiglio dei ministri, adot-tata nella riunione del 4 agosto 2026;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 12, Art. 12",
+    "quote": "Qualora dal fatto derivi un pericolo per la sicurezza dello Stato, la pena è della reclusione da due a otto anni.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 12, Art. 12",
+    "quote": "chiun-que, al di fuori dei casi indicati al primo comma, altera sistemi di intelligenza artificiale ad alto rischio è punito",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "Art. 15",
+    "quote": "In relazione al delitto di cui all’articolo 437 -bis del codice penale, si applica all’ente la sanzione pecuniaria da seicento a mille quote.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 14, Art. 19",
+    "quote": "non esclude di per sé la responsabilità del convenuto.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/IT-02/extra-ad82f72f10/2026-10-17/official.pdf",
+    "sha256": "5da3dde091e115ec02a9275ad13455f83c478d4eb256d912d9f8e132c7779e75",
+    "locator": "page 14, Art. 21(1)",
+    "quote": "sono resi compatibili con le disposizioni del capo II del titolo I, da ciascuna Forza di polizia per quanto di rispet-tiva competenza, entro un anno dalla predetta data.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "checked against the stored decree text and tightened: retrospective facial recognition with judicial authorisation added; the disclosure order covers evidence on how the AI system works in any AI damage action (Art. 17), not only AI Act documentation",
+   "notes": "rewritten from the decree text: the final Council of Ministers deliberation (4 Aug 2026) and the opinions obtained added, the heavier penalty and the separate alteration offence, corporate liability (Art. 15) and Art. 19 added; the Atto del Governo number and Senate transmission date removed (no stored file); the cross-reference to IT-03 left to the related field",
+   "english_version": "no English text of the decree was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Gazzetta Ufficiale and Normattiva give entry into force on 30 September 2026 (in force text from 30-9-2026). That date has passed (today 17 October 2026) and no repeal or amendment is shown. Article 21(2) makes some Title I provisions follow the AI Act's own application dates, which the notes do not need to list. 'In force' stands.",
+  "scope_reasoning": "A legislative decree adapting national law to the EU AI Act (police use of AI, criminal and civil liability); in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

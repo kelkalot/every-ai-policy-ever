@@ -1,0 +1,169 @@
+{
+ "cand_id": "DE-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "DE-02",
+ "record": {
+  "verification": {
+   "note": "Stored and read in this run: Bundestag printed paper 19/5880 (dserver.bundestag.de, 48 pages), the full German text of the strategy with its aims, funding and measures; Bundesrat printed paper 597/18 (dserver.bundestag.de), whose cover letter of the Federal Ministry for Economic Affairs and Energy dated 15 November 2018 states that the Federal Cabinet adopted the strategy that day and that it is distributed as Bundestag printed paper 19/5880 (the Bundestag paper's own cover is set in an encoded font); the Federal Government's English text 'Artificial Intelligence Strategy', Status: November 2018 (ki-strategie-deutschland.de); the 2020 update, 'Fortschreibung 2020', Stand: Dezember 2020 (ki-strategie-deutschland.de); and the Federal Government's notice of Wednesday 2 December 2020 that the cabinet adopted the update and raised funding to 2025 from three to five billion euros (bundesregierung.de). All three hosts are recorded as official for DE. The title is the Federal Government's own English title; the summary follows the German text."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-842106e48c/2026-10-17/official.pdf",
+    "sha256": "b71a1bc1fad56a9e640504b0d0d5521f56f04b039cc63bf9cabd0cb412f05efb",
+    "locator": "page 1, cover",
+    "quote": "Artificial Intelligence Strategy Status: November 2018",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-842106e48c/2026-10-17/official.pdf",
+    "sha256": "b71a1bc1fad56a9e640504b0d0d5521f56f04b039cc63bf9cabd0cb412f05efb",
+    "locator": "page 2",
+    "quote": "The Federal Government’s Artificial Intelligence (AI) strategy was jointly developed by the Federal Ministry of Education and Research",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-ce36d1ce97/2026-10-17/official.pdf",
+    "sha256": "9bd400ac2dc87dc2afb3c1b51145d7523c2e4e916bd4cc9f70192bfb91a2cdc7",
+    "locator": "page 1, cover",
+    "quote": "Strategie Künstliche Intelligenz der Bundesregierung",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C004/2026-10-16/official.pdf",
+    "sha256": "b24f5db947d9678cd75116a973c31c375a2c482e0c79403cb757db37cb9ceb9f",
+    "locator": "page 3",
+    "quote": "Die Strategie Künstliche Intelligenz der Bundesregierung wurde nach Durchführung eines deutschlandweiten Online-Konsultationsverfahrens",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-ce36d1ce97/2026-10-17/official.pdf",
+    "sha256": "9bd400ac2dc87dc2afb3c1b51145d7523c2e4e916bd4cc9f70192bfb91a2cdc7",
+    "locator": "page 1, cover",
+    "quote": "Unterrichtung durch die Bundesregierung",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-b3072230b1/2026-10-17/official.html",
+    "sha256": "0ab364bab1b8ad1e2392cbef54e8872381260de06a617e76bb2093d11ad236b4",
+    "locator": "timeline",
+    "quote": "15. November 2018: Das Kabinett verabschiedet die KI-Strategie.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-ce36d1ce97/2026-10-17/official.pdf",
+    "sha256": "9bd400ac2dc87dc2afb3c1b51145d7523c2e4e916bd4cc9f70192bfb91a2cdc7",
+    "locator": "page 1, footnote to the cover letter",
+    "quote": "* wird als Bundestags-Drucksache 19/5880 verteilt",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-ce36d1ce97/2026-10-17/official.pdf",
+    "sha256": "9bd400ac2dc87dc2afb3c1b51145d7523c2e4e916bd4cc9f70192bfb91a2cdc7",
+    "locator": "page 1, header",
+    "quote": "Bundesrat Drucksache 597/18",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-ce36d1ce97/2026-10-17/official.pdf",
+    "sha256": "9bd400ac2dc87dc2afb3c1b51145d7523c2e4e916bd4cc9f70192bfb91a2cdc7",
+    "locator": "page 1, cover letter",
+    "quote": "Bundesministerium Berlin, 15. November 2018",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-b3072230b1/2026-10-17/official.html",
+    "sha256": "0ab364bab1b8ad1e2392cbef54e8872381260de06a617e76bb2093d11ad236b4",
+    "locator": "timeline",
+    "quote": "15. November 2018: Das Kabinett verabschiedet die KI-Strategie.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C004/2026-10-16/official.pdf",
+    "sha256": "b24f5db947d9678cd75116a973c31c375a2c482e0c79403cb757db37cb9ceb9f",
+    "locator": "page 1",
+    "quote": "Zugeleitet mit Schreiben des Bundesministeriums für Wirtschaft und Energie vom 15. November 2018.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-b3072230b1/2026-10-17/official.html",
+    "sha256": "0ab364bab1b8ad1e2392cbef54e8872381260de06a617e76bb2093d11ad236b4",
+    "locator": "date of the notice",
+    "quote": "Mittwoch, 2. Dezember 2020",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-b3072230b1/2026-10-17/official.html",
+    "sha256": "0ab364bab1b8ad1e2392cbef54e8872381260de06a617e76bb2093d11ad236b4",
+    "locator": "text",
+    "quote": "Das Bundeskabinett hat am Mittwoch die Fortschreibung der KI-Strategie beschlossen.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-baf48cdb1e/2026-10-17/official.pdf",
+    "sha256": "fd687fad588748022441345376b98694cbeab0679fdf17d0d426f1666c24caf1",
+    "locator": "page 1, cover",
+    "quote": "Strategie Künstliche Intelligenz der Bundesregierung Fortschreibung 2020 Stand: Dezember 2020",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/DE-02/extra-b3072230b1/2026-10-17/official.html",
+    "sha256": "0ab364bab1b8ad1e2392cbef54e8872381260de06a617e76bb2093d11ad236b4",
+    "locator": "lead paragraph",
+    "quote": "die Bundesregierung hat die Strategie Künstliche Intelligenz weiterentwickelt und an aktuelle Herausforderungen angepasst.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C004/2026-10-16/official.pdf",
+    "sha256": "b24f5db947d9678cd75116a973c31c375a2c482e0c79403cb757db37cb9ceb9f",
+    "locator": "page 4, Vorwort",
+    "quote": "Die nun vorliegende Strategie versteht sich vor dem Hintergrund der dynamischen Entwicklung dieses Technologie- felds als Handlungsrahmen der Bundesregierung.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-16-discover-leads-2018/C004/2026-10-16/official.pdf",
+    "sha256": "b24f5db947d9678cd75116a973c31c375a2c482e0c79403cb757db37cb9ceb9f",
+    "locator": "page 4, Vorwort",
+    "quote": "Die nun vorliegende Strategie versteht sich vor dem Hintergrund der dynamischen Entwicklung dieses Technologie- felds als Handlungsrahmen der Bundesregierung.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for the files stored in this run; the hosts named as 'to review' in version 1 are now recorded as official for DE, so the CAUTION no longer applies"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding framework of the Federal Government ('Handlungsrahmen der Bundesregierung'), adopted by the cabinet on 15 November 2018 and updated on 2 December 2020 ('Fortschreibung 2020'), which the Federal Government describes as a further development of the same strategy, not a replacement. No stored file shows a withdrawal or a replacement strategy, so 'Published (non-binding, current)' stands, with the update in date_last_updated and the notes.",
+  "scope_reasoning": "Germany's national AI strategy, mainly about research, transfer and funding, with safety and governance in its sections on the regulatory framework, standards and IT security; the existing scope_note fits."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

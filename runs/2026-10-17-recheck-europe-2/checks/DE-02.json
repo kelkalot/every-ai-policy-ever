@@ -1,0 +1,55 @@
+{
+ "cand_id": "DE-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "The government's own English text is titled 'Artificial Intelligence Strategy', Status: November 2018."
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "15 November 2018 is the cabinet decision date (federal government timeline) and the cover-letter date of Bundesrat paper 597/18; it is the date of adoption, which is the field's meaning."
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Three equal aims (gleichrangige Ziele): leading AI location, responsible development, embedding in society. Literal translation: 'the Federal Government sets itself the following equal-ranking goals'.",
+   "verdict": "supported",
+   "locator": "Aims section"
+  },
+  {
+   "claim": "Government examines state bodies and private testing institutions to oversee algorithmic decisions; federal funding raised from three to five billion euros by the 2020 update",
+   "verdict": "supported",
+   "locator": "p. on algorithmic decisions; bundesregierung.de notice of 2 December 2020"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Mainly an AI research, industry and skills strategy with safety content in its regulatory, standards and security sections; the existing scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "The Bundesrat paper 597/18 (cover letter 15 November 2018, Bundestag paper 19/5880), the English text, the 2020 update and the federal government notice of 2 December 2020 are stored; all hosts are official for DE, so the level moves from C to A by script. The run changes only the verification note. No newer strategy found in the stored files."
+}

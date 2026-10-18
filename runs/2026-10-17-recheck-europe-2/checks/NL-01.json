@@ -1,0 +1,48 @@
+{
+ "cand_id": "NL-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "No English text of the draft bill found; 'none found' is acceptable."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Ten market surveillance authorities proposed. Literal translation: 'This results in the cabinet proposal to designate ten market surveillance authorities for supervision of compliance with the AI Regulation.'",
+   "verdict": "supported",
+   "locator": "Kamerstuk 22 112, nr. 4318"
+  },
+  {
+   "claim": "RDI single point of contact, with RDI and AP ensuring coordination; the authorities jointly set up one multisectoral NL sandbox",
+   "verdict": "supported",
+   "locator": "Bijlage 1, Centraal contactpunt; NL Sandbox"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The consultation page and draft bill on internetconsultatie.nl cannot be stored (robots.txt), so title, date and status rest on the Rijksoverheid news release (alt-official) and the Kamerbrief of 20 April 2026, whose host zoek.officielebekendmakingen.nl is not on the official-sites list. Summary and notes now follow the Kamerbrief and match its text. A search found no sign that the bill has gone to the Council of State or the House. The original_title is not supported by any stored file; the run leaves it as published and the extractor's open question covers it, so a person could provide the draft bill."
+}

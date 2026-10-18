@@ -1,0 +1,46 @@
+{
+ "cand_id": "GB-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "13 principles in five lifecycle phases, secure design to secure end of life",
+   "verdict": "supported",
+   "locator": "Scope; Structure of the voluntary Code of Practice"
+  },
+  {
+   "claim": "Principle 4.1: developers/system operators incorporate capabilities for human oversight; 9.1/9.2 testing before release and deployment; 6.5 incident management and recovery plans",
+   "verdict": "supported",
+   "locator": "Principles 4, 9, 6"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  "https://www.ncsc.gov.uk/blog-post/new-etsi-standard-protects-ai-systems-from-evolving-cyber-threats"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "GOV.UK page confirms title, 31 January 2025, DCMS and DSIT, and the word 'voluntary'. Summary and notes claims found in the stored text. The record's notes say the government 'will' submit the Code to ETSI and update it; a web search shows ETSI published TS 104 223 in April 2025 and later adopted it as EN 304 223 (NCSC blog), and shows no update of the Code itself. That does not change this record's values, but the notes read as dated; the NCSC page is listed in extra_urls so the next run can store it and decide whether to restate the notes. No newer edition of the Code was found."
+}

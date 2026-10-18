@@ -1,0 +1,151 @@
+{
+ "cand_id": "GB-10",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GB-10",
+ "record": {
+  "date_last_updated": null,
+  "summary": "A Private Members' Bill presented in the House of Commons under the Ten Minute Rule by Alex Sobel MP in September 2026. According to its long title, it would prohibit the development, deployment and operation of artificial superintelligence systems and establish monitoring and control powers in respect of such systems.",
+  "safety_topics": [
+   "catastrophic risk",
+   "general-purpose / frontier AI",
+   "prohibited practices"
+  ],
+  "notes": "First reading in the House of Commons on 8 September 2026; second reading scheduled for 13 November 2026. Parliament describes Ten Minute Rule bills as often an opportunity for members to voice an opinion on a subject rather than a serious attempt to get a bill passed.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the record's sources on bills.parliament.uk still cannot be stored (HTTP 403 to the archiver; the browser retry timed out on 11, 16 and 17 Oct 2026), and Hansard also refused automated access. Stored in this run instead: the UK Parliament Bills API entries for bill 4288 (bill record and stages) and the API's list of bill types. They confirm the short and long title, the sponsor (Alex Sobel, Labour, Leeds Central and Headingley), the Commons as originating house, bill type 5 (Private Members' Bill under the Ten Minute Rule), first reading on 8 Sep 2026 and second reading on 13 Nov 2026, and that the bill is not an Act, not defeated and not withdrawn. The API host bills-api.parliament.uk is not on the list of official sites, so these quotes count as secondary. The API gives no printed bill number and no session name. Version 1's statements on the sponsor's framing (an international agreement), the lack of government support and a cross-party letter of 11 Sep 2026 rest on secondary reporting only and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288",
+    "quote": "\"shortTitle\":\"Artificial Superintelligence Bill\"",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288, sponsors",
+    "quote": "\"name\":\"Alex Sobel\",\"party\":\"Labour\"",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288",
+    "quote": "\"currentHouse\":\"Commons\",\"originatingHouse\":\"Commons\"",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-ee811f45ac/2026-10-17/official.json",
+    "sha256": "c4ab90ba6f78afaddd90e6bb46624df00dc24a639963426fc7646cd8eb8ba546",
+    "locator": "Bills API, bill types",
+    "quote": "\"id\":5,\"category\":\"Public\",\"name\":\"Private Members' Bill (under the Ten Minute Rule)\"",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-372e8b67ec/2026-10-17/official.json",
+    "sha256": "aca3621be2055fe8b8e69d5ab822a1b026e28ee136fe92c8c6a832aa3dfbcd55",
+    "locator": "Bills API, stages of bill 4288",
+    "quote": "\"description\":\"1st reading\",\"abbreviation\":\"1R\",\"house\":\"Commons\",\"stageSittings\":[{\"id\":18589,\"stageId\":6,\"billStageId\":21187,\"billId\":4288,\"date\":\"2026-09-08T00:00:00\"}]",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288",
+    "quote": "\"billWithdrawn\":null,\"isDefeated\":false,\"billTypeId\":5",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288, currentStage",
+    "quote": "\"description\":\"2nd reading\",\"abbreviation\":\"2R\",\"house\":\"Commons\",\"stageSittings\":[{\"id\":18590,\"stageId\":7,\"billStageId\":21188,\"billId\":4288,\"date\":\"2026-11-13T00:00:00\"}]",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288",
+    "quote": "\"includedSessionIds\":[40],\"isAct\":false",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-96e45f7ea5/2026-10-17/official.json",
+    "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+    "locator": "Bills API, bill 4288, longTitle",
+    "quote": "A Bill to make provision to prohibit the development, deployment and operation of artificial superintelligence systems; to establish monitoring and control powers in respect of such systems; and for connected purposes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-ee811f45ac/2026-10-17/official.json",
+    "sha256": "c4ab90ba6f78afaddd90e6bb46624df00dc24a639963426fc7646cd8eb8ba546",
+    "locator": "Bills API, bill types",
+    "quote": "\"name\":\"Private Members' Bill (under the Ten Minute Rule)\"",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-372e8b67ec/2026-10-17/official.json",
+    "sha256": "aca3621be2055fe8b8e69d5ab822a1b026e28ee136fe92c8c6a832aa3dfbcd55",
+    "locator": "Bills API, stages of bill 4288",
+    "quote": "\"description\":\"1st reading\",\"abbreviation\":\"1R\",\"house\":\"Commons\",\"stageSittings\":[{\"id\":18589,\"stageId\":6,\"billStageId\":21187,\"billId\":4288,\"date\":\"2026-09-08T00:00:00\"}]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-372e8b67ec/2026-10-17/official.json",
+    "sha256": "aca3621be2055fe8b8e69d5ab822a1b026e28ee136fe92c8c6a832aa3dfbcd55",
+    "locator": "Bills API, stages of bill 4288",
+    "quote": "\"description\":\"2nd reading\",\"abbreviation\":\"2R\",\"house\":\"Commons\",\"stageSittings\":[{\"id\":18590,\"stageId\":7,\"billStageId\":21188,\"billId\":4288,\"date\":\"2026-11-13T00:00:00\"}]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-2/GB-10/extra-ee811f45ac/2026-10-17/official.json",
+    "sha256": "c4ab90ba6f78afaddd90e6bb46624df00dc24a639963426fc7646cd8eb8ba546",
+    "locator": "Bills API, bill types, id 5",
+    "quote": "Ten Minute Rule bills are often an opportunity for Members to voice an opinion on a subject or aspect of existing legislation, rather than a serious attempt to get a bill passed.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "the only 2026-09-09 date in the stored sources is the database's 'lastUpdate' timestamp; the API lists no publications, so there is no amended or new version of the bill",
+   "summary": "rewritten to what the bill's long title and type say; the sponsor's framing as a step towards an international agreement came from his speech, which is not stored",
+   "safety_topics": "'international cooperation' dropped: it rested on the sponsor's speech, not on the bill",
+   "notes": "removed the secondary-only statements (government position, the 11 Sep 2026 letter) and the process remark the old notes contained; added the stage dates and Parliament's description of Ten Minute Rule bills",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Bills API shows the bill after first reading on 8 September 2026 with its second reading set for 13 November 2026, not an Act, not defeated and not withdrawn. A bill at this stage is 'Draft / proposed' with legal force 'Proposed' on 17 October 2026.",
+  "scope_reasoning": "A pending bill to prohibit artificial superintelligence; in scope, and the existing scope_note (backbench bill, very unlikely to pass) still applies and is now backed by Parliament's description of Ten Minute Rule bills."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The record rests only on the UK Parliament Bills API (bills-api.parliament.uk), which is run by UK Parliament like bills.parliament.uk but is not listed in pipeline/official-sites.json, so its quotes count as secondary and the record falls to level C. If a person records bills-api.parliament.uk as official for GB, the same quotes would give level A.",
+  "official_identifier 'Bill 4288 (Session 2026-27)' is left as published but is not supported as a citable number: 4288 is the bill's ID in Parliament's bills database ('billId'), the API lists no publications (no printed bill number), and the API gives the session only as ID 40. Secondary sites give different bill numbers (Bill 139, Bill 142). Should the field hold the database ID or stay empty until a printed bill number appears?"
+ ]
+}

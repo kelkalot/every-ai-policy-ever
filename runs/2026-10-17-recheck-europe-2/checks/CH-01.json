@@ -1,0 +1,47 @@
+{
+ "cand_id": "CH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "date_published": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Switzerland is to ratify the Council of Europe AI Convention, which will apply primarily to state actors; legislative changes as sector-specific as possible.",
+   "verdict": "supported",
+   "locator": "media release, parameters"
+  },
+  {
+   "claim": "FDJP to draft a bill for consultation by the end of 2026; DETEC to prepare a plan for non-binding measures by the end of 2026.",
+   "verdict": "supported",
+   "locator": "media release, next steps"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The English admin.ch release (published 12 Feb 2025) and the German release (title only, from the 11 Oct copy) match the record; the original_title quote comes from the stored German page. BJ's page shows the consultation bill is still being prepared; a search found no opening of a consultation. Status unchanged."
+}

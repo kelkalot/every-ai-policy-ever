@@ -1,0 +1,220 @@
+{
+ "cand_id": "EC-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "EC-01",
+ "record": {
+  "official_url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/gUzisz48Q-eS3HfIkzxpQw/content/003-01_INFORME_PARA_PRIMER_DEBATE_31-08-26.pdf",
+  "secondary_url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+  "summary": "Unified bill for an organic law regulating and promoting AI in Ecuador, which the National Assembly's education and science committee built from initiatives filed in 2024. With the EU AI Act as one of its main sources, it provided for risk-based classification, prohibited practices, stronger duties for high-risk systems, transparency, labelling, human oversight, registration, impact assessments, sanctions and rules for generative and general-purpose AI, governed by the telecommunications ministry (MINTEL) as lead body, the data protection superintendency (SPDP) as supervisory authority and a National Council for Ethics and Algorithmic Governance. The Plenary archived it on 15 Sep 2026.",
+  "safety_topics": [
+   "risk-based classification",
+   "prohibited practices",
+   "human oversight",
+   "transparency & labelling",
+   "general-purpose / frontier AI",
+   "accountability & liability"
+  ],
+  "notes": "The committee unified two initiatives: the bill of the same name filed by assembly member Silvia Patricia Núñez Ramos on 20 Jun 2024 (No. 450889), and the Bill for the Promotion and Development of Artificial Intelligence filed by assembly member Karina del Carmen Subía Dávalos on 30 Jul 2024. The Council of Legislative Administration authorised the unification on 6 Dec 2024, and on 16 Dec 2024 the committee chair reported the two bills unified for the first-debate report. On 1 Aug 2025 the committee also took up the Organic Bill on Digital Use and Artificial Intelligence for Children and Adolescents of former assembly member Pierina Correa Delgado; the report does not say that it was merged into the text. On 31 Aug 2026 the committee approved, by seven votes to three, a first-debate report recommending archiving. It found that the text lacked adaptive governance instruments (national guidelines, technical standards, sectoral regulations, codes of conduct, transparency standards, impact assessments for high-risk systems), would raise public spending contrary to Article 135 of the Constitution, risked early over-regulation, classified infringements as minor, serious and very serious but left the ranges and limits of sanctions to the regulation, and did not reflect ISO/IEC 42001:2023 or the Framework Convention on Artificial Intelligence, Human Rights, Democracy and the Rule of Law; it called first for strengthening the national AI strategy (EFIA-EC), the AI regulatory sandbox and governance mechanisms. The report's description of the text lists transparency and impact assessments among its contents, while its conclusions list transparency standards and impact assessments for high-risk systems among the instruments it lacks. On 15 Sep 2026 the Plenary, in first debate, approved the archiving motion of the committee chair, Rosa Cecilia Baltazar Yucailla, with 88 votes in favour, 60 against and one abstention of 149 members present.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 (second pass). Stored in this run from the National Assembly's document repository (repositorioctic.asambleanacional.gob.ec, the files its institutional archive links for Plenary session 123): the committee's first-debate report of 31 Aug 2026 (31 pages, text layer), which records the initiatives the unified text was built from, their unification, a description of the text and the recommendation to archive; and the minutes of the Plenary session of 15 Sep 2026 (Acta 123-AN-2025-2029, 124 pages, text layer with OCR artefacts in the page headers), which record the vote approving the archiving motion. Also stored: the institutional archive's catalogue entry for those minutes, and the Assembly's page for the Núñez initiative (450889), which gives its filing date of 20 Jun 2024; the archiver flagged that page because it names the Núñez initiative rather than the unified text, and it is the right page. The unified text itself was not stored: the report describes its content only in summary, so the summary rests on that description. The report becomes the official URL in place of the Assembly's news release of 15 Sep 2026, an announcement, which becomes the secondary URL. The releases of 15 Sep and 31 Aug 2026, stored again on 17 Oct 2026 with only layout changes, count as alt-official. The linked PDF stored on 12 Oct 2026 (document-1) is the Assembly's code of ethics for its media, unrelated to the bill. No English version was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 1, cover",
+    "quote": "INFORME PARA PRIMER DEBATE PROYECTO DE LEY ORGÁNICA DE REGULACIÓN Y PROMOCIÓN DE INTELIGENCIA ARTIFICIAL EN EL ECUADOR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 20, section 4.3",
+    "quote": "aprueba el informe para primer debate del “Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 63, motion read by the secretary",
+    "quote": "Moción de aprobación del archivo del Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en el Ecuador",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial, paragraph 1",
+    "quote": "el archivo del Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en Ecuador",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 19, section 4.1",
+    "quote": "han sido unificados para su tratamiento en el informe para primer debate del Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 3, section 2.1.1",
+    "quote": "Mediante memorando Nro. AN-NRSP-2024-0101-M de 20 de junio de 2024, la asambleísta Silvia Patricia Núñez Ramos presentó el Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en Ecuador",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 3, section 2.1.3",
+    "quote": "Mediante memorando Nro. AN-SDKC-2024-0075-M de 30 de julio de 2024, la asambleísta Karina del Carmen Subía Dávalos presentó el Proyecto de Ley para el Fomento y Desarrollo de la Inteligencia Artificial",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 4, section 2.1.5",
+    "quote": "Mediante Resolución Nro. CAL-RVVR-2023-2025-0122, de 6 de diciembre de 2024, el Consejo de Administración Legislativa autorizó a esta Comisión para que, de ser el caso, proceda con la unificación de los Proyectos",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 19, section 4.1",
+    "quote": "Mediante memorando Nro. AN -CECT-2024-1012-M de 16 de diciembre de 2024, la Presidenta de esta Comisión informó",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 63, motion read by the secretary",
+    "quote": "Moción. La aprobación del archivo del Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en el Ecuador.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 64, result of the vote",
+    "quote": "contamos con ochenta y ocho votos afirmativos, sesenta votos negativos, cero blancos y una abstención. Ha sido aprobada la moción presentada por la asambleísta Rosa Cecilia Baltazar",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 1, heading",
+    "quote": "Acta 123-AN-2025-2029 15 DE SEPTIEMBRE DE 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-11192cdde1/2026-10-18/official.html",
+    "sha256": "4b12659d8b25bbee117e2403e48929b09a25b881c47df3f13c2d722c2cdb83ec",
+    "locator": "Alcance y contenido",
+    "quote": "aprobándose con 88 votos afirmativos la moción de Rosa Cecilia Baltazar para archivar el proyecto",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "Pleno archiva Proyecto de Ley de Inteligencia Artificial, paragraph 1",
+    "quote": "El Pleno de la Asamblea Nacional aprobó, en primer debate y con 88 votos, el archivo del Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en Ecuador",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 1, heading",
+    "quote": "Acta 123-AN-2025-2029 15 DE SEPTIEMBRE DE 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 8, convocation read by the secretary",
+    "quote": "a realizarse el día martes 15 de septiembre de 2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 1, cover",
+    "quote": "ASAMBLEA NACIONAL DE LA REPÚBLICA DEL ECUADOR",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 3, section 1",
+    "quote": "el informe para primer debate elaborado por la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología, Innovación y Saberes Ancestrales",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 1, members of the committee",
+    "quote": "Asambleísta Rosa Cecilia Baltazar Yucailla Presidente",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 8, convocation read by the secretary",
+    "quote": "Conocer el informe para primer debate del Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en el Ecuador",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 28, section 7.1",
+    "quote": "recomienda el  archivo del “ Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the Assembly's news release of 15 Sep 2026 (an announcement) -> the committee's first-debate report of 31 Aug 2026, the Assembly's official record of the unified bill, stored in this run (rule 7c; the unified text itself is not published among the stored sources)",
+   "secondary_url": "the news release of 31 Aug 2026 -> the news release of 15 Sep 2026 on the archiving, which the official URL no longer covers",
+   "summary": "rewritten from the committee report's description of the unified text (section 5.1, 5.2), as the maintainer decided in issue #150: drops 'first general AI bill' and 'regulate algorithms', adds its EU AI Act model, contents and governance bodies",
+   "safety_topics": "adds 'prohibited practices' and 'general-purpose / frontier AI', both in the report's list of the text's contents (prácticas prohibidas; reglas para IA generativa/modelos de propósito general)",
+   "notes": "rewritten from the report and the minutes: the two initiatives unified (Núñez, Subía) with their dates, the Correa bill only as the report describes it, the committee's findings and vote, the discrepancy inside the report, and the Plenary vote; the process remark moved to verification.note",
+   "english_version": "added: none found",
+   "verification.note": "rewritten for the sources stored in this run"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "status",
+   "date_last_updated",
+   "issuing_body",
+   "legal_force"
+  ],
+  "status_reasoning": "The minutes of Plenary session 123 of 15 Sep 2026 record the motion of committee chair Rosa Cecilia Baltazar for 'la aprobación del archivo' of the bill and its approval with 88 votes in favour, 60 against and one abstention of 149 present; the institutional archive's catalogue entry for the minutes gives the same result. The archiving ends the bill's passage, and nothing stored shows the text revived as of 18 Oct 2026. The register records a bill rejected by the legislature as legal force 'Proposed' with status 'Revoked / withdrawn', the published value kept by the maintainer in issue #150. date_last_updated stays 2026-09-15, the date of the archiving (published value).",
+  "date_reasoning": "date_published stays '2024'. The report records that the two initiatives the committee unified were filed on 20 Jun 2024 (Núñez) and 30 Jul 2024 (Subía), that the Council of Legislative Administration authorised their unification on 6 Dec 2024 and that the chair reported them unified on 16 Dec 2024; it already refers to the 'Proyecto ... unificado' in sessions from 14 Nov 2024, so no single day marks the unified text, and the year is the precision the sources support.",
+  "scope_reasoning": "A general AI bill of a national legislature, archived: in scope with no note (pending, vetoed and archived bills are kept).",
+  "source_kind_reasoning": "The committee's first-debate report is the legislature's own record of the bill, and the Plenary minutes are the deciding body's formal record of its decision: both official. The institutional archive's catalogue entry is the Assembly archive's official description of those minutes (official). The Núñez initiative page is the Assembly's register entry for that bill (official), used only for the notes. The two news releases are announcements by the Assembly's press room (alt-official).",
+  "topics_reasoning": "From the report's description of the text (page 20): clasificación por riesgo (risk-based classification), prácticas prohibidas (prohibited practices), supervisión humana (human oversight), transparencia and etiquetado (transparency & labelling), reglas para IA generativa/modelos de propósito general (general-purpose / frontier AI), régimen sancionatorio with infringements classed as minor, serious and very serious (accountability & liability)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The unified text itself was not stored; the summary rests on the committee report's description of it. If the Assembly publishes the unified text (or the committee's working text of 2024-2025), a later run could store it and check the summary and topics against it."
+ ]
+}

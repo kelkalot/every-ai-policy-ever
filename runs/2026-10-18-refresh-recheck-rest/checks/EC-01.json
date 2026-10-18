@@ -1,0 +1,75 @@
+{
+ "cand_id": "EC-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "Report cover and section 4.3 and the Plenary motion carry the Spanish name; the English rendering is accurate."
+  },
+  "original_title": {
+   "verdict": "supported",
+   "why": "Matches the report (page 19, section 4.1) character by character."
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "Assembly and the named committee, chair Rosa Cecilia Baltazar Yucailla, confirmed on the report cover and section 1."
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Year-level 2024 is right: the unified text has no date of its own; initiatives filed 20 Jun and 30 Jul 2024, unification authorised 6 Dec 2024 (report pages 3, 4, 19). Day-level dates stay in notes."
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "Acta 123-AN-2025-2029 of 15 Sep 2026 records the archiving vote (page 64)."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Plenary approved the archiving motion 88-60-0-1 of 149 present (Acta page 64, checked in the text); archived bill stays Proposed with status Revoked / withdrawn. No later official step found."
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "A bill never enacted; report section 7.1 recommends archiving."
+  },
+  "safety_topics": {
+   "verdict": "supported",
+   "why": "Blind extraction left topics unchanged (null), so the settled value is the current record plus the extractor's two additions. Report page 20, section 5.1 says the text adopts risk classification, prohibited practices, reinforced duties for high-risk systems, transparency, labelling, human oversight, registration, impact assessments, sanctions and rules for generative/general-purpose models. All six topics are supported; the two additions (prohibited practices, general-purpose / frontier AI) are in that passage."
+  },
+  "official_url": {
+   "verdict": "supported",
+   "why": "The committee's first-debate report is stored and is the legislature's own record on the bill; the press release is correctly moved to secondary_url as an announcement (rule 2b). The blind extraction chose the Acta instead; either is defensible."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "MINTEL as lead body, SPDP as supervisory authority, National Council for Ethics and Algorithmic Governance",
+   "verdict": "supported",
+   "locator": "report page 21, section 5.2, and page 22"
+  },
+  {
+   "claim": "EU AI Act as one of the main sources; risk classification, prohibited practices, high-risk duties, labelling, registration, impact assessments, sanctions, generative and general-purpose rules",
+   "verdict": "supported",
+   "locator": "report page 20, section 5.1"
+  },
+  {
+   "claim": "Plenary archived it on 15 Sep 2026",
+   "verdict": "supported",
+   "locator": "Acta page 64"
+  },
+  {
+   "claim": "Notes: committee approved report 7-3 on 31 Aug 2026; Correa bill taken up 1 Aug 2025; Art. 135, ISO/IEC 42001 and Framework Convention findings",
+   "verdict": "supported",
+   "locator": "report pages 27-29 and section 6; Correa bill in section 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "An archived AI bill; bills are in scope (section 10). Maintainers' decision on issue #150 (keep) applied."
+ },
+ "overall": "accept",
+ "note": "Level A holds: every factual field rests on the Assembly's stored committee report and Plenary minutes; the evidence script found no errors. The announcement is correctly demoted to secondary_url. Quotes and numbers (vote count, dates, committee vote) were checked in the stored text. One targeted search for a newer version found only secondary reports of a new, different bill (Baltazar, filed 1 Sep 2026, and a bill under analysis per Teleamazonas of 5 Oct 2026) and no official page; it is a lead for a discover run, not a newer version of this instrument. The unified text itself is not stored, so the summary rests on the report's description of it."
+}

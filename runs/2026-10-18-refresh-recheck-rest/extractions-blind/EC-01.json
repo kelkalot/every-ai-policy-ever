@@ -1,0 +1,151 @@
+{
+ "cand_id": "EC-01",
+ "decision": "update",
+ "target_id": "EC-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "record": {
+  "official_url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/IEjJ2J2vSFaO_Rraq5VsNg/content/012_ACTA_123-AN-2025-2029_PLENO_15-09-2026.pdf",
+  "secondary_url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+  "notes": "The record is the unified bill text that the National Assembly's Education, Culture, Science, Technology, Innovation and Ancestral Knowledge committee built from two initiatives filed in 2024: the Organic Law on the Regulation and Promotion of Artificial Intelligence in Ecuador (Assembly member Silvia Patricia Núñez Ramos, filed 20 June 2024, no. 450889) and the Law for the Promotion and Development of Artificial Intelligence (Karina del Carmen Subía Dávalos, filed 30 July 2024). The Legislative Administration Council authorised unification on 6 December 2024 and the committee reported the two bills unified on 16 December 2024; the unified text has no registry number of its own. The committee approved its report for first debate with seven votes on 31 August 2026, recommending archiving. On 15 September 2026 the Plenary approved the archiving motion in first debate with 88 votes in favour, 60 against and 1 abstention. The committee said the archiving does not abandon AI regulation but requires first strengthening the national strategy for the ethical and responsible development and use of AI and the institutional, technical and legal conditions for an updated framework.",
+  "verification": {
+   "note": "Stored from the National Assembly (asambleanacional.gob.ec and its repository): the press release of 15 Sep 2026 (Plenary archives the bill, 88 votes), the committee's report for first debate of 31 Aug 2026 (31 pages, recommending archiving), the Plenary's record (Acta 123-AN-2025-2029, 15 Sep 2026, 124 pages) with the motion and the vote count, the archive description of the Acta, and the Assembly's page for the Núñez initiative (filed 20 Jun 2024). The Acta and the committee report confirm the title, the 2024 origin, the unification of two initiatives, the dates, the recommendation and the vote. The bill's own unified text is not among the stored files; the description of its content rests on the committee report and the Assembly's press releases. The record follows the maintainers' decision on issue #150 (keep): it is the unified committee text archived on 15 Sep 2026, not a single filed initiative."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official.html",
+    "sha256": "371d94382c958ed6cdb16c76dc7c0f10e3eeba1400bbd45982e4d9513889e71b",
+    "locator": "heading",
+    "quote": "Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador (As. Patricia Núñez / 450889)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "heading",
+    "quote": "Pleno archiva Proyecto de Ley de Inteligencia Artificial",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official.html",
+    "sha256": "371d94382c958ed6cdb16c76dc7c0f10e3eeba1400bbd45982e4d9513889e71b",
+    "locator": "heading",
+    "quote": "Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador (As. Patricia Núñez / 450889)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 64",
+    "quote": "Asunto: Moción de aprobación del archivo del Proyecto de Ley Orgánica de",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 1",
+    "quote": "ESPECIALIZADA PERMANENTE DE EDUCACI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 1",
+    "quote": "Asambleísta Rosa Cecilia Baltazar Yucailla     Presidente",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official.html",
+    "sha256": "371d94382c958ed6cdb16c76dc7c0f10e3eeba1400bbd45982e4d9513889e71b",
+    "locator": "heading",
+    "quote": "Fecha de presentación: 2024-06-20",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+    "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+    "locator": "page 4",
+    "quote": "unificados para su tratamiento en el informe para",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 1",
+    "quote": "15 DE SEPTIEMBRE DE 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 64",
+    "quote": "votos afirmativos, sesenta votos negativos, cero blancos y una",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+    "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+    "locator": "page 64",
+    "quote": "Ha sido aprobada la moción presentada por la asambleísta",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EC-01/2026-10-17/official.html",
+    "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+    "locator": "body",
+    "quote": "aprobó, en primer debate y con 88 votos, el archivo del Proyecto de Ley Orgánica de Regulación y Promoción de Inteligencia Artificial en Ecuador",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official.html",
+    "sha256": "371d94382c958ed6cdb16c76dc7c0f10e3eeba1400bbd45982e4d9513889e71b",
+    "locator": "heading",
+    "quote": "Proyecto de Ley Orgánica de Regulación y Promoción de la Inteligencia Artificial en Ecuador",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": []
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "7c: the press release is an announcement; the Plenary's formal record (Acta 123, 15 Sep 2026) is the official register of the decision and is now stored, so it becomes official_url and the press release becomes secondary_url",
+   "secondary_url": "the press release of 15 Sep 2026 replaces the committee press release, which stays as stored source",
+   "notes": "the filing dates, the two initiatives, the unification dates and the vote count are now confirmed by the Assembly's own documents; the 'press reports' hedge and the 'three initiatives' statement are replaced (two initiatives)",
+   "verification.note": "rewritten for the stored Assembly documents and the maintainers' decision on issue #150"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force",
+   "date_in_force",
+   "official_identifier"
+  ],
+  "status_reasoning": "The Plenary approved the archiving motion on 15 September 2026 (88 votes in favour, 60 against, 1 abstention). An archived bill cannot continue, so status 'Revoked / withdrawn' with legal force 'Proposed' stands, as the register's rule for vetoed or expired bills requires. date_published stays '2024': the unified text has no date of its own; the initiatives were filed on 20 June and 30 July 2024 and unified on 16 December 2024 (day-level dates are in notes). date_in_force null (never enacted); official_identifier null (the unified text has no registry number; 450889 belongs to the Núñez initiative only).",
+  "scope_reasoning": "A pending (now archived) AI bill is in scope under AGENTS.md section 10; no scope_note needed."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The stored files do not include the unified bill text itself, only the committee report and the Plenary record; the bill's articles were not read.",
+  "The unified text has no registry number of its own, so official_identifier stays null."
+ ]
+}

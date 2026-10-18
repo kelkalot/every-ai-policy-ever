@@ -123,6 +123,10 @@ def test_generated(rep, root, db):
         nx = sum(1 for row in ws.iter_rows(min_row=2, values_only=True) if row and row[0])
         if nx != len(R):
             probs.append("register.xlsx has %d rows" % nx)
+        if "Related" in wb.sheetnames:
+            nrx = sum(1 for row in wb["Related"].iter_rows(min_row=2, values_only=True) if row and row[0])
+            if nrx != sum(len(r.get("related") or []) for r in R):
+                probs.append("register.xlsx has %d related rows" % nrx)
     except ImportError:
         pass
     rep.check("generated data files", probs, "records.csv, records.js, register.sqlite, register.xlsx: %d records each" % len(R))
@@ -141,19 +145,18 @@ def test_archive(rep, root, out, db, hist, defs):
             elif sha(p) != digest:
                 probs.append("%s does not match its SHA256SUMS line" % p.relative_to(a))
     rep.check("archive copies", probs, "%d files match their SHA256SUMS" % n)
-    # evidence: which files quoted in the history and the definitions are in the published archive
+    # evidence: every file quoted in the history and the definitions is published, unless it is a third-party copy
+    import pyarrow.parquet as pq
     published = {str(p.relative_to(a)) for p in a.rglob("*") if p.is_file()}
-    quoted = set()
-    for e in hist:
-        for it in e.get("evidence") or []:
-            if isinstance(it, dict) and it.get("file"):
-                quoted.add(it["file"].replace(".txt", "") if it["file"].endswith((".pdf.txt", ".html.txt")) else it["file"])
+    left_out = {x["path"] for x in pq.read_table(out / "dataset" / "data" / "source_files.parquet").to_pylist()
+                if not x["in_archive_dataset"]}
+    quoted = {it["file"] for e in hist for it in e.get("evidence") or [] if isinstance(it, dict) and it.get("file")}
     quoted |= {x.get("file") for x in defs if x.get("file")}
-    missing = sorted(q for q in quoted if q and q not in published)
-    runs = sum(1 for q in missing if q.startswith("archive/_runs/"))
-    rep.check("evidence files published", ["%d quoted file(s) not in the archive dataset (%d stored by runs under "
-                                           "archive/_runs/), e.g. %s" % (len(missing), runs, missing[0])] if missing else [],
-              "%d quoted files" % len(quoted), warn=True)
+    missing = sorted(q for q in quoted if q and q not in published and q not in left_out)
+    third = sorted(q for q in quoted if q and q not in published and q in left_out)
+    rep.check("evidence files published", ["%s is quoted as evidence but not in the archive dataset" % q for q in missing],
+              "%d of %d quoted files in the archive dataset; %d third-party copies left out (listed in source_files)"
+              % (len(quoted) - len(missing) - len(third), len(quoted), len(third)))
 
 
 def test_space(rep, out, db):

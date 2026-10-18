@@ -117,6 +117,83 @@ def redaction_plan(files):
 
 # ----------------------------------------------------------------------------- tables
 
+def quoted_files(db):
+    """path -> record IDs, for every stored file quoted as evidence in data/history.jsonl or data/definitions.json."""
+    out = defaultdict(set)
+    for e in history.load():
+        for it in e.get("evidence") or []:
+            if isinstance(it, dict) and it.get("file"):
+                out[it["file"]].add(e.get("record_id"))
+    defs = ROOT / "data" / "definitions.json"
+    for d in (json.load(open(defs, encoding="utf-8")) if defs.is_file() else {}).get("definitions") or []:
+        if d.get("file"):
+            out[d["file"]].add(d.get("record_id"))
+    return out
+
+
+def known_urls(db):
+    """path -> (url, final_url) of the files the pipeline runs stored (runs/*/sources.json)."""
+    urls = {}
+    for s in sorted((ROOT / "runs").glob("*/sources.json")):
+        try:
+            entries = json.load(open(s, encoding="utf-8"))
+        except ValueError:
+            continue
+        for ent in entries.values():
+            for blk in [ent.get("main") or {}] + list((ent.get("extras") or {}).values()):
+                for f in (blk or {}).get("files") or []:
+                    if f.get("path"):
+                        urls[f["path"]] = (f.get("url"), f.get("final_url"))
+    return urls
+
+
+def evidence_rows(db, current, archive_repo_url):
+    """source_files rows for the quoted files that are not a record's current copy: copies a pipeline run stored
+    (archive/_runs/...) and earlier snapshots that a newer copy replaced. They are published with the archive so that
+    every quote in the history and the definitions can be checked against the file it names. A file whose URL is not
+    known (an earlier snapshot) counts as third-party when any URL its record's field ever had is third-party."""
+    urls = known_urls(db)
+    by = {r["id"]: r for r in db["records"]}
+    past = defaultdict(set)  # (record, field) -> every value official_url / secondary_url had
+    for r in db["records"]:
+        for k in ("official_url", "secondary_url"):
+            if r.get(k):
+                past[(r["id"], k)].add(r[k])
+    for e in history.load():
+        if e.get("field") in ("official_url", "secondary_url"):
+            for v in (e.get("old"), e.get("new")):
+                if isinstance(v, str) and v:
+                    past[(e.get("record_id"), e["field"])].add(v)
+    rows = []
+    for path, rids in sorted(quoted_files(db).items()):
+        if path in current:
+            continue
+        rid = sorted(x for x in rids if x)[0] if any(rids) else None
+        p = ROOT / path
+        present = p.is_file()
+        url, final = urls.get(path, (None, None))
+        if url:
+            third = is_third_party({"url": url, "final_url": final})
+        else:
+            field = "secondary_url" if Path(path).name.startswith("secondary") else "official_url"
+            cands = set().union(*(past.get((x, field), set()) for x in rids)) if rids else set()
+            url = sorted(cands)[0] if len(cands) == 1 else None
+            third = any(is_third_party({"url": u}) for u in cands)
+        published = present and not third
+        digest = hashlib.sha256(p.read_bytes()).hexdigest() if present else None
+        rows.append({
+            "record_id": rid, "role": "evidence: run copy" if path.startswith("archive/_runs/") else "evidence: earlier snapshot",
+            "path": path, "url": url, "final_url": final, "host": host_of({"url": url, "final_url": final}),
+            "http_status": None, "content_type": None, "bytes": p.stat().st_size if present else None, "sha256": digest,
+            "retrieved_at": None, "last_checked": None, "method": None, "stale": False, "integrity": "ok" if present else None,
+            "in_archive_dataset": published,
+            "archive_url": "%s/blob/main/%s" % (archive_repo_url, path) if published else None,
+            "redacted": False, "published_sha256": digest if published else None, "redaction_note": None,
+            "_missing": not present, "_evidence": True,
+        })
+    return rows
+
+
 def tables(db, archive_repo_url):
     R = db["records"]
     records, topics, related, files = [], [], [], []
@@ -143,6 +220,7 @@ def tables(db, archive_repo_url):
                 "redacted": False, "published_sha256": f.get("sha256") if published else None, "redaction_note": None,
                 "_missing": not present,
             })
+    files += evidence_rows(db, {f["path"] for f in files if f.get("path")}, archive_repo_url)
     plan = redaction_plan(files)
     for row in files:
         if row["path"] in plan:
@@ -199,6 +277,7 @@ def stats(db, files):
         "states": len(states), "intl": intl, "files": len(files), "pub_files": len(pub),
         "pub_mb": sum(f["bytes"] or 0 for f in pub) / 1e6,
         "missing": sum(1 for f in files if f.get("_missing")),
+        "evidence": sum(1 for f in files if f.get("_evidence") and f["in_archive_dataset"]),
         "excluded": sum(1 for f in files if not f["in_archive_dataset"] and not f.get("_missing")),
         "redacted": sum(1 for f in files if f.get("redacted")),
         "with_copy": sum(1 for r in R if (r.get("local_copy") or {}).get("status") == "archived"),
@@ -424,7 +503,7 @@ extra_gated_button_content: Access the documents
 
 Stored copies of the official sources behind the records of [{ns}/{name}]({main}): {pub_files} files, about {pub_mb:.0f} MB, mostly PDFs and HTML pages of laws, decrees, gazette entries, guidelines and declarations.
 
-Each file sits at `archive/<record ID>/<retrieval date>/`, next to a `SHA256SUMS` file:
+Each file sits at `archive/<record ID>/<retrieval date>/`, next to a `SHA256SUMS` file. {evidence} of the files are not a record's current copy but are quoted as evidence in the register's history or definitions: copies that a pipeline run stored under `archive/_runs/<run ID>/<candidate>/`, and earlier snapshots that a newer copy replaced. They are here so that every quote can be checked against the file it names; `source_files` lists them with the role `evidence: run copy` or `evidence: earlier snapshot`.
 
 ```bash
 cd archive/EU-03/2026-10-11 && sha256sum -c SHA256SUMS
@@ -497,6 +576,15 @@ def build_all(out, ns, name, github_url, changes_md=""):
     defs = build.definitions_table(db)
     st["n_definitions"] = len(defs)
     st["n_open_questions"] = len(build.open_questions())
+    # register.sqlite and register.xlsx are generated but not in git, so a pull leaves them as they were: write them
+    # from the data now, so that the raw files of the dataset are never older than records.json
+    build.write_sqlite(db, ROOT)
+    try:
+        import export_xlsx
+        export_xlsx.write_xlsx(db, ROOT)
+        fresh_xlsx = True
+    except ImportError:  # openpyxl is optional; without it the dataset gets no register.xlsx rather than an old one
+        fresh_xlsx = False
     if out.exists():
         shutil.rmtree(out)
     ds, ar, sp = out / "dataset", out / "archive", out / "space"
@@ -510,7 +598,7 @@ def build_all(out, ns, name, github_url, changes_md=""):
     if defs:  # the definitions layer of the crosswalk (issue #70)
         write_parquet([{k: d.get(k) for k in sch["definitions"].names} for d in defs], ds / "data" / "definitions.parquet",
                       sch["definitions"])
-    write_parquet([{k: v for k, v in f.items() if k != "_missing"} for f in files], ds / "data" / "source_files.parquet",
+    write_parquet([{k: v for k, v in f.items() if not k.startswith("_")} for f in files], ds / "data" / "source_files.parquet",
                   sch["source_files"])
     hist = []
     for e in history.load():
@@ -522,7 +610,7 @@ def build_all(out, ns, name, github_url, changes_md=""):
         write_parquet(hist, ds / "data" / "history.parquet", sch["history"])
     (ds / "raw").mkdir()
     for f in ("records.json", "records.csv", "register.xlsx", "history.jsonl", "definitions.json", "definitions.csv"):
-        if (ROOT / "data" / f).is_file():
+        if (ROOT / "data" / f).is_file() and (f != "register.xlsx" or fresh_xlsx):
             shutil.copy2(ROOT / "data" / f, ds / "raw" / f)
     if (ROOT / "HISTORY.md").is_file():
         shutil.copy2(ROOT / "HISTORY.md", ds / "HISTORY.md")

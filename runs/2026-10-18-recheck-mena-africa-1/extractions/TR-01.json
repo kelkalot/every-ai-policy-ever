@@ -1,0 +1,189 @@
+{
+ "cand_id": "TR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "TR-01",
+ "record": {
+  "summary": "Eight-article private member's bill setting a regulatory framework for the development and use of AI. It defines AI and AI operators (providers, distributor-users, importers, distributors) and makes safety, transparency, fairness, accountability and privacy mandatory principles. It requires risk assessment, with special measures for high-risk systems, which must be registered with the relevant supervisory authorities and undergo conformity assessment, empowers those authorities to audit compliance, and sets fines of up to TRY 35 million or 7% of annual turnover for prohibited AI practices, TRY 15 million or 3% for breaches of obligations and TRY 7.5 million or 1.5% for false information.",
+  "notes": "Received by the TBMM Presidency on 24 June 2024 and referred on 25 June 2024 to the Industry, Trade, Energy, Natural Resources, Information and Technology Committee as lead committee and to the Justice Committee as secondary committee, where it remains. The bill would enter into force on publication. It does not define which systems are high-risk, name the supervisory authorities or list the prohibited practices its fines refer to. 'Distributor-user' renders dağıtıcı/kullanıcı, defined as a person who distributes AI systems commercially or uses them in their own activities. A later private member's bill on AI provisions in the Turkish Penal Code and other laws (2/3358) is TR-02.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "scope_note": "Private member's bill that has stayed in committee since June 2024 with no further action; included as an AI-specific bill before the Grand National Assembly.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the TBMM bill page (stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026) and the bill text PDF from cdn.tbmm.gov.tr (14 pages: cover letter with the referral stamp, general and article-by-article justification, and the eight articles). They confirm the title, number, term and legislative year, receipt date, committee referrals, sponsor and party, the status 'KOMİSYONDA' and the content of the summary. The description of the bill as the first AI bill submitted to the Turkish parliament rests on law-firm commentary and was taken out of the summary. No English translation was found in a web search; the summary renders the Turkish text."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Bilgileri, Teklifin Başlığı",
+    "quote": "Teklifin Başlığı Yapay Zeka Kanun Teklifi",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 12, bill text heading",
+    "quote": "YAPAY ZEKA KANUN TEKLİFİ MADDE 1 - Amaç ve Kapsam",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Bilgileri, Teklifin Başlığı",
+    "quote": "Teklifin Başlığı Yapay Zeka Kanun Teklifi",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi İmza Sahipleri",
+    "quote": "Ömer Faruk GERGERLİOĞLU HALKLARIN EŞİTLİK VE DEMOKRASİ PARTİSİ Kocaeli İlk İmza Sahibi",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 1, cover letter",
+    "quote": "TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞINA Yapay Zeka Kanun Teklifim gerekçesi ile birlikte ilişikte sunulmuştur.",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Bilgileri",
+    "quote": "Dönemi ve Yasama Yılı 28 / 2 Esas Numarası 2 / 2234",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 1, referral stamp",
+    "quote": "Tarih: 25-6-2024 Esas No:2/2234",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Bilgileri, Başkanlığa Geliş Tarihi",
+    "quote": "Başkanlığa Geliş Tarihi 24/06/2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Bilgileri, Son Durumu",
+    "quote": "Son Durumu KOMİSYONDA Teklifin Sonucu",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Komisyon Bilgileri",
+    "quote": "Esas Komisyon SANAYİ, TİCARET, ENERJİ, TABİİ KAYNAKLAR, BİLGİ VE TEKNOLOJİ KOMİSYONU 25/06/2024 Komisyonda Tali Komisyon ADALET KOMİSYONU 25/06/2024 Komisyonda",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/TR-01/2026-10-11/official.html",
+    "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+    "locator": "Kanun Teklifi Bilgileri, Son Durumu",
+    "quote": "Son Durumu KOMİSYONDA Teklifin Sonucu",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 14, Article 7",
+    "quote": "MADDE 7- Yürürlük Bu Kanun yayımı tarihinde yürürlüğe girer.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 13, Article 3",
+    "quote": "Yapay zeka sistemlerinin geliştirilmesi, kullammı ve dağıtımı sırasında aşağıdaki temel ilkelere uyulması zorunludur:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 13, Article 4",
+    "quote": "Yüksek risk içeren yapay zeka sistemleri, ilgili denetim makamlarına kayıt ettirilerek uygunluk değerlendirmesine tabi tutulmalıdır.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 14, Article 6",
+    "quote": "Yasaklanan yapay zeka uygulamaları için 35 milyon TL veya yıllık cironun %7'sine kadar para cezası.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 14, Article 6",
+    "quote": "Yanlış bilgi sağlanması durumunda 7.5 milyon TL veya yıllık cironun %1,5'ine kadar para cezası.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 12, Article 2",
+    "quote": "Dağıtıcı/Kullamcı: Yapay zeka sistemlerini ticari amaçlarla dağıtan veya kendi faaliyetlerinde kullanan gerçek veya tüzel kişileri ifade eder.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TR-01/2026-10-11/document-1.pdf",
+    "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+    "locator": "page 13, Article 4",
+    "quote": "Yapay zeka sistemlerinin geliştirilmesi ve kullanımı sırasında risk değerlendirmesi yapılmalı ve yüksek risk içeren sistemler için özel önlemler alınmalıdır.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the bill text: the claim that it was the first AI bill submitted to parliament rests on commentary and was dropped; 'Güvenlik' rendered as safety and the defined term dağıtıcı/kullanıcı rendered literally",
+   "notes": "rewritten: the gaps in the bill are now stated from its text rather than attributed to commentators; the entry-into-force clause and the rendering of dağıtıcı/kullanıcı added; the date of TR-02 dropped (not in this record's files)",
+   "english_version": "added as 'none found': the bill is in Turkish only and a web search found no English translation",
+   "scope_note": "added: a private member's bill in committee since June 2024 with no further action, as with BG-02 and RO-01",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The TBMM page, unchanged when rechecked on 18 Oct 2026, gives the latest state 'KOMİSYONDA' (in committee), no result, and both committee referrals of 25/06/2024 still 'Komisyonda' with no exit date. The bill belongs to the 28th legislative term; bills not taken up lapse only when the term ends, which has not happened. Draft / proposed, legal force Proposed.",
+  "scope_reasoning": "An AI-specific pending bill, in scope; but a private member's bill that has sat in committee since June 2024, which AGENTS.md section 10 flags as borderline (private members' bills with little chance of passing; compare BG-02 and RO-01). In, with a scope_note.",
+  "date_reasoning": "date_published is the date the bill reached the TBMM Presidency (Başkanlığa Geliş Tarihi 24/06/2024); the stamp of 25-6-2024 is the referral to committees.",
+  "topics_reasoning": "Unchanged and supported: risk-based classification (special measures, registration and conformity assessment for high-risk systems), accountability & liability (accountability principle, compliance duty, fines), prohibited practices (fines for prohibited AI practices), evaluation & testing (conformity assessment)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

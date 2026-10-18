@@ -1,0 +1,213 @@
+{
+ "cand_id": "KE-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KE-01",
+ "record": {
+  "summary": "Kenya's national AI strategy for 2025-2030, built on three pillars (digital infrastructure, data, and research and innovation) and four enablers, one of them governance. The governance goal plans a national AI and emerging technologies policy, local ethical and safety standards implemented through conformity assessment, safety audits and technical regulations, a national AI risk and safety institute, regulatory sandboxes and, as AI matures, an AI and Other Emerging Technologies Act. The ethics goal plans a mandatory ethical impact assessment for public-sector AI, accountable procurement guidelines and a complaints and redress mechanism.",
+  "safety_topics": [
+   "safety institute",
+   "evaluation & testing",
+   "public-sector use",
+   "accountability & liability",
+   "international cooperation"
+  ],
+  "notes": "Dated March 2025; the ministry announced that it would launch the strategy on 27 March 2025 at the Kenyatta International Convention Center. Developed by the National AI Working Group and Steering Committee with support from Germany's Federal Ministry of Economic Cooperation and Development, the EU-funded Digital Transformation Center Kenya implemented by GIZ, Canada's IDRC and the UK's Foreign, Commonwealth and Development Office. For each goal it sets objectives, flagship projects, outcomes and key performance indicators.",
+  "scope_note": "Mainly a strategy for AI infrastructure, data, research and innovation, skills and investment, with governance and ethics among its enablers; included as Kenya's national AI strategy, which plans AI risk and safety frameworks and a national AI risk and safety institute.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the ministry's news item of 25 March 2025 announcing the launch (ict.go.ke, 16 Oct 2026) and the OECD.AI-hosted PDF of the strategy (91 pages, 11 Oct 2026). The ministry page confirms the title, the ministry and the launch date of 27 March 2025, announced in advance; it does not link the strategy document, and the PDF the archiver took from its links is an unrelated notice of cybersecurity job opportunities. The OECD-hosted PDF confirms the title, the March 2025 date, the Cabinet Secretary's foreword and the content summarised. No copy of the strategy on a Kenyan government site is stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 1 (cover)",
+    "quote": "KENYA ARTIFICIAL INTELLIGENCE STRATEGY 2025-2030 March 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, first paragraph",
+    "quote": "The Ministry of Information, Communications and Digital Economy (MICDE) is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030 on Thursday 27th March, 2025 at the Kenyatta International Convention Center.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, first paragraph",
+    "quote": "The Ministry of Information, Communications and Digital Economy (MICDE) is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 10, Foreword (signature)",
+    "quote": "H.E. Hon. William Kabogo Gitau Cabinet Secretary Ministry of Information, Communications and the Digital Economy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, first paragraph",
+    "quote": "is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030 on Thursday 27th March, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 1 (cover)",
+    "quote": "KENYA ARTIFICIAL INTELLIGENCE STRATEGY 2025-2030 March 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, first paragraph",
+    "quote": "The Ministry of Information, Communications and Digital Economy (MICDE) is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030 on Thursday 27th March, 2025 at the Kenyatta International Convention Center.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 8, Executive Summary",
+    "quote": "The strategy proposes a phased approach to ensure effective implementation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 8, Executive Summary",
+    "quote": "The strategy is a call to action for stakeholders to collaborate in realising this vision",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 8, Executive Summary",
+    "quote": "The strategy is anchored by three key pillars and supported by four enablers.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 78, Table 5.5: Governance, objective 5.1",
+    "quote": "Develop a national AI and emerging technologies policy that aligns with the AI strategy",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 78, Table 5.5: Governance, objective 5.2",
+    "quote": "Implement AI ethical and safety standards through conformity assessment schemes/safety audits and technical specifications/regulations",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 78, Table 5.5: Governance, objective 5.2",
+    "quote": "Develop a national AI risk and safety institute",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 79, Table 5.5: Governance, objective 5.3",
+    "quote": "As AI matures in Kenya, develop an AI and Other Emerging Technologies Act and regulations",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 79, Table 5.5: Governance, objective 5.3",
+    "quote": "Develop a flexible regulatory environment using regulatory sandboxes",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 81, Table 5.8: Ethics, equity, and inclusion",
+    "quote": "Establish a mandatory ethical impact assessment process for AI technologies for public sector",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 81, Table 5.8: Ethics, equity, and inclusion",
+    "quote": "Update and develop guidelines for accountable public sector AI procurement and deployment",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 81, Table 5.8: Ethics, equity, and inclusion",
+    "quote": "Develop a complaints and redress mechanism for citizens to report AI-related concerns",
+    "source_kind": "alt-official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/KE-01/2026-10-11/secondary.pdf",
+    "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+    "locator": "page 79, Table 5.5: Governance, objective 5.4",
+    "quote": "Promote regional and international cooperation to share knowledge, align AI standards and collaborate on AI challenges",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, second paragraph",
+    "quote": "The strategy has been developed by the National AI working group and Steering Committee through extensive consultations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, last paragraph",
+    "quote": "The Strategy was developed in partnership with the German Federal Ministry of Economic Cooperation and Development; the European Union through the Digital Transformation Center Kenya, implemented by the German Corporation for International Cooperation(GIZ)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KE-01/2026-10-16/official.html",
+    "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+    "locator": "news item, last paragraph",
+    "quote": "Canada’s International Development Research Center(IDRC) and the UK’s Foreign Commonwealth and Development Office.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the strategy's text: the earlier summary was 265 characters and left out the planned national AI risk and safety institute, conformity assessment and safety audits, the AI and Other Emerging Technologies Act, sandboxes and the redress mechanism",
+   "safety_topics": "safety institute added (objective 5.2.3) and public-sector use (mandatory ethical impact assessment and procurement guidelines for the public sector); international cooperation added (objective 5.4.2); research priorities dropped, since the strategy's research pillar is about AI innovation and commercialisation, not safety research",
+   "notes": "rewritten: the launch date and developers from the ministry page; 'builds on the Data Protection Act' dropped, since the strategy only names that Act among Kenya's strengths",
+   "scope_note": "added: mainly a development strategy with governance and ethics among its enablers, the same case as NO-01, PT-01 and DE-02",
+   "verification.note": "rewritten for what this run stored; the ministry site is now stored, and the March 2025 date now rests on stored files"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "A non-binding strategy for 2025-2030, launched by the ministry in March 2025 (announced for 27 March 2025). Its implementation period runs to 2030 and nothing stored shows it replaced or withdrawn; the draft AI and Other Emerging Technologies Policy of July 2026 (KE-02, separate record) builds on it rather than replacing it. Published (non-binding, current).",
+  "scope_reasoning": "A national AI strategy with an AI risk and safety framework, a planned risk and safety institute and ethics measures; in scope, with a scope_note because its main focus is infrastructure, data, research and adoption.",
+  "date_reasoning": "The strategy's cover reads 'March 2025'. The ministry's news item of 25 March 2025 announces the launch for 27 March 2025, before the event; no stored source confirms that the launch took place on that day, so 2025-03 is kept and the day goes in the notes as the announced launch date.",
+  "topics_reasoning": "safety institute (5.2.3 national AI risk and safety institute); evaluation & testing (conformity assessment schemes and safety audits, 5.2.2); public-sector use (7.1.1 mandatory ethical impact assessment for the public sector, 7.1.2 procurement guidelines); accountability & liability (7.1.4 complaints and redress mechanism; transparency and accountability principle); international cooperation (5.4.2)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "No copy of the strategy on a Kenyan government site is among the stored files: the ministry's launch page does not link it, and the record rests on the copy hosted by OECD.AI."
+ ]
+}

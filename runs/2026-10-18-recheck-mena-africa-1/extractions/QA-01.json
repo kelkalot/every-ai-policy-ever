@@ -1,0 +1,177 @@
+{
+ "cand_id": "QA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "QA-01",
+ "record": {
+  "summary": "Voluntary, non-binding guidance from Qatar's Ministry of Communications and Information Technology for developers and deployers of AI systems that affect the public. It sets eight principles: do no harm; ensure robustness, security and safety; avoid perpetuating bias and discrimination; protect the environment; safeguard privacy; promote transparency; develop a human-centred approach; and assign ultimate accountability to humans. It calls for risk evaluations before deployment, robustness testing, continuous monitoring, discrimination impact assessments, bias audits, human intervention and appeal for consequential decisions, and external audits of systems that inform significant decisions.",
+  "notes": "Posted on the government e-participation portal Sharek on 16 May 2024 together with the companion 'Artificial Intelligence in Qatar—Principles and Guidelines for Ethical Use', which addresses users of AI systems such as private companies, government agencies, the public and students. Both documents are to be updated every one to two years. The guidelines are aligned with UNESCO and OECD standards and refer to the National Cyber Security Agency's 'Guidelines for Secure Adoption and Usage of Artificial Intelligence' for risk evaluation and security standards.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the Sharek forum post on sharek.gov.qa, captured on 11 Oct 2026 with the post text, its date and the titles of the two attached documents, and again on 18 Oct 2026, when the capture held only the page frame and a reader's response without the post text; and the development-and-deployment guidelines PDF (13 pages) from prod16-assets.sprinklr.com, a host pipeline/official-sites.json lists as proposed, so its quotes count as secondary. The 11 Oct capture confirms the title, the 16 May 2024 posting date, the companion document and the non-binding, voluntary nature; the PDF confirms MCIT's authorship, the eight principles and the guidelines. Sharek is a government portal, but no stored file shows that MCIT runs it, so its quotes are labelled alt-official. MCIT's own pages on mcit.gov.qa answered with a maintenance page or HTTP 500 in an earlier run; the AI Committee page, requested again in this run, answered HTTP 403 to the archiver, also in the browser, so it is not stored. Trackers give conflicting dates (2024 issue; 8 May 2025 'effective'), and a Qatar News Agency report of 25 May 2025 describes the documents as recently issued by MCIT; none of these is stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/QA-01/2026-10-11/official.html",
+    "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+    "locator": "Sharek forum post, attachments (11 Oct 2026 capture)",
+    "quote": "Artificial Intelligence in Qatar – Principles and Guidelines for Ethical Development and Deployment",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 1 (cover)",
+    "quote": "Artificial Intelligence in Qatar – Principles and Guidelines for Ethical Development and Deployment",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 3, Introduction",
+    "quote": "The Ministry of Communications and Information Technology is optimistic about the potential benefits of AI",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/QA-01/2026-10-11/official.html",
+    "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+    "locator": "Sharek forum post, header (11 Oct 2026 capture)",
+    "quote": "Posted by e-Participation • Thursday, May 16th, 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/QA-01/2026-10-11/official.html",
+    "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+    "locator": "Sharek forum post, body (11 Oct 2026 capture)",
+    "quote": "These documents will be updated every 1-2 years to keep pace with emerging technologies and ensure the ethical use of AI systems in Qatar.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/QA-01/2026-10-18/official.html",
+    "sha256": "ba5f2a692216bbff0f620dfaf55ac98ba0ef840be252a831458750151b6f0f91",
+    "locator": "Sharek forum page (18 Oct 2026 capture)",
+    "quote": "Forum - Communication and IT Artificial Intelligence in ... Responses",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/QA-01/2026-10-11/official.html",
+    "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+    "locator": "Sharek forum post, body (11 Oct 2026 capture)",
+    "quote": "The guidelines are legally non-binding, and adherence to it is voluntary.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 3, Scope of this document",
+    "quote": "It is legally non-binding, and adherence to it is voluntary.",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 3, Scope of this document",
+    "quote": "The guidance in this document is aimed at those developing and/or deploying AI systems1 that will affect the public.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 5, Principle 1",
+    "quote": "Before deploying any AI system, comprehensive evaluations should be conducted to identify its potential risks",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 7, Principle 3",
+    "quote": "Discrimination impact assessments are conducted to ensure the fairness of AI systems.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 12, Principle 8",
+    "quote": "AI systems that inform significant decisions should be subject to external audits",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 12, Principle 8",
+    "quote": "these systems should allow for human intervention and provide users with the ability to appeal or override decisions",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/QA-01/2026-10-11/official.html",
+    "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+    "locator": "Sharek forum post, body (11 Oct 2026 capture)",
+    "quote": "The attached documents provides guidance targeted at users of AI systems, including, but not limited to private companies, government agencies, the general public, and students.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/QA-01/2026-10-11/secondary.pdf",
+    "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+    "locator": "page 4",
+    "quote": "Additionally, the ‘Guidelines for Secure Adoption and Usage of Artificial Intelligence’ by the National Cyber Security Agency (NCSA) are referenced where applicable.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored PDF: the guidelines as the PDF states them (risk evaluations before deployment, discrimination impact assessments, bias audits, human intervention and appeal, external audits); the companion document and review cycle moved to notes",
+   "notes": "rewritten: Sharek posting and companion document from the 11 Oct capture, NCSA reference from the PDF; the 'six principles' of the companion document (not in a stored file) and the Qatar News Agency report moved out; the list of Qatari instruments not in the register moved to leads",
+   "verification.note": "rewritten for what this run stored, including the incomplete 18 Oct capture"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Posted on Sharek on 16 May 2024 as voluntary, non-binding guidance to be updated every one to two years; the Sharek page still exists on 18 Oct 2026 and nothing stored shows a replacement. A November 2024 edition of the companion ethical-use guidelines was reported on mcit.gov.qa in an earlier run but is not stored and concerns the companion document. Published (non-binding, current).",
+  "scope_reasoning": "Government AI ethics guidelines for developers and deployers with risk-assessment, testing and oversight content; in scope with no note.",
+  "date_reasoning": "The earliest stored official date is the Sharek posting, Thursday, 16 May 2024; the PDF is undated. The 2025 'effective' date of a tracker is unstored and conflicts; 2024-05-16 stays.",
+  "topics_reasoning": "Unchanged and supported: accountability & liability (Principle 8), evaluation & testing (verification and validation testing, risk evaluations, audits), transparency & labelling (Principle 6), human oversight (human intervention and override of significant decisions)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.mcit.gov.qa/en/Artificial-Intelligence-Committee",
+   "reason": "MCIT's own AI Committee page, which lists the development-and-deployment guidelines and the companion ethical-use guidelines as downloads; would give an issuer-hosted source for title, issuer and status (and possibly the date). Requested in this run: the archiver got HTTP 403, also in the browser, so it is not stored."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Artificial Intelligence in Qatar—Principles and Guidelines for Ethical Use (MCIT, companion guidance for users of AI systems; posted on Sharek 16 May 2024)",
+   "url": null,
+   "seen_in": "https://www.sharek.gov.qa/en/conversations/forum-communication-and-it/artificial-intelligence-in-qatarprinciples-and-guidelines-for-ethical-use/66459f29a539ca547cb4f702",
+   "why": "A separate MCIT guidance document for users of AI; mentioned only in QA-01's notes."
+  },
+  {
+   "title": "Guidelines for Secure Adoption and Usage of Artificial Intelligence (National Cyber Security Agency of Qatar)",
+   "url": null,
+   "seen_in": "https://prod16-assets.sprinklr.com/prod16-cdata/DAM/160136/33fb390b-d120-47f2-8708-532dcb1e15c3-1252740832/MCIT_National_AI_Strategy_-_AI.pdf",
+   "why": "AI-specific security guidance by a national agency, cited by QA-01 for AI risk evaluation and governance; not in the register."
+  }
+ ],
+ "open_questions": [
+  "The Sharek page captured on 18 Oct 2026 no longer shows the post text or the attachments (only the page frame and a reader's response); the fields rest on the 11 Oct 2026 capture. A browser capture would show whether the post and its documents are still published.",
+  "No issuer-hosted copy is stored: MCIT's AI Committee page (https://www.mcit.gov.qa/en/Artificial-Intelligence-Committee) answered HTTP 403 to the archiver, also in the browser. The issuer rests on the guidelines PDF from prod16-assets.sprinklr.com, a host still 'proposed' in pipeline/official-sites.json, so it counts as secondary; a person could provide MCIT's page or PDF (tools/archive.py --provide), or decide the Sprinklr host."
+ ]
+}

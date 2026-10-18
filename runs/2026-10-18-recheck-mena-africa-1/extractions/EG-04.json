@@ -1,0 +1,196 @@
+{
+ "cand_id": "EG-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "EG-04",
+ "record": {
+  "issuing_body": "National Council for Artificial Intelligence (NCAI)",
+  "summary": "Second edition of Egypt's national AI strategy for 2025-2030, issued by the National Council for AI and built on six pillars: governance, technology, data, ICT and AI infrastructure, ecosystem and talents. The governance pillar serves the objective 'Ensure Ethical and Responsible AI Use'. Its 'Egypt National AI Regulatory System' initiative plans a Center for Responsible AI, guidelines and standards for classifying AI system risks, detailed guidelines for the Egyptian Charter for Responsible AI, regulations for AI testing and deployment, an AI assurance framework, and an AI law with bylaws and a regulatory body to protect citizens against high-risk or prohibited AI.",
+  "notes": "The strategy opens with a statement by the President of the Republic launching the second edition, which builds on the first National AI Strategy launched in May 2021. A second governance initiative covers global and regional AI dialogues, including unified Arab AI standards. Most of the strategy concerns economic and capacity goals for 2030 across 21 initiatives, such as an ICT contribution of 7.7% to GDP, 30,000 AI professionals and more than 250 successful AI companies.",
+  "scope_note": "Mainly an AI adoption and economic development strategy; included for its governance pillar, which commits to an AI regulatory system, an AI law and rules for safe AI testing and deployment.",
+  "safety_topics": [
+   "evaluation & testing",
+   "risk-based classification",
+   "international cooperation",
+   "accountability & liability"
+  ],
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF (52 pages) from ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. It confirms the title, edition and period, the NCAI as issuer, the President's launch statement, the six pillars and the governance initiatives. It gives no day or month of release: the published month, January 2025, rests on the PDF's file name ('16-1-2025'), the server's last-modified date of 16 January 2025, MCIT's publication page (not stored: mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal) and trackers (Digital Policy Alert gives 22 January 2025). The stored strategy names MCIT only for the first edition, so issuing_body now names the NCAI alone."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 1 (cover)",
+    "quote": "Egypt National Artificial Intelligence Strategy Second Edition (2025-2030)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 5, 2. Executive Summary",
+    "quote": "The main objective of the National Council for Artificial Intelligence (NCAI) is to, prepare, formalize, approve and govern the implementation of Egypt’s National AI Strategy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 4, running header",
+    "quote": "NCAI - Egypt National Artificial Intelligence Strategy 2025-2030 – 2nd Edition",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 2, Statement from the President of the Republic",
+    "quote": "I am proud to launch the Second Edition of the National Artificial Intelligence Strategy 2025-2030.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 1 (cover)",
+    "quote": "Egypt National Artificial Intelligence Strategy Second Edition (2025-2030)",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 2, Statement from the President of the Republic",
+    "quote": "I am proud to launch the Second Edition of the National Artificial Intelligence Strategy 2025-2030.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 5, 2. Executive Summary",
+    "quote": "To this end, Egypt is adopting its second edition of the National AI Strategy, which aims to realize the following vision",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 14, 5.3 Strategic Pillars",
+    "quote": "Governance, ICT and AI Infrastructure, Technology, Data, Talents, and Ecosystem.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 15, 6.1 Governance Pillar",
+    "quote": "The Governance pillar responds to the strategic objective “Ensure Ethical and Responsible AI Use.”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 25, 7.3.1.1 Initiative 1",
+    "quote": "G-I1-A1 Center for Responsible AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 25, Initiative 1 table",
+    "quote": "Develop guidelines and standards for classifying AI system risks",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 15, 6.1 Governance Pillar",
+    "quote": "regulations for AI testing and deployment, ensuring the highest standards of safety and ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 25, Initiative 1 table",
+    "quote": "protecting all citizens against high-risk or prohibited AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 25, Initiative 1 table",
+    "quote": "Establish the regulatory structure to support the implementation of the regulatory framework",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 2, Statement from the President of the Republic",
+    "quote": "This edition builds upon the foundation laid by the launch of the first National AI Strategy in May 2021",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 15, 6.1 Governance Pillar",
+    "quote": "Unified Arab AI Standards: Cooperation among Arabic nations will culminate in a unified set of AI standards",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 5, 2. Executive Summary",
+    "quote": "By 2030, the ICT sector can contribute to Egypt’s GDP by 7.7%",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 5, 2. Executive Summary",
+    "quote": "The number of AI professionals/experts is expected to reach 30,000 by 2030.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-04/2026-10-11/official.pdf",
+    "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+    "locator": "page 5, 2. Executive Summary",
+    "quote": "Enable and support the establishment of 250+ successful AI companies in Egypt.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the stored second edition names the NCAI as the body that prepares and approves the strategy; MCIT appears only in the account of the first edition",
+   "summary": "rewritten from the strategy: the governance pillar's actions as the strategy names them (Center for Responsible AI, risk-classification guidelines and standards, charter guidelines, testing and deployment regulations, assurance framework, AI law); the claim that the 2026 framework implements the pillar dropped from the summary (it is in EG-02, not in this text)",
+   "notes": "rewritten: the President's launch statement, the dialogues initiative and the economic goals as the strategy states them (250+ AI companies, 30,000 AI professionals); the scope remark moved to scope_note; the file-name date moved to verification.note",
+   "scope_note": "added: mainly an adoption and economic strategy with a governance pillar; the general rule on strategies whose main content is not safety",
+   "safety_topics": "risk-based classification added (guidelines and standards for classifying AI system risks; protection against high-risk or prohibited AI)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Launched by the President as the strategy for 2025-2030; the period runs to 2030 and nothing stored shows a newer edition. Published (non-binding, current).",
+  "scope_reasoning": "A national AI strategy whose main content is economic and capacity building; its governance pillar commits to an AI regulatory system and an AI law. In with a scope_note under the rule for strategies with some safety content but a different main focus.",
+  "date_reasoning": "The stored strategy dates itself only by its period (2025-2030) and the President's launch statement, with no day or month, so it confirms only the year of the published 2025-01. The month rests on the official file name (16-1-2025), the server date (16 January 2025) and MCIT's publication page, which the archiver may not fetch because mcit.gov.eg's robots.txt answers HTTP 500; a robots.txt refusal does not remove content from the register, so 2025-01 is kept, with the year-level quotes as evidence and an open question.",
+  "topics_reasoning": "evaluation & testing (regulations for AI testing and deployment, AI assurance framework), risk-based classification (guidelines and standards for classifying AI system risks; AI law against high-risk or prohibited AI), international cooperation (global and regional AI dialogues, unified Arab AI standards), accountability & liability (charter on responsibility attribution; oversight of AI decision-making in the AI law)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published is kept at the published 2025-01, but the stored strategy confirms only the year (Second Edition 2025-2030, launched by the President). The month rests on MCIT's publication page for the strategy, which the archiver may not fetch because mcit.gov.eg's robots.txt answers HTTP 500, and on the official PDF's file name (16-1-2025). A person could download MCIT's page and provide it (tools/archive.py --provide or the Provide a document form) so that the month rests on a stored official source."
+ ]
+}

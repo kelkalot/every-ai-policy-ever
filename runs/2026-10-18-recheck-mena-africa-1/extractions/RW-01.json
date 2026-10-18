@@ -1,0 +1,185 @@
+{
+ "cand_id": "RW-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "RW-01",
+ "record": {
+  "safety_topics": [
+   "public-sector use",
+   "accountability & liability",
+   "evaluation & testing",
+   "international cooperation"
+  ],
+  "notes": "The document's footer reads 'MINICT - 2022'. MINICT lists it among the policies approved by the Cabinet, with the date 27 April 2023; the day of Cabinet approval is not given. Developed by MINICT and RURA with support from GIZ FAIR Forward, the Centre for the Fourth Industrial Revolution Rwanda (C4IR) and The Future Society. It is accompanied by tailored Guidelines on the Ethical Development and Implementation of AI, published by MINICT and RURA, and recommends a Responsible AI Office within MINICT in the policy's first year to lead implementation. Its implementation plan runs from FY 2023/24 to FY 2027/28.",
+  "scope_note": "Mainly a policy for AI skills, infrastructure, data and adoption in the public and private sectors, with practical AI ethics guidelines as its one safeguard area; included as Rwanda's national AI policy.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the policy PDF and MINICT's publications page for policies, both from minict.gov.rw (11 Oct 2026). The PDF confirms the title, its development by MINICT and RURA and the content summarised; it carries no date other than the footer 'MINICT - 2022' and the implementation years FY 23/24 to FY 27/28. The publications page lists the 'Artificial Intelligence Policy' among the policies approved by the Cabinet with the date Apr 27, 2023, which is the basis of the April 2023 date; it does not give the date of Cabinet approval. That page was stored as the record's secondary source, so the date rests on another official source rather than on the policy itself."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 4, Executive Summary",
+    "quote": "The National Artificial Intelligence Policy for the Republic of Rwanda serves as a roadmap to enable Rwanda to harness the benefits of AI and mitigate its risks.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 4, Executive Summary",
+    "quote": "The National AI Policy has been developed by MINICT and RURA, with support by GIZ FAIR Forward, the Centre for the 4th Industrial Revolution Rwanda (C4IR) and The Future Society (TFS).",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/RW-01/2026-10-11/secondary.html",
+    "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+    "locator": "MINICT publications, Policies list",
+    "quote": "Artificial Intelligence Policy 5 MB Apr 27, 2023",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/RW-01/2026-10-11/secondary.html",
+    "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+    "locator": "MINICT publications, Policies, introduction",
+    "quote": "This section presents a list of policies approved by the Cabinet.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 9, Highlights",
+    "quote": "The National AI Policy includes the recommendation to establish a Responsible AI Office (RAI Office) during the first year of this policy, housed within MINICT.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 21, Implementation Plan Summary (timeline header)",
+    "quote": "FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 4, Executive Summary",
+    "quote": "serves as a roadmap to enable Rwanda to harness the benefits of AI and mitigate its risks",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 21, Priority Area 6, activity 70",
+    "quote": "Initiate regulatory sandbox projects on Al to provide controlled testing environment to develop or evaluate innovative Al solutions in line with the guidelines",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 8, Operationalize and share Rwanda's AI ethical guidelines",
+    "quote": "Launch an annual participatory consultation forum to update the guidelines and create a network of AI Ethics Officers across government institutions to champion them.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 21, Priority Area 6, activity 69",
+    "quote": "Add \"Al Ethics\" functions to the mandates/responsibilities of",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 18, Priority Area 4, activity 51",
+    "quote": "Develop procurement guidelines of Al solutions in the public sector",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 8, Actively contribute to shaping responsible AI principles & practices in international platforms",
+    "quote": "Join platforms shaping the responsible adoption of AI regionally and globally",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 23 (back cover)",
+    "quote": "MINICT - 2022",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/secondary.html",
+    "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+    "locator": "MINICT publications, Policies list",
+    "quote": "Artificial Intelligence Policy 5 MB Apr 27, 2023",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 9, Highlights",
+    "quote": "Tailored Guidelines on the Ethical Development and Implementation of Artificial Intelligence, published by Ministry of ICT and Innovation and RURA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 9, Highlights",
+    "quote": "Proposal to establish a Responsible AI Office within MINICT to lead",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "safety_topics": "human oversight dropped: the policy does not mention human oversight; evaluation & testing added for its regulatory sandbox projects to develop or evaluate AI solutions in line with the ethics guidelines; public-sector use, accountability & liability (AI ethics functions and officers across government, the Responsible AI Office) and international cooperation kept",
+   "notes": "rewritten: Cabinet approval now rests on MINICT's list of policies approved by the Cabinet; 'fetched pages' and the inference about the adoption month removed; the ethics guidelines, the Responsible AI Office and the implementation years added",
+   "scope_note": "added: mainly a policy for skills, infrastructure, data and adoption with ethics as its one safeguard area, the same case as other national AI strategies given a scope_note in recent rechecks",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "MINICT lists the policy among those approved by the Cabinet; its implementation plan runs from FY 2023/24 to FY 2027/28, so it is within its implementation period on 18 Oct 2026, and nothing stored shows it replaced or withdrawn. Published (non-binding, current).",
+  "scope_reasoning": "A national AI policy with a safeguard area on practical AI ethics, regulator capacity building and responsible public-sector adoption; in scope, with a scope_note because its main focus is skills, infrastructure, data and adoption.",
+  "date_reasoning": "The policy carries no publication date (footer 'MINICT - 2022'); MINICT's list of Cabinet-approved policies gives Apr 27, 2023 for the file. That date is a listing date rather than a stated adoption date, so the month is kept: 2023-04, as published.",
+  "topics_reasoning": "public-sector use (priority area 4, procurement guidelines for AI in the public sector); accountability & liability (AI Ethics Officers and AI ethics functions in government institutions, Responsible AI Office); evaluation & testing (regulatory sandbox projects to evaluate AI solutions against the guidelines); international cooperation (joining international platforms on AI governance)."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Guidelines on the Ethical Development and Implementation of Artificial Intelligence (RURA and MINICT, Rwanda)",
+   "url": null,
+   "seen_in": "archive/RW-01/2026-10-11/official.pdf (page 9)",
+   "why": "AI ethics guidelines of a government regulator and ministry, published with the national AI policy; in scope as government guidelines. Not in the register."
+  },
+  {
+   "title": "AI Readiness and Maturity Framework for Rwanda (MINICT, listed 21 Nov 2023)",
+   "url": null,
+   "seen_in": "https://www.minict.gov.rw/publications",
+   "why": "Listed among MINICT's Cabinet-approved policies; scope depends on whether it carries risk-governance content. Not in the register."
+  },
+  {
+   "title": "AI Playbook for Small States (listed by MINICT, 9 Sep 2025)",
+   "url": null,
+   "seen_in": "https://www.minict.gov.rw/publications",
+   "why": "Listed among MINICT's policies; possibly a government-published AI governance guide. Not in the register; scope to be checked."
+  }
+ ],
+ "open_questions": [
+  "The date of the Cabinet decision that approved the policy is not in the stored files; the April 2023 date rests on MINICT's listing date for the file."
+ ]
+}

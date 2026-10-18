@@ -1,0 +1,50 @@
+{
+ "cand_id": "NG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "running footer reads DRAFT NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY 2024"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover: DRAFT AUGUST, 2024"
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "the draft marking supports Proposed"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "Superseded and date_last_updated 2025-09 are not shown by NG-01 own file; they follow from the final strategy of September 2025 stored for NG-02. Defensible, left unchanged by the run."
+  },
+  "date_last_updated": {
+   "verdict": "judgment-differs",
+   "why": "rests on the NG-02 PDF (cover SEPTEMBER, 2025); the run does not change it"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "five strategic pillars including responsible and ethical AI and an AI governance framework",
+   "verdict": "supported",
+   "locator": "page 27, 1.4.1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Draft national strategy; governance and responsible AI are two of five pillars. Scope note is fitting."
+ },
+ "overall": "accept",
+ "note": "Mechanical evidence is clean; the run changes only legal_force to Proposed (draft marking) and adds the scope note. The superseded status and 2025-09 date rest on NG-02 stored file and are not changed here; the extractor has already raised that as an open question. Search for a newer version found no revision after the September 2025 strategy."
+}

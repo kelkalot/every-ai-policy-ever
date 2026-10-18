@@ -1,0 +1,127 @@
+{
+ "run_id": "2026-10-18-recheck-mena-africa-1",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.0,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "original_title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "issuing_body": {
+   "compared": 2,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "official_identifier": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_published": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_in_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  }
+ },
+ "disagreements": {
+  "EG-01": [
+   {
+    "field": "issuing_body",
+    "first": "National Council for Artificial Intelligence (NCAI)",
+    "blind": null
+   },
+   {
+    "field": "date_published",
+    "first": null,
+    "blind": "2023"
+   }
+  ],
+  "ET-01": [
+   {
+    "field": "issuing_body",
+    "first": "Council of Ministers of the Federal Democratic Republic of Ethiopia; prepared under the leadership of the Ethiopian Artificial Intelligence Institute",
+    "blind": null
+   }
+  ],
+  "RW-01": [
+   {
+    "field": "safety_topics",
+    "first": [
+     "public-sector use",
+     "accountability & liability",
+     "evaluation & testing",
+     "international cooperation"
+    ],
+    "blind": null
+   }
+  ],
+  "SA-03": [
+   {
+    "field": "official_identifier",
+    "first": "SDAIA-P119",
+    "blind": null
+   }
+  ],
+  "ZM-01": []
+ },
+ "resulting_record_agreement": 0.942,
+ "resulting_record_fields": 52
+}

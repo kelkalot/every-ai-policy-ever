@@ -1,0 +1,72 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 1",
+    "quote": "The National AI Policy",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 4",
+    "quote": "The National AI Policy has been developed by MINICT and RURA",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/RW-01/2026-10-11/secondary.html",
+    "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+    "locator": "page text",
+    "quote": "This section presents a list of policies approved by the Cabinet.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/RW-01/2026-10-11/secondary.html",
+    "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+    "locator": "page text",
+    "quote": "This section presents a list of policies approved by the Cabinet.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/RW-01/2026-10-11/official.pdf",
+    "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+    "locator": "page 4",
+    "quote": "serves as a roadmap to enable Rwanda to harness the beneﬁts of AI and mitigate its risks",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The ministry lists the AI Policy among policies approved by the Cabinet; nothing later in the stored text.",
+  "scope_reasoning": "Borderline national AI policy with a dedicated ethics/safeguard priority; in scope as recorded."
+ },
+ "open_questions": [
+  "The publications page gives only a 'Modified Apr 27, 2023' date for the file and the PDF footer reads 'MINICT - 2022'; the exact adoption date is not stated, so 2023-04 is kept as the best-supported month."
+ ],
+ "cand_id": "RW-01",
+ "decision": "update",
+ "target_id": "RW-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

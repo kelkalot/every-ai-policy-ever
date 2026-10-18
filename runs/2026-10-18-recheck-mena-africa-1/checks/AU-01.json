@@ -1,0 +1,63 @@
+{
+ "cand_id": "AU-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "adoption by the Executive Council at its 45th Ordinary Session, 18-19 July 2024, is quoted from the strategy and the AU page"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover shows July 2024; the AU page is dated 9 Aug 2024, which the notes give separately"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "non-binding: the text urges member states to domesticate it"
+  },
+  "language": {
+   "verdict": "supported",
+   "why": "AU page links English, French, Arabic and Portuguese texts; Arabic and Portuguese are not stored"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported",
+   "why": "five vs six focus areas discrepancy is real (page 6 vs page 32)"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "regional independent AI Ethics Board reviews novel large-scale AI systems",
+   "verdict": "supported",
+   "locator": "page 38"
+  },
+  {
+   "claim": "centre of excellence on AI safety and security and annual conference",
+   "verdict": "supported",
+   "locator": "page 57"
+  },
+  {
+   "claim": "algorithmic/AI transparency registers and red-teaming",
+   "verdict": "supported",
+   "locator": "page 38"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Development strategy with a risk-minimisation focus area; the extractor scope_note is appropriate."
+ },
+ "overall": "accept",
+ "note": "Strategy text, hashes and quotes check out. Search for an amended or newer strategy found only unverified aggregator reports (af.net) of a 2026 update and nothing on au.int; the OECD.AI entry (May 2026) shows no amendment. Nothing to propose for a human."
+}

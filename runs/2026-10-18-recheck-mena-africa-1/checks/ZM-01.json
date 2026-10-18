@@ -1,0 +1,60 @@
+{
+ "cand_id": "ZM-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "cover says 2024-2026 although the running header says 2025-2027; the notes record this"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "ministry release dated 21-11-24 reports the launch that day"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "extend ZICTA mandate to AI regulation and ethical compliance",
+   "verdict": "supported",
+   "locator": "page 25, 4.5"
+  },
+  {
+   "claim": "National AI Council and sector-specific Technical Working Groups",
+   "verdict": "supported",
+   "locator": "page 11, Executive Summary"
+  },
+  {
+   "claim": "national AI ethics guidelines to be formulated",
+   "verdict": "supported",
+   "locator": "page 25, 4.5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Skills, infrastructure and adoption strategy with governance measures."
+ },
+ "overall": "accept",
+ "note": "Quotes match; the strategy PDF is a mots.gov.zm file, but the date rests on the ministry release, stored as secondary, so level B. Search: a mid-2026 report says a new national AI strategy is nearing completion, with no published text, so nothing to store; the 2024-2026 horizon means a successor is plausible, and a later run should look again."
+}

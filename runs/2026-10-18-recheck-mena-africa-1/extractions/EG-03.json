@@ -1,0 +1,163 @@
+{
+ "cand_id": "EG-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "EG-03",
+ "record": {
+  "summary": "Guidelines for the safe, responsible and trustworthy development, deployment and use of generative AI across Egypt's public and private sectors, academia and society, developed under MCIT and approved by the National Council. They address misinformation and deepfakes, hallucinations, bias, privacy, intellectual property and accountability, and expect human validation of outputs, disclosure of AI-generated content by labels or provenance mechanisms such as metadata and watermarking, consent for use of a person's likeness or voice, limits on deepfakes in elections and news, and, for agentic AI, human approval of irreversible or high-risk actions and emergency pause, override and shutdown.",
+  "notes": "Version 1.0, dated March 2026. Besides general guidelines for trustworthy use, it has sections on agentic AI, on deepfakes and lip-sync, which it describes, following international practice, as a high-risk enabling capability, on generative AI in education and scientific research, and on disclosure of generative AI use, with disclosure templates. The guidelines state that they were drafted with the help of generative AI tools and that human authors reviewed and verified all AI-generated text. The Guide to Egypt's National AI Governance Framework (EG-02) lists generative AI guidelines for government and individuals in its Phase 1 agenda.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the guidelines PDF (52 pages) from ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. It confirms the title, version 1.0, March 2026, development under MCIT with ECRAI, the National Council's approval and the content of the summary. It gives no day; Digital Policy Alert gives 14 March 2026 as the release date, and MCIT's AI page, which lists the guidelines, cannot be stored (mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 1 (cover)",
+    "quote": "EGYPT’S NATIONAL GENERATIVE AI GUIDELINES",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 2",
+    "quote": "This document was developed under the leadership of the Ministry of Communications and Information Technology, with key contributions from the Egyptian Center for Responsible AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 2",
+    "quote": "Following consultations and review, the document was approved by the National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 1 (cover)",
+    "quote": "Egyptian Center for Responsible AI March 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 2",
+    "quote": "Version: 1.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 2",
+    "quote": "Following consultations and review, the document was approved by the National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 4, Executive Summary",
+    "quote": "Rather than imposing rigid, technology-specific rules, the framework supports adaptive policy and oversight mechanisms that can evolve alongside rapid technological change.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 4, Executive Summary",
+    "quote": "Egypt’s National Generative AI Guidelines establish a comprehensive, principles-based framework",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 4, Executive Summary",
+    "quote": "including misinformation and deepfakes, hallucinations and inaccurate outputs, bias and discrimination, privacy and data protection risks, intellectual property concerns, unclear accountability",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 38, 2.8 Deepfake Guidelines",
+    "quote": "Disclosure should be provided through visible labels, notices, or technical provenance mechanisms such as metadata or watermarking.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 38, 2.8 Deepfake Guidelines",
+    "quote": "The non-consensual use of a person’s likeness, voice, or facial movements",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 38, 2.8 Deepfake Guidelines",
+    "quote": "political communication and elections",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 35, 2.7 Agentic AI Guidelines",
+    "quote": "Require human approval for irreversible, high-risk, or externally visible actions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 36, 2.7 Agentic AI Guidelines",
+    "quote": "Include emergency pause, override, and shutdown mechanisms.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 14 (deepfake definition)",
+    "quote": "treats lip-sync as a high-risk enabling capability within generative AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/EG-03/2026-10-11/official.pdf",
+    "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+    "locator": "page 2, Disclosure",
+    "quote": "All AI-generated text was reviewed, edited, and verified by human authors",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the guidelines: 'as part of the 2026 governance framework' is not in the stored text and was dropped; consent, election and news restrictions and the agentic-AI safeguards added; the drafting-disclosure remark moved to notes",
+   "notes": "rewritten from the stored PDF; the tracker's release date and the MCIT listing moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Version 1.0 of March 2026, approved by the National Council; principles-based guidance with no stored sign of a newer version. Published (non-binding, current).",
+  "scope_reasoning": "National government guidelines on generative AI risks (deepfakes, hallucinations, agentic AI safeguards); in scope with no note.",
+  "date_reasoning": "The cover and front matter give March 2026 and no day; 2026-03 stays. The tracker's 14 March 2026 is in verification.note.",
+  "topics_reasoning": "Unchanged and supported: general-purpose / frontier AI (generative and foundation models, agentic AI), deepfakes & synthetic media (deepfake and lip-sync section), transparency & labelling (disclosure, labels, metadata, watermarking), human oversight (human approval and final decision authority), incident reporting (procedures for incident reporting; rapid reporting of harmful content)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

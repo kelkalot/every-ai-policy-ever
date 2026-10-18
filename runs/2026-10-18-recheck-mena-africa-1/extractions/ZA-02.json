@@ -1,0 +1,158 @@
+{
+ "cand_id": "ZA-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ZA-02",
+ "record": {
+  "notes": "Cover dated October 2024; comments were invited until 29 November 2024. It describes itself as a step towards a National AI Policy that would be the basis for AI regulations and potentially an AI Act. The Draft South Africa National AI Policy gazetted on 10 April 2026 (ZA-01), which calls this document the framework of August 2024, was based on it and on the 32 submissions received on it; that draft was later withdrawn.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the OECD.AI policy-initiative page (12 and 18 Oct 2026; only the site menu differs between the two copies) and the OECD-hosted PDF of the framework (12 Oct 2026, 20 pages). The PDF confirms the title, the department, the October 2024 date, the comment deadline of 29 November 2024 and the twelve pillars; the OECD.AI page confirms publication in October 2024 by the department. No copy on a South African government site is stored, so the record rests on another official body's copy. The earlier notes cited law-firm and press accounts of an August 2024 circulation and of release dates in October 2024; these are not stored and are no longer cited, and the gazetted draft policy of April 2026 (ZA-01, stored for that record) itself calls this the framework of August 2024. A department statement that a revised draft would go to Cabinet by November 2026, also in the earlier notes, is not among the stored files and is no longer cited. Nothing stored shows the framework withdrawn."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 3",
+    "quote": "South Africa National Artificial Intelligence Policy Framework (Towards the Development of South Africa National Artificial Intelligence Policy)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-18/official.html",
+    "sha256": "e660a5861faae6a17e266e7c685b8d0f79ff04398e4dc8aca934ca523cd776aa",
+    "locator": "OECD.AI policy-initiative page, description",
+    "quote": "The South Africa National Artificial Intelligence Policy Framework, published in October 2024 by the Department of Communications and Digital Technologies",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 1 (cover)",
+    "quote": "Department: Communications & Digital Technologies REPUBLIC OF SOUTH AFRICA",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-18/official.html",
+    "sha256": "e660a5861faae6a17e266e7c685b8d0f79ff04398e4dc8aca934ca523cd776aa",
+    "locator": "OECD.AI policy-initiative page, Name of responsible organisation",
+    "quote": "Department of Communications and Digital Technologies (DCDT), Republic of South Africa",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 1 (cover)",
+    "quote": "Policy Framework October 2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-18/official.html",
+    "sha256": "e660a5861faae6a17e266e7c685b8d0f79ff04398e4dc8aca934ca523cd776aa",
+    "locator": "OECD.AI policy-initiative page, description",
+    "quote": "published in October 2024 by the Department of Communications and Digital Technologies",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/ZA-02/2026-10-18/official.html",
+    "sha256": "e660a5861faae6a17e266e7c685b8d0f79ff04398e4dc8aca934ca523cd776aa",
+    "locator": "OECD.AI policy-initiative page, description",
+    "quote": "is a first step towards developing a full National AI Policy.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 3",
+    "quote": "Send comments and inputs to: (DSondlo@dcdt.gov.za and MMashologu@dcdt.gov.za) by 17h00 on Friday, 29 November 2024.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 8, 4. Rationale for Developing a National AI Policy",
+    "quote": "The National AI Policy will serve as the foundational basis for creating AI regulations and potentially an AI Act in South Africa.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 15, 6.7 Safety and Security",
+    "quote": "Implement robust cybersecurity protocols to safeguard AI systems.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 15, 6.7 Safety and Security",
+    "quote": "Risk Management: Develop frameworks to identify and mitigate risks associated with AI.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 16, 6.10 Human Control of Technology",
+    "quote": "Ensure critical AI decisions involve human oversight (especially in Generative AI).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 16, 6.11 Professional Responsibility",
+    "quote": "Create the code of conduct for AI professionals.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+    "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+    "locator": "page 3",
+    "quote": "by 17h00 on Friday, 29 November 2024.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 2, Explanatory Note (stored file of record ZA-01, General Notice 3880 of 2026)",
+    "quote": "The Draft National AI Policy is based on the South Africa National Artificial Intelligence Policy Framework of August 2024, the 32 submissions received on this Framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/secondary.html",
+    "sha256": "0d08bdaf87efb04e88f12497cf433f015f2bf8b88dc490ba96948bfa8c9b10fe",
+    "locator": "gov.za notice page, title (stored file of record ZA-01)",
+    "quote": "Withdrawal of draft South Africa National Artificial Intelligence (AI) Policy",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten: the August 2024 dating now rests on the gazetted draft policy (ZA-01) instead of law-firm and press accounts, which are not stored; the department's statement on a revised draft (not in a stored file) and the remark that the framework was not withdrawn (an absence) are dropped from the notes; the framework's own aim of AI regulations and possibly an AI Act added",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "A discussion framework published by the department for comment until 29 November 2024, as a step towards a National AI Policy. The draft policy built on it (ZA-01) was gazetted in April 2026 and then withdrawn, so nothing has replaced the framework, and nothing stored shows the framework itself withdrawn. OECD.AI's 'Proposed or under development' describes the policy process, not this published document. Published (non-binding, current), legal force Non-binding, as before.",
+  "scope_reasoning": "A national AI policy framework whose pillars include ethical AI guidelines, safety and security with AI risk management, transparency and explainability, fairness, human control of critical AI decisions and a code of conduct; its governance content is its main content, so no scope_note.",
+  "date_reasoning": "The cover reads 'October 2024' and OECD.AI says 'published in October 2024'; the gazetted draft policy of April 2026 calls it the framework of August 2024. The document's own date is kept (2024-10) and the August 2024 dating goes in the notes.",
+  "topics_reasoning": "Unchanged and supported: human oversight (6.10 human-in-the-loop for critical AI decisions), transparency & labelling (6.8 transparency and explainability), accountability & liability (6.8 accountability through explainability, 6.11 code of conduct), public-sector use (6.4 guidelines for AI in government operations). The summary is unchanged; its pillar claims are quoted above."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "No copy of the framework on a South African government site is among the stored files; the record rests on the OECD-hosted copy.",
+  "Whether the department has published or announced a revised draft national AI policy after the withdrawal of ZA-01 in June 2026 is not shown by any stored file."
+ ]
+}

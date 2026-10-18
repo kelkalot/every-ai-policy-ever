@@ -1,0 +1,57 @@
+{
+ "cand_id": "MU-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "the guidelines PDF carries no date; 2026-04-09 is the launch day taken from the ministry release dated 10 April saying launched yesterday. Defensible as the publication date."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "the text says it creates no legal obligations"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "apply across all sectors and the whole AI lifecycle, including externally sourced systems",
+   "verdict": "supported",
+   "locator": "page 4, Scope of Application"
+  },
+  {
+   "claim": "do not apply to military, defence, national security or counter-terrorism AI",
+   "verdict": "supported",
+   "locator": "page 8, Scope Exclusion"
+  },
+  {
+   "claim": "guidelines will evolve into AI regulations",
+   "verdict": "supported",
+   "locator": "Cabinet highlights, 13 Feb 2026, item 6"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Government AI guidelines with a risk-based governance model."
+ },
+ "overall": "accept",
+ "note": "Quotes match. The pmo.govmu.org host is not on the official list, so those quotes count as secondary; they only support the notes. Level is computed by script. Search found no later revision; press frames the approach as ethics first, law later, consistent with the record."
+}

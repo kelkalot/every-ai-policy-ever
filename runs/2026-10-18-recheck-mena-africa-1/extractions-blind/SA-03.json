@@ -1,0 +1,82 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 4",
+    "quote": "Deepfakes Guidelines: Mitigating risks while fostering innovation",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SA-03/2026-10-11/secondary.html",
+    "sha256": "a2b9727c45c6b2f61d599c2f6f01e80c70419e74bf7de3dec21a5fbd098febee",
+    "locator": "page text",
+    "quote": "Saudi Data & AI Authority's Laws and Regulations",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 56",
+    "quote": "Document Number | SDAIA-P119",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 56",
+    "quote": "May 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 54",
+    "quote": "Risks and challenges associated with deepfake technology will be continuously assessed",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 4",
+    "quote": "This document provides comprehensive guidelines to address the implications of deepfake technologies",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Version 2, May 2025, still listed on SDAIA's page; no replacement in the stored text.",
+  "scope_reasoning": "Clearly in scope: regulator guidelines on deepfakes."
+ },
+ "open_questions": [
+  "The PDF text itself never names SDAIA as issuer; the issuer rests on the SDAIA page that lists it and the SDAIA-P119 number."
+ ],
+ "cand_id": "SA-03",
+ "decision": "update",
+ "target_id": "SA-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

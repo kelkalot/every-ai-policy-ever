@@ -1,0 +1,2943 @@
+{
+ "provenance": {
+  "date": "2026-10-18",
+  "agent": "Claude Code",
+  "model": "claude-opus-5-5",
+  "scope": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck: ids:AU-01,IL-01,KE-01,NG-01,NG-02,RW-01,ZA-01,AE-01,AE-02,SA-01,SA-02,SA-03,SA-04,EG-01,EG-02,EG-03,EG-04,TR-01,QA-01,JO-01,GH-01,MU-01,ET-01,ZM-01,BH-01,SN-01,BJ-01,ZA-02,KE-02)",
+  "run_id": "2026-10-18-recheck-mena-africa-1",
+  "stages": {
+   "collect": {
+    "tool": null,
+    "model": null,
+    "date": null
+   },
+   "extract": {
+    "tool": "Claude Code",
+    "model": "claude-opus-5-5",
+    "date": "2026-10-18",
+    "tokens": 1450417
+   },
+   "blind": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 84167
+   },
+   "check": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 331075
+   }
+  }
+ },
+ "records": [],
+ "updates": [
+  {
+   "language": "Arabic, English, French, Portuguese",
+   "summary": "A development-focused continental AI strategy with a focus area on minimising AI risks. It names bias and discrimination, disinformation and manipulation of political systems, surveillance, deepfakes, cyber threats and military uses, and calls for technical standards on the safety and security of AI systems. It recommends agile, risk-based regulation, AI governance bodies and independent oversight institutions in member states, a regional AI Ethics Board to review novel large-scale AI systems, impact assessments, transparency registers, red-teaming, a centre of excellence on AI safety and security and an annual AI safety and security conference.",
+   "notes": "Adopted by the AU Executive Council at its 45th Ordinary Session in Accra, Ghana, on 18-19 July 2024; the AU document page is dated 9 August 2024. The foreword and executive summary speak of five focus areas and fifteen action areas, while section 2.4 lists six focus areas, the sixth being an inclusive governance and regulatory framework. Implementation is planned for 2025-2030: a first phase in 2025-2026, a mid-term review in 2027 and a second phase from 2028. The AU publishes the strategy in English, French, Arabic and Portuguese.",
+   "scope_note": "Mainly a development strategy for harnessing AI's benefits, building capabilities and attracting investment, with minimising risks as one of its focus areas; included as the African Union's continental AI strategy, whose governance and safety recommendations are addressed to all member states.",
+   "id": "AU-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the AU document page on au.int (11 and 18 Oct 2026; only the site's news ticker differs between the two copies), the English strategy PDF (66 pages) and the French PDF, both from au.int (11 Oct 2026). The English PDF confirms the title, the July 2024 date, adoption by the Executive Council at its 45th Ordinary Session on 18-19 July 2024, its preparation under the AU Commission's Commissioner for Infrastructure and Energy, and the content of the summary and notes; the AU page confirms the endorsement, gives 9 August 2024 as its own date and links the English, French, Arabic and Portuguese texts. The Arabic and Portuguese PDFs are not stored. No Executive Council decision number appears in the stored files.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "original_title": "עקרונות, מדיניות, רגולציה ואתיקה בתחום הבינה המלאכותית 2023",
+   "language": "Hebrew",
+   "english_version": {
+    "kind": "government translation",
+    "url": "https://api.oecd.ai/storage//policy-initiatives/Jul2025/fu_gxramh4trinbhbt.pdf",
+    "by": "Ministry of Innovation, Science and Technology (an English summary of the policy, mainly of its recommendations chapter)"
+   },
+   "notes": "Published in December 2023 by the Ministry of Innovation, Science and Technology, prepared with the Ministry of Justice's Office of Legal Counsel and Legislative Affairs (Economic Law Department) under Government Resolution 212 of 1 August 2021; a White Paper of 17 November 2022 was its first draft and the basis for public consultations. The policy was published in Hebrew; the ministry's English document summarises it, mainly its recommendations chapter. It gives guidelines and instructions to sectoral regulators on AI in the private sector across the AI lifecycle; the government's policy on public-sector AI is developed separately. The policy also anticipates future work on foundation models and frontier AI.",
+   "id": "IL-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. gov.il refused every download of the English PDF (the record's official URL) and of the Hebrew policy document (HTTP 403 on 11, 16, 17 and 18 Oct 2026; the browser retry timed out). Stored instead: the OECD.AI policy-initiative entry, added and last updated (25 Dec 2025) by Israel's national contact point, and the 11-page English PDF it links, hosted on api.oecd.ai. That PDF is the ministry's English summary of the policy: it confirms the title, publication in December 2023 by the Ministry of Innovation, Science and Technology with the Ministry of Justice, the seven challenges, the principles and the recommendations, and states that the policy was originally published in Hebrew. The OECD.AI entry confirms the ministries, the Hebrew name, start year 2023, status Active and that the policy is non-binding. Because the Hebrew full text could not be stored, the summary rests on the ministry's English summary and original_title on the OECD.AI entry; whether the OECD-hosted PDF is identical to the gov.il English PDF is not known. Later Israeli initiatives listed on the OECD.AI page (2024-2025) are not part of this policy and are passed on as leads.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 10 field(s) supported."
+   }
+  },
+  {
+   "summary": "Kenya's national AI strategy for 2025-2030, built on three pillars (digital infrastructure, data, and research and innovation) and four enablers, one of them governance. The governance goal plans a national AI and emerging technologies policy, local ethical and safety standards implemented through conformity assessment, safety audits and technical regulations, a national AI risk and safety institute, regulatory sandboxes and, as AI matures, an AI and Other Emerging Technologies Act. The ethics goal plans a mandatory ethical impact assessment for public-sector AI, accountable procurement guidelines and a complaints and redress mechanism.",
+   "safety_topics": [
+    "safety institute",
+    "evaluation & testing",
+    "public-sector use",
+    "accountability & liability",
+    "international cooperation"
+   ],
+   "notes": "Dated March 2025; the ministry announced that it would launch the strategy on 27 March 2025 at the Kenyatta International Convention Center. Developed by the National AI Working Group and Steering Committee with support from Germany's Federal Ministry of Economic Cooperation and Development, the EU-funded Digital Transformation Center Kenya implemented by GIZ, Canada's IDRC and the UK's Foreign, Commonwealth and Development Office. For each goal it sets objectives, flagship projects, outcomes and key performance indicators.",
+   "scope_note": "Mainly a strategy for AI infrastructure, data, research and innovation, skills and investment, with governance and ethics among its enablers; included as Kenya's national AI strategy, which plans AI risk and safety frameworks and a national AI risk and safety institute.",
+   "id": "KE-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the ministry's news item of 25 March 2025 announcing the launch (ict.go.ke, 16 Oct 2026) and the OECD.AI-hosted PDF of the strategy (91 pages, 11 Oct 2026). The ministry page confirms the title, the ministry and the launch date of 27 March 2025, announced in advance; it does not link the strategy document, and the PDF the archiver took from its links is an unrelated notice of cybersecurity job opportunities. The OECD-hosted PDF confirms the title, the March 2025 date, the Cabinet Secretary's foreword and the content summarised. No copy of the strategy on a Kenyan government site is stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 9 field(s) supported."
+   }
+  },
+  {
+   "legal_force": "Proposed",
+   "scope_note": "Mainly a strategy for AI infrastructure, ecosystem, adoption and skills, with responsible and ethical AI and AI governance as two of its five pillars; included as the draft of Nigeria's national AI strategy.",
+   "id": "NG-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the draft strategy PDF from ncair.nitda.gov.ng (11 Oct 2026, 73 pages; a new download on 18 Oct 2026 timed out, so the 11 Oct copy is the one read), which confirms the title, the 'DRAFT' marking on every page, the August 2024 date, the Federal Ministry of Communications, Innovation and Digital Economy as author and the content summarised. That the final strategy of September 2025 (NG-02) replaced it, the September 2025 date_last_updated and the notes rest on the final strategy's PDF, which is stored only for record NG-02; the attempt to store it for this record on 18 Oct 2026 timed out (ncair.nitda.gov.ng did not answer, so robots.txt could not be checked). Those values are left as published.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "summary": "Nigeria's national AI strategy for 2025-2029, a living document organised around five pillars. Its responsible and ethical AI pillar plans a High-Level AI Ethics Expert Group or National AI Ethics Commission, national AI ethical principles and an AI ethics assessment framework for evaluating projects before deployment. Its governance pillar plans national AI principles, an independent AI Governance Regulatory Body and a National AI Risk Management Framework with protocols for identifying, assessing and mitigating safety and security risks. It names accuracy, bias, transparency and governance as the main factors in AI risk assessment.",
+   "safety_topics": [
+    "accountability & liability",
+    "evaluation & testing",
+    "human oversight"
+   ],
+   "notes": "Dated September 2025 and described as a living document, with a vision for 2025-2029. It grew out of a four-day co-creation workshop hosted by the ministry on 15-18 April 2024, followed by stakeholder engagement between July 2024 and January 2025 that included a public review of the first draft of August 2024 (NG-01), which it replaces. OECD.AI lists a related National Artificial Intelligence Trust (2025).",
+   "scope_note": "Mainly a strategy for AI infrastructure, ecosystem, adoption and skills, with responsible and ethical AI and AI governance as two of its five pillars; included as Nigeria's national AI strategy.",
+   "id": "NG-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF from ncair.nitda.gov.ng (11 Oct 2026, 81 pages) and the OECD.AI policy-initiative page (11 and 18 Oct 2026; only the site menu differs between the two copies). The PDF confirms the title, the September 2025 date, the ministry's authorship, the 2025-2029 horizon and the content summarised; the OECD.AI page confirms publication in September 2025, the ministry's lead with NITDA as a key implementing body, and an active status. The day in September 2025 appears only in the PDF's file name (19092025), not in its text, so the date stays at the month. A 'Two years of NAIS' compilation of April 2026, mentioned in the earlier notes, is not among the stored files and is no longer cited.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "safety_topics": [
+    "public-sector use",
+    "accountability & liability",
+    "evaluation & testing",
+    "international cooperation"
+   ],
+   "notes": "The document's footer reads 'MINICT - 2022'. MINICT lists it among the policies approved by the Cabinet, with the date 27 April 2023; the day of Cabinet approval is not given. Developed by MINICT and RURA with support from GIZ FAIR Forward, the Centre for the Fourth Industrial Revolution Rwanda (C4IR) and The Future Society. It is accompanied by tailored Guidelines on the Ethical Development and Implementation of AI, published by MINICT and RURA, and recommends a Responsible AI Office within MINICT in the policy's first year to lead implementation. Its implementation plan runs from FY 2023/24 to FY 2027/28.",
+   "scope_note": "Mainly a policy for AI skills, infrastructure, data and adoption in the public and private sectors, with practical AI ethics guidelines as its one safeguard area; included as Rwanda's national AI policy.",
+   "id": "RW-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the policy PDF and MINICT's publications page for policies, both from minict.gov.rw (11 Oct 2026). The PDF confirms the title, its development by MINICT and RURA and the content summarised; it carries no date other than the footer 'MINICT - 2022' and the implementation years FY 23/24 to FY 27/28. The publications page lists the 'Artificial Intelligence Policy' among the policies approved by the Cabinet with the date Apr 27, 2023, which is the basis of the April 2023 date; it does not give the date of Cabinet approval. That page was stored as the record's secondary source, so the date rests on another official source rather than on the policy itself.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "safety_topics": [
+    "risk-based classification",
+    "safety institute",
+    "evaluation & testing",
+    "accountability & liability",
+    "deepfakes & synthetic media",
+    "transparency & labelling"
+   ],
+   "notes": "Dated March 2026; approved by Cabinet on 25 March 2026 (combined with a special sitting of Cabinet on 1 April 2026), signed by the Minister on 9 April 2026 and gazetted on 10 April 2026 for 60 days of public comment, to 10 June 2026. It was based on the South Africa National Artificial Intelligence Policy Framework of August 2024 (ZA-02), the 32 submissions received on it and consultations through the Cabinet cluster process, and set out staged implementation: draft requirements for unacceptable risks in year 1 (2025/26), requirements for high-risk use cases in year 2 (2026/27) and full implementation in year 3 (2027/28). It was withdrawn in its entirety by Notice 3978 of 2026 (Government Gazette No. 54840), signed on 4 June 2026 and gazetted on 12 June 2026, with no reason given.",
+   "id": "ZA-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the gazetted draft (General Notice 3880 of 2026, Government Gazette No. 54477, 86 pages) and the gov.za notice page 'Withdrawal of draft South Africa National Artificial Intelligence (AI) Policy' (both gov.za, 11 Oct 2026), and the withdrawal notice itself (Notice 3978 of 2026, Government Gazette No. 54840, one page, gov.za, 18 Oct 2026). The gazette confirms the title, the issuing minister and department, Cabinet approval, the publication date, the comment period, the basis in the 2024 framework and the content summarised. The withdrawal notice confirms that the Minister withdrew Government Notice 3880 in its entirety, effective from publication in the gazette of 12 June 2026, and that he signed it on 4 June 2026; it gives no reason. No replacement draft is among the stored files.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 10 field(s) supported."
+   }
+  },
+  {
+   "title": "UAE Strategy for Artificial Intelligence",
+   "short_title": "UAE AI Strategy",
+   "summary": "Strategy launched by the UAE Government in October 2017 to achieve the objectives of UAE Centennial 2071, rely on AI for all services and data analysis by 2031, raise government performance, lead the world in government AI investment and create a new high-value market. It targets transport, health, space, renewable energy, water, technology, education, environment and traffic. Its five themes: an AI council and task forces; programmes across government; training of government leaders and staff; delivering all first-line public services through AI; and leadership through an AI advisory council, a government law on the safe use of AI and a first global document on controls for its safe use.",
+   "notes": "Launched in October 2017 as the post-mobile government phase; it sets 2031 as the target year for relying on AI for all services and data analysis. The UAE Charter for the Development and Use of Artificial Intelligence (AE-02, 2024) states that it aims to achieve the strategic goals of this strategy.",
+   "scope_note": "Mainly a strategy for AI adoption in government services and economic sectors; included as the UAE's flagship AI strategy, whose fifth theme provides for a government law on the safe use of AI and controls for its safe use.",
+   "original_title": "استراتيجية الإمارات للذكاء الاصطناعي",
+   "id": "AE-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the UAE Government portal (u.ae) page on the strategy in English (snapshot of 11 Oct 2026, unchanged on 18 Oct 2026; last updated 30 Dec 2024) and in Arabic (18 Oct 2026; last updated 30 Jun 2026). They confirm the October 2017 launch by the UAE Government, the aims (the Arabic page adds 100% reliance on AI in services and data analysis by 2031), the sectors and the five themes, and name the strategy 'UAE Strategy for Artificial Intelligence' / 'استراتيجية الإمارات للذكاء الاصطناعي'. The English page is shorter and omits the 2031 target and, in the fifth theme, the advisory council and the global document on safe-use controls; the summary follows the fuller Arabic page. The English page links the strategy's name to the strategy document on the AI Office's site (ai.gov.ae, file UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf), the source of the previous title 'UAE National Strategy for Artificial Intelligence 2031', the previous original title and the eight objectives of the previous summary; ai.gov.ae refused the archiver again on 18 Oct 2026 (HTTP 403, also in a browser), so that document is not stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "summary": "Charter setting twelve principles for the development and use of AI in the UAE, to achieve the goals of the UAE Strategy for Artificial Intelligence: a beneficial human-machine relationship; safety, with AI systems held to the highest safety standards and risky systems modified or removed; addressing algorithmic bias; data privacy; transparency; human oversight to correct errors and biases; governance and accountability; technological excellence; human commitment; peaceful coexistence with AI; AI awareness for an inclusive future; and compliance with international treaties and local laws.",
+   "notes": "The charter states that it aims to achieve the strategic goals of the UAE Strategy for Artificial Intelligence (AE-01). Its objectives include ethical and responsible use of AI, privacy and data security, transparency and accountability, and awareness and education; its expected outcomes include innovation and investment, better health, education and government services, and environmental sustainability.",
+   "original_title": "ميثاق تطوير واستخدام الذكاء الاصطناعي",
+   "id": "AE-02",
+   "verification": {
+    "level": "C",
+    "verified_on": "2026-10-18",
+    "method": "search-confirmed",
+    "note": "CAUTION: no official source confirms the title, date and status; the record rests on secondary sources. Recheck of 18 Oct 2026. Stored: the UAE Government portal (u.ae) page on the charter in English (snapshots of 16 and 18 Oct 2026, which differ only in page furniture) and in Arabic (18 Oct 2026); both were last updated on 3 Jul 2026. They confirm the English and Arabic titles, the objectives, the twelve principles and the expected outcomes, but give no issue date, issuing body or legal status. The charter PDF on ai.gov.ae (official_url) and the charter's entry on the UAE legislation portal (uaelegislation.gov.ae) refused the archiver (HTTP 403, also in a browser). The issuing body (the Artificial Intelligence, Digital Economy and Remote Work Applications Office) and the date (July 2024: the PDF sits in an upload folder dated 2024/07 and press reports give a launch on 30 July 2024; the legislation portal is said to give 10 June 2024 as the issue date) rest on the previous record and press reports, not on a stored source.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 4 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2025-05",
+   "official_identifier": "SDAIA-P114E",
+   "summary": "Saudi Arabia's national AI ethics framework, issued by SDAIA for all who design, develop, deploy, use or are affected by AI systems in the Kingdom. It classes AI risks in four levels (little or no risk; limited; high, needing pre- and post-conformity assessments; unacceptable, not allowed) and sets seven principles (fairness, privacy and security, humanity, social and environmental benefits, reliability and safety, transparency and explainability, accountability and responsibility) with controls for each stage of the AI life cycle, including human oversight of irreversible or life-and-death decisions and no use for social scoring or mass surveillance.",
+   "safety_topics": [
+    "risk-based classification",
+    "prohibited practices",
+    "human oversight",
+    "evaluation & testing",
+    "transparency & labelling",
+    "accountability & liability"
+   ],
+   "notes": "The cover gives the year 2025; the document-control table gives May 2025, document type 'Regulatory Documents', document number SDAIA-P114E and version number 1. SDAIA lists the document among its laws and regulations as 'Principles and Controls of AI Ethics' but links the file as a 'draft of Principles of AI Ethics'; the PDF itself carries no draft marking. Adopting entities, defined as those required to comply with the document, designate a head of entity or chief data officer, a compliance officer and a responsible AI officer for AI ethics; SDAIA develops and updates the framework and measures and monitors compliance directly or through sector regulators. Registration with SDAIA is optional and can earn motivational badges. SDAIA's organisational arrangements (Council of Ministers Resolution No. 292 of 27/4/1441 AH, amended by Resolution No. 195 of 15/3/1444 AH) empower it to regulate the data and AI sectors by setting policies, standards and controls and following up compliance with them. SDAIA's generative AI guidelines (SA-02) and deepfakes guidelines (SA-03) build on these principles.",
+   "id": "SA-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the English PDF from sdaia.gov.sa (50 pages; snapshot of 11 Oct 2026, unchanged on 18 Oct 2026), SDAIA's laws and regulations page (18 Oct 2026), and the files that page links: the same PDF (byte-identical, same SHA-256) and SDAIA's organisational arrangements in Arabic. The PDF confirms the title, SDAIA's role, the scope, the four risk levels, the seven principles with life-cycle controls, the roles and the compliance and optional-registration arrangements, and on page 50 the document-control table with May 2025, document number SDAIA-P114E and version 1 (the previous record read only the cover year). The page lists the document under SDAIA's laws and regulations and labels its link 'draft of Principles of AI Ethics'. The Arabic edition of the principles is not stored. The previous notes cited law-firm commentaries describing earlier versions (1.0 of 2022 and 2.0 of September 2023); none is stored and the 2025 edition does not refer to earlier versions.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "notes": "SDAIA lists the two documents among its laws and regulations as two versions of one 'Generative AI Guideline', the first for government employees and the second for the public. Both PDFs carry 'May 2025' and 'Version Number 1' in their document-control tables, with document type 'Regulatory Documents'. The government version describes its rules on government data as mandatory and says it may be updated as needed; the public version serves as guidance for developers and users of generative AI in the Kingdom. Both apply SDAIA's AI Ethics Principles (SA-01); SDAIA's deepfakes guidelines (SA-03) refer to the public version.",
+   "id": "SA-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: both English PDFs from sdaia.gov.sa (government version, 30 pages; public version, 22 pages; snapshots of 11 Oct 2026, unchanged on 18 Oct 2026) and SDAIA's laws and regulations page (18 Oct 2026), whose link to the public version gives the same file (same SHA-256). They confirm the titles, SDAIA as issuer, the listing as two versions of one guideline, May 2025 and version 1 in the document-control tables, the document numbers, the scope, the rules for government data, the four-level risk scale and the seven principles. The Arabic editions are not stored. Third-party trackers (Digital Policy Alert) report first releases of the government guideline on 10 January 2024 and of the public guideline on 11 January 2024; no official source for those dates is stored, and the May 2025 editions do not refer to earlier versions.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "official_identifier": "SDAIA-P119",
+   "notes": "The cover gives the year 2025; the document-control table gives May 2025, document type 'Regulatory Documents', document number SDAIA-P119 and version number 2, so an earlier version exists; the text describes the regulatory landscape as of June 2024. Its recommendations cite SDAIA's AI Ethics Principles (SA-01), the Personal Data Protection Law and the Anti-Cyber Crime Law, and it refers to SDAIA's generative AI guidelines for the public (SA-02). An appendix provides for ongoing review with periodic stakeholder feedback. SDAIA lists the document among its laws and regulations under 'Deepfakes Guidelines'.",
+   "id": "SA-03",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the English PDF from sdaia.gov.sa (56 pages) and SDAIA's laws and regulations page (snapshots of 11 Oct 2026, unchanged on 18 Oct 2026). The PDF confirms the title, May 2025, version 2, document number SDAIA-P119 and the guidance summarised; its text does not name the issuer, which rests on the SDAIA document number and on SDAIA's page listing it. The date of version 1 is in no stored source. The Arabic edition is not stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "summary": "Draft law that the Communications, Space and Technology Commission (CST) put to public consultation from 14 April to 14 May 2025 to attract investment in data centres and AI. It aims to make the Kingdom a global digital hub and to enable sovereign data centres that ensure service continuity and data sovereignty beyond borders. It sets three models: a 'Private Center' for countries around the world to host their data and services in the Kingdom, and an 'Extended Center' and a 'Virtual Center' for major AI and cloud computing companies to host their worldwide customers in the Kingdom at levels of sovereignty and privileges suited to those customers.",
+   "notes": "Published for public comment from 14 April to 14 May 2025 through the Public Consultation Platform, with inquiries to CST. CST states that the law aligns with relevant international treaty frameworks and principles.",
+   "original_title": "مشروع نظام المركز العالمي للذكاء الاصطناعي",
+   "scope_note": "Draft statute on data centres and data sovereignty with 'AI' in its title; the existing scope_note stays.",
+   "id": "SA-04",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: CST's news release of 14 April 2025 in English (snapshot of 11 Oct 2026, unchanged on 18 Oct 2026) and in Arabic (18 Oct 2026). They confirm the English and Arabic titles, CST as issuer, the consultation window and the three centre models; the summary now rests on them alone. The draft text on the Istitlaa consultation platform (secondary_url) is not stored: the platform timed out for the archiver on 11 and 18 Oct 2026. The previous summary's account of guest countries, designated foreign states and Council of Ministers approval and termination powers, and the entry into force 60 days after publication in the Official Gazette, rested on law-firm summaries and is not repeated. No stored source shows adoption, a royal decree or publication in the Official Gazette, so the record stays a draft.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "issuing_body": "National Council for Artificial Intelligence (NCAI)",
+   "summary": "Egypt's first national interpretation of international guidance on ethical and responsible AI, issued by the National Council for AI as version 1.0 in 2023. It has 13 general guidelines for all members of the AI ecosystem and 16 implementation guidelines for entities developing, deploying or managing AI, each tagged with one of five principles. They include the right to know when one is interacting with an AI system, final human determination, systematic AI risk management across the development life cycle, impact assessments before all government AI projects and MCIT supervision of them, and testing of foreign AI products before they enter the Egyptian market.",
+   "notes": "Labelled version 1.0 (2023). The five principles are human-centeredness, transparency and explainability, fairness, accountability, and security and safety. The charter is to be reviewed annually, with a public consultation before each revision, and draws on guidelines of the OECD, UNESCO, WHO, IEEE and the EU and of several countries. The 2026 Guide to Egypt's National AI Governance Framework (EG-02) operationalises its principles, and the second National AI Strategy (EG-04) plans detailed guidelines for it.",
+   "english_version": {
+    "kind": "authentic",
+    "url": "https://ai.gov.eg/SynchedFiles/en/Resources/Egyptian%20Charter%20For%20Responsible%20AI.pdf",
+    "by": "National Council for Artificial Intelligence (NCAI)"
+   },
+   "id": "EG-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the charter PDF (version 1.0, 8 pages) from the Council's site ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. It confirms the title, the issuer ('© National Council for AI'), the year and version ('2023 v1.0'), the 13 general and 16 implementation guidelines, the five principle tags and the annual review. It gives no day or month of issue: the published month, April 2023, rests on MCIT's press release of 20 April 2023, which reports the launch at the Council's seventh meeting and cannot be stored (mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal), a policy tracker gives 19 April 2023, and OECD.AI gives only the start year 2023. That the Council is chaired by the Minister of Communications and Information Technology is not in the stored charter and was taken out of issuing_body. The charter was first published on aicm.ai.gov.eg, which now serves an expired certificate. An Arabic text of the charter exists (a university-hosted copy appeared in search results); the Council's own Arabic file was not found or stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "official_identifier": "EG-NCAI-GOV-FW-2026-02",
+   "summary": "Policy guide setting the architecture of Egypt's National AI Governance Framework, authorised for release in March 2026. Under a 'State as Orchestrator' model, the National Council sets policy and sectoral regulators enforce it. AI systems fall into four tiers: prohibited (e.g. social profiling, exploitation of children, manipulative interference); high-risk (e.g. critical infrastructure, biometrics), needing a 'Dual-Check' of an ethical impact assessment and a technical audit before market entry, then monitoring and serious-incident reporting; limited-risk (chatbots, deepfakes), with disclosure and labelling; and minimal-risk. General-purpose AI with systemic risk counts as high-risk.",
+   "notes": "Edition 2.0, 'Approved for Publication': the guide's version history runs from a first draft in August 2025 and a version 1.0 for public consultation in January 2026 to its authorisation for release by the Minister of Communications and Information Technology, as chairman of the Council, on 15 March 2026. Its Phase 1 agenda includes risk classification guidelines, guidelines on children's safe use of AI and on generative AI, government AI procurement guidelines and an AI audit lab and regulatory sandbox; mandatory conformity assessments for high-risk sectors follow in months 12 to 24, and the framework is to inform the drafting of an Egyptian AI law. The companion 'Egypt National Guidelines for Trustworthy and Responsible AI' (Edition 2.0, document EG-NCAI-GOV-FW-2026-03, authorised 25 March 2026; secondary_url) is Product 1 of the framework and its operational manual, built on institutional governance, AI life-cycle governance, stakeholder engagement, and society and sustainability.",
+   "id": "EG-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the guide PDF (32 pages) and the Trustworthy and Responsible AI guidelines PDF (80 pages), both from ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. They confirm the titles, the Council as owner and ECRAI as preparer, the document IDs, editions and authorisation dates (15 and 25 March 2026), the four risk tiers and the Dual-Check model. official_identifier now holds the document ID alone; the edition is in notes. Digital Policy Alert reports the public release of the guide and its companion guidelines on 14 March 2026, a day before the authorisation date the guide gives; MCIT's own pages cannot be stored (mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal).",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "summary": "Guidelines for the safe, responsible and trustworthy development, deployment and use of generative AI across Egypt's public and private sectors, academia and society, developed under MCIT and approved by the National Council. They address misinformation and deepfakes, hallucinations, bias, privacy, intellectual property and accountability, and expect human validation of outputs, disclosure of AI-generated content by labels or provenance mechanisms such as metadata and watermarking, consent for use of a person's likeness or voice, limits on deepfakes in elections and news, and, for agentic AI, human approval of irreversible or high-risk actions and emergency pause, override and shutdown.",
+   "notes": "Version 1.0, dated March 2026. Besides general guidelines for trustworthy use, it has sections on agentic AI, on deepfakes and lip-sync, which it describes, following international practice, as a high-risk enabling capability, on generative AI in education and scientific research, and on disclosure of generative AI use, with disclosure templates. The guidelines state that they were drafted with the help of generative AI tools and that human authors reviewed and verified all AI-generated text. The Guide to Egypt's National AI Governance Framework (EG-02) lists generative AI guidelines for government and individuals in its Phase 1 agenda.",
+   "id": "EG-03",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the guidelines PDF (52 pages) from ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. It confirms the title, version 1.0, March 2026, development under MCIT with ECRAI, the National Council's approval and the content of the summary. It gives no day; Digital Policy Alert gives 14 March 2026 as the release date, and MCIT's AI page, which lists the guidelines, cannot be stored (mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal).",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "issuing_body": "National Council for Artificial Intelligence (NCAI)",
+   "summary": "Second edition of Egypt's national AI strategy for 2025-2030, issued by the National Council for AI and built on six pillars: governance, technology, data, ICT and AI infrastructure, ecosystem and talents. The governance pillar serves the objective 'Ensure Ethical and Responsible AI Use'. Its 'Egypt National AI Regulatory System' initiative plans a Center for Responsible AI, guidelines and standards for classifying AI system risks, detailed guidelines for the Egyptian Charter for Responsible AI, regulations for AI testing and deployment, an AI assurance framework, and an AI law with bylaws and a regulatory body to protect citizens against high-risk or prohibited AI.",
+   "notes": "The strategy opens with a statement by the President of the Republic launching the second edition, which builds on the first National AI Strategy launched in May 2021. A second governance initiative covers global and regional AI dialogues, including unified Arab AI standards. Most of the strategy concerns economic and capacity goals for 2030 across 21 initiatives, such as an ICT contribution of 7.7% to GDP, 30,000 AI professionals and more than 250 successful AI companies.",
+   "scope_note": "Mainly an AI adoption and economic development strategy; included for its governance pillar, which commits to an AI regulatory system, an AI law and rules for safe AI testing and deployment.",
+   "safety_topics": [
+    "evaluation & testing",
+    "risk-based classification",
+    "international cooperation",
+    "accountability & liability"
+   ],
+   "id": "EG-04",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF (52 pages) from ai.gov.eg, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026. It confirms the title, edition and period, the NCAI as issuer, the President's launch statement, the six pillars and the governance initiatives. It gives no day or month of release: the published month, January 2025, rests on the PDF's file name ('16-1-2025'), the server's last-modified date of 16 January 2025, MCIT's publication page (not stored: mcit.gov.eg's robots.txt answers HTTP 500, which the archiver treats as a refusal) and trackers (Digital Policy Alert gives 22 January 2025). The stored strategy names MCIT only for the first edition, so issuing_body now names the NCAI alone.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "summary": "Eight-article private member's bill setting a regulatory framework for the development and use of AI. It defines AI and AI operators (providers, distributor-users, importers, distributors) and makes safety, transparency, fairness, accountability and privacy mandatory principles. It requires risk assessment, with special measures for high-risk systems, which must be registered with the relevant supervisory authorities and undergo conformity assessment, empowers those authorities to audit compliance, and sets fines of up to TRY 35 million or 7% of annual turnover for prohibited AI practices, TRY 15 million or 3% for breaches of obligations and TRY 7.5 million or 1.5% for false information.",
+   "notes": "Received by the TBMM Presidency on 24 June 2024 and referred on 25 June 2024 to the Industry, Trade, Energy, Natural Resources, Information and Technology Committee as lead committee and to the Justice Committee as secondary committee, where it remains. The bill would enter into force on publication. It does not define which systems are high-risk, name the supervisory authorities or list the prohibited practices its fines refer to. 'Distributor-user' renders dağıtıcı/kullanıcı, defined as a person who distributes AI systems commercially or uses them in their own activities. A later private member's bill on AI provisions in the Turkish Penal Code and other laws (2/3358) is TR-02.",
+   "english_version": {
+    "kind": "none found"
+   },
+   "scope_note": "Private member's bill that has stayed in committee since June 2024 with no further action; included as an AI-specific bill before the Grand National Assembly.",
+   "id": "TR-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the TBMM bill page (stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026) and the bill text PDF from cdn.tbmm.gov.tr (14 pages: cover letter with the referral stamp, general and article-by-article justification, and the eight articles). They confirm the title, number, term and legislative year, receipt date, committee referrals, sponsor and party, the status 'KOMİSYONDA' and the content of the summary. The description of the bill as the first AI bill submitted to the Turkish parliament rests on law-firm commentary and was taken out of the summary. No English translation was found in a web search; the summary renders the Turkish text.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "summary": "Voluntary, non-binding guidance from Qatar's Ministry of Communications and Information Technology for developers and deployers of AI systems that affect the public. It sets eight principles: do no harm; ensure robustness, security and safety; avoid perpetuating bias and discrimination; protect the environment; safeguard privacy; promote transparency; develop a human-centred approach; and assign ultimate accountability to humans. It calls for risk evaluations before deployment, robustness testing, continuous monitoring, discrimination impact assessments, bias audits, human intervention and appeal for consequential decisions, and external audits of systems that inform significant decisions.",
+   "notes": "Posted on the government e-participation portal Sharek on 16 May 2024 together with the companion 'Artificial Intelligence in Qatar—Principles and Guidelines for Ethical Use', which addresses users of AI systems such as private companies, government agencies, the public and students. Both documents are to be updated every one to two years. The guidelines are aligned with UNESCO and OECD standards and refer to the National Cyber Security Agency's 'Guidelines for Secure Adoption and Usage of Artificial Intelligence' for risk evaluation and security standards.",
+   "id": "QA-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the Sharek forum post on sharek.gov.qa, captured on 11 Oct 2026 with the post text, its date and the titles of the two attached documents, and again on 18 Oct 2026, when the capture held only the page frame and a reader's response without the post text; and the development-and-deployment guidelines PDF (13 pages) from prod16-assets.sprinklr.com, a host pipeline/official-sites.json lists as proposed, so its quotes count as secondary. The 11 Oct capture confirms the title, the 16 May 2024 posting date, the companion document and the non-binding, voluntary nature; the PDF confirms MCIT's authorship, the eight principles and the guidelines. Sharek is a government portal, but no stored file shows that MCIT runs it, so its quotes are labelled alt-official. MCIT's own pages on mcit.gov.qa answered with a maintenance page or HTTP 500 in an earlier run; the AI Committee page, requested again in this run, answered HTTP 403 to the archiver, also in the browser, so it is not stored. Trackers give conflicting dates (2024 issue; 8 May 2025 'effective'), and a Qatar News Agency report of 25 May 2025 describes the documents as recently issued by MCIT; none of these is stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 4 field(s) supported."
+   }
+  },
+  {
+   "summary": "Bilingual Arabic-English code of ethics prepared by the Ministry of Digital Economy and Entrepreneurship under Jordan's 2020 AI Policy and approved by the Council of Ministers, which circulated it to government bodies for compliance. It sets eight principles for the responsible use of AI (humanity and society; inclusiveness and justice; privacy and data; transparency; responsibility and accountability; reliability; integrity and non-fakeness; environment and sustainability), including human intervention in AI decisions, no use of AI to manipulate or mislead, testing before market release and accountability of natural persons for harm. It adds principles for the metaverse and AI research.",
+   "notes": "The code cites as its legal basis Article 3(d) of the Telecommunications Law No. 13 of 1995, Article 61 of the General Policy for the Communications, Information Technology and Postal Sectors of 2018, and Article 21 of the Jordan Artificial Intelligence Policy 2020, which requires national regulatory frameworks for the responsible use of AI. The Ministry prepared it through a technical committee of experts from the public and private sectors, civil society and academia. It addresses individuals, public and private institutions, international and local organisations and civil society, inside or outside Jordan, and recommends complaint channels at the Ministry for AI-ethics complaints. It also lists the risks of not adhering to it. The Arabic title translates literally as 'National Charter for Artificial Intelligence Ethics'.",
+   "safety_topics": [
+    "accountability & liability",
+    "transparency & labelling",
+    "human oversight",
+    "evaluation & testing"
+   ],
+   "english_version": {
+    "kind": "authentic",
+    "url": "https://modee.gov.jo/ebv4.0/root_storage/en/eb_list_page/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9_-_%D9%85%D9%8A%D8%AB%D8%A7%D9%82_%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A93-8-2022_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-0.pdf",
+    "by": "Ministry of Digital Economy and Entrepreneurship"
+   },
+   "id": "JO-01",
+   "verification": {
+    "level": "C",
+    "verified_on": "2026-10-18",
+    "method": "search-confirmed",
+    "note": "CAUTION: no official source confirms the title, date and status; the record rests on secondary sources. Recheck of 18 Oct 2026. Stored: the final bilingual PDF (32 pages) from modee.gov.jo, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026, and MoDEE's Artificial Intelligence page (stored 11 and 18 Oct 2026; only the visit counter changed), and, in this run's second round, MoDEE's Arabic news item on the charter (18 Oct 2026). The PDF confirms the English and Arabic titles, MoDEE's authorship, the legal basis, the target groups, the eight principles and the further sections; the AI page lists the code; the news item confirms that the Council of Ministers approved the charter and circulated it to all ministries, institutions and government departments for compliance. No stored file gives the approval date: the news item is undated (its page shows only a site-wide last-update date), and the published 3 August 2022 rests on the PDF's file name ('approved by the Presidency 3-8-2022') and a Jordan News Agency item seen earlier in search results. The archiver also stored two PDFs linked from the news page (MoDEE's code of conduct for public servants and its information security policy), which do not concern the charter. The draft consultation of February 2022 (comments due 1 March 2022) and the Jordan AI Strategy 2023-2027's commitment to a follow-up system for compliance with the code rest on MoDEE pages and a PDF not stored in this run, so they were taken out of notes. The English legal-basis passage dates Cabinet Resolution No. 659 on the AI Policy to 20 February 2020, the Arabic to 20/12/2020.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "safety_topics": [
+    "incident reporting",
+    "accountability & liability",
+    "evaluation & testing",
+    "public-sector use",
+    "research priorities"
+   ],
+   "notes": "The document is dated December 2025 on its cover. By 1 April 2026 Cabinet had approved the strategy and USD 250 million for a national AI computing centre. President John Dramani Mahama launched the strategy in Accra on Friday 24 April 2026, when USD 20 million was also announced for its short- and medium-term implementation. At the launch the Minister for Communication said the ministry was working on an Emerging Technologies Bill to provide the legal framework for AI and related technologies. The strategy rests on about 40 expert interviews and public-sector consultation workshops held from March to October 2022, and recommends reducing the implementation timeline from ten to five years with periodic reviews.",
+   "scope_note": "Mainly a strategy for AI education, skills, infrastructure, data, research and adoption; included as Ghana's national AI strategy, which analyses AI risks and proposes a Responsible AI Authority, incident reporting, safe-AI guidance for developers and tools to audit and certify AI systems.",
+   "id": "GH-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF from moc.gov.gh (84 pages; stored 11 Oct 2026 and unchanged on 18 Oct 2026), the ministry's release of 24 April 2026 on the launch (moc.gov.gh), the Information Services Department's report of 1 April 2026 on Cabinet's approval (isd.gov.gh), and the Ghana News Agency report of the launch (a state news agency, not an official source; new snapshot of 18 Oct 2026 that differs from the earlier one only in page furniture). The PDF confirms the title, the issuing ministry, the December 2025 date, the eight pillars, the risk analysis, the Responsible AI Authority and National AI Office proposals and the governance actions in the summary. The ministry's release confirms the launch by the President in Accra on 24 April 2026; the ISD report confirms Cabinet's approval of the strategy and of USD 250 million for an AI computing centre. The USD 20 million for implementation and the Emerging Technologies Bill rest on the news agency's report; no text of an Emerging Technologies Bill was found. The '2023/03' in the PDF's path is the site's upload folder, not the document's date.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 9 field(s) supported."
+   }
+  },
+  {
+   "summary": "Non-binding national guidelines built on four pillars (Fairness, Accountability, Inclusiveness and Integrity, Responsibility) that accompany the National AI Strategy. They apply across sectors and the whole AI lifecycle, including systems from external providers, and set a risk-based governance model with indicative low, medium, high and unacceptable-risk tiers, escalation controls and safeguards, data-protection alignment, transparency, explainability and human oversight, accountability, auditability and record-keeping, procurement and vendor governance, and guidance on generative, foundation and agentic AI. They are to inform sector rules and future legislation where risk justifies it.",
+   "notes": "Cabinet agreed on 13 February 2026 to adopt the national AI strategy, AI for Mauritius, as the national guiding policy framework, supported by the FAIR guideline document, and stated that the guidelines will evolve into AI regulations as the ecosystem matures. The strategy and the guidelines were launched on 9 April 2026 at the J & J Auditorium in Phoenix (the ministry's release of 10 April 2026 says 'launched yesterday'). The guidelines state that they are not a law and create no legal obligations, and they do not apply to AI used for military, defence, national security or counter-terrorism purposes.",
+   "id": "MU-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the guidelines PDF from the AI Unit's site aim.govmu.org (38 pages; stored 11 Oct 2026 and unchanged on 18 Oct 2026), the ministry's release of 10 April 2026 on mitci.govmu.org, and the Highlights of the Cabinet meeting of 13 February 2026 from the Prime Minister's Office (pmo.govmu.org). The PDF confirms the title, the ministry, the non-binding character, the scope, the risk tiers, the scope exclusion and the legal trajectory; the release confirms the launch 'yesterday' (9 April 2026) and that the ministry's AI Unit led the work; the Cabinet highlights (item 6) confirm the adoption of the strategy 'AI for Mauritius' supported by the FAIR guideline document and that the guidelines will evolve into AI regulations. The PDF carries no date, so date_published rests on the ministry's release. pmo.govmu.org is not yet on the list of official sites, so the Cabinet quotes count as secondary until a person records the host. The same PDF is also hosted at mitci.govmu.org as 'FINAL-GUIDELINES-15AVRIL.pdf'.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "issuing_body": "Council of Ministers of the Federal Democratic Republic of Ethiopia; prepared under the leadership of the Ethiopian Artificial Intelligence Institute",
+   "summary": "National AI policy dated June 2024, developed under the leadership of the Ethiopian Artificial Intelligence Institute and taking effect on Council of Ministers approval. Besides skills, infrastructure, data and research, it sets out AI risks (data privacy and security, ethics and bias, economic, social and cultural impact) with remedies, and commits to a legal and ethical framework: AI ethical guidelines on fairness, accountability and transparency, regular examination of AI applications, proclamations on AI development and on AI data, products, licensing and inspection, certification of domestic and imported AI products and services, and regulating the pace and extent of AI deployment.",
+   "notes": "The bilingual document (Amharic and English) is dated June 2024 (Sene 2016 in the Ethiopian calendar). It takes effect on approval by the Council of Ministers in line with Council of Ministers Regulation No. 510/2022 and applies to AI initiatives at federal, regional and city administration levels. Digital Policy Alert dates the Council of Ministers' approval to its 37th regular meeting on 27 June 2024. Once the policy is adopted, the Ethiopian Artificial Intelligence Institute coordinates, monitors and evaluates its implementation, and the policy foresees proclamations, regulations and directives on AI development, data, imported and domestic AI products and services, licensing and inspection.",
+   "scope_note": "Mainly a policy for AI skills, infrastructure, data, research and adoption; included as Ethiopia's national AI policy, which sets out AI risks and remedies and commits to ethical guidelines, licensing, certification and AI proclamations.",
+   "id": "ET-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the bilingual policy PDF (78 pages) hosted by OECD.AI (api.oecd.ai), stored 11 Oct 2026 and unchanged on 18 Oct 2026; the OECD.AI policy-initiative entry (18 Oct 2026); and the Digital Policy Alert event page on the approval (18 Oct 2026, a policy tracker, secondary). The official copy on the Ministry of Innovation and Technology's site (mint.gov.et) refused connections in every attempt (11, 16 and 18 Oct 2026), so the record rests on the OECD-hosted copy. The PDF confirms the title, the Amharic title, the June 2024 date, the lead role of the Ethiopian Artificial Intelligence Institute, the adoption clause and the risk and legal-framework content; it does not record the approval itself. The OECD.AI entry gives the Council of Ministers as responsible organisation, June 2024, start year 2024 and status Active. The 27 June 2024 approval at the 37th regular meeting rests on Digital Policy Alert, which cites an announcement of the Council of Ministers that is not stored. The policy names the Ministry of Innovation and Technology as an implementing body, not as a co-author, so it was dropped from issuing_body. The ministry's listing of the document as 'Version 1.0, Approved' is not in any stored source.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "summary": "National AI strategy of the Ministry of Technology and Science, developed with support from the Tony Blair Institute and Finland and launched in Lusaka on 21 November 2024. Its principles include a human-centric approach, transparency and explainability, accountability, fairness and non-discrimination, data privacy and security, inclusivity and sustainability, aligned with the AU Continental AI Strategy, UNESCO's Recommendation and the OECD AI Principles. Governance measures include a National AI Council, sectoral technical working groups, national AI ethics guidelines, extending the regulator ZICTA's mandate to AI regulation and ethical compliance, regulatory sandboxes and risk management.",
+   "notes": "The cover reads 'National Artificial Intelligence Strategy 2024-2026' and the acknowledgement supports implementation of the 'National AI Strategy 2024 - 2026', but the running page header reads '2025 - 2027'. The ministry's release dated 21 November 2024 (published 25 November 2024) reports the launch that day in Lusaka by the Minister of Technology and Science, Felix Mutati. The foreword also commits to a National AI Taskforce and a Centre of Excellence hosting industry AI working groups and innovation labs, and to guardrails for the safe use of AI.",
+   "scope_note": "Mainly a strategy for AI skills, infrastructure, research and sectoral adoption; included as Zambia's national AI strategy, whose governance measures include a National AI Council, AI ethics guidelines, extending the regulator ZICTA's mandate to AI and risk management.",
+   "id": "ZM-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF (60 pages) and the ministry's launch release, both from mots.gov.zm and both stored on 18 Oct 2026 (the attempts of 11, 16 and 17 Oct 2026 failed on the site's TLS certificate). The PDF confirms the title, the issuing ministry, the partners, the principles and the governance measures; the release confirms the launch in Lusaka on 21 November 2024. The strategy period is stated inconsistently in the document itself (2024-2026 on the cover and in the acknowledgement, 2025-2027 in the page header). The ministry's July 2024 pre-announcement of a launch on Independence Day and the OECD.AI listing under 2025-2027 are not in any stored source and were dropped from notes, as was the remark on the PDF's upload date and its copy on OECD.AI.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "official_identifier": null,
+   "notes": "Approved by the Ministerial Committee for Information and Communication Technology (MCICT) at its meeting on 20 May 2025, from which date all government entities must comply; version 1.0 is the first release. iGA launched it publicly on 27 July 2025 as the 'National Policy for the Use of Artificial Intelligence', together with Bahrain's adoption of the Guiding Manual on the Ethics of Artificial Intelligence Use in the GCC, issued by the GCC Ministerial Committee for eGovernment. The ICT Governance Committee approves updates and decides on exemption requests; iGA manages, updates and supervises the policy. It is an administrative policy that binds government entities, not legislation.",
+   "id": "BH-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the policy PDF from iga.gov.bh (13 pages) and iGA's news release of 27 July 2025 (snapshots of 12 Oct 2026, unchanged on 18 Oct 2026). The PDF confirms the title, version 1.0 of 20 May 2025, MCICT approval and the compliance date, the scope, the eleven principles, the four pillars and the roles; the release confirms the launch on 27 July 2025 under the name 'National Policy for the Use of Artificial Intelligence' and the adoption of the GCC manual. No Arabic version is stored. The previous notes mentioned a Shura Council proposal of April 2024 for an AI law; it rests on press reports only and is listed as a lead instead.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "summary": "Strategy to 2028 with four objectives, six orientations and 52 actions under a vision of ethical, trustworthy AI as a catalyst of the Plan Sénégal Émergent. Orientation 6, 'AI in full confidence', sets out sixteen governance actions: a national consultation, an audit of regional and international ethical and legal recommendations, categorising AI types by their risks to human rights and societal well-being, a balanced and flexible AI regulation, a prefiguration body and then a regulator for emerging technologies, a national ethics committee, regulatory sandboxes and mandatory impact assessments for designated AI types, with soft law in the interim.",
+   "notes": "The published document is a summary version ('version résumée', 20 pages) dated 2023, produced with technical assistance from Expertise France under the AU-EU D4D Hub project. The minister presented the strategy publicly on 14 September 2023 as a first restitution of the work, open to public contributions, and announced that a final version would be submitted to the head of state for political validation. The OECD.AI entry gives 2024 as its start year and lists it as active. Besides orientation 6, the strategy proposes reaffirming in law the principles that multinational platforms must respect, drawing on the EU's Digital Services Act, Digital Markets Act and AI Act, and plans to train about 90,000 people in data science and AI by 2028.",
+   "scope_note": "Mainly a strategy for AI skills, research, an AI cluster and adoption; included as Senegal's national AI strategy, one of whose six orientations sets out AI governance: risk categorisation, regulation, a regulator and an ethics committee.",
+   "english_version": {
+    "kind": "none found"
+   },
+   "id": "SN-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the OECD.AI policy-initiative page (new snapshot of 18 Oct 2026, which differs from the 12 Oct snapshot only in the site menu), the OECD-hosted summary PDF (20 pages, stored 12 Oct 2026, unchanged) and an OSIRIS reprint of the APS dispatch of 14 September 2023 on the presentation (secondary). OECD is another official body, not the issuer; no Senegalese government copy of the strategy is stored, and the copy on the civic portal vie-publique.sn is not an official source. The PDF and the OECD.AI entry confirm the title, the issuing ministry, the 2023 date, the four objectives, six orientations and 52 actions and the sixteen orientation-6 actions; OECD.AI lists the strategy as active with start year 2024. The APS dispatch confirms the presentation on 14 September 2023 and the announced submission of a final version for political validation. No stored source shows that the final version was validated or adopted. Statements in the earlier notes on the New Deal Technologique (February 2025), a presentation to the Hiroshima AI Process friends group in Tokyo in August 2026 and the absence of an AI law or regulator as of October 2026 rest on no stored source and were dropped. No English version of the strategy was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 9 field(s) supported."
+   }
+  },
+  {
+   "summary": "Five-year strategy approved by the Council of Ministers on 18 January 2023, organised in four programmes and 123 actions. Programme 4 sets up the governance framework for AI and big data so that ethics and liability questions are mastered: Action 4.1 provides for a text on AI ethics and liability within twelve months, to be reflected in the Digital Code and Penal Code and to institute impact analyses and controls of AI solutions over their lifecycle, and Action 4.2 for a controlled environment for AI initiatives under articles 406-408 of the Digital Code pending an AI regulatory body. The strategy is evaluated annually.",
+   "notes": "The Council of Ministers approved the strategy and its action plan on 18 January 2023 (communiqué item II-3). Its four programmes are to be rolled out in three phases over five years, and its financing for 2023-2027 is estimated at about 4.68 billion CFA francs. The controls to be instituted under Action 4.1 are to ensure that AI systems take account of concepts such as transparency, justice and equity, responsibility, non-maleficence, privacy, freedom and autonomy.",
+   "scope_note": "Mainly a strategy for AI and big-data use cases, skills, research and data management; included as Benin's national AI strategy, whose fourth programme sets up AI governance, an AI ethics and liability text and a controlled environment for AI initiatives.",
+   "id": "BJ-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the SNIAM PDF (68 pages) from asin.bj, stored 12 Oct 2026 (the retry of 18 Oct 2026 failed with a TLS protocol error, so the 12 Oct copy is the current one), and the Council of Ministers communiqué of 18 January 2023 from sgg.gouv.bj (unchanged on 18 Oct 2026). The PDF confirms the title, the period, the lead ministry, the approval on 18 January 2023, the four programmes and 123 actions, Actions 4.1 and 4.2, the financing estimate and annual evaluation; the communiqué confirms the approval on that date (item II-3). The ministry publishes an English version of the strategy (publication page on innovation.gouv.bj, PDF at asin.bj/doc/14), but both refused the archiver with a TLS protocol error on 18 Oct 2026, so english_version is not recorded and the English title remains a rendering of the French one. Earlier remarks on national AI olympiads in June 2026, on the ministry's later name and on the absence of an AI law in 2024 rest on no stored source and were dropped; the ethics-and-liability text planned under Action 4.1 is not among the stored sources.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 9 field(s) supported."
+   }
+  },
+  {
+   "notes": "Cover dated October 2024; comments were invited until 29 November 2024. It describes itself as a step towards a National AI Policy that would be the basis for AI regulations and potentially an AI Act. The Draft South Africa National AI Policy gazetted on 10 April 2026 (ZA-01), which calls this document the framework of August 2024, was based on it and on the 32 submissions received on it; that draft was later withdrawn.",
+   "id": "ZA-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the OECD.AI policy-initiative page (12 and 18 Oct 2026; only the site menu differs between the two copies) and the OECD-hosted PDF of the framework (12 Oct 2026, 20 pages). The PDF confirms the title, the department, the October 2024 date, the comment deadline of 29 November 2024 and the twelve pillars; the OECD.AI page confirms publication in October 2024 by the department. No copy on a South African government site is stored, so the record rests on another official body's copy. The earlier notes cited law-firm and press accounts of an August 2024 circulation and of release dates in October 2024; these are not stored and are no longer cited, and the gazetted draft policy of April 2026 (ZA-01, stored for that record) itself calls this the framework of August 2024. A department statement that a revised draft would go to Cabinet by November 2026, also in the earlier notes, is not among the stored files and is no longer cited. Nothing stored shows the framework withdrawn.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Dated July 2026; the ministry's call for public comments set a submission deadline of 4 August 2026, with written submissions to the Committee on Artificial Intelligence and Other Emerging Technologies. It builds on the Kenya AI Strategy 2025-2030 (KE-01), the Digital Master Plan 2022-2032 and the Data Protection Act 2019, and underwent legal review, including by the Office of the Attorney General. For systems placed into service after the policy takes effect, full compliance would be required once the relevant implementing regulations come into force; systems already in operation would have a two-year transition, and high-risk legacy systems three years to comply fully.",
+   "id": "KE-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Recheck of 18 Oct 2026. Stored: the draft policy PDF (226 pages) and the ministry's public-participation page, both from ict.go.ke (16 Oct 2026). The PDF confirms the title, the July 2026 date, the issuing ministry and state department and the provisions summarised; the public-participation page calls it a draft, invites comments and gives the deadline of 4 August 2026. The PDF's cover reads 'Kenya Artificial Intelligence and Other Emerging Technologies Policy' without the word draft, and its foreword calls it 'the Kenya AI and other Emerging Technologies Policy, 2026'. Nothing stored shows Cabinet approval, a sessional paper or a bill after the consultation. The December 2025 Implementation Roadmap of KE-01, mentioned in the earlier notes, is not among the stored files and is no longer cited.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  }
+ ],
+ "history_context": {
+  "AU-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate AU-01",
+   "fields": {
+    "language": {
+     "reason": "the AU page links English, French, Arabic and Portuguese texts of the strategy, and the French text is stored; listed alphabetically as for other intergovernmental records",
+     "evidence": [
+      {
+       "field": "language",
+       "file": "archive/AU-01/2026-10-18/official.html",
+       "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+       "locator": "document page, description",
+       "quote": "Access the Strategy: [English] [French] [Arabic] [Portuguese]"
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten from the strategy's text: adds the regional AI Ethics Board for novel large-scale systems, independent oversight institutions and the centre of excellence on AI safety and security; 'privacy' and 'election manipulation' replaced by the strategy's own wording",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/AU-01/2026-10-11/document-1.pdf",
+       "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+       "locator": "page 8, Executive Summary",
+       "quote": "The eleventh area of action provides for the adoption and implementation of technical standards to ensure the safety and security of AI systems across the Continent."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "corrected: the strategy speaks of five focus areas in its foreword and executive summary but lists six in section 2.4; adds the 2025-2030 implementation phases and the language versions",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/AU-01/2026-10-18/official.html",
+       "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+       "locator": "document page, heading and date",
+       "quote": "Continental Artificial Intelligence Strategy Aug 9, 2024"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: a development strategy whose risk-minimising content is one focus area among five or six gets a scope_note under the general rule for strategies, as in recent rechecks (NO-01, PT-01, DE-02)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/AU-01/2026-10-11/document-1.pdf",
+     "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+     "locator": "page 3 (title page)",
+     "quote": "Continental Artificial Intelligence Strategy Harnessing AI for Africa’s Development and Prosperity"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/AU-01/2026-10-11/document-1.pdf",
+     "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+     "locator": "page 5, Acknowledgment",
+     "quote": "The AU Strategy on Artificial Intelligence (AI) was adopted by the AU Executive Council during its 45th Ordinary Session held on to 18th – 19th July 2024, in Accra, The Republic of Ghana."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/AU-01/2026-10-11/document-1.pdf",
+     "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+     "locator": "page 3 (title page)",
+     "quote": "Harnessing AI for Africa’s Development and Prosperity July 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/AU-01/2026-10-11/document-1.pdf",
+     "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+     "locator": "page 63, 3.2.1 Timeframe for the Implementation of Strategy",
+     "quote": "The Continental AI strategy proposes a five -year timeframe between 2025 and 2030 for implementing the actions in the fifteen areas outlined above."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/AU-01/2026-10-11/document-1.pdf",
+     "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+     "locator": "page 4, Foreword",
+     "quote": "I urge African countries to accelerate the domestication of the strategy and implement its imperatives for the greater good of our continent and of our people."
+    }
+   ],
+   "cand_id": "AU-01"
+  },
+  "IL-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate IL-01",
+   "fields": {
+    "original_title": {
+     "reason": "set from the OECD.AI entry's 'Name in original language' (entered by Israel's national contact point), as the Hebrew document itself could not be stored",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+       "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+       "locator": "OECD.AI entry, Name in original language",
+       "quote": "Name in original language עקרונות, מדיניות, רגולציה ואתיקה בתחום הבינה המלאכותית 2023"
+      }
+     ]
+    },
+    "language": {
+     "reason": "'English, Hebrew' changed to 'Hebrew': the ministry's English document says the policy 'was originally published in Hebrew' and that the English document is a summary of it (page 3), so the official text is Hebrew only",
+     "evidence": [
+      {
+       "field": "language",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+       "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+       "locator": "page 3",
+       "quote": "The AI Policy was originally published in Hebrew."
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "recorded as a government translation: the issuing ministry's English summary, stored from the copy OECD.AI links (api.oecd.ai), because the gov.il copy refuses downloads; it is a summary, not a full translation, which 'by' says",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "rewritten from the stored English summary: the ministries, Resolution 212, the 2022 White Paper, the Hebrew original and the English summary, the scope (private sector, sectoral regulators, whole lifecycle) and the planned work on foundation models; the sentence on later OECD.AI items 'not separately verified' was process language and those items now go to leads",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+       "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+       "locator": "page 2, Introduction",
+       "quote": "conducted collaboratively with the Office of Legal Counsel and Legislative Affairs (Economic Law Department) at the Ministry of Justice."
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+     "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+     "locator": "page 2, heading",
+     "quote": "Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+     "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+     "locator": "page 2, Introduction",
+     "quote": "Israel's Ministry of Innovation, Science and Technology published, on December 2023, its first -ever policy on AI regulation and ethics"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-41ec684913/2026-10-18/official.pdf",
+     "sha256": "0c8c7ac0b430bec63403ca86fbffe26baaaac8c2689d8454753706e3c19b6c32",
+     "locator": "page 2, Introduction",
+     "quote": "Israel's Ministry of Innovation, Science and Technology published, on December 2023, its first -ever policy on AI regulation and ethics"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+     "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+     "locator": "OECD.AI entry, About the policy initiative",
+     "quote": "Status: Active Start Year: 2023 Binding: Non-binding"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/IL-01/extra-4cad1e6efe/2026-10-18/official.html",
+     "sha256": "897ca987c0fe3a2aea4cc9adfda3200274b20697951cf6e15d8221e728757d6f",
+     "locator": "OECD.AI entry, About the policy initiative",
+     "quote": "Status: Active Start Year: 2023 Binding: Non-binding"
+    }
+   ],
+   "cand_id": "IL-01"
+  },
+  "KE-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate KE-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the strategy's text: the earlier summary was 265 characters and left out the planned national AI risk and safety institute, conformity assessment and safety audits, the AI and Other Emerging Technologies Act, sandboxes and the redress mechanism",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/KE-01/2026-10-11/secondary.pdf",
+       "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+       "locator": "page 8, Executive Summary",
+       "quote": "The strategy is anchored by three key pillars and supported by four enablers."
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "safety institute added (objective 5.2.3) and public-sector use (mandatory ethical impact assessment and procurement guidelines for the public sector); international cooperation added (objective 5.4.2); research priorities dropped, since the strategy's research pillar is about AI innovation and commercialisation, not safety research",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/KE-01/2026-10-11/secondary.pdf",
+       "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+       "locator": "page 79, Table 5.5: Governance, objective 5.4",
+       "quote": "Promote regional and international cooperation to share knowledge, align AI standards and collaborate on AI challenges"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the launch date and developers from the ministry page; 'builds on the Data Protection Act' dropped, since the strategy only names that Act among Kenya's strengths",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/KE-01/2026-10-16/official.html",
+       "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+       "locator": "news item, second paragraph",
+       "quote": "The strategy has been developed by the National AI working group and Steering Committee through extensive consultations"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: mainly a development strategy with governance and ethics among its enablers, the same case as NO-01, PT-01 and DE-02",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/KE-01/2026-10-11/secondary.pdf",
+     "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+     "locator": "page 1 (cover)",
+     "quote": "KENYA ARTIFICIAL INTELLIGENCE STRATEGY 2025-2030 March 2025"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/KE-01/2026-10-16/official.html",
+     "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+     "locator": "news item, first paragraph",
+     "quote": "The Ministry of Information, Communications and Digital Economy (MICDE) is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/KE-01/2026-10-16/official.html",
+     "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+     "locator": "news item, first paragraph",
+     "quote": "is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030 on Thursday 27th March, 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/KE-01/2026-10-16/official.html",
+     "sha256": "2130480ddc5cf5e48cc55be2b9bc7518aa12348a74eae3c61b28d7c63f11677d",
+     "locator": "news item, first paragraph",
+     "quote": "The Ministry of Information, Communications and Digital Economy (MICDE) is set to launch the Kenya Artificial Intelligence (AI) Strategy 2025-2030 on Thursday 27th March, 2025 at the Kenyatta International Convention Center."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/KE-01/2026-10-11/secondary.pdf",
+     "sha256": "55e33e3ebf2c78bb8024bae1229fa7d557e32eeb81726021f5d163a637e3b145",
+     "locator": "page 8, Executive Summary",
+     "quote": "The strategy is a call to action for stakeholders to collaborate in realising this vision"
+    }
+   ],
+   "cand_id": "KE-01"
+  },
+  "NG-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate NG-01",
+   "fields": {
+    "legal_force": {
+     "reason": "Non-binding changed to Proposed: the document is marked 'DRAFT' on every page and was never adopted in this form; the register records unadopted drafts of policies and strategies as Proposed, including withdrawn or replaced ones (ZA-01, KH-01, BD-01, KE-02)",
+     "evidence": [
+      {
+       "field": "legal_force",
+       "file": "archive/NG-01/2026-10-11/official.pdf",
+       "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+       "locator": "page 1 (cover)",
+       "quote": "DRAFT AUGUST, 2024"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: mainly a development strategy with responsible AI and governance as two of its five pillars (page 27), the same case as NG-02 and the strategies given a scope_note in recent rechecks",
+     "evidence": [
+      {
+       "field": "scope_note",
+       "file": "archive/NG-01/2026-10-11/official.pdf",
+       "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+       "locator": "page 27, 1.4.1 Strategic Pillars, Introduction",
+       "quote": "This comprehensive National AI Strategy outlines five key pillars that will propel Nigeria towards achieving its vision."
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/NG-01/2026-10-11/official.pdf",
+     "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+     "locator": "page 2, running footer",
+     "quote": "DRAFT NA TIONAL ARTIFICIAL INTELLIGENCE STRA TEGY 2024"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/NG-01/2026-10-11/official.pdf",
+     "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+     "locator": "page 2, Acknowledgements",
+     "quote": "The Federal Ministry of Communication, Innovation and Digital Economy (FMCIDE) would like to acknowledge the contributions of all stakeholders who provided data"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/NG-01/2026-10-11/official.pdf",
+     "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+     "locator": "page 1 (cover)",
+     "quote": "DRAFT AUGUST, 2024"
+    }
+   ],
+   "cand_id": "NG-01"
+  },
+  "NG-02": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate NG-02",
+   "fields": {
+    "summary": {
+     "reason": "corrected: the four factors accuracy, bias, transparency and governance are the strategy's general factors of AI risk assessment (section 1.1.5.2), not the content of the planned National AI Risk Management Framework, whose protocols cover safety and security risks; 'creates' replaced by 'plans', since the strategy plans these bodies",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/NG-02/2026-10-11/official.pdf",
+       "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+       "locator": "page 5, Executive Summary",
+       "quote": "Underpinning these strategic objectives are 5 strategic pillars that form the core of Nigeria’s AI aspirations."
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "risk-based classification dropped: the strategy sets no risk classes or tiers; the other three topics are supported",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/NG-02/2026-10-11/official.pdf",
+       "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+       "locator": "page 27, 1.1.5.2 Mitigating AI Risks",
+       "quote": "robust testing and validation, ongoing monitoring and maintenance, human oversight and intervention, ethical considerations and compliance, regular auditing and documentation"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the drafting history from the strategy itself; the file-name date and the April 2026 'Two years of NAIS' compilation are dropped (the first is not a date in the document, the second is not in a stored file)",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/NG-02/2026-10-11/official.pdf",
+       "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+       "locator": "page 10, Introduction",
+       "quote": "between April 15 and 18, 2024, to co-create a National Artificial Intelligence Strategy (NAIS)"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: mainly a development strategy with responsible AI and governance as two of five pillars, as in recent rechecks of comparable strategies (NO-01, PT-01, DE-02)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/NG-02/2026-10-11/official.pdf",
+     "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+     "locator": "page 4, Executive Summary",
+     "quote": "This National Artificial Intelligence Strategy (NAIS) is a living document to guide Nigeria’s adoption of artificial intelligence for socio-economic change."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/NG-02/2026-10-11/official.pdf",
+     "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+     "locator": "page 2, Acknowledgements",
+     "quote": "The Federal Ministry of Communication, Innovation and Digital Economy (FMCIDE) would like to acknowledge the contributions of all stakeholders who contributed data"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/NG-02/2026-10-11/official.pdf",
+     "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+     "locator": "page 1 (cover)",
+     "quote": "SEPTEMBER, 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/NG-02/2026-10-11/official.pdf",
+     "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+     "locator": "page 28, 1.2.1 Vision Statement",
+     "quote": "Nigeria’s national AI vision statement embodies the guiding principles and aspirations the country seeks to achieve in AI over 2025 - 2029."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/NG-02/2026-10-11/official.pdf",
+     "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+     "locator": "page 4, Executive Summary",
+     "quote": "This National Artificial Intelligence Strategy (NAIS) is a living document to guide Nigeria’s adoption of artificial intelligence for socio-economic change."
+    }
+   ],
+   "cand_id": "NG-02"
+  },
+  "RW-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate RW-01",
+   "fields": {
+    "safety_topics": {
+     "reason": "human oversight dropped: the policy does not mention human oversight; evaluation & testing added for its regulatory sandbox projects to develop or evaluate AI solutions in line with the ethics guidelines; public-sector use, accountability & liability (AI ethics functions and officers across government, the Responsible AI Office) and international cooperation kept",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/RW-01/2026-10-11/official.pdf",
+       "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+       "locator": "page 21, Priority Area 6, activity 70",
+       "quote": "Initiate regulatory sandbox projects on Al to provide controlled testing environment to develop or evaluate innovative Al solutions in line with the guidelines"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: Cabinet approval now rests on MINICT's list of policies approved by the Cabinet; 'fetched pages' and the inference about the adoption month removed; the ethics guidelines, the Responsible AI Office and the implementation years added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/RW-01/2026-10-11/official.pdf",
+       "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+       "locator": "page 23 (back cover)",
+       "quote": "MINICT - 2022"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: mainly a policy for skills, infrastructure, data and adoption with ethics as its one safeguard area, the same case as other national AI strategies given a scope_note in recent rechecks",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/RW-01/2026-10-11/official.pdf",
+     "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+     "locator": "page 4, Executive Summary",
+     "quote": "The National Artificial Intelligence Policy for the Republic of Rwanda serves as a roadmap to enable Rwanda to harness the benefits of AI and mitigate its risks."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/RW-01/2026-10-11/official.pdf",
+     "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+     "locator": "page 4, Executive Summary",
+     "quote": "The National AI Policy has been developed by MINICT and RURA, with support by GIZ FAIR Forward, the Centre for the 4th Industrial Revolution Rwanda (C4IR) and The Future Society (TFS)."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/RW-01/2026-10-11/secondary.html",
+     "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+     "locator": "MINICT publications, Policies list",
+     "quote": "Artificial Intelligence Policy 5 MB Apr 27, 2023"
+    },
+    {
+     "field": "status",
+     "file": "archive/RW-01/2026-10-11/secondary.html",
+     "sha256": "a15c4af56dd5acb4eabd04d0e6625430e5a9905c2795109a8ffa0da097266a1d",
+     "locator": "MINICT publications, Policies, introduction",
+     "quote": "This section presents a list of policies approved by the Cabinet."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/RW-01/2026-10-11/official.pdf",
+     "sha256": "7930abf6ada6af6cfac5402a4598b4909826364c3d4bf5b692f81fa4389251ca",
+     "locator": "page 4, Executive Summary",
+     "quote": "serves as a roadmap to enable Rwanda to harness the benefits of AI and mitigate its risks"
+    }
+   ],
+   "cand_id": "RW-01"
+  },
+  "ZA-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate ZA-01",
+   "fields": {
+    "safety_topics": {
+     "reason": "prohibited practices replaced by transparency & labelling: the draft names no prohibited practices (it plans draft requirements to address unacceptable risks), while it requires explainable AI for high-risk use cases",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/ZA-01/2026-10-11/official.pdf",
+       "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+       "locator": "page 28",
+       "quote": "Ensure citizens can understand and challenge AI decisions, with explainable AI systems required for high-risk use cases."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the signing date, the basis in the 2024 framework with its 32 submissions and the staged implementation added from the gazette; the remarks on where the gazette number comes from and on no replacement draft moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/ZA-01/2026-10-11/official.pdf",
+       "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+       "locator": "page 4, title of the draft policy",
+       "quote": "DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI) POLICY (March 2026)"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/ZA-01/2026-10-11/official.pdf",
+     "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+     "locator": "page 1, General Notice 3880 of 2026",
+     "quote": "DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI) POLICY"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/ZA-01/2026-10-11/official.pdf",
+     "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+     "locator": "page 1, General Notice 3880 of 2026, heading",
+     "quote": "DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES NOTICE 3880 OF 2026"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/ZA-01/2026-10-11/official.pdf",
+     "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+     "locator": "page 1, gazette header and notice number",
+     "quote": "STAATSKOERANT, 10 ApRil 2026 No. 54477 3 DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES NOTICE 3880 OF 2026"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/ZA-01/2026-10-11/official.pdf",
+     "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+     "locator": "page 1, gazette header",
+     "quote": "STAATSKOERANT, 10 ApRil 2026 No. 54477"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+     "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+     "locator": "page 1, gazette header",
+     "quote": "STAATSKOERANT, 12 JuNIE 2026 No. 54840"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+     "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+     "locator": "page 1, Notice 3978 of 2026",
+     "quote": "The Draft South Africa National Artificial Intelligence (AI) Policy was published for public comments and is withdrawn in its entirety effective from the date of publication."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/ZA-01/2026-10-11/official.pdf",
+     "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+     "locator": "page 1, General Notice 3880 of 2026",
+     "quote": "Members of the public and interested persons are invited to submit their comments / inputs / written representations on this Draft Policy"
+    }
+   ],
+   "cand_id": "ZA-01"
+  },
+  "AE-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate AE-01",
+   "fields": {
+    "title": {
+     "reason": "set to the name both stored versions of the official page give ('UAE Strategy for Artificial Intelligence'); the previous title with 'National' and '2031' is the title of the strategy document on ai.gov.ae, which refused the archiver in both rounds",
+     "evidence": [
+      {
+       "field": "title",
+       "file": "archive/AE-01/2026-10-11/official.html",
+       "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+       "locator": "page heading",
+       "quote": "UAE Strategy for Artificial Intelligence | The Official Platform of the UAE Government"
+      }
+     ]
+    },
+    "short_title": {
+     "reason": "'2031' dropped with the title",
+     "evidence": []
+    },
+    "summary": {
+     "reason": "rewritten from the stored pages, following the fuller Arabic text: aims including the 2031 target, sectors and the five themes; the eight objectives and Objective 8 of the previous summary rest on the unstored strategy document",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+       "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+       "locator": "aims",
+       "quote": "الاعتماد على الذكاء الاصطناعي في الخدمات وتحليل البيانات بمعدل 100% بحلول عام 2031"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the launch, the 2031 target and the link to the 2024 charter (AE-02); the remark on the two titles moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/AE-01/2026-10-11/official.html",
+       "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+       "locator": "main text, first paragraph",
+       "quote": "This marks the post-mobile government phase which will rely on various future services, sectors and infrastructure projects."
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: mainly an adoption strategy; its safety content on the stored pages is the fifth theme (a government law on the safe use of AI and controls for safe use)",
+     "evidence": []
+    },
+    "original_title": {
+     "reason": "'الاستراتيجية الوطنية للذكاء الاصطناعي 2031' -> 'استراتيجية الإمارات للذكاء الاصطناعي', the name on the stored Arabic page, matching the new title; the previous value is in no stored source",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-01/extra-ce608ee247/2026-10-18/official.html",
+       "sha256": "c14b7bc08f9c2124e10f931297266361976cff8324f8db5721c78870b4cc02af",
+       "locator": "main text, first paragraph",
+       "quote": "في أكتوبر 2017، أطلقت حكومة دولة الإمارات استراتيجية الإمارات للذكاء الاصطناعي (AI)"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "issuing_body",
+     "file": "archive/AE-01/2026-10-11/official.html",
+     "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+     "locator": "main text, first paragraph",
+     "quote": "In October 2017, the UAE Government launched"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/AE-01/2026-10-11/official.html",
+     "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+     "locator": "main text, first paragraph",
+     "quote": "In October 2017, the UAE Government launched ‘UAE Strategy for Artificial Intelligence (AI)’."
+    },
+    {
+     "field": "status",
+     "file": "archive/AE-01/2026-10-11/official.html",
+     "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+     "locator": "main text, first paragraph",
+     "quote": "The strategy is first of its kind in the region and the world and it aims to"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/AE-01/2026-10-11/official.html",
+     "sha256": "de563d1556f47474dad25f21d0daba0d2ebd83d68e48e90f540b50294bb80be4",
+     "locator": "Themes",
+     "quote": "launch leadership strategy and issue a government law on the safe use of AI."
+    }
+   ],
+   "cand_id": "AE-01"
+  },
+  "AE-02": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate AE-02",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the stored u.ae page; 'aligned with the UAE AI Strategy 2031' replaced by the page's own wording (the UAE Strategy for Artificial Intelligence), and the characterisation 'not legislation' dropped",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/AE-02/2026-10-18/secondary.html",
+       "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+       "locator": "Priorities & Key Components, Safety",
+       "quote": "The UAE places great importance on safety, ensuring that all AI systems comply with the highest safety standards. The country encourages modifying or removing systems that pose risks."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the link to the strategy, the objectives and the expected outcomes from the page; the date discrepancy, the press-based issuing body and the fetch failures moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/AE-02/2026-10-18/secondary.html",
+       "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+       "locator": "Expected Outcomes",
+       "quote": "Expected Outcomes Enhance innovation and attract investments, thereby increasing efficiency and productivity."
+      }
+     ]
+    },
+    "original_title": {
+     "reason": "null -> 'ميثاق تطوير واستخدام الذكاء الاصطناعي', the heading of the stored Arabic portal page",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/AE-02/extra-cc5941c8a0/2026-10-18/official.html",
+       "sha256": "5605eb56d337e0b4008d7502da168ebf6daa752dcc965cb4b36edea75978caaa",
+       "locator": "page heading and first paragraph",
+       "quote": "يهدف ميثاق تطوير واستخدام الذكاء الاصطناعي إلى تحقيق مستهدفات استراتيجية الإمارات للذكاء الاصطناعي"
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/AE-02/2026-10-18/secondary.html",
+     "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+     "locator": "page heading and first paragraph",
+     "quote": "The UAE Charter for the Development and Use of Artificial Intelligence aims to achieve the strategic goals of the UAE Strategy for Artificial Intelligence"
+    },
+    {
+     "field": "status",
+     "file": "archive/AE-02/2026-10-18/secondary.html",
+     "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+     "locator": "Policy Objectives",
+     "quote": "Policy Objectives Ensure the use of artificial intelligence in an ethical and responsible manner."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/AE-02/2026-10-18/secondary.html",
+     "sha256": "ff9cba4d3bafa94156c38c073c1d350cacd49485883387898ff73ca03490c751",
+     "locator": "first paragraph",
+     "quote": "Additionally, it includes principles for compliance with existing legislation and agreements related to the development and use of AI in the country."
+    }
+   ],
+   "cand_id": "AE-02"
+  },
+  "SA-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate SA-01",
+   "fields": {
+    "date_published": {
+     "reason": "2025 -> 2025-05: the document-control table on page 50 gives 'May 2025'",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/SA-01/2026-10-11/official.pdf",
+       "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+       "locator": "page 50, document-control table",
+       "quote": "May 2025 Document Type | Regulatory Documents"
+      }
+     ]
+    },
+    "official_identifier": {
+     "reason": "null -> SDAIA-P114E, the document number in the document-control table (the same series as SA-02 and SA-03)",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/SA-01/2026-10-11/official.pdf",
+       "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+       "locator": "page 50, document-control table",
+       "quote": "Document Number | SDAIA-P114E"
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten to include the four risk levels and the bar on social scoring and mass surveillance, which the framework sets",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/SA-01/2026-10-11/official.pdf",
+       "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+       "locator": "page 9, AI Risks",
+       "quote": "High risk: AI systems that pose “high risks” to basic rights must undergo pre- and post-conformity assessments"
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "added risk-based classification (four risk levels with conformity assessment for high risk) and prohibited practices (unacceptable risk not allowed; no social scoring or mass surveillance)",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "rewritten: document control, compliance and roles from the PDF; SDAIA's listing of the document and the 'draft' label of its link from the stored page; SDAIA's power to set AI policies, standards and controls from its organisational arrangements; the law-firm account of earlier versions moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/SA-01/2026-10-11/official.pdf",
+       "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+       "locator": "page 29, Roles and Responsibilities",
+       "quote": "AI Ethics Compliance Measurement: Measure compliance of Adopting Entities on a regular basis based on the defined compliance mechanism directly or through sector regulators"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SA-01/2026-10-11/official.pdf",
+     "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+     "locator": "page 1 (cover)",
+     "quote": "2025 AI Ethics Principles"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SA-01/2026-10-11/official.pdf",
+     "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+     "locator": "page 28, Roles and Responsibilities, National Level",
+     "quote": "SDAIA works to review and update the principles of artificial intelligence ethics and monitor compliance with them."
+    },
+    {
+     "field": "status",
+     "file": "archive/SA-01/2026-10-11/official.pdf",
+     "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+     "locator": "page 50, document-control table",
+     "quote": "Document Number | SDAIA-P114E Version Number | 1"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SA-01/2026-10-11/official.pdf",
+     "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+     "locator": "page 31, Compliance, Optional Registration",
+     "quote": "Optional Registration aims to motivate target entities to consider AI ethics when building and developing AI"
+    }
+   ],
+   "cand_id": "SA-01"
+  },
+  "SA-02": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate SA-02",
+   "fields": {
+    "notes": {
+     "reason": "rewritten from the two PDFs and SDAIA's stored page (two versions of one guideline); the January 2024 first-release dates (third-party trackers only) moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-02/extra-c1e699f6ef/2026-10-18/official.html",
+       "sha256": "f7c5b82340bd03a7074821fd7eb9cf686fe63839e3dd3874648e9997b3e1aac6",
+       "locator": "Generative Al Guideline section",
+       "quote": "There are two versions of this guideline. The first version directed toward government employees. The second version is for the public."
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force",
+    "summary"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 1 (cover)",
+     "quote": "Generative Artificial Intelligence for Government Guidelines"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 5, Introduction",
+     "quote": "The Saudi Data & AI Authority (SDAIA) recognizes the need to keep pace with regulatory and technological changes"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 30, document-control table",
+     "quote": "Document Number | SDAIA-P116E"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 30, document-control table",
+     "quote": "May 2025 Document Type | Regulatory Documents"
+    },
+    {
+     "field": "status",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 30, document-control table",
+     "quote": "Document Number | SDAIA-P116E Version Number | 1"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 5, Introduction",
+     "quote": "This document provides regulatory guidelines for government employees regarding the use and processing of government data in GenAI tools"
+    },
+    {
+     "field": "summary",
+     "file": "archive/SA-02/2026-10-11/official.pdf",
+     "sha256": "fb2427075540afee124b5bd8a9e497ed6a0a99db54ecfe64c6900d451ee5a2cb",
+     "locator": "page 7, Generative Artificial Intelligence Guidelines",
+     "quote": "Government entities must also refrain from using generative artificial intelligence in critical decision-making processes that affect individuals or the vital interests of the Kingdom."
+    }
+   ],
+   "cand_id": "SA-02"
+  },
+  "SA-03": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate SA-03",
+   "fields": {
+    "official_identifier": {
+     "reason": "'SDAIA-P119 (Version 2)' -> 'SDAIA-P119': the identifier holds the document number only; the version is in the notes",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/SA-03/2026-10-11/official.pdf",
+       "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+       "locator": "page 56, document-control table",
+       "quote": "Document Number | SDAIA-P119"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten from the PDF and SDAIA's page; the remark that version 1 was not found moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/SA-03/2026-10-11/official.pdf",
+       "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+       "locator": "page 9",
+       "quote": "As of June 2024, no documentation explicitly reference deepfakes"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force",
+    "summary"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SA-03/2026-10-11/official.pdf",
+     "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+     "locator": "page 1 (cover)",
+     "quote": "Guidelines Deepfakes Guidelines Mitigating Risks While Fostering Innovation"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SA-03/2026-10-11/official.pdf",
+     "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+     "locator": "page 56, document-control table",
+     "quote": "Document Number | SDAIA-P119"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SA-03/2026-10-11/official.pdf",
+     "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+     "locator": "page 56, document-control table",
+     "quote": "May 2025 Document Type | Regulatory Documents"
+    },
+    {
+     "field": "status",
+     "file": "archive/SA-03/2026-10-11/official.pdf",
+     "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+     "locator": "page 56, document-control table",
+     "quote": "Document Number | SDAIA-P119 Version Number | 2"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SA-03/2026-10-11/official.pdf",
+     "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+     "locator": "page 4, Executive Summary",
+     "quote": "This document provides comprehensive guidelines to address the implications of deepfake technologies and mitigate their associated risks."
+    },
+    {
+     "field": "summary",
+     "file": "archive/SA-03/2026-10-11/official.pdf",
+     "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+     "locator": "page 4, Executive Summary",
+     "quote": "Developers are also urged to ensure accountability by establishing human oversight and clear responsibilities for AI outcomes."
+    }
+   ],
+   "cand_id": "SA-03"
+  },
+  "SA-04": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate SA-04",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from CST's stored releases (English and Arabic, which agree); the description of guest countries, designated foreign states and Council of Ministers powers rested on law-firm summaries of the draft, which is not stored",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/SA-04/2026-10-11/official.html",
+       "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+       "locator": "second paragraph",
+       "quote": "it enables the establishment of sovereign data centers that ensure service continuity and data sovereignty beyond boarders"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the consultation channel and the treaty-alignment statement from the release; the remark that no adoption was found moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/SA-04/2026-10-11/official.html",
+       "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+       "locator": "third paragraph",
+       "quote": "The law aligns with relevant international treaty frameworks and principles."
+      }
+     ]
+    },
+    "original_title": {
+     "reason": "null -> 'مشروع نظام المركز العالمي للذكاء الاصطناعي', the name of the draft in the heading of CST's stored Arabic release",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-04/extra-b279867c23/2026-10-18/official.html",
+       "sha256": "ac89786f218e89ee1eefac80d9997d6cb3d77d3ecdc4eacb5ade13238b2dcec1",
+       "locator": "page heading",
+       "quote": "هيئة الاتصالات والفضاء والتقنية تدعو العموم لتقديم مرئياتهم حول مشروع نظام المركز العالمي للذكاء الاصطناعي"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "page heading",
+     "quote": "CST Publishes a Public Consultation for the Global AI Hub Law"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "first paragraph",
+     "quote": "The Communications, Space, and Technology Commission (CST) invites the public to submit their input on the Global AI Hub Law"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "page details, Date",
+     "quote": "Date 14/4/2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "fourth paragraph",
+     "quote": "The feedback starts from April 14, 2025, until May 14, 2025, through: Public Consultation Platform"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "first paragraph",
+     "quote": "invites the public to submit their input on the Global AI Hub Law, which contributes to creating a legislative and regulatory environment"
+    }
+   ],
+   "cand_id": "SA-04"
+  },
+  "EG-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate EG-01",
+   "fields": {
+    "issuing_body": {
+     "reason": "the Minister's chairmanship of the Council is not in the stored charter; the Council's name is quoted from it",
+     "evidence": [
+      {
+       "field": "issuing_body",
+       "file": "archive/EG-01/2026-10-11/official.pdf",
+       "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+       "locator": "page 2, footer",
+       "quote": "© National Council for AI"
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten from the charter: 'issued by' instead of 'adopted by' (the charter shows only '© National Council for AI'); the testing claim now matches implementation guideline 13; the principles moved to notes",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/EG-01/2026-10-11/official.pdf",
+       "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+       "locator": "page 3, Document Scope",
+       "quote": "This document serves as the first attempt at articulating Egypt’s interpretation of the various guidelines on ethical and responsible AI"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: version, principles, annual review and sources from the charter; the press-release and tracker dates and the remark on which copy was used moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/EG-01/2026-10-11/official.pdf",
+       "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+       "locator": "page 3, Document Scope",
+       "quote": "A public consultation shall also take place prior to each revision to ensure that the perspectives of all stakeholders are considered."
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "added: the charter's English text is the Council's own (ai.gov.eg English resources); language already includes English",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/EG-01/2026-10-11/official.pdf",
+     "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+     "locator": "page 1 (cover)",
+     "quote": "Egyptian Charter for Responsible AI 2023 v1.0"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/EG-01/2026-10-11/official.pdf",
+     "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+     "locator": "page 1 (cover)",
+     "quote": "Egyptian Charter for Responsible AI 2023 v1.0"
+    },
+    {
+     "field": "status",
+     "file": "archive/EG-01/2026-10-11/official.pdf",
+     "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+     "locator": "page 3, Document Scope",
+     "quote": "This document shall be reviewed on an annual basis to ensure its continuous currency and relevance."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/EG-01/2026-10-11/official.pdf",
+     "sha256": "64e06fb84da1502053d79ca8d7d11c2f2f628d23cf78c1a9782c9ae8c2acaa49",
+     "locator": "page 2, Introduction and Background",
+     "quote": "As most of these recommendations are non-binding and quite generic, it is incumbent upon the different countries to develop their own local interpretations of these guidelines"
+    }
+   ],
+   "cand_id": "EG-01"
+  },
+  "EG-02": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate EG-02",
+   "fields": {
+    "official_identifier": {
+     "reason": "the document ID alone; '(Edition 2.0)' is a version label and moved to notes",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/EG-02/2026-10-11/official.pdf",
+       "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+       "locator": "page 3, Document Control & Administration",
+       "quote": "Document ID EG-NCAI-GOV-FW-2026-02"
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten from the guide: 'social profiling' as the guide says (not 'social scoring'); the Dual-Check, post-market monitoring and serious-incident reporting added; the audit lab moved to notes",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/EG-02/2026-10-11/official.pdf",
+       "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+       "locator": "page 21, 4.2 Risk Classification",
+       "quote": "such as those involving social profiling, the exploitation of children, or manipulative behavioral interference—are prohibited"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: version history, Phase 1 agenda and the link to an AI law from the guide, the companion guidelines from the stored secondary PDF; tracker and MCIT-page remarks moved to verification.note; the sentence on how the register records the companion guidelines dropped",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/EG-02/2026-10-11/official.pdf",
+       "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+       "locator": "page 3, Version Control",
+       "quote": "1.0 Jan 2026 Drafting Committee (ECRAI) Final Version for Public Consultation"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/EG-02/2026-10-11/official.pdf",
+     "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+     "locator": "page 3, Document Control & Administration",
+     "quote": "Document Title Guide to Egypt’s National AI Governance Framework"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/EG-02/2026-10-11/official.pdf",
+     "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+     "locator": "page 3, Document Control & Administration",
+     "quote": "Owner National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies Custodian Egyptian Center for Responsible AI (ECRAI)"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/EG-02/2026-10-11/official.pdf",
+     "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+     "locator": "page 3, Authorization",
+     "quote": "authorized for release by: H.E. Eng. Raafat Hindy Minister of Communications and Information Technology Chairman, National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies (Signature Placeholder) Date: March 15, 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/EG-02/2026-10-11/official.pdf",
+     "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+     "locator": "page 2",
+     "quote": "Edition: 2.0 Status: Approved for Publication Date: March 2026"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/EG-02/2026-10-11/official.pdf",
+     "sha256": "491cf412b207a877cde1d17f899cee1d87ffa1d88c05f14a62eda9734580c37e",
+     "locator": "page 9, 1.1 Preamble",
+     "quote": "The successful implementation of the Guidelines, Standards, and compliance mechanisms established in the Governance Framework will directly inform the drafting of the Egyptian AI Law"
+    }
+   ],
+   "cand_id": "EG-02"
+  },
+  "EG-03": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate EG-03",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the guidelines: 'as part of the 2026 governance framework' is not in the stored text and was dropped; consent, election and news restrictions and the agentic-AI safeguards added; the drafting-disclosure remark moved to notes",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/EG-03/2026-10-11/official.pdf",
+       "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+       "locator": "page 4, Executive Summary",
+       "quote": "including misinformation and deepfakes, hallucinations and inaccurate outputs, bias and discrimination, privacy and data protection risks, intellectual property concerns, unclear accountability"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten from the stored PDF; the tracker's release date and the MCIT listing moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/EG-03/2026-10-11/official.pdf",
+       "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+       "locator": "page 14 (deepfake definition)",
+       "quote": "treats lip-sync as a high-risk enabling capability within generative AI"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/EG-03/2026-10-11/official.pdf",
+     "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+     "locator": "page 1 (cover)",
+     "quote": "EGYPT’S NATIONAL GENERATIVE AI GUIDELINES"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/EG-03/2026-10-11/official.pdf",
+     "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+     "locator": "page 2",
+     "quote": "This document was developed under the leadership of the Ministry of Communications and Information Technology, with key contributions from the Egyptian Center for Responsible AI"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/EG-03/2026-10-11/official.pdf",
+     "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+     "locator": "page 1 (cover)",
+     "quote": "Egyptian Center for Responsible AI March 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/EG-03/2026-10-11/official.pdf",
+     "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+     "locator": "page 2",
+     "quote": "Version: 1.0"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/EG-03/2026-10-11/official.pdf",
+     "sha256": "793815b574bdaee85a7a294da2b63c698a2ddf65eb8d2a03d7276729eda042f9",
+     "locator": "page 4, Executive Summary",
+     "quote": "Rather than imposing rigid, technology-specific rules, the framework supports adaptive policy and oversight mechanisms that can evolve alongside rapid technological change."
+    }
+   ],
+   "cand_id": "EG-03"
+  },
+  "EG-04": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate EG-04",
+   "fields": {
+    "issuing_body": {
+     "reason": "the stored second edition names the NCAI as the body that prepares and approves the strategy; MCIT appears only in the account of the first edition",
+     "evidence": [
+      {
+       "field": "issuing_body",
+       "file": "archive/EG-04/2026-10-11/official.pdf",
+       "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+       "locator": "page 5, 2. Executive Summary",
+       "quote": "The main objective of the National Council for Artificial Intelligence (NCAI) is to, prepare, formalize, approve and govern the implementation of Egypt’s National AI Strategy."
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten from the strategy: the governance pillar's actions as the strategy names them (Center for Responsible AI, risk-classification guidelines and standards, charter guidelines, testing and deployment regulations, assurance framework, AI law); the claim that the 2026 framework implements the pillar dropped from the summary (it is in EG-02, not in this text)",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/EG-04/2026-10-11/official.pdf",
+       "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+       "locator": "page 14, 5.3 Strategic Pillars",
+       "quote": "Governance, ICT and AI Infrastructure, Technology, Data, Talents, and Ecosystem."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the President's launch statement, the dialogues initiative and the economic goals as the strategy states them (250+ AI companies, 30,000 AI professionals); the scope remark moved to scope_note; the file-name date moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/EG-04/2026-10-11/official.pdf",
+       "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+       "locator": "page 2, Statement from the President of the Republic",
+       "quote": "This edition builds upon the foundation laid by the launch of the first National AI Strategy in May 2021"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: mainly an adoption and economic strategy with a governance pillar; the general rule on strategies whose main content is not safety",
+     "evidence": []
+    },
+    "safety_topics": {
+     "reason": "risk-based classification added (guidelines and standards for classifying AI system risks; protection against high-risk or prohibited AI)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/EG-04/2026-10-11/official.pdf",
+     "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+     "locator": "page 1 (cover)",
+     "quote": "Egypt National Artificial Intelligence Strategy Second Edition (2025-2030)"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/EG-04/2026-10-11/official.pdf",
+     "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+     "locator": "page 2, Statement from the President of the Republic",
+     "quote": "I am proud to launch the Second Edition of the National Artificial Intelligence Strategy 2025-2030."
+    },
+    {
+     "field": "status",
+     "file": "archive/EG-04/2026-10-11/official.pdf",
+     "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+     "locator": "page 2, Statement from the President of the Republic",
+     "quote": "I am proud to launch the Second Edition of the National Artificial Intelligence Strategy 2025-2030."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/EG-04/2026-10-11/official.pdf",
+     "sha256": "4e5739e811831c8da71e9a649f9709302939833e03fbbd026123455a441e2060",
+     "locator": "page 5, 2. Executive Summary",
+     "quote": "To this end, Egypt is adopting its second edition of the National AI Strategy, which aims to realize the following vision"
+    }
+   ],
+   "cand_id": "EG-04"
+  },
+  "TR-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate TR-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the bill text: the claim that it was the first AI bill submitted to parliament rests on commentary and was dropped; 'Güvenlik' rendered as safety and the defined term dağıtıcı/kullanıcı rendered literally",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/TR-01/2026-10-11/document-1.pdf",
+       "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+       "locator": "page 13, Article 3",
+       "quote": "Yapay zeka sistemlerinin geliştirilmesi, kullammı ve dağıtımı sırasında aşağıdaki temel ilkelere uyulması zorunludur:"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the gaps in the bill are now stated from its text rather than attributed to commentators; the entry-into-force clause and the rendering of dağıtıcı/kullanıcı added; the date of TR-02 dropped (not in this record's files)",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/TR-01/2026-10-11/document-1.pdf",
+       "sha256": "2c05eee92104215df4f82e22b87256c3c180a9b734ae7f3d6a795a517bccc42d",
+       "locator": "page 12, Article 2",
+       "quote": "Dağıtıcı/Kullamcı: Yapay zeka sistemlerini ticari amaçlarla dağıtan veya kendi faaliyetlerinde kullanan gerçek veya tüzel kişileri ifade eder."
+      }
+     ]
+    },
+    "english_version": {
+     "reason": "added as 'none found': the bill is in Turkish only and a web search found no English translation",
+     "evidence": []
+    },
+    "scope_note": {
+     "reason": "added: a private member's bill in committee since June 2024 with no further action, as with BG-02 and RO-01",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi Bilgileri, Teklifin Başlığı",
+     "quote": "Teklifin Başlığı Yapay Zeka Kanun Teklifi"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi Bilgileri, Teklifin Başlığı",
+     "quote": "Teklifin Başlığı Yapay Zeka Kanun Teklifi"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi İmza Sahipleri",
+     "quote": "Ömer Faruk GERGERLİOĞLU HALKLARIN EŞİTLİK VE DEMOKRASİ PARTİSİ Kocaeli İlk İmza Sahibi"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi Bilgileri",
+     "quote": "Dönemi ve Yasama Yılı 28 / 2 Esas Numarası 2 / 2234"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi Bilgileri, Başkanlığa Geliş Tarihi",
+     "quote": "Başkanlığa Geliş Tarihi 24/06/2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi Bilgileri, Son Durumu",
+     "quote": "Son Durumu KOMİSYONDA Teklifin Sonucu"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/TR-01/2026-10-11/official.html",
+     "sha256": "581acedf1bd552c982b1578386e7a9c116c3acc4655cb92f8dfc9bb350fd90bb",
+     "locator": "Kanun Teklifi Bilgileri, Son Durumu",
+     "quote": "Son Durumu KOMİSYONDA Teklifin Sonucu"
+    }
+   ],
+   "cand_id": "TR-01"
+  },
+  "QA-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate QA-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the stored PDF: the guidelines as the PDF states them (risk evaluations before deployment, discrimination impact assessments, bias audits, human intervention and appeal, external audits); the companion document and review cycle moved to notes",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/QA-01/2026-10-11/secondary.pdf",
+       "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+       "locator": "page 3, Scope of this document",
+       "quote": "The guidance in this document is aimed at those developing and/or deploying AI systems1 that will affect the public."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: Sharek posting and companion document from the 11 Oct capture, NCSA reference from the PDF; the 'six principles' of the companion document (not in a stored file) and the Qatar News Agency report moved out; the list of Qatari instruments not in the register moved to leads",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/QA-01/2026-10-11/official.html",
+       "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+       "locator": "Sharek forum post, body (11 Oct 2026 capture)",
+       "quote": "The attached documents provides guidance targeted at users of AI systems, including, but not limited to private companies, government agencies, the general public, and students."
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/QA-01/2026-10-11/official.html",
+     "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+     "locator": "Sharek forum post, attachments (11 Oct 2026 capture)",
+     "quote": "Artificial Intelligence in Qatar – Principles and Guidelines for Ethical Development and Deployment"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/QA-01/2026-10-11/secondary.pdf",
+     "sha256": "cd255ff29ad1426f2399ac9b4a8ff96c1d7ad80598582684d5949e5780e432b2",
+     "locator": "page 3, Introduction",
+     "quote": "The Ministry of Communications and Information Technology is optimistic about the potential benefits of AI"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/QA-01/2026-10-11/official.html",
+     "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+     "locator": "Sharek forum post, header (11 Oct 2026 capture)",
+     "quote": "Posted by e-Participation • Thursday, May 16th, 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/QA-01/2026-10-11/official.html",
+     "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+     "locator": "Sharek forum post, body (11 Oct 2026 capture)",
+     "quote": "These documents will be updated every 1-2 years to keep pace with emerging technologies and ensure the ethical use of AI systems in Qatar."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/QA-01/2026-10-11/official.html",
+     "sha256": "eee23e04c95a3392284aa73fcb83aba71707ea7c4b48725e9dab4d64b6322d21",
+     "locator": "Sharek forum post, body (11 Oct 2026 capture)",
+     "quote": "The guidelines are legally non-binding, and adherence to it is voluntary."
+    }
+   ],
+   "cand_id": "QA-01"
+  },
+  "JO-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate JO-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the stored PDF and MoDEE's news item: Cabinet approval and circulation to government bodies for compliance (news item), with no month since no stored file dates it; the technical committee was formed by the Ministry (not 'MoDEE-chaired'); safety commitments from the principles added",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/JO-01/extra-a5949e721a/2026-10-18/official.html",
+       "sha256": "f3a52b61ff47411ecc5bb7b096e1211fec72398abd63be60712a4dcadb81182f",
+       "locator": "MoDEE news item, first paragraph",
+       "quote": "قرَّر مجلس الوزراء الموافقة على \"الميثاق الوطني لأخلاقيات الذَّكاء الاصطناعي\" وتعميمه على جميع الوزارات والمؤسَّسات والدَّوائر الحكوميَّة للالتزام بما ورد فيه حسب الأصول."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: legal basis, the expert committee, target groups, complaint channels and risks from the PDF, and the literal rendering of the Arabic title; the consultation dates, the approval date and the 2023-2027 strategy's compliance follow-up moved to verification.note, since no stored file has them",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/JO-01/2026-10-11/official.pdf",
+       "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+       "locator": "page 8, First: Legal Reference",
+       "quote": "In line with the requirements of Article No. (21) of the Jordan Artificial Intelligence Policy 2020"
+      }
+     ]
+    },
+    "safety_topics": {
+     "reason": "'deepfakes & synthetic media' replaced by 'evaluation & testing': the integrity and non-fakeness principle concerns not misrepresenting AI capabilities, not synthetic media, while the reliability principle requires testing before market release and periodic review",
+     "evidence": []
+    },
+    "english_version": {
+     "reason": "added: the official PDF is bilingual, so the English text is the Ministry's own",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/JO-01/2026-10-11/official.pdf",
+     "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+     "locator": "page 1 (cover)",
+     "quote": "The National Artificial Intelligence Code of Ethics"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/JO-01/2026-10-11/official.pdf",
+     "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+     "locator": "page 10, section heading",
+     "quote": "ثانيا: الميثاق الوطني لأخلاقيات الذكاء الاصطناعي"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/JO-01/2026-10-11/official.pdf",
+     "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+     "locator": "page 6, Introduction",
+     "quote": "The Ministry of Digital Economy and Entrepreneurship has prepared a National AI Code of Ethics in cooperation with the relevant authorities from the government, private and academic sectors, civil society institutions and security authorities."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/JO-01/extra-a5949e721a/2026-10-18/official.html",
+     "sha256": "f3a52b61ff47411ecc5bb7b096e1211fec72398abd63be60712a4dcadb81182f",
+     "locator": "MoDEE news item, first paragraph",
+     "quote": "قرَّر مجلس الوزراء الموافقة على \"الميثاق الوطني لأخلاقيات الذَّكاء الاصطناعي\" وتعميمه على جميع الوزارات والمؤسَّسات والدَّوائر الحكوميَّة للالتزام بما ورد فيه حسب الأصول."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/JO-01/2026-10-11/official.pdf",
+     "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+     "locator": "page 4, Introduction",
+     "quote": "the ethical framework as the basis that will guide the human conscience and govern people's actions and commitment without coercion"
+    }
+   ],
+   "cand_id": "JO-01"
+  },
+  "GH-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate GH-01",
+   "fields": {
+    "safety_topics": {
+     "reason": "added 'evaluation & testing': the action plan calls for legal and technical tools for auditing and certifying AI systems to reduce risks like bias and hallucinations (page 57)",
+     "evidence": [
+      {
+       "field": "safety_topics",
+       "file": "archive/GH-01/2026-10-11/official.pdf",
+       "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+       "locator": "page 57, action plan: Audit and certification tools for AI systems",
+       "quote": "Develop and deploy legal and technical tools for"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten from stored sources: Cabinet's approval from the ISD report of 1 April 2026 and the launch from the ministry's release of 24 April 2026 (both official); the USD 20 million and the Emerging Technologies Bill from the news agency report; the 2022 interviews and workshops and the shorter implementation timeline from the strategy. The earlier claim that drafts were consulted on from April 2025 is not in any stored source and was dropped (the strategy dates its consultations to March-October 2022); the remark on where the PDF is hosted moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-90dc9bcf6e/2026-10-18/official.html",
+       "sha256": "07a8a77b87cc23672c0ed6fddfd332685e14e929ab1020f063b60932146801ed",
+       "locator": "ISD report of 1 April 2026, paragraph 1",
+       "quote": "has disclosed that Cabinet has approved a $250 million investment to establish a national Artificial Intelligence (AI) computer centre."
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: an adoption-focused national strategy with a substantial but not main safety component, in line with the scope notes given to comparable national strategies (CA-07, CO-01, NO-01)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/GH-01/2026-10-11/official.pdf",
+     "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+     "locator": "page 6, Foreword",
+     "quote": "The Republic of Ghana National Artificial Intelligence Strategy: 2025-2035 is our comprehensive roadmap to harnessing this transformative power."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/GH-01/2026-10-11/official.pdf",
+     "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+     "locator": "page 1 (cover)",
+     "quote": "MINISTRY OF COMMUNICATION, DIGITAL TECHNOLOGY AND INNOVATIONS DECEMBER 2025"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/GH-01/2026-10-11/official.pdf",
+     "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+     "locator": "page 1 (cover)",
+     "quote": "MINISTRY OF COMMUNICATION, DIGITAL TECHNOLOGY AND INNOVATIONS DECEMBER 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/GH-01/2026-10-11/official.pdf",
+     "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+     "locator": "page 6, Foreword",
+     "quote": "The Republic of Ghana National Artificial Intelligence Strategy: 2025-2035 is our comprehensive roadmap to harnessing this transformative power."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/GH-01/2026-10-11/official.pdf",
+     "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+     "locator": "page 15, Executive summary",
+     "quote": "The report concludes with a recommendation that a Responsible AI Authority (RAI Authority) be established within the first year to lead the execution of the Ghana National AI Strategy."
+    }
+   ],
+   "cand_id": "GH-01"
+  },
+  "MU-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate MU-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the guidelines' own text: the closing sentence now gives the guidelines' own legal trajectory (pages 8 and 36) instead of the Cabinet statement, which stays in notes with its source; 'AI for Mauritius' replaced by the National AI Strategy as the guidelines name it",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/MU-01/2026-10-11/official.pdf",
+       "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+       "locator": "page 5, The FAIR Pillars",
+       "quote": "Fairness Accountability Inclusiveness and Integrity Responsibility"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "kept the Cabinet adoption and its statement that the guidelines will evolve into AI regulations, now quoted from the stored Cabinet highlights of 13 February 2026 (item 6), and the launch date; added the scope exclusion for military, defence, national security and counter-terrorism uses (page 8); dropped the UNDP date, which no stored source carries; the remarks on the second hosted copy and on related strategies not in the register moved to verification.note and leads",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/MU-01/extra-99907a425d/2026-10-18/official.pdf",
+       "sha256": "4c42b0164032a4b1f64e21fca62332d52448e7f93b97e4d119f48cf3d952bc39",
+       "locator": "page 1, heading",
+       "quote": "HIGHLIGHTS OF CABINET MEETING – FRIDAY 13 FEBRUARY 2026"
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/MU-01/2026-10-11/official.pdf",
+     "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+     "locator": "page 1 (cover)",
+     "quote": "FAIR GUIDELINES FOR THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE Ministry of Information Technology, Communication and Innovation"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/MU-01/2026-10-11/official.pdf",
+     "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+     "locator": "page 1 (cover)",
+     "quote": "FAIR GUIDELINES FOR THE DEVELOPMENT AND USE OF ARTIFICIAL INTELLIGENCE Ministry of Information Technology, Communication and Innovation"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/MU-01/2026-10-11/secondary.html",
+     "sha256": "e83595c90c716a33ec345945ba2ac97a6181060b08c18c02f88068c872371814",
+     "locator": "release of 10 April 2026, paragraph 2",
+     "quote": "These initiatives, officially launched yesterday at the J & J Auditorium in Phoenix, establish a comprehensive framework to guide the ethical, transparent and effective adoption of AI across the Republic."
+    },
+    {
+     "field": "status",
+     "file": "archive/MU-01/2026-10-11/official.pdf",
+     "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+     "locator": "page 3, Introduction to the FAIR guidelines",
+     "quote": "The FAIR Guidelines for the Development and Use of Artificial Intelligence set out a shared, non-binding approach to the responsible and trustworthy development and use of AI in Mauritius."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/MU-01/2026-10-11/official.pdf",
+     "sha256": "f025c3f55ca3b56fd46ee2015779ddb38e1c87c9af0941d30662cb1176986572",
+     "locator": "page 3, Navigating through the Guidelines",
+     "quote": "The FAIR Guidelines do not create legal obligations and do not replace existing laws or regulatory powers."
+    }
+   ],
+   "cand_id": "MU-01"
+  },
+  "ET-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate ET-01",
+   "fields": {
+    "issuing_body": {
+     "reason": "dropped 'with the Ministry of Innovation and Technology': the policy says it was developed under the leadership of the Ethiopian Artificial Intelligence Institute and names the ministry only among the implementing organs (page 65)",
+     "evidence": [
+      {
+       "field": "issuing_body",
+       "file": "archive/ET-01/2026-10-11/secondary.pdf",
+       "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+       "locator": "page 64, 6. Establishing the Authority for Policy Adoption",
+       "quote": "The National AI Policy has been developed under the leadership of the Ethiopian Artificial Intelligence Institute."
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten from the stored text: the claims that it is Ethiopia's first AI policy and was approved in June 2024 are not in the document, which says it takes effect on approval; the risks are listed as the policy lists them (4.8.1-4.8.4); 'licensing of private developers' and certification now follow section 7.1; national security and sovereignty dropped from the pace-of-deployment clause, which the policy ties to social and technical issues",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/ET-01/2026-10-11/secondary.pdf",
+       "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+       "locator": "page 58, 4.8 AI development risks and remedies",
+       "quote": "AI DEVELOPMENT RISKS AND REMEDIES"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the approval day given with its source (Digital Policy Alert, now stored) under rule 7b; dropped the claim that Regulation No. 510/2022 established the Institute and the ministry's listing, which no stored source carries; added scope of application and implementation from sections 6 and 7",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-a44df75782/2026-10-18/official.html",
+       "sha256": "de1b83808861aff0f1fcab14961b4dbcc348486a4585f78a9eada7b8f95000c5",
+       "locator": "Digital Policy Alert event, Description",
+       "quote": "On 27 June 2024, Ethiopia's Council of Ministers approved the country's first National Artificial Intelligence (AI) Policy during its 37th regular meeting."
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: the policy's main content is human resources, infrastructure, data, research and adoption, with risk and legal-framework sections, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/ET-01/2026-10-11/secondary.pdf",
+     "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+     "locator": "page 3 (title page)",
+     "quote": "Federal Democratic Republic of Ethiopia National Artificial Intelligence Policy"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/ET-01/2026-10-11/secondary.pdf",
+     "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+     "locator": "page 3 (title page)",
+     "quote": "ብሔራዊ የአርቲፊሻል ኢንተለጀንስ ፖሊሲ"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/ET-01/2026-10-11/secondary.pdf",
+     "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+     "locator": "page 3 (title page)",
+     "quote": "Addis Ababa, Ethiopia ሰኔ፣ 2016 ዓ.ም June 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+     "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+     "locator": "OECD.AI entry, About the policy initiative",
+     "quote": "Status: Active Start Year: 2024"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/ET-01/2026-10-11/secondary.pdf",
+     "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+     "locator": "page 67, 7.2 Legal frameworks and procedures to implement the policy",
+     "quote": "Thus, following the adoption of this policy, the following laws are expected to be issued."
+    }
+   ],
+   "cand_id": "ET-01"
+  },
+  "ZM-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate ZM-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the stored text: 'Zambia's first national AI strategy' is not stated in either stored source and was dropped; the principles listed as the strategy lists them (5.2); 'risk management' kept (7.8); support from the Tony Blair Institute and Finland from the acknowledgement",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/ZM-01/2026-10-18/official.pdf",
+       "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+       "locator": "page 9, Acknowledgement",
+       "quote": "I would like to extend special gratitude to the Tony Blair Institute for technically supporting the formulation of the Strategy."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the July 2024 pre-announcement, the OECD.AI listing and the upload and copy remarks rest on no stored source and were dropped; the 2024-2026 wording is in the acknowledgement, not the foreword as published; the National AI Taskforce, the Centre of Excellence and the safe-use guardrails from the foreword added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/ZM-01/2026-10-18/official.pdf",
+       "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+       "locator": "page 1, running header",
+       "quote": "NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY - 2025 - 2027"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: a strategy whose main content is skills, infrastructure, research and adoption, with a governance and ethics component, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/ZM-01/2026-10-18/official.pdf",
+     "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+     "locator": "page 1 (cover)",
+     "quote": "Republic of Zambia Ministry of Technology and Science NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY 2024-2026"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/ZM-01/2026-10-18/official.pdf",
+     "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+     "locator": "page 9, Acknowledgement",
+     "quote": "The National Artificial Intelligence Strategy development has been led by the Ministry of Technology and Science."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/ZM-01/2026-10-18/secondary.html",
+     "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+     "locator": "release heading, date line and paragraph 1",
+     "quote": "21 -11- 24 The Ministry of Technology and Science has launched the Artificial Intelligence Strategy"
+    },
+    {
+     "field": "status",
+     "file": "archive/ZM-01/2026-10-18/official.pdf",
+     "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+     "locator": "page 9, Acknowledgement",
+     "quote": "Zambia renders its full support to the successful implementation of the National AI Strategy 2024 - 2026"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/ZM-01/2026-10-18/official.pdf",
+     "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+     "locator": "page 25, 4.5 Policy and Regulation, Opportunities",
+     "quote": "Legislative Frameworks: Evolve policies and regulations that address data privacy, security, intellectual property, and AI standards to be fit for purpose."
+    }
+   ],
+   "cand_id": "ZM-01"
+  },
+  "BH-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate BH-01",
+   "fields": {
+    "official_identifier": {
+     "reason": "'Version 1.0 (20 May 2025)' -> null: a version label, not a citable number; the policy has no number (the version is in the notes)",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "rewritten from the PDF and the release; the Shura Council's 2024 AI law proposal (press reports only, a different instrument) moved to leads, and the file-name date dropped",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/BH-01/2026-10-12/secondary.html",
+       "sha256": "110695ebb438c6eb3622d3b80b00371af7826ab4c9e358cbf5cea06365ff8230",
+       "locator": "news release, first paragraph",
+       "quote": "adopted the Guiding Manual on the Ethics of Artificial Intelligence Use in the GCC, issued by The Ministerial Committee for eGovernment of the Cooperation Council for the Arab States of the Gulf"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force",
+    "summary"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 1 (cover)",
+     "quote": "General Policy for the Use of Artificial Intelligence Version 1.0 20 May 2025"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 1 (cover)",
+     "quote": "©Information & eGovernment Authority (iGA), Kingdom of Bahrain."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 2, Versions and Amendments Table",
+     "quote": "First release of the policy 20 May 2025 1.0"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 13, 8. Activation",
+     "quote": "during its meeting on May 20, 2025. From that date, all government entities are required to comply with the rules, requirements, and guiding principles outlined in this policy."
+    },
+    {
+     "field": "status",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 13, 8. Activation",
+     "quote": "From that date, all government entities are required to comply with the rules, requirements, and guiding principles outlined in this policy."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 13, 8. Activation",
+     "quote": "From that date, all government entities are required to comply with the rules, requirements, and guiding principles outlined in this policy."
+    },
+    {
+     "field": "summary",
+     "file": "archive/BH-01/2026-10-12/official.pdf",
+     "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+     "locator": "page 5, First Principle",
+     "quote": "the final decision in important matters must remain under human control"
+    }
+   ],
+   "cand_id": "BH-01"
+  },
+  "SN-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate SN-01",
+   "fields": {
+    "summary": {
+     "reason": "tightened against the summary PDF: orientation 6 actions listed as the PDF lists them (6.1-6.4, 6.6-6.8, 6.11, 6.14, and the interim soft normative framework); the EU DSA, DMA and AI Act are cited for a law on platforms' duties, not for the AI regulation of Action 6.4, so that reference moved to notes; national ethics committee, sandboxes and impact assessments added; the training target moved to notes",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/SN-01/2026-10-12/document-1.pdf",
+       "sha256": "34c00f68e4c1ab33571018b42feea6adc1b983d281282f5095ca44278bb998f6",
+       "locator": "page 4, Cadre conceptuel",
+       "quote": "Ces six orientations stratégiques se déclinent en 52 actions organisées par objectifs spécifiques"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten from stored sources: the summary version and its production by Expertise France (cover); the 14 September 2023 presentation as a first restitution and the announced submission for political validation (APS dispatch via OSIRIS, stored this run); the OECD.AI start year and status; platforms and EU acts; the 90,000 training target. The New Deal Technologique, the Hiroshima AI Process presentation and the statement that no AI law or regulator exists rest on no stored source and were dropped",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SN-01/extra-7783284270/2026-10-18/official.html",
+       "sha256": "818536aabe42b3a27911e6df3d5b8cd2740dfd7eb61d5c110655494a06e18d93",
+       "locator": "OSIRIS article (APS dispatch), heading and date",
+       "quote": "sur l’intelligence artificielle jeudi 14 septembre 2023 Politique nationale"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: one orientation of six covers AI governance; the strategy's main content is skills, research and adoption, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+     "evidence": []
+    },
+    "english_version": {
+     "reason": "set to 'none found': the official text is in French and no English version of the strategy was found; the OECD.AI entry is a description, not a translation",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SN-01/2026-10-12/document-1.pdf",
+     "sha256": "34c00f68e4c1ab33571018b42feea6adc1b983d281282f5095ca44278bb998f6",
+     "locator": "page 2, running header",
+     "quote": "STRATÉGIE NATIONALE ET FEUILLE DE ROUTE DU SÉNÉGAL SUR L’INTELLIGENCE ARTIFICIELLE À L’HORIZON 2028"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/SN-01/2026-10-12/document-1.pdf",
+     "sha256": "34c00f68e4c1ab33571018b42feea6adc1b983d281282f5095ca44278bb998f6",
+     "locator": "page 2, running header",
+     "quote": "STRATÉGIE NATIONALE ET FEUILLE DE ROUTE DU SÉNÉGAL SUR L’INTELLIGENCE ARTIFICIELLE À L’HORIZON 2028"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SN-01/2026-10-12/document-1.pdf",
+     "sha256": "34c00f68e4c1ab33571018b42feea6adc1b983d281282f5095ca44278bb998f6",
+     "locator": "page 2, Introduction",
+     "quote": "le ministère de la Communication, des Télécommunications et de l’Économie numérique (MCTEN) a initié un processus de formulation d’une stratégie nationale sur l’IA"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SN-01/2026-10-12/document-1.pdf",
+     "sha256": "34c00f68e4c1ab33571018b42feea6adc1b983d281282f5095ca44278bb998f6",
+     "locator": "page 1 (cover)",
+     "quote": "Stratégie nationale et feuille de route du Sénégal sur l’Intelligence Artificielle (VERSION RÉSUMÉE) 2023"
+    },
+    {
+     "field": "status",
+     "file": "archive/SN-01/2026-10-18/official.html",
+     "sha256": "384a0d87be774a983ea24e657f3a75a6876a9377975dbf03d1896079c312d631",
+     "locator": "OECD.AI entry, About the policy initiative",
+     "quote": "Status: Active Start Year: 2024"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SN-01/2026-10-18/official.html",
+     "sha256": "384a0d87be774a983ea24e657f3a75a6876a9377975dbf03d1896079c312d631",
+     "locator": "OECD.AI entry, About the policy initiative",
+     "quote": "Initiative type: National AI strategy"
+    }
+   ],
+   "cand_id": "SN-01"
+  },
+  "BJ-01": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate BJ-01",
+   "fields": {
+    "summary": {
+     "reason": "rewritten from the PDF: Action 4.1 now includes the impact analyses and lifecycle controls the text is to institute (page 35); the list of ethical concepts moved to notes; annual evaluation kept (page 44)",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/BJ-01/2026-10-12/official.pdf",
+       "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+       "locator": "page 2",
+       "quote": "elle est composée de quatre programmes déclinables en trois phases pendant cinq années, avec un portefeuille contenant cent vingt-trois (123) actions impactant les secteurs public et privé."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "rewritten: the approval and the action plan from the communiqué; phases and the 4.68 billion CFA franc financing estimate from the PDF; the ethical concepts of Action 4.1. The olympiads of June 2026 and the statement that no AI law was found for 2024 rest on no stored source and were dropped; the hosting remark moved to verification.note",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/BJ-01/2026-10-12/secondary.html",
+       "sha256": "6c96e3530a630c23a9fb527f9275e4154daebe69d3e9d58b8eb0cb9e5f21c464",
+       "locator": "communiqué, item II-3",
+       "quote": "Cette stratégie et son plan d'action ont été élaborés dans une démarche qui intègre les parties prenantes"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": "added: the strategy's main content is use cases, skills, research and data management, with AI governance in programme 4, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/BJ-01/2026-10-12/official.pdf",
+     "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+     "locator": "page 3, running header",
+     "quote": "Stratégie Nationale d’Intelligence Artificielle et des Mégadonnées 2023 - 2027"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/BJ-01/2026-10-12/official.pdf",
+     "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+     "locator": "page 3, running header",
+     "quote": "Stratégie Nationale d’Intelligence Artificielle et des Mégadonnées 2023 - 2027"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/BJ-01/2026-10-12/official.pdf",
+     "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+     "locator": "page 2",
+     "quote": "mégadonnées (SNIAM) du Bénin a été conduite par le Ministère du Numérique et de la Digitalisation"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/BJ-01/2026-10-12/official.pdf",
+     "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+     "locator": "page 2",
+     "quote": "La SNIAM a été adoptée par le Conseil des Ministres en sa session du 18 janvier 2023."
+    },
+    {
+     "field": "status",
+     "file": "archive/BJ-01/2026-10-12/official.pdf",
+     "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+     "locator": "page 2",
+     "quote": "La SNIAM a été adoptée par le Conseil des Ministres en sa session du 18 janvier 2023."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/BJ-01/2026-10-12/official.pdf",
+     "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+     "locator": "page 34, Action 4.1",
+     "quote": "ACTION 4.1. Adoption d’un texte encadrant les questions d’éthiques et de responsabilité"
+    }
+   ],
+   "cand_id": "BJ-01"
+  },
+  "ZA-02": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate ZA-02",
+   "fields": {
+    "notes": {
+     "reason": "rewritten: the August 2024 dating now rests on the gazetted draft policy (ZA-01) instead of law-firm and press accounts, which are not stored; the department's statement on a revised draft (not in a stored file) and the remark that the framework was not withdrawn (an absence) are dropped from the notes; the framework's own aim of AI regulations and possibly an AI Act added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+       "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+       "locator": "page 3",
+       "quote": "by 17h00 on Friday, 29 November 2024."
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+     "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+     "locator": "page 3",
+     "quote": "South Africa National Artificial Intelligence Policy Framework (Towards the Development of South Africa National Artificial Intelligence Policy)"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+     "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+     "locator": "page 1 (cover)",
+     "quote": "Department: Communications & Digital Technologies REPUBLIC OF SOUTH AFRICA"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+     "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+     "locator": "page 1 (cover)",
+     "quote": "Policy Framework October 2024"
+    },
+    {
+     "field": "status",
+     "file": "archive/ZA-02/2026-10-18/official.html",
+     "sha256": "e660a5861faae6a17e266e7c685b8d0f79ff04398e4dc8aca934ca523cd776aa",
+     "locator": "OECD.AI policy-initiative page, description",
+     "quote": "is a first step towards developing a full National AI Policy."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/ZA-02/2026-10-12/document-1.pdf",
+     "sha256": "7721319ce669b90d3d22bb3da78d480fc94d950dbf093bd5d706c19d14f18e8b",
+     "locator": "page 8, 4. Rationale for Developing a National AI Policy",
+     "quote": "The National AI Policy will serve as the foundational basis for creating AI regulations and potentially an AI Act in South Africa."
+    }
+   ],
+   "cand_id": "ZA-02"
+  },
+  "KE-02": {
+   "reason": "pipeline run 2026-10-18-recheck-mena-africa-1 (recheck), candidate KE-02",
+   "fields": {
+    "notes": {
+     "reason": "the December 2025 Implementation Roadmap of KE-01 is dropped (not in a stored file), and the remark on Cabinet approval moves to verification.note as an absence; the compliance timing now follows section 1.5.5, which ties full compliance to implementing regulations without naming the Governance Act, and adds the transition periods; the other foundations and the legal review are added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/KE-02/2026-10-16/secondary.html",
+       "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+       "locator": "public-participation page, alternative submission channels",
+       "quote": "The Chairperson Committee on Artificial Intelligence and Other Emerging Technologies"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/KE-02/2026-10-16/secondary.html",
+     "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+     "locator": "public-participation page, heading",
+     "quote": "Call for Public Comments on the Draft Kenya Artificial Intelligence and Other Emerging Technologies Policy"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/KE-02/2026-10-16/secondary.html",
+     "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+     "locator": "public-participation page, first paragraph",
+     "quote": "The Ministry of Information, Communications and the Digital Economy, through the State Department for ICT and the Digital Economy, invites members of the public"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/KE-02/2026-10-16/official.pdf",
+     "sha256": "87329f33eff5cb0fe955040e1c65b947895536893b2e57bd3b0c4761c6daec26",
+     "locator": "page 1 (cover)",
+     "quote": "EMERGING TECHNOLOGIES POLICY JULY 2026"
+    },
+    {
+     "field": "status",
+     "file": "archive/KE-02/2026-10-16/secondary.html",
+     "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+     "locator": "public-participation page",
+     "quote": "Submission deadline: 4 August 2026"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/KE-02/2026-10-16/secondary.html",
+     "sha256": "54c32b56fc35b2bd266ebb1b0df272e55d52cb88d372b2a8b6231e96553c6f53",
+     "locator": "public-participation page, first paragraph",
+     "quote": "to review and submit comments on the Draft Kenya Artificial Intelligence and Other Emerging Technologies Policy."
+    }
+   ],
+   "cand_id": "KE-02"
+  }
+ },
+ "assigned": {
+  "AU-01": "AU-01",
+  "IL-01": "IL-01",
+  "KE-01": "KE-01",
+  "NG-01": "NG-01",
+  "NG-02": "NG-02",
+  "RW-01": "RW-01",
+  "ZA-01": "ZA-01",
+  "AE-01": "AE-01",
+  "AE-02": "AE-02",
+  "SA-01": "SA-01",
+  "SA-02": "SA-02",
+  "SA-03": "SA-03",
+  "SA-04": "SA-04",
+  "EG-01": "EG-01",
+  "EG-02": "EG-02",
+  "EG-03": "EG-03",
+  "EG-04": "EG-04",
+  "TR-01": "TR-01",
+  "QA-01": "QA-01",
+  "JO-01": "JO-01",
+  "GH-01": "GH-01",
+  "MU-01": "MU-01",
+  "ET-01": "ET-01",
+  "ZM-01": "ZM-01",
+  "BH-01": "BH-01",
+  "SN-01": "SN-01",
+  "BJ-01": "BJ-01",
+  "ZA-02": "ZA-02",
+  "KE-02": "KE-02"
+ },
+ "not_added": [],
+ "needs_human": [],
+ "questions": [
+  {
+   "cand_id": "KE-01",
+   "record_id": "KE-01",
+   "why": "the checker found something possibly newer: https://maarifa.cog.go.ke/sites/default/files/2026-01/Kenya%20National%20AI%20Strategy%202025-2030%20Implementation%20Roadmap_1.pdf"
+  },
+  {
+   "cand_id": "AE-02",
+   "record_id": "AE-02",
+   "why": "checker: New summary and notes match the stored English and Arabic u.ae pages. The text lists the principles; I found no stored count of 'twelve' but the listed items match. date_published and issuing_body remain unsupported by any stored file (ai.gov.ae PDF and uaelegislation.gov.ae refuse the archiver); the run does not change them, so the question should open while the text corrections merge. One search found no revised charter; press gives 30 July 2024 (and 10 June 2024 cabinet approval).; date_published is unsupported and the checker gave no evidence-backed fix; issuing_body is unsupported and the checker gave no evidence-backed fix; date_published has no evidence"
+  },
+  {
+   "cand_id": "JO-01",
+   "record_id": "JO-01",
+   "why": "checker: Text corrections are supported by the stored PDF and Arabic news item. date_published has no stored quote (evidence script error); it is unchanged by the run, so it should become a question while the rest merges. One search found no revision or AI law; a MoDEE brochure lists the code under August 2022 but is not stored.; date_published is unsupported and the checker gave no evidence-backed fix; date_published has no evidence"
+  }
+ ],
+ "unchecked": [],
+ "summary": "0 new, 29 update(s), 0 not added, 0 need a human, 3 merged with an open question, 0 not ready"
+}

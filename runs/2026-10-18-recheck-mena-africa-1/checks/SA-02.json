@@ -1,0 +1,53 @@
+{
+ "cand_id": "SA-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "judgment-differs",
+   "why": "Government version is mandatory for government data, public version is guidance; Non-binding is a simplification but defensible."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Government entities must refrain from using GenAI in critical decision-making affecting individuals",
+   "verdict": "supported",
+   "locator": "page 7"
+  },
+  {
+   "claim": "Two versions of one guideline, government and public",
+   "verdict": "supported",
+   "locator": "SDAIA laws and regulations page"
+  },
+  {
+   "claim": "Public version triggers human oversight on predefined alerts",
+   "verdict": "supported",
+   "locator": "page 9 of public PDF"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Only notes changed; the new text matches the stored PDFs and SDAIA page, including that SA-03 refers to the public GenAI guidelines (page 7 of SA-03 text). One search found no 2026 update of the generative AI guidelines (only January 2024 first releases)."
+}

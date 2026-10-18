@@ -1,0 +1,276 @@
+{
+ "cand_id": "ZA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "ZA-01",
+ "record": {
+  "safety_topics": [
+   "risk-based classification",
+   "safety institute",
+   "evaluation & testing",
+   "accountability & liability",
+   "deepfakes & synthetic media",
+   "transparency & labelling"
+  ],
+  "notes": "Dated March 2026; approved by Cabinet on 25 March 2026 (combined with a special sitting of Cabinet on 1 April 2026), signed by the Minister on 9 April 2026 and gazetted on 10 April 2026 for 60 days of public comment, to 10 June 2026. It was based on the South Africa National Artificial Intelligence Policy Framework of August 2024 (ZA-02), the 32 submissions received on it and consultations through the Cabinet cluster process, and set out staged implementation: draft requirements for unacceptable risks in year 1 (2025/26), requirements for high-risk use cases in year 2 (2026/27) and full implementation in year 3 (2027/28). It was withdrawn in its entirety by Notice 3978 of 2026 (Government Gazette No. 54840), signed on 4 June 2026 and gazetted on 12 June 2026, with no reason given.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the gazetted draft (General Notice 3880 of 2026, Government Gazette No. 54477, 86 pages) and the gov.za notice page 'Withdrawal of draft South Africa National Artificial Intelligence (AI) Policy' (both gov.za, 11 Oct 2026), and the withdrawal notice itself (Notice 3978 of 2026, Government Gazette No. 54840, one page, gov.za, 18 Oct 2026). The gazette confirms the title, the issuing minister and department, Cabinet approval, the publication date, the comment period, the basis in the 2024 framework and the content summarised. The withdrawal notice confirms that the Minister withdrew Government Notice 3880 in its entirety, effective from publication in the gazette of 12 June 2026, and that he signed it on 4 June 2026; it gives no reason. No replacement draft is among the stored files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, General Notice 3880 of 2026",
+    "quote": "DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI) POLICY",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/secondary.html",
+    "sha256": "0d08bdaf87efb04e88f12497cf433f015f2bf8b88dc490ba96948bfa8c9b10fe",
+    "locator": "gov.za notice page, heading",
+    "quote": "Withdrawal of draft South Africa National Artificial Intelligence (AI) Policy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, General Notice 3880 of 2026, heading",
+    "quote": "DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES NOTICE 3880 OF 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, signature",
+    "quote": "MR SOLLY MALATSI, MP MINISTER OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, gazette header and notice number",
+    "quote": "STAATSKOERANT, 10 ApRil 2026 No. 54477 3 DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES NOTICE 3880 OF 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, gazette header and notice number (Notice 3978 of 2026)",
+    "quote": "STAATSKOERANT, 12 JuNIE 2026 No. 54840 3 DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES NOTICE 3978 OF 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, gazette header",
+    "quote": "STAATSKOERANT, 10 ApRil 2026 No. 54477",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, Notice 3978 of 2026",
+    "quote": "The Draft South Africa National Artificial Intelligence (AI) Policy was published for public comments and is withdrawn in its entirety effective from the date of publication.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, Notice 3978 of 2026",
+    "quote": "hereby withdraw Government Notice Number 3880 published in Government Gazette Number 54477 on 10 April 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/secondary.html",
+    "sha256": "0d08bdaf87efb04e88f12497cf433f015f2bf8b88dc490ba96948bfa8c9b10fe",
+    "locator": "gov.za notice page, title",
+    "quote": "Promotion of Access to Information Act: Withdrawal of draft South Africa National Artificial Intelligence (AI) Policy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, General Notice 3880 of 2026",
+    "quote": "Members of the public and interested persons are invited to submit their comments / inputs / written representations on this Draft Policy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 2, Explanatory Note",
+    "quote": "should thus be seen as a point of departure and indication of government’s current thinking",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 35, 7.3 Risk Assessment and Mitigation Strategy",
+    "quote": "The policy draws some inspiration from the European Union AI Act and includes strict regulations for high-risk applications.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 3, Explanatory Note, staged implementation",
+    "quote": "Identification and publication of key draft regulatory requirements necessary to address unacceptable risks",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 26, institutional framework",
+    "quote": "AI Insurance Superfund: Modelled after the Road Accident Fund, to compensate individuals or entities harmed by AI -driven outcomes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 26, institutional framework",
+    "quote": "AI Regulatory Authority: To monitor compliance, perform audits, and issue certifications. Also, to audit AI systems for fairness and to conduct gender and human rights impact assessments.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 36, 7.3 Risk Assessment and Mitigation Strategy",
+    "quote": "Legal and technical remedies for deepfakes, defamatory AI, and child-targeted manipulative systems.",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 28",
+    "quote": "Ensure citizens can understand and challenge AI decisions, with explainable AI systems required for high-risk use cases.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 36, 7.3 Risk Assessment and Mitigation Strategy",
+    "quote": "Bias detection and mitigation protocols, including mandatory testing of high- stakes systems.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 4, title of the draft policy",
+    "quote": "DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI) POLICY (March 2026)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, General Notice 3880 of 2026",
+    "quote": "that was approved by Cabinet on 25 March 2026 (combined with the Special Sitting of Cabine t on 01 April 2026), for public comment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, General Notice 3880 of 2026",
+    "quote": "within sixty (60) days of the date of publication of this notice, final day being 10 June 2026, 16h00 at the latest.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 1, signature",
+    "quote": "DATE: 09 April 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 2, Explanatory Note",
+    "quote": "The Draft National AI Policy is based on the South Africa National Artificial Intelligence Policy Framework of August 2024, the 32 submissions received on this Framework, and consultations with government structures through the Cabinet Cluster process.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 3, Explanatory Note, staged implementation",
+    "quote": "Implement key regulatory requirements for high-risk use cases",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/ZA-01/2026-10-11/official.pdf",
+    "sha256": "b1c5ca6d4438ec602761526317bfd73fe75abe06f2aecc1bc15627d52807a70b",
+    "locator": "page 3, Explanatory Note, staged implementation",
+    "quote": "Year 3 (2027/28) a. Full implementation of outstanding policy interventions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, heading",
+    "quote": "WITHDRAWAL OF THE DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI) POLICY",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, signature",
+    "quote": "MR SOLLY MALATSI, MP MINISTER OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES 04 JUNE 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, gazette header",
+    "quote": "STAATSKOERANT, 12 JuNIE 2026 No. 54840",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ZA-01/extra-ab5165ec05/2026-10-18/official.pdf",
+    "sha256": "9f9b9c813ac8cd8fd9e3b8052c153745e32db378fb98ee2988474060feae4ba3",
+    "locator": "page 1, Notice 3978 of 2026",
+    "quote": "is withdrawn in its entirety effective from the date of publication.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "safety_topics": "prohibited practices replaced by transparency & labelling: the draft names no prohibited practices (it plans draft requirements to address unacceptable risks), while it requires explainable AI for high-risk use cases",
+   "notes": "rewritten: the signing date, the basis in the 2024 framework with its 32 submissions and the staged implementation added from the gazette; the remarks on where the gazette number comes from and on no replacement draft moved to verification.note",
+   "verification.note": "rewritten for what this run stored, including the withdrawal notice"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Gazetted as a draft for public comment on 10 April 2026 (General Notice 3880, GG 54477). Notice 3978 of 2026 (GG 54840, 12 June 2026), signed by the Minister on 4 June 2026, withdraws Government Notice 3880 and states that the draft 'is withdrawn in its entirety effective from the date of publication'. Revoked / withdrawn since 12 June 2026, with legal force Proposed, as for any unadopted draft.",
+  "scope_reasoning": "A Cabinet-approved draft national AI policy with a risk-based regime, a National AI Safety Institute, an AI Regulatory Authority and liability and redress mechanisms; in scope with no note, kept for context after its withdrawal.",
+  "date_reasoning": "date_published 2026-04-10 is the gazette date of Notice 3880; the Minister signed on 9 April 2026 and Cabinet approved on 25 March 2026, both in the notes. date_last_updated 2026-06-12 is the gazette date of the withdrawal notice (STAATSKOERANT, 12 Junie 2026, No. 54840), from which the withdrawal took effect; the signing date of 4 June 2026 goes in the notes.",
+  "topics_reasoning": "risk-based classification (systems categorised by levels of potential harm), safety institute (National AI Safety Institute), evaluation & testing (mandatory testing of high-stakes systems, algorithmic audits and bias testing), accountability & liability (AI Regulatory Authority, Ombudsperson, Insurance Superfund), deepfakes & synthetic media (remedies for deepfakes), transparency & labelling (explainable AI required for high-risk use cases)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

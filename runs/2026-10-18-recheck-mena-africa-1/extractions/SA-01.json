@@ -1,0 +1,206 @@
+{
+ "cand_id": "SA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SA-01",
+ "record": {
+  "date_published": "2025-05",
+  "official_identifier": "SDAIA-P114E",
+  "summary": "Saudi Arabia's national AI ethics framework, issued by SDAIA for all who design, develop, deploy, use or are affected by AI systems in the Kingdom. It classes AI risks in four levels (little or no risk; limited; high, needing pre- and post-conformity assessments; unacceptable, not allowed) and sets seven principles (fairness, privacy and security, humanity, social and environmental benefits, reliability and safety, transparency and explainability, accountability and responsibility) with controls for each stage of the AI life cycle, including human oversight of irreversible or life-and-death decisions and no use for social scoring or mass surveillance.",
+  "safety_topics": [
+   "risk-based classification",
+   "prohibited practices",
+   "human oversight",
+   "evaluation & testing",
+   "transparency & labelling",
+   "accountability & liability"
+  ],
+  "notes": "The cover gives the year 2025; the document-control table gives May 2025, document type 'Regulatory Documents', document number SDAIA-P114E and version number 1. SDAIA lists the document among its laws and regulations as 'Principles and Controls of AI Ethics' but links the file as a 'draft of Principles of AI Ethics'; the PDF itself carries no draft marking. Adopting entities, defined as those required to comply with the document, designate a head of entity or chief data officer, a compliance officer and a responsible AI officer for AI ethics; SDAIA develops and updates the framework and measures and monitors compliance directly or through sector regulators. Registration with SDAIA is optional and can earn motivational badges. SDAIA's organisational arrangements (Council of Ministers Resolution No. 292 of 27/4/1441 AH, amended by Resolution No. 195 of 15/3/1444 AH) empower it to regulate the data and AI sectors by setting policies, standards and controls and following up compliance with them. SDAIA's generative AI guidelines (SA-02) and deepfakes guidelines (SA-03) build on these principles.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the English PDF from sdaia.gov.sa (50 pages; snapshot of 11 Oct 2026, unchanged on 18 Oct 2026), SDAIA's laws and regulations page (18 Oct 2026), and the files that page links: the same PDF (byte-identical, same SHA-256) and SDAIA's organisational arrangements in Arabic. The PDF confirms the title, SDAIA's role, the scope, the four risk levels, the seven principles with life-cycle controls, the roles and the compliance and optional-registration arrangements, and on page 50 the document-control table with May 2025, document number SDAIA-P114E and version 1 (the previous record read only the cover year). The page lists the document under SDAIA's laws and regulations and labels its link 'draft of Principles of AI Ethics'. The Arabic edition of the principles is not stored. The previous notes cited law-firm commentaries describing earlier versions (1.0 of 2022 and 2.0 of September 2023); none is stored and the 2025 edition does not refer to earlier versions."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 1 (cover)",
+    "quote": "2025 AI Ethics Principles",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 28, Roles and Responsibilities, National Level",
+    "quote": "SDAIA works to review and update the principles of artificial intelligence ethics and monitor compliance with them.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 28, Roles and Responsibilities",
+    "quote": "AI Ethics Development: Develop, issue, and update this AI Ethics principles and framework.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-01/extra-c1e699f6ef/2026-10-18/official.html",
+    "sha256": "a53b707685509feff989a85fdba7039e8f399ff2b37df0a02b0d54a75f59c964",
+    "locator": "page title and Principles and Controls of AI Ethics section",
+    "quote": "SDAIA Laws & Regulations | Saudi Data & AI Authority",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 50, document-control table",
+    "quote": "May 2025 Document Type | Regulatory Documents",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 50, document-control table",
+    "quote": "Document Number | SDAIA-P114E",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 50, document-control table",
+    "quote": "Document Number | SDAIA-P114E Version Number | 1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 9, Scope",
+    "quote": "This AI Ethics Framework shall apply to all AI stakeholders designing, developing, deploying, implementing, using, or being affected by AI systems within KSA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-01/extra-c1e699f6ef/2026-10-18/official.html",
+    "sha256": "a53b707685509feff989a85fdba7039e8f399ff2b37df0a02b0d54a75f59c964",
+    "locator": "Principles and Controls of AI Ethics section",
+    "quote": "For more, see the draft of Principles of AI Ethics: draft of Principles of AI Ethics",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 31, Compliance, Optional Registration",
+    "quote": "Optional Registration aims to motivate target entities to consider AI ethics when building and developing AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 6, Definitions",
+    "quote": "Any public entity, business, or individual that is required to comply with the present document.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 9, AI Risks",
+    "quote": "High risk: AI systems that pose “high risks” to basic rights must undergo pre- and post-conformity assessments",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 9, AI Risks",
+    "quote": "Unacceptable risk: AI systems that pose an “unacceptable risk” to people’s safety, livelihood, and rights",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 23, Principle 5 – Reliability & Safety, Build and Validate",
+    "quote": "may involve life-and-death decisions should trigger human oversight and final determination. Furthermore, AI systems should not be used for social scoring or mass surveillance purposes.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 29, Roles and Responsibilities",
+    "quote": "AI Ethics Compliance Measurement: Measure compliance of Adopting Entities on a regular basis based on the defined compliance mechanism directly or through sector regulators",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-01/2026-10-11/official.pdf",
+    "sha256": "b1b923d44cb39118049830a35254b686ca4720398cdccef3f1a52cea8218911e",
+    "locator": "page 32, Motivational Badges",
+    "quote": "the Authority may provide motivational badges that will reflect the level of compliance and progress on AI ethics adoption.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-01/extra-c1e699f6ef/2026-10-18/official.html",
+    "sha256": "a53b707685509feff989a85fdba7039e8f399ff2b37df0a02b0d54a75f59c964",
+    "locator": "Principles and Controls of AI Ethics section",
+    "quote": "For more, see the draft of Principles of AI Ethics: draft of Principles of AI Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-01/extra-c1e699f6ef/2026-10-18/official.html",
+    "sha256": "a53b707685509feff989a85fdba7039e8f399ff2b37df0a02b0d54a75f59c964",
+    "locator": "SDAIA Regulatory Arrangements",
+    "quote": "The regulatory arrangements of the Saudi Data & AI Authority were issued by Council of Ministers Resolution No. (292) dated 27/4/1441 AH, and were amended by Council of Ministers Resolution No. (195) dated 15/3/1444 AH.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/SA-01/extra-c1e699f6ef/2026-10-18/document-2.pdf",
+    "sha256": "b901a554eb75534e35eac6d7c1fd0e4d9b54bdfc3125c6125900e5b036f16779",
+    "locator": "page 3, fourth article, item 1",
+    "quote": "تنظيم قطاعات البيانات والذكاء الاصطناعي من خلال وضع سياسات ومعايير وضوابط خاصة بها وكيفية التعامل",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "2025 -> 2025-05: the document-control table on page 50 gives 'May 2025'",
+   "official_identifier": "null -> SDAIA-P114E, the document number in the document-control table (the same series as SA-02 and SA-03)",
+   "summary": "rewritten to include the four risk levels and the bar on social scoring and mass surveillance, which the framework sets",
+   "safety_topics": "added risk-based classification (four risk levels with conformity assessment for high risk) and prohibited practices (unacceptable risk not allowed; no social scoring or mass surveillance)",
+   "notes": "rewritten: document control, compliance and roles from the PDF; SDAIA's listing of the document and the 'draft' label of its link from the stored page; SDAIA's power to set AI policies, standards and controls from its organisational arrangements; the law-firm account of earlier versions moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Version 1 of a document SDAIA classes as a regulatory document, dated May 2025 and listed among SDAIA's laws and regulations. SDAIA's page links the file as a 'draft of Principles of AI Ethics', but the linked file is the same PDF, which has no draft marking and carries a document number and version. 'Published (non-binding, current)' is kept; the label is recorded in the notes and raised as an open question.",
+  "legal_force_reasoning": "Mixed signals: adopting entities are defined as those 'required to comply', SDAIA monitors compliance, and its organisational arrangements empower it to set AI policies, standards and controls and follow up compliance; but the controls are mostly phrased as 'should', registration is optional and compliance is encouraged with badges, and no penalty is stated. Non-binding is kept; the compliance arrangements are in the notes and the question is open.",
+  "scope_reasoning": "A national AI ethics framework with risk tiers and safety controls by the national AI authority; in scope with no note.",
+  "date_reasoning": "The cover shows only '2025'; the document-control table on the last page gives 'May 2025' with no day, so 2025-05.",
+  "topics_reasoning": "All six are supported: risk-based classification and prohibited practices (AI Risks, page 9; social scoring ban, page 23), human oversight (page 23, page 28), evaluation & testing (stress tests, validation, fairness assessment), transparency & labelling (Principle 6), accountability & liability (Principle 7)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx",
+   "reason": "SDAIA's laws and regulations page, for the listing and the 'draft' label of the link; stored in this run with its linked files and used for the notes and status"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "Status and legal force: SDAIA's laws and regulations page links the principles as a 'draft of Principles of AI Ethics', while the linked PDF (version 1, May 2025, document type 'Regulatory Documents') has no draft marking; and the document defines adopting entities as 'required to comply' and SDAIA has power to set AI controls and follow up compliance, while its controls are phrased as 'should' and registration is optional. The record keeps 'Published (non-binding, current)' and 'Non-binding'."
+ ]
+}

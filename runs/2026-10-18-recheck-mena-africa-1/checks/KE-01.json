@@ -1,0 +1,66 @@
+{
+ "cand_id": "KE-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "ministry named in its own news item and in the Cabinet Secretary foreword of the strategy"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover says March 2025; the ministry item announces launch on 27 March 2025; month precision is right"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "the ministry item announces the launch, and the strategy runs 2025-2030; nothing newer found"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "national AI risk and safety institute to be developed",
+   "verdict": "supported",
+   "locator": "page 78, Table 5.5 objective 5.2"
+  },
+  {
+   "claim": "mandatory ethical impact assessment for public-sector AI",
+   "verdict": "supported",
+   "locator": "page 81, Table 5.8"
+  },
+  {
+   "claim": "AI and Other Emerging Technologies Act as AI matures",
+   "verdict": "supported",
+   "locator": "page 79, objective 5.3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  "https://maarifa.cog.go.ke/sites/default/files/2026-01/Kenya%20National%20AI%20Strategy%202025-2030%20Implementation%20Roadmap_1.pdf"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Infrastructure, data and innovation strategy with governance and ethics as enablers; scope_note is fitting."
+ },
+ "overall": "accept",
+ "note": "All quotes match the stored texts. The strategy itself rests on the OECD.AI-hosted PDF (alt-official); only the ministry news item is a Kenyan government file, so the level A computed by the script rests on a launch announcement for title, date and status. The date and status are right, but a Kenyan-site copy of the strategy would be better. Search found the Implementation Roadmap (December 2025) on a government repository (maarifa.cog.go.ke); it is a companion document, not a newer strategy, so it is listed in extra_urls only. Nothing newer on the strategy itself."
+}

@@ -1,0 +1,54 @@
+{
+ "cand_id": "EG-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "NCAI alone is what the PDF shows"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "The strategy shows only the 2025-2030 edition; January 2025 rests on the official file name '16-1-2025' and an unstored MCIT page. Kept, with the extractor's open question."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Governance pillar serves 'Ensure Ethical and Responsible AI Use'",
+   "verdict": "supported",
+   "locator": "page 15"
+  },
+  {
+   "claim": "Initiative plans guidelines for classifying AI risks, AI law, bylaws and regulatory body",
+   "verdict": "supported",
+   "locator": "pages 25 and 1718-1728 of the text"
+  },
+  {
+   "claim": "21 initiatives; 30,000 AI professionals; 250+ companies",
+   "verdict": "supported",
+   "locator": "page 5 and framework section"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Adoption and economic strategy with a governance pillar; the extractor's scope_note is fair."
+ },
+ "overall": "accept",
+ "note": "Summary and notes match the stored PDF. One search found no later edition."
+}

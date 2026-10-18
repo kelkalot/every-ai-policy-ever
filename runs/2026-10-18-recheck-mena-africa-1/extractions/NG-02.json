@@ -1,0 +1,202 @@
+{
+ "cand_id": "NG-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NG-02",
+ "record": {
+  "summary": "Nigeria's national AI strategy for 2025-2029, a living document organised around five pillars. Its responsible and ethical AI pillar plans a High-Level AI Ethics Expert Group or National AI Ethics Commission, national AI ethical principles and an AI ethics assessment framework for evaluating projects before deployment. Its governance pillar plans national AI principles, an independent AI Governance Regulatory Body and a National AI Risk Management Framework with protocols for identifying, assessing and mitigating safety and security risks. It names accuracy, bias, transparency and governance as the main factors in AI risk assessment.",
+  "safety_topics": [
+   "accountability & liability",
+   "evaluation & testing",
+   "human oversight"
+  ],
+  "notes": "Dated September 2025 and described as a living document, with a vision for 2025-2029. It grew out of a four-day co-creation workshop hosted by the ministry on 15-18 April 2024, followed by stakeholder engagement between July 2024 and January 2025 that included a public review of the first draft of August 2024 (NG-01), which it replaces. OECD.AI lists a related National Artificial Intelligence Trust (2025).",
+  "scope_note": "Mainly a strategy for AI infrastructure, ecosystem, adoption and skills, with responsible and ethical AI and AI governance as two of its five pillars; included as Nigeria's national AI strategy.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF from ncair.nitda.gov.ng (11 Oct 2026, 81 pages) and the OECD.AI policy-initiative page (11 and 18 Oct 2026; only the site menu differs between the two copies). The PDF confirms the title, the September 2025 date, the ministry's authorship, the 2025-2029 horizon and the content summarised; the OECD.AI page confirms publication in September 2025, the ministry's lead with NITDA as a key implementing body, and an active status. The day in September 2025 appears only in the PDF's file name (19092025), not in its text, so the date stays at the month. A 'Two years of NAIS' compilation of April 2026, mentioned in the earlier notes, is not among the stored files and is no longer cited."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 4, Executive Summary",
+    "quote": "This National Artificial Intelligence Strategy (NAIS) is a living document to guide Nigeria’s adoption of artificial intelligence for socio-economic change.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-18/secondary.html",
+    "sha256": "a04d2f13a6d1da19de0523f0d79eefebcd2a2897910f405c6e28bce297ae4695",
+    "locator": "OECD.AI policy-initiative page, heading",
+    "quote": "National Artificial Intelligence Strategy (NAIS) - OECD.AI",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 2, Acknowledgements",
+    "quote": "The Federal Ministry of Communication, Innovation and Digital Economy (FMCIDE) would like to acknowledge the contributions of all stakeholders who contributed data",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-18/secondary.html",
+    "sha256": "a04d2f13a6d1da19de0523f0d79eefebcd2a2897910f405c6e28bce297ae4695",
+    "locator": "OECD.AI policy-initiative page, description",
+    "quote": "is led by the Federal Ministry of Communications, Innovation and Digital Economy (FMCIDE), with NITDA as a key implementing body.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 1 (cover)",
+    "quote": "SEPTEMBER, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-18/secondary.html",
+    "sha256": "a04d2f13a6d1da19de0523f0d79eefebcd2a2897910f405c6e28bce297ae4695",
+    "locator": "OECD.AI policy-initiative page, description",
+    "quote": "Nigeria's National Artificial Intelligence Strategy (NAIS), published in September 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 28, 1.2.1 Vision Statement",
+    "quote": "Nigeria’s national AI vision statement embodies the guiding principles and aspirations the country seeks to achieve in AI over 2025 - 2029.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-18/secondary.html",
+    "sha256": "a04d2f13a6d1da19de0523f0d79eefebcd2a2897910f405c6e28bce297ae4695",
+    "locator": "OECD.AI policy-initiative page, About the policy initiative",
+    "quote": "Status: Active",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 4, Executive Summary",
+    "quote": "This National Artificial Intelligence Strategy (NAIS) is a living document to guide Nigeria’s adoption of artificial intelligence for socio-economic change.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 5, Executive Summary",
+    "quote": "Underpinning these strategic objectives are 5 strategic pillars that form the core of Nigeria’s AI aspirations.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 44, Objective 4.1",
+    "quote": "Create a High-Level AI Ethics Expert Group (AIEEG)/National AI Ethics Commission",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 44, Objective 4.1",
+    "quote": "This AI ethics assessment framework will provide a structured approach for evaluating the ethical implications of AI projects before deployment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 46, Objective 5.1",
+    "quote": "This independent body will oversee the implementation of the National AI Principles, ensure compliance with ethical standards, and mediate potential disputes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 47, Objective 5.1",
+    "quote": "This framework will outline protocols for identifying, assessing, and mitigating potential safety and security risks associated with AI systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 27, 1.1.5.2 Mitigating AI Risks",
+    "quote": "the significant factors to AI risk assessment are fourfold: accuracy, bias, transparency, and governance",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 27, 1.1.5.2 Mitigating AI Risks",
+    "quote": "robust testing and validation, ongoing monitoring and maintenance, human oversight and intervention, ethical considerations and compliance, regular auditing and documentation",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 10, Introduction",
+    "quote": "between April 15 and 18, 2024, to co-create a National Artificial Intelligence Strategy (NAIS)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 10, Introduction",
+    "quote": "the outcome of the workshop was further validated and enhanced through follow-up stakeholders’ engagement sessions held between July 2024 and January 2025 via public feedback",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-11/official.pdf",
+    "sha256": "9682e8bb00c8fad1e1c65ef44e4d56f15105160b229240866481bd50d7a3c623",
+    "locator": "page 61, Appendices",
+    "quote": "This included a public review of the first draft which was open to individuals and organisations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-02/2026-10-18/secondary.html",
+    "sha256": "a04d2f13a6d1da19de0523f0d79eefebcd2a2897910f405c6e28bce297ae4695",
+    "locator": "OECD.AI policy-initiative page, Related AI Initiatives",
+    "quote": "Nigeria is setting a global precedent with the establishment of the National Artificial Intelligence (AI) Trust.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "corrected: the four factors accuracy, bias, transparency and governance are the strategy's general factors of AI risk assessment (section 1.1.5.2), not the content of the planned National AI Risk Management Framework, whose protocols cover safety and security risks; 'creates' replaced by 'plans', since the strategy plans these bodies",
+   "safety_topics": "risk-based classification dropped: the strategy sets no risk classes or tiers; the other three topics are supported",
+   "notes": "rewritten: the drafting history from the strategy itself; the file-name date and the April 2026 'Two years of NAIS' compilation are dropped (the first is not a date in the document, the second is not in a stored file)",
+   "scope_note": "added: mainly a development strategy with responsible AI and governance as two of five pillars, as in recent rechecks of comparable strategies (NO-01, PT-01, DE-02)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "The final strategy, dated September 2025, sets a vision for 2025-2029 and describes itself as a living document; OECD.AI (page updated 28 April 2026) lists it as active. Nothing stored shows it replaced or withdrawn. Published (non-binding, current).",
+  "scope_reasoning": "A national AI strategy with an AI ethics framework, a planned AI governance regulatory body and a national AI risk management framework; in scope, with a scope_note because its main focus is infrastructure, ecosystem and adoption.",
+  "date_reasoning": "The cover reads 'SEPTEMBER, 2025' and OECD.AI says 'published in September 2025'; no stored text gives a day, so 2025-09 is kept.",
+  "topics_reasoning": "accountability & liability (independent AI Governance Regulatory Body ensuring compliance; accountability among the guiding principles); evaluation & testing (AI ethics assessment framework before deployment; robust testing and validation); human oversight (human oversight and intervention, page 27)."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "National Artificial Intelligence Trust (Nigeria, 2025)",
+   "url": null,
+   "seen_in": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-nais",
+   "why": "A government body of AI experts and two ministers with a mandate that includes providing oversight of AI development; possibly in scope as an institutional mandate. Not in the register."
+  }
+ ],
+ "open_questions": []
+}

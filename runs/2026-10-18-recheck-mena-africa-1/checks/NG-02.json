@@ -1,0 +1,65 @@
+{
+ "cand_id": "NG-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "quote is the strategy name in the executive summary; OECD.AI heading agrees"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover SEPTEMBER, 2025; day only in file name"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "vision 2025-2029 and OECD.AI status Active; no later version found"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "judgment-differs",
+   "why": "the NG-02 text says a first draft had a public review but does not name August 2024 or say it replaces NG-01; that link rests on dates and titles. Reasonable inference."
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "independent AI Governance Regulatory Body and National AI Risk Management Framework",
+   "verdict": "supported",
+   "locator": "pages 46-47, Objective 5.1"
+  },
+  {
+   "claim": "accuracy, bias, transparency, governance as risk assessment factors",
+   "verdict": "supported",
+   "locator": "page 27, 1.1.5.2"
+  },
+  {
+   "claim": "AI ethics assessment framework before deployment",
+   "verdict": "supported",
+   "locator": "page 44, Objective 4.1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Adoption-oriented strategy with two governance and ethics pillars."
+ },
+ "overall": "accept",
+ "note": "Quotes match. Search found no revised or Federal Executive Council approved text; a March 2026 trade-press report says the minister called it ready for rollout with further approval expected, which does not change the record."
+}

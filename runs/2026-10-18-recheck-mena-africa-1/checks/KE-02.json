@@ -1,0 +1,63 @@
+{
+ "cand_id": "KE-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "ministry page heading says Draft; the PDF cover omits the word, the foreword calls it the 2026 policy"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "cover shows July 2026"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "consultation page invites comments to 4 Aug 2026; Annex III says validation through public participation follows; no Cabinet approval found in a search of 18 Oct 2026"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "statutory National AI and other Emerging Technologies Council as central regulatory authority",
+   "verdict": "supported",
+   "locator": "page 81, 4.2.1"
+  },
+  {
+   "claim": "Kenya AI Safety Institute for testing, evaluation, red-teaming, incident analysis",
+   "verdict": "supported",
+   "locator": "page 69, 3.7.5"
+  },
+  {
+   "claim": "AI incident reporting framework",
+   "verdict": "supported",
+   "locator": "page 70, 3.7.5"
+  },
+  {
+   "claim": "two-year transition for legacy systems, three years for high-risk legacy systems",
+   "verdict": "supported",
+   "locator": "page 24, 1.5.5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "AI-specific national policy with a regulatory architecture and a safety institute."
+ },
+ "overall": "accept",
+ "note": "Quotes and hashes match. Search for newer versions: reports say Cabinet created a Standing Cabinet Committee on AI on 30 June 2026 but did not approve the policy, and an AI Bill 2026 is before Parliament; no official stored source for either, and the bill is a separate instrument that a later discover run could follow up. Status Draft / proposed stands."
+}

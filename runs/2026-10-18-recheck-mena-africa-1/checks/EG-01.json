@@ -1,0 +1,54 @@
+{
+ "cand_id": "EG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "judgment-differs",
+   "why": "The stored charter confirms only the year ('2023 v1.0'); April 2023 rests on an unstored MCIT release. The run keeps 2023-04 and opens a question; 2023 would be the evidence-only value."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "authentic: English is the issuer's own text on ai.gov.eg; url is the stored source"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Right to know when interacting with an AI system",
+   "verdict": "supported",
+   "locator": "general guideline 2"
+  },
+  {
+   "claim": "Foreign companies' AI products must be tested before entering the market",
+   "verdict": "supported",
+   "locator": "implementation guideline 13"
+  },
+  {
+   "claim": "Guidelines each tagged with a key principle",
+   "verdict": "supported",
+   "locator": "page 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Issuing body trimmed to what the PDF shows; summary and notes match the stored text. Month of date_published is not in a stored source. One search found no revised charter; the March 2026 guidelines (EG-02) are separate."
+}

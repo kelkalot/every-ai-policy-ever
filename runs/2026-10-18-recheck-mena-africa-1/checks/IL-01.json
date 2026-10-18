@@ -1,0 +1,70 @@
+{
+ "cand_id": "IL-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "the title is the heading of the ministry English summary; the Hebrew title differs, as expected for an English edition"
+  },
+  "original_title": {
+   "verdict": "supported",
+   "why": "matches the OECD.AI original-language name character by character. Literal translation: \"Principles, policy, regulation and ethics in the field of artificial intelligence 2023\""
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "December 2023 in the summary and OECD.AI; no day"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "soft regulatory tools; principles not legally binding"
+  },
+  "language": {
+   "verdict": "supported",
+   "why": "summary says the policy was originally published in Hebrew"
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "kind government translation is right as a ministry-issued English document, but it is a summary of mainly the recommendations chapter, which the by field says; url is a stored source"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "seven challenges: discrimination, human oversight, explainability, disclosure of AI interactions, safety, accountability, privacy",
+   "verdict": "supported",
+   "locator": "page 3 of the English summary"
+  },
+  {
+   "claim": "principles based on the OECD AI Principles",
+   "verdict": "supported",
+   "locator": "page 8"
+  },
+  {
+   "claim": "AI Policy Coordination Center proposed",
+   "verdict": "supported",
+   "locator": "page 9"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Government AI regulation and ethics policy."
+ },
+ "overall": "accept",
+ "note": "The Hebrew full text is not stored (gov.il returns 403), so the claims are checked against the ministry English summary and the record rests on level B evidence; the extractor has raised the open question. Search found no later Israeli AI policy or bill in 2026 from an official source."
+}

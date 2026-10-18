@@ -1,0 +1,195 @@
+{
+ "cand_id": "BH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BH-01",
+ "record": {
+  "official_identifier": null,
+  "notes": "Approved by the Ministerial Committee for Information and Communication Technology (MCICT) at its meeting on 20 May 2025, from which date all government entities must comply; version 1.0 is the first release. iGA launched it publicly on 27 July 2025 as the 'National Policy for the Use of Artificial Intelligence', together with Bahrain's adoption of the Guiding Manual on the Ethics of Artificial Intelligence Use in the GCC, issued by the GCC Ministerial Committee for eGovernment. The ICT Governance Committee approves updates and decides on exemption requests; iGA manages, updates and supervises the policy. It is an administrative policy that binds government entities, not legislation.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the policy PDF from iga.gov.bh (13 pages) and iGA's news release of 27 July 2025 (snapshots of 12 Oct 2026, unchanged on 18 Oct 2026). The PDF confirms the title, version 1.0 of 20 May 2025, MCICT approval and the compliance date, the scope, the eleven principles, the four pillars and the roles; the release confirms the launch on 27 July 2025 under the name 'National Policy for the Use of Artificial Intelligence' and the adoption of the GCC manual. No Arabic version is stored. The previous notes mentioned a Shura Council proposal of April 2024 for an AI law; it rests on press reports only and is listed as a lead instead."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 1 (cover)",
+    "quote": "General Policy for the Use of Artificial Intelligence Version 1.0 20 May 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/secondary.html",
+    "sha256": "110695ebb438c6eb3622d3b80b00371af7826ab4c9e358cbf5cea06365ff8230",
+    "locator": "news release, first paragraph",
+    "quote": "launched The National Policy for the Use of Artificial Intelligence",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 1 (cover)",
+    "quote": "©Information & eGovernment Authority (iGA), Kingdom of Bahrain.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 13, 8. Activation",
+    "quote": "This policy was approved by the Ministerial Committee for Information and Communication Technology (MCICT) during its meeting on May 20, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 12, 7. Roles and Responsibilities",
+    "quote": "Approving the issuance of the policy, circulating it to government entities, and directing compliance with it.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 2, Versions and Amendments Table",
+    "quote": "First release of the policy 20 May 2025 1.0",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 13, 8. Activation",
+    "quote": "This policy was approved by the Ministerial Committee for Information and Communication Technology (MCICT) during its meeting on May 20, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 13, 8. Activation",
+    "quote": "during its meeting on May 20, 2025. From that date, all government entities are required to comply with the rules, requirements, and guiding principles outlined in this policy.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 13, 8. Activation",
+    "quote": "From that date, all government entities are required to comply with the rules, requirements, and guiding principles outlined in this policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 2, Versions and Amendments Table",
+    "quote": "First release of the policy 20 May 2025 1.0",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 13, 8. Activation",
+    "quote": "From that date, all government entities are required to comply with the rules, requirements, and guiding principles outlined in this policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 5, 3. Scope",
+    "quote": "This policy applies to all government entities in the Kingdom of Bahrain",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 5, First Principle",
+    "quote": "the final decision in important matters must remain under human control",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 10, 6.2.2 Rules and Requirements",
+    "quote": "Government entities must adopt AI technologies in cooperation with the Information & eGovernment Authority",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 10, 6.2.2 Rules and Requirements",
+    "quote": "Government entities should conduct regular audits and reviews",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 10, 6.2.2 Rules and Requirements",
+    "quote": "any negative effects resulting from these solutions are attributed to the responsible individuals, not to the machine.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/BH-01/2026-10-12/secondary.html",
+    "sha256": "110695ebb438c6eb3622d3b80b00371af7826ab4c9e358cbf5cea06365ff8230",
+    "locator": "news release, first paragraph",
+    "quote": "adopted the Guiding Manual on the Ethics of Artificial Intelligence Use in the GCC, issued by The Ministerial Committee for eGovernment of the Cooperation Council for the Arab States of the Gulf",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BH-01/2026-10-12/official.pdf",
+    "sha256": "452691e386a58b3573bd9ee4b5f435b3c4b7da367e6393b0eee82ebd92ec2ea1",
+    "locator": "page 12, 7. Roles and Responsibilities",
+    "quote": "Reviewing and deciding on exemption or exception requests from this policy.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "'Version 1.0 (20 May 2025)' -> null: a version label, not a citable number; the policy has no number (the version is in the notes)",
+   "notes": "rewritten from the PDF and the release; the Shura Council's 2024 AI law proposal (press reports only, a different instrument) moved to leads, and the file-name date dropped",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force",
+   "summary"
+  ],
+  "status_reasoning": "Approved by MCICT on 20 May 2025, from which date all government entities must comply (section 8); version 1.0 is the only release and nothing stored amends or withdraws it. In force since 2025-05-20.",
+  "legal_force_reasoning": "Binding on government entities by the ministerial committee's approval; it is not legislation and binds no one outside government. Binding is kept with the existing instrument type.",
+  "scope_reasoning": "A government-wide AI-specific policy with principles on human control, safety and accountability; in scope with no note.",
+  "date_reasoning": "date_published and date_in_force are the MCICT approval of 20 May 2025, which is also the version date on the cover; the public launch of 27 July 2025 is in the notes.",
+  "topics_reasoning": "Unchanged and supported: public-sector use, human oversight (first principle; 6.2.1 items 4-5), accountability & liability (fifth principle; 6.2.2 item 5), transparency & labelling (fourth principle)."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Bahrain: proposed law regulating the use of artificial intelligence (Shura Council members' proposal, approved by the Shura Council in April 2024)",
+   "url": null,
+   "seen_in": "https://www.zawya.com/en/world/middle-east/new-law-to-regulate-use-of-ai-approved-in-bahrain-djpvmm4r",
+   "why": "A 38-article AI law proposal (penalties, an AI unit, compensation for harm) referred to the government for drafting; no record in the register and no official page seen; its later passage through the Council of Representatives is unknown."
+  },
+  {
+   "title": "Guiding Manual on the Ethics of Artificial Intelligence Use in the GCC (GCC Ministerial Committee for eGovernment)",
+   "url": null,
+   "seen_in": "archive/BH-01/2026-10-12/secondary.html (iGA news release of 27 July 2025)",
+   "why": "An intergovernmental (GCC) AI ethics manual adopted by Bahrain alongside BH-01; no record in the register; the official text would be on the GCC Secretariat General's site."
+  }
+ ],
+ "open_questions": []
+}

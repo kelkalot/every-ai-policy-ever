@@ -1,0 +1,102 @@
+{
+ "cand_id": "NG-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NG-01",
+ "record": {
+  "legal_force": "Proposed",
+  "scope_note": "Mainly a strategy for AI infrastructure, ecosystem, adoption and skills, with responsible and ethical AI and AI governance as two of its five pillars; included as the draft of Nigeria's national AI strategy.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the draft strategy PDF from ncair.nitda.gov.ng (11 Oct 2026, 73 pages; a new download on 18 Oct 2026 timed out, so the 11 Oct copy is the one read), which confirms the title, the 'DRAFT' marking on every page, the August 2024 date, the Federal Ministry of Communications, Innovation and Digital Economy as author and the content summarised. That the final strategy of September 2025 (NG-02) replaced it, the September 2025 date_last_updated and the notes rest on the final strategy's PDF, which is stored only for record NG-02; the attempt to store it for this record on 18 Oct 2026 timed out (ncair.nitda.gov.ng did not answer, so robots.txt could not be checked). Those values are left as published."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 2, running footer",
+    "quote": "DRAFT NA TIONAL ARTIFICIAL INTELLIGENCE STRA TEGY 2024",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 2, Acknowledgements",
+    "quote": "The Federal Ministry of Communication, Innovation and Digital Economy (FMCIDE) would like to acknowledge the contributions of all stakeholders who provided data",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 1 (cover)",
+    "quote": "DRAFT AUGUST, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 1 (cover)",
+    "quote": "DRAFT AUGUST, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 1 (cover)",
+    "quote": "DRAFT AUGUST, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 2, running footer",
+    "quote": "DRAFT NA TIONAL ARTIFICIAL INTELLIGENCE STRA TEGY 2024",
+    "source_kind": "official"
+   }
+  ],
+  "scope_note": [
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 27, 1.4.1 Strategic Pillars, Introduction",
+    "quote": "This comprehensive National AI Strategy outlines five key pillars that will propel Nigeria towards achieving its vision.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NG-01/2026-10-11/official.pdf",
+    "sha256": "de99c4762851fd066f65458dff4f08d506305346325d680e1fee4a6717358dcc",
+    "locator": "page 27, 1.4.1 Strategic Pillars, Introduction",
+    "quote": "Building Foundational AI Infrastructure • Building and Sustaining a World-class AI Ecosystem • Accelerating AI Adoption and Sector Transformation • Ensuring Responsible and Ethical AI Development • Developing a Robust AI Governance Framework",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "legal_force": "Non-binding changed to Proposed: the document is marked 'DRAFT' on every page and was never adopted in this form; the register records unadopted drafts of policies and strategies as Proposed, including withdrawn or replaced ones (ZA-01, KH-01, BD-01, KE-02)",
+   "scope_note": "added: mainly a development strategy with responsible AI and governance as two of its five pillars (page 27), the same case as NG-02 and the strategies given a scope_note in recent rechecks",
+   "verification.note": "rewritten for what this run stored and could not store"
+  },
+  "confirmed": ["title", "issuing_body", "date_published"],
+  "status_reasoning": "The stored PDF is the August 2024 draft, marked 'DRAFT' on every page; that much is quoted under status. The published status, Superseded, says the final strategy of September 2025 (NG-02) replaced it; the only stored file that shows this is NG-02's own PDF (archive/NG-02/2026-10-11/official.pdf, which records a public review of the first draft and engagement from July 2024 to January 2025), and storing that PDF for NG-01 failed in this run. Status is therefore left as published and not listed as confirmed, and the gap is an open question.",
+  "scope_reasoning": "A draft national AI strategy with an AI ethics framework, a planned AI governance regulatory body and a national AI risk management framework; in scope, with a scope_note because its main focus is infrastructure, ecosystem and adoption.",
+  "date_reasoning": "The cover reads 'DRAFT AUGUST, 2024'; no day is given, so 2024-08 is kept. date_last_updated (2025-09, the final strategy) is left as published and not confirmed, since its only evidence is the cover of NG-02's PDF.",
+  "topics_reasoning": "Unchanged and supported: accountability & liability (AI Governance Regulatory Body to ensure compliance; accountability for AI decisions), evaluation & testing (AI ethics assessment framework; robust testing and validation), human oversight (human oversight and intervention among the risk-reduction tools). The summary is unchanged; its claims are on pages 23, 39-40 and 42."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "Status 'Superseded', date_last_updated 2025-09 and the notes ('superseded by the final NAIS of Sept 2025') rest only on the final strategy's PDF, stored for record NG-02 (archive/NG-02/2026-10-11/official.pdf, page 61: 'a public review of the first draft'; page 1: 'SEPTEMBER, 2025'). Storing that PDF for NG-01 failed on 18 Oct 2026 (connection to ncair.nitda.gov.ng timed out). Left as published; a later run that can store it for NG-01 can confirm them.",
+  "The notes' phrase 'released Aug 2024 for consultation' is not shown by NG-01's own file, which carries only the 'DRAFT' marking and the August 2024 date; the public review of the first draft is recorded in NG-02's PDF. Left as published."
+ ]
+}

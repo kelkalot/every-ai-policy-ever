@@ -1,0 +1,72 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 9",
+    "quote": "of the National AI Strategy 2024 - 2026",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 1",
+    "quote": "Ministry of Technology and Science",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "page text",
+    "quote": "21 -11- 24",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/ZM-01/2026-10-18/secondary.html",
+    "sha256": "af01f6fdf89150e6ef2e11455a89a7a66fae0d5e7a19932f54b9bd8d6a82faca",
+    "locator": "page text",
+    "quote": "The Ministry of Technology and Science has launched the Artificial Intelligence Strategy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ZM-01/2026-10-18/official.pdf",
+    "sha256": "d3ee7f96a937fc9d312aa6ef4fc0d9225c484c14c27a5417050ee8e87f519963",
+    "locator": "page 25",
+    "quote": "AI regulation: Extend the mandate of the regulator ZICTA to include AI regulation",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The ministry's news item of 21 Nov 2024 reports the launch; no later version in the stored text.",
+  "scope_reasoning": "Borderline national strategy with governance content; in scope as recorded."
+ },
+ "open_questions": [
+  "The strategy gives its period as 2024-2026 on the cover but 2025-2027 in page headers."
+ ],
+ "cand_id": "ZM-01",
+ "decision": "update",
+ "target_id": "ZM-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

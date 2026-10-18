@@ -1,0 +1,225 @@
+{
+ "cand_id": "JO-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JO-01",
+ "record": {
+  "summary": "Bilingual Arabic-English code of ethics prepared by the Ministry of Digital Economy and Entrepreneurship under Jordan's 2020 AI Policy and approved by the Council of Ministers, which circulated it to government bodies for compliance. It sets eight principles for the responsible use of AI (humanity and society; inclusiveness and justice; privacy and data; transparency; responsibility and accountability; reliability; integrity and non-fakeness; environment and sustainability), including human intervention in AI decisions, no use of AI to manipulate or mislead, testing before market release and accountability of natural persons for harm. It adds principles for the metaverse and AI research.",
+  "notes": "The code cites as its legal basis Article 3(d) of the Telecommunications Law No. 13 of 1995, Article 61 of the General Policy for the Communications, Information Technology and Postal Sectors of 2018, and Article 21 of the Jordan Artificial Intelligence Policy 2020, which requires national regulatory frameworks for the responsible use of AI. The Ministry prepared it through a technical committee of experts from the public and private sectors, civil society and academia. It addresses individuals, public and private institutions, international and local organisations and civil society, inside or outside Jordan, and recommends complaint channels at the Ministry for AI-ethics complaints. It also lists the risks of not adhering to it. The Arabic title translates literally as 'National Charter for Artificial Intelligence Ethics'.",
+  "safety_topics": [
+   "accountability & liability",
+   "transparency & labelling",
+   "human oversight",
+   "evaluation & testing"
+  ],
+  "english_version": {
+   "kind": "authentic",
+   "url": "https://modee.gov.jo/ebv4.0/root_storage/en/eb_list_page/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9_-_%D9%85%D9%8A%D8%AB%D8%A7%D9%82_%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A93-8-2022_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-0.pdf",
+   "by": "Ministry of Digital Economy and Entrepreneurship"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the final bilingual PDF (32 pages) from modee.gov.jo, stored 11 Oct 2026 and unchanged when rechecked on 18 Oct 2026, and MoDEE's Artificial Intelligence page (stored 11 and 18 Oct 2026; only the visit counter changed), and, in this run's second round, MoDEE's Arabic news item on the charter (18 Oct 2026). The PDF confirms the English and Arabic titles, MoDEE's authorship, the legal basis, the target groups, the eight principles and the further sections; the AI page lists the code; the news item confirms that the Council of Ministers approved the charter and circulated it to all ministries, institutions and government departments for compliance. No stored file gives the approval date: the news item is undated (its page shows only a site-wide last-update date), and the published 3 August 2022 rests on the PDF's file name ('approved by the Presidency 3-8-2022') and a Jordan News Agency item seen earlier in search results. The archiver also stored two PDFs linked from the news page (MoDEE's code of conduct for public servants and its information security policy), which do not concern the charter. The draft consultation of February 2022 (comments due 1 March 2022) and the Jordan AI Strategy 2023-2027's commitment to a follow-up system for compliance with the code rest on MoDEE pages and a PDF not stored in this run, so they were taken out of notes. The English legal-basis passage dates Cabinet Resolution No. 659 on the AI Policy to 20 February 2020, the Arabic to 20/12/2020."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 1 (cover)",
+    "quote": "The National Artificial Intelligence Code of Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 10, section heading",
+    "quote": "Second: The National Artificial Intelligence Code of Ethicsثانيا: الميثاق الوطني لأخلاقيات الذكاء الاصطناعي",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 10, section heading",
+    "quote": "ثانيا: الميثاق الوطني لأخلاقيات الذكاء الاصطناعي",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 6, Introduction",
+    "quote": "The Ministry of Digital Economy and Entrepreneurship has prepared a National AI Code of Ethics in cooperation with the relevant authorities from the government, private and academic sectors, civil society institutions and security authorities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/JO-01/extra-a5949e721a/2026-10-18/official.html",
+    "sha256": "f3a52b61ff47411ecc5bb7b096e1211fec72398abd63be60712a4dcadb81182f",
+    "locator": "MoDEE news item, first paragraph",
+    "quote": "قرَّر مجلس الوزراء الموافقة على \"الميثاق الوطني لأخلاقيات الذَّكاء الاصطناعي\" وتعميمه على جميع الوزارات والمؤسَّسات والدَّوائر الحكوميَّة للالتزام بما ورد فيه حسب الأصول.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/JO-01/extra-a5949e721a/2026-10-18/official.html",
+    "sha256": "f3a52b61ff47411ecc5bb7b096e1211fec72398abd63be60712a4dcadb81182f",
+    "locator": "MoDEE news item, first paragraph",
+    "quote": "قرَّر مجلس الوزراء الموافقة على \"الميثاق الوطني لأخلاقيات الذَّكاء الاصطناعي\" وتعميمه على جميع الوزارات والمؤسَّسات والدَّوائر الحكوميَّة للالتزام بما ورد فيه حسب الأصول.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 6, Introduction",
+    "quote": "The Ministry of Digital Economy and Entrepreneurship has prepared a National AI Code of Ethics in cooperation with the relevant authorities from the government, private and academic sectors, civil society institutions and security authorities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-18/secondary.html",
+    "sha256": "e6acef5ca0928ce195ecc677539fc1a9c76d14cc6eca003408dbd05935fae251",
+    "locator": "Artificial Intelligence page (18 Oct 2026 capture)",
+    "quote": "National Artificial Intelligence Code of Ethics Ethical Principles for the Responsible Use of Artificial Intelligence Technologies in the Kingdom Code of Ethics",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 4, Introduction",
+    "quote": "the ethical framework as the basis that will guide the human conscience and govern people's actions and commitment without coercion",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 30, Eighth: General Guidelines and Recommendations",
+    "quote": "Encouraging developing entities, service providers and operators of artificial intelligence systems to internally adopt this Code of Ethics as part of their professional practices",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/JO-01/extra-a5949e721a/2026-10-18/official.html",
+    "sha256": "f3a52b61ff47411ecc5bb7b096e1211fec72398abd63be60712a4dcadb81182f",
+    "locator": "MoDEE news item, first paragraph",
+    "quote": "قرَّر مجلس الوزراء الموافقة على \"الميثاق الوطني لأخلاقيات الذَّكاء الاصطناعي\" وتعميمه على جميع الوزارات والمؤسَّسات والدَّوائر الحكوميَّة للالتزام بما ورد فيه حسب الأصول.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/JO-01/extra-a5949e721a/2026-10-18/official.html",
+    "sha256": "f3a52b61ff47411ecc5bb7b096e1211fec72398abd63be60712a4dcadb81182f",
+    "locator": "MoDEE news item, second paragraph",
+    "quote": "ويأتي إقرار الميثاق تنفيذاً لمتطلَّبات السِّياسة الأردنيَّة للذَّكاء الاصطناعي، التي نصَّت على وضع أُطر تنظيميَّة وطنيَّة لضمان الاستخدام المسؤول للذَّكاء الاصطناعي",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 9, First: Legal Reference",
+    "quote": "has formed a specialized technical committee of experts from the public and private sectors, civil society, academics and interested parties to prepare the National Artificial Intelligence Code of Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 13, 1. Humanity and Society",
+    "quote": "Not to use artificial intelligence to manipulate the consciousness or way of thinking of individuals or to mislead them.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 20, 6. Reliability",
+    "quote": "Working on conducting tests for artificial intelligence techniques with clear criteria for measuring success and good performance before putting them on the market",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 19, 5. Responsibility and Accountability",
+    "quote": "Accountability for damages or losses resulting from the application of artificial intelligence techniques should not be attributed to the technical system itself, but for the natural persons involved in it.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 13, 1. Humanity and Society",
+    "quote": "without forcing humans to submit to artificial intelligence decisions without granting AI the right of human intervention",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 8, First: Legal Reference",
+    "quote": "In line with the requirements of Article No. (21) of the Jordan Artificial Intelligence Policy 2020",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 12, Third: Targeted Groups",
+    "quote": "This Code of ethics targets individuals, public and private institutions, international and local organizations and civil society organizations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/JO-01/2026-10-11/official.pdf",
+    "sha256": "3c7a8553a9cb1dd99f1271f4140c8d0e61112023598c6c453c3abbbbbd69e605",
+    "locator": "page 31, Eighth: General Guidelines and Recommendations",
+    "quote": "Providing channels at the Ministry of Digital Economy and Entrepreneurship to receive complaints related to the ethics of artificial intelligence",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored PDF and MoDEE's news item: Cabinet approval and circulation to government bodies for compliance (news item), with no month since no stored file dates it; the technical committee was formed by the Ministry (not 'MoDEE-chaired'); safety commitments from the principles added",
+   "notes": "rewritten: legal basis, the expert committee, target groups, complaint channels and risks from the PDF, and the literal rendering of the Arabic title; the consultation dates, the approval date and the 2023-2027 strategy's compliance follow-up moved to verification.note, since no stored file has them",
+   "safety_topics": "'deepfakes & synthetic media' replaced by 'evaluation & testing': the integrity and non-fakeness principle concerns not misrepresenting AI capabilities, not synthetic media, while the reliability principle requires testing before market release and periodic review",
+   "english_version": "added: the official PDF is bilingual, so the English text is the Ministry's own",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Approved by the Council of Ministers and circulated to government bodies (MoDEE news item); MoDEE's AI page still lists it on 18 Oct 2026, and nothing stored shows a replacement. Published (non-binding, current).",
+  "legal_force_reasoning": "Kept Non-binding. The code describes itself as an ethical framework that governs conduct 'without coercion' and encourages organisations to adopt it; the Cabinet decision circulates it to ministries and government departments 'for compliance as per due process', an administrative instruction to government bodies rather than a legal obligation on others. The record's legal force is unchanged.",
+  "scope_reasoning": "A national government AI ethics code with accountability, testing and human-intervention content; in scope with no note.",
+  "date_reasoning": "No stored text gives a date for the code: the PDF has none, the AI page lists it without a date, and MoDEE's news item on the Cabinet approval is undated. The published 2022-08-03 comes from the official PDF's file name ('approved by the Presidency 3-8-2022'). It is kept as published, without evidence, and listed in open_questions.",
+  "topics_reasoning": "accountability & liability (principle 5, natural persons accountable), transparency & labelling (principle 4; disclosure of machine-driven avatars), human oversight (right of human intervention; human control in the metaverse), evaluation & testing (tests with clear criteria before market release, periodic review, monitoring and alert systems)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://modee.gov.jo/Ar/NewsDetails/%D8%A7%D9%84%D9%85%D9%8A%D8%AB%D8%A7%D9%82_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
+   "reason": "MoDEE news item 'الميثاق الوطني لاخلاقيات الذكاء الاصطناعي', which states that the Council of Ministers approved the charter and ordered it circulated to all ministries and government departments; needed for the Cabinet approval in issuing_body and, if the page carries one, the approval date (date_published). Stored in this run's second round; it is undated."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Jordan Artificial Intelligence Strategy and Implementation Plan 2023-2027 (MoDEE)",
+   "url": null,
+   "seen_in": "https://modee.gov.jo/en/pages/aicustompage",
+   "why": "National AI strategy with an objective on a legislative and regulatory environment for the safe deployment of AI; possibly in scope with a scope_note under the rule for strategies with some safety content."
+  },
+  {
+   "title": "Jordanian Artificial Intelligence Policy 2020 (Cabinet Resolution No. 659)",
+   "url": null,
+   "seen_in": "https://modee.gov.jo/en/pages/aicustompage",
+   "why": "National AI policy whose Article 21 requires national regulatory frameworks for the responsible use of AI; the legal basis of JO-01."
+  }
+ ],
+ "open_questions": [
+  "date_published (2022-08-03) is kept as published but has no support in a stored text: the PDF, MoDEE's AI page and MoDEE's news item on the Cabinet approval give no date, and the date comes only from the official PDF's file name ('approved by the Presidency 3-8-2022'). A person could provide the Jordan News Agency (Petra) report of the Cabinet decision or the Prime Ministry's record of the session (tools/archive.py --provide)."
+ ]
+}

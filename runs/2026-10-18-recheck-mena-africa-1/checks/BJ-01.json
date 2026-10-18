@@ -1,0 +1,63 @@
+{
+ "cand_id": "BJ-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "running header matches"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "adoption by the Council of Ministers on 18 January 2023 stated in the strategy and in the communique"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "123 actions in four programmes, three phases, five years",
+   "verdict": "supported",
+   "locator": "page 2 (\"cent vingt-trois (123) actions\")"
+  },
+  {
+   "claim": "Action 4.1: text on ethics and liability, adopted within 12 months",
+   "verdict": "supported",
+   "locator": "page 35 (\"Texte adopte 12 mois\")"
+  },
+  {
+   "claim": "Action 4.2: controlled environment for AI initiatives under articles 406-408 of the Digital Code",
+   "verdict": "supported",
+   "locator": "page 35"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "AI and big-data strategy whose fourth programme sets up AI governance."
+ },
+ "overall": "accept",
+ "note": "Checked against the French text. Literal rendering of Action 4.1: \"Adoption of a text governing ethics and responsibility questions\". The ministry English version is not stored (TLS error), so english_version stays unset, as the extractor says. Search found no revision or AI ethics text adopted after 2023; a general digital strategy to 2031 is in preparation but is not a revision."
+}

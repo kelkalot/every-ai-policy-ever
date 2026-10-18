@@ -1,0 +1,269 @@
+{
+ "cand_id": "AU-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AU-01",
+ "record": {
+  "language": "Arabic, English, French, Portuguese",
+  "summary": "A development-focused continental AI strategy with a focus area on minimising AI risks. It names bias and discrimination, disinformation and manipulation of political systems, surveillance, deepfakes, cyber threats and military uses, and calls for technical standards on the safety and security of AI systems. It recommends agile, risk-based regulation, AI governance bodies and independent oversight institutions in member states, a regional AI Ethics Board to review novel large-scale AI systems, impact assessments, transparency registers, red-teaming, a centre of excellence on AI safety and security and an annual AI safety and security conference.",
+  "notes": "Adopted by the AU Executive Council at its 45th Ordinary Session in Accra, Ghana, on 18-19 July 2024; the AU document page is dated 9 August 2024. The foreword and executive summary speak of five focus areas and fifteen action areas, while section 2.4 lists six focus areas, the sixth being an inclusive governance and regulatory framework. Implementation is planned for 2025-2030: a first phase in 2025-2026, a mid-term review in 2027 and a second phase from 2028. The AU publishes the strategy in English, French, Arabic and Portuguese.",
+  "scope_note": "Mainly a development strategy for harnessing AI's benefits, building capabilities and attracting investment, with minimising risks as one of its focus areas; included as the African Union's continental AI strategy, whose governance and safety recommendations are addressed to all member states.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the AU document page on au.int (11 and 18 Oct 2026; only the site's news ticker differs between the two copies), the English strategy PDF (66 pages) and the French PDF, both from au.int (11 Oct 2026). The English PDF confirms the title, the July 2024 date, adoption by the Executive Council at its 45th Ordinary Session on 18-19 July 2024, its preparation under the AU Commission's Commissioner for Infrastructure and Energy, and the content of the summary and notes; the AU page confirms the endorsement, gives 9 August 2024 as its own date and links the English, French, Arabic and Portuguese texts. The Arabic and Portuguese PDFs are not stored. No Executive Council decision number appears in the stored files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 3 (title page)",
+    "quote": "Continental Artificial Intelligence Strategy Harnessing AI for Africa’s Development and Prosperity",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-18/official.html",
+    "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+    "locator": "page title",
+    "quote": "Continental Artificial Intelligence Strategy | African Union",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 5, Acknowledgment",
+    "quote": "The AU Strategy on Artificial Intelligence (AI) was adopted by the AU Executive Council during its 45th Ordinary Session held on to 18th – 19th July 2024, in Accra, The Republic of Ghana.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 5, Acknowledgment",
+    "quote": "was prepared under the leadership and guidance of H.E Dr. Amani Abou -Zeid Commissioner for Infrastructure and Energy, AU Commission",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-18/official.html",
+    "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+    "locator": "document page, description",
+    "quote": "In a landmark decision, the African Union Executive Council endorsed the Continental AI Strategy during its 45th Ordinary Session in Accra, Ghana, on July 18-19, 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 3 (title page)",
+    "quote": "Harnessing AI for Africa’s Development and Prosperity July 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 5, Acknowledgment",
+    "quote": "adopted by the AU Executive Council during its 45th Ordinary Session held on to 18th – 19th July 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 63, 3.2.1 Timeframe for the Implementation of Strategy",
+    "quote": "The Continental AI strategy proposes a five -year timeframe between 2025 and 2030 for implementing the actions in the fifteen areas outlined above.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-18/official.html",
+    "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+    "locator": "document page, description",
+    "quote": "the African Union Executive Council endorsed the Continental AI Strategy during its 45th Ordinary Session in Accra, Ghana",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-18/official.html",
+    "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+    "locator": "document page, description",
+    "quote": "Access the Strategy: [English] [French] [Arabic] [Portuguese]",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 4, Foreword",
+    "quote": "I urge African countries to accelerate the domestication of the strategy and implement its imperatives for the greater good of our continent and of our people.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 63, 3.1 Building Capacity",
+    "quote": "The AU Member States will have the ultimate and critical responsibility in domesticating this Continental AI Strategy by developing and implementing their national AI strategies",
+    "source_kind": "official"
+   }
+  ],
+  "language": [
+   {
+    "file": "archive/AU-01/2026-10-18/official.html",
+    "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+    "locator": "document page, description",
+    "quote": "Access the Strategy: [English] [French] [Arabic] [Portuguese]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-2.pdf",
+    "sha256": "6aeb8a352883976bfedf248ee76b0f0f9c0dc5cd8696b58fbb3db3d6a26f64ea",
+    "locator": "page 3 (title page of the French text)",
+    "quote": "Stratégie Continentale sur l’Intelligence Artificielle",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 8, Executive Summary",
+    "quote": "The eleventh area of action provides for the adoption and implementation of technical standards to ensure the safety and security of AI systems across the Continent.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 37, High-Level Recommendations for AI Governance and Regulation",
+    "quote": "Promote agile, forward -looking and r isk-based regulations at national and regional levels that foster accountability and transparency in the design and deployment of AI Systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 37, Associated Actions",
+    "quote": "Support Member States to establish independent institutions to conduct oversight on the use of AI, enforce compliance with standards as they emerge, and provide access to redress and remedy where violations occur.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 38, Associated Actions",
+    "quote": "Establish a regional independent AI Ethics Board, which reviews applications from AI research groups seeking to develop novel, large-scale AI systems with the potential to impact African societies significantly.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 38, Associated Actions",
+    "quote": "Provide incentives for citizen -led solutions that identify and mitigate AI biases and high-risk issues within AI systems, such as AI Bounty Contests and Red -Teaming efforts.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 38, Associated Actions",
+    "quote": "Adopt algorithmic or AI transparency registers to publicly list AI systems being used in Member States",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 6, Executive Summary",
+    "quote": "This ranges from cyber threats to AI applications in disinformation for manipulation of political systems and societies to Generative AI-produced and distributed information, which can be fully automated through untraceable deepfakes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 57, 2.4.4.2 Addressing AI Safety and Security, Associated Actions",
+    "quote": "Designate a centre of excellence on AI safety and security that will conduct thorough analyses of risks within the digital space and to the political systems, democratic institutions and critical infrastructure in Africa.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 57, 2.4.4.2 Addressing AI Safety and Security",
+    "quote": "Other risks in the military domain require attention, whether in the context of autonomous weapon systems or the broader weaponisation of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 57, Associated Actions",
+    "quote": "Host an Annual Conference on AI Safety and Security in Africa to build capacity",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AU-01/2026-10-18/official.html",
+    "sha256": "0949098baf822182da88e8d3fcd6128bd09745f0a8acd26e1eae756bfa85728a",
+    "locator": "document page, heading and date",
+    "quote": "Continental Artificial Intelligence Strategy Aug 9, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 6, Executive Summary",
+    "quote": "The Continental AI Strategy proposes a people -centric, development-oriented and inclusive approach around five focus areas and fifteen policy recommendations.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 32, 2.4 Focus Areas",
+    "quote": "v. Accelerating AI investment. vi. Creating an inclusive governance and regulatory framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 64, 3.2.1 Timeframe",
+    "quote": "Phase II will commence in 2028 focus on implementing core projects and actions of the continental AI strategy, based on the review in 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AU-01/2026-10-11/document-1.pdf",
+    "sha256": "c5429f73786c0a0c170a78278016339ab86f914b239290ba1d6623cc07734e3f",
+    "locator": "page 63, 3.2.1 Timeframe",
+    "quote": "Phase 1 , which will take place between 2025 and 2026, will focus on beginning of all the activities",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "language": "the AU page links English, French, Arabic and Portuguese texts of the strategy, and the French text is stored; listed alphabetically as for other intergovernmental records",
+   "summary": "rewritten from the strategy's text: adds the regional AI Ethics Board for novel large-scale systems, independent oversight institutions and the centre of excellence on AI safety and security; 'privacy' and 'election manipulation' replaced by the strategy's own wording",
+   "notes": "corrected: the strategy speaks of five focus areas in its foreword and executive summary but lists six in section 2.4; adds the 2025-2030 implementation phases and the language versions",
+   "scope_note": "added: a development strategy whose risk-minimising content is one focus area among five or six gets a scope_note under the general rule for strategies, as in recent rechecks (NO-01, PT-01, DE-02)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "Adopted by the AU Executive Council at its 45th Ordinary Session on 18-19 July 2024 as a strategy that member states are urged to domesticate through national strategies; its implementation period runs from 2025 to 2030 with a review in 2027, and the AU page still offers it in four languages on 18 Oct 2026. Nothing stored shows it replaced or withdrawn. Published (non-binding, current).",
+  "scope_reasoning": "An intergovernmental AI strategy with a focus area on minimising risks and governance recommendations to all member states; in scope, with a scope_note because its main focus is development and capabilities.",
+  "date_reasoning": "The strategy's title page reads 'July 2024' and the acknowledgment dates the Executive Council's adoption to its two-day session of 18-19 July 2024, so no single day can be given; 2024-07 is kept. The AU page's 9 August 2024 is its own posting date and goes in the notes.",
+  "topics_reasoning": "Unchanged and supported: risk-based classification (risk-based regulation), deepfakes & synthetic media, national security & military (military domain, peace and security), evaluation & testing (impact assessments, red-teaming), accountability & liability (oversight institutions, redress, AI Ethics Board), international cooperation (regional coordination and global AI governance)."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "African Digital Compact (African Union)",
+   "url": null,
+   "seen_in": "https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy",
+   "why": "Listed as a related resource on the AU strategy page; an AU instrument on digital transformation that may carry AI governance content. Not in the register; scope to be checked."
+  },
+  {
+   "title": "African Child Online Safety and Empowerment Policy (African Union)",
+   "url": null,
+   "seen_in": "https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy",
+   "why": "Listed as a related resource on the AU strategy page; the strategy itself calls for child online safety regimes to integrate AI risks. In scope only if it deals with AI; not in the register."
+  }
+ ],
+ "open_questions": [
+  "The Executive Council decision that adopted the strategy at its 45th Ordinary Session (18-19 July 2024) would give an official_identifier; its number is not in the stored files and no URL for the decisions document is known from them."
+ ]
+}

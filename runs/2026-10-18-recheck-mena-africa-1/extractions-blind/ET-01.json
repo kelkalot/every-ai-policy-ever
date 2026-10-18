@@ -1,0 +1,83 @@
+{
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 3",
+    "quote": "Federal Democratic Republic of Ethiopia National Artificial Intelligence Policy",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 1",
+    "quote": "ብሔራዊ የአርቲፊሻል ኢንተለጀንስ ፖሊሲ",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 64",
+    "quote": "The National AI Policy has been developed under the leadership of the Ethiopian Artificial Intelligence Institute. It will take effect following approval by the Council of Ministers",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 1",
+    "quote": "June 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/ET-01/extra-d6e1357afd/2026-10-18/official.html",
+    "sha256": "98a102f1adbbe814072b5e1d5d6f8e92a030211aadf6d9490e55ac7beab20f0c",
+    "locator": "page text",
+    "quote": "Active",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/ET-01/2026-10-11/secondary.pdf",
+    "sha256": "c1b26449e2019c784b8e574faa36005c078a16e06b9eb507459af11a95ff9264",
+    "locator": "page 64",
+    "quote": "It will take effect following approval by the Council of Ministers, in alignment with Council of Ministers Regulation No. 510/2022.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The policy text says it takes effect on Council of Ministers approval; a tracker stored this run reports approval on 27 June 2024 and OECD.AI lists it as active. No later event is in the stored text.",
+  "scope_reasoning": "Borderline national strategy/policy with risk-governance content; in scope as already recorded."
+ },
+ "open_questions": [
+  "The stored official-domain copy (mint.gov.et) was not available; evidence rests on the OECD.AI-hosted PDF.",
+  "27 June 2024 approval date rests on a tracker page (secondary); the document gives only June 2024."
+ ],
+ "cand_id": "ET-01",
+ "decision": "update",
+ "target_id": "ET-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "extra_urls": [],
+ "leads": []
+}

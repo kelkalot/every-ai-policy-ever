@@ -1,0 +1,159 @@
+{
+ "cand_id": "SA-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SA-03",
+ "record": {
+  "official_identifier": "SDAIA-P119",
+  "notes": "The cover gives the year 2025; the document-control table gives May 2025, document type 'Regulatory Documents', document number SDAIA-P119 and version number 2, so an earlier version exists; the text describes the regulatory landscape as of June 2024. Its recommendations cite SDAIA's AI Ethics Principles (SA-01), the Personal Data Protection Law and the Anti-Cyber Crime Law, and it refers to SDAIA's generative AI guidelines for the public (SA-02). An appendix provides for ongoing review with periodic stakeholder feedback. SDAIA lists the document among its laws and regulations under 'Deepfakes Guidelines'.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the English PDF from sdaia.gov.sa (56 pages) and SDAIA's laws and regulations page (snapshots of 11 Oct 2026, unchanged on 18 Oct 2026). The PDF confirms the title, May 2025, version 2, document number SDAIA-P119 and the guidance summarised; its text does not name the issuer, which rests on the SDAIA document number and on SDAIA's page listing it. The date of version 1 is in no stored source. The Arabic edition is not stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 1 (cover)",
+    "quote": "Guidelines Deepfakes Guidelines Mitigating Risks While Fostering Innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-03/2026-10-11/secondary.html",
+    "sha256": "a2b9727c45c6b2f61d599c2f6f01e80c70419e74bf7de3dec21a5fbd098febee",
+    "locator": "Deepfakes Guidelines section",
+    "quote": "For more, see the Deepfakes Guidelines: Deepfakes mitigating risks while fostering innovation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 56, document-control table",
+    "quote": "Document Number | SDAIA-P119",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-03/2026-10-11/secondary.html",
+    "sha256": "a2b9727c45c6b2f61d599c2f6f01e80c70419e74bf7de3dec21a5fbd098febee",
+    "locator": "page title",
+    "quote": "SDAIA Laws & Regulations | Saudi Data & AI Authority",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 56, document-control table",
+    "quote": "Document Number | SDAIA-P119",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 56, document-control table",
+    "quote": "May 2025 Document Type | Regulatory Documents",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 56, document-control table",
+    "quote": "Document Number | SDAIA-P119 Version Number | 2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 54, 11.6 Appendix 6: Feedback and Update Mechanism",
+    "quote": "The guidelines will be subject to ongoing review to ensure they remain aligned with advancements in deepfake technology and emerging regulatory needs.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 4, Executive Summary",
+    "quote": "This document provides comprehensive guidelines to address the implications of deepfake technologies and mitigate their associated risks.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 4, Executive Summary",
+    "quote": "Developers are also urged to ensure accountability by establishing human oversight and clear responsibilities for AI outcomes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 11, 3. Purpose and Scope of the Guidelines",
+    "quote": "This document is applicable to three primary groups involved with deepfake technologies",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 22, 7. Guidance for Regulators",
+    "quote": "Platforms should implement mechanisms for reporting harmful deepfake content",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 9",
+    "quote": "As of June 2024, no documentation explicitly reference deepfakes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SA-03/2026-10-11/official.pdf",
+    "sha256": "362f4a58dc88df7d0092eec8b75f1df0eca3856c7e429d40bd70090f1bbe546f",
+    "locator": "page 7",
+    "quote": "neural networks (for further details refer to the GenAI guide",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "'SDAIA-P119 (Version 2)' -> 'SDAIA-P119': the identifier holds the document number only; the version is in the notes",
+   "notes": "rewritten from the PDF and SDAIA's page; the remark that version 1 was not found moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force",
+   "summary"
+  ],
+  "status_reasoning": "Version 2 of May 2025, listed on SDAIA's laws and regulations page; nothing stored replaces it. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "AI-specific guidance by the national AI authority on deepfake risks; in scope with no note.",
+  "date_reasoning": "The document-control table gives 'May 2025' with no day; 2025-05 stands.",
+  "topics_reasoning": "Unchanged and supported: deepfakes & synthetic media, transparency & labelling (watermarks and labels, sections 5.3 and 6.3), accountability & liability, human oversight (executive summary)."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "SDAIA AI Adoption Framework",
+   "url": "https://sdaia.gov.sa/en/SDAIA/about/Files/AIAdoptionFramework.pdf",
+   "seen_in": "archive/SA-03/2026-10-11/secondary.html (SDAIA laws and regulations page, 'AI Adoption Framework')",
+   "why": "SDAIA's guiding reference for AI adoption across all sectors, 'through the optimal and responsible use of AI'; no record in the register; scope depends on its risk-governance content."
+  }
+ ],
+ "open_questions": []
+}

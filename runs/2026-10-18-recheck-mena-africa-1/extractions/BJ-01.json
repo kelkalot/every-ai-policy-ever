@@ -1,0 +1,234 @@
+{
+ "cand_id": "BJ-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BJ-01",
+ "record": {
+  "summary": "Five-year strategy approved by the Council of Ministers on 18 January 2023, organised in four programmes and 123 actions. Programme 4 sets up the governance framework for AI and big data so that ethics and liability questions are mastered: Action 4.1 provides for a text on AI ethics and liability within twelve months, to be reflected in the Digital Code and Penal Code and to institute impact analyses and controls of AI solutions over their lifecycle, and Action 4.2 for a controlled environment for AI initiatives under articles 406-408 of the Digital Code pending an AI regulatory body. The strategy is evaluated annually.",
+  "notes": "The Council of Ministers approved the strategy and its action plan on 18 January 2023 (communiqué item II-3). Its four programmes are to be rolled out in three phases over five years, and its financing for 2023-2027 is estimated at about 4.68 billion CFA francs. The controls to be instituted under Action 4.1 are to ensure that AI systems take account of concepts such as transparency, justice and equity, responsibility, non-maleficence, privacy, freedom and autonomy.",
+  "scope_note": "Mainly a strategy for AI and big-data use cases, skills, research and data management; included as Benin's national AI strategy, whose fourth programme sets up AI governance, an AI ethics and liability text and a controlled environment for AI initiatives.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the SNIAM PDF (68 pages) from asin.bj, stored 12 Oct 2026 (the retry of 18 Oct 2026 failed with a TLS protocol error, so the 12 Oct copy is the current one), and the Council of Ministers communiqué of 18 January 2023 from sgg.gouv.bj (unchanged on 18 Oct 2026). The PDF confirms the title, the period, the lead ministry, the approval on 18 January 2023, the four programmes and 123 actions, Actions 4.1 and 4.2, the financing estimate and annual evaluation; the communiqué confirms the approval on that date (item II-3). The ministry publishes an English version of the strategy (publication page on innovation.gouv.bj, PDF at asin.bj/doc/14), but both refused the archiver with a TLS protocol error on 18 Oct 2026, so english_version is not recorded and the English title remains a rendering of the French one. Earlier remarks on national AI olympiads in June 2026, on the ministry's later name and on the absence of an AI law in 2024 rest on no stored source and were dropped; the ethics-and-liability text planned under Action 4.1 is not among the stored sources."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 3, running header",
+    "quote": "Stratégie Nationale d’Intelligence Artificielle et des Mégadonnées 2023 - 2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "mégadonnées (SNIAM) du Bénin a été conduite par le Ministère du Numérique et de la Digitalisation",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 3, running header",
+    "quote": "Stratégie Nationale d’Intelligence Artificielle et des Mégadonnées 2023 - 2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "mégadonnées (SNIAM) du Bénin a été conduite par le Ministère du Numérique et de la Digitalisation",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "mégadonnées (SNIAM) du Bénin a été conduite par le Ministère du Numérique et de la Digitalisation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "La SNIAM a été adoptée par le Conseil des Ministres en sa session du 18 janvier 2023.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "La SNIAM a été adoptée par le Conseil des Ministres en sa session du 18 janvier 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/secondary.html",
+    "sha256": "6c96e3530a630c23a9fb527f9275e4154daebe69d3e9d58b8eb0cb9e5f21c464",
+    "locator": "communiqué, opening",
+    "quote": "Le Conseil des Ministres s'est réuni mercredi, le 18 janvier 2023",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/secondary.html",
+    "sha256": "6c96e3530a630c23a9fb527f9275e4154daebe69d3e9d58b8eb0cb9e5f21c464",
+    "locator": "communiqué, item II-3",
+    "quote": "II-3. Approbation de la Stratégie nationale d'intelligence artificielle et des mégadonnées 2023-2027.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "La SNIAM a été adoptée par le Conseil des Ministres en sa session du 18 janvier 2023.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 40, 3.2 Mobilisation des ressources",
+    "quote": "Sur la tranche 2023-2027, le financement de la stratégie est évalué à environ 4,68 milliards de FCFA.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 34, Action 4.1",
+    "quote": "ACTION 4.1. Adoption d’un texte encadrant les questions d’éthiques et de responsabilité",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 2",
+    "quote": "elle est composée de quatre programmes déclinables en trois phases pendant cinq années, avec un portefeuille contenant cent vingt-trois (123) actions impactant les secteurs public et privé.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 22, Plan d'actions",
+    "quote": "Programme 4 : Mise en place du cadre de gouvernance de l’IA et de la gestion de données de masse",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 19, Objectif stratégique 4, effets attendus",
+    "quote": "Les questions d’éthique et de responsabilité sont maîtrisées",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.1",
+    "quote": "Néant Texte adopté 12 mois",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.1",
+    "quote": "compte dans le code du numérique et le code pénal, les questions d’éthique et de responsabilité liées à l’IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.1",
+    "quote": "Ce texte devra par exemple formaliser et instituer les analyses et le contrôle d’impact des solutions d’IA pendant leur cycle de vie",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.2",
+    "quote": "En attendant la mise en place d’un organe de régulation de l’IA et d’amorcer la mise en œuvre des solutions d’IA dans le cadre de la SNIAM, il est nécessaire que cela se fasse dans un cadre adéquat.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.2",
+    "quote": "les articles 406, 407 et 408 du code du numérique, doivent permettre la mise en place d’un environnement contrôlé pour le développement des initiatives d’IA",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 44, cadre de mesure de performance",
+    "quote": "« itératif et incrémental », il est prescrit une évaluation annuelle.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/BJ-01/2026-10-12/secondary.html",
+    "sha256": "6c96e3530a630c23a9fb527f9275e4154daebe69d3e9d58b8eb0cb9e5f21c464",
+    "locator": "communiqué, item II-3",
+    "quote": "Cette stratégie et son plan d'action ont été élaborés dans une démarche qui intègre les parties prenantes",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 40, 3.2 Mobilisation des ressources",
+    "quote": "Sur la tranche 2023-2027, le financement de la stratégie est évalué à environ 4,68 milliards de FCFA.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.1",
+    "quote": "sont conçus et implémentés en tenant compte de concepts clés tels que les personnes, la planète, la prospérité, la paix, la transparence, la justice et l’équité,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BJ-01/2026-10-12/official.pdf",
+    "sha256": "ea8e6529ca961b02312a87444be45609545bf2827080957cfd266ef86f24bac1",
+    "locator": "page 35, Action 4.1",
+    "quote": "la responsabilité, la non-malfaisance, la vie privée, la bienfaisance, la liberté et l’autonomie, la durabilité, la dignité et la solidarité.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the PDF: Action 4.1 now includes the impact analyses and lifecycle controls the text is to institute (page 35); the list of ethical concepts moved to notes; annual evaluation kept (page 44)",
+   "notes": "rewritten: the approval and the action plan from the communiqué; phases and the 4.68 billion CFA franc financing estimate from the PDF; the ethical concepts of Action 4.1. The olympiads of June 2026 and the statement that no AI law was found for 2024 rest on no stored source and were dropped; the hosting remark moved to verification.note",
+   "scope_note": "added: the strategy's main content is use cases, skills, research and data management, with AI governance in programme 4, in line with the scope notes of comparable national strategies (CA-07, CO-01, NO-01)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Approved by the Council of Ministers on 18 January 2023 for 2023-2027 (PDF page 2; communiqué item II-3). It is October 2026, within the period; nothing stored shows it withdrawn or replaced. Published (non-binding, current).",
+  "scope_reasoning": "In scope as Benin's national AI strategy with a governance programme (AI ethics and liability text, impact controls, controlled environment pending an AI regulator); main content is adoption, so a scope_note is added.",
+  "date_reasoning": "The PDF and the Council of Ministers communiqué both give the approval at the session of 18 January 2023; date_published stays 2023-01-18.",
+  "topics_reasoning": "The published topics are supported: accountability & liability (Action 4.1, ethics and liability text), public-sector use (public-sector use cases and actions across sectors), research priorities (programme 3, research and innovation). Left unchanged.",
+  "title_reasoning": "The English title is a rendering of the French title. The ministry publishes an English version ('National Artificial and Big Data Strategy' on its publication page; 'National Artificial Intelligence and Big Data Strategy 2023 - 2027' according to search results), but neither copy could be stored (TLS protocol error), so no English title is quoted and english_version stays unrecorded. original_title is kept: the running header gives 'Stratégie Nationale d’Intelligence Artificielle et des Mégadonnées 2023 - 2027' and page 2 adds the acronym (SNIAM)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "english_version is not recorded: the ministry's English version of the SNIAM (https://innovation.gouv.bj/publications/documents/national-artificial-and-big-data-strategy and https://asin.bj/doc/14/download) refused the archiver with a TLS protocol error. A person who downloads it could store it with archive.py --provide; then english_version can be set to a government translation and its title quoted as the official English title."
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "cand_id": "GH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GH-01",
+ "record": {
+  "safety_topics": [
+   "incident reporting",
+   "accountability & liability",
+   "evaluation & testing",
+   "public-sector use",
+   "research priorities"
+  ],
+  "notes": "The document is dated December 2025 on its cover. By 1 April 2026 Cabinet had approved the strategy and USD 250 million for a national AI computing centre. President John Dramani Mahama launched the strategy in Accra on Friday 24 April 2026, when USD 20 million was also announced for its short- and medium-term implementation. At the launch the Minister for Communication said the ministry was working on an Emerging Technologies Bill to provide the legal framework for AI and related technologies. The strategy rests on about 40 expert interviews and public-sector consultation workshops held from March to October 2022, and recommends reducing the implementation timeline from ten to five years with periodic reviews.",
+  "scope_note": "Mainly a strategy for AI education, skills, infrastructure, data, research and adoption; included as Ghana's national AI strategy, which analyses AI risks and proposes a Responsible AI Authority, incident reporting, safe-AI guidance for developers and tools to audit and certify AI systems.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the strategy PDF from moc.gov.gh (84 pages; stored 11 Oct 2026 and unchanged on 18 Oct 2026), the ministry's release of 24 April 2026 on the launch (moc.gov.gh), the Information Services Department's report of 1 April 2026 on Cabinet's approval (isd.gov.gh), and the Ghana News Agency report of the launch (a state news agency, not an official source; new snapshot of 18 Oct 2026 that differs from the earlier one only in page furniture). The PDF confirms the title, the issuing ministry, the December 2025 date, the eight pillars, the risk analysis, the Responsible AI Authority and National AI Office proposals and the governance actions in the summary. The ministry's release confirms the launch by the President in Accra on 24 April 2026; the ISD report confirms Cabinet's approval of the strategy and of USD 250 million for an AI computing centre. The USD 20 million for implementation and the Emerging Technologies Bill rest on the news agency's report; no text of an Emerging Technologies Bill was found. The '2023/03' in the PDF's path is the site's upload folder, not the document's date."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 6, Foreword",
+    "quote": "The Republic of Ghana National Artificial Intelligence Strategy: 2025-2035 is our comprehensive roadmap to harnessing this transformative power.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 1 (cover)",
+    "quote": "MINISTRY OF COMMUNICATION, DIGITAL TECHNOLOGY AND INNOVATIONS DECEMBER 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 1 (cover)",
+    "quote": "MINISTRY OF COMMUNICATION, DIGITAL TECHNOLOGY AND INNOVATIONS DECEMBER 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 6, Foreword",
+    "quote": "The Republic of Ghana National Artificial Intelligence Strategy: 2025-2035 is our comprehensive roadmap to harnessing this transformative power.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-b1e4b97bc4/2026-10-18/official.html",
+    "sha256": "03f1105722e55bd3d3a93c5f3b8f383d627e9fef1acf6578ba7f8172d679fc54",
+    "locator": "ministry release of 24 April 2026, paragraph 1",
+    "quote": "The President, H. E. John Dramani Mahama has launched Ghana’s National Artificial Intelligence (AI) Strategy, marking a decisive step toward positioning the country as an innovation-driven and globally competitive digital economy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-90dc9bcf6e/2026-10-18/official.html",
+    "sha256": "07a8a77b87cc23672c0ed6fddfd332685e14e929ab1020f063b60932146801ed",
+    "locator": "ISD report of 1 April 2026, paragraph 3",
+    "quote": "Mr George revealed that the Cabinet has also approved Ghana’s National AI Strategy, which would be launched on April 24, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-18/secondary.html",
+    "sha256": "760a7572ee08575a276878dd92a75fe23c6d882eeec79cb570e61d59399b4c13",
+    "locator": "article, paragraph 2",
+    "quote": "Speaking at the launch of the National AI Strategy in Accra on Friday, President John Dramani Mahama said",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 15, Executive summary",
+    "quote": "The report concludes with a recommendation that a Responsible AI Authority (RAI Authority) be established within the first year to lead the execution of the Ghana National AI Strategy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan (governance)",
+    "quote": "apply a soft guideline-based regulatory approach to avoid stifling innovation.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 26, Risks of AI",
+    "quote": "including bias, discrimination and lack of transparency & explainability in algorithmic outcomes, widening inequality gaps, cybersecurity, privacy and safety concerns",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 7, Foreword",
+    "quote": "To this end, our strategy is fully aligned with the UNESCO Recommendation on the Ethics of Artificial Intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan: Establish a National AI Office with a legal mandate",
+    "quote": "coordinate implementation, incident reporting, and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan: Establish a National AI Office with a legal mandate",
+    "quote": "oversight of AI system qualification",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan",
+    "quote": "Consider mandatory insurance requirements for",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan",
+    "quote": "high-risk AI-generated outputs to protect individuals",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 14, Key recommendations, Pillar 4",
+    "quote": "Disseminate guidance on trustworthy, safe, secure and ethical AI practices to AI developers and adopters",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-90dc9bcf6e/2026-10-18/official.html",
+    "sha256": "07a8a77b87cc23672c0ed6fddfd332685e14e929ab1020f063b60932146801ed",
+    "locator": "ISD report of 1 April 2026, paragraph 1",
+    "quote": "has disclosed that Cabinet has approved a $250 million investment to establish a national Artificial Intelligence (AI) computer centre.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-90dc9bcf6e/2026-10-18/official.html",
+    "sha256": "07a8a77b87cc23672c0ed6fddfd332685e14e929ab1020f063b60932146801ed",
+    "locator": "ISD report, date line",
+    "quote": "April 1, 2026 at 3:22 pm",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-90dc9bcf6e/2026-10-18/official.html",
+    "sha256": "07a8a77b87cc23672c0ed6fddfd332685e14e929ab1020f063b60932146801ed",
+    "locator": "ISD report of 1 April 2026, paragraph 3",
+    "quote": "Mr George revealed that the Cabinet has also approved Ghana’s National AI Strategy, which would be launched on April 24, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-mena-africa-1/GH-01/extra-b1e4b97bc4/2026-10-18/official.html",
+    "sha256": "03f1105722e55bd3d3a93c5f3b8f383d627e9fef1acf6578ba7f8172d679fc54",
+    "locator": "ministry release of 24 April 2026, paragraph 2",
+    "quote": "Speaking at the launch in Accra on Friday, April 24, 2026, the President described the strategy",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-18/secondary.html",
+    "sha256": "760a7572ee08575a276878dd92a75fe23c6d882eeec79cb570e61d59399b4c13",
+    "locator": "article, paragraph 1",
+    "quote": "Accra, April 24, GNA – The government has announced a $250 million investment to establish a world‑class Artificial Intelligence (AI) Computing Centre, with $20 million allocated for short‑ and medium‑term AI strategy implementation.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/GH-01/2026-10-18/secondary.html",
+    "sha256": "760a7572ee08575a276878dd92a75fe23c6d882eeec79cb570e61d59399b4c13",
+    "locator": "article, final paragraphs",
+    "quote": "He disclosed that the Ministry was working on an Emerging Technologies Bill, which would provide the legal framework for the deployment of AI and related technologies in the country.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 21, Methodology",
+    "quote": "Around 40 expert interviews were conducted with key actors and institutions in Ghana's AI ecosystem",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 21, Methodology",
+    "quote": "An initial workshop in March 2022 with steering committee members defined mission and vision statements.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 21, Methodology",
+    "quote": "Subsequent in-person and virtual public sector consultation workshops took place from May to October 2022.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan: Strengthen strategic planning and adaptability",
+    "quote": "Reduce implementation timeline from 10 to 5 years",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/GH-01/2026-10-11/official.pdf",
+    "sha256": "7c2856022e5c04ee3591b7a2f8b799f249137bc00115ce104fedf69c38dbae29",
+    "locator": "page 57, action plan: Audit and certification tools for AI systems",
+    "quote": "Develop and deploy legal and technical tools for",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "safety_topics": "added 'evaluation & testing': the action plan calls for legal and technical tools for auditing and certifying AI systems to reduce risks like bias and hallucinations (page 57)",
+   "notes": "rewritten from stored sources: Cabinet's approval from the ISD report of 1 April 2026 and the launch from the ministry's release of 24 April 2026 (both official); the USD 20 million and the Emerging Technologies Bill from the news agency report; the 2022 interviews and workshops and the shorter implementation timeline from the strategy. The earlier claim that drafts were consulted on from April 2025 is not in any stored source and was dropped (the strategy dates its consultations to March-October 2022); the remark on where the PDF is hosted moved to verification.note",
+   "scope_note": "added: an adoption-focused national strategy with a substantial but not main safety component, in line with the scope notes given to comparable national strategies (CA-07, CO-01, NO-01)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding national strategy for 2025-2035 published by the ministry (cover dated December 2025), approved by Cabinet by 1 April 2026 (ISD) and launched by the President in Accra on 24 April 2026 (ministry release). Nothing stored shows it withdrawn or replaced; it is within its period. Published (non-binding, current).",
+  "scope_reasoning": "In scope as Ghana's national AI strategy with a risk analysis and governance proposals (Responsible AI Authority, incident reporting, safe-AI guidance, audit and certification tools, insurance for high-risk outputs). Its main content is adoption, skills and infrastructure, so a scope_note is added under the rule for strategies with some safety content.",
+  "date_reasoning": "The cover gives 'DECEMBER 2025' and no day, so date_published stays 2025-12. Cabinet's approval (by 1 April 2026; the report does not give the day of the Cabinet meeting) and the launch on 24 April 2026 are later events and stay in notes.",
+  "topics_reasoning": "incident reporting (National AI Office mandate for incident reporting), accountability & liability (insurance for high-risk AI outputs, accountability and legal clarity), evaluation & testing (auditing and certifying AI systems; oversight of AI system qualification), public-sector use (Pillar 8), research priorities (Pillar 7, applied research)."
+ },
+ "extra_urls": [],
+ "leads": [
+  "Ghana: an Information Services Department news item titled 'Government Introduces Centralised Review for Public Sector AI Acquisitions' (listed under 'Up next' on the stored ISD page of 1 April 2026; isd.gov.gh) may describe a government instrument on reviewing public-sector AI procurement. Not in the register; URL not stored."
+ ],
+ "open_questions": []
+}

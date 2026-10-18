@@ -1,0 +1,62 @@
+{
+ "cand_id": "JO-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "judgment-differs",
+   "why": "Cabinet circulated it to government bodies 'to comply', while the code itself speaks of commitment 'without coercion'; Non-binding is defensible."
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "2022-08-03 appears only in the official PDF's file name; no stored text gives it. The run leaves it unchanged."
+  },
+  "english_version": {
+   "verdict": "supported",
+   "why": "authentic: the stored PDF is bilingual, from the issuer"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Principles for the metaverse and AI research",
+   "verdict": "supported",
+   "locator": "contents, Fifth and following"
+  },
+  {
+   "claim": "Testing before market release; accountability of natural persons for harm",
+   "verdict": "supported",
+   "locator": "pages 19-20"
+  },
+  {
+   "claim": "Cabinet approved and circulated it for compliance (Arabic news item)",
+   "verdict": "supported",
+   "locator": "first paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Text corrections are supported by the stored PDF and Arabic news item. date_published has no stored quote (evidence script error); it is unchanged by the run, so it should become a question while the rest merges. One search found no revision or AI law; a MoDEE brochure lists the code under August 2022 but is not stored.",
+ "translation": "Arabic news item: 'The Council of Ministers decided to approve the National Charter for AI Ethics and circulate it to all ministries, institutions and government departments to comply with its contents as appropriate.' Second paragraph: 'The charter's adoption implements the Jordanian AI Policy, which provided for national regulatory frameworks to ensure responsible use of AI.'"
+}

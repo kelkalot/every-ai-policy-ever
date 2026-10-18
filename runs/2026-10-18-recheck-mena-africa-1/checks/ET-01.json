@@ -1,0 +1,66 @@
+{
+ "cand_id": "ET-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported",
+   "why": "Amharic title matches the title page and the OECD.AI entry character by character"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "policy text says developed under the Institute and effective on Council of Ministers approval; the approval itself is shown only by a tracker"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "title page June 2024 (Sene 2016)"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "OECD.AI lists it as Active; approval of 27 June 2024 rests on a secondary tracker"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "scope_note": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "judgment-differs",
+   "why": "naming Digital Policy Alert in the notes is a sourcing remark; the notes should state the approval date plainly and keep the attribution in verification.note. Not blocking."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "licences for private developers and certification of AI products",
+   "verdict": "supported",
+   "locator": "page 65, 7.1"
+  },
+  {
+   "claim": "proclamation to regulate AI data management, imports, licensing and inspection",
+   "verdict": "supported",
+   "locator": "page 68, 7.2"
+  },
+  {
+   "claim": "AI ethical guidelines on fairness, accountability, transparency to be prepared",
+   "verdict": "supported",
+   "locator": "page 59, 4.8.2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "National AI policy with an AI risks and remedies chapter and planned regulation."
+ },
+ "overall": "accept",
+ "note": "Quotes and hashes match; the stored copy is OECD-hosted, so level B. The Council of Ministers approval is not shown by an Ethiopian government file (secondary tracker only), already an open question. The text is bilingual (Amharic and English), so english_version could be recorded as authentic; the run leaves it null. Search found no revised version or AI proclamation."
+}

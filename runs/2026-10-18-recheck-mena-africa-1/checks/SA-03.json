@@ -1,0 +1,53 @@
+{
+ "cand_id": "SA-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "Issuer rests on document number and SDAIA's page listing it; acceptable"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Developers urged to ensure accountability with human oversight and clear responsibilities",
+   "verdict": "supported",
+   "locator": "page 4"
+  },
+  {
+   "claim": "Platforms should implement mechanisms for reporting harmful deepfake content",
+   "verdict": "supported",
+   "locator": "page 22"
+  },
+  {
+   "claim": "Refers to GenAI guidelines for the general public; cites PDPL and Anti-Cyber Crime Law",
+   "verdict": "supported",
+   "locator": "pages 7 and elsewhere"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Identifier and notes changes are supported by the stored PDF and SDAIA's page. Search found press (Arab News, 11 May 2026; Biometric Update, Aug 2026) reporting that SDAIA issued the deepfakes guidelines, possibly an updated edition of SDAIA-P119 with a link to sdaia.gov.sa; I could not open an official 2026 document or confirm that it differs from the stored version 2 of May 2025, so nothing is added to extra_urls. A later run should check SDAIA's page again."
+}

@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-FL-15",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The Court amended the comments to rules 4-1.1, 4-1.6, 4-5.1 and 4-5.3 to add generative AI cautions",
+   "verdict": "supported",
+   "locator": "page 4 and appendix pages 6-13 of the stored copy"
+  },
+  {
+   "claim": "The amendments also allow testimonials by celebrity clients (rules 4-7.13 and 4-7.15)",
+   "verdict": "supported",
+   "locator": "page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Court-adopted amendments to the conduct rules; AI content is a few comment sentences. Existing scope_note kept."
+ },
+ "overall": "accept",
+ "note": "Level C: only a third-party copy (ALM) is stored; the Court's host disallows the archiver. Search found no later amendment of the comments, but it is not confirmed from an official page."
+}

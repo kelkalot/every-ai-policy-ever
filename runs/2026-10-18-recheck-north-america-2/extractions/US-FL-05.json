@@ -1,0 +1,209 @@
+{
+ "cand_id": "US-FL-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-05",
+ "record": {
+  "notes": "Passed the House 116-0 on 16 Apr 2025 and the Senate 38-0 on 23 Apr 2025, where it was substituted for CS/SB 1400; approved by the Governor on 10 Jun 2025 and effective on becoming law, with the removal process due by 31 Dec 2025. A removal request must carry a signature, information to locate the depiction, a good-faith statement that it is not consensual and contact details, and platforms must give clear and conspicuous notice of the process. Providers of information or telecommunications services for content provided by others, e-mail, and services consisting mainly of preselected content are exempt. The removal duty adds to the civil remedies of s. 836.13, F.S., the altered-sexual-depiction offence that CS/CS/SB 1798 created in 2022. Section 836.13 was amended again in 2026 by ch. 2026-14, ch. 2026-18 and ch. 2026-20; in the 2026 Florida Statutes the notice-and-removal duties are subsection (8).",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for HB 1161 (2025) and the two House staff analyses linked from it, stored on 14 Oct 2026 from flsenate.gov (the archiver found them unchanged on 17 Oct 2026), and the 2026 Florida Statutes page for s. 836.13, stored in this run. The bill page confirms the title, sponsors, history, floor votes (116-0 and 38-0), approval by the Governor on 10 Jun 2025, Chapter No. 2025-133, the effective date of 10 Jun 2025 and the citation of s. 836.13; the House final bill analysis of 18 Jun 2025 confirms the short title Brooke's Law, approval, chapter and effective date and describes the enacted provisions, on which the summary rests. The statute page shows the removal duties in force in subsection (8), in the terms the summary gives, and a history note citing ch. 2026-14, ch. 2026-18 and ch. 2026-20 after this law; it does not show which subsections those 2026 laws changed, so date_last_updated stays empty. The enrolled bill text was not stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "bill heading",
+    "quote": "CS/CS/HB 1161: Removal of Altered Sexual Depictions Posted without Consent",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 1, Effect of the Bill",
+    "quote": "Names the act, “Brooke’s Law.” (Section 1)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "bill heading",
+    "quote": "by Commerce Committee; Industries & Professional Activities Subcommittee; Duggan; (CO-INTRODUCERS)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "Bill History, 6/10/2025",
+    "quote": "6/10/2025 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "Last Action",
+    "quote": "Last Action: 6/11/2025 - Chapter No. 2025-133",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "Citations - Statutes (1)",
+    "quote": "836.13 Promotion of an altered sexual depiction; prohibited acts; penalties; applicability.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "Bill History, 6/10/2025",
+    "quote": "6/10/2025 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 2",
+    "quote": "The bill was approved by the Governor on June 10, 2025, ch. 2025-133, L.O.F., and will become effective upon becoming law.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "bill heading",
+    "quote": "Effective Date: 6/10/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 2",
+    "quote": "The bill was approved by the Governor on June 10, 2025, ch. 2025-133, L.O.F., and will become effective upon becoming law.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "Bill History, 6/11/2025",
+    "quote": "6/11/2025 • Chapter No. 2025-133",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "bill heading",
+    "quote": "Effective Date: 6/10/2025",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/official.html",
+    "sha256": "cad9513f9111148fabd35125be2b94bcbe39813a267ef6f73e916018e601e70a",
+    "locator": "Bill History, 6/10/2025",
+    "quote": "6/10/2025 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 1, header",
+    "quote": "GOVERNOR’S ACTION: Approved",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 1, Effect of the Bill",
+    "quote": "Requires, no later than December 31, 2025, covered platforms to establish a process by which an identifiable person or an authorized person acting on behalf of the identifiable person may notify and request removal of an altered sexual depiction that was published without their consent.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 2, Effect of the Bill",
+    "quote": "covered platform to remove the altered sexual depiction and make reasonable efforts to identify and remove any known, identical copies of such depiction.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C004/2026-10-14/document-1.pdf",
+    "sha256": "260c3632c7c10f25320868d6acbe78dbb716d7d72e7204c622571ea8312ca195",
+    "locator": "page 2, Remedies",
+    "quote": "constitutes an unfair or deceptive act or practice under the Florida Deceptive and Unfair Trade Practices Act.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-05/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7eb82e2059d22a4fb291d0b06522529b80e90e15110644f2e022d70c31e3ae9d",
+    "locator": "s. 836.13(8)(d)",
+    "quote": "a covered platform shall, as soon as possible, but not later than 48 hours after receiving such request:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-05/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7eb82e2059d22a4fb291d0b06522529b80e90e15110644f2e022d70c31e3ae9d",
+    "locator": "s. 836.13(8)(e)",
+    "quote": "A covered platform shall not be liable for any claim based on the covered platform’s good faith disabling of access to, or removal of, material claimed to be a nonconsensual altered sexual depiction",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-05/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7eb82e2059d22a4fb291d0b06522529b80e90e15110644f2e022d70c31e3ae9d",
+    "locator": "s. 836.13, history note",
+    "quote": "History.—s. 5, ch. 2022-212; s. 3, ch. 2025-99; s. 2, ch. 2025-133; s. 52, ch. 2026-14; s. 10, ch. 2026-18; s. 11, ch. 2026-20.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-05/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7eb82e2059d22a4fb291d0b06522529b80e90e15110644f2e022d70c31e3ae9d",
+    "locator": "s. 836.13(8)(a)",
+    "quote": "(8)(a) No later than December 31, 2025, a covered platform shall establish a process whereby an identifiable person or an authorized person acting on behalf of such person may:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-05/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7eb82e2059d22a4fb291d0b06522529b80e90e15110644f2e022d70c31e3ae9d",
+    "locator": "s. 836.13(8)(f)",
+    "quote": "In addition to the remedies under subsection (7), a failure to reasonably comply with the notice and removal obligations under this subsection shall be treated as an unfair or a deceptive act or practice under part II of chapter 501",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "one sentence added: s. 836.13 was amended again in 2026 (ch. 2026-14, ch. 2026-18, ch. 2026-20), and the removal duties are subsection (8) in the 2026 Florida Statutes",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill page records approval by the Governor on 6/10/2025 and Chapter No. 2025-133 on 6/11/2025, with 'Effective Date: 6/10/2025'; the final analysis says the bill 'will become effective upon becoming law'. The 2026 Florida Statutes still contain the removal duties in s. 836.13(8), and the platforms' deadline (31 Dec 2025) has passed. Nothing stored shows a repeal. 'In force' stands.",
+  "scope_reasoning": "Removal duties for platforms hosting nonconsensual altered sexual depictions (sexual deepfakes), added to Florida's deepfake statute; in scope with no note (unchanged).",
+  "date_reasoning": "date_published and date_in_force are both the Governor's approval, 10 Jun 2025, since the act took effect on becoming law. date_last_updated stays null: s. 836.13 was amended in 2026 after this law, but the stored files do not show that the 2026 laws changed the removal provisions this law added (subsection (8) reads as the House analysis describes it).",
+  "summary_reasoning": "The summary and notes match the Effect of the Bill section of the House final analysis (covered platforms, removal process by 31 Dec 2025, 48-hour removal and identical copies, good-faith immunity, FDUTPA, exemptions); left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

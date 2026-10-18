@@ -1,0 +1,276 @@
+{
+ "cand_id": "US-CA-09",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-09",
+ "record": {
+  "notes": "Signed 18 Sep 2026. The press release cites recent AI incidents, including a 'Hugging Face attack', described as a loss-of-control incident, and notes the absence of federal incident-reporting law. Deadlines: recommendations by 16 Nov 2026; IVO application criteria by 1 May 2027; Gov. Code sec. 11549.82 actions by 1 Dec 2027. On 23 Sep 2026 the Governor named the experts who will advise on the recommendations: Jason Goldman, Gillian Hadfield, Alondra Nelson and Rob Reich. Binding on state agencies only; it does not itself amend SB 53.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the signed order (gov.ca.gov PDF, copy of 11 Oct 2026, unchanged on 17 Oct 2026), which gives the number, the signature on 'this 18th day of September 2026', immediate effect, the provisions and the deadlines; the Governor's release of 18 Sep 2026 (gov.ca.gov, copy of 17 Oct 2026), which names SB 813 and AB 1405 and the incidents; and his release of 23 Sep 2026 (gov.ca.gov), which names the four experts. The order itself does not name SB 813 or AB 1405; it cites Gov. Code secs. 8898.1 and 11549.82, and the link to the two bills rests on the releases."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 1",
+    "quote": "EXECUTIVE ORDER N-9-26",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-17/secondary.html",
+    "sha256": "6cb33c18d34b88a56ac02f573cf8dcaf7cbcb9522aefc242381b55705c9b286a",
+    "locator": "release headline",
+    "quote": "Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 1",
+    "quote": "EXECUTIVE ORDER N-9-26",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "NOW, THEREFORE, I, GAVIN NEWSOM, Governor of the State of California, in accordance with the authority vested in me by the State Constitution and statutes of the State of California, do hereby issue the following Order to become effective immediately",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "California to be affixed this 18th day of September 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-17/secondary.html",
+    "sha256": "6cb33c18d34b88a56ac02f573cf8dcaf7cbcb9522aefc242381b55705c9b286a",
+    "locator": "release header",
+    "quote": "Sep 18, 2026 Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "NOW, THEREFORE, I, GAVIN NEWSOM, Governor of the State of California, in accordance with the authority vested in me by the State Constitution and statutes of the State of California, do hereby issue the following Order to become effective immediately",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "California to be affixed this 18th day of September 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "NOW, THEREFORE, I, GAVIN NEWSOM, Governor of the State of California, in accordance with the authority vested in me by the State Constitution and statutes of the State of California, do hereby issue the following Order to become effective immediately",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "California to be affixed this 18th day of September 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "IT IS HEREBY ORDERED THAT: 1. No later than May 1, 2027, the Government Operations Agency shall complete the requirements of Section 8898.1 of the Government Code",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "This Order is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity, against the State of California",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-CA-09/2026-10-17/secondary.html",
+    "sha256": "6cb33c18d34b88a56ac02f573cf8dcaf7cbcb9522aefc242381b55705c9b286a",
+    "locator": "release, section 'Decisive action to strengthen AI oversight'",
+    "quote": "to accelerate the implementation timelines for SB 813 and AB 1405",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "The Government Operations Agency, in consultation with the Governor’s Office of Emergency Services, shall, no later than November 16, 2026, submit to my office recommendations, developed in consultation with",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "Requiring that all large frontier developers embed designated independent verification organizations onsite in their labs to conduct periodic audits and evaluations.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "Requiring that the safety frameworks, transparency reports, and risk assessments that frontier AI companies are required to file be independently verified",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "Requiring the creation of a “kill switch” for frontier models, with the efficacy of the switch verified on an ongoing basis by an independent verification organization.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "Updating the definition of critical safety incidents that AI companies are required to report to include a range of loss-of-control incidents",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-CA-09/2026-10-17/secondary.html",
+    "sha256": "6cb33c18d34b88a56ac02f573cf8dcaf7cbcb9522aefc242381b55705c9b286a",
+    "locator": "release, section 'Decisive action to strengthen AI oversight'",
+    "quote": "Update definitions of critical safety incidents to include loss-of-control incidents such as the Hugging Face attack.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-17/secondary.html",
+    "sha256": "6cb33c18d34b88a56ac02f573cf8dcaf7cbcb9522aefc242381b55705c9b286a",
+    "locator": "release, paragraph after the Governor's statement",
+    "quote": "No federal law requires AI companies to report dangerous incidents when they happen",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "IT IS HEREBY ORDERED THAT: 1. No later than May 1, 2027, the Government Operations Agency shall complete the requirements of Section 8898.1 of the Government Code",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 2",
+    "quote": "No later than December 1, 2027, the Government Operations Agency shall complete the requirements of subdivision (a) of Section 11549.82 of the Government Code",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-09/2026-10-11/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 3",
+    "quote": "This Order is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity, against the State of California",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-09/extra-352b562d6c/2026-10-17/official.html",
+    "sha256": "5c76796b57fb3aa0151e04120f61097f555708dba99b49e22a92457fd32ab862",
+    "locator": "release header",
+    "quote": "Sep 23, 2026 Governor Newsom announces world-leading experts to deliver on his AI executive order",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-09/extra-352b562d6c/2026-10-17/official.html",
+    "sha256": "5c76796b57fb3aa0151e04120f61097f555708dba99b49e22a92457fd32ab862",
+    "locator": "release, What you need to know",
+    "quote": "Governor Newsom today announced the group of leading experts who will advise on recommendations required by his recent AI executive order",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-09/extra-352b562d6c/2026-10-17/official.html",
+    "sha256": "5c76796b57fb3aa0151e04120f61097f555708dba99b49e22a92457fd32ab862",
+    "locator": "release, list of experts",
+    "quote": "Jason Goldman — board member of the Center for Shared AI Prosperity",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-09/extra-352b562d6c/2026-10-17/official.html",
+    "sha256": "5c76796b57fb3aa0151e04120f61097f555708dba99b49e22a92457fd32ab862",
+    "locator": "release, list of experts",
+    "quote": "Gillian Hadfield — professor at Johns Hopkins University",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-09/extra-352b562d6c/2026-10-17/official.html",
+    "sha256": "5c76796b57fb3aa0151e04120f61097f555708dba99b49e22a92457fd32ab862",
+    "locator": "release, list of experts",
+    "quote": "Alondra Nelson — professor at the Institute for Advanced Study",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-09/extra-352b562d6c/2026-10-17/official.html",
+    "sha256": "5c76796b57fb3aa0151e04120f61097f555708dba99b49e22a92457fd32ab862",
+    "locator": "release, list of experts",
+    "quote": "Rob Reich — professor at Stanford University",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the sentence on the experts announced on 23 Sep 2026 now rests on the stored release of that date and names them",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 18 Sep 2026 ('this 18th day of September 2026') and 'effective immediately'. No stored file shows a revocation or replacement, and its deadlines (16 Nov 2026, 1 May 2027, 1 Dec 2027) are still ahead, so 'In force' stands. Unchanged.",
+  "scope_reasoning": "A governor's executive order on frontier AI safety and independent verification; in scope with no note.",
+  "unchanged_reasoning": "Every factual field and the summary match the stored order and releases; only the notes' sentence on the experts changed."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "California executive order on AI's economic and labor impacts (2026)",
+   "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+   "seen_in": "archive/US-CA-09/2026-10-17/secondary.html (section 'California's nation-leading framework', item 'Workers and AI disruption')",
+   "why": "The release mentions 'a first-in-the-nation executive order addressing AI's economic and labor impacts'; its number and date are not given and it is not in the register."
+  },
+  {
+   "title": "California Privacy Protection Agency (CalPrivacy) regulations on automated decision-making technology",
+   "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+   "seen_in": "archive/US-CA-09/2026-10-17/secondary.html (item 'Protecting privacy and civil liberties')",
+   "why": "'CalPrivacy has separately adopted protections involving automated decision-making technology'; supervisory rules on ADMT, not in the register."
+  },
+  {
+   "title": "California 2026 package on AI and worker protections",
+   "url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
+   "seen_in": "a search result while looking for the 23 Sep 2026 release (not stored)",
+   "why": "Release of 30 Sep 2026 on further AI bills signed, including worker protections; none of them is in the register."
+  }
+ ],
+ "open_questions": []
+}

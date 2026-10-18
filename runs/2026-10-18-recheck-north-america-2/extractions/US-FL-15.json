@@ -1,0 +1,181 @@
+{
+ "cand_id": "US-FL-15",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-15",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: the Court's own PDF on supremecourt.flcourts.gov still could not be stored: on 14, 16 and 17 Oct 2026 the archiver was refused by the robots.txt of the Florida courts' download host. Re-read the copy of the opinion PDF hosted by ALM (assets.alm.com, publisher of Law.com), stored on 14 Oct 2026 and found unchanged on 17 Oct 2026 (Last-Modified 13 Apr 2026), which carries the Court's caption, case number, date, per curiam text, the vote and the appendix with the amended rules; title, date, status, the summary and the notes rest on this third-party copy. Whether the comments have been amended since October 2024 could not be checked against the current Rules Regulating The Florida Bar (floridabar.org refuses automated requests)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 1, caption",
+    "quote": "IN RE: AMENDMENTS TO RULES REGULATING THE FLORIDA BAR – CHAPTER 4.",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 1, caption",
+    "quote": "Supreme Court of Florida",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 1",
+    "quote": "The Florida Bar has filed a petition proposing amendments to the following portions of Chapter 4 of the Rules Regulating The Florida Bar (rules)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "MUÑIZ, C.J., and CANADY, LABARGA, COURIEL, GROSSHANS, FRANCIS, and SASSO, JJ., concur.",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 1, caption",
+    "quote": "No. SC2024-0032",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 1, caption",
+    "quote": "August 29, 2024 PER CURIAM.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "The amendments shall become effective October 28, 2024.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "The amendments shall become effective October 28, 2024.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "THE FILING OF A MOTION FOR REHEARING SHALL NOT ALTER THE EFFECTIVE DATE OF THESE AMENDMENTS.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "Accordingly, we amend the Rules Regulating The Florida Bar as reflected in the appendix to this opinion.",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "we amend the Comments to rules 4-1.1, 4-1.6, 4-5.1, and 4-5.3, adding a warning about the necessity to take care in using generative artificial intelligence.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 6, rule 4-1.1 comment",
+    "quote": "including an understanding of the benefits and risks associated with the use of technology, including generative artificial intelligence",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 8, rule 4-1.6 comment",
+    "quote": "For example, a lawyer should be aware that generative artificial intelligence may create risks to the lawyer’s duty of confidentiality.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 11, rule 4-5.1 comment",
+    "quote": "consider safeguards for the firm’s use of technologies such as generative artificial intelligence",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 13, rule 4-5.3 comment",
+    "quote": "A lawyer should also consider safeguards when assistants use technologies such as generative artificial intelligence.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 4",
+    "quote": "We also amend rules 4-7.13 and 4-7.15 to allow for testimonials of a celebrity who is a current or former client",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 2",
+    "quote": "No comments were received.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/US-FL-15/2026-10-14/secondary.pdf",
+    "sha256": "0d839029d7c87efedac99d1ea526bdbb8a93a99c67909f9875c91c9e721aef9e",
+    "locator": "page 2",
+    "quote": "except for its proposal to delete references to “zeal” and “zealous” in the Preamble to Chapter 4 and in the comment to rule 4-1.3.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Court's opinion of 29 Aug 2024 amends the rules and states that the amendments become effective on 28 Oct 2024, and that a motion for rehearing does not alter that date. Today, 18 Oct 2026, is after that date; no stored file shows a later amendment of the generative-AI comments. 'In force' stands, resting on the third-party copy.",
+  "scope_reasoning": "Court-adopted amendments to the binding professional conduct rules for lawyers whose AI content is a set of generative-AI warnings in the comments; borderline and included with the existing scope_note.",
+  "date_reasoning": "date_published is the opinion's date, 29 Aug 2024; date_in_force is the stated effective date, 28 Oct 2024.",
+  "summary_reasoning": "The current summary matches the opinion and its appendix: the four comments (competence, confidentiality, partners' and supervisors' firm policies, nonlawyer assistants and outside services) and the celebrity-testimonial change in rules 4-7.13 and 4-7.15. Left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The Court's own PDF (https://supremecourt.flcourts.gov/content/download/2439771/opinion/Opinion_SC2024-0032.pdf) cannot be stored because the host's robots.txt disallows automated downloads; the record stays at level C until a person provides it through the 'Provide a document' issue form (AGENTS.md section 7.8). No stored file shows whether the generative-AI comments have been amended since 28 Oct 2024."
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "cand_id": "US-FL-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-04",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for SB 2-D (session 2026D), the Senate Rules Committee pre-meeting analysis of 24 Apr 2026 and the Senate floor vote record of 28 Apr 2026, stored on 14 Oct 2026 from flsenate.gov (the archiver found them unchanged on 17 Oct 2026). The bill page confirms the title, sponsor, the single filed version, the effective date stated in the bill, the 37-1 Senate vote and the House action 'Died in Information Technology Budget & Policy Subcommittee' on 29 Apr 2026; the vote record confirms the 37-1 vote. The bill passed the Senate without amendments, so the analysis of the filed version, on which the summary and notes rest, describes the text that lapsed. The bill text itself was not stored. The statement in the notes about CS/SB 482 rests on that record's own stored sources (US-FL-01), not on this record's files."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "bill heading",
+    "quote": "SB 2-D: Artificial Intelligence Bill of Rights",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/28/2026",
+    "quote": "Passed; YEAS 37 NAYS 1 -SJ 5",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Last Action",
+    "quote": "Last Action: 4/29/2026 House - Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "bill heading",
+    "quote": "GENERAL BILL by Brodeur",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 1, header",
+    "quote": "INTRODUCER: Senator Brodeur",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "breadcrumb",
+    "quote": "Home > Session > 2026D > Senate Bill 2D",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-2.pdf",
+    "sha256": "41c97fe1ec05dff6c9beb9ced0b8acd8360e9de83a1dbdc71d01776000c92513",
+    "locator": "page 1",
+    "quote": "Session Day: 1 2026D Special Session",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/24/2026",
+    "quote": "4/24/2026 Senate • Filed • Referred to Rules",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/29/2026",
+    "quote": "4/29/2026 House • Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Last Action",
+    "quote": "Last Action: 4/29/2026 House - Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 1, Summary",
+    "quote": "SB 2-D creates the “Artificial Intelligence Bill of Rights” to provide that Floridians are entitled to certain rights with respect to the use of artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 22, Effect of Proposed Changes",
+    "quote": "Receive timely notifications if the account holder expresses to the companion chatbot a desire or an intent to engage in self-harm or to harm others.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 23, Effect of Proposed Changes",
+    "quote": "at least once every hour during continuing interactions, reminding the minor to take a break and that the companion chatbot is artificially generated and not human",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 1, Summary",
+    "quote": "An artificial intelligence technology company is prohibited from selling or disclosing personal information of users unless such information is deidentified data.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 2, Summary",
+    "quote": "likeness of an individual created through generative artificial intelligence without the express written or oral consent to such use.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Bill History, 4/28/2026",
+    "quote": "Withdrawn from Rules -SJ 4",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "Related Bills",
+    "quote": "Public Records/Investigations by the Department of Legal Affairs Brodeur Linked Last Action: 4/29/2026 H Died in Information Technology Budget & Policy Subcommittee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/official.html",
+    "sha256": "1b7441451fa627ef0ed1b86c69413c54b0522a6e180e0feded5a92f4bd15aea9",
+    "locator": "bill heading",
+    "quote": "Effective Date: 7/1/2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 24, Enforcement and Penalties",
+    "quote": "collect a civil penalty of up to $50,000 per violation and reasonable attorney fees and court costs.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 24, Enforcement and Penalties",
+    "quote": "A companion chatbot platform that knowingly or recklessly violates this section is liable to a minor account holder for up to $10,000 in damages",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C003/2026-10-14/document-1.pdf",
+    "sha256": "e1d2ddd4d8958472d8f329a3b8727530ab740ce2803ce548bdcd262f2501e3a7",
+    "locator": "page 2, Summary",
+    "quote": "An educational entity is prohibited from providing students with access to an artificial intelligence instructional tool before grade 6 unless certain criteria are met.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck; no field of the record changes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The latest event on the bill page is the House action on 4/29/2026, 'Died in Information Technology Budget & Policy Subcommittee', after Senate passage 37-1 on 4/28/2026. A bill that dies in committee in a special session lapses with it. Nothing stored shows it was revived. 'Lapsed' with legal_force 'Proposed' stands (AGENTS.md section 5.6: an expired bill stays Proposed with status Lapsed).",
+  "scope_reasoning": "An AI-specific bill on companion chatbots, bots, AI companies' handling of personal data, government AI contracting and AI-generated likenesses; lapsed bills are kept for context; in scope with no note (unchanged).",
+  "date_reasoning": "date_published is the filing date, 24 Apr 2026, the first and only version of the bill; there is no in-force date.",
+  "summary_reasoning": "The summary and notes match the Rules Committee analysis of the filed version, which the Senate passed without amendment; left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,57 @@
+{
+ "cand_id": "US-CA-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "The run sets it to null because no stored text shows SB 1119 amended SB 243; the Governor's release of 10 Sep 2026 says only that protections were 'again strengthened'. Null with the open question is the honest value; the blind extraction also found 2026-09-10 unconfirmed."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The Governor's release lists break reminders for minors, disclosure that interactions are artificially generated, and protocols for suicidal ideation",
+   "verdict": "supported",
+   "locator": "release of 13 Oct 2025, list of bills"
+  },
+  {
+   "claim": "Families have a private right of action against noncompliant and negligent developers",
+   "verdict": "supported",
+   "locator": "Padilla release of 13 Oct 2025, first paragraph"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Chapter 677, Statutes of 2025, the 13 Oct 2025 signing and the 1 Jan 2026 start are supported by official sources. Targeted search: SB 1119 (signed 10 Sep 2026 per the Governor's release) builds on SB 243, but no result shows it amends SB 243's sections, so I cannot fix date_last_updated. SB 1119 is already a record (US-CA-08) and is linked."
+}

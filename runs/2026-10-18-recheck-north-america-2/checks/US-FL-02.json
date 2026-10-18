@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-FL-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Disclaimer wording and first-degree misdemeanour for failure",
+   "verdict": "supported",
+   "locator": "s. 106.145(2) and (4)(a), 2026 statute page"
+  },
+  {
+   "claim": "Complaints to the Florida Elections Commission with expedited hearings",
+   "verdict": "supported",
+   "locator": "s. 106.145(4)(b)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The statute page shows the disclaimer ending in '(AI)', and the summary follows it; history note is ch. 2024-126 only. No later amendment found."
+}

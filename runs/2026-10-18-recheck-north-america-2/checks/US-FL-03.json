@@ -1,0 +1,59 @@
+{
+ "cand_id": "US-FL-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Council duties: state code of ethics for AI, common standards for AI safety and security, how bad actors exploit AI",
+   "verdict": "supported",
+   "locator": "s. 282.802(7)(a)2., 4., 6."
+  },
+  {
+   "claim": "Intentionally creating generated child pornography as a felony, as enacted in 2024",
+   "verdict": "supported",
+   "locator": "enrolled text page 5, s. 827.072(2)(b); 2026 amendments are in the notes"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "date_last_updated 2026 rests on history notes citing ch. 2026-18, 2026-20 and 2026-66. The summary states the 2024 penalty (third-degree); the notes give the 2026 change to second-degree, so the record is consistent. Search confirms SB 480 (2026) touches s. 282.802, matching ch. 2026-66 in the stored statute page."
+}

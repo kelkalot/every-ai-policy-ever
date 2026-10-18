@@ -139,13 +139,14 @@
    "records": [
     "US-NV-01"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 13,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/13",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null,
-   "title": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "title": null,
+   "closed_on_github": true
   },
   {
    "key": "record:KR-02@2026-10-14-refresh-translation-fixes",
@@ -511,13 +512,14 @@
    "records": [
     "US-NV-02"
    ],
-   "state": "open",
+   "state": "settled",
    "issue": 36,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/36",
    "opened": "2026-10-14",
-   "closed": null,
-   "resolution": null,
-   "title": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "title": null,
+   "closed_on_github": true
   },
   {
    "key": "sample:2026-10-14-discover-leads-2026-10-14",
@@ -2010,6 +2012,206 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-17-recheck-north-america-1 (5 records)"
+  },
+  {
+   "key": "record:US-NV-01@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-NV-01",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://archive.leg.state.nv.us/Session/83rd2025/Bills/AB/AB406_EN.pdf', 'reason': 'official page found by the targeted search for a newer or fuller text; not stored'}; the checker gave no verdict for date_published; date_published has no evidence",
+   "records": [
+    "US-NV-01"
+   ],
+   "title": "US-NV-01 Nevada AB 406 (AI mental health law): open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 139,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/139",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-CA-13@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-CA-13",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "scope_note contains research-process language (The extractor); move it to verification.note",
+   "records": [
+    "US-CA-13"
+   ],
+   "title": "US-CA-13 California SB 1276 (AI-generated child sexual abuse material): open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 140,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/140",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-CA-15@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-CA-15",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "scope_note contains research-process language (The extractor); move it to verification.note",
+   "records": [
+    "US-CA-15"
+   ],
+   "title": "US-CA-15 California AB 1159 (student data and AI training): open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 141,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/141",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-NV-02@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-NV-02",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'what': 'Draft update of the policy discussed at the State AI Roundtable II on 7 Jul 2026; the stored official page says it is not final and has not been signed', 'url': 'https://www.it.nv.gov/events/state-ai-roundtable2/', 'status': 'not signed; no change to the record'}",
+   "records": [
+    "US-NV-02"
+   ],
+   "title": "US-NV-02 Nevada executive-branch AI policy: open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 142,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/142",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-FL-12@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-FL-12",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://www.flsenate.gov/Laws/Statutes/2026/1004.561', 'reason': 'official page found by the targeted search for a newer or fuller text; not stored'}",
+   "records": [
+    "US-FL-12"
+   ],
+   "title": "US-FL-12 Florida education act 2024 (HB 1361): AI grants for schools: open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 143,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/143",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-CA-02@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-CA-02",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "checker: Identifier, signing date (19 Sep 2024) and the AB 853 amendment are supported by official sources. Newer version: the Governor's own site (gov.ca.gov, release of 30 Sep 2026) lists AB 2713 (Wicks) as signed, an amendment of the Act's platform provenance duties; a search tool reports Chapter 856, Statutes of 2026, operative 1 Jan 2027, but that rests on an unstored page and the leginfo bill history was not opened. date_last_updated, and probably notes and summary, may need the amendment; SB 1000 is also mentioned in the release as concerning the Act. Both URLs are listed in extra_urls for storing.; the checker found something possibly newer: {'what': \"AB 2713 (Wicks, 2026), California AI Transparency Act: system provenance data, signed 30 Sep 2026 per the Governor's release\", 'url'",
+   "records": [
+    "US-CA-02"
+   ],
+   "title": "US-CA-02 California AI Transparency Act: open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 144,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/144",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-ME-01@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-ME-01",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "checker: Newer form on an official site: legislature.maine.gov/statutes/10/title10sec1500-DD-1.html shows the Act codified as section 1500-DD after revisor renumbering. Nothing changed in substance, so only official_identifier (a value this run does not change) and the notes' 'chapter 239' wording (true of the enacted bill, now chapter 241) are affected; the summary, dates and status are supported and can be merged. I list the statute URL in extra_urls to store it. Effective date 24 Sep 2025 is supported by the Legislative Digest.; the checker found something possibly newer: {'what': 'Codified text at 10 M.R.S. section 1500-DD (renumbered from 1500-Y by the Revisor)', 'url': 'https://legislature.maine.gov/statutes/10/title10sec1500-DD-1.html', 'affects': ['official_identifier', 'notes']}; ",
+   "records": [
+    "US-ME-01"
+   ],
+   "title": "US-ME-01 Maine AI chatbot disclosure law (LD 1727): open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 145,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/145",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-GA-01@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-GA-01",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://www.legis.ga.gov/api/legislation/document/20252026/248169', 'reason': 'official page found by the targeted search for a newer or fuller text; not stored'}",
+   "records": [
+    "US-GA-01"
+   ],
+   "title": "US-GA-01 Georgia AI companion chatbot law (SB 540): open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 146,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/146",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:US-HI-01@2026-10-18-recheck-north-america-2",
+   "kind": "record",
+   "subject": "US-HI-01",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "held_back": false,
+   "why": "the checker found something possibly newer: {'url': 'https://data.capitol.hawaii.gov/sessions/session2026/bills/GM1350_.PDF', 'reason': 'official page found by the targeted search for a newer or fuller text; not stored'}",
+   "records": [
+    "US-HI-01"
+   ],
+   "title": "US-HI-01 Hawaii AI companion law (SB 3001, Act 248): open question from run 2026-10-18-recheck-north-america-2",
+   "state": "open",
+   "issue": 147,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/147",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "host:ag-opinions.s3.amazonaws.com",
+   "kind": "host",
+   "subject": "ag-opinions.s3.amazonaws.com",
+   "code": "US-AR",
+   "records": [
+    "US-AR-01"
+   ],
+   "why": "Quotes from this host counted as secondary because it is neither a government domain nor in pipeline/official-sites.json.",
+   "state": "open",
+   "issue": 148,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/148",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Is ag-opinions.s3.amazonaws.com an official site for US-AR?"
+  },
+  {
+   "key": "sample:2026-10-18-recheck-north-america-2",
+   "kind": "sample",
+   "subject": "2026-10-18-recheck-north-america-2",
+   "run_id": "2026-10-18-recheck-north-america-2",
+   "records": [
+    "US-CA-03",
+    "US-CA-06",
+    "US-CA-11",
+    "US-CA-14",
+    "US-FL-06"
+   ],
+   "why": "Human sample of run 2026-10-18-recheck-north-america-2: check each record against its stored sources.",
+   "state": "open",
+   "issue": 149,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/149",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-recheck-north-america-2 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

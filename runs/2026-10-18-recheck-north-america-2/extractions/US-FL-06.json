@@ -1,0 +1,239 @@
+{
+ "cand_id": "US-FL-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-FL-06",
+ "record": {
+  "summary": "Makes it a felony to possess lewd or lascivious images with intent to promote them or to knowingly solicit, possess or intentionally view them, including images modified by electronic or other means to show lewd exhibition in the presence of an identifiable minor, and to solicit child pornography. Under Florida's altered-sexual-depiction statute, willfully generating such a depiction of an identifiable person without consent, by computer-generated or other means, soliciting one, or possessing one to maliciously promote it becomes a third-degree felony. Victims may sue those who generate one or possess one to promote it for injunctive relief, USD 10,000 or actual damages, and attorney fees.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Florida Senate bill page for HB 757 (2025) and the two House staff analyses linked from it, stored on 14 Oct 2026 from flsenate.gov (the archiver found them unchanged on 17 Oct 2026), and the 2026 Florida Statutes page for s. 836.13, stored in this run. The bill page confirms the title, sponsors, history, floor votes (115-0 and 37-0), approval by the Governor on 27 May 2025, Chapter No. 2025-99, the 1 Oct 2025 effective date and the statutes cited (ss. 800.045, 827.071, 836.13 and 921.0022); the House final bill analysis of 30 May 2025 confirms approval, chapter and effective date and describes the enacted provisions, on which the summary rests. The summary now says that the civil action lies against those who generate a depiction or possess one with intent to promote it, not against every possessor; s. 836.13(7) in the 2026 statute confirms this. The statute page shows the offences this law added still in force and a history note citing ch. 2025-133, ch. 2026-14, ch. 2026-18 and ch. 2026-20 after this law; it does not show which subsections the 2026 laws changed, and ss. 800.045, 827.071 and 921.0022 were not stored, so date_last_updated stays empty. The enrolled bill text was not stored."
+  },
+  "notes": "Passed the House 115-0 on 23 Apr 2025 and the Senate 37-0 on 24 Apr 2025, where it was substituted for CS/CS/CS/SB 1180; approved by the Governor on 27 May 2025 and effective 1 Oct 2025. 'Generate' means to create, alter, adapt or modify any image by electronic, mechanical or other computer-generated means to portray an identifiable person, or to offer or agree to do so. The generation and possession offences are ranked as Level 3 and the solicitation offence as Level 2 on the offense severity ranking chart. The law amends s. 836.13, F.S., the altered-sexual-depiction offence created in 2022 by CS/CS/SB 1798, and also sets criteria for when an image shows lewd exhibition of a minor's genitals for the purposes of the child pornography statute. Section 836.13 was also amended by ch. 2025-133 (Brooke's Law) and in 2026 by ch. 2026-14, ch. 2026-18 and ch. 2026-20; in the 2026 Florida Statutes the generation, solicitation and possession offences are subsections (2) to (4) and the civil action is subsection (7)."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "bill heading",
+    "quote": "CS/CS/HB 757: Sexual Images",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "bill heading",
+    "quote": "by Judiciary Committee; Criminal Justice Subcommittee; Redondo; Kincart Jonsson; (CO-INTRODUCERS)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "Bill History, 5/27/2025",
+    "quote": "5/27/2025 • Approved by Governor",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "Last Action",
+    "quote": "Last Action: 5/28/2025 - Chapter No. 2025-99",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 3",
+    "quote": "The bill was approved by the Governor on May 27, 2025, ch. 2025-99, L.O.F., and will become effective on October 1, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "Bill History, 5/27/2025",
+    "quote": "5/27/2025 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 3",
+    "quote": "The bill was approved by the Governor on May 27, 2025, ch. 2025-99, L.O.F., and will become effective on October 1, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "bill heading",
+    "quote": "Effective Date: 10/1/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 3",
+    "quote": "and will become effective on October 1, 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "Bill History, 5/28/2025",
+    "quote": "5/28/2025 • Chapter No. 2025-99",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "bill heading",
+    "quote": "Effective Date: 10/1/2025",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/official.html",
+    "sha256": "1f08bae327637d82985c5d1633aff95935e46a0e04b32027a6dec5fe01c1522c",
+    "locator": "Bill History, 5/27/2025",
+    "quote": "5/27/2025 • Approved by Governor",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 1, header",
+    "quote": "GOVERNOR’S ACTION: Approved",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 1, Summary",
+    "quote": "CS/CS/HB 757 prohibits a person from possessing with the intent to promote a lewd or lascivious image, as a second-degree felony. Under the bill, it is a third-degree felony, if a person knowingly solicits, possesses, controls, or intentionally views a lewd or lascivious image.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 2, Lewd or Lascivious Images",
+    "quote": "Any image that has been created, altered, adapted, or modified by electronic, mechanical, or other means, to portray lewd or lascivious exhibition in the presence of an identifiable minor. (Section 1)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 1, Summary",
+    "quote": "The bill prohibits a person from knowingly soliciting child pornography, as a third-degree felony.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 3, Altered Sexual Depictions",
+    "quote": "The bill defines “generate” to mean to create, alter, adapt, or modify any image by electronic, mechanical, or other computer-generated means to portray an identifiable person or to offer or agree to do the same.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 3, Altered Sexual Depictions",
+    "quote": "civil cause of action against a person who willfully generates such an altered sexual depiction or against a person who possesses such an altered sexual depiction with the intent to maliciously promote such visual depiction",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-codes-us-fl/C005/2026-10-14/document-1.pdf",
+    "sha256": "a25f0dce0d43e297baf4ea957cfaedb64f4375cf9b59d176d3bb97c52e29e093",
+    "locator": "page 3, Altered Sexual Depictions",
+    "quote": "Monetary damages to include $10,000 or actual damages incurred.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13(1)(c)",
+    "quote": "“Generate” means to create, alter, adapt, or modify any image by electronic, mechanical, or other computer-generated means to portray an identifiable person or to offer or agree to do the same.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13(7)(b)",
+    "quote": "Monetary damages to include $10,000 or actual damages incurred as a result of a violation of subsection (2) or subsection (4), whichever is greater.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13, history note",
+    "quote": "History.—s. 5, ch. 2022-212; s. 3, ch. 2025-99; s. 2, ch. 2025-133; s. 52, ch. 2026-14; s. 10, ch. 2026-18; s. 11, ch. 2026-20.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13(2)",
+    "quote": "(2) A person who willfully generates any altered sexual depiction of an identifiable person, without the consent of the identifiable person, commits a felony of the third degree",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13(3)",
+    "quote": "(3) A person who solicits any altered sexual depiction of an identifiable person, without the consent of the identifiable person",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13(4)",
+    "quote": "(4) A person who willfully and maliciously promotes, or possesses with the intent to maliciously promote, any altered sexual depiction of an identifiable person",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-FL-06/extra-f1c5a686d0/2026-10-17/official.html",
+    "sha256": "7b2cc00b519f86575052dbf5c0927a80464fc673444df3411425cdd7c3fefa5a",
+    "locator": "s. 836.13(7)",
+    "quote": "(7) An aggrieved person may initiate a civil action against a person who violates subsection (2) or subsection (4)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "the civil action lies only against those who willfully generate a depiction or possess one with intent to maliciously promote it (House final analysis, page 3); the old wording 'generators and possessors' overstated it. The felony list now follows the analysis wording (knowingly solicit, possess or intentionally view), and the image definition says 'in the presence of an identifiable minor' instead of 'digitally created images of identifiable minors'",
+   "verification.note": "rewritten for this recheck",
+   "notes": "one sentence added: later amendments of s. 836.13 (ch. 2025-133 and three 2026 chapter laws) and where the offences and civil action this law added now sit in the 2026 Florida Statutes"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill page records approval by the Governor on 5/27/2025 and Chapter No. 2025-99 on 5/28/2025, with 'Effective Date: 10/1/2025'; the final analysis says it 'will become effective on October 1, 2025'. That date is past (18 Oct 2026), and the 2026 Florida Statutes still contain the generation, solicitation and possession offences in s. 836.13(2) to (4). Nothing stored shows a repeal. 'In force' stands.",
+  "scope_reasoning": "Mainly a law on sexual images of minors, but it makes generating sexual deepfakes of identifiable people by computer-generated means a crime and gives victims a civil action; the existing scope_note stands (unchanged).",
+  "date_reasoning": "date_published is the Governor's approval, 27 May 2025; date_in_force the effective date, 1 Oct 2025. date_last_updated stays null: s. 836.13 was amended after this law (2025 and 2026), but the stored files do not show that the 2026 laws changed the provisions this law added, and the other sections it amended were not stored.",
+  "summary_reasoning": "Rewritten within 700 characters from the House final analysis: the felonies for lewd or lascivious images (second-degree for possession with intent to promote, third-degree for soliciting, possessing, controlling or viewing), the soliciting of child pornography, the three altered-sexual-depiction felonies and the scope of the civil action."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

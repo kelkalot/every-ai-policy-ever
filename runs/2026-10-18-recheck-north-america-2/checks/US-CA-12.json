@@ -1,0 +1,51 @@
+{
+ "cand_id": "US-CA-12",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "judgment-differs",
+   "why": "Signature on 10 Sep 2026 is shown; 'not yet in force' rests on the general rule that a non-urgency California statute starts on 1 Jan 2027, which no stored file states. It is the sensible reading and the run left date_in_force null."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Four-year moratorium on making or selling toys that include a companion chatbot",
+   "verdict": "supported",
+   "locator": "Assembly analysis (extra-b1e4d9068f) page 1 synopsis and page 3"
+  },
+  {
+   "claim": "Violations are subject to the SB 243 civil action",
+   "verdict": "supported",
+   "locator": "same, page 9"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Signing date comes from the Governor's release (alt-official), so level B. Age limit is unsettled in the stored sources (under 16 or under 18) and the notes say so. Search found no chaptered citation; secondary pages give a 1 Jan 2027 start and 1 Jan 2031 end."
+}

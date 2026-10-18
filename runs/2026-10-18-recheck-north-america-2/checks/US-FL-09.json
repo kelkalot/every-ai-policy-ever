@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-FL-09",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "May use AI to assist but not as sole basis for reducing or denying a claim",
+   "verdict": "supported",
+   "locator": "analysis page 1 Effect of the Bill"
+  },
+  {
+   "claim": "Denial letters must affirm AI was not the sole basis; claims manuals must describe use",
+   "verdict": "supported",
+   "locator": "analysis page 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title drops the parenthetical on its fate, which keeps the title field to the bill's own title. Died in Rules on 13 Mar 2026; the search agrees."
+}

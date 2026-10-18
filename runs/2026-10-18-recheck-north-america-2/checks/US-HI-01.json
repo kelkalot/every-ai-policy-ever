@@ -1,0 +1,65 @@
+{
+ "cand_id": "US-HI-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "only a secondary tracker (stored) supports it; the value is unchanged by this run"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Operators must make annual reports to the Behavioral Health Administration of the Department of Health",
+   "verdict": "supported",
+   "locator": "Governor's release of 14 Jul 2026, SB 3001 entry"
+  },
+  {
+   "claim": "Act 248 guidelines against addictive software patterns for minors and misrepresentation of human likeness; AI companions may not pose as licensed mental health professionals",
+   "verdict": "supported",
+   "locator": "14 Jul release and 15 Jul release"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  {
+   "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/GM1350_.PDF",
+   "reason": "official page found by the targeted search for a newer or fuller text; not stored"
+  }
+ ],
+ "related_missing": [
+  "US-GA-01",
+  "US-CT-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Date of signing is supported by the Governor's release of 14 Jul 2026. The effective date of 14 Jul 2026 rests only on the Transparency Coalition tracker (secondary); a law-firm note in the search also says effective on approval, and that annual reports start 1 Jan 2028, which the record does not state. The Act text (GM 1350) is not stored. No amendment found."
+}

@@ -1,0 +1,354 @@
+{
+ "cand_id": "US-GA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-GA-01",
+ "record": {
+  "issuing_body": "Georgia General Assembly (sponsor Sen. Jason Anavitarte and others); signed by Governor Brian P. Kemp",
+  "official_identifier": "SB 540 (26 LC 64 0123S); adds O.C.G.A. 39-5-6",
+  "summary": "Adds O.C.G.A. 39-5-6 on AI companion chatbots (systems simulating a sustained human-like relationship). Operators must disclose that users are talking to AI at each session and every three hours (hourly for minors). For minors they must prevent sexual content, claims of being human, romantic role-play, encouragement of secrecy, isolation or self-harm and engagement-prolonging techniques, and offer parental tools. All operators need a crisis protocol referring users to the 988 lifeline, published with annual referral counts, may not claim to be licensed providers and must assure age before sexually explicit features. The Attorney General may seek up to USD 10,000 per knowing violation.",
+  "notes": "The Georgia Senate Press Office announced the Governor's signature on 15 May 2026 without giving the day of signing, so only the month is recorded. The Act takes effect on 1 July 2027 (Section 2). The Attorney General enforces it by civil action and may recover civil penalties, compensatory damages, costs and attorney's fees and an injunction, with each day of violation counted separately for each affected user; for a first violation that involves no knowing misconduct, sexual exploitation of a minor or self-harm-related misconduct, the Attorney General may allow 30 days to cure. The Attorney General may adopt rules and publish guidance. The Code section creates no liability for a developer whose conversational AI service is made available by a separate operator, and no express private right of action.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the 'as passed' text of SB 540 (26 LC 64 0123S) hosted on the Governor of Georgia's 2026 signed-legislation page (gov.georgia.gov, stored 12 Oct 2026) and the Georgia Senate Press Office release of 15 May 2026 (senatepress.net, listed as the Senate Press Office's official site; stored as the secondary source). The bill text confirms the title, sponsors, provisions, penalties and the 1 Jul 2027 effective date; the release confirms that Governor Kemp signed the bill and the effective date. Neither shows the day of signing or the Act number; a tracker's 11 May 2026 is not confirmed by any official source and is not used. The session label '2025-2026 Regular Session' was removed from issuing_body and official_identifier because no stored file shows it, and the comparison with peer statutes was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1",
+    "quote": "26 LC 64 0123S Senate Bill 540",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1, long title",
+    "quote": "safety, so as to require certain disclosures related t o AI companion chatbots; to2",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1",
+    "quote": "By: Senators Anavitarte of the 31st, Walker III of the 20th, Still of the 48th, Strickland of the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1",
+    "quote": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/secondary.html",
+    "sha256": "3d49cb9d536d060a262897c6d59fa6158edfc5a3eb01e99b1899a4d4b942b479",
+    "locator": "press release",
+    "quote": "today announced that Governor Brian P. Kemp has signed Senate Bill 540 into law",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1",
+    "quote": "26 LC 64 0123S Senate Bill 540",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1, Section 1",
+    "quote": "Chapter 5 of Title 39 of the Official Code of Georgia Annotated, relating to online internet",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1, Section 1",
+    "quote": "is amended by adding a new Code section to read as follows:13 \"39-5-6.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/secondary.html",
+    "sha256": "3d49cb9d536d060a262897c6d59fa6158edfc5a3eb01e99b1899a4d4b942b479",
+    "locator": "press release header",
+    "quote": "Posted on May 15, 2026 by Zach Pishock",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/secondary.html",
+    "sha256": "3d49cb9d536d060a262897c6d59fa6158edfc5a3eb01e99b1899a4d4b942b479",
+    "locator": "press release",
+    "quote": "today announced that Governor Brian P. Kemp has signed Senate Bill 540 into law",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 8, Section 2",
+    "quote": "This Act shall become effective on July 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/secondary.html",
+    "sha256": "3d49cb9d536d060a262897c6d59fa6158edfc5a3eb01e99b1899a4d4b942b479",
+    "locator": "press release",
+    "quote": "SB 540 takes effect July 1, 2027.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 8, Section 2",
+    "quote": "This Act shall become effective on July 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/secondary.html",
+    "sha256": "3d49cb9d536d060a262897c6d59fa6158edfc5a3eb01e99b1899a4d4b942b479",
+    "locator": "press release",
+    "quote": "today announced that Governor Brian P. Kemp has signed Senate Bill 540 into law",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 1",
+    "quote": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 2, 39-5-6(a)(1)(A)",
+    "quote": "sustained human or human-like relationship with a user by:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 4, 39-5-6(b)(1)",
+    "quote": "(A)  At the beginning of each interaction or session; and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 4, 39-5-6(b)(1)",
+    "quote": "(B)  At least every three hours during continued interaction.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 4, 39-5-6(b)(2)",
+    "quote": "every hour instead of every three hours.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 4, 39-5-6(c)",
+    "quote": "(1)  Explicit claims that the AI companion chatbot is sentient or a natural person; and",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 4, 39-5-6(d)",
+    "quote": "(1)  Producing visual material of sexually explicit conduct;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 4, 39-5-6(d)",
+    "quote": "(4)  Simulating a romantic or sexual relationship with the minor;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 5, 39-5-6(d)",
+    "quote": "(6)  Encouraging the minor to keep secrets from a parent, guardian, teacher, counselor,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 5, 39-5-6(d)",
+    "quote": "(7)  Encouraging social isolation or exclusive reliance on the chatbot for emotional",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 5, 39-5-6(d)",
+    "quote": "(9)  Generating statements encouraging self-harm.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 5, 39-5-6(e)",
+    "quote": "(2)  Excessive praise designed to deepen emotional attachment or prolong use;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 5, 39-5-6(f)",
+    "quote": "resources, including the 988 Suicide and Crisis Lifeline or comparable crisis services;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 6, 39-5-6(g)",
+    "quote": "(2)  On an annual basis, the aggregate number of crisis referral notifications issued in the",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 6, 39-5-6(h)",
+    "quote": "chatbot to make any representation that it is licensed, certified, or otherwise authorized to",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 6, 39-5-6(i)",
+    "quote": "to a minor or parent to manage the minor's screen time and account settings to:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 6, 39-5-6(j)",
+    "quote": "assurance method proportionate to the risk of the feature.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)",
+    "quote": "(A)  A civil penalty of up to $10,000.00 per knowing violation of this Code section;",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-GA-01/2026-10-12/secondary.html",
+    "sha256": "3d49cb9d536d060a262897c6d59fa6158edfc5a3eb01e99b1899a4d4b942b479",
+    "locator": "press release",
+    "quote": "ATLANTA (May 15, 2026)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 8, Section 2",
+    "quote": "This Act shall become effective on July 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)(1)",
+    "quote": "The Attorney General may bring a civil action against any operator violating this",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)(1)",
+    "quote": "(B)  Compensatory damages;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)(1)",
+    "quote": "(D)  An order to enjoin the violation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)(2)",
+    "quote": "considered a separate violation for each user affected.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)(3)",
+    "quote": "notice and an opportunity to cure within 30 days for a first-time violation that does not",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(k)(3)",
+    "quote": "involve knowing misconduct, sexual exploitation of a minor, or self-harm related",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 7, 39-5-6(l)",
+    "quote": "(l)  The Attorney General may promulgate rules and publish guidance for implementation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-GA-01/2026-10-12/official.pdf",
+    "sha256": "7fb0d4fe0f1cd5cfa5daa4381f2cc57ddf94f89f116d49ae536b4fc26c62e727",
+    "locator": "page 8, 39-5-6(m)(5)",
+    "quote": "(5)  Create liability for the deve loper of a conversational AI service which is made",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "'2025-2026 Regular Session' removed: no stored file shows the session label",
+   "official_identifier": "'2025-2026 Regular Session' removed for the same reason; the LC number and the Code section stay",
+   "summary": "hourly disclosure for minors added; secrecy, isolation and self-harm prohibitions for minors added; tightened to the 700-character limit",
+   "notes": "the tracker's 11 May 2026 signing date (no stored official source) and the unsupported comparison with peer statutes removed; 'exclusive to the Attorney General' replaced by what the text says (the Attorney General may bring a civil action; no express private right of action); remedies, per-day counting, rules and guidance, and the developer carve-out added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed by the Governor (Senate Press Office release of 15 May 2026); Section 2 makes the Act effective on 1 Jul 2027. Today is 18 Oct 2026, before that date, so 'Adopted, not yet in force' stands.",
+  "scope_reasoning": "AI-specific state law on AI companion chatbots; in scope with no note.",
+  "date_reasoning": "The release of 15 May 2026 says the Governor 'has signed' the bill without the day, so date_published stays at the month, 2026-05 (rule 7b). date_in_force 1 Jul 2027 from Section 2."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The exact signing date and the Act number of SB 540 are not in any stored file; legis.ga.gov loads its bill pages by script."
+ ]
+}

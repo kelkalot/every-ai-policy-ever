@@ -1,0 +1,63 @@
+{
+ "cand_id": "US-CT-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Frontier developers over 10^26 operations may not adopt rules allowing retaliation for catastrophic-risk reports; large developers need an anonymous internal reporting process",
+   "verdict": "supported",
+   "locator": "page 5 s. 2(a)(8), 2(b); page 6 s. 2(c)(1)"
+  },
+  {
+   "claim": "AI companion operators must refer users to the 988 lifeline and disclose that the companion is not human, hourly for minors",
+   "verdict": "supported",
+   "locator": "page 11 s. 5(a)(1); page 12 s. 5(b)"
+  },
+  {
+   "claim": "Section effective dates in the notes (passage; 1 Jul 2026; 1 Oct 2026; 1 Jan 2027; 1 Jul 2027; 1 Jan 2028) and the USD 1,000 per-violation penalty",
+   "verdict": "supported",
+   "locator": "checked section by section in the stored Public Act text; s. 2(e)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-HI-01"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Summary and notes now rest on the stored Public Act text; every effective date and the penalty were found in it. The Governor's action 'Approved May 27, 2026' on page 74 is the official signing date; a tracker in the search gives 11 May, which the official text contradicts, so it is not used. No repeal or amendment found."
+}

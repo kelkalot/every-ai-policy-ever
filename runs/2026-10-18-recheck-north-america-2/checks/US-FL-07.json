@@ -1,0 +1,59 @@
+{
+ "cand_id": "US-FL-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Promoting an altered sexual depiction is a third-degree felony; computer-generated nude body parts included",
+   "verdict": "supported",
+   "locator": "s. 836.13(1)(a)2, (2) in enrolled text"
+  },
+  {
+   "claim": "Section 836.14 on theft of sexually explicit images",
+   "verdict": "supported",
+   "locator": "enrolled text page 15"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept."
+ },
+ "overall": "accept",
+ "note": "Only the verification note changes. date_last_updated 2026 rests on the history note of s. 836.13 (ch. 2026-14, -18, -20)."
+}

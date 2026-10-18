@@ -1,0 +1,55 @@
+{
+ "cand_id": "US-FL-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Companion chatbot platforms must bar minors without parental consent and remind minors hourly that the bot is not human",
+   "verdict": "supported",
+   "locator": "analysis page 22-23"
+  },
+  {
+   "claim": "AI companies may sell personal information only as deidentified data; consent for AI likenesses; schools barred from AI instructional tools before grade 6",
+   "verdict": "supported",
+   "locator": "analysis pages 1-2 Summary"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "US-FL-12"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The bill passed the Senate 37-1 and died in the House on 29 Apr 2026; the search agrees and found no later action. Status Lapsed is supported."
+}

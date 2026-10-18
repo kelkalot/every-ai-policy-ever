@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-CA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Developers must post a high-level summary of training datasets, including whether they include data protected by copyright, trademark or patent or are entirely public domain (Civ. Code 3111)",
+   "verdict": "supported",
+   "locator": "Senate Judiciary analysis of AB 412, page 4 (existing law)"
+  },
+  {
+   "claim": "Compliance required on or before 1 Jan 2026 for systems released on or after 1 Jan 2022",
+   "verdict": "supported",
+   "locator": "same, page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Chapter 817, Statutes of 2024 and the 28 Sep 2024 signing date are supported by the Governor's release and committee analyses (official). Targeted search found no amendment or repeal of AB 2013; reports describe xAI's suit (filed 29 Dec 2025, C.D. Cal.) with a preliminary injunction denied on 4 Mar 2026 and an appeal pending at the Ninth Circuit, all from secondary pages that are not stored, so the status stays In force. The summary rests on a committee description rather than the chaptered text, which the extractor flagged as an open question."
+}

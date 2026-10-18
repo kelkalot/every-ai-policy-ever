@@ -1,0 +1,76 @@
+{
+ "cand_id": "US-CA-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "judgment-differs",
+   "why": "The stored evidence supports 2025-10-13 (AB 853), but an official page shows a later amendment: the Governor's release of 30 Sep 2026 lists AB 2713 (Wicks), 'California AI Transparency Act: system provenance data', among bills signed. That page is not stored, so I cannot fix the date; a human or the next run must decide."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Operative 2 Aug 2026 has passed for covered providers; platform duties from 1 Jan 2027 and device duties from 1 Jan 2028 are still pending, so Partially in force follows from the quoted dates. AB 2713 may revise platform duties."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Covered provider with over 1,000,000 monthly users must offer a free AI detection tool, a manifest-disclosure option and a latent disclosure",
+   "verdict": "supported",
+   "locator": "Assembly analysis (extra-e6e5ca0e1a) page 2 items 2, 4, 5"
+  },
+  {
+   "claim": "Civil penalty of $5,000 per violation",
+   "verdict": "supported",
+   "locator": "same, page 2 item 6"
+  },
+  {
+   "claim": "Large online platforms from 1 Jan 2027, capture-device makers from 1 Jan 2028",
+   "verdict": "supported",
+   "locator": "AB 2713 analysis page 2 items 3, 4"
+  }
+ ],
+ "newer_versions": [
+  {
+   "what": "AB 2713 (Wicks, 2026), California AI Transparency Act: system provenance data, signed 30 Sep 2026 per the Governor's release",
+   "url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
+   "affects": [
+    "date_last_updated",
+    "notes",
+    "summary"
+   ]
+  }
+ ],
+ "extra_urls": [
+  "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
+  "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2713"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "Identifier, signing date (19 Sep 2024) and the AB 853 amendment are supported by official sources. Newer version: the Governor's own site (gov.ca.gov, release of 30 Sep 2026) lists AB 2713 (Wicks) as signed, an amendment of the Act's platform provenance duties; a search tool reports Chapter 856, Statutes of 2026, operative 1 Jan 2027, but that rests on an unstored page and the leginfo bill history was not opened. date_last_updated, and probably notes and summary, may need the amendment; SB 1000 is also mentioned in the release as concerning the Act. Both URLs are listed in extra_urls for storing."
+}

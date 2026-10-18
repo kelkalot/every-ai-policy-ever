@@ -1,0 +1,261 @@
+{
+ "cand_id": "US-CA-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-01",
+ "record": {
+  "date_published": "2024-09-28",
+  "official_identifier": "Chapter 817, Statutes of 2024 (Assembly Bill 2013)",
+  "summary": "Requires developers of generative AI systems or services made available to Californians to post on their websites documentation of the data used to train them, including a high-level summary of the datasets used: for example, whether they include data protected by copyright, trademark or patent, or are entirely in the public domain. Developers had to post the documentation on or before 1 Jan 2026 for systems released on or after 1 Jan 2022.",
+  "notes": "Signed on 28 Sep 2024 as Chapter 817, Statutes of 2024; the Governor's release of 29 Sep 2024 lists it among the 17 bills on generative AI that he had signed over the previous 30 days. The duty is codified in Civil Code section 3111. Compliance required from 1 Jan 2026.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the Governor's legislative update of 28 Sep 2024 (gov.ca.gov), which lists 'AB 2013 ... Generative artificial intelligence: training data transparency' among the bills he signed that day; his release of 29 Sep 2024 (gov.ca.gov, copy of 17 Oct 2026), which lists it among the bills on generative AI signed over the previous 30 days; and the Senate Judiciary Committee's analysis of AB 412 (hearing of 23 Jun 2026, sjud.senate.ca.gov), which gives the chapter (Ch. 817, Stats. 2024) and describes Civil Code section 3111 as existing law, with the deadline of 1 Jan 2026 and systems released on or after 1 Jan 2022. That analysis once calls the law the 'California AI Transparency Act', the name of SB 942 (US-CA-02); the record keeps the bill's subject title. The statute's text on leginfo.legislature.ca.gov refused automated downloads (HTTP 403), so the summary rests on the committee's description of section 3111 rather than on the statute itself, and the version 1 list of required contents (sources, data types, personal data, processing) was narrowed to what the analysis states. Version 1's notes on a federal lawsuit by xAI and on the House Great American AI Act discussion draft rested on secondary sources only and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Generative artificial intelligence: training data transparency.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-01/2026-10-17/official.html",
+    "sha256": "b312ce5c7f03fa2043c20e91f4ef6c7ec17e7717c1e529324c0b1a6af140b8e5",
+    "locator": "Governor's release of Sep 29, 2024, list 'Over the past 30 days, Governor Newsom has signed the following bills concerning GenAI technology'",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Requires AI developers to post information on the data used to train the AI system or service on their websites. (previously signed)",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 13",
+    "quote": "While AB 2013 (Irwin, Ch. 817, Stats. 2024) requires GenAI developers to disclose “high-level summar[ies]” of their training datasets,48",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 20 (Related legislation)",
+    "quote": "Prior legislation: AB 2013 (Irwin, Ch. 817, Stats. 2024) establishes the California AI Transparency Act, which requires developers of GenAI systems or services that are made available for Californians to use to post on their website documentation regarding the data used to train",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Generative artificial intelligence: training data transparency.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today announced that he has signed the following bills:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Generative artificial intelligence: training data transparency.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "update header",
+    "quote": "Sep 28, 2024 Governor Newsom issues legislative update 9.28.24",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today announced that he has signed the following bills:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Generative artificial intelligence: training data transparency.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 4 (existing law)",
+    "quote": "which requires, on or before January 1, 2026, a developer of a GenAI system or service that was released on or after January 1, 2022, to post on its website a high-level summary of whether the datasets used in the development of the system or service include, among other things,",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 1",
+    "quote": "AB 412 (Bauer-Kahan) Version: June 11, 2026 Hearing Date: June 23, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 4 (existing law)",
+    "quote": "which requires, on or before January 1, 2026, a developer of a GenAI system or service that was released on or after January 1, 2022, to post on its website a high-level summary of whether the datasets used in the development of the system or service include, among other things,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today announced that he has signed the following bills:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "SACRAMENTO – Governor Gavin Newsom today announced that he has signed the following bills:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 13",
+    "quote": "While AB 2013 (Irwin, Ch. 817, Stats. 2024) requires GenAI developers to disclose “high-level summar[ies]” of their training datasets,48",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 20 (Related legislation)",
+    "quote": "Prior legislation: AB 2013 (Irwin, Ch. 817, Stats. 2024) establishes the California AI Transparency Act, which requires developers of GenAI systems or services that are made available for Californians to use to post on their website documentation regarding the data used to train",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 4 (existing law)",
+    "quote": "which requires, on or before January 1, 2026, a developer of a GenAI system or service that was released on or after January 1, 2022, to post on its website a high-level summary of whether the datasets used in the development of the system or service include, among other things,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 4 (existing law)",
+    "quote": "data protected by copyright, trademark, or patent, or whether the datasets are entirely in the public domain. (Civ. Code, § 3111.)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-01/2026-10-17/official.html",
+    "sha256": "b312ce5c7f03fa2043c20e91f4ef6c7ec17e7717c1e529324c0b1a6af140b8e5",
+    "locator": "Governor's release of Sep 29, 2024, list 'Over the past 30 days, Governor Newsom has signed the following bills concerning GenAI technology'",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Requires AI developers to post information on the data used to train the AI system or service on their websites. (previously signed)",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-9d8a6bf8e4/2026-10-17/official.html",
+    "sha256": "d4c4426166bab4cbb17a2babac30b7628544828c118c736a9989d4a679b34fac",
+    "locator": "Governor's legislative update of Sep 28, 2024, list of signed bills",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Generative artificial intelligence: training data transparency.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 13",
+    "quote": "While AB 2013 (Irwin, Ch. 817, Stats. 2024) requires GenAI developers to disclose “high-level summar[ies]” of their training datasets,48",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf",
+    "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+    "locator": "page 13",
+    "quote": "48 Civ. Code, § 3111.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-01/2026-10-17/official.html",
+    "sha256": "b312ce5c7f03fa2043c20e91f4ef6c7ec17e7717c1e529324c0b1a6af140b8e5",
+    "locator": "release, first paragraphs",
+    "quote": "Over the past 30 days, Governor Newsom signed 17 bills covering the deployment and regulation of GenAI technology, the most comprehensive legislative package in the nation on this emerging industry",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-01/2026-10-17/official.html",
+    "sha256": "b312ce5c7f03fa2043c20e91f4ef6c7ec17e7717c1e529324c0b1a6af140b8e5",
+    "locator": "Governor's release of Sep 29, 2024, list 'Over the past 30 days, Governor Newsom has signed the following bills concerning GenAI technology'",
+    "quote": "AB 2013 by Assemblymember Jacqui Irwin (D-Thousand Oaks) – Requires AI developers to post information on the data used to train the AI system or service on their websites. (previously signed)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the Governor's legislative update of 28 Sep 2024 lists AB 2013 among the bills he 'today' signed; the day replaces version 1's month",
+   "official_identifier": "chapter number from the Senate Judiciary analysis ('AB 2013 (Irwin, Ch. 817, Stats. 2024)'); version 1's session label is not in any stored file",
+   "summary": "narrowed to what the stored analysis says section 3111 requires (high-level summary of datasets, copyright, trademark or patent, public domain) and the two dates; version 1's 'sources, data types, personal data, processing' rest on no stored file",
+   "notes": "signing day and chapter added; Civil Code section from the analysis; xAI lawsuit and House discussion draft removed (no stored source)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Signed on 28 Sep 2024 (legislative update of that day). The Senate Judiciary Committee analysis heard on 23 Jun 2026 describes the duty as existing law: developers must post the summary 'on or before January 1, 2026'. That date has passed (today 18 Oct 2026), so 'In force' stands. No stored file shows a repeal, a delay or a court order against the law; the reported xAI lawsuit stays an open question.",
+  "date_reasoning": "date_published 2024-09-28: the update dated Sep 28, 2024 says the Governor 'today announced that he has signed the following bills' and lists AB 2013. date_in_force 2026-01-01 is the statutory deadline for posting the documentation, as the analysis states it.",
+  "scope_reasoning": "An AI-specific state law on transparency of generative AI training data; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "California AB 412 (Bauer-Kahan, 2025-2026), Generative artificial intelligence: training data: copyrighted materials",
+   "url": "https://sjud.senate.ca.gov/system/files/2026-06/ab-412-bauer-kahan-sjud-analysis.pdf",
+   "seen_in": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-01/extra-34821d8e2d/2026-10-17/official.pdf (Senate Judiciary Committee analysis, version of 11 Jun 2026)",
+   "why": "Pending bill on documenting copyrighted works used to train generative AI; not in the register."
+  },
+  {
+   "title": "California SB 896 (Dodd, 2024), Generative Artificial Intelligence Accountability Act",
+   "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-896-SIGNING-Message.pdf",
+   "seen_in": "archive/US-CA-01/2026-10-17/official.html (Governor's release of 29 Sep 2024)",
+   "why": "Signed 29 Sep 2024; requires Cal OES risk analyses of GenAI threats to critical infrastructure and disclosure of GenAI in state communications, codifying parts of EO N-12-23 (US-CA-11); not in the register."
+  },
+  {
+   "title": "California AB 2655, AB 2839 and AB 2355 (2024), deceptive AI-generated election content",
+   "url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
+   "seen_in": "archive/US-CA-01/2026-10-17/official.html (list of signed bills)",
+   "why": "Platform removal or labelling of materially deceptive election content, the ban on deceptive AI election material, and AI disclosures in political ads; none is in the register."
+  },
+  {
+   "title": "California AB 3030 and SB 1120 (2024), generative AI in patient communications and AI in health plan utilization review",
+   "url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
+   "seen_in": "archive/US-CA-01/2026-10-17/official.html (list of signed bills)",
+   "why": "Sector laws on AI in health care (disclosure of GenAI patient communications; AI may not supplant clinician decisions in utilization review); not in the register."
+  }
+ ],
+ "open_questions": [
+  "Version 1 noted a federal lawsuit by xAI against AB 2013 (C.D. Cal., end of 2025) from a secondary source; no stored file confirms it or says whether enforcement was enjoined. A later run could store the court docket or an official notice to check whether the status needs a note.",
+  "The summary rests on the Senate Judiciary Committee's description of Civil Code section 3111, not on the statute: leginfo.legislature.ca.gov refuses automated downloads. A person could provide the chaptered text (AGENTS.md section 7.8) so that the full list of required contents can be quoted."
+ ]
+}

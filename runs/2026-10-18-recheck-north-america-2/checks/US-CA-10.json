@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-CA-10",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "DGS and CDT to recommend vendor certifications on illegal content, harmful bias and civil rights within 120 days",
+   "verdict": "supported",
+   "locator": "EO page 2 para 1(a)-(c)"
+  },
+  {
+   "claim": "CDT issues best-practice watermarking guidance",
+   "verdict": "supported",
+   "locator": "EO page 3 para 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "All fields confirmed unchanged against the official PDF (signed 30 Mar 2026). Search found no amendment or revocation; the 120-day deadlines have passed but an order of this kind stays in force."
+}

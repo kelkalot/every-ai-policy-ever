@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-FL-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Raises creating generated CSAM from third- to second-degree felony and adds transmission offence",
+   "verdict": "supported",
+   "locator": "House final analysis page 2"
+  },
+  {
+   "claim": "Replaces 'child pornography' with 'child sexual abuse material' and creates a life felony for using a child under 12 in a sexual performance",
+   "verdict": "supported",
+   "locator": "analysis page 1 Summary"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept."
+ },
+ "overall": "accept",
+ "note": "Only the verification note changes. Signing on 31 Mar 2026 was confirmed by the Governor's press coverage in the search; the chapter number rests on the stored bill page."
+}

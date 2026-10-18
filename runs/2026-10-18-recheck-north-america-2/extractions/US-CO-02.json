@@ -1,0 +1,260 @@
+{
+ "cand_id": "US-CO-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CO-02",
+ "record": {
+  "notes": "Introduced in the Senate on 1 May 2026; passed the Senate on 7 May 2026 (34-1) and the House on 9 May 2026 (57-6), and the Senate concurred in the House amendments on 12 May 2026. Approved on 14 May 2026 (Session Laws 2026, chapter 131). The act takes effect on 1 Jan 2027 and applies to consequential decisions made on or after that date; its rule-making provisions, a joinder clause and the appropriation took effect on passage. The Attorney General must adopt rules on post-adverse outcome disclosures and on the consumer rights to correction and human review by 1 Jan 2027, and may adopt rules clarifying 'materially influence'. The 60-day notice-and-cure provision is repealed on 1 Jan 2030, and annual enforcement reports begin in January 2028. The act creates no new private right of action and allocates fault between developers and deployers in discrimination actions by relative fault.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the leg.colorado.gov page for SB26-189 and the two PDFs stored on 11 Oct 2026, the revised bill (second-reading version in the second house) and the session law (Session Laws 2026, chapter 131). The page now shows the Governor's signature on 14 May 2026 and the session law ends 'Approved: May 14, 2026', which settles the signing date that version 1 took from law-firm sources (one of which gave 20 May 2026). Section 5 of the session law gives the effective date of 1 Jan 2027 and lists the provisions that took effect on passage. The Governor's name is not in the stored files; issuing_body keeps it from version 1. On 17 Oct 2026 robots.txt of leg.colorado.gov disallowed the two PDF download paths, so the copies of 11 Oct 2026 were used."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "page title",
+    "quote": "SB26-189 Automated Decision-Making Technology | Colorado General Assembly",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 1 (session law heading)",
+    "quote": "SENATE BILL 26-189 BY SENATOR(S) Rodriguez and Coleman",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17 (end of the act)",
+    "quote": "Approved: May 14, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Bill history",
+    "quote": "05/14/2026 Governor Governor Signed",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17, section 5 (1)",
+    "quote": "Except as otherwise provided in subsection (2) of this section, this act takes effect January 1, 2027.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Bill history",
+    "quote": "05/14/2026 Governor Governor Signed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17, section 5 (1)",
+    "quote": "Except as otherwise provided in subsection (2) of this section, this act takes effect January 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17, section 5 (3)",
+    "quote": "This act applies to consequential decisions made on or after January 1, 2027.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 1",
+    "quote": "Be it enacted by the General Assembly of the State of Colorado:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 1, section 1",
+    "quote": "In Colorado Revised Statutes, repeal and reenact, with amendments, part 17 of article 1 of title 6 as follows:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Bill Summary",
+    "quote": "The act defines a 'consequential decision' as a decision that relates to an individual's access to, eligibility for, or compensation related to education, employment, housing, financial or lending services, insurance, health-care services, or essential government services and public benefits.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 8, 6-1-1704 (1)",
+    "quote": "THE DEPLOYER SHALL PROVIDE A CLEAR AND CONSPICUOUS NOTICE TO A CONSUMER THAT THE DEPLOYER USED OR WILL USE A COVERED ADMT IN A CONSEQUENTIAL DECISION AFFECTING THE CONSUMER",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 8, 6-1-1704 (3)",
+    "quote": "THE DEPLOYER SHALL PROVIDE WITHIN THIRTY DAYS AFTER MAKING THE DECISION: (a) A PLAIN LANGUAGE DESCRIPTION OF THE CONSEQUENTIAL DECISION AND THE ROLE THE COVERED ADMT PLAYED IN THE CONSEQUENTIAL DECISION;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 10, 6-1-1705 (1)(a)(II)",
+    "quote": "AN OPPORTUNITY FOR MEANINGFUL HUMAN REVIEW AND RECONSIDERATION OF THE CONSEQUENTIAL DECISION, TO THE EXTENT COMMERCIALLY REASONABLE.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 11, 6-1-1706 (3)(b)",
+    "quote": "IF THE DEVELOPER OR DEPLOYER FAILS TO CURE A VIOLATION WITHIN SIXTY",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 7, 6-1-1702 (1)",
+    "quote": "ON AND AFTER JANUARY 1, 2027, A DEVELOPER SHALL MAKE AVAILABLE TO EACH DEPLOYER OF A COVERED ADMT DEVELOPED BY THE DEVELOPER",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Bill history",
+    "quote": "05/01/2026 Senate Introduced In Senate - Assigned to Business, Labor, & Technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Senate Votes",
+    "quote": "05/07/2026 Third Reading BILL 34 AYE 1 NO 0 OTHER",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "House Votes",
+    "quote": "05/09/2026 Third Reading BILL 57 AYE 6 NO 2 OTHER",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Bill history",
+    "quote": "05/12/2026 Senate Senate Considered House Amendments - Result was to Concur - Repass",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/official.html",
+    "sha256": "366d70ba510cf05c16014223c7cf893bf6501ce0ff04c4e19d33bc926f97859b",
+    "locator": "Session laws",
+    "quote": "05/14/2026 131 Automated Decision-Making Technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17, section 5 (2)",
+    "quote": "Sections 6-1-1704 (4), 6-1-1705 (3), and 6-1-1706 (6), Colorado Revised Statutes, as amended in section 1 of this act, section 10-3-1104.9 (3)(e), Colorado Revised Statutes, as enacted in section 3 of this act, section 4 of this act, this",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 9, 6-1-1704 (4)(b)",
+    "quote": "ON OR BEFORE JANUARY 1, 2027, THE ATTORNEY GENERAL SHALL ADOPT RULES TO CLARIFY AND IMPLEMENT THE POST-ADVERSE OUTCOME DISCLOSURE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 11, 6-1-1705 (3)",
+    "quote": "ON OR BEFORE JANUARY 1, 2027, THE ATTORNEY GENERAL SHALL ADOPT RULES TO CLARIFY AND IMPLEMENT THE REQUIREMENTS OF THIS SECTION.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "pages 12-13, 6-1-1706 (5)(b)",
+    "quote": "THE ATTORNEY GENERAL MAY ADOPT RULES TO CLARIFY THE APPLICATION OF THE DEFINITION OF \"MATERIALLY INFLUENCE\"",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 12, 6-1-1706 (3)(f)",
+    "quote": "THIS SUBSECTION (3) IS REPEALED, EFFECTIVE JANUARY 1, 2030.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 12, 6-1-1706 (3)(e)",
+    "quote": "BEGINNING IN JANUARY 2028, AND IN JANUARY EVERY YEAR THEREAFTER,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 16, 6-1-1709 (1)",
+    "quote": "NOTHING IN THIS PART 17 CREATES A NEW PRIVATE RIGHT OF ACTION.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 13, 6-1-1707 (2)",
+    "quote": "FAULT SHALL BE ALLOCATED AMONG DEPLOYERS AND DEVELOPERS BASED ON THEIR RELATIVE FAULT FOR THE VIOLATION.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the stored page and session law: legislative history and votes, chapter, effective date and the provisions effective on passage, rule-making deadlines (rules on 'materially influence' are optional, not due by 1 Jan 2027), cure-period repeal, enforcement reports, no private right of action and fault allocation; the conflicting signing dates from law firms, the remark that the page showed no governor action, and the FTC preemption remark (no stored support) removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "confirmed_text": "summary re-read against the session law and left unchanged; evidence under 'summary'",
+  "not_confirmed": {
+   "issuing_body": "the stored files show enactment by the General Assembly and the Governor's approval but not the Governor's name"
+  },
+  "status_reasoning": "Approved 14 May 2026; section 5 (1): 'this act takes effect January 1, 2027', and section 5 (3): it applies to consequential decisions made on or after 1 Jan 2027. Only the rule-making provisions, a joinder clause and the appropriation took effect on passage. Today is 18 Oct 2026, before 1 Jan 2027, so the operative law is not yet in force: 'Adopted, not yet in force' stays.",
+  "scope_reasoning": "AI-specific state law on automated decision-making technology in consequential decisions, replacing the Colorado AI Act; in scope with no note.",
+  "date_reasoning": "date_published is the Governor's approval (session law 'Approved: May 14, 2026'; bill history '05/14/2026 Governor Signed'). date_in_force is the general effective date in section 5 (1)."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "issuing_body names Governor Jared Polis, but no stored file gives the Governor's name (the session law and the legislature's page show only 'Approved' and 'Governor Signed')."
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "cand_id": "US-ME-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-ME-02",
+ "record": {
+  "issuing_body": "Maine Legislature (132nd Legislature, Second Regular Session); signed by the Governor",
+  "summary": "Bars any person from providing, advertising or offering therapy or psychotherapy services to the public, including through Internet-based artificial intelligence, unless a licensed professional provides them; a violation is an unfair trade practice. Licensed mental-health professionals may use AI only for administrative and supplementary support and keep full responsibility for it; supplementary use requires written notice to the client and the client's consent, and AI may not make independent therapeutic decisions, interact therapeutically with clients or generate treatment plans without the licensee's review. Boards discipline violations and adopt rules; IRB-approved research is exempt.",
+  "notes": "Signed on 13 April 2026 as Public Law 2025, chapter 687, as amended by committee amendment C-A (H-980). Section 1 adds 10 M.R.S. §1500-EE; sections 2 to 8 add the same rules on AI support to licensing laws in Title 32 (§§2113, 2600-G, 3300-J, 3820-A, 6207-D, 7009 and 13870). Under those sections a licensee may not deny services to a client who refuses consent to AI use, a client's waiver is void, clients keep their right to sue for harm attributable to AI use, and the boards' implementing rules are major substantive rules. As a non-emergency law of the Second Regular Session of the 132nd Legislature, which adjourned sine die on 29 April 2026, it took effect on the session's general effective date, 29 July 2026.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the Maine Legislature's status page for LD 2082 (stored 11 Oct 2026, unchanged on 17 Oct 2026), the chaptered law PDF of chapter 687 (stored as the secondary source, from legislature.maine.gov, 22 pages) and the two fiscal notes. The status page confirms the title, enactment and the Governor's signature on 13 Apr 2026, chapter 687, committee amendment C-A (H-980) and the eight sections enacted; the chapter PDF confirms the full text, including the Title 32 sections the earlier summary left out, and the approval on 13 Apr 2026. The Legislative Digest of Bills and Summaries of Enacted Laws for the Second Regular Session (Office of Policy and Legal Analysis, May 2026, legislature.maine.gov/doc/12558, stored in this run, 374 pages) gives 29 Apr 2026 as the sine die adjournment and 29 Jul 2026 as the effective date of non-emergency legislation, and its enacted law summary of LD 2082 names no emergency effective date and confirms the Title 32 provisions, the licensing boards' rules and the right to civil action. The Governor's name was removed from issuing_body because no stored file names the Governor."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "page heading (LD 2082, HP 1397)",
+    "quote": "An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 1",
+    "quote": "H.P. 1397 - L.D. 2082 An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "page header",
+    "quote": "132nd Maine Legislature, Second Regular Session",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Documents and Disposition",
+    "quote": "Governor's Action: Signed, Apr 13, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Documents and Disposition",
+    "quote": "Chaptered LawACTPUB , Chapter 687",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 1",
+    "quote": "H.P. 1397 - L.D. 2082",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 1",
+    "quote": "Sec. 1. 10 MRSA §1500-EE is enacted to read:",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Documents and Disposition",
+    "quote": "Governor's Action: Signed, Apr 13, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 1",
+    "quote": "APPROVED APRIL 13, 2026 BY GOVERNOR",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Documents and Disposition",
+    "quote": "Final DispositionEnacted, Apr 13, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 1",
+    "quote": "CHAPTER 687 PUBLIC LAW",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 1",
+    "quote": "Be it enacted by the People of the State of Maine as follows:",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Affected Statute Titles and Sections",
+    "quote": "1500-EE NEW Public Law 687",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 2, §1500-EE(2)",
+    "quote": "A person may not provide, advertise or otherwise offer therapy or psychotherapy services, including through the use of Internet-based artificial intelligence, to the public unless the therapy or psychotherapy services are provided by a licensed professional.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 2, §1500-EE(3)",
+    "quote": "A violation of subsection 2 is a violation of the Maine Unfair Trade Practices Act.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 3, §2113(2)",
+    "quote": "may provide administrative support or supplementary support in the delivery of therapy or psychotherapy services through the use of artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 4, §2113(2)(A)",
+    "quote": "The licensee maintains full responsibility for all interactions, outputs and data use associated with the use of artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 4, §2113(3)",
+    "quote": "The client or the client's legally authorized representative is informed in writing of the following:",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 4, §2113(3)(B)",
+    "quote": "The client or the client's legally authorized representative provides consent to the use of artificial intelligence.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 4, §2113(4)",
+    "quote": "A licensee may not allow artificial intelligence to: A. Make independent therapeutic decisions; B. Directly interact with clients in any form of therapeutic communication; or C. Generate therapeutic recommendations or treatment plans without review and approval by the licensee.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 4, §2113(8)",
+    "quote": "A violation of this section is subject to disciplinary action by the board pursuant to Title 10, section 8003, subsection 5.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 5, §2113(10)",
+    "quote": "The board shall adopt rules to implement the requirements of this section.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 2, §1500-EE(4)",
+    "quote": "This section does not apply to an artificial intelligence-based intervention that is used solely within a research project approved by an institutional review board",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-02/extra-33f65fa1eb/2026-10-17/official.pdf",
+    "sha256": "bf5b1a5d3d6d58c4eab308e168af815555765b7844b161aa374821e90b1fe8c1",
+    "locator": "page 3",
+    "quote": "The effective date for non -emergency legislation enacted in the Second Regular Session of the 132nd Legislature is Wednesday, July 29, 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-02/extra-33f65fa1eb/2026-10-17/official.pdf",
+    "sha256": "bf5b1a5d3d6d58c4eab308e168af815555765b7844b161aa374821e90b1fe8c1",
+    "locator": "page 177, enacted law summary of LD 2082",
+    "quote": "Public Law 2025, chapter 687 prohibits any person from providing, advertising or otherwise offering therapy or psychotherapy services",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-02/extra-33f65fa1eb/2026-10-17/official.pdf",
+    "sha256": "bf5b1a5d3d6d58c4eab308e168af815555765b7844b161aa374821e90b1fe8c1",
+    "locator": "page 1",
+    "quote": "Second Regular Session adjourned sine die Wednesday, April 29, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-02/extra-33f65fa1eb/2026-10-17/official.pdf",
+    "sha256": "bf5b1a5d3d6d58c4eab308e168af815555765b7844b161aa374821e90b1fe8c1",
+    "locator": "page 177, enacted law summary of LD 2082",
+    "quote": "The law also requires that each respective licensing board adopt rules to implement these requirements and designates those rules as major substantive subject to legislative review and approval.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Documents and Disposition",
+    "quote": "Adopted Amendments C-A (H-980)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 2",
+    "quote": "Sec. 2. 32 MRSA §2113 is enacted to read:",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 5",
+    "quote": "Sec. 3. 32 MRSA §2600-G is enacted to read:",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 8",
+    "quote": "Sec. 4. 32 MRSA §3300-J is enacted to read:",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/official.html",
+    "sha256": "0fe62a1037191630c51c1bef64fade385d2bb1776c304afef76b26c3a5380161",
+    "locator": "Affected Statute Titles and Sections",
+    "quote": "32 13870 NEW Public Law 687 32 7009 NEW Public Law 687 32 6207-D NEW Public Law 687 32 3820-A NEW Public Law 687",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 4, §2113(5)",
+    "quote": "A licensee may not deny, or refuse to provide, therapy or psychotherapy services to a client on the sole basis that the client has not provided consent to the use of artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 5, §2113(11)",
+    "quote": "Any waiver by a client of the provisions of this section is contrary to public policy and is void and unenforceable.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 5, §2113(12)(A)",
+    "quote": "Maintaining an action for harm caused to a client that is attributable to the use of artificial intelligence",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-11/secondary.pdf",
+    "sha256": "c556d57dff8095400a12dede70c21c015a3ca67f80432282d596c1852ff75f7b",
+    "locator": "page 5, §2113(10)",
+    "quote": "Rules adopted pursuant to this subsection are major substantive rules as described in Title 5, chapter 375, subchapter 2-A.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-ME-02/2026-10-17/document-2.pdf",
+    "sha256": "5a9bceaf8b82bd0afaf5240d3abfea2f0a8f17c4b87105378e51ced778ac1faa",
+    "locator": "page 1",
+    "quote": "Fiscal Note for Bill as Engrossed with: C \"A\" (H-980)",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "Governor's name removed: the stored files show the Governor's signature but do not name the Governor",
+   "summary": "rewritten from the chaptered text: the earlier summary covered only §1500-EE and left out the seven Title 32 sections that let licensed professionals use AI only for administrative and supplementary support, with consent, full responsibility and a ban on AI making therapeutic decisions",
+   "notes": "duplicated sentence and the comparison with other states removed; the Title 32 sections, the consent, waiver and civil-action provisions and the major substantive rules added; the adjournment and effective date now rest on the stored Legislative Digest",
+   "verification.note": "rewritten for this recheck; the earlier note repeated a sentence and said date_in_force was left null although it was set"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "LD 2082 was enacted and signed on 13 Apr 2026 as Public Law 2025, chapter 687. The chaptered text has no emergency preamble or effective-date clause, and the digest's enacted law summary names no emergency effective date, so it took effect on the effective date of non-emergency legislation of the Second Regular Session, which the stored Legislative Digest gives as 29 Jul 2026 (the session adjourned sine die on 29 Apr 2026). Today is 18 Oct 2026, after that date, and nothing in the stored files shows a repeal, so 'In force' stands.",
+  "scope_reasoning": "AI-specific state law restricting AI in therapy and psychotherapy services; in scope with no note.",
+  "date_reasoning": "date_published 13 Apr 2026 is the Governor's signature and approval date on the status page and the chapter PDF. date_in_force 29 Jul 2026 is the digest's effective date for non-emergency legislation of the Second Regular Session."
+ },
+ "extra_urls": [
+  {
+   "url": "https://legislature.maine.gov/doc/12558",
+   "reason": "Legislative Digest of Bills and Summaries of Enacted Laws, 132nd Legislature, Second Regular Session (Office of Policy and Legal Analysis, May 2026): page 1 gives the sine die adjournment (29 Apr 2026), page 3 the effective date of non-emergency legislation (29 Jul 2026), and page 177 the enacted law summary of LD 2082 (Public Law 2025, chapter 687). Needed for date_in_force and the notes."
+  }
+ ],
+ "leads": [
+  {
+   "title": "LD 2162, An Act to Regulate and Prevent Children's Access to Artificial Intelligence Chatbots with Human-like Features and Social Artificial Intelligence Companions (132nd Maine Legislature; died on adjournment)",
+   "url": null,
+   "seen_in": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-02/extra-33f65fa1eb/2026-10-17/official.pdf (Legislative Digest, Second Regular Session, subject index of the Health Coverage, Insurance and Financial Services committee, 'Artificial Intelligence, Regulation and Practices')",
+   "why": "A 2026 Maine bill on children's access to AI companion chatbots that died on adjournment; not in the register (failed bills are kept as Proposed / Lapsed)."
+  },
+  {
+   "title": "LD 1301, An Act to Prohibit the Use of Artificial Intelligence in the Denial of Health Insurance Claims (132nd Maine Legislature; ought not to pass)",
+   "url": null,
+   "seen_in": "archive/_runs/2026-10-18-recheck-north-america-2/US-ME-02/extra-33f65fa1eb/2026-10-17/official.pdf (same subject index)",
+   "why": "A Maine bill on AI in health insurance claim denials that received an ought-not-to-pass report; not in the register."
+  }
+ ],
+ "open_questions": []
+}

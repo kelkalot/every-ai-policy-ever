@@ -1,0 +1,246 @@
+{
+ "cand_id": "US-CA-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-04",
+ "record": {
+  "summary": "Report of an expert working group that the Governor asked in September 2024 to help California develop guardrails for frontier AI. Without endorsing any bill, it sets out evidence-based policy principles in a 'trust but verify' approach: transparency on data acquisition, safety and security practices, pre-deployment testing and downstream impacts; independent verification of safety claims and risk assessments; whistleblower protections and safe harbours for third-party evaluators; adverse-event reporting to monitor post-deployment harms; and thresholds for intervention, based for example on compute or users, that can be revised over time.",
+  "notes": "Draft released on 18 Mar 2025 for public feedback until 8 Apr 2025; final report 17 Jun 2025. Co-led by Jennifer Tour Chayes, Mariano-Florentino Cuéllar and Fei-Fei Li, with Rishi Bommasani and Scott R. Singer as lead writers; the co-leads write in their own capacity, not for their institutions. Requested in September 2024, the month of the Governor's veto of SB 1047 (US-CA-03), it focuses on frontier models and leaves out AI's effects on work, the environmental impact of data centres and the full range of misuse. SB 53 (2025) built on its recommendations.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the report PDF (gov.ca.gov, copy of 11 Oct 2026, unchanged on 17 Oct 2026), which gives the title, the working group, the date 17 Jun 2025, the co-leads and lead writers, the draft of 18 Mar 2025, the origin of the request in September 2024 and the eight key principles; and the Governor's release of 17 Jun 2025 (gov.ca.gov, copy of 17 Oct 2026), which says the group was convened at his request and released its final report that day. Also stored for this record: Executive Order N-9-26 (18 Sep 2026, gov.ca.gov PDF), whose recitals say the Governor convened the experts in 2024 and that SB 53 'built on the recommendations included in the report'. Version 1's claim that the independent-verification framework of SB 813 (2026) enacted the report's recommendations rests on no stored source and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 1 (cover)",
+    "quote": "THE CALIFORNIA REPORT ON FRONTIER AI POLICY Joint California Policy Working Group on AI Frontier Models June 17, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-17/secondary.html",
+    "sha256": "887fe1c41cb8f7233356e4643e689d9af04540d8f18075ca0c9b7b4438b2016d",
+    "locator": "release, first paragraph",
+    "quote": "The group, which was convened at the request of the Governor last September, today released its final report, The California Report on Frontier AI Policy.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 1 (cover)",
+    "quote": "THE CALIFORNIA REPORT ON FRONTIER AI POLICY Joint California Policy Working Group on AI Frontier Models June 17, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-17/secondary.html",
+    "sha256": "887fe1c41cb8f7233356e4643e689d9af04540d8f18075ca0c9b7b4438b2016d",
+    "locator": "release, first paragraph",
+    "quote": "The group, which was convened at the request of the Governor last September, today released its final report, The California Report on Frontier AI Policy.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 1 (cover)",
+    "quote": "THE CALIFORNIA REPORT ON FRONTIER AI POLICY Joint California Policy Working Group on AI Frontier Models June 17, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 2 (How to cite)",
+    "quote": "“The California Report on Frontier AI Policy. ” The Joint California Policy Working Group on AI Frontier Models. June 17, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-17/secondary.html",
+    "sha256": "887fe1c41cb8f7233356e4643e689d9af04540d8f18075ca0c9b7b4438b2016d",
+    "locator": "release header",
+    "quote": "Jun 17, 2025 As Trump moves to decimate state AI laws, Governor Newsom taps the nation’s top experts for groundbreaking AI report",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 2 (How to cite)",
+    "quote": "“The California Report on Frontier AI Policy. ” The Joint California Policy Working Group on AI Frontier Models. June 17, 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-17/secondary.html",
+    "sha256": "887fe1c41cb8f7233356e4643e689d9af04540d8f18075ca0c9b7b4438b2016d",
+    "locator": "release, first paragraph",
+    "quote": "The group, which was convened at the request of the Governor last September, today released its final report, The California Report on Frontier AI Policy.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 4 (Executive Summary)",
+    "quote": "The report does not argue for or against any particular piece of legislation or regulation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 4 (Executive Summary)",
+    "quote": "outlines policy principles grounded in this research that state officials could consider in crafting new laws and regulations that govern the development and deployment of frontier AI in California",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 6 (Origins of the Report)",
+    "quote": "In September 2024, Governor Gavin Newsom requested that Dr. Fei-Fei Li, Co-Director of the Stanford Institute for Human-Centered Artificial Intelligence; Dr. Mariano-Florentino Cuéllar, President of the Carnegie Endowment for International Peace; and Dr. Jennifer Tour Chayes",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 4 (Executive Summary)",
+    "quote": "The report does not argue for or against any particular piece of legislation or regulation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 4 (Executive Summary)",
+    "quote": "this report derives policy principles that can inform how California approaches the use, assessment, and governance of frontier AI—principles rooted in an ethos of “trust but verify. ”",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 5 (Key Principles 6)",
+    "quote": "Carefully tailored policies can enhance transparency on key areas with current information deficits, such as data acquisition, safety and security practices, pre-deployment testing, and downstream impacts.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 5 (Key Principles 4)",
+    "quote": "establishing robust mechanisms to independently verify safety claims and risk assess- ments",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 5 (Key Principles 6)",
+    "quote": "Clear whistleblower protections and safe harbors for third-party evaluators can enable increased transparency above and beyond information disclosed by foundation model developers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 5 (Key Principles 7)",
+    "quote": "Adverse event reporting systems enable monitoring of the post-deployment impacts of AI and commensurate modernization of existing regulatory or enforcement authorities.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 5 (Key Principles 8)",
+    "quote": "Scoping which entities are covered by a policy often involves setting thresholds, such as com- putational costs measured in FLOP or downstream impact measured in users.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 5 (Key Principles 8)",
+    "quote": "policymakers should ensure that mechanisms are in place to adapt thresholds over time",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 3 (Acknowledgments)",
+    "quote": "Reviewers on Draft Report (March 18, 2025)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 52 (Appendix A.1, Preamble Text)",
+    "quote": "We welcome feedback, reflections, and additional information from a variety of disciplines and sectors by April 8, 2025 for consideration in advance of the final report.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 2",
+    "quote": "CO-LEADS Jennifer Tour Chayes, University of California, Berkeley Mariano-Florentino Cuéllar, Carnegie Endowment for International Peace Li Fei-Fei, Stanford University LEAD WRITERS Rishi Bommasani, Stanford University Scott R. Singer, Carnegie Endowment for International Peace",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 6 (Origins of the Report)",
+    "quote": "This effort represents scholarly work from each of the Co-Leads and does not represent the positions of their institutions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 13 (section 1.4)",
+    "quote": "1.4 Changes Since SB 1047 Veto in September 2024 Foundation model capabilities have rapidly improved in the months since California Governor Gavin Newsom vetoed SB 1047.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-04/2026-10-11/official.pdf",
+    "sha256": "4f7bcf74c9b48f513670a9d695f1466c982388941e2186c603063bd92a9349ad",
+    "locator": "page 4 (Executive Summary)",
+    "quote": "For example, the report does not cover how AI impacts labor and the future of work, how the large-scale data centers that fuel AI impact the environment, or the full range of specific ways in which AI capabilities can be misused.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-04/extra-7883e4e0da/2026-10-17/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 1 (recitals)",
+    "quote": "WHEREAS in 2024, I convened a group of world-leading AI researchers and experts, who released a first-in-the-nation report on frontier AI guardrails",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CA-04/extra-7883e4e0da/2026-10-17/official.pdf",
+    "sha256": "ea398613db19dd4e6479a04a93753d8efbcbfc91e5ecb8a42786721553da3fc5",
+    "locator": "page 1 (recitals)",
+    "quote": "Senate Bill 53, addressing frontier AI trust and safety, which built on the recommendations included in the report released by the AI researchers and experts earlier that year",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the report: 'commissioned after the SB 1047 veto' replaced by the request of September 2024 that the report itself states; independent verification of safety claims (principle 4) added; 'reach' rendered as the report's 'users'",
+   "notes": "rewritten from the report: feedback deadline, lead writers, own-capacity statement and the topics left out added; SB 813 claim removed (no stored source); the SB 53 link rests on the recitals of EO N-9-26",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A final, non-binding report published on 17 Jun 2025 (cover and citation; the Governor's release says the group 'today released its final report'). It argues for no legislation and offers principles that officials 'could consider'. Nothing stored shows a withdrawal or a newer edition, so 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A report that the Governor requested from leading experts on frontier AI governance: a government-commissioned scientific report, in scope with no note (AGENTS.md section 10). The cover names the Joint California Policy Working Group on AI Frontier Models as author and the Governor's office published it; version 1's issuing body (the working group, convened by the Governor) is kept. If maintainers read the precedent on reports written by an expert group an authority convened as applying here, the issuing body would become the Governor of California with a scope_note naming the working group.",
+  "issuing_body_reasoning": "Cover: 'Joint California Policy Working Group on AI Frontier Models'; release: 'convened at the request of the Governor'."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

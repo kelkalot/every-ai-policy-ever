@@ -1,0 +1,356 @@
+{
+ "cand_id": "US-CO-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CO-01",
+ "record": {
+  "date_in_force": "2024-05-17",
+  "summary": "Law on high-risk artificial intelligence systems, which make or are a substantial factor in making consequential decisions in education, employment, financial or lending services, essential government services, health care, housing, insurance or legal services. Developers and deployers must use reasonable care to protect consumers from known or reasonably foreseeable risks of algorithmic discrimination. Deployers must implement a risk management policy and program, complete impact assessments, notify consumers, and offer data correction and an appeal with human review if technically feasible. Consumers must be told when they interact with an AI system. The Attorney General enforces it.",
+  "notes": "Approved and effective on 17 May 2024 (Session Laws 2024, chapter 198); the duties of developers and deployers were to apply on and after 1 Feb 2026, and the Attorney General may designate risk management frameworks and adopt rules. SB 25B-004 (2025 Extraordinary Session, chapter 3), approved on 28 Aug 2025 and effective on 25 Nov 2025, extended the effective date of the requirements to 30 Jun 2026. xAI sued to challenge the law in the US District Court for the District of Colorado on 9 Apr 2026, and on 24 Apr 2026 the US Department of Justice moved to intervene, alleging that it violates the Equal Protection Clause; Executive Order 14365 (US-20) also cites the law. Under a stipulated order of 27 Apr 2026, the Attorney General is not to enforce the law or investigate violations until 14 days after the court rules on a motion for a preliminary injunction that xAI is to file after final rule-making under the law or its replacement. SB 26-189 (US-CO-02), approved on 14 May 2026, repeals and reenacts part 17 as a law on automated decision-making technology in consequential decisions, taking effect on 1 Jan 2027.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the leg.colorado.gov pages for SB24-205 and SB25B-004 and the SB24-205 session law PDF (Session Laws 2024, chapter 198), stored on 11 Oct 2026, and stored in this run the leg.colorado.gov page for SB26-189, the Department of Justice press release of 24 Apr 2026 and a McDermott Will & Schulte client alert. The SB24-205 page shows 'APPROVED by Governor May 17, 2024' and 'EFFECTIVE May 17, 2024' and its bill history the Governor's signature on that day, and the session law ends 'Approved: May 17, 2024' after a safety clause; the signing date no longer rests on prior knowledge, and date_in_force is now the act's effective date (its duties were to apply from 1 Feb 2026, later 30 Jun 2026). The SB25B-004 page confirms the extension to 30 Jun 2026, approval on 28 Aug 2025 and effect on 25 Nov 2025. The SB26-189 page confirms the repeal and reenactment and the Governor's signature on 14 May 2026; its 1 Jan 2027 effective date is in SB 26-189's session law stored for US-CO-02. The suit's filing date and the DOJ intervention are in the DOJ release; the court and the stipulated order of 27 Apr 2026 rest only on the law-firm alert, which also calls the DOJ filing a 'companion complaint' where the DOJ release says it moved to intervene. Version 1's statement that the law never took effect is contradicted by the legislature's page and was removed. The Governor's name is not in the stored files. On 17 Oct 2026 robots.txt of leg.colorado.gov disallowed the session-law download paths, so the copies of 11 Oct 2026 were used."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "page title",
+    "quote": "SB24-205 Consumer Protections for Artificial Intelligence | Colorado General Assembly",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 1 (session law heading)",
+    "quote": "SENATE BILL 24-205 BY SENATOR(S) Rodriguez, Cutter, Michaelson Jenet, Priola, Winter F., Fenberg;",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 19 (end of the act)",
+    "quote": "Approved: May 17, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "Bill history",
+    "quote": "05/17/2024 Governor Governor Signed",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "Bill Summary, end",
+    "quote": "APPROVED by Governor May 17, 2024 EFFECTIVE May 17, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "Session laws",
+    "quote": "05/17/2024 198 Consumer Protections for Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 19, section 3",
+    "quote": "The general assembly finds, determines, and declares that this act is necessary for the immediate preservation of the public peace, health, or safety",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "Bill Summary, end",
+    "quote": "APPROVED by Governor May 17, 2024 EFFECTIVE May 17, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/secondary.html",
+    "sha256": "9fbfa0f65a773ac1647b00de94e4ab8fe61ed97afd4c56a8c2dd5c487651d072",
+    "locator": "SB25B-004 Bill Summary",
+    "quote": "In 2024, the general assembly enacted Senate Bill 24-205, which created consumer protections in interactions with artificial intelligence systems. The act extends the effective date of the requirements of Senate Bill 24-205 to June 30, 2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-9b88190042/2026-10-17/official.html",
+    "sha256": "7d8397356ec61c9d46d8982ae397c7cfac91c8265ed17fe41450137bb68dc6dd",
+    "locator": "SB26-189 Bill Summary",
+    "quote": "In 2024, the general assembly enacted Senate Bill 24-205, which created consumer protections in interactions with artificial intelligence systems. The act repeals and reenacts those provisions with new requirements regarding the use of automated decision-making technology in consequential decisions.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 1",
+    "quote": "Be it enacted by the General Assembly of the State of Colorado:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 3, 6-1-1701 (9)(a)",
+    "quote": "\"HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM\" MEANS ANY ARTIFICIAL INTELLIGENCE SYSTEM THAT, WHEN DEPLOYED, MAKES, OR IS A SUBSTANTIAL FACTOR IN MAKING, A CONSEQUENTIAL DECISION.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 2, 6-1-1701 (3)",
+    "quote": "(a) EDUCATION ENROLLMENT OR AN EDUCATION OPPORTUNITY; (b) EMPLOYMENT OR AN EMPLOYMENT OPPORTUNITY; (c) A FINANCIAL OR LENDING SERVICE; (d) AN ESSENTIAL GOVERNMENT SERVICE; (e) HEALTH-CARE SERVICES; (f) HOUSING; (g) INSURANCE; OR (h) A LEGAL SERVICE.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 5, 6-1-1702 (1)",
+    "quote": "A DEVELOPER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM SHALL USE REASONABLE CARE TO PROTECT CONSUMERS FROM ANY KNOWN OR REASONABLY FORESEEABLE RISKS OF ALGORITHMIC DISCRIMINATION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 8, 6-1-1703 (2)(a)",
+    "quote": "INTELLIGENCE SYSTEM SHALL IMPLEMENT A RISK MANAGEMENT POLICY AND PROGRAM TO GOVERN THE DEPLOYER'S DEPLOYMENT OF THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 9, 6-1-1703 (3)(a)",
+    "quote": "SHALL COMPLETE AN IMPACT ASSESSMENT FOR THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 11, 6-1-1703 (4)(b)",
+    "quote": "WHICH APPEAL MUST, IF TECHNICALLY FEASIBLE, ALLOW FOR HUMAN REVIEW",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 13, 6-1-1704 (1)",
+    "quote": "SHALL ENSURE THE DISCLOSURE TO EACH CONSUMER WHO INTERACTS WITH THE ARTIFICIAL INTELLIGENCE SYSTEM THAT THE CONSUMER IS INTERACTING WITH AN ARTIFICIAL INTELLIGENCE SYSTEM.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 17, 6-1-1706 (1)",
+    "quote": "THE ATTORNEY GENERAL HAS EXCLUSIVE AUTHORITY TO ENFORCE THIS PART 17.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "Bill Summary, end",
+    "quote": "APPROVED by Governor May 17, 2024 EFFECTIVE May 17, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/official.html",
+    "sha256": "01915f8e80f8b23dd28df960763a653bb3ad3c03fc6c0a1d084ef0b0ceb53676",
+    "locator": "Session laws",
+    "quote": "05/17/2024 198 Consumer Protections for Artificial Intelligence",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 5, 6-1-1702 (1)",
+    "quote": "ON AND AFTER FEBRUARY 1, 2026, A DEVELOPER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM SHALL USE REASONABLE CARE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/secondary.html",
+    "sha256": "9fbfa0f65a773ac1647b00de94e4ab8fe61ed97afd4c56a8c2dd5c487651d072",
+    "locator": "SB25B-004 Bill Summary",
+    "quote": "The act extends the effective date of the requirements of Senate Bill 24-205 to June 30, 2026. APPROVED by Governor August 28, 2025 EFFECTIVE November 25, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/secondary.html",
+    "sha256": "9fbfa0f65a773ac1647b00de94e4ab8fe61ed97afd4c56a8c2dd5c487651d072",
+    "locator": "SB25B-004 Session laws",
+    "quote": "11/25/2025 3 Increase Transparency for Algorithmic Systems",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/secondary.html",
+    "sha256": "9fbfa0f65a773ac1647b00de94e4ab8fe61ed97afd4c56a8c2dd5c487651d072",
+    "locator": "SB25B-004 page header",
+    "quote": "SB25B-004 Increase Transparency for Algorithmic Systems Type Bill Session 2025 Extraordinary Session",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 18, 6-1-1707 (1)",
+    "quote": "THE ATTORNEY GENERAL MAY PROMULGATE RULES AS NECESSARY FOR THE PURPOSE OF IMPLEMENTING AND ENFORCING THIS PART 17",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-01/2026-10-11/document-1.pdf",
+    "sha256": "2814096f203618c2f7e9aaff9e121af67df8efcd6edfa56c5cba22835c074138",
+    "locator": "page 18, 6-1-1706 (3)(b)(III)",
+    "quote": "ANY RISK MANAGEMENT FRAMEWORK FOR ARTIFICIAL INTELLIGENCE SYSTEMS THAT THE ATTORNEY GENERAL, IN THE ATTORNEY GENERAL'S DISCRETION, MAY DESIGNATE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release of Friday, April 24, 2026",
+    "quote": "The Justice Department moved to intervene in a lawsuit filed by artificial intelligence company xAI, challenging a new Colorado law that prohibits so-called “algorithmic discrimination.”",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release",
+    "quote": "The statute, Colorado SB24-205, requires AI “developers” and “deployers” to satisfy certain disclosure, reporting, and prevention requirements",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release",
+    "quote": "AI company xAI filed a lawsuit challenging the statute on April 9.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-e7252697ac/2026-10-17/official.html",
+    "sha256": "fec697060d2afbbbe40265950d3aaf25af6b2a5a6c10674aa10c842df5ef3b4f",
+    "locator": "press release date line",
+    "quote": "Friday, April 24, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-north-america-1/US-20/extra-e8e14a7364/2026-10-17/official.pdf",
+    "sha256": "5a557f9a153f1f40c7bd885b660ed81f1b26d55a6363b778943dfaa65565e0cb",
+    "locator": "page 1, section 1",
+    "quote": "a new Colorado law banning ‘‘algorithmic discrimination’’ may even force",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17, section 5 and end of the act",
+    "quote": "Except as otherwise provided in subsection (2) of this section, this act takes effect January 1, 2027.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CO-02/2026-10-11/document-2.pdf",
+    "sha256": "cba54050dcbe4b4da65868b218ff1bdb264d08e5856e6919b6713562a730a973",
+    "locator": "page 17, end of the act",
+    "quote": "Approved: May 14, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-9b88190042/2026-10-17/official.html",
+    "sha256": "7d8397356ec61c9d46d8982ae397c7cfac91c8265ed17fe41450137bb68dc6dd",
+    "locator": "SB26-189 Bill Summary",
+    "quote": "In 2024, the general assembly enacted Senate Bill 24-205, which created consumer protections in interactions with artificial intelligence systems. The act repeals and reenacts those provisions with new requirements regarding the use of automated decision-making technology in consequential decisions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-9b88190042/2026-10-17/official.html",
+    "sha256": "7d8397356ec61c9d46d8982ae397c7cfac91c8265ed17fe41450137bb68dc6dd",
+    "locator": "SB26-189 Bill history",
+    "quote": "05/14/2026 Governor Governor Signed",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-74baecfa7f/2026-10-17/official.html",
+    "sha256": "f24aaa419d46813fdb361eeb93a6519dcf9ffb01a40c8a76380b7a9b96c058b1",
+    "locator": "The xAI lawsuit and federal court intervention",
+    "quote": "On April 9, 2026, xAI filed suit in the District Court for the District of Colorado challenging SB 205 on multiple constitutional grounds.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-74baecfa7f/2026-10-17/official.html",
+    "sha256": "f24aaa419d46813fdb361eeb93a6519dcf9ffb01a40c8a76380b7a9b96c058b1",
+    "locator": "The xAI lawsuit and federal court intervention",
+    "quote": "In turn, the attorney general would not initiate enforcement of SB 205 or investigate alleged violations of the law until 14 days after the court issues a ruling on xAI’s motion for a preliminary injunction.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-74baecfa7f/2026-10-17/official.html",
+    "sha256": "f24aaa419d46813fdb361eeb93a6519dcf9ffb01a40c8a76380b7a9b96c058b1",
+    "locator": "The xAI lawsuit and federal court intervention",
+    "quote": "On April 27, 2026, Magistrate Judge Cyrus Y. Chung granted a stipulated order sought by xAI and Colorado’s attorney general, providing that xAI would wait to file a comprehensive motion for preliminary injunction until the 28-day period following final adoption of rulemaking implementing SB 205",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-CO-01/extra-9b88190042/2026-10-17/official.html",
+    "sha256": "7d8397356ec61c9d46d8982ae397c7cfac91c8265ed17fe41450137bb68dc6dd",
+    "locator": "SB26-189 Bill history",
+    "quote": "05/14/2026 Governor Governor Signed",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_in_force": "was null; the legislature's page gives 'EFFECTIVE May 17, 2024' and the session-law table an effective date of 05/17/2024 (the act has a safety clause); the 1 Feb 2026 and 30 Jun 2026 dates for the duties go in the notes, as phased application dates",
+   "summary": "rewritten from the session law: the scope test and domains, the duties of developers and deployers, consumer disclosure and Attorney General enforcement; the unsupported 'first comprehensive US state law' and the counterfactual tense removed",
+   "notes": "rewritten from stored files: effective date and chapter, SB25B-004's extension, the xAI suit and DOJ intervention (DOJ release), the EO 14365 reference, the stipulated order of 27 Apr 2026 (law-firm alert, secondary) and the repeal and reenactment by SB 26-189 (SB26-189 page); 'it never took effect' (contradicted by 'EFFECTIVE May 17, 2024') and the 'companion complaint' (the DOJ release says it moved to intervene) removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "not_confirmed": {
+   "issuing_body": "the stored files show enactment by the General Assembly and the Governor's approval but not the Governor's name"
+  },
+  "status_reasoning": "Stored official events: approved and effective 17 May 2024; duties to apply from 1 Feb 2026, extended to 30 Jun 2026 by SB25B-004; SB 26-189, signed 14 May 2026, 'repeals and reenacts those provisions' (SB26-189 page), with effect from 1 Jan 2027 (US-CO-02's session law, section 5). The published status 'Superseded' stays: the law has been replaced by an enacted successor. As of today (18 Oct 2026) the repeal has not yet taken effect, and no stored official source says whether the 2024 duties applied from 30 Jun 2026; a law-firm alert reports a stipulated order of 27 Apr 2026 under which the Attorney General is not to enforce the law until 14 days after a ruling on a preliminary injunction motion. Raised as an open question.",
+  "scope_reasoning": "AI-specific state law on high-risk AI systems; in scope with no note.",
+  "date_reasoning": "date_published is the Governor's approval, 17 May 2024 (session law and bill history). date_in_force is the act's effective date on the same day. date_last_updated stays 14 May 2026, the Governor's signature of SB 26-189, which repeals and reenacts the act with amendments."
+ },
+ "extra_urls": [
+  {
+   "url": "https://leg.colorado.gov/bills/SB26-189",
+   "reason": "Legislature page of SB 26-189, which states that it repeals and reenacts SB 24-205's provisions and shows the Governor's signature on 14 May 2026; needed in this record's own sources for status 'Superseded' and date_last_updated 2026-05-14 (the evidence script accepts only a candidate's own stored files for those fields)."
+  },
+  {
+   "url": "https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination",
+   "reason": "DOJ press release of 24 Apr 2026 on its motion to intervene in xAI's suit against SB 24-205 (filed 9 Apr 2026); quoted in the notes from the copy stored for US-20 in run 2026-10-17-recheck-north-america-1, requested here so that it is among this record's own sources."
+  },
+  {
+   "url": "https://www.mcdermottlaw.com/insights/colorado-ai-law-in-flux-comprehensive-replacement-bill-signed-after-federal-court-blocks-predecessors-enforcement/",
+   "reason": "Secondary source (law firm) for the stipulated order of 27 Apr 2026 under which the Attorney General agreed not to enforce SB 24-205; version 1 cited it, and it bears on the open question whether the 2024 duties applied from 30 Jun 2026."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "Status between 30 Jun 2026 and 1 Jan 2027: the stored official sources show SB 24-205 took effect on 17 May 2024, its requirements were extended to 30 Jun 2026 (SB25B-004), and SB 26-189's repeal and reenactment takes effect on 1 Jan 2027. None says whether the 2024 requirements applied in between; a law-firm alert reports a stipulated federal court order of 27 Apr 2026 under which the Attorney General is not to enforce the law until 14 days after a ruling on xAI's motion for a preliminary injunction. The published status 'Superseded' is kept; a maintainer may decide whether 'In force' until 1 Jan 2027 describes it better.",
+  "issuing_body names Governor Jared Polis, but no stored file gives the Governor's name (the session law and the legislature's pages show only 'Approved' and 'Governor Signed')."
+ ]
+}

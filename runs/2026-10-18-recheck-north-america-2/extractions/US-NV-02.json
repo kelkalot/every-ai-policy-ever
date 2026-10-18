@@ -1,0 +1,172 @@
+{
+ "cand_id": "US-NV-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-NV-02",
+ "record": {
+  "notes": "Effective 26 Nov 2024. All state agencies must comply with it as a minimum; agencies are encouraged to adopt their own AI policies that meet or exceed it and must submit them to the State Technology Governance Committee annually before 1 July, and where an agency policy and the statewide policy conflict, the more stringent one prevails. Questions about permissible use cases are handled through the state's Technology Investment Notification (TIN) process. The OCIO, the Committee and the AI and Emerging Technologies Working Group are to review the policy annually. It restates that existing law (NRS 205.473 to 205.513) makes deceptive and fraudulent uses of AI or synthetic media unlawful. A draft update, developed through the AI and Emerging Technologies Working Group and endorsed by the State Technology Governance Committee for broader review, was discussed at the Governor's Technology Office's State AI Roundtable II ('Human at the Helm') on 7 July 2026; it was not final and had not been signed.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026: re-read the signed policy PDF from it.nv.gov (5 pages, stored 14 Oct 2026; text layer from a scan, with some character errors). It confirms the title, the Office of the CIO letterhead in the Governor's Office, all provisions, the compliance clause and 'Effective Date : November 26, 2024' below the signature block of the Office of the CIO as Chair of the State Technology Governance Committee; it gives no date of signature or issue, so date_published stays null. The Governor's Technology Office's page for the State AI Roundtable II of 7 Jul 2026 (it.nv.gov, stored in this run) says the draft update of the policy is not final and has not been signed; the draft itself is linked only through an Adobe Acrobat share link and is not stored. No stored source shows that the update was signed after July 2026, so the 2024 policy is treated as current. The archiver also stored a web style guide linked from the roundtable page (ada.nv.gov), which is unrelated and not used."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 1",
+    "quote": "Policy on the Responsible and Ethical Use of Artificial Intelligence in Nevada State Government Executive Branch",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 1, letterhead",
+    "quote": "GOVERNOR'S OFFICE Office of the Chief Information Officer",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 5, signature block",
+    "quote": "Office of the Governor, Office of the CIO",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 2, Governance Structure",
+    "quote": "The Office of the Chief Information Officer (OCIO)will oversee the implementation and adherence to this AI policy.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 5",
+    "quote": "Effective Date : November 26, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 5",
+    "quote": "Effective Date : November 26, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 5, Compliance",
+    "quote": "All state agencies must comply with this policy and related standards as a minimum requirement",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-NV-02/extra-74b5c7c70d/2026-10-17/official.html",
+    "sha256": "1b8ecde2c412a83d542c87a0b1b6fa0e2624aee04b934cd4b7633e8e40339a79",
+    "locator": "You're Invited to the State AI Roundtable II: Human at the Helm",
+    "quote": "It is not final and has not been signed.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 5, Compliance",
+    "quote": "All state agencies must comply with this policy and related standards as a minimum requirement",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 3, Agency Flexibility",
+    "quote": "Agencies creating their own Al policies, should submit their policies to the STGC annually, prior to July 1, to the STGC Chair for committee review.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 3, Agency Flexibility",
+    "quote": "In cases where Agency-specific policy and statewide policy may be in conflict, the more stringent policy shall have precedence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 3, Acceptable Use",
+    "quote": "the Technology Investment Notification (TIN).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C038/2026-10-14/official.pdf",
+    "sha256": "a7e9cf67a2c8a43e21ee3be3a4e8da40f74c9d53c36c6fab7fa8f95564801f6d",
+    "locator": "page 4, AI Misuse and Bad Actor Provisions",
+    "quote": "Existing law and state policy, as outlined in NRS 205.473 to NRS 205.513, stipulate that it is unlawful for any person or entity to use artificial intelligence or synthetic media to:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-NV-02/extra-74b5c7c70d/2026-10-17/official.html",
+    "sha256": "1b8ecde2c412a83d542c87a0b1b6fa0e2624aee04b934cd4b7633e8e40339a79",
+    "locator": "You're Invited to the State AI Roundtable II: Human at the Helm",
+    "quote": "The draft policy update was developed through the AI and Emerging Technologies Working Group and endorsed by the State Technology Governance Committee for broader review. It is not final and has not been signed.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-NV-02/extra-74b5c7c70d/2026-10-17/official.html",
+    "sha256": "1b8ecde2c412a83d542c87a0b1b6fa0e2624aee04b934cd4b7633e8e40339a79",
+    "locator": "You're Invited to the State AI Roundtable II: Human at the Helm",
+    "quote": "Date: Tuesday, July 7, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-north-america-2/US-NV-02/extra-74b5c7c70d/2026-10-17/official.html",
+    "sha256": "1b8ecde2c412a83d542c87a0b1b6fa0e2624aee04b934cd4b7633e8e40339a79",
+    "locator": "You're Invited to the State AI Roundtable II: Human at the Helm",
+    "quote": "The Governor's Technology Office invites you to the State AI Roundtable II: Human at the Helm, a focused discussion on the proposed update to Nevada's executive branch policy on the responsible and ethical use of artificial intelligence.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "the pending 2026 draft update (State AI Roundtable II, 7 Jul 2026; not final, not signed) added from the stored roundtable page",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The signed policy took effect on 26 Nov 2024 and binds all state agencies as a minimum. It is to be reviewed annually; the Governor's Technology Office's roundtable page of July 2026 (stored) describes a draft update as not final and not signed. Nothing stored shows that the 2024 policy was replaced, so 'In force' stands as of 18 Oct 2026.",
+  "scope_reasoning": "AI-specific policy binding all executive-branch agencies of a state; in scope with no note (a statewide rule, not one institution's own policy).",
+  "date_reasoning": "date_in_force 26 Nov 2024 from the effective-date line; the document gives no signature or issue date, so date_published stays null."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.it.nv.gov/events/state-ai-roundtable2/",
+   "reason": "OCIO page for the State AI Roundtable of 7 Jul 2026, which says a draft update of this policy was developed by the AI and Emerging Technologies Working Group, endorsed by the State Technology Governance Committee for broader review, and is not final or signed. Needed to record the pending revision in notes and to support the status."
+  }
+ ],
+ "leads": [
+  {
+   "title": "Draft update of the Policy on the Responsible and Ethical Use of Artificial Intelligence in Nevada State Government Executive Branch (2026)",
+   "url": "https://www.it.nv.gov/events/state-ai-roundtable2/",
+   "seen_in": "archive/_runs/2026-10-18-recheck-north-america-2/US-NV-02/extra-74b5c7c70d/2026-10-17/official.html (State AI Roundtable II page, which links the draft only through an Adobe Acrobat share link)",
+   "why": "A revision of US-NV-02 in review in 2026; if signed it would supersede or amend the 2024 policy."
+  }
+ ],
+ "open_questions": [
+  "Was the 2026 draft update of the policy signed after the roundtable of 7 Jul 2026? If so, it supersedes or amends this record; no stored source shows it."
+ ]
+}

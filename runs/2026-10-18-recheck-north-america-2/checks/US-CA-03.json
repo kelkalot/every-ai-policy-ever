@@ -1,0 +1,50 @@
+{
+ "cand_id": "US-CA-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "The bill covered models costing over $100 million to train and would create CalCompute and whistleblower protections",
+   "verdict": "supported",
+   "locator": "Senate release of 29 Aug 2024 (extra-aaac069a1d)"
+  },
+  {
+   "claim": "Safety incidents reported to the state within 72 hours; full shutdown capability; third-party audits",
+   "verdict": "supported",
+   "locator": "Assembly analysis of the 5 Jun 2024 version, pages 4-5; enrolled text not stored"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The veto on 29 Sep 2024 is shown by the veto message itself. No newer version exists for a vetoed bill; search found no revival. The duty list quotes an analysis of an earlier amended version, not the enrolled bill, as the extractor noted; the claims are all in the stored text."
+}

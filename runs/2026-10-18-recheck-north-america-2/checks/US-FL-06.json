@@ -1,0 +1,56 @@
+{
+ "cand_id": "US-FL-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Generating an altered sexual depiction without consent is a third-degree felony; 'generate' covers computer-generated means",
+   "verdict": "supported",
+   "locator": "s. 836.13(1)(c), (2)"
+  },
+  {
+   "claim": "Civil action lies against those who generate or possess to promote; USD 10,000 or actual damages",
+   "verdict": "supported",
+   "locator": "s. 836.13(7), (7)(b)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope_note kept: not AI-specific, included for the generation offence."
+ },
+ "overall": "accept",
+ "note": "Summary fix (civil action against generators and promoters, not every possessor) is supported by s. 836.13(7). No newer enactment found for this act."
+}

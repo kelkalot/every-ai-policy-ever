@@ -1,0 +1,53 @@
+{
+ "cand_id": "US-NV-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Six principles including fairness and equity, privacy, safety and security, and transparency, with governance by the STGC and OCIO",
+   "verdict": "supported",
+   "locator": "page 2 Governance Structure; stored policy PDF"
+  },
+  {
+   "claim": "All state agencies must comply as a minimum; the more stringent policy prevails where an agency policy conflicts",
+   "verdict": "supported",
+   "locator": "page 3 Agency Flexibility and page 5 Compliance"
+  }
+ ],
+ "newer_versions": [
+  {
+   "what": "Draft update of the policy discussed at the State AI Roundtable II on 7 Jul 2026; the stored official page says it is not final and has not been signed",
+   "url": "https://www.it.nv.gov/events/state-ai-roundtable2/",
+   "status": "not signed; no change to the record"
+  }
+ ],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "A statewide executive-branch AI policy issued by the Office of the CIO; in scope as a government AI risk-management framework."
+ },
+ "overall": "accept",
+ "note": "The added note on the unsigned 2026 draft is backed by the stored it.nv.gov roundtable page. The search found no signed update. The 2024 policy stays current; the open question about a later signing is kept."
+}

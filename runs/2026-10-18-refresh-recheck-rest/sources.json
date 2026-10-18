@@ -1,0 +1,534 @@
+{
+ "EC-01": {
+  "main": {
+   "status": "archived",
+   "flag": null,
+   "last_attempt": "2026-10-18T08:10:27Z",
+   "files": [
+    {
+     "role_key": "official",
+     "role": "official",
+     "label": "Official source",
+     "path": "archive/EC-01/2026-10-17/official.html",
+     "url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+     "final_url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 38489,
+     "sha256": "dac31cca163646b8c147e534f5550f31f3c4f0bf5205f43c0eafd7cc8886e236",
+     "text_sha256": "0cc9254b85ddb94008602612151eb12b4dd429ea0c7cb4d3183186166a5bf974",
+     "retrieved_at": "2026-10-17T23:17:05Z",
+     "last_checked": "2026-10-18T08:10:32Z",
+     "method": "http",
+     "last_modified": "Sat, 17 Oct 2026 20:44:46 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": "818f0628d9291f67829cd04a199fc9c951acf15e1cfc251fc2de87d031839988",
+     "previous_path": "archive/EC-01/2026-10-12/official.html",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "document-1",
+     "role": "document",
+     "label": "Linked document (PDF)",
+     "path": "archive/EC-01/2026-10-12/document-1.pdf",
+     "url": "http://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-1/documentos/codigo-deontologico.pdf",
+     "final_url": "https://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-1/documentos/codigo-deontologico.pdf",
+     "http_status": 200,
+     "content_type": "application/pdf",
+     "bytes": 339319,
+     "sha256": "0f81c3d670895acfe07af3578090ef609dfc37702a608a551fcb2699f4c4c1fc",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-12T04:49:29Z",
+     "last_checked": "2026-10-18T08:10:39Z",
+     "method": "http",
+     "last_modified": "Fri, 11 Apr 2014 01:58:47 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    },
+    {
+     "role_key": "secondary",
+     "role": "secondary",
+     "label": "Secondary source",
+     "path": "archive/EC-01/2026-10-17/secondary.html",
+     "url": "https://www.asambleanacional.gob.ec/es/node/118898",
+     "final_url": "https://www.asambleanacional.gob.ec/es/node/118898",
+     "http_status": 200,
+     "content_type": "text/html",
+     "bytes": 34519,
+     "sha256": "b300e0d4f66b8f2516133d4062a8555f578ec37e5e9e8d3d376377c90f162739",
+     "text_sha256": "e8d1e6686848fd1c8e29a7e09ac9cee940516a9ae03a33bdc319573905563dd6",
+     "retrieved_at": "2026-10-17T23:17:16Z",
+     "last_checked": "2026-10-18T08:10:43Z",
+     "method": "http",
+     "last_modified": "Sat, 17 Oct 2026 23:17:40 GMT",
+     "etag": null,
+     "changed": false,
+     "previous_sha256": "1ef72d5a10e9cae74ea6487f018d25ba1c6597accce67bf5fafa51da0c3682ec",
+     "previous_path": "archive/EC-01/2026-10-12/secondary.html",
+     "stale": false,
+     "warning": null,
+     "integrity": "ok"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+     "attempted_at": "2026-10-12T04:49:22Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "http://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-1/documentos/codigo-deontologico.pdf",
+     "attempted_at": "2026-10-12T04:49:29Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.asambleanacional.gob.ec/es/node/118898",
+     "attempted_at": "2026-10-12T04:49:32Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+     "attempted_at": "2026-10-17T23:17:05Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "http://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-1/documentos/codigo-deontologico.pdf",
+     "attempted_at": "2026-10-17T23:17:12Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.asambleanacional.gob.ec/es/node/118898",
+     "attempted_at": "2026-10-17T23:17:16Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+     "attempted_at": "2026-10-18T08:10:32Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "document",
+     "url": "http://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-1/documentos/codigo-deontologico.pdf",
+     "attempted_at": "2026-10-18T08:10:39Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    },
+    {
+     "role": "secondary",
+     "url": "https://www.asambleanacional.gob.ec/es/node/118898",
+     "attempted_at": "2026-10-18T08:10:43Z",
+     "ok": true,
+     "http_status": 200,
+     "error": null,
+     "method": "http"
+    }
+   ]
+  },
+  "extras": {
+   "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/gUzisz48Q-eS3HfIkzxpQw/content/003-01_INFORME_PARA_PRIMER_DEBATE_31-08-26.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T08:22:34Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-27e8ef8e84/2026-10-18/official.pdf",
+      "url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/gUzisz48Q-eS3HfIkzxpQw/content/003-01_INFORME_PARA_PRIMER_DEBATE_31-08-26.pdf",
+      "final_url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/gUzisz48Q-eS3HfIkzxpQw/content/003-01_INFORME_PARA_PRIMER_DEBATE_31-08-26.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1238182,
+      "sha256": "8ee94f5c5f441ebf14693efd35a3a4ccf89ea002317cdec7dd81ce7e3af4e364",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T08:22:48Z",
+      "last_checked": "2026-10-18T08:22:48Z",
+      "method": "http",
+      "last_modified": "Thu, 17 Sep 2026 13:01:52 GMT",
+      "etag": "\"1789650112875\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/gUzisz48Q-eS3HfIkzxpQw/content/003-01_INFORME_PARA_PRIMER_DEBATE_31-08-26.pdf",
+      "attempted_at": "2026-10-18T08:22:48Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/IEjJ2J2vSFaO_Rraq5VsNg/content/012_ACTA_123-AN-2025-2029_PLENO_15-09-2026.pdf": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T08:22:34Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-a687cd5b80/2026-10-18/official.pdf",
+      "url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/IEjJ2J2vSFaO_Rraq5VsNg/content/012_ACTA_123-AN-2025-2029_PLENO_15-09-2026.pdf",
+      "final_url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/IEjJ2J2vSFaO_Rraq5VsNg/content/012_ACTA_123-AN-2025-2029_PLENO_15-09-2026.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 8035037,
+      "sha256": "6f80136ded6a2baeb0de86208224cbcba85a48819b4598498a44516f281517df",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T08:22:44Z",
+      "last_checked": "2026-10-18T08:22:44Z",
+      "method": "http",
+      "last_modified": "Thu, 24 Sep 2026 18:42:17 GMT",
+      "etag": "\"1790275337529\"",
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://repositorioctic.asambleanacional.gob.ec/share/proxy/alfresco-noauth/api/internal/shared/node/IEjJ2J2vSFaO_Rraq5VsNg/content/012_ACTA_123-AN-2025-2029_PLENO_15-09-2026.pdf",
+      "attempted_at": "2026-10-18T08:22:44Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://archivo.asambleanacional.gob.ec/index.php/005-acta-123-an-2025-2029-pleno-15-09-26": {
+    "status": "archived",
+    "flag": null,
+    "last_attempt": "2026-10-18T08:22:34Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-11192cdde1/2026-10-18/official.html",
+      "url": "https://archivo.asambleanacional.gob.ec/index.php/005-acta-123-an-2025-2029-pleno-15-09-26",
+      "final_url": "https://archivo.asambleanacional.gob.ec/index.php/005-acta-123-an-2025-2029-pleno-15-09-26",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 57219,
+      "sha256": "4b12659d8b25bbee117e2403e48929b09a25b881c47df3f13c2d722c2cdb83ec",
+      "text_sha256": "609007a1c9bf732630b9605040ad96934508bf31ad1159a4eb2cae428b786e4a",
+      "retrieved_at": "2026-10-18T08:22:39Z",
+      "last_checked": "2026-10-18T08:22:39Z",
+      "method": "http",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://archivo.asambleanacional.gob.ec/index.php/005-acta-123-an-2025-2029-pleno-15-09-26",
+      "attempted_at": "2026-10-18T08:22:39Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     }
+    ]
+   },
+   "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion": {
+    "status": "archived-review",
+    "flag": "The page barely mentions the document's title; check that the URL still points to this document.",
+    "last_attempt": "2026-10-18T08:22:34Z",
+    "files": [
+     {
+      "role_key": "official",
+      "role": "official",
+      "label": "Official source",
+      "path": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official.html",
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "final_url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 39074,
+      "sha256": "371d94382c958ed6cdb16c76dc7c0f10e3eeba1400bbd45982e4d9513889e71b",
+      "text_sha256": "1285240b92086507e20d1e00a37436e34dc1376803e28a29ca2076c547a3cc6c",
+      "retrieved_at": "2026-10-18T08:22:39Z",
+      "last_checked": "2026-10-18T08:22:39Z",
+      "method": "http",
+      "last_modified": "Sun, 18 Oct 2026 06:02:27 GMT",
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page barely mentions the document's title; check that the URL still points to this document",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-rendered",
+      "role": "official-rendered",
+      "label": "Official source, rendered in a browser",
+      "path": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official-rendered.html",
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "final_url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 50423,
+      "sha256": "bbf23e8dbee277bfff45e6b877251cddce9b72b3385893b4591410d4cd3a3f6f",
+      "text_sha256": "73bfc5bdaaabf80626026f572280882ff8631146e8aef9b5d523f5b539a353c5",
+      "retrieved_at": "2026-10-18T08:22:54Z",
+      "last_checked": "2026-10-18T08:22:54Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": "The page barely mentions the document's title; check that the URL still points to this document",
+      "integrity": "ok"
+     },
+     {
+      "role_key": "official-print",
+      "role": "official-print",
+      "label": "Official source, printed to PDF by a browser",
+      "path": "archive/_runs/2026-10-18-refresh-recheck-rest/EC-01/extra-eb9e4cf8f5/2026-10-18/official-print.pdf",
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "final_url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 97910,
+      "sha256": "cf598fbc155b366c84c47cdec0ec22cf921a0126c6199019e4490562f3ab9a91",
+      "text_sha256": null,
+      "retrieved_at": "2026-10-18T08:22:54Z",
+      "last_checked": "2026-10-18T08:22:54Z",
+      "method": "browser",
+      "last_modified": null,
+      "etag": null,
+      "changed": false,
+      "previous_sha256": null,
+      "previous_path": null,
+      "stale": false,
+      "warning": null,
+      "integrity": "ok"
+     }
+    ],
+    "attempts": [
+     {
+      "role": "official",
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "attempted_at": "2026-10-18T08:22:39Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "http"
+     },
+     {
+      "role": "official-rendered",
+      "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/97303-proyecto-de-ley-organica-de-regulacion",
+      "attempted_at": "2026-10-18T08:22:54Z",
+      "ok": true,
+      "http_status": 200,
+      "error": null,
+      "method": "browser"
+     }
+    ]
+   }
+  },
+  "record_id": "EC-01"
+ },
+ "PH-01": {
+  "main": {
+   "status": "archived",
+   "flag": "The browser retry also failed (Browser could not load the page: Page.goto: Timeout 45000ms exceeded.). The official site does not allow automated downloads; the stored copy was provided by Michael Riegler and confirmed by Michael Riegler (issue #155).",
+   "last_attempt": "2026-10-18T08:10:27Z",
+   "files": [
+    {
+     "role_key": "provided",
+     "role": "provided",
+     "label": "Official source, a copy provided by a person because the site does not allow automated downloads",
+     "path": "archive/PH-01/2026-10-18/provided.pdf",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "final_url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "http_status": null,
+     "content_type": "application/pdf",
+     "bytes": 247611,
+     "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+     "text_sha256": null,
+     "retrieved_at": "2026-10-18T08:09:07Z",
+     "last_checked": "2026-10-18T08:09:07Z",
+     "method": "provided",
+     "last_modified": null,
+     "etag": null,
+     "changed": false,
+     "previous_sha256": null,
+     "previous_path": null,
+     "stale": false,
+     "warning": null,
+     "integrity": "ok",
+     "provided_by": "Michael Riegler",
+     "confirmed_by": "Michael Riegler",
+     "issue": 155,
+     "note": "downloaded in a browser; the archiver gets HTTP 403"
+    }
+   ],
+   "attempts": [
+    {
+     "role": "official",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-11T19:39:39Z",
+     "ok": false,
+     "http_status": 403,
+     "error": "HTTP 403 Forbidden",
+     "method": "http"
+    },
+    {
+     "role": "official-rendered",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-11T19:41:02Z",
+     "ok": false,
+     "http_status": null,
+     "error": "Browser could not load the page: Page.goto: Timeout 45000ms exceeded.",
+     "method": "browser"
+    },
+    {
+     "role": "official",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-16T11:39:39Z",
+     "ok": false,
+     "http_status": 403,
+     "error": "HTTP 403 Forbidden",
+     "method": "http"
+    },
+    {
+     "role": "official",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-17T14:28:40Z",
+     "ok": false,
+     "http_status": 403,
+     "error": "HTTP 403 Forbidden",
+     "method": "http"
+    },
+    {
+     "role": "official-rendered",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-17T14:32:40Z",
+     "ok": false,
+     "http_status": null,
+     "error": "Browser could not load the page: Page.goto: Timeout 45000ms exceeded.",
+     "method": "browser"
+    },
+    {
+     "role": "official",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-18T00:48:48Z",
+     "ok": false,
+     "http_status": 403,
+     "error": "HTTP 403 Forbidden",
+     "method": "http"
+    },
+    {
+     "role": "official-rendered",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-18T00:50:20Z",
+     "ok": false,
+     "http_status": null,
+     "error": "Browser could not load the page: Page.goto: Timeout 45000ms exceeded.",
+     "method": "browser"
+    },
+    {
+     "role": "official",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-18T03:00:08Z",
+     "ok": false,
+     "http_status": 403,
+     "error": "HTTP 403 Forbidden",
+     "method": "http"
+    },
+    {
+     "role": "official-rendered",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-18T03:03:08Z",
+     "ok": false,
+     "http_status": null,
+     "error": "Browser could not load the page: Page.goto: Timeout 45000ms exceeded.",
+     "method": "browser"
+    },
+    {
+     "role": "official",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-18T08:10:31Z",
+     "ok": false,
+     "http_status": 403,
+     "error": "HTTP 403 Forbidden",
+     "method": "http"
+    },
+    {
+     "role": "official-rendered",
+     "url": "https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+     "attempted_at": "2026-10-18T08:11:28Z",
+     "ok": false,
+     "http_status": null,
+     "error": "Browser could not load the page: Page.goto: Timeout 45000ms exceeded.",
+     "method": "browser"
+    }
+   ]
+  },
+  "extras": {},
+  "record_id": "PH-01"
+ }
+}

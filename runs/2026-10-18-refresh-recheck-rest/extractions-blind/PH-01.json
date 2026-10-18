@@ -1,0 +1,99 @@
+{
+ "cand_id": "PH-01",
+ "decision": "update",
+ "target_id": "PH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "record": {
+  "verification": {
+   "note": "The maintainer stored the signed advisory with archive.py --provide (issue #155) because privacy.gov.ph refuses the archiver (HTTP 403, browser timeout); the stored PDF is the record's official source. It was read in full (5 pages) and confirms the advisory number, reference number, 19 December 2024 date, subject, scope (development and deployment of AI systems, including training and testing), the substantive sections on transparency, accountability, fairness, accuracy, data minimisation and data-subject rights, and the three signatories. The text has no effectivity clause and does not state its own legal force; legal force 'Non-binding' and the sentence on advisories in notes rest on the advisory's form as an NPC advisory, not on a quoted clause. The reference to Advisory No. 2024-03 in notes and the statement on pending bills are not in this document and were not re-confirmed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1",
+    "quote": "GUIDELINES ON THE APPLICATION OF REPUBLIC ACT",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1",
+    "quote": "NATIONAL PRIVACY COMMISSION",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1",
+    "quote": "Ref No.: DPCD-24-00678",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1",
+    "quote": "NPC Advisory No. 2024 – 04",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1",
+    "quote": "DATE : 19 December 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 5",
+    "quote": "Approved:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1",
+    "quote": "NPC Advisory No. 2024 – 04",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [],
+  "date_last_updated": []
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "the official source is now the maintainer-provided stored PDF; note rewritten accordingly"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force",
+   "date_in_force",
+   "date_last_updated"
+  ],
+  "status_reasoning": "The advisory is signed ('Approved' by the Commissioner and two Deputy Commissioners) and dated 19 December 2024. The text has no repeal, supersession or effectivity clause, and nothing stored shows an amendment, so 'Published (non-binding, current)' stands. date_in_force stays null: no commencement date in the text.",
+  "scope_reasoning": "A privacy regulator's guidelines on AI systems processing personal data; in scope under AGENTS.md section 10 (horizontal supervisory authority guidance on AI), no scope_note needed."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The advisory text does not itself state whether it is binding; 'Non-binding' rests on its form as an NPC advisory. original_title is null correctly (the text is in English)."
+ ]
+}

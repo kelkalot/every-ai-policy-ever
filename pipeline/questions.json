@@ -2235,12 +2235,12 @@
     "EC-01"
    ],
    "title": "EC-01 Ecuador AI bill (archived 2026): open question from run 2026-10-18-recheck-americas-1",
-   "state": "open",
+   "state": "decided",
    "issue": 150,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/150",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "kept the published values"
   },
   {
    "key": "record:US-NE-01@2026-10-18-recheck-americas-1",
@@ -2331,12 +2331,13 @@
     "PH-01"
    ],
    "title": "PH-01 Philippines NPC AI advisory (2024-04): open question from run 2026-10-18-recheck-south-asia-1",
-   "state": "open",
+   "state": "settled",
    "issue": 155,
    "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/155",
    "opened": "2026-10-18",
-   "closed": null,
-   "resolution": null
+   "closed": "2026-10-18",
+   "resolution": "settled by a later run or decision",
+   "closed_on_github": true
   },
   {
    "key": "record:PK-01@2026-10-18-recheck-south-asia-1",
@@ -2745,6 +2746,24 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-18-refresh-level-rule-2 (5 records)"
+  },
+  {
+   "key": "sample:2026-10-18-refresh-recheck-rest",
+   "kind": "sample",
+   "subject": "2026-10-18-refresh-recheck-rest",
+   "run_id": "2026-10-18-refresh-recheck-rest",
+   "records": [
+    "EC-01",
+    "PH-01"
+   ],
+   "why": "Human sample of run 2026-10-18-refresh-recheck-rest: check each record against its stored sources.",
+   "state": "open",
+   "issue": 194,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/194",
+   "opened": "2026-10-18",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-18-refresh-recheck-rest (2 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

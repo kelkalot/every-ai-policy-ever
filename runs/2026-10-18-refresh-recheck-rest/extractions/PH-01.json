@@ -1,0 +1,121 @@
+{
+ "cand_id": "PH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PH-01",
+ "record": {
+  "title": "NPC Advisory No. 2024-04: Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data",
+  "summary": "Advisory of the Philippine National Privacy Commission on how the Data Privacy Act of 2012, its implementing rules and Commission issuances apply when personal data are processed to develop or deploy AI systems, including training and testing. Controllers must explain the purpose, inputs, risks, expected output and impact of the processing; remain accountable, including for processors; set up governance such as privacy impact assessments, continuous monitoring and an AI ethics board; provide meaningful human intervention and a way to contest automated decisions that pose a significant risk; identify and limit bias; avoid 'AI washing'; and keep data-subject rights exercisable throughout.",
+  "notes": "Signed by Privacy Commissioner John Henry D. Naga and Deputy Privacy Commissioners Leandro Angelo Y. Aguirre and Nerissa N. de Jesus. Issued under Section 7(g) of the Data Privacy Act, which empowers the Commission to publish a guide to all laws relating to data protection, and Section 9 of the Act's implementing rules. Its description of AI systems cites the EU High-Level Expert Group's Ethics Guidelines for Trustworthy AI, the OECD Recommendation on Artificial Intelligence, ISO/IEC 22989:2022 and NIST AI 600-1. The advisory states that publicly available personal data keep the Act's protection, and that incorporating personal data into data sets does not by itself make data-subject requests unreasonable.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. privacy.gov.ph refuses the archiver (HTTP 403, and the browser retries time out), so a maintainer downloaded the signed advisory in a browser from the official URL and stored it with archive.py --provide (issue #155); it is the record's official source. The stored PDF (5 pages, text layer read with pypdf) confirms the advisory number, the reference number DPCD-24-00678, the date of 19 December 2024, the subject (the full official title), the legal basis (Section 7(g) of the Data Privacy Act and Section 9 of its implementing rules), the scope (development or deployment of AI systems, including training and testing), the substantive sections and the three signatories. Nothing stored shows a later amendment or replacement. Earlier statements in the notes that the advisory was issued alongside NPC Advisory No. 2024-03 and about pending AI bills rest on no stored source and were dropped."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 2, WHEREFORE clause",
+    "quote": "the NPC hereby issues this Advisory on the Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the issuances of the Commission to Artificial Intelligence Systems Processing Personal Data",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, heading",
+    "quote": "NPC Advisory No. 2024 – 04",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, heading",
+    "quote": "DATE : 19 December 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 5, signature block",
+    "quote": "Approved: SGD. JOHN HENRY D. NAGA Privacy Commissioner",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 2, Section 1",
+    "quote": "SECTION 1. Scope. — This Advisory applies when the processing of personal data is involved in the development or deployment of AI systems, including its training and testing.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, letterhead",
+    "quote": "Republic of the Philippines NATIONAL PRIVACY COMMISSION",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, first recital",
+    "quote": "WHEREAS, Section 7 (g) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) empowers the National Privacy Commission (NPC) to publish, on a regular basis, a guide to all laws relating to data protection",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, heading",
+    "quote": "NPC Advisory No. 2024 – 04",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, header",
+    "quote": "Ref No.: DPCD-24-00678",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/PH-01/2026-10-18/provided.pdf",
+    "sha256": "93a9c89b33f2182ba5be1bb9886401a30bad08d3838b52c39f15ff8c2c8b7e2e",
+    "locator": "page 1, recitals",
+    "quote": "WHEREAS, it is necessary to provide additional guidance regarding the application of the general privacy principles and specific key concepts in the DPA, its IRR, and the issuances of the Commission insofar as the AI systems involve the processing of personal data",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the shortened title -> the full official subject of the advisory, as the WHEREFORE clause and the heading give it (adds 'Republic Act No. 10173 or the' and '(DPA)')",
+   "summary": "rewritten from the stored text: drops 'profiling' and 'security measures proportionate to AI risks', which the advisory does not say, and adds its accountability, governance (PIA, monitoring, AI ethics board), human intervention and contestation of automated decisions, bias and AI-washing provisions",
+   "notes": "kept the signatories; added the legal basis and the sources of the AI definition from the advisory; dropped the claims that NPC advisories are not regulations, that it was issued alongside Advisory 2024-03 and that AI bills are pending, which no stored source supports",
+   "verification.note": "rewritten: the official source is now stored as a copy provided by a maintainer (issue #155)"
+  },
+  "confirmed": [
+   "date_published",
+   "status",
+   "issuing_body",
+   "official_identifier",
+   "legal_force"
+  ],
+  "status_reasoning": "An advisory of the National Privacy Commission dated 19 December 2024 and approved by the Privacy Commissioner and both Deputy Privacy Commissioners (signature block, page 5). It applies the Data Privacy Act, its implementing rules and NPC issuances to AI systems and provides 'additional guidance'; it is not itself a regulation or circular, so it is non-binding guidance. Nothing in the stored file or elsewhere stored in this run shows it amended, superseded or withdrawn as of 18 Oct 2026, so 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "AI-specific guidance of the national data protection authority on AI systems processing personal data: in scope with no note (AGENTS.md section 10; scope-decisions: AI-specific guidance of a data protection authority is in).",
+  "source_kind_reasoning": "The stored PDF is the signed advisory itself, downloaded by a maintainer from privacy.gov.ph and stored with archive.py --provide in the role 'provided' (issue #155): the instrument's own text, so official.",
+  "topics_reasoning": "Topics unchanged: accountability (Section 2.B), transparency (Section 2.A, explaining purpose, inputs, risks, output and impact) and human oversight (Section 2.B.2.a, meaningful human intervention and contesting automated decisions) are all in the text."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

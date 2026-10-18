@@ -1,0 +1,109 @@
+{
+ "run_id": "2026-10-18-refresh-recheck-rest",
+ "generated": "2026-10-18",
+ "compared": 2,
+ "pending": [],
+ "overall_field_agreement": 0.0,
+ "fields": {
+  "decision": {
+   "compared": 2,
+   "agree": 2,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "original_title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "issuing_body": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "official_identifier": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_published": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_in_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  }
+ },
+ "disagreements": {
+  "EC-01": [
+   {
+    "field": "safety_topics",
+    "first": [
+     "risk-based classification",
+     "prohibited practices",
+     "human oversight",
+     "transparency & labelling",
+     "general-purpose / frontier AI",
+     "accountability & liability"
+    ],
+    "blind": null
+   }
+  ],
+  "PH-01": [
+   {
+    "field": "title",
+    "first": "NPC Advisory No. 2024-04: Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data",
+    "blind": null
+   }
+  ]
+ },
+ "resulting_record_agreement": 0.957,
+ "resulting_record_fields": 23
+}

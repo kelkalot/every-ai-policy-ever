@@ -1,0 +1,62 @@
+{
+ "cand_id": "PH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "The proposed title is the full official subject line (page 1) and WHEREFORE clause (page 2), which include 'Republic Act No. 10173 or ' and '(DPA)'; the published title dropped these. The blind extraction left the published title unchanged; the verbatim version is better supported, so the extractor's title is settled."
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "Letterhead 'National Privacy Commission'."
+  },
+  "official_identifier": {
+   "verdict": "supported",
+   "why": "'NPC Advisory No. 2024 – 04' and 'Ref No.: DPCD-24-00678' on page 1."
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "'DATE : 19 December 2024', page 1."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Signed ('Approved: SGD.') by the Commissioner and two Deputy Commissioners; no repeal or supersession clause and no later official instrument found."
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "The text calls itself an Advisory giving 'additional guidance' and has no effectivity or sanctions clause; 'Non-binding' rests on that form, not on a quoted statement. Value unchanged."
+  },
+  "safety_topics": {
+   "verdict": "supported",
+   "why": "Accountability (Sec. 2B), transparency (2A) and human intervention (2B.2a) are in the text."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Controllers must explain purpose, inputs, risks, expected output and impact",
+   "verdict": "supported",
+   "locator": "page 2, Section 2.A"
+  },
+  {
+   "claim": "AI ethics board, privacy impact assessments, continuous monitoring; meaningful human intervention and contest of automated decisions; 'AI washing'",
+   "verdict": "supported",
+   "locator": "page 3, Section 2.B.2 and 2.C"
+  },
+  {
+   "claim": "Notes: publicly available data keep protection; incorporation in data sets does not make requests unreasonable; sources cited in footnote 1",
+   "verdict": "supported",
+   "locator": "page 4 Section 2.F and 3.C; page 1 footnote 1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": "Horizontal supervisory authority (data protection) guidance on AI, in scope under section 10."
+ },
+ "overall": "accept",
+ "note": "Level A holds on the maintainer-provided signed PDF (role provided, hash confirmed against SHA256SUMS), which is the record's official source (issue #155). All quotes match the stored text. The title is changed to the full official wording. 'Non-binding' is an inference from the form of the document. One targeted search found no amendment or replacement; only the original PDF and law-firm commentary appeared. Note: archive/PH-01/2026-10-18 also holds provided-2.pdf with the same hash, not listed in the record's local_copy; harmless."
+}

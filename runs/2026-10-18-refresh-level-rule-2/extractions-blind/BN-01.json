@@ -1,0 +1,120 @@
+{
+ "cand_id": "BN-01",
+ "decision": "update",
+ "target_id": "BN-01",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 1",
+    "quote": "Governance and Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "main text",
+    "quote": "Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "main text",
+    "quote": "Garis Panduan Tadbir Urus dan Etika Kecerdasan Buatan untuk Brunei Darussalam",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12",
+    "quote": "The Guide is a working document developed by Authority of",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "main text",
+    "quote": "Authority for Infocommunications Technology Industry of Brunei Darussalam",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "main text",
+    "quote": "Friday, April 11, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12",
+    "quote": "(AITI), in collaboration with the AI Governance and Ethics",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-0d89e16a1e/2026-10-18/official-rendered.html",
+    "sha256": "50f5dabd84a9cc403f52f6743f11cd0cd8a0c4bc590096ca1090e01767e4ff04",
+    "locator": "main text",
+    "quote": "Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12",
+    "quote": "set of considerations and safeguards in accordance with the following",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 11",
+    "quote": "principles and safeguards which organisations should consider.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-0d89e16a1e/2026-10-18/official-rendered.html",
+    "sha256": "50f5dabd84a9cc403f52f6743f11cd0cd8a0c4bc590096ca1090e01767e4ff04",
+    "locator": "main text",
+    "quote": "Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "AITI's press release of 11 April 2025 announces the guide; the guide says it may be amended periodically. AITI's AI governance page lists a 'Second Edition' next to the guide without a date, so the guide may have been replaced. date_last_updated stays null because the Second Edition's date is not in a stored text.",
+  "scope_reasoning": "Government AI governance and ethics guide; in scope without a note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "AITI's AI governance page lists 'Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)', which is stored only as a link; its text, date and relation to this guide are unknown, and the status may be Superseded.",
+  "The guide PDF is in English; the record's language 'English, Malay' and original_title rest on AITI's bilingual press release, not on the guide itself."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

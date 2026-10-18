@@ -1,0 +1,190 @@
+{
+ "cand_id": "KR-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KR-04",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the guideline (nia.or.kr, PDF, 33 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; the cover page has no text layer, and its image shows the title and the logos of TTA and MSIT but no date); MSIT's press release of 21 January 2026 on korea.kr, as the record's secondary source (copy of 18 Oct 2026, whose text layer holds only the headline, the posting date and the attachment names, and which differs from the copy of 14 Oct 2026 only in the site's sidebar) and, stored in this run, as a page and a printed copy with the full release text; and NIA's notice of 22 January 2026 distributing the AI Basic Act guidelines, stored in this run. The guideline confirms the title, the three Article 31 duties, the deepfake definition, the duty holder and the marking rules. It carries no date of its own, so the publication date rests on the press release (distributed 21 January for the morning papers of 22 January, saying MSIT published the guideline on 22 January) and NIA's notice of 22 January 2026. Both are announcements and count as alt-official, so the record is level B until an official record dating the guideline is stored. The press release also confirms the September 2025 draft, the guidance period of at least one year, the responsible AI Safety and Trust Support Division and publication on the MSIT and TTA websites; NIA's notice confirms the file dated 26 January 2026, the change of 27 January 2026 and that the posted files are the current versions. The archiver flagged the two pages stored in this run for review because they barely mention the guideline's title; they are the press release and the notice that distribute it."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/KR-04/2026-10-12/official.pdf",
+    "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+    "locator": "page 3, contents page heading",
+    "quote": "인공지능 투명성 확보 가이드라인",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-04/2026-10-18/secondary.html",
+    "sha256": "0689e0522d9afd8f5603fbdbb3063df6aedd1f54cec68d2845b537ade25d9501",
+    "locator": "press release headline",
+    "quote": "과기정통부, 「인공지능 투명성 확보 가이드라인」 공개",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, attachment list",
+    "quote": "1._260126_인공지능_투명성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/KR-04/2026-10-12/official.pdf",
+    "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+    "locator": "page 3, contents page heading",
+    "quote": "인공지능 투명성 확보 가이드라인",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, attachment list",
+    "quote": "1._260126_인공지능_투명성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2, first paragraph of the press release",
+    "quote": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 1월 22일「인공지능 발\n전과 신뢰 기반 조성 등에 관한 기본법」(이하 ‘인공지능 기본법’)상 투명성 확보 의무(제31조)의 구체적인\n이행 방안을 담은「인공지능 투명성 확보 안내 지침(가이드라인)」을 공개하였다.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 4, contacts",
+    "quote": "인공지능 안전 신뢰지원과 담당자 사무관 이지성",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 4, last paragraph",
+    "quote": "「인공지능 투명성 확보 안내 지침(가이드라인)」은 과기정통부(https://www.msit.go.kr) 및 한국정보통신기술협회\n(TTA) 누리집(https://www.tta.or.kr)을 통해 확인할 수 있다.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, attachment list",
+    "quote": "1._260126_인공지능_투명성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2, release line",
+    "quote": "보도 시점 2026. 1. 21.(수) 12:00(2026. 1. 22.(목) 조간) 배포 2026. 1. 21.(수)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2, first paragraph of the press release",
+    "quote": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 1월 22일「인공지능 발\n전과 신뢰 기반 조성 등에 관한 기본법」(이하 ‘인공지능 기본법’)상 투명성 확보 의무(제31조)의 구체적인\n이행 방안을 담은「인공지능 투명성 확보 안내 지침(가이드라인)」을 공개하였다.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, heading and date",
+    "quote": "AI기본법 시행 및 하위법령 공개(1.22.~) 2026.01.22",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, revision notices",
+    "quote": "[안내] 2026년 1월 27일(화), \"인공지능 투명성 확보 가이드라인\" 수정본 업로드",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, attachment list",
+    "quote": "1._260126_인공지능_투명성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/KR-04/2026-10-12/official.pdf",
+    "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+    "locator": "page 6, 적용 대상 및 범위",
+    "quote": "인공지능 투명성 확보 의무는 이용자에게 최종적으로 AI 제품 및 서비스를 제공하는 인공지능사업자에게 부과",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+    "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+    "locator": "NIA notice, text",
+    "quote": "AI기본법 하위법령(가이드라인)의 현재본이 공개되었습니다.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KR-04/2026-10-18/secondary.html",
+    "sha256": "0689e0522d9afd8f5603fbdbb3063df6aedd1f54cec68d2845b537ade25d9501",
+    "locator": "press release headline",
+    "quote": "과기정통부, 「인공지능 투명성 확보 가이드라인」 공개",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2, headline of the press release",
+    "quote": "과기정통부, 「인공지능 투명성 확보 안내 지침(가이드라인)」 공개",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 4, first paragraph",
+    "quote": "또한, 안내 지침(가이드라인) 공개 후 계도 기간에 기업들의 애로사항과 의견을 청취하고",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this refresh: the guideline carries no date, and the publication date rests on announcements (MSIT's press release, NIA's notice), which count as alt-official (level B); the press release's full text and NIA's notice are now stored for this record"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "MSIT published the guideline on 22 January 2026 (press release); the stored text is a final guideline, not marked as a draft. NIA's notice (copy of 18 Oct 2026) lists the file dated 26 January 2026, records the revised upload of 27 January 2026 as the latest change to this guideline and says the posted files are the current versions. MSIT calls it a guidance document (안내 지침) that it will keep supplementing during the guidance period. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "No page of the guideline's text gives its date, and the cover image shows none. 2026-01-22 rests on MSIT's press release (released for the morning papers of 22 January 2026 and saying the guideline was published on 22 January) and NIA's notice of that day, both announcements, so the date has alt-official support only. Rule 7b does not apply, as the instrument's own text gives neither the month nor the year. date_last_updated 2026-01-27 is NIA's revised upload; the file name gives 26 January.",
+  "scope_reasoning": "Unchanged: national government guidance on the transparency and labelling duties of Article 31 of the AI Basic Act; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99835&bcIdx=28987",
+   "reason": "Stored in this run (round 2): NIA's notice of 22 January 2026: the publication date, the file dated 26 January 2026, the revision of 27 January 2026, NIA's distribution and that the posted files are current."
+  },
+  {
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156740669",
+   "reason": "Stored in this run (round 2): MSIT's press release with its full text in the printed copy: the release day, the division, publication on the MSIT and TTA websites, the guidance character, the September 2025 draft and the guidance period."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

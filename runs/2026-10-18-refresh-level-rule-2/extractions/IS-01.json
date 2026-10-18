@@ -1,0 +1,163 @@
+{
+ "cand_id": "IS-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IS-01",
+ "record": {
+  "date_published": "2025-07",
+  "official_url": "https://www.stjornarradid.is/library/?itemid=55ec2a72-a5b9-11f0-b896-005056bcde1f",
+  "secondary_url": "https://www.stjornarradid.is/library/?itemid=6f0d36d4-72c8-11f0-b894-005056bcde1f",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. The record pointed at the Government of Iceland's news item of 1 July 2025 announcing the English edition, an announcement; the plan's own text is published in the government library in English and in Icelandic. Stored in this run as the plan's text: the English edition (40 pages), which carries the ministry's imprint, 'July 2025' and its own ISBN, and becomes the official URL; and the Icelandic edition (32 pages), which gives the Icelandic title, 'Júlí 2025' and a separate ISBN, and becomes the secondary URL. Neither edition gives a day, so date_published now has the month the plan gives, and the notes keep the days of the two news items (1 July 2025 for the English edition, 2 July 2025 for the Icelandic one, read in an earlier run). Re-read the English news item of 1 July 2025 (stored 11 Oct 2026). The English edition does not call itself a translation and is recorded as one of the issuer's own texts."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 1, cover",
+    "quote": "Iceland’s AI Action Plan 2025-2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item heading",
+    "quote": "Iceland's AI Action Plan 2025-2027",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2ef8770009/2026-10-18/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 2, imprint",
+    "quote": "Útgefandi: Menningar-, nýsköpunar- og háskólaráðuneytið Aðgerðaáætlun um gervigreind 2025-2027 Júlí 2025",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 4, imprint",
+    "quote": "Published by: the Ministry of Culture, Innovation and Higher Education",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2ef8770009/2026-10-18/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 2, imprint",
+    "quote": "Útgefandi: Menningar-, nýsköpunar- og háskólaráðuneytið",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 4, imprint",
+    "quote": "National Action Plan on AI 2025-2027 July 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2ef8770009/2026-10-18/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 2, imprint",
+    "quote": "Aðgerðaáætlun um gervigreind 2025-2027 Júlí 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item header",
+    "quote": "1. júlí 2025 / Ministry of Culture٫ Innovation and Higher Education Iceland's AI Action Plan 2025-2027",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 4, imprint",
+    "quote": "The Government Offices of Iceland ISBN: 978-9935-570-05-5",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 10, Review",
+    "quote": "This action plan is valid for two years from the date of publication.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2ef8770009/2026-10-18/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 6, Endurskoðun",
+    "quote": "Aðgerðaáætlunin gildir í tvö ár frá birtingu.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+    "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+    "locator": "page 7, Foreword by the Minister",
+    "quote": "The government's first Action Plan on Artificial Intelligence sets out its main focuses and actions that support them.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2ef8770009/2026-10-18/official.pdf",
+    "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+    "locator": "page 2, imprint",
+    "quote": "Stjórnarráð Íslands ISBN: 978-9935-570-03-1",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IS-01/2026-10-11/official.html",
+    "sha256": "bf03b0f25baaf541479c18153c511ab7ef1678da43226d964b4215bbdcb0fef7",
+    "locator": "news item header",
+    "quote": "1. júlí 2025 / Ministry of Culture٫ Innovation and Higher Education Iceland's AI Action Plan 2025-2027",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "2025-07-01 -> 2025-07: the plan's own text (both editions' imprints) gives only 'July 2025' / 'Júlí 2025'; the day comes from the government's news items, which are announcements, and the notes already give both days (rule 7b)",
+   "official_url": "the government news item of 1 July 2025 (an announcement) -> the English edition of the plan in the government library, the plan's own text (rule 7c); the English edition is one of the issuer's own texts, carries the ISBN in official_identifier and is the record's english_version",
+   "secondary_url": "the English edition (now official_url) -> the Icelandic edition in the government library, the original-language text that gives original_title",
+   "verification.note": "rewritten for this refresh: the record now rests on the plan's own text"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding government action plan published in July 2025 and valid for two years from publication ('This action plan is valid for two years from the date of publication'), so until about July 2027. Nothing stored shows it withdrawn or replaced; 'Published (non-binding, current)' stands on 18 Oct 2026.",
+  "scope_reasoning": "A national AI action plan whose safety-governance content is the AI Act implementing bill, the analysis of AI's effects on democratic debate and the standards for safe public-sector use; in scope, and the existing scope_note applies.",
+  "date_reasoning": "The English edition's imprint gives 'July 2025' and the Icelandic edition's 'Júlí 2025'; neither gives a day. The day, 1 July 2025, rests on the English news item and 2 July 2025 on the Icelandic one, both announcements, and both days are already in the notes. So date_published is written 2025-07 (rule 7b).",
+  "level_reasoning": "With official_url pointing at the plan PDF, title, date (month) and status rest on the plan's own text, stored in this run in both editions and labelled official: level A. The news item is an announcement and is labelled alt-official; it supports only the day in the notes."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.stjornarradid.is/library/?itemid=55ec2a72-a5b9-11f0-b896-005056bcde1f",
+   "reason": "The English edition of the plan, proposed as official_url (rule 7c). Stored in this run as the plan's text."
+  },
+  {
+   "url": "https://www.stjornarradid.is/library/?itemid=6f0d36d4-72c8-11f0-b894-005056bcde1f",
+   "reason": "The Icelandic edition of the plan, proposed as secondary_url; evidence for original_title and the month. Stored in this run."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

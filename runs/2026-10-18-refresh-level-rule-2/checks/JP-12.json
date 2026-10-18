@@ -1,0 +1,50 @@
+{
+ "cand_id": "JP-12",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Focus on prompt injection and denial-of-service attacks",
+   "verdict": "supported",
+   "locator": "guidelines text, section 2.1"
+  },
+  {
+   "claim": "AI agents excluded for now",
+   "verdict": "supported",
+   "locator": "guidelines text, page 14 area"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The guidelines' main text from soumu.go.jp is the instrument's own text (cover 令和８年３月, 総務省); the press release is labelled alt-official and gives the day, kept in the notes. Search found no revision or supplement since March 2026."
+}

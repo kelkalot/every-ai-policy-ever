@@ -1,0 +1,47 @@
+{
+ "cand_id": "US-CA-14",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "As passed, bars making a companion chatbot available to under-18s unless not foreseeably capable of certain harms",
+   "verdict": "supported",
+   "locator": "AB 1064 SJUD analysis and veto message"
+  },
+  {
+   "claim": "Covered products include companion chatbots and systems that generate social scores or process biometric information of children",
+   "verdict": "supported",
+   "locator": "AB 1064 SJUD analysis page 1"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The Assembly Weekly History records the veto on 13 Oct 2025 and striking from the file on 22 Jan 2026, which supports date, status Lapsed and legal force Proposed. The identifier quote on page 1 only shows the history title page, but the page 681 quote carries the bill number. A search found no 2026 reintroduction as AB 1064 or a successor with that title."
+}

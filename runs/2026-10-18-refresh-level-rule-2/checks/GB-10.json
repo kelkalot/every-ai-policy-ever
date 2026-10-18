@@ -1,0 +1,40 @@
+{
+ "cand_id": "GB-10",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Bills API shows current stage 2nd reading set for 13 Nov 2026, not an Act, not defeated; the date is provisional."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Long title: prohibit development, deployment and operation of artificial superintelligence systems and establish monitoring and control powers",
+   "verdict": "supported",
+   "locator": "Bills API bill 4288, longTitle"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Ten Minute Rule private member's bill; the existing scope_note stands and is supported by Parliament's description of bill type 5."
+ },
+ "overall": "accept",
+ "note": "The Bills API on bills-api.parliament.uk is Parliament's own register and is on the official-sites list, so official is the right label. official_identifier has no evidence in the extraction and is left as published; the extractor's open question stands. A search found no change after first reading as of today; second reading is listed for 13 Nov 2026."
+}

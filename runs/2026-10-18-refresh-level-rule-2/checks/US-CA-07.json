@@ -1,0 +1,43 @@
+{
+ "cand_id": "US-CA-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Chaptered 9 Sep 2026; the effective date is not in a stored file, so \"Adopted, not yet in force\" follows California's default of 1 Jan 2027 and EO N-9-26 deadlines, which are alt-official."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "SB 813 creates a framework for independent verification organizations; AB 1405 creates a registry of AI auditors with independence standards",
+   "verdict": "supported",
+   "locator": "Governor release of 9 Sep 2026, first paragraphs"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Both bills are chaptered on 9 Sep 2026 as Chapters 179 and 178 per the Senate and Assembly Weekly Histories. The Governor release and EO N-9-26 are announcements or an order and are labelled alt-official. One targeted search found no amendment after signing."
+}

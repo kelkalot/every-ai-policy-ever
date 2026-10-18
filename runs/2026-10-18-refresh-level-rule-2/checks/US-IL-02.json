@@ -1,0 +1,45 @@
+{
+ "cand_id": "US-IL-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The IDFPR release (4 Aug 2025) says the Governor signed \"on Friday\", that is 1 Aug 2025; announcement, so alt-official and level B is right."
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Prohibits anyone from using AI to provide mental health and therapeutic decision-making; fine of up to $10,000",
+   "verdict": "supported",
+   "locator": "IDFPR release pages 1-2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [
+  "https://ilga.gov/Legislation/PublicActs/PrinterFriendly/104-0054"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Everything rests on the IDFPR release (alt-official, correctly labelled). The Public Act number and General Assembly are not in a stored source, and the record keeps them only in official_identifier, which this run does not change. A search found Public Act 104-0054 on ilga.gov and no 2026 amendment."
+}

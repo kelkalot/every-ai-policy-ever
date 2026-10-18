@@ -1,0 +1,122 @@
+{
+ "cand_id": "US-CA-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-08",
+ "record": {
+  "official_identifier": "Chapter 190, Statutes of 2026 (Senate Bill 1119)",
+  "notes": "Passed the Senate 39-0 on 19 May 2026 and, as amended, the Assembly 69-4 on 31 Aug 2026, when the Senate concurred 39-0 (Senator Padilla's release of 31 Aug 2026 gives the Assembly vote as 64-4). Approved by the Governor on 10 Sep 2026 as Chapter 190, Statutes of 2026 (Padilla; Wicks; Bauer-Kahan), in a 13-bill child online-safety package that also included SB 867 (toys: companion chatbots), AB 1709 (covered platforms: age restriction) and SB 1276 (crimes: sexual exploitation of a child). It amends Section 22602 of the Business and Professions Code and adds Chapter 11.6 (commencing with Section 21810) to Division 8 of that Code. It builds on SB 243 (2025), uses the age-bracket signal of AB 1043 (2025) and draws on provisions of AB 1064 (2025) on harmful outputs. It also gives families harmed by violations of its crisis-referral, parental-notice, default-protection and harmful-output provisions a private right of redress.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 67 of 1 Oct 2026 (senate.ca.gov, compiled under the Secretary of the Senate), the legislature's record of SB 1119, which gives its subject title 'Companion chatbots: children's safety', the sections it amends and adds, the floor votes and its approval and chaptering on 10 Sep 2026 as Chapter 190, Statutes of 2026; and again Senator Padilla's release of 31 Aug 2026 (sd18.senate.ca.gov), which names the bill 'Adam's Law (SB 1119)' and lists its requirements as passed by the Legislature. Re-read: the Governor's release of 10 Sep 2026 (gov.ca.gov, copy of 18 Oct 2026). The Senate's record gives the Assembly vote of 31 Aug 2026 as 69-4, the release 64-4; the notes follow the record. The bill's text on leginfo.legislature.ca.gov still refuses automated downloads, so the text and the effective date are not stored, and the summary rests on the author's release. The record's second stored file (document-1.pdf) is EO N-12-23 of 2023, linked from the release, and is not a source for SB 1119."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 939, Senate bills approved by the Governor, chaptered",
+    "quote": "1119 190 Padilla ............. Companion chatbots: children’s safety. ..................... Sep. 10, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-08/2026-10-18/official.html",
+    "sha256": "bf5909120e440790dbf820b073a4a401c3049b89bc61022268b1da12c4343e6c",
+    "locator": "list of new legislation",
+    "quote": "SB 1119 by Senator Steve Padilla (D-San Diego), Assemblymembers Buffy Wicks (D-Oakland) and Rebecca Bauer-Kahan (D-Orinda) – Companion chatbots: children’s safety.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119, history",
+    "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-08/2026-10-18/official.html",
+    "sha256": "bf5909120e440790dbf820b073a4a401c3049b89bc61022268b1da12c4343e6c",
+    "locator": "first paragraph",
+    "quote": "Today, Governor Gavin Newsom, joined by First Partner Jennifer Siebel Newsom, and legislators signed landmark bipartisan legislation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119, history",
+    "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119, history",
+    "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 939, Senate bills approved by the Governor, chaptered",
+    "quote": "1119 190 Padilla ............. Companion chatbots: children’s safety. ..................... Sep. 10, 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119, history",
+    "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+    "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+    "locator": "page 517, S.B. No. 1119",
+    "quote": "An act to amend Section 22602 of, and to add Chapter 11.6 (commencing with Section 21810) to Division 8 of, the Business and Professions Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "'California Senate Bill 1119 (2025-2026 Regular Session)' -> the citable chapter from the Senate's record, Chapter 190, Statutes of 2026",
+   "notes": "votes corrected to the Senate's record (Senate 39-0 on 19 May 2026, Assembly 69-4 and Senate concurrence 39-0 on 31 Aug 2026; the release's 64-4 kept as a discrepancy); chapter, approval date and the Code sections the act amends and adds added; the rest unchanged",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Approved and chaptered on 10 Sep 2026 (Senate history). No stored file gives the effective date. Enacted, with no stored in-force date: 'Adopted, not yet in force' stands, and date_in_force stays null.",
+  "date_reasoning": "date_published 2026-09-10: 'Sep. 10—Approved by the Governor' and 'Sep. 10, 2026' in the table of chaptered Senate bills; the Governor's release of the same day.",
+  "scope_reasoning": "AI-specific state law on companion chatbot safety for children; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.senate.ca.gov/media/4621",
+   "reason": "Senate Weekly History No. 67 of 1 Oct 2026 (stored in this run, round 1 request): SB 1119."
+  },
+  {
+   "url": "https://sd18.senate.ca.gov/node/419",
+   "reason": "Senator Padilla's release of 31 Aug 2026 (stored in this run, round 1 request)."
+  }
+ ],
+ "open_questions": [
+  "date_in_force stays null: no stored file gives the effective date of Chapter 190, Statutes of 2026 (the bill's text on leginfo.legislature.ca.gov refuses the archiver). A person could provide the chaptered text with the 'Provide a document' form; official_url would then point at it instead of the Governor's release."
+ ],
+ "leads": []
+}

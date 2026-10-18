@@ -1,0 +1,111 @@
+{
+ "cand_id": "FR-02",
+ "decision": "update",
+ "target_id": "FR-02",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 3",
+    "quote": "LA STRATÉGIE AI FOR HUMANITY",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "le Président de la République a présenté",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 3",
+    "quote": "stratégie AI for Humanity, nourrie par le rapport préparé par le",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "le Président de la République a présenté",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 3",
+    "quote": "Gouvernement est mobilisé autour de la stratégie AI for Humanity, nourrie par le rapport préparé par le",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "Jeudi 29 mars 2018 s’est tenu, à Paris au Collège de France, le colloque sur l’intelligence artificielle (IA)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/FR-02/extra-859ac04fb9/2026-10-18/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 4",
+    "quote": "Le 29 mars 2018 au Collège de France, le Président de la",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/FR-02/2026-10-16/official.pdf",
+    "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+    "locator": "page 5",
+    "quote": "une stratégie ambitieuse en faveur de l’intelligence artificielle, une technologie qui touche de",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/FR-02/extra-859ac04fb9/2026-10-18/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 6",
+    "quote": "Le Gouvernement lance désormais une deuxième phase de la stratégi",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/FR-02/extra-859ac04fb9/2026-10-18/official.pdf",
+    "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+    "locator": "page 3",
+    "quote": "Stratégie nationale pour l’IA (2018 – 2022) :  atouts et axes principaux",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "legal_force",
+   "status"
+  ],
+  "status_reasoning": "The government press kit of 8 November 2021 says the first phase of the national AI strategy (2018-2022) has come to an end and the Government launches a second phase; no stored text repeals the 2018 strategy formally, so Superseded rests on that statement and a human may prefer another value.",
+  "scope_reasoning": "National AI strategy with ethics as one pillar; borderline scope, the existing scope_note stands."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "There is no single strategy document: the strategy is described by two government press kits (28 Nov 2018, 8 Nov 2021) and the President's speech; every quote is from an announcement, so the record cannot go above level B from these files.",
+  "elysee.fr is not listed as an official host for France, so the speech does not count as official evidence."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

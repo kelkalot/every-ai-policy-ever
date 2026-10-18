@@ -1,0 +1,49 @@
+{
+ "cand_id": "SI-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The strategy's own text supports only the year 2026 (its timeline shows the final draft and planned adoption in January 2026); the day 5 March 2026 rests on the Government's release, correctly kept in the notes."
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "The PDF is marked 'končna' (final); adoption rests on the Government's release, an alt-official announcement."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Ten guiding principles, five objectives, six horizontal building blocks (notes)",
+   "verdict": "supported",
+   "locator": "strategy text, page 5"
+  },
+  {
+   "claim": "First action plan within nine months of adoption",
+   "verdict": "supported",
+   "locator": "page 55"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The strategy PDF on gov.si is the instrument's own text and supports title, issuer, structure and the nine-month deadline; the release of 5 March 2026 is labelled alt-official. Search found the same adoption on 5 March 2026 and no action plan yet (due about December 2026), no revised edition."
+}

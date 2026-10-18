@@ -1,0 +1,50 @@
+{
+ "cand_id": "KR-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Duties of Article 31 paragraphs 1 to 3 (prior notice, generative-AI marking, deepfake notice or marking)",
+   "verdict": "supported",
+   "locator": "guideline text, section on duties"
+  },
+  {
+   "claim": "Guidance period of at least one year",
+   "verdict": "supported",
+   "locator": "MSIT press release, page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "NIA's copy is the guideline's own text (official); the press release and NIA notice are labelled alt-official and carry the date, so level B. No newer revision beyond the 27 January 2026 upload was found in a new search."
+}

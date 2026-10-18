@@ -1,0 +1,135 @@
+{
+ "cand_id": "US-CA-14",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-14",
+ "record": {
+  "notes": "Vetoed on 13 Oct 2025; date_published is the veto date. Consideration of the veto was pending in the Assembly until it was stricken from the file on 22 Jan 2026. The bill would have added Chapter 25.1 (commencing with Section 22757.20) to Division 8 of the Business and Professions Code. In the veto message the Governor wrote that the bill's broad restrictions on conversational AI tools might unintentionally lead to a total ban on their use by minors, pointed to SB 243 (US-CA-06), which he had recently signed, and said he would work with the Legislature on a bill the next year building on SB 243. The version of 23 May 2025 also barred developers from producing, and deployers from using, covered products intended for children, and limited training them on children's personal information. Kept for context.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Assembly Weekly History No. 18 of 6 Feb 2026, the last complete history of the 2025 bills, compiled under the Chief Clerk (clerk.assembly.ca.gov), the legislature's record of AB 1064. It gives the session, the Code chapter the bill would have added, the floor votes, the veto on 13 Oct 2025 and the striking of the veto from the file on 22 Jan 2026, and lists the bill as 'Leading Ethical AI Development (LEAD) for Kids Act' among the Assembly bills vetoed in 2025. Stored again: the Senate Judiciary Committee's analysis of the version of 23 May 2025 (hearing 15 Jul 2025, sjud.senate.ca.gov), which gives the name and the provisions of that version. Re-read: the veto message (gov.ca.gov, a scan read by OCR with character errors; its date stamp reads 13 Oct 2025 on the scan and 'OCT 18 2025' in the OCR text), which returns Assembly Bill 1064 without signature and describes the bill as passed. The bill's page and enrolled text on leginfo.legislature.ca.gov still refuse automated downloads, so official_url stays unstored; title, date and status now rest on the Assembly's record. The enrolled text and its definitions are not in a stored source; the description of the passed bill rests on the veto message."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 1105, Assembly bills vetoed by Governor, 2025",
+    "quote": "1064 Bauer−Kahan ........ Leading Ethical AI Development (LEAD) for Kids Act. ................ Oct. 13, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-ea823a4315/2026-10-18/official.pdf",
+    "sha256": "1a85a625ad4b6d795ab9fc5dde3984a0df24e1e2db0a49d121a897fb6a336472",
+    "locator": "page 1, Subject",
+    "quote": "SUBJECT Leading Ethical AI Development (LEAD) for Kids Act",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 681, A.B. No. 1064, history",
+    "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-14/2026-10-16/secondary.pdf",
+    "sha256": "227094b97dea106fae38061d63242f2ca6061aab32bd117bc6c947c9057b3d0e",
+    "locator": "page 1 (veto message, OCR)",
+    "quote": "am returning Assembly Bill 1064 without my signature.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 681, A.B. No. 1064",
+    "quote": "A.B. No. 1064—Bauer−Kahan (Coauthor: Pellerin). An act to add Chapter 25.1 (commencing with Section 22757.20) to Division 8 of the Business and Professions Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 1 (title page)",
+    "quote": "2025−26 REGULAR SESSION ASSEMBLY WEEKLY HISTORY",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 681, A.B. No. 1064, history",
+    "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 1105, Assembly bills vetoed by Governor, 2025",
+    "quote": "1064 Bauer−Kahan ........ Leading Ethical AI Development (LEAD) for Kids Act. ................ Oct. 13, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 681, A.B. No. 1064, history",
+    "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 681, A.B. No. 1064",
+    "quote": "A.B. No. 1064—Bauer−Kahan (Coauthor: Pellerin). An act to add Chapter 25.1 (commencing with Section 22757.20) to Division 8 of the Business and Professions Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 681, A.B. No. 1064, history",
+    "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "adds that consideration of the veto was stricken from the Assembly file on 22 Jan 2026 and the Code chapter the bill would have added, both from the Assembly's record; the rest unchanged",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Assembly's record: 'Oct. 13—V etoed by Governor.', 'Oct. 13—Consideration of Governor’s veto pending.', then '2026 Jan. 22—Stricken from file.' The veto was not overridden and the bill is no longer before the Legislature. Under the register's convention a vetoed bill stays legal_force 'Proposed' with status 'Lapsed'; both stand.",
+  "date_reasoning": "date_published 2025-10-13 is the veto date: 'Oct. 13—V etoed by Governor' and 'Oct. 13, 2025' under 'Date Vetoed' in the table of vetoed Assembly bills. The OCR text of the veto message misreads the stamp as 'OCT 18 2025'; the register settles the day.",
+  "scope_reasoning": "A vetoed AI-specific bill on companion chatbots and AI products for children, kept for context; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2.6.2026-weekly-history_0.pdf",
+   "reason": "Assembly Weekly History No. 18 of 6 Feb 2026 (stored in this run, round 1 request): AB 1064."
+  },
+  {
+   "url": "https://sjud.senate.ca.gov/media/1975",
+   "reason": "SJUD analysis of AB 1064 (stored in this run, round 1 request)."
+  }
+ ],
+ "open_questions": [
+  "The enrolled text of AB 1064 is not stored (leginfo.legislature.ca.gov refuses the archiver), so the definitions of the bill as passed rest on the veto message; official_url (the bill's leginfo page) has never been stored."
+ ],
+ "leads": []
+}

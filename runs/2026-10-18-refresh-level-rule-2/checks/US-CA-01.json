@@ -1,0 +1,51 @@
+{
+ "cand_id": "US-CA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Rests on a committee analysis describing section 3111 as existing law with the 1 Jan 2026 deadline (alt-official); the statute text is not stored."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Developers must post a high-level summary of training data, including whether it includes copyright, trademark or patent protected data or is entirely public domain",
+   "verdict": "supported",
+   "locator": "AB 412 SJUD analysis page 4, Background"
+  },
+  {
+   "claim": "Posting due on or before 1 Jan 2026 for systems released on or after 1 Jan 2022",
+   "verdict": "supported",
+   "locator": "AB 412 SJUD analysis page 4, Background"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title, chaptering on 28 Sep 2024 as Chapter 817 and the compliance date are supported by the Assembly Weekly History and a Senate committee analysis. The Governor release is labelled alt-official, as it should be. No amendment of Civil Code 3110-3111 turned up in one targeted search; the statute text is still not stored."
+}

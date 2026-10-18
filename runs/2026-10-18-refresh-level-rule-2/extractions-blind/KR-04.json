@@ -1,0 +1,107 @@
+{
+ "cand_id": "KR-04",
+ "decision": "update",
+ "target_id": "KR-04",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/KR-04/2026-10-12/official.pdf",
+    "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+    "locator": "page 3",
+    "quote": "인공지능 투명성 확보 가이드라인",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/KR-04/2026-10-12/official.pdf",
+    "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+    "locator": "page 3",
+    "quote": "인공지능 투명성 확보 가이드라인",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2",
+    "quote": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 1월 22일「인공지능 발",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 4",
+    "quote": "「인공지능 투명성 확보 안내 지침(가이드라인)」은 과기정통부(https://www.msit.go.kr) 및 한국정보통신기술협회",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official-print.pdf",
+    "sha256": "82367aeffb1ff11728c7168073c335225fd257efbbd04ff27b9a427029683bf7",
+    "locator": "page 1",
+    "quote": "2026.01.22  조회수 33084 김은선 AI법제도센터",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2",
+    "quote": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 1월 22일「인공지능 발",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official-print.pdf",
+    "sha256": "82367aeffb1ff11728c7168073c335225fd257efbbd04ff27b9a427029683bf7",
+    "locator": "page 1",
+    "quote": "[안내] 2026년 1월 27일(화), \"인공지능 투명성 확보 가이드라인\" 수정본 업로드",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official-print.pdf",
+    "sha256": "82367aeffb1ff11728c7168073c335225fd257efbbd04ff27b9a427029683bf7",
+    "locator": "page 1",
+    "quote": "AI기본법 하위법령(가이드라인)의 현재본이 공개되었습니다.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+    "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+    "locator": "page 2",
+    "quote": "과기정통부, 「인공지능 투명성 확보 안내 지침(가이드라인)」 공개",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "NIA's notice of 22 January 2026 says the current versions of the AI Basic Act guidelines are published; its list shows the transparency guideline revised on 27 January 2026 and nothing later. No withdrawal in stored texts.",
+  "scope_reasoning": "Official guideline under Article 31 of the AI Basic Act; in scope without a note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The guideline PDF's cover has no text layer, so title, date and issuer are quoted from the contents page and from NIA's notice and MSIT's press release, which are announcements (alt-official).",
+  "The PDF's own text does not state that it is non-binding; legal_force rests on the ministry's description of it as a guidance guideline."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

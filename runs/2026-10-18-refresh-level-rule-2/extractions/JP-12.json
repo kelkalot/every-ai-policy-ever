@@ -1,0 +1,153 @@
+{
+ "cand_id": "JP-12",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "JP-12",
+ "record": {
+  "official_url": "https://www.soumu.go.jp/main_content/001064122.pdf",
+  "secondary_url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+  "date_published": "2026-03",
+  "notes": "MIC announced the final guidelines in a press release of 27 March 2026; the guidelines themselves are dated March 2026. A draft was open for public comment from 26 Dec 2025 to 29 Jan 2026 and drew 52 comments; MIC published them with its views alongside the final guidelines and a separate annex of supporting material. The guidelines follow the conclusions, reached in December 2025, of the AI Security Subcommittee that MIC convened from September 2025 under its Cybersecurity Task Force. They state that they do not decide who is responsible for a threat, and MIC intends to supplement them as new threats emerge, for example from vision language models, AI agents and MCP.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read (soumu.go.jp, stored 14 Oct 2026 and unchanged when the archiver checked them on 18 Oct 2026): the guidelines' main text (25 pages, cover 令和８年３月, 総務省), now the official_url; MIC's Japanese press release of 27 March 2026 (令和8年3月27日), the previous official_url, now the secondary source; and the table of the 52 public comments with MIC's views (18 pages, comment period 令和７年12月26日 to 令和８年１月29日). The guidelines confirm the Japanese title, the issuer, the month, their character as a guide from which organisations choose measures, the intention to supplement them and the content; the summary is written from the Japanese text. The press release, an announcement, gives the day, 27 March 2026, which is in the notes, so date_published is 2026-03; it also confirms the comment period and count and the AI Security Subcommittee. MIC's English press release of the same day, stored on 18 Oct 2026 in run 2026-10-18-recheck-east-asia-1, gives the English title used here and states that the published materials are in Japanese only, so english_version is 'none found'. The annex (別添（付属資料）), published through e-Gov, was not stored. Nothing stored shows a supplement or revision since March 2026."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 1, cover",
+    "quote": "技術的対策に係るガイドライン 令和８年３月 総務省",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 1, cover",
+    "quote": "技術的対策に係るガイドライン 令和８年３月 総務省",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+    "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+    "locator": "press release, date and heading",
+    "quote": "令和8年3月27日 「AIのセキュリティ確保のための技術的対策に係るガイドライン」（案）に対する意見募集の結果及びガイドラインの公表",
+    "source_kind": "alt-official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 1, cover",
+    "quote": "AI のセキュリティ確保のための 技術的対策に係るガイドライン",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+    "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+    "locator": "press release, introduction",
+    "quote": "今般、提出された意見を踏まえ、「AIのセキュリティ確保のための技術的対策に係るガイドライン」を策定しましたので",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 1, cover",
+    "quote": "AI のセキュリティ確保のための 技術的対策に係るガイドライン",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+    "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+    "locator": "press release, introduction",
+    "quote": "今般、提出された意見を踏まえ、「AIのセキュリティ確保のための技術的対策に係るガイドライン」を策定しましたので",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 1, cover",
+    "quote": "技術的対策に係るガイドライン 令和８年３月 総務省",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+    "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+    "locator": "press release, introduction",
+    "quote": "総務省は、「AIのセキュリティ確保のための技術的対策に係るガイドライン」（案）について",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 1, cover",
+    "quote": "技術的対策に係るガイドライン 令和８年３月 総務省",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 4, background",
+    "quote": "例えば、必要に応じて本ガ イドラインを追補していく等の適時の対応をはかっていくものである。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/official.html",
+    "sha256": "9b6a3fadf2c3b11629839804844b8dc0516f7ef41d0b9fb42fc93b0444a84eb6",
+    "locator": "press release, 1 概要",
+    "quote": "今般、提出された意見を踏まえ、「AIのセキュリティ確保のための技術的対策に係るガイドライン」を策定しましたので",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 14, 3.1 対策の位置づけ",
+    "quote": "各組織が自らの状況に応じて合理的な対策を選択するための指針として提供する ものである。",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+    "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+    "locator": "page 3, background",
+    "quote": "AI のセキュリ ティ確保のための技術的対策例を示すものとして策定するものである。",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at MIC's press release (報道資料), an announcement; the guidelines' own text, already stored, becomes official_url (rule 7c)",
+   "secondary_url": "null -> MIC's press release of 27 March 2026, which gives the day of publication, the comment period and count and the AI Security Subcommittee",
+   "date_published": "2026-03-27 -> 2026-03: the guidelines' own text gives only the month (cover 令和８年３月); the day, 27 March 2026, comes from MIC's press release, an announcement, and is in the notes (rule 7b)",
+   "notes": "first sentence added: the day of publication with its source (MIC's press release) and the guidelines' own date; the rest is unchanged",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "MIC finalised and published the guidelines on 27 March 2026 after the public comment (press release). They present examples of technical measures as a guide from which each organisation chooses reasonable measures (3.1), so they are non-binding; MIC says it will supplement them as needed. Nothing stored shows a supplement, revision or withdrawal. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "Rule 7b: the cover gives 令和８年３月 (March 2026); the day comes only from the press release, an announcement.",
+  "scope_reasoning": "Unchanged: AI-specific security guidelines of a national ministry for AI developers and providers; in scope with no note.",
+  "secondary_url_reasoning": "The record had no secondary_url; the Japanese press release, the previous official_url, takes that place. The English press release stays a stored file of the recheck run."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,51 @@
+{
+ "cand_id": "KH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported",
+   "why": "The draft's own text, prepared by MPTC and dated June 2025 on its cover; hosted by the OECD.AI Policy Navigator, the intergovernmental body's site, on a copy its entry links, so another public body hosts the issuer's own text and it counts as official under AGENTS.md 7.6. The page does not show it is the text MPTC consulted on; the record's note states this."
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Six priorities and 41 measures",
+   "verdict": "supported",
+   "locator": "draft text, strategy overview"
+  },
+  {
+   "claim": "Priority 5 takes a light-touch approach",
+   "verdict": "supported",
+   "locator": "draft text, Strategic Priority 5"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The stored draft is the instrument's own text and confirms title, issuer, June 2025 date and draft status; MPTC's announcements and the OECD.AI entry are labelled alt-official. I accept the OECD.AI-hosted copy as official (a public body hosts the text itself, not an announcement), noting it is not an MPTC site. No adoption found in a new search; OECD.AI of June 2026 still says proposed or under development."
+}

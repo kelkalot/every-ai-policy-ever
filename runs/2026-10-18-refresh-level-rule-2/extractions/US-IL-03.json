@@ -1,0 +1,124 @@
+{
+ "cand_id": "US-IL-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-IL-03",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the Governor's press release of 6 Jul 2026 on the State of Illinois Newsroom (gov-pritzker-newsroom.prezly.com, listed as the Governor's official newsroom), stored 17 Oct 2026 at its permanent URL. It confirms the bill number, the act's name, the signing on 6 Jul 2026, passage by the General Assembly, the 1 Jan 2027 effective date, the core obligations and the sponsors. It is an announcement of the signing, not the Act's text, so its quotes count as alt-official and the record rests on it alone. The release gives no Public Act number, thresholds (revenue, compute), penalties, enforcing authority or phased dates, and the '104th General Assembly' in official_identifier is not shown in it. The Act's full text on ilga.gov was requested in this run but could not be stored: the connection timed out, as ilga.gov refused connections in earlier runs."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "First-in-the-Nation AI Safety Law",
+    "quote": "The Artificial Intelligence Safety Measures Act establishes a framework requiring developers of the largest advanced AI systems to publicly disclose safety practices",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "release header",
+    "quote": "Landmark bipartisan legislation creates the country's strongest AI accountability framework while supporting responsible innovation July 6, 2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "first paragraph",
+    "quote": "CHICAGO — Today, Governor JB Pritzker signed SB 315",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "Holding Big Tech Accountable",
+    "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "first paragraph",
+    "quote": "Today, Governor JB Pritzker signed SB 315, the Artificial Intelligence (AI) Safety Measures Act",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-IL-03/2026-10-17/official.html",
+    "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+    "locator": "first paragraph",
+    "quote": "The bipartisan law positions Illinois as the national leader by requiring the largest AI developers to identify, disclose, and mitigate risks",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this refresh: the record rests on the Governor's press release, which under the rule of 18 Oct 2026 is an announcement and counts as alt-official"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Governor signed SB 315 on 6 Jul 2026 ('Today, Governor JB Pritzker signed SB 315' in the release of that date), and the release says it 'takes effect January 1, 2027'. Today is 18 Oct 2026, before that date, so 'Adopted, not yet in force' stands; on 1 Jan 2027 the queue will flag it for a refresh.",
+  "scope_reasoning": "AI-specific state law on safety frameworks, incident reporting, audits and whistleblower protection for developers of the largest AI systems; in scope with no note.",
+  "date_reasoning": "date_published 6 Jul 2026, the release date on which it says the Governor signed the bill 'today'; date_in_force 1 Jan 2027 from the same release. Both rest on the announcement; the Act's own text (its effective-date section) is not stored.",
+  "level_reasoning": "Title, date and status rest only on the Governor's press release, an announcement of the signing on the official newsroom. The Act's own text and the General Assembly's bill-status record on ilga.gov could not be stored (the connection timed out), so there is no instrument text to point official_url at (extract.md rule 7c). The quotes are labelled alt-official and the record falls to level B until the Act's text or ilga.gov's record is stored or provided."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=315&DocTypeID=SB&LegId=0&SessionID=114",
+   "reason": "The General Assembly's full text of SB 315 (104th General Assembly, GAID 18): the Act's own text, its effective-date section, thresholds, enforcing authority and any phased dates. Could not be stored in this run: the connection timed out."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "official_identifier 'SB 315 (104th General Assembly)': the stored release shows SB 315 but not the General Assembly, and gives no Public Act number. Both need the Act's text or the bill-status page on ilga.gov, which refuses the archiver. A person could provide the enrolled Act with the 'Provide a document' form.",
+  "Secondary summaries found today say that some obligations (the frontier AI framework and the independent audits) apply only from 1 Jan 2028, while the release gives 1 Jan 2027 for the law as a whole. The Act's text is needed to confirm whether its duties are phased; until then date_in_force follows the release."
+ ]
+}

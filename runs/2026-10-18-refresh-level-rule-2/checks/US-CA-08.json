@@ -1,0 +1,43 @@
+{
+ "cand_id": "US-CA-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported",
+   "why": "The Weekly History subject title supports it; the Governor release copy is alt-official."
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Age assurance, risk assessments before release, incident reporting overseen by the Attorney General, limits on targeted advertising to children, independent audits reported to the Attorney General",
+   "verdict": "supported",
+   "locator": "Padilla release of 31 Aug 2026"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Chaptering as Chapter 190 on 10 Sep 2026 is supported by the Senate Weekly History. The summary rests on the author's release, which describes the bill as passed. The effective date is not stored and date_in_force stays empty. No amendment found."
+}

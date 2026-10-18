@@ -1,0 +1,61 @@
+{
+ "cand_id": "KR-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "date_published": {
+   "verdict": "supported",
+   "why": "The cover gives the year 2026 only, which is what the record now states; the day is correctly kept in the notes."
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "unsupported",
+   "why": "The official quote is the cover title only and does not show that the guideline is published and current; NIA's notice does, as an announcement.",
+   "fix": {
+    "value": "Published (non-binding, current)",
+    "evidence": [
+     {
+      "file": "archive/KR-08/2026-10-18/secondary.html",
+      "sha256": "728361cff8c254d0d9ad9e5f4bf2dd556223f16a9dc80332f547730d102590c9",
+      "locator": "NIA notice, text",
+      "quote": "AI기본법 하위법령(가이드라인)의 현재본이 공개되었습니다.",
+      "source_kind": "alt-official"
+     }
+    ]
+   }
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Assessment is an obligation of effort that the guideline recommends",
+   "verdict": "supported",
+   "locator": "guideline page 5, section 3"
+  },
+  {
+   "claim": "KISDI named as the dedicated agency",
+   "verdict": "supported",
+   "locator": "page 8 section 6 and appendix 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "The guideline text is stored and confirms the title, the year and the content. Its cover does not show status, so status is re-evidenced with NIA's notice (alt-official), which makes the record level B rather than A. No newer revision found."
+}

@@ -1,0 +1,136 @@
+{
+ "run_id": "2026-10-18-refresh-level-rule-2",
+ "type": "refresh",
+ "scope": "ids:HK-02,US-CA-01,US-CA-02,US-CA-06,US-CA-07,US-CA-08,US-IL-02,IS-01,UA-01,G20-01,ID-02,US-IL-03,SA-04,SI-02,BG-01,LV-02,KR-04,KR-05,KR-06,KR-07,KR-08,BN-01,KH-01,US-HI-01,JM-01,CN-19,JP-12,US-CA-14,FR-02,GB-10,NL-01",
+ "started": "2026-10-18",
+ "coordinator": {
+  "tool": "Claude Code",
+  "model": "claude-opus-5-5"
+ },
+ "stages": {
+  "collect": {
+   "tool": null,
+   "model": null,
+   "date": null
+  },
+  "extract": {
+   "tool": "Claude Code",
+   "model": "claude-opus-5-5",
+   "date": "2026-10-18",
+   "tokens": 1360469
+  },
+  "blind": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 116049
+  },
+  "check": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 328318
+  }
+ },
+ "status": "merged",
+ "record_ids": [
+  "HK-02",
+  "US-CA-01",
+  "US-CA-02",
+  "US-CA-06",
+  "US-CA-07",
+  "US-CA-08",
+  "US-IL-02",
+  "IS-01",
+  "UA-01",
+  "G20-01",
+  "ID-02",
+  "US-IL-03",
+  "SA-04",
+  "SI-02",
+  "BG-01",
+  "LV-02",
+  "KR-04",
+  "KR-05",
+  "KR-06",
+  "KR-07",
+  "KR-08",
+  "BN-01",
+  "KH-01",
+  "US-HI-01",
+  "JM-01",
+  "CN-19",
+  "JP-12",
+  "US-CA-14",
+  "FR-02",
+  "GB-10",
+  "NL-01"
+ ],
+ "steps": [
+  {
+   "step": "archive",
+   "who": "script",
+   "do": "python3 tools/archive.py --run 2026-10-18-refresh-level-rule-2 --browser"
+  },
+  {
+   "step": "textify",
+   "who": "script",
+   "do": "python3 tools/pipeline.py textify --run 2026-10-18-refresh-level-rule-2"
+  },
+  {
+   "step": "extract",
+   "who": "extractors, about 8 candidates each",
+   "do": "pipeline/roles/extract.md -> extractions/<ID>.json; for extra_urls the coordinator (not the extractor) archives and textifies again, then sends the candidates back once"
+  },
+  {
+   "step": "evidence",
+   "who": "script",
+   "do": "python3 tools/pipeline.py evidence --run 2026-10-18-refresh-level-rule-2"
+  },
+  {
+   "step": "sample",
+   "who": "script",
+   "do": "python3 tools/pipeline.py sample --run 2026-10-18-refresh-level-rule-2"
+  },
+  {
+   "step": "blind",
+   "who": "a fresh extractor",
+   "do": "pipeline/roles/extract.md -> extractions-blind/<ID>.json; never opens extractions/"
+  },
+  {
+   "step": "agreement",
+   "who": "script",
+   "do": "python3 tools/pipeline.py compare --run 2026-10-18-refresh-level-rule-2"
+  },
+  {
+   "step": "check",
+   "who": "the checker, in a fresh context",
+   "do": "pipeline/roles/check.md -> checks/<ID>.json"
+  },
+  {
+   "step": "assemble",
+   "who": "script",
+   "do": "python3 tools/pipeline.py assemble --run 2026-10-18-refresh-level-rule-2"
+  },
+  {
+   "step": "merge",
+   "who": "script",
+   "do": "python3 tools/merge.py runs/2026-10-18-refresh-level-rule-2/pass.json --dry-run, then without --dry-run; python3 tools/build.py"
+  },
+  {
+   "step": "report",
+   "who": "script",
+   "do": "python3 tools/pipeline.py report --run 2026-10-18-refresh-level-rule-2; frame --report; questions --sync; intake"
+  },
+  {
+   "step": "gate",
+   "who": "script",
+   "do": "python3 tools/gate.py: every change against the rules; fix what fails, never skip it"
+  },
+  {
+   "step": "commit",
+   "who": "coordinator",
+   "do": "one commit on the branch run/2026-10-18-refresh-level-rule-2"
+  }
+ ]
+}

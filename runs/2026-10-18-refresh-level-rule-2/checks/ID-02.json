@@ -1,0 +1,49 @@
+{
+ "cand_id": "ID-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "judgment-differs",
+   "why": "Decree 38/2025 lists the roadmap as 2026-2030, Komdigi's items of Feb and May 2026 give 2026-2029; the record's title follows the later Komdigi items, which is defensible. The run does not change the title; the extractor's open question stands."
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "The decree's signature date is that of the drafting programme, not of the drafts; it supports the year 2025 only, which is all the record states."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Presidential Decree 38/2025 places both drafts in the 2026 programme",
+   "verdict": "supported",
+   "locator": "decree page 21, annex entries 35-36"
+  },
+  {
+   "claim": "Inter-ministerial discussion with the State Secretariat ended 5 May 2026",
+   "verdict": "supported",
+   "locator": "Komdigi news item of 6 May 2026"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Decree 38/2025 is an instrument of the President on an official law site, not an announcement, and shows the title, draft status and initiator; the Komdigi news items are labelled alt-official and the Hukumonline item secondary, as they should be. The roadmap period conflict (2026-2029 vs 2026-2030) stays an open question and is not changed by this run. Search found no enactment of either Perpres (latest reports July and August 2026 still say in process)."
+}

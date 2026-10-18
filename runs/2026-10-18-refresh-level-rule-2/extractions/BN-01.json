@@ -1,0 +1,179 @@
+{
+ "cand_id": "BN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BN-01",
+ "record": {
+  "official_url": "https://www.aiti.gov.bn/guide-books/guide-on-ai-governance-and-ethics-for-brunei-darussalam",
+  "secondary_url": "https://www.aiti.gov.bn/news/2025/guide-on-artificial-intelligence-governance-and-ethics-for-brunei-darussalam/",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. official_url now points at the guide itself: the PDF served from AITI's guide-books page (39 pages; stored in this run as an official source, identical to the copy stored as the record's secondary source on 12 Oct 2026). It confirms the title, AITI and the working group as authors, the guide's non-binding character and that it may be amended with prior notice. AITI's press release of 11 April 2025 (aiti.gov.bn, in Malay and English; copy of 12 Oct 2026, unchanged on 18 Oct 2026), now the secondary_url, gives the release date and the Malay title. The guide itself gives no date other than a copyright line of 2024, so the date rests on the release, an announcement, and the record is level B. AITI's AI governance and ethics page (aiti.gov.bn, stored in this run) gives the working group's formation in May 2024 with 25 members, the consultation paper of 9 July 2024 with 17 responses, and download links for the guide and a 'Second Edition' shown only in a third-party flipbook viewer (flowpaper.com) that exposes no text, so its date and changes are unknown."
+  }
+ },
+ "evidence": {
+  "official_url": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 1, cover",
+    "quote": "Guide on Artificial Intelligence (AI) Governance and Ethics for Brunei Darussalam",
+    "source_kind": "official"
+   }
+  ],
+  "secondary_url": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text",
+    "quote": "have developed the ‘Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 1, cover",
+    "quote": "Guide on Artificial Intelligence (AI) Governance and Ethics for Brunei Darussalam",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text",
+    "quote": "have developed the ‘Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, Malay text",
+    "quote": "Garis Panduan Tadbir Urus dan Etika Kecerdasan Buatan untuk Brunei Darussalam",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12, Note",
+    "quote": "The Guide is a working document developed by Authority of Info-communications Technology Industry of Brunei Darussalam (AITI), in collaboration with the AI Governance and Ethics Working Group.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 39, copyright notice",
+    "quote": "© AITI, 2024. This document is the property of the Authority for Info-communications Technology Industry of Brunei Darussalam",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, date",
+    "quote": "Friday, April 11, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12, Note",
+    "quote": "The Guide may be amended periodically with prior notice, to ensure the document remains relevant to emerging trends, practices and technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/BN-01/2026-10-12/official.html",
+    "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+    "locator": "press release, English text",
+    "quote": "For more information, the Guide can be accessed at https://aiti.gov.bn/AIGuideGE.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics page, downloads",
+    "quote": "Guide on AI Governance and Ethics for Brunei Darussalam Download Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition) Download",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 11, Purpose",
+    "quote": "It provides recommendations and guidance on the principles and safeguards which organisations should consider.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+    "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+    "locator": "page 12, Scope",
+    "quote": "It is important to note that the Guide is developed to serve as a baseline set of considerations and safeguards",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics page",
+    "quote": "On May 2024, The Authority for Info-communications Technology Industry (AITI) has established an AI Governance and Ethics Working Group, consisting of 25 members from the government, industry and academia.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics page",
+    "quote": "On 9 July 2024 AITI has released a Public Consultation Paper (PCP)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-0d89e16a1e/2026-10-18/official.html",
+    "sha256": "0ec311824644c86f89d3ed2f8b198bfc03cd615da318d60874a70f18b6f3a77e",
+    "locator": "AI Governance and Ethics page",
+    "quote": "At the close of the Public Consultation, AITI received feedback from 17 esteemed representatives",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the record pointed at AITI's press release; the guide's own text (PDF on AITI's guide-books page) becomes official_url (rule 7c)",
+   "secondary_url": "the press release, which gives the release date and the Malay title, replaces the guide PDF, now the official_url",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "AITI released the guide on 11 April 2025 and still serves it; the guide says it may be amended periodically with prior notice. AITI's governance page also lists a 'Second Edition' whose text and date cannot be read, so whether it replaces this edition is open. Published (non-binding, current).",
+  "date_reasoning": "11 April 2025 is the date of AITI's release of the guide. The guide's own text gives only a copyright year, 2024, which is not the year of release, so rule 7b gives no usable date from the instrument and the release date stays, with alt-official evidence (level B).",
+  "scope_reasoning": "A government AI governance and ethics guide with safety, security and risk-management content; in scope with no note; unchanged."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.aiti.gov.bn/guide-books/guide-on-ai-governance-and-ethics-for-brunei-darussalam",
+   "reason": "The guide's own text (PDF), stored in this run as an official source; now official_url."
+  },
+  {
+   "url": "https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics",
+   "reason": "AITI's AI governance and ethics page (stored in this run), behind the notes on the working group, the consultation and the 'Second Edition'."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "AITI's AI governance page lists a 'Second Edition' of the guide, shown only in a flipbook viewer without readable text; its date and whether it replaces the edition stored are unknown.",
+  "The guide stored is in English only; the Malay title appears only in AITI's bilingual press release, and no Malay text of the guide is stored. Whether 'language: English, Malay' should be 'English' is open."
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "cand_id": "KR-05",
+ "decision": "update",
+ "target_id": "KR-05",
+ "record": {},
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official-print.pdf",
+    "sha256": "d3398aa3ec88fd61debb2615caca02ee1f99e504c7d2ed210d7d9fb94e041b2e",
+    "locator": "page 1",
+    "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2",
+    "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아,",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official-print.pdf",
+    "sha256": "d3398aa3ec88fd61debb2615caca02ee1f99e504c7d2ed210d7d9fb94e041b2e",
+    "locator": "page 1",
+    "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official-print.pdf",
+    "sha256": "d3398aa3ec88fd61debb2615caca02ee1f99e504c7d2ed210d7d9fb94e041b2e",
+    "locator": "page 1",
+    "quote": "2026.01.22  조회수 33085 김은선 AI법제도센터",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2",
+    "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2",
+    "quote": "따라서 여기에 담긴 내용은 앞으로 공개될 최종본과는 달라질 수 있습니다.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 2",
+    "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아,",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/KR-05/2026-10-12/official.pdf",
+    "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+    "locator": "page 5",
+    "quote": "같은 법 시행령(이하 “영”이라 한다) 제24조에 따라 제정된 「인공지능 안전성 확보 의무의 이행방법 등에",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {},
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published",
+   "status",
+   "legal_force",
+   "issuing_body"
+  ],
+  "status_reasoning": "The stored PDF itself says it is a draft that may differ from the final version. NIA's notice of 22 January 2026 calls the posted files the current versions and lists the safety guideline under the name '인공지능_안전성_확보_가이드라인' dated 260122, but no stored text publishes a final version, so the status stays Draft / proposed.",
+  "scope_reasoning": "Frontier AI safety guidance under Article 32 of the AI Basic Act; in scope without a note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_last_updated 2026-02 (KOSA help desk version, notification No. 2026-126) rests on no stored file; the help desk blocks automated downloads.",
+  "The PDF's running header misprints the title as '인공지능 안정성 확보 가이드라인'; title evidence is NIA's file name.",
+  "The issuing body (MSIT) appears in the PDF only through the draft notification of the ministry; the cover with the logos is an image."
+ ],
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,50 @@
+{
+ "cand_id": "CN-19",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "official_url": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Version v1.0-202609, number TC260-PG-2026NA",
+   "verdict": "supported",
+   "locator": "PDF cover and front matter"
+  },
+  {
+   "claim": "Model meeting GB/T 45654-2025 and rollback for irreversible operations",
+   "verdict": "supported",
+   "locator": "PDF measures section"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "The PDF is the draft's own text from tc260.org.cn (cover shows the Secretariat, version and 2026年09月); the notice is labelled alt-official and carries the 18 September date, now in the notes. Searches found no final version; reports of 'released' TC260 agent guidelines concern the deployment and use guide (CN-26)."
+}

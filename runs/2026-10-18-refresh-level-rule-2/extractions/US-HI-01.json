@@ -1,0 +1,211 @@
+{
+ "cand_id": "US-HI-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-HI-01",
+ "record": {
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the Office of the Governor of Hawaii news release of 15 Jul 2026 ('Gov. Green Completes Bill Signing Season and Issues Veto Decision', governor.hawaii.gov, stored 12 Oct 2026), which says SB 3001 became Act 248 and describes its content, and the Transparency Coalition's tracker article (transparencycoalition.ai, not an official site; stored 17 Oct 2026), which gives 14 Jul 2026 as the enactment and effective date. Stored again in this run: the Governor's release of 14 Jul 2026 (governor.hawaii.gov/?p=12919), which says the Governor 'today signed' three measures, among them SB 3001: Relating to Artificial Intelligence, Act 248, and describes its disclosures, response protocols, annual reports and protections for minors. Both Governor's releases are announcements, not the Act's text, so their quotes count as alt-official. The conference draft of SB 3001 on data.capitol.hawaii.gov, which would carry the Act's text and its effective-date section, could not be stored (HTTP 403, also in the browser), as Governor's Message No. 1350 could not before. The 14 Jul 2026 effective date therefore rests only on the tracker, and the summary follows the two Governor's releases."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, heading of the bill",
+    "quote": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "release body, AI paragraph",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions by requiring operators to disclose AI interactions, provide crisis resources and implement additional safeguards for minors.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "first paragraph",
+    "quote": "Governor Josh Green concluded this year’s bill signing period and issued his final veto decision with 266 of the 267 measures becoming law following the 2026 Hawai‘i State Legislative session.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, header",
+    "quote": "HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, heading of the bill",
+    "quote": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "release body, AI paragraph",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, header",
+    "quote": "FOR IMMEDIATE RELEASE July 14, 2026 HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, header",
+    "quote": "the second establishing safety measures and protections for the use of Artificial Intelligence (AI)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-17/secondary.html",
+    "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+    "locator": "HAWAII, SB 3001",
+    "quote": "Sponsors: Keohokalole, et al. Enacted July 14, 2026. Effective July 14, 2026.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/US-HI-01/2026-10-17/secondary.html",
+    "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+    "locator": "HAWAII, SB 3001",
+    "quote": "Sponsors: Keohokalole, et al. Enacted July 14, 2026. Effective July 14, 2026.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, header",
+    "quote": "HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "first paragraph",
+    "quote": "Governor Josh Green concluded this year’s bill signing period and issued his final veto decision with 266 of the 267 measures becoming law following the 2026 Hawai‘i State Legislative session.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "release body, AI paragraph",
+    "quote": "SB 3001, Act 248, establishes consumer protections for AI companions",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-17/secondary.html",
+    "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+    "locator": "HAWAII, SB 3001",
+    "quote": "Sponsors: Keohokalole, et al. Enacted July 14, 2026. Effective July 14, 2026.",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "release body, AI paragraph",
+    "quote": "It also prohibits AI companions from posing as licensed mental health professionals or encouraging harmful behavior, with violations subject to Hawaiʻi’s consumer protection laws.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, SB 3001",
+    "quote": "SB 3001, Act 248, requires operators of AI companions to issue certain disclosures, develop comprehensive response protocols for user prompts regarding suicidal ideation or self-harm",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, SB 3001",
+    "quote": "SB 3001, Act 248, requires operators of AI companions to issue certain disclosures, develop comprehensive response protocols for user prompts regarding suicidal ideation or self-harm, as well as make annual reports to the Behavioral Health Administration of the Department of Health.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, SB 3001",
+    "quote": "this measure establishes guidelines to prevent addictive software patterns targeted at minors and misrepresentations that a chatbot is of human likeness.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/US-HI-01/2026-10-12/official.html",
+    "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+    "locator": "release of 15 Jul 2026, AI paragraph",
+    "quote": "It also prohibits AI companions from posing as licensed mental health professionals or encouraging harmful behavior, with violations subject to Hawaiʻi’s consumer protection laws.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, quote of Senator Keohokālole",
+    "quote": "said Senator Jarrett Keohokālole, co-introducer of the bill and chair of the Senate Committee on Commerce and Consumer Protection",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+    "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+    "locator": "release of 14 Jul 2026, HB 2137",
+    "quote": "HB 2137, Act 247 establishes consumer protection standards for deepfake technology and other similar AI functions",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this refresh: the record rests on the Governor's news releases, which under the rule of 18 Oct 2026 are announcements and count as alt-official"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Governor signed SB 3001 as Act 248 on 14 Jul 2026 (release of that date), and the release of 15 Jul 2026 lists it among the 266 of 267 measures of the 2026 session that became law. The tracker gives 14 Jul 2026 as both the enactment and the effective date; if the Act takes effect on approval, it has been in force since then (today 18 Oct 2026). 'In force' is kept, but the Act's effective-date section has not been read.",
+  "scope_reasoning": "AI-specific state law on AI companions; in scope with no note.",
+  "date_reasoning": "date_published 14 Jul 2026 from the Governor's release of that date (stored in this run), which says he 'today signed' three measures, among them SB 3001, Act 248; the release is an announcement, so the date is alt-official. date_in_force 14 Jul 2026 rests only on the Transparency Coalition tracker (secondary).",
+  "level_reasoning": "Title, date and status rest on the Governor's news releases of 14 and 15 Jul 2026 (announcements on governor.hawaii.gov/newsroom), labelled alt-official. The Act's own text and the Legislature's bill-status record are not stored (data.capitol.hawaii.gov refused the archiver with HTTP 403, also in the browser), so there is no instrument text to point official_url at (rule 7c). Level B."
+ },
+ "extra_urls": [
+  {
+   "url": "https://governor.hawaii.gov/?p=12919",
+   "reason": "Office of the Governor release of 14 Jul 2026 on the signing of SB 3001, Act 248: evidence for date_published and the summary. Stored in this run."
+  },
+  {
+   "url": "https://data.capitol.hawaii.gov/sessions/session2026/Bills/SB3001_CD1_.HTM",
+   "reason": "The conference draft (CD1) of SB 3001, the Act's own text. Could not be stored in this run: HTTP 403, also in the browser."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "date_in_force (2026-07-14) rests only on a secondary tracker, and the Act's text has not been read; data.capitol.hawaii.gov refuses automated downloads. This is the question already open in issue #147; a person could provide the Act (Governor's Message No. 1350 or SB 3001 CD1) with the 'Provide a document' form."
+ ]
+}

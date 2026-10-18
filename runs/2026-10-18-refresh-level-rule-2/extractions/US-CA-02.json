@@ -1,0 +1,218 @@
+{
+ "cand_id": "US-CA-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "US-CA-02",
+ "record": {
+  "official_identifier": "Chapter 291, Statutes of 2024 (Senate Bill 942); amended by Chapter 674, Statutes of 2025 (Assembly Bill 853) and Chapter 856, Statutes of 2026 (Assembly Bill 2713)",
+  "date_last_updated": "2026-09-30",
+  "notes": "Signed on 19 Sep 2024 as Chapter 291, Statutes of 2024, and originally to become operative on 1 Jan 2026. AB 853 (Wicks), Chapter 674, Statutes of 2025, signed on 13 Oct 2025, strengthened the Act; as amended, the covered-provider duties apply from 2 Aug 2026, the duties of large online platforms from 1 Jan 2027 and those of capture-device makers, for devices first produced for sale from that date, from 1 Jan 2028. In his AB 853 signing message the Governor asked the Legislature for follow-up legislation in 2026, before the law took effect, on technical feasibility and user privacy. AB 2713 (Wicks), 'California AI Transparency Act: system provenance data', approved on 30 Sep 2026 as Chapter 856, Statutes of 2026, amends Section 22757.3.1 of the Business and Professions Code, the duty of large online platforms to let users inspect system provenance data; as heard in committee in April 2026 it concerned users' download of content and its provenance data from those platforms.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 67 of 30 Nov 2024 (senate.ca.gov, compiled under the Secretary of the Senate), the legislature's record of SB 942, which gives its approval and chaptering on 19 Sep 2024 as Chapter 291, Statutes of 2024, and its subject title 'California AI Transparency Act'; the Assembly Weekly Histories No. 18 of 6 Feb 2026 and No. 37 of 5 Oct 2026 (clerk.assembly.ca.gov), which record AB 853 (approved and chaptered 13 Oct 2025, Chapter 674) and AB 2713 (approved and chaptered 30 Sep 2026, Chapter 856, amending Section 22757.3.1); and again the Senate Judiciary Committee's analysis of AB 853 (hearing of 15 Jul 2025), the Assembly Privacy and Consumer Protection Committee's analysis of AB 2713 (hearing of 16 Apr 2026) and the Governor's AB 853 signing message (a scan, read by OCR). Re-read: the Governor's releases of 29 Sep 2024 and 13 Oct 2025 (gov.ca.gov). Title, date and status now rest on the legislature's records; the covered-provider duties, the penalty, the operative dates and the summary rest on the two committee analyses, because the statute's text on leginfo.legislature.ca.gov refuses automated downloads (HTTP 403). No stored file says which act moved the operative date from 1 Jan 2026 to 2 Aug 2026, and the text of AB 2713 as enacted (it was amended in the Senate on 21 Aug 2026) is not stored, so the notes describe it only as heard in April 2026. The Senate Weekly History of 1 Oct 2026, stored in this run for US-CA-06, records a further amending act, SB 1000 (Becker), Chapter 861, Statutes of 2026; it is not a stored source of this record, so it is listed as an open question."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 967, Senate bills approved by the Governor, chaptered",
+    "quote": "942 291 Becker ............. California AI Transparency Act. .......................... Sep. 19, 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 1112, Assembly bills approved by Governor and chaptered, 2025",
+    "quote": "853 674 Wicks .............. California AI Transparency Act. .......................... Oct. 13, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 339, S.B. No. 942, history",
+    "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/US-CA-02/2026-10-17/official.html",
+    "sha256": "d86653010a097d9b6f9f93b632a1fe4d3e1d749b7aacf68560d7ba448d3bac0c",
+    "locator": "list of bills signed over the past 30 days",
+    "quote": "SB 942 by Senator Josh Becker (D-Menlo Park) – Requires the developers of covered GenAI systems to both include provenance disclosures in the original content their systems produce and make tools available to identify GenAI content produced by their systems. (previously signed)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 339, S.B. No. 942, history",
+    "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c43578c1a0/2026-10-18/official.pdf",
+    "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+    "locator": "page 554, A.B. No. 853, history",
+    "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State − Chapter 674, Statutes of 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 1141, A.B. No. 2713, history",
+    "quote": "Sep. 30—Approved by the Governor. Sep. 30—Chaptered by Secretary of State − Chapter 856, Statutes of 2026.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 339, S.B. No. 942, history",
+    "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 967, Senate bills approved by the Governor, chaptered",
+    "quote": "942 291 Becker ............. California AI Transparency Act. .......................... Sep. 19, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-42c6840283/2026-10-18/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2, Existing law, 2)",
+    "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 1360, Assembly bills approved by Governor and chaptered, 2026",
+    "quote": "2713 856 Wicks .............. California AI Transparency Act: system provenance data. ...... Sep. 30, 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 1141, A.B. No. 2713, history",
+    "quote": "Sep. 30—Approved by the Governor. Sep. 30—Chaptered by Secretary of State − Chapter 856, Statutes of 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-60df386534/2026-10-18/official.pdf",
+    "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+    "locator": "page 1141, A.B. No. 2713",
+    "quote": "A.B. No. 2713—Wicks (Coauthor: Aguiar−Curry). An act to amend Section 22757.3.1 of the Business and Professions Code, relating to artificial intelligence.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 339, S.B. No. 942, history",
+    "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-42c6840283/2026-10-18/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2, Existing law, 2)",
+    "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-42c6840283/2026-10-18/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2, Existing law, 4)",
+    "quote": "Beginning January 1, 2027, requires a large online platform to allow a user to inspect all available system provenance data",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-42c6840283/2026-10-18/official.pdf",
+    "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+    "locator": "page 2, Existing law, 3)",
+    "quote": "Beginning January 1, 2028, requires a capture device manufacturer to, with respect to any capture device",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+    "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+    "locator": "page 339, S.B. No. 942",
+    "quote": "S.B. No. 942—Becker. An act to add Chapter 25 (commencing with Section 22757) to Division 8 of the Business and Professions Code, relating to consumer protection.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-e6e5ca0e1a/2026-10-18/official.pdf",
+    "sha256": "3ec9dc4a4384cf767860788d0cdad7adcfae90b41594a390ea96ed7569a3f009",
+    "locator": "page 2, Existing law, 6)",
+    "quote": "Provides that a covered provider that violates the above provisions is liable for a civil penalty in the amount of $5,000 per violation",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "2025-10-13 -> 2026-09-30: AB 2713, which amends Section 22757.3.1 of the Act, was approved by the Governor and chaptered on 30 Sep 2026 (Chapter 856, Statutes of 2026), according to the Assembly's record",
+   "official_identifier": "adds Chapter 856, Statutes of 2026 (AB 2713) to the amending acts",
+   "notes": "last sentence: AB 2713 is no longer a proposal but an enacted amendment; it now gives the chapter, the approval date, its subject title and the section it amends",
+   "verification.note": "rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "SB 942 was approved and chaptered on 19 Sep 2024 (Senate history). As amended (APCP analysis of AB 2713, existing law): covered providers' latent-disclosure duty applies 'Beginning August 2, 2026' (passed), large online platforms' duties 'Beginning January 1, 2027' and capture-device makers' duties 'Beginning January 1, 2028' (both still ahead on 18 Oct 2026). Some provisions apply, others not yet: 'Partially in force' stands. AB 2713 (Chapter 856) and SB 1000 (Chapter 861, not a stored source of this record) were enacted on 30 Sep 2026; neither stored record shows that they change these dates, but their texts are not stored.",
+  "date_reasoning": "date_published 2024-09-19: 'Sep. 19—Approved by the Governor' and the table of chaptered Senate bills ('Sep. 19, 2024'). date_in_force 2026-08-02: the first duties that apply under the Act as amended. date_last_updated 2026-09-30: the latest amending act in a stored record, AB 2713, approved and chaptered on 30 Sep 2026.",
+  "scope_reasoning": "AI-specific state law on provenance disclosures and detection tools for generative AI content; in scope with no note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.senate.ca.gov/media/4209",
+   "reason": "Senate Weekly History No. 67 of 30 Nov 2024 (stored in this run, round 1 request)."
+  },
+  {
+   "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2.6.2026-weekly-history_0.pdf",
+   "reason": "Assembly Weekly History No. 18 of 6 Feb 2026 (stored in this run, round 1 request): AB 853."
+  },
+  {
+   "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/10.5.2026-weekly-history.pdf",
+   "reason": "Assembly Weekly History No. 37 of 5 Oct 2026 (stored in this run, round 1 request): AB 2713."
+  },
+  {
+   "url": "https://apcp.assembly.ca.gov/system/files/2026-04/ab-2713-wicks-apcp-analysis.pdf",
+   "reason": "APCP analysis of AB 2713 (stored in this run, round 1 request): operative dates."
+  },
+  {
+   "url": "https://sjud.senate.ca.gov/system/files/2025-07/ab-853-wicks-sjud-analysis.pdf",
+   "reason": "SJUD analysis of AB 853 (stored in this run, round 1 request): existing law under SB 942."
+  },
+  {
+   "url": "https://www.gov.ca.gov/wp-content/uploads/2025/10/AB-853-Signing-Message.pdf",
+   "reason": "AB 853 signing message (stored in this run, round 1 request)."
+  }
+ ],
+ "open_questions": [
+  "SB 1000 (Becker), approved by the Governor and chaptered on 30 Sep 2026 as Chapter 861, Statutes of 2026, amends Sections 22757.1, 22757.2, 22757.3, 22757.4 and 22757.5 of the Business and Professions Code (the Act's definitions, detection-tool, disclosure, penalty and related sections) and adds and repeals Section 22757.4.1, as an urgency statute that takes effect immediately. This is in the Senate Weekly History of 1 Oct 2026 (https://www.senate.ca.gov/media/4621, stored in this run under US-CA-06), not in a stored source of this record. Its text is not stored, so whether it changes the covered-provider duties, their operative date of 2 Aug 2026, the penalty or the summary is open. A refresh of this record should store the Senate history (and, if a person can provide it, the chaptered text) and add Chapter 861 to official_identifier and the notes.",
+  "The text of AB 2713 as enacted (Chapter 856, Statutes of 2026; amended in the Senate on 21 Aug 2026) is not stored, so how it changed Section 22757.3.1 is described only from the committee analysis of April 2026.",
+  "The statute's own text is still not stored: leginfo.legislature.ca.gov refuses the archiver. official_url stays the Governor's release of 29 Sep 2024."
+ ],
+ "leads": []
+}

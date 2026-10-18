@@ -1,0 +1,188 @@
+{
+ "cand_id": "SI-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SI-02",
+ "record": {
+  "date_published": "2026",
+  "notes": "The Government's news release of 5 March 2026 says the Government adopted the strategy at its session that day. The strategy succeeds the national programme NpUI 2025, adopted in May 2021. Its first action plan, setting measures, responsible bodies, timelines, funding and indicators, is to be prepared within nine months of adoption under the Ministry of Digital Transformation. The strategy sets ten guiding principles, five strategic objectives and six horizontal building blocks, and names the Ministry of Digital Transformation as its national manager, with an interministerial coordination group, a Government Council for AI and an AI observatory. Its draft was in public consultation for 30 days from 17 November 2025, and the final draft was scheduled for the Economic and Social Council on 16 January 2026 and for adoption by the Government on 22 January 2026. For fundamental-rights impact assessment it refers to the Council of Europe's methodology for human rights, democracy and the rule of law.",
+  "verification": {
+   "note": "Refresh of 18 Oct 2026. The strategy PDF stored from gov.si on 12 Oct 2026 (102 pages, marked 'končna', final; unchanged when the archiver checked it on 18 Oct 2026) is the strategy's own text. It confirms the title, the principles, objectives and building blocks, the HG5 measures, the governance structure, the nine-month deadline for the first action plan and the preparation timeline, but states no adoption date. The adoption on 5 March 2026 rests on the Government's Slovenian news release of that day (gov.si, stored 12 Oct 2026), an announcement, so date_published gives the year 2026 that the strategy's own timeline shows (final draft in January 2026) and the day is in the notes. The Government's English translation of the strategy (108 pages, gov.si; it names no translator and uses the acronym NSAI 2030) and its English release on the 193rd session of 5 March 2026 were stored in the recheck of 17 Oct 2026. The strategy's page on gov.si now links a copy named NsUI2030-1.pdf; stored in this run, it is byte-identical to the stored PDF (same SHA-256)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 4, Povzetek",
+    "quote": "Slovenija z nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030) vstopa v novo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "news release, first paragraph",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 4, Povzetek",
+    "quote": "Slovenija z nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030) vstopa v novo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "news release, first paragraph",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 5, Povzetek",
+    "quote": "ki ga zaenkrat izvaja Ministrstvo za digitalno preobrazbo, ki je nacionalni upravljavec strategije",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "news release, first paragraph",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 80, timeline of preparation",
+    "quote": "Januar 2026 Uskladitev, obravnava na seji Ekonomsko-socialnega sveta in predvideno sprejetje na seji Vlade RS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "news release, date",
+    "quote": "5. 3. 2026 Ministrstvo za digitalno preobrazbo",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 1, header",
+    "quote": "NsUI 2030 – končna",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "news release, first paragraph",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 55",
+    "quote": "Strategija kot strateški okvir ne določa enotne proračunske razčlenitve",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 55",
+    "quote": "Prvi akcijski načrt bo pripravljen v devetih mesecih po spreje tju NsUI 2030",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "news release, date and first paragraph",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 6",
+    "quote": "Nacionalni program spodbujanja razvoja in uporabe umetne inteligence do leta 2025  (NpUI 2025), sprejet maja 2021",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 55",
+    "quote": "Prvi akcijski načrt bo pripravljen v devetih mesecih po spreje tju NsUI 2030",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 5",
+    "quote": "Svet Vlade Republike Slovenije za umetno inteligenco",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 80",
+    "quote": "17. novembra 2025 smo objavili predlog NsUI 2030 za javno obravnavo, ta je potekala 30 dni.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 80",
+    "quote": "12. januarja smo končni predlog poslali v še en krog medresorskega usklajevanja. Predlog bo na seji Ekonomsko-socialnega sveta obravnavan 16.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 81",
+    "quote": "sprejet pa naj bi bil na seji Vlade RS 22.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the strategy's own text gives no adoption date; its timeline shows the final draft in January 2026, and the day of adoption (5 March 2026) rests on the Government's news release, an announcement, so the date becomes 2026 and the day moves to the notes (rule 7b)",
+   "notes": "first sentence now names the news release as the source of the day of adoption; the nine-month deadline for the action plan is stated as the strategy states it (it rested on the English release); the planned adoption date of 22 January 2026 from the strategy's timeline added",
+   "verification": "note rewritten for this refresh"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored PDF is the final text ('končna'), and the Government's release of 5 March 2026 says the Government adopted it that day. A non-binding strategy to 2030 with nothing stored showing a replacement: Published (non-binding, current).",
+  "date_reasoning": "Rule 7b: the strategy's own text shows only that it was finalised in 2026 (January 2026 in its timeline); 5 March 2026 comes from the news release and is kept in the notes.",
+  "scope_reasoning": "National AI strategy with a substantial ethics, regulation and security part; the published record has no scope_note and this refresh does not change scope."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.gov.si/assets/ministrstva/MNZJU/MDP/DDD/DDD-dokumenti/NsUI2030-1.pdf",
+   "reason": "The copy of the strategy that its gov.si page now links (stored in this run); byte-identical to the stored PDF, so no revised edition."
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

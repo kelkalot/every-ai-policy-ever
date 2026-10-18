@@ -1,0 +1,2635 @@
+{
+ "provenance": {
+  "date": "2026-10-18",
+  "agent": "Claude Code",
+  "model": "claude-opus-5-5",
+  "scope": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh: ids:HK-02,US-CA-01,US-CA-02,US-CA-06,US-CA-07,US-CA-08,US-IL-02,IS-01,UA-01,G20-01,ID-02,US-IL-03,SA-04,SI-02,BG-01,LV-02,KR-04,KR-05,KR-06,KR-07,KR-08,BN-01,KH-01,US-HI-01,JM-01,CN-19,JP-12,US-CA-14,FR-02,GB-10,NL-01)",
+  "run_id": "2026-10-18-refresh-level-rule-2",
+  "stages": {
+   "collect": {
+    "tool": null,
+    "model": null,
+    "date": null
+   },
+   "extract": {
+    "tool": "Claude Code",
+    "model": "claude-opus-5-5",
+    "date": "2026-10-18",
+    "tokens": 1360469
+   },
+   "blind": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18",
+    "tokens": 116049
+   },
+   "check": {
+    "tool": "Claude Code",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-18"
+   }
+  }
+ },
+ "records": [],
+ "updates": [
+  {
+   "id": "HK-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read: the guideline's own text, version 1.1 dated December 2025 (digitalpolicy.gov.hk PDF, stored 11 Oct 2026, unchanged on 18 Oct 2026), which confirms the title, the DPO's commissioning of HKGAI, its purpose as codes and practices for reference by all sectors, the regular updates, the English-prevails clause and the content of the summary; and the DPO's page 'AI and Data Ethics' (stored 11 Oct 2026, unchanged on 18 Oct 2026), which says the DPO promulgated the guideline and links the PDF. Stored again in this run: the HKSAR Government press release of 15 Apr 2025 (info.gov.hk), which dates the first release to that day. Neither the guideline, whose cover gives only the date of version 1.1, nor the DPO page dates the first release, so date_published rests on the press release, an announcement, and the record is level B. The PDF has no version history, so what changed in version 1.1 is not stated.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "safety_topics": [
+    "transparency & labelling",
+    "general-purpose / frontier AI"
+   ],
+   "notes": "Approved by the Governor and chaptered on 28 Sep 2024 as Chapter 817, Statutes of 2024. It adds Title 15.2 (commencing with Section 3110) to Part 4 of Division 3 of the Civil Code; the posting duty is in Civil Code section 3111. The Governor's release of 29 Sep 2024 lists it among the 17 bills on generative AI that he had signed over the previous 30 days. Compliance required from 1 Jan 2026.",
+   "id": "US-CA-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Assembly Weekly History No. 9 of 30 Nov 2024, the last complete history of the 2023-24 second-year bills compiled under the Chief Clerk (clerk.assembly.ca.gov), the legislature's record of AB 2013, which gives the subject title 'Generative artificial intelligence: training data transparency', the Code title it adds and its approval and chaptering on 28 Sep 2024 as Chapter 817, Statutes of 2024; and again the Senate Judiciary Committee's analysis of AB 412 (hearing of 23 Jun 2026, sjud.senate.ca.gov), which describes Civil Code section 3111 as existing law, with the deadline of 1 Jan 2026 and systems released on or after 1 Jan 2022. Re-read: the Governor's release of 29 Sep 2024 (gov.ca.gov, copy of 17 Oct 2026). The title, date and status now rest on the Assembly's record. The statute's text on leginfo.legislature.ca.gov still refuses automated downloads (HTTP 403), so official_url stays the Governor's release and the summary rests on the committee's description of section 3111. The AB 412 analysis once calls the law the 'California AI Transparency Act', the name of SB 942 (US-CA-02); the record keeps the bill's subject title. date_in_force is the compliance deadline of section 3111; no stored file gives the statute's own effective date.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "official_identifier": "Chapter 291, Statutes of 2024 (Senate Bill 942); amended by Chapter 674, Statutes of 2025 (Assembly Bill 853) and Chapter 856, Statutes of 2026 (Assembly Bill 2713)",
+   "date_last_updated": "2026-09-30",
+   "notes": "Signed on 19 Sep 2024 as Chapter 291, Statutes of 2024, and originally to become operative on 1 Jan 2026. AB 853 (Wicks), Chapter 674, Statutes of 2025, signed on 13 Oct 2025, strengthened the Act; as amended, the covered-provider duties apply from 2 Aug 2026, the duties of large online platforms from 1 Jan 2027 and those of capture-device makers, for devices first produced for sale from that date, from 1 Jan 2028. In his AB 853 signing message the Governor asked the Legislature for follow-up legislation in 2026, before the law took effect, on technical feasibility and user privacy. AB 2713 (Wicks), 'California AI Transparency Act: system provenance data', approved on 30 Sep 2026 as Chapter 856, Statutes of 2026, amends Section 22757.3.1 of the Business and Professions Code, the duty of large online platforms to let users inspect system provenance data; as heard in committee in April 2026 it concerned users' download of content and its provenance data from those platforms.",
+   "id": "US-CA-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 67 of 30 Nov 2024 (senate.ca.gov, compiled under the Secretary of the Senate), the legislature's record of SB 942, which gives its approval and chaptering on 19 Sep 2024 as Chapter 291, Statutes of 2024, and its subject title 'California AI Transparency Act'; the Assembly Weekly Histories No. 18 of 6 Feb 2026 and No. 37 of 5 Oct 2026 (clerk.assembly.ca.gov), which record AB 853 (approved and chaptered 13 Oct 2025, Chapter 674) and AB 2713 (approved and chaptered 30 Sep 2026, Chapter 856, amending Section 22757.3.1); and again the Senate Judiciary Committee's analysis of AB 853 (hearing of 15 Jul 2025), the Assembly Privacy and Consumer Protection Committee's analysis of AB 2713 (hearing of 16 Apr 2026) and the Governor's AB 853 signing message (a scan, read by OCR). Re-read: the Governor's releases of 29 Sep 2024 and 13 Oct 2025 (gov.ca.gov). Title, date and status now rest on the legislature's records; the covered-provider duties, the penalty, the operative dates and the summary rest on the two committee analyses, because the statute's text on leginfo.legislature.ca.gov refuses automated downloads (HTTP 403). No stored file says which act moved the operative date from 1 Jan 2026 to 2 Aug 2026, and the text of AB 2713 as enacted (it was amended in the Senate on 21 Aug 2026) is not stored, so the notes describe it only as heard in April 2026. The Senate Weekly History of 1 Oct 2026, stored in this run for US-CA-06, records a further amending act, SB 1000 (Becker), Chapter 861, Statutes of 2026; it is not a stored source of this record, so it is listed as an open question.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "official_identifier": "Chapter 677, Statutes of 2025 (Senate Bill 243); amended by Chapter 189 (Senate Bill 867) and Chapter 190 (Senate Bill 1119), Statutes of 2026",
+   "date_last_updated": "2026-09-10",
+   "notes": "Passed the Assembly 59-1 on 10 Sep 2025 and the Senate 33-3 on 11 Sep 2025; signed on 13 Oct 2025 as Chapter 677, Statutes of 2025, in a package on children's online safety that also included AB 1043 (age verification signals), AB 316 (artificial intelligence: defenses), AB 621 (deepfake pornography) and AB 853 (California AI Transparency Act amendments). It adds Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code. Effective 1 Jan 2026. On 10 Sep 2026 the Governor approved SB 867 ('Toys: companion chatbots', Chapter 189, Statutes of 2026), which amends Section 22601 and adds and repeals Section 22604.5, and SB 1119 ('Companion chatbots: children's safety', Chapter 190, Statutes of 2026), which amends Section 22602 and adds Chapter 11.6 (commencing with Section 21810) to Division 8 of that Code.",
+   "id": "US-CA-06",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 41 of 5 Feb 2026, the last complete history of the 2025 bills, and No. 67 of 1 Oct 2026 (senate.ca.gov, compiled under the Secretary of the Senate). They are the legislature's record of SB 243: its subject title 'Companion chatbots', the chapter of the Business and Professions Code it adds, the floor votes and its approval and chaptering on 13 Oct 2025 as Chapter 677, Statutes of 2025. The history of 1 Oct 2026 also records SB 867 (Chapter 189) and SB 1119 (Chapter 190), both approved on 10 Sep 2026, which amend Sections 22601 and 22602 of that chapter; date_last_updated and official_identifier follow it. Stored again: Senator Padilla's release of 13 Oct 2025 (sd18.senate.ca.gov), which gives the start date of 1 Jan 2026 and the private right of action, and the Assembly Privacy and Consumer Protection Committee's 2025 bill summary, which also gives Chapter 677. Re-read: the Governor's release of 13 Oct 2025 (gov.ca.gov, copy of 17 Oct 2026). The bill's page on leginfo.legislature.ca.gov still refuses automated downloads (HTTP 403), so official_url stays the Governor's release. The texts of SB 867 and SB 1119 as enacted, and when their amendments take effect, are not in a stored file. Version 1's reporting start of 1 Jul 2027 rests on no source and stays out of the notes.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported."
+   }
+  },
+  {
+   "title": "Independent Verification Organizations (SB 813) and Artificial Intelligence: Auditors: Registration (AB 1405)",
+   "official_identifier": "Chapter 179, Statutes of 2026 (Senate Bill 813); Chapter 178, Statutes of 2026 (Assembly Bill 1405)",
+   "notes": "Both approved by the Governor on 9 Sep 2026: SB 813 as Chapter 179 and AB 1405 as Chapter 178, Statutes of 2026. SB 813 adds Chapter 14 (commencing with Section 8898) to Division 1 of Title 2 of the Government Code, and AB 1405 adds Chapter 5.9.5 (commencing with Section 11549.80) to Part 1 of Division 3 of Title 2. EO N-9-26 of 18 Sep 2026 (US-CA-09) orders the Government Operations Agency to complete the requirements of Gov. Code sec. 8898.1 and post application requirements, procedures and criteria for independent verification organizations by 1 May 2027, and to complete the requirements of Gov. Code sec. 11549.82(a) by 1 Dec 2027. Combined into one record because they were enacted together as a single verification and audit framework.",
+   "id": "US-CA-07",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 67 of 1 Oct 2026 (senate.ca.gov) and the Assembly Weekly History No. 37 of 5 Oct 2026 (clerk.assembly.ca.gov), the legislature's records of SB 813 and AB 1405. They give the subject titles 'Independent verification organizations' and 'Artificial intelligence: auditors: registration', the Government Code chapters the acts add and their approval and chaptering on 9 Sep 2026 as Chapters 179 and 178, Statutes of 2026; the title and official_identifier now follow them. Re-read: the Governor's release of 9 Sep 2026 (gov.ca.gov, copy of 18 Oct 2026), which gives the authors and purposes, and EO N-9-26 of 18 Sep 2026 (gov.ca.gov PDF, stored as the record's secondary source), which gives the implementation deadlines and the Government Code sections. The bills' text on leginfo.legislature.ca.gov still refuses automated downloads, so the statutes' text and their effective date are not stored, and the summary rests on the release and the executive order.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "official_identifier": "Chapter 190, Statutes of 2026 (Senate Bill 1119)",
+   "notes": "Passed the Senate 39-0 on 19 May 2026 and, as amended, the Assembly 69-4 on 31 Aug 2026, when the Senate concurred 39-0 (Senator Padilla's release of 31 Aug 2026 gives the Assembly vote as 64-4). Approved by the Governor on 10 Sep 2026 as Chapter 190, Statutes of 2026 (Padilla; Wicks; Bauer-Kahan), in a 13-bill child online-safety package that also included SB 867 (toys: companion chatbots), AB 1709 (covered platforms: age restriction) and SB 1276 (crimes: sexual exploitation of a child). It amends Section 22602 of the Business and Professions Code and adds Chapter 11.6 (commencing with Section 21810) to Division 8 of that Code. It builds on SB 243 (2025), uses the age-bracket signal of AB 1043 (2025) and draws on provisions of AB 1064 (2025) on harmful outputs. It also gives families harmed by violations of its crisis-referral, parental-notice, default-protection and harmful-output provisions a private right of redress.",
+   "id": "US-CA-08",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Senate Weekly History No. 67 of 1 Oct 2026 (senate.ca.gov, compiled under the Secretary of the Senate), the legislature's record of SB 1119, which gives its subject title 'Companion chatbots: children's safety', the sections it amends and adds, the floor votes and its approval and chaptering on 10 Sep 2026 as Chapter 190, Statutes of 2026; and again Senator Padilla's release of 31 Aug 2026 (sd18.senate.ca.gov), which names the bill 'Adam's Law (SB 1119)' and lists its requirements as passed by the Legislature. Re-read: the Governor's release of 10 Sep 2026 (gov.ca.gov, copy of 18 Oct 2026). The Senate's record gives the Assembly vote of 31 Aug 2026 as 69-4, the release 64-4; the notes follow the record. The bill's text on leginfo.legislature.ca.gov still refuses automated downloads, so the text and the effective date are not stored, and the summary rests on the author's release. The record's second stored file (document-1.pdf) is EO N-12-23 of 2023, linked from the release, and is not a source for SB 1119.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "id": "US-IL-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. The only stored source is IDFPR's press release of 4 Aug 2025 (idfpr.illinois.gov PDF, stored 11 Oct 2026, unchanged on 18 Oct 2026), an announcement, so the title, date and status count as alt-official and the record is level B. The release confirms the title, that Governor Pritzker signed the Act 'on Friday' before the Monday release (1 Aug 2025), that it passed both chambers unanimously and took effect on signature, the prohibition and the permitted administrative and supplementary uses, IDFPR's power to investigate and the fine of up to $10,000. The Act's text (Public Act 104-0054, a number taken from a web search) and the bill status page on ilga.gov were requested in this run and could not be stored: the connection to ilga.gov failed again, as in earlier runs. The Public Act number and the General Assembly in official_identifier are therefore not in a stored source.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2025-07",
+   "official_url": "https://www.stjornarradid.is/library/?itemid=55ec2a72-a5b9-11f0-b896-005056bcde1f",
+   "secondary_url": "https://www.stjornarradid.is/library/?itemid=6f0d36d4-72c8-11f0-b894-005056bcde1f",
+   "scope_note": "Existing scope_note kept: action plan whose safety content is limited to a few actions.",
+   "id": "IS-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. The record pointed at the Government of Iceland's news item of 1 July 2025 announcing the English edition, an announcement; the plan's own text is published in the government library in English and in Icelandic. Stored in this run as the plan's text: the English edition (40 pages), which carries the ministry's imprint, 'July 2025' and its own ISBN, and becomes the official URL; and the Icelandic edition (32 pages), which gives the Icelandic title, 'Júlí 2025' and a separate ISBN, and becomes the secondary URL. Neither edition gives a day, so date_published now has the month the plan gives, and the notes keep the days of the two news items (1 July 2025 for the English edition, 2 July 2025 for the Icelandic one, read in an earlier run). Re-read the English news item of 1 July 2025 (stored 11 Oct 2026). The English edition does not call itself a translation and is recorded as one of the issuer's own texts.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 8 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "id": "UA-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The record rests on two announcements: the Cabinet of Ministers portal's news item of 7 October 2023 on the roadmap's presentation (kmu.gov.ua; the item's text is the same in the copies of 11 and 17 Oct 2026, only the page around it changed) and the Ministry of Digital Transformation's news item on the planned AI law (thedigital.gov.ua, stored 11 Oct 2026; the page's metadata dates it 15 June 2026, a date its text does not show). They confirm the title, the date of presentation, the ministry as author, the expert committee, the bottom-up tools and the later instruments, as announcements do (level B). The roadmap itself is linked from the Cabinet item only through a URL shortener (cutt.ly) that leads to a PDF on cms.thedigital.gov.ua; the archiver could not store it on 17 or 18 Oct 2026 (the download timed out both times). No English version of the roadmap was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2025-11",
+   "notes": "Adopted on 22 November 2025, the first day of the summit, in the absence of the United States: the South African Presidency's text of President Ramaphosa's address at the leaders' reception that evening says 'Today, we have adopted the Leaders' Declaration', and the government news service SAnews reported on 23 November 2025 that the leaders adopted it at the very start of the summit. The declaration itself gives only the summit's dates, 22 and 23 November 2025. It has 122 paragraphs; its AI section is paragraphs 44-47 under the heading 'Artificial Intelligence, Data Governance and Innovation for Sustainable Development'. Paragraph 46 notes the Technology Policy Assistance Facility set up by UNESCO under the South African Presidency to support countries in shaping their AI policies. Paragraph 122 commits members to working together under the United States' Presidency in 2026 and to meeting in the United Kingdom in 2027 and the Republic of Korea in 2028.",
+   "scope_note": "Existing scope_note kept: general summit declaration with an AI section.",
+   "id": "G20-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the declaration's PDF from the site of South Africa's Department of International Relations and Cooperation (dirco.gov.za, stored 17 Oct 2026; the copy on g20.org refuses the archiver with HTTP 403), the declaration's own text, which gives the title, the summit on 22 and 23 November 2025 and paragraphs 44-47 and 118-122; and the South African Presidency's text of the President's address at the G20 leaders' reception, dated Saturday 22 November 2025 ('Today, we have adopted the Leaders' Declaration'), stored as the record's secondary source. The declaration gives no day of adoption, only the summit's two days, so date_published now has the month the declaration gives and the notes keep the day with its sources; the address is a speech, an announcement, and counts as alt-official. Stored again in this run: the SAnews report of Sunday 23 November 2025 (sanews.gov.za, a government news service; a news report, so alt-official), which says the leaders adopted the declaration at the very start of the summit, in the absence of the United States. The G20 Research Group's reprint (not an official host) is dated Johannesburg, 22 November 2025.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "notes": "Presidential Decree 38/2025 of 22 December 2025 places both drafts, with the Ministry of Communication and Digital Affairs as initiator, in the programme for drafting Presidential Regulations in 2026. It lists the roadmap for 2026-2030 and gives the ethics regulation's subject matter as AI ethics values, the benefits of applying them, identification and mitigation of risks, safeguards, the roles and responsibilities of the parties, and monitoring and evaluation. On 11 February 2026 an inter-ministerial committee of more than 30 ministries and agencies, chaired by the Director General of Digital Ecosystem, discussed the roadmap regulation and agreed four policy directions: stronger stakeholder involvement, innovation, technology and research capability, and mitigation of the risks of AI use; Komdigi's legal bureau stressed consistency of the policy period agreed up to 2029, and the government targeted enactment of the roadmap regulation in the first quarter of 2026. A plenary of the inter-ministerial committee on the ethics regulation followed on 12 February 2026, with ministries and agencies including the national police, the research agency BRIN, the health ministry and the state intelligence agency. Both drafts went through public consultation, focus group discussions and harmonisation in March 2026; inter-ministerial discussion with the State Secretariat ended on 5 May 2026, after which both were to be submitted to the President for enactment. Komdigi's legal bureau likens the ethics regulation to substantive law and the roadmap to the procedural framework, and says the ethics regulation answers the lack of a national, systematic AI ethics guideline. The AI regulation is to carry no sanctions of its own. The roadmap is to adjust the National AI Strategy 2020-2045 (Stranas KA) after the rise of generative AI. The ministry describes its 2023 ethics circular (ID-01) as interim guidance that does not replace binding regulation.",
+   "id": "ID-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. No text of either draft regulation is published. Stored in this run: Presidential Decree 38/2025 of 22 December 2025 on the programme for drafting Presidential Regulations in 2026 (a scanned copy with a machine-read text layer, from the legal documentation site of the Coordinating Ministry for Infrastructure, jdih.kemenkoinfra.go.id), the President's formal record that both drafts, initiated by Komdigi, are in the 2026 programme; it confirms the ethics regulation's title, the draft status and the year, and lists the roadmap for 2026-2030 (its text layer misreads 'Artifisial' as 'Artifrsial' and 'Artilisial'). Read with it: Komdigi's legal documentation site (jdih.komdigi.go.id) news items of 12 Feb 2026 (roadmap plenary of 11 Feb 2026), 18 Feb 2026 (ethics plenary of 12 Feb 2026) and 6 May 2026 (end of inter-ministerial discussion on 5 May 2026), all announcements; they give the roadmap's period as 2026-2029, the period the plenary of 11 Feb 2026 agreed, and the title follows them. The legal bureau's FAQ document (same site, the record's secondary source) refers once to the roadmap as 2025-2029. The Hukumonline report of 17 Mar 2026 (hukumonline.com, secondary; only its first page is stored) is the source of the note that the AI regulation carries no sanctions (its headline) and of the topic 'transparency & labelling'; the earlier statement that enforcement relies on existing law is not in the stored text and was removed. Version 1's August 2025 consultation dates rested on press; the Bisnis.com report of 9 Aug 2025 refused the archiver, so date_published gives the year 2025.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "US-IL-03",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the Governor's press release of 6 Jul 2026 on the State of Illinois Newsroom (gov-pritzker-newsroom.prezly.com, listed as the Governor's official newsroom), stored 17 Oct 2026 at its permanent URL. It confirms the bill number, the act's name, the signing on 6 Jul 2026, passage by the General Assembly, the 1 Jan 2027 effective date, the core obligations and the sponsors. It is an announcement of the signing, not the Act's text, so its quotes count as alt-official and the record rests on it alone. The release gives no Public Act number, thresholds (revenue, compute), penalties, enforcing authority or phased dates, and the '104th General Assembly' in official_identifier is not shown in it. The Act's full text on ilga.gov was requested in this run but could not be stored: the connection timed out, as ilga.gov refused connections in earlier runs.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "id": "SA-04",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The record rests on CST's news release of 14 April 2025 in English (cst.gov.sa, snapshot of 11 Oct 2026, unchanged on 18 Oct 2026) and in Arabic (stored 18 Oct 2026), an announcement of the consultation. The releases confirm the English and Arabic titles, CST as issuer, the consultation window and the three centre models as another official source would (level B). The draft's own text, a PDF in English and Arabic ('Final Draft for PC') on the Istitlaa consultation platform whose address a law-firm note gives, could not be stored: the platform timed out for the archiver on 11 and 18 Oct 2026, and on one attempt of 18 Oct 2026 its host could not be resolved. No stored source shows adoption, a royal decree or publication in the Official Gazette.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "date_published": "2026",
+   "notes": "The Government's news release of 5 March 2026 says the Government adopted the strategy at its session that day. The strategy succeeds the national programme NpUI 2025, adopted in May 2021. Its first action plan, setting measures, responsible bodies, timelines, funding and indicators, is to be prepared within nine months of adoption under the Ministry of Digital Transformation. The strategy sets ten guiding principles, five strategic objectives and six horizontal building blocks, and names the Ministry of Digital Transformation as its national manager, with an interministerial coordination group, a Government Council for AI and an AI observatory. Its draft was in public consultation for 30 days from 17 November 2025, and the final draft was scheduled for the Economic and Social Council on 16 January 2026 and for adoption by the Government on 22 January 2026. For fundamental-rights impact assessment it refers to the Council of Europe's methodology for human rights, democracy and the rule of law.",
+   "id": "SI-02",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The strategy PDF stored from gov.si on 12 Oct 2026 (102 pages, marked 'končna', final; unchanged when the archiver checked it on 18 Oct 2026) is the strategy's own text. It confirms the title, the principles, objectives and building blocks, the HG5 measures, the governance structure, the nine-month deadline for the first action plan and the preparation timeline, but states no adoption date. The adoption on 5 March 2026 rests on the Government's Slovenian news release of that day (gov.si, stored 12 Oct 2026), an announcement, so date_published gives the year 2026 that the strategy's own timeline shows (final draft in January 2026) and the day is in the notes. The Government's English translation of the strategy (108 pages, gov.si; it names no translator and uses the acronym NSAI 2030) and its English release on the 193rd session of 5 March 2026 were stored in the recheck of 17 Oct 2026. The strategy's page on gov.si now links a copy named NsUI2030-1.pdf; stored in this run, it is byte-identical to the stored PDF (same SHA-256).",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "original_title": "Решение № 398 от 18 юни 2025 година за определяне на национални органи по защита на основните права, включително правото на недискриминация, съгласно чл. 77 от Регламент (ЕС) 2024/1689 на Европейския парламент и на Съвета от 13 юни 2024 година за установяване на хармонизирани правила относно изкуствения интелект и за изменение на регламенти (ЕО) № 300/2008, (ЕС) № 167/2013, (ЕС) № 168/2013, (ЕС) 2018/858, (ЕС) 2018/1139 и (ЕС) 2019/2144 и директиви 2014/90/ЕС, (ЕС) 2016/797 и (ЕС) 2020/1828 (Акт за изкуствения интелект)",
+   "summary": "Decision of the Bulgarian Council of Ministers under Article 77(2) of the AI Act designating seven bodies as national authorities that supervise or ensure compliance with EU-law obligations protecting fundamental rights, including non-discrimination, in the use of the high-risk AI systems listed in Annex III: the Ombudsman, the Central Election Commission, the Commission for Protection against Discrimination, the Commission for Personal Data Protection, the Consumer Protection Commission, the State Agency for Child Protection and the General Labour Inspectorate Executive Agency. The Minister of e-Government is to notify the Commission and the other Member States of the list and publish it.",
+   "id": "BG-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The record now rests on the decision's own text: the transcript from the Council of Ministers' legal information system (pris.government.bg, a Word .doc stored on 12 Oct 2026), which this run reads through a text layer. It gives the number 398, the date of 18 June 2025, the full heading, the legal basis (Article 77(2) of Regulation (EU) 2024/1689), the reference to the high-risk AI systems of Annex III, the seven bodies, the Minister of e-Government's duties to notify the Commission and the other Member States and to publish the list on the ministry's website, and the Prime Minister's signature. The portal answered HTTP 500 on 17 and 18 Oct 2026, so the copy of 12 Oct 2026 is the latest stored. The BTA report of 9 January 2026 (bta.bg, secondary; copy of 18 Oct 2026) supports the ministry's answers in the notes. The sitting of 18 June 2025 and the entry in the register of acts on 19 June 2025 in the notes rest on the Council of Ministers' sitting page (gov.bg) and the act's entry on strategy.bg, stored in the recheck of 17 Oct 2026. original_title now gives the decision's heading in full, including the full title of Regulation (EU) 2024/1689 that version 1 shortened. The recheck of 17 Oct 2026 found no State Gazette publication and no English version.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "LV-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The record rests on VARAM's English press release of 25 February 2025 (varam.gov.lv, stored 12 Oct 2026, unchanged on 18 Oct 2026), an announcement, and on the Commission's page of single points of contact for market surveillance under the AI Act (last updated 7 September 2026). The release confirms the title, the report's preparation by VARAM, the Cabinet's consideration on 25 February 2025 and the designated authorities, as another official source would (level B). The summary and notes are written from the release, not from the report. The report itself, a Word file of 2025 on the Cabinet's legal-acts portal TAP (file 24-TA-2633), was requested in this run, but the portal's robots.txt does not allow automated downloads, so it is not stored.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "KR-04",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the guideline (nia.or.kr, PDF, 33 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; the cover page has no text layer, and its image shows the title and the logos of TTA and MSIT but no date); MSIT's press release of 21 January 2026 on korea.kr, as the record's secondary source (copy of 18 Oct 2026, whose text layer holds only the headline, the posting date and the attachment names, and which differs from the copy of 14 Oct 2026 only in the site's sidebar) and, stored in this run, as a page and a printed copy with the full release text; and NIA's notice of 22 January 2026 distributing the AI Basic Act guidelines, stored in this run. The guideline confirms the title, the three Article 31 duties, the deepfake definition, the duty holder and the marking rules. It carries no date of its own, so the publication date rests on the press release (distributed 21 January for the morning papers of 22 January, saying MSIT published the guideline on 22 January) and NIA's notice of 22 January 2026. Both are announcements and count as alt-official, so the record is level B until an official record dating the guideline is stored. The press release also confirms the September 2025 draft, the guidance period of at least one year, the responsible AI Safety and Trust Support Division and publication on the MSIT and TTA websites; NIA's notice confirms the file dated 26 January 2026, the change of 27 January 2026 and that the posted files are the current versions. The archiver flagged the two pages stored in this run for review because they barely mention the guideline's title; they are the press release and the notice that distribute it.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "KR-05",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the draft guideline (nia.or.kr, PDF, 71 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; read through pdftotext, as the PDF's own text layer is garbled) and NIA's notice of 22 January 2026 distributing the AI Basic Act guidelines, stored in this run. The cover image shows the title, '2026. 1' and the logos of MSIT and ETRI, but the cover has no text layer, so the month cannot be quoted, and no page of the text gives a date for the guideline; the publication date therefore rests on NIA's notice (its date and the file name 260122), an announcement that counts as alt-official, and the record is level B. The PDF confirms the draft marking, the Article 32 and Decree Article 24 basis, the three criteria, the draft notification with its blank number, the compute-calculation methods, the chapter structure, the three-month submission rule and the 24-hour, 7-day and 15-day incident reports. The running header on every page misprints the title as '인공지능 안정성 확보 가이드라인'; the notice's file name gives the title correctly. MSIT as author rests on the cover logos and on the guideline's purpose of explaining MSIT's notification; no text names it as the author. The KOSA help desk's later version (draft notification No. 2026-126 of February 2026, title '최첨단 인공지능 안전성 확보 가이드라인'), on which date_last_updated '2026-02' and the KOSA part of issuing_body rest, could not be stored: the site's robots.txt does not allow automated downloads, and sw.or.kr is listed as not official. The archiver flagged NIA's notice for review because it barely mentions the guideline's title; it is the notice that distributes the guideline files.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 3 field(s) supported, fixes applied to title, original_title."
+   }
+  },
+  {
+   "id": "KR-06",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the guideline (nia.or.kr, PDF, 216 pages, version of 29 April 2026, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; pages 1 to 6 have no text layer), MSIT's online form for high-impact AI confirmation requests (msit.go.kr, the record's secondary source, same dates) and NIA's notice of 22 January 2026 distributing the AI Basic Act guidelines, stored in this run. The guideline confirms the title (in its own FAQ), the Article 33(3) basis, the two-step test, the area table of Article 2(4), the examples, the confirmation procedure and its non-binding character. The cover image shows the English title 'Guidelines for Determining High-Impact AI Systems' and the logos of MSIT and NIA, but no date, and no page of the text dates the guideline. The publication date and the revisions of 29 January, 13 February and 29 April 2026 therefore rest on NIA's notice (its date, its revision notices and the file name 260429), an announcement that counts as alt-official, so the record is level B. The notice also says that the posted files are the current versions. The archiver flagged the notice for review because it barely mentions the guideline's title; it is the notice that distributes the guideline files.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "KR-07",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the guideline (nia.or.kr, PDF, 111 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; the text layer displaces some numbers and punctuation; the cover image shows the logos of MSIT and the Telecommunications Technology Association, TTA) and NIA's notice of 22 January 2026 listing the five guideline files and their revisions (the record's secondary source, copy of 18 Oct 2026, which differs from the copy of 14 Oct 2026 only in the view count). The guideline confirms the title, MSIT as its author, the Article 34 duties, the reproduced decree and notification articles, the annexes and the hiring example. It carries no date of its own (its background section says only that the Act was to take effect in January 2026), so the publication date rests on NIA's notice (its date and the file name 260122). The notice is an announcement and counts as alt-official, so the record is level B until an official record dating the guideline is stored. The notice also says that the posted files are the current versions. No stored file gives the number or status of the technical notification.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "date_published": "2026",
+   "notes": "Dated 2026 on its cover (39 pages); NIA's notice of 22 January 2026, the day the Act entered into force, distributed it with the other AI Basic Act guidelines. The assessment is an obligation of effort, which the guideline recommends rather than requires; details may be set by Presidential Decree (Article 35(3)), and Article 28 of the draft Enforcement Decree lists seven elements an assessment must contain, from identifying affected people and rights to an improvement plan. For products and services already offered before the Act took effect, the guideline recommends that operators decide for themselves whether to carry out an assessment. Results of other assessments, including the EU AI Act's fundamental rights impact assessment (Article 27) and assessments under ISO/IEC 42001 and 42005, may be drawn on. The Korea Information Society Development Institute (KISDI) is named as the dedicated agency supporting assessments. The guideline draws on the EU AI Act, the General-Purpose AI Code of Practice and UNESCO's Ethical Impact Assessment, and is to be updated once international standards are finalised.",
+   "id": "KR-08",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read: NIA's copy of the guideline (nia.or.kr, PDF, 39 pages, stored 12 Oct 2026 and unchanged when the archiver checked it on 18 Oct 2026; the cover shows the year 2026 and, as an image, the logos of MSIT and KISDI) and NIA's notice of 22 January 2026 listing the guideline files (the record's secondary source, copy of 18 Oct 2026, which differs from the copy of 14 Oct 2026 only in the view count). The guideline confirms the title, the year 2026, the text of Article 35, the three-stage structure, the annexes, the draft decree article and KISDI's support role. It gives only the year, so date_published is 2026; the day, 22 January 2026, rests on NIA's notice (its date and the file name 260122), an announcement, and is in the notes. The notice also confirms NIA's distribution and that the posted files are the current versions.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported, fixes applied to status."
+   }
+  },
+  {
+   "official_url": "https://www.aiti.gov.bn/guide-books/guide-on-ai-governance-and-ethics-for-brunei-darussalam",
+   "secondary_url": "https://www.aiti.gov.bn/news/2025/guide-on-artificial-intelligence-governance-and-ethics-for-brunei-darussalam/",
+   "id": "BN-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. official_url now points at the guide itself: the PDF served from AITI's guide-books page (39 pages; stored in this run as an official source, identical to the copy stored as the record's secondary source on 12 Oct 2026). It confirms the title, AITI and the working group as authors, the guide's non-binding character and that it may be amended with prior notice. AITI's press release of 11 April 2025 (aiti.gov.bn, in Malay and English; copy of 12 Oct 2026, unchanged on 18 Oct 2026), now the secondary_url, gives the release date and the Malay title. The guide itself gives no date other than a copyright line of 2024, so the date rests on the release, an announcement, and the record is level B. AITI's AI governance and ethics page (aiti.gov.bn, stored in this run) gives the working group's formation in May 2024 with 25 members, the consultation paper of 9 July 2024 with 17 responses, and download links for the guide and a 'Second Edition' shown only in a third-party flipbook viewer (flowpaper.com) that exposes no text, so its date and changes are unknown.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://api.oecd.ai/storage//policy-initiatives/Apr2026/117ojpi25umod2xb23-Cambodia%20National%20Ai%20strategy.pdf",
+   "id": "KH-01",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. official_url now points at the draft's own text: the English 'Draft National Artificial Intelligence Strategy 2025-2030', prepared by MPTC and dated June 2025 (29 pages), the copy that the OECD.AI Policy Navigator entry links on OECD.AI's file storage (api.oecd.ai; the entry was updated by Cambodia's national contact point). MPTC's consultation announcement distributed the draft through a QR code, and no copy on an MPTC site is stored. The draft confirms the title, MPTC as author, the date June 2025, its draft status, priority 5, the 41 measures and the implementation mechanism. Also stored and read: MPTC's press release of 22 April 2025 on the deep-dive workshop (mptc.gov.kh; the previous official_url, copy of 12 Oct 2026), MPTC's announcement opening the public consultation (posted under 1 June 2025) and its release of 13 May 2025 on consultation meetings with ministries, all announcements, and the OECD.AI entry (the secondary source, copy of 18 Oct 2026), which gives the Khmer title and lists the strategy as proposed or under development. Whether the stored draft is the same text MPTC put to consultation is not stated in it. No adoption decision appears in any stored file.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "id": "US-HI-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the Office of the Governor of Hawaii news release of 15 Jul 2026 ('Gov. Green Completes Bill Signing Season and Issues Veto Decision', governor.hawaii.gov, stored 12 Oct 2026), which says SB 3001 became Act 248 and describes its content, and the Transparency Coalition's tracker article (transparencycoalition.ai, not an official site; stored 17 Oct 2026), which gives 14 Jul 2026 as the enactment and effective date. Stored again in this run: the Governor's release of 14 Jul 2026 (governor.hawaii.gov/?p=12919), which says the Governor 'today signed' three measures, among them SB 3001: Relating to Artificial Intelligence, Act 248, and describes its disclosures, response protocols, annual reports and protections for minors. Both Governor's releases are announcements, not the Act's text, so their quotes count as alt-official. The conference draft of SB 3001 on data.capitol.hawaii.gov, which would carry the Act's text and its effective-date section, could not be stored (HTTP 403, also in the browser), as Governor's Message No. 1350 could not before. The 14 Jul 2026 effective date therefore rests only on the tracker, and the summary follows the two Governor's releases.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Written by the National Artificial Intelligence Task Force, which was set up under the Office of the Prime Minister in 2023, is chaired by Christopher Reckord of the Private Sector Organisation of Jamaica and drew its members from the private sector, public institutions and academia; the report was presented to the Office of the Prime Minister. The Office of the Prime Minister dates the report to September 2024, and the Government announced its official publication on 13 Feb 2025, adding that Cabinet had begun reviewing the recommendations. After a Cabinet decision, the Minister responsible for science and technology in the Office of the Prime Minister convened a reconstituted 23-member Task Force on 19 Feb 2026 and charged it with a draft national AI policy within six to nine months and a draft legislative framework within twelve months, building on these recommendations and the UNESCO AI Readiness Assessment. In May 2026 the Task Force was still working towards Jamaica's first National AI Policy.",
+   "scope_note": "Existing scope_note kept: expert-group report published by the OPM.",
+   "id": "JM-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Re-read the recommendations PDF on the Office of the Prime Minister's site (opm.gov.jm, 33 pages, copy of 12 Oct 2026), the report's own text, which gives its title ('This document, titled National Artificial Intelligence - Policy Recommendations'), the Task Force's members and chair, the ethical considerations and the short-, medium- and long-term recommendations; and the OPM release of 3 Mar 2026 on the reconstituted Task Force's first meeting on 19 Feb 2026 (stored as the record's secondary source). The PDF's text layer has no date: its cover is an image without text, which reads 'Prepared by The National Artificial Intelligence Task Force September 2024' when the page is viewed, so 'The document is undated' was removed from the notes. Stored again in this run: the OPM announcement posted on 13 Feb 2025 of the report's official publication on the OPM website, and the OPM release of 22 May 2026, which says the Task Force was set up under the OPM in 2023, dates the report to September 2024 and says the Task Force is working towards the first National AI Policy. date_published 2025-02 is the publication the OPM announced on 13 Feb 2025; the announcement says the report 'will be made available', so the record keeps the month. That date rests on an announcement, so its quotes count as alt-official.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported, fixes applied to scope_note."
+   }
+  },
+  {
+   "official_url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458/files/%E3%80%8A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B.pdf.pdf",
+   "secondary_url": "https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml",
+   "date_published": "2026-09",
+   "notes": "The TC260 Secretariat released it for public comment with notice 网安秘字〔2026〕119号 of 18 Sept 2026; comments were due by 2 Oct 2026. The draft itself is dated September 2026, is version v1.0-202609 and carries the number TC260-PG-2026NA. It covers software agentic AI systems built on large models, not agentic systems whose main function is controlling physical devices such as robots or autonomous vehicles. Its bibliography lists AI Safety Governance Framework 2.0 (CN-13) and TC260's practice guide on the security of deploying and using agents (CN-26).",
+   "id": "CN-19",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read (tc260.org.cn, stored 14 Oct 2026 and unchanged when the archiver checked them on 18 Oct 2026): the draft PDF (31 pages), now the official_url, and the TC260 Secretariat's notice of 18 Sept 2026 calling for comments and attaching it, the previous official_url, now the secondary source. The PDF confirms the title, the draft status and version, the number TC260-PG-2026NA, the Secretariat as issuer, the month (2026年09月) and the contents; the summary follows the Chinese text. The notice announces the draft's release, so the day, 18 Sept 2026, and the comment deadline of 2 Oct 2026 are in the notes and date_published is 2026-09. TC260's home page, stored on 18 Oct 2026 in run 2026-10-18-recheck-east-asia-1, lists the latest notices of 13 Oct, 18 Sept and 15 Sept 2026; the newest notice on this guide is still the call for comments of 18 Sept, so no final version had been released by 18 Oct 2026. No English version was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "official_url": "https://www.soumu.go.jp/main_content/001064122.pdf",
+   "secondary_url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html",
+   "date_published": "2026-03",
+   "notes": "MIC announced the final guidelines in a press release of 27 March 2026; the guidelines themselves are dated March 2026. A draft was open for public comment from 26 Dec 2025 to 29 Jan 2026 and drew 52 comments; MIC published them with its views alongside the final guidelines and a separate annex of supporting material. The guidelines follow the conclusions, reached in December 2025, of the AI Security Subcommittee that MIC convened from September 2025 under its Cybersecurity Task Force. They state that they do not decide who is responsible for a threat, and MIC intends to supplement them as new threats emerge, for example from vision language models, AI agents and MCP.",
+   "id": "JP-12",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored and read (soumu.go.jp, stored 14 Oct 2026 and unchanged when the archiver checked them on 18 Oct 2026): the guidelines' main text (25 pages, cover 令和８年３月, 総務省), now the official_url; MIC's Japanese press release of 27 March 2026 (令和8年3月27日), the previous official_url, now the secondary source; and the table of the 52 public comments with MIC's views (18 pages, comment period 令和７年12月26日 to 令和８年１月29日). The guidelines confirm the Japanese title, the issuer, the month, their character as a guide from which organisations choose measures, the intention to supplement them and the content; the summary is written from the Japanese text. The press release, an announcement, gives the day, 27 March 2026, which is in the notes, so date_published is 2026-03; it also confirms the comment period and count and the AI Security Subcommittee. MIC's English press release of the same day, stored on 18 Oct 2026 in run 2026-10-18-recheck-east-asia-1, gives the English title used here and states that the published materials are in Japanese only, so english_version is 'none found'. The annex (別添（付属資料）), published through e-Gov, was not stored. Nothing stored shows a supplement or revision since March 2026.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 7 field(s) supported."
+   }
+  },
+  {
+   "notes": "Vetoed on 13 Oct 2025; date_published is the veto date. Consideration of the veto was pending in the Assembly until it was stricken from the file on 22 Jan 2026. The bill would have added Chapter 25.1 (commencing with Section 22757.20) to Division 8 of the Business and Professions Code. In the veto message the Governor wrote that the bill's broad restrictions on conversational AI tools might unintentionally lead to a total ban on their use by minors, pointed to SB 243 (US-CA-06), which he had recently signed, and said he would work with the Legislature on a bill the next year building on SB 243. The version of 23 May 2025 also barred developers from producing, and deployers from using, covered products intended for children, and limited training them on children's personal information. Kept for context.",
+   "id": "US-CA-14",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. Stored in this run: the Assembly Weekly History No. 18 of 6 Feb 2026, the last complete history of the 2025 bills, compiled under the Chief Clerk (clerk.assembly.ca.gov), the legislature's record of AB 1064. It gives the session, the Code chapter the bill would have added, the floor votes, the veto on 13 Oct 2025 and the striking of the veto from the file on 22 Jan 2026, and lists the bill as 'Leading Ethical AI Development (LEAD) for Kids Act' among the Assembly bills vetoed in 2025. Stored again: the Senate Judiciary Committee's analysis of the version of 23 May 2025 (hearing 15 Jul 2025, sjud.senate.ca.gov), which gives the name and the provisions of that version. Re-read: the veto message (gov.ca.gov, a scan read by OCR with character errors; its date stamp reads 13 Oct 2025 on the scan and 'OCT 18 2025' in the OCR text), which returns Assembly Bill 1064 without signature and describes the bill as passed. The bill's page and enrolled text on leginfo.legislature.ca.gov still refuse automated downloads, so official_url stays unstored; title, date and status now rest on the Assembly's record. The enrolled text and its definitions are not in a stored source; the description of the passed bill rests on the veto message.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "scope_note": "Mainly a strategy for AI research, talent, data and funding, with ethics as one of its pillars; included as France's national AI strategy.",
+   "id": "FR-02",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. The strategy has no text of its own: the President presented it in a speech on 29 March 2018, and the Government described it in press kits. Re-read the press kit 'Stratégie nationale de recherche en IA' of the Ministry of Higher Education, Research and Innovation and the Secretary of State for Digital Affairs of 28 November 2018 (enseignementsup-recherche.gouv.fr, stored 16 Oct 2026), which confirms the presentation of the strategy by the President on 29 March 2018 at the Collège de France, the Government's mobilisation around 'la stratégie AI for Humanity', the 1.5 billion euros, the three axes and the national research strategy; and the Élysée page with the text of the President's speech of 29 March 2018 (stored 17 Oct 2026), which gives the four pillars, the funding breakdown and the ethics measures. Stored again in this run: the Government's press kit 'Stratégie nationale pour l'intelligence artificielle – 2e phase' of 8 November 2021 (presse.economie.gouv.fr), which treats the 2018 strategy as the first phase (2018-2022), now ended, and launches the second phase. Press kits and speeches are announcements, so their quotes count as alt-official, and the record rests on them alone. elysee.fr is listed in pipeline/official-sites.json for G7 and INT but not for FR, so the speech's quotes count as secondary. 'AI for Humanity' is the strategy's own name; no English text of the strategy was found.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 6 field(s) supported."
+   }
+  },
+  {
+   "scope_note": "A Private Members' Bill under the Ten Minute Rule, a procedure that Parliament describes as often a way for members to voice an opinion rather than a serious attempt to pass a bill; included as a pending bill on artificial superintelligence.",
+   "id": "GB-10",
+   "verification": {
+    "level": "A",
+    "verified_on": "2026-10-18",
+    "method": "official-url-fetched",
+    "note": "Refresh of 18 Oct 2026. The record's pages on bills.parliament.uk still refuse the archiver (HTTP 403; the browser retry timed out on 11, 16, 17 and 18 Oct 2026). Stored in this run instead: the UK Parliament Bills API entries for bill 4288 (bill record, stages and publications) and the API's list of bill types, on bills-api.parliament.uk, which was recorded as an official UK Parliament site on 18 Oct 2026 (issue #125). The API is Parliament's own record of the bill, an official register. It confirms the short and long title, the sponsor (Alex Sobel, Labour, Leeds Central and Headingley), the Commons as originating and current house, bill type 5 (Private Members' Bill under the Ten Minute Rule), first reading on 8 Sep 2026 and second reading set for 13 Nov 2026, and that the bill is not an Act, not defeated and not withdrawn. The API lists no publications, so no printed bill or printed bill number exists yet, and it gives the session only as ID 40; 'Bill 4288 (Session 2026-27)' in official_identifier is the database ID with a session the API does not name.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  },
+  {
+   "id": "NL-01",
+   "verification": {
+    "level": "B",
+    "verified_on": "2026-10-18",
+    "method": "alternative-official-url-fetched",
+    "note": "Refresh of 18 Oct 2026 under the rule that level A needs the instrument's own text or an official register. The record's official source, the internetconsultatie.nl page with the draft bill, still cannot be stored because the site's robots.txt disallows automated downloads, so the draft bill's own text has not been read. Re-read the Rijksoverheid news release of 20 April 2026 (stored 11 Oct 2026 as the record's secondary source), which confirms that the State Secretary put the proposal for the implementing act out for consultation that day, the consultation's end date of 1 June 2026, the ministry and the roles of the AP and RDI. Stored again in this run, with its PDF: the State Secretary's letter to the House of 20 April 2026, Kamerstuk 22 112, nr. 4318, on zoek.officielebekendmakingen.nl (recorded as an official Dutch government site on 18 Oct 2026, issue #127), which names the implementing act and the six-week consultation, sets out the steps after it (an amended bill to the Council of Ministers and the Council of State, then the House) and gives the ten authorities, the single point of contact, the sandbox, the notifying authority, the timetable and the fundamental-rights authorities. The news release and the letter are announcements of the draft bill rather than its text, so their quotes count as alt-official. No later stage of the bill is shown in the stored files.",
+    "second_check": "Independent check by Claude Code (claude-sonnet-5-5), 2026-10-18: 5 field(s) supported."
+   }
+  }
+ ],
+ "history_context": {
+  "HK-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate HK-02",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 1 (cover)",
+     "quote": "Hong Kong Generative Artificial Intelligence Technical and Application Guideline"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/HK-02/2026-10-11/official.html",
+     "sha256": "f3fe4ff8caf13d528455dbf02009f6adfc21f85ed6852c1b2f330e8ca93ad2a0",
+     "locator": "AI and Data Ethics, Hong Kong Generative Artificial Intelligence Technical and Application Guideline",
+     "quote": "Having considered the research findings and recommendations, the DPO promulgated the Hong Kong Generative Artificial Intelligence Technical and Application Guideline."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/HK-02/extra-40d963b467/2026-10-18/official.html",
+     "sha256": "422740d6b7213e483c3c4a752149aec816dedb53773b80f5e1d00e3a8b16950d",
+     "locator": "first paragraph",
+     "quote": "The Digital Policy Office (DPO) released today (April 15) the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline)."
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 1 (cover)",
+     "quote": "Version: 1.1 December 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 2, Preamble",
+     "quote": "update the content of the guideline regularly"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/HK-02/2026-10-11/document-1.pdf",
+     "sha256": "8cf14d321262aae177a739f8f54bd5d7373ffad58a004224654fd05d2adcacd2",
+     "locator": "page 2, Preamble",
+     "quote": "provide relevant codes and practices on the technology and the use of generative artificial intelligence (AI) technologies for reference by various sectors"
+    }
+   ],
+   "cand_id": "HK-02"
+  },
+  "US-CA-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-CA-01",
+   "fields": {
+    "safety_topics": {
+     "reason": "added 'general-purpose / frontier AI' (the record had one topic; the vocabulary needs two to six): the law's duties fall on developers of generative AI systems and services and concern the data used to train them",
+     "evidence": []
+    },
+    "notes": {
+     "reason": "first sentence now gives the approval and chaptering from the Assembly's record and the Civil Code title the act adds; the rest is unchanged",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-d7908526a4/2026-10-18/official.pdf",
+     "sha256": "4ae5cd46f3611b974db5bb125dd526a653db2253631e10cf5141764a068ae9f9",
+     "locator": "page 1591, Assembly bills approved by Governor and chaptered, 2024",
+     "quote": "2013 817 Irwin ............... Generative artificial intelligence: training data transparency. .... Sep. 28, 2024"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-d7908526a4/2026-10-18/official.pdf",
+     "sha256": "4ae5cd46f3611b974db5bb125dd526a653db2253631e10cf5141764a068ae9f9",
+     "locator": "page 609, A.B. No. 2013, history",
+     "quote": "Sep. 28—Approved by the Governor. Sep. 28—Chaptered by Secretary of State − Chapter 817, Statutes of 2024."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-d7908526a4/2026-10-18/official.pdf",
+     "sha256": "4ae5cd46f3611b974db5bb125dd526a653db2253631e10cf5141764a068ae9f9",
+     "locator": "page 609, A.B. No. 2013, history",
+     "quote": "Sep. 28—Approved by the Governor. Sep. 28—Chaptered by Secretary of State − Chapter 817, Statutes of 2024."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-d7908526a4/2026-10-18/official.pdf",
+     "sha256": "4ae5cd46f3611b974db5bb125dd526a653db2253631e10cf5141764a068ae9f9",
+     "locator": "page 609, A.B. No. 2013, history",
+     "quote": "Sep. 28—Approved by the Governor. Sep. 28—Chaptered by Secretary of State − Chapter 817, Statutes of 2024."
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-34821d8e2d/2026-10-18/official.pdf",
+     "sha256": "42959f9df77e4b251f5b3d6dfd5da1024fcb99162a6e1e278d057b736d79e1e5",
+     "locator": "page 4, Background",
+     "quote": "Existing state law establishes the California AI Transparency Act, which requires, on or before January 1, 2026, a developer of a GenAI system or service that was released on or after January 1, 2022, to post on its website a high-level summary"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-d7908526a4/2026-10-18/official.pdf",
+     "sha256": "4ae5cd46f3611b974db5bb125dd526a653db2253631e10cf5141764a068ae9f9",
+     "locator": "page 609, A.B. No. 2013, history",
+     "quote": "Sep. 28—Approved by the Governor. Sep. 28—Chaptered by Secretary of State − Chapter 817, Statutes of 2024."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-01/extra-d7908526a4/2026-10-18/official.pdf",
+     "sha256": "4ae5cd46f3611b974db5bb125dd526a653db2253631e10cf5141764a068ae9f9",
+     "locator": "page 609, A.B. No. 2013",
+     "quote": "A.B. No. 2013—Irwin. An act to add Title 15.2 (commencing with Section 3110) to Part 4 of Division 3 of the Civil Code, relating to artificial intelligence."
+    }
+   ],
+   "cand_id": "US-CA-01"
+  },
+  "US-CA-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-CA-02",
+   "fields": {
+    "official_identifier": {
+     "reason": "adds Chapter 856, Statutes of 2026 (AB 2713) to the amending acts",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+       "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+       "locator": "page 339, S.B. No. 942, history",
+       "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024."
+      }
+     ]
+    },
+    "date_last_updated": {
+     "reason": "2025-10-13 -> 2026-09-30: AB 2713, which amends Section 22757.3.1 of the Act, was approved by the Governor and chaptered on 30 Sep 2026 (Chapter 856, Statutes of 2026), according to the Assembly's record",
+     "evidence": [
+      {
+       "field": "date_last_updated",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-60df386534/2026-10-18/official.pdf",
+       "sha256": "918e88ece8c1a6cdf8cf20411cc687cd9a4c933ebfb16da631fb2fbb9d263457",
+       "locator": "page 1360, Assembly bills approved by Governor and chaptered, 2026",
+       "quote": "2713 856 Wicks .............. California AI Transparency Act: system provenance data. ...... Sep. 30, 2026"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "last sentence: AB 2713 is no longer a proposal but an enacted amendment; it now gives the chapter, the approval date, its subject title and the section it amends",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+     "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+     "locator": "page 967, Senate bills approved by the Governor, chaptered",
+     "quote": "942 291 Becker ............. California AI Transparency Act. .......................... Sep. 19, 2024"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+     "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+     "locator": "page 339, S.B. No. 942, history",
+     "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+     "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+     "locator": "page 339, S.B. No. 942, history",
+     "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+     "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+     "locator": "page 339, S.B. No. 942, history",
+     "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024."
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-42c6840283/2026-10-18/official.pdf",
+     "sha256": "6f26c46cb03e897533a471d209ad246ea542ba002a6e96f8301fcc4370f4cc34",
+     "locator": "page 2, Existing law, 2)",
+     "quote": "Beginning August 2, 2026, requires a covered provider to include a latent disclosure in AI- generated image, video, or audio content"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+     "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+     "locator": "page 339, S.B. No. 942, history",
+     "quote": "Sep. 19—Approved by the Governor. Sep. 19—Chaptered by Secretary of State. Chapter 291, Statutes of 2024."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-02/extra-c23ab6af30/2026-10-18/official.pdf",
+     "sha256": "a4fd27d43a87cb6fdd971a9eaa25743ceb3a660d0b3a6ccf4f90db1d5518fa15",
+     "locator": "page 339, S.B. No. 942",
+     "quote": "S.B. No. 942—Becker. An act to add Chapter 25 (commencing with Section 22757) to Division 8 of the Business and Professions Code, relating to consumer protection."
+    }
+   ],
+   "cand_id": "US-CA-02"
+  },
+  "US-CA-06": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-CA-06",
+   "fields": {
+    "official_identifier": {
+     "reason": "adds the two amending chapters of 2026 (SB 867, SB 1119)",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+       "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+       "locator": "page 161, S.B. No. 243, history",
+       "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025."
+      }
+     ]
+    },
+    "date_last_updated": {
+     "reason": "null -> 2026-09-10: the Senate's record shows that SB 867 (Chapter 189) amends Section 22601 and SB 1119 (Chapter 190) amends Section 22602 of the Business and Professions Code, both approved on 10 Sep 2026, and that SB 243 added Chapter 22.6 commencing with Section 22601; the earlier recheck had no stored file showing which sections SB 1119 amends",
+     "evidence": [
+      {
+       "field": "date_last_updated",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+       "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+       "locator": "page 161, S.B. No. 243",
+       "quote": "An act to add Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code, relating to artificial intelligence. 2025 Jan. 30—Introduced"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "adds the Code chapter SB 243 adds and replaces the last sentence (based on a release no longer among the stored sources) with the two amending acts from the Senate's record",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+     "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+     "locator": "page 785, Senate bills approved by the Governor, chaptered",
+     "quote": "243 677 Padilla ............. Companion chatbots. ................................... Oct. 13, 2025"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+     "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+     "locator": "page 161, S.B. No. 243, history",
+     "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+     "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+     "locator": "page 161, S.B. No. 243, history",
+     "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+     "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+     "locator": "page 161, S.B. No. 243, history",
+     "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025."
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-7b262f97c0/2026-10-18/official.html",
+     "sha256": "44dc1f6201c778be18881ec1598d299a47f7bfba53d0c1a9ab802ae137129b67",
+     "locator": "last paragraph",
+     "quote": "The bill becomes law on January 1st, 2026."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+     "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+     "locator": "page 161, S.B. No. 243, history",
+     "quote": "Oct. 13—Approved by the Governor. Oct. 13—Chaptered by Secretary of State. Chapter 677, Statutes of 2025."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-c080fb7991/2026-10-18/official.pdf",
+     "sha256": "97ddef9663543709cfcb7e7afe950a6e5b26fff5131f2d9a0fa0d6f47879b1d8",
+     "locator": "page 161, S.B. No. 243",
+     "quote": "An act to add Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code, relating to artificial intelligence. 2025 Jan. 30—Introduced"
+    }
+   ],
+   "cand_id": "US-CA-06"
+  },
+  "US-CA-07": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-CA-07",
+   "fields": {
+    "title": {
+     "reason": "the agent's rendering ('Independent Verification Organizations for AI Systems (SB 813), with companion AI Auditor Registry law (AB 1405)') replaced by the two bills' subject titles in the legislature's records, as for the register's other California bills (US-CA-12 'Toys: Companion Chatbots (SB 867)')",
+     "evidence": [
+      {
+       "field": "title",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+       "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+       "locator": "page 935, Senate bills approved by the Governor, chaptered",
+       "quote": "813 179 McNerney .......... Independent verification organizations. ..................... Sep. 9, 2026"
+      }
+     ]
+    },
+    "official_identifier": {
+     "reason": "bill numbers and Code sections replaced by the citable chapter numbers from the legislature's records (Chapters 179 and 178, Statutes of 2026); the Code sections stay in the notes",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+       "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+       "locator": "page 306, S.B. No. 813, history",
+       "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence now gives the approval date, the chapters and the Government Code chapters each act adds",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 306, S.B. No. 813, history",
+     "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 306, S.B. No. 813, history",
+     "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 306, S.B. No. 813, history",
+     "quote": "Sep. 9—Approved by the Governor. Sep. 9—Chaptered by Secretary of State. Chapter 179, Statutes of 2026."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-07/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 306, S.B. No. 813",
+     "quote": "An act to add Chapter 14 (commencing with Section 8898) to Division 1 of Title 2 of the Government Code, relating to artificial intelligence."
+    }
+   ],
+   "cand_id": "US-CA-07"
+  },
+  "US-CA-08": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-CA-08",
+   "fields": {
+    "official_identifier": {
+     "reason": "'California Senate Bill 1119 (2025-2026 Regular Session)' -> the citable chapter from the Senate's record, Chapter 190, Statutes of 2026",
+     "evidence": [
+      {
+       "field": "official_identifier",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+       "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+       "locator": "page 517, S.B. No. 1119, history",
+       "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026."
+      }
+     ]
+    },
+    "notes": {
+     "reason": "votes corrected to the Senate's record (Senate 39-0 on 19 May 2026, Assembly 69-4 and Senate concurrence 39-0 on 31 Aug 2026; the release's 64-4 kept as a discrepancy); chapter, approval date and the Code sections the act amends and adds added; the rest unchanged",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 939, Senate bills approved by the Governor, chaptered",
+     "quote": "1119 190 Padilla ............. Companion chatbots: children’s safety. ..................... Sep. 10, 2026"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 517, S.B. No. 1119, history",
+     "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 517, S.B. No. 1119, history",
+     "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 517, S.B. No. 1119, history",
+     "quote": "Sep. 10—Approved by the Governor. Sep. 10—Chaptered by Secretary of State. Chapter 190, Statutes of 2026."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-08/extra-fc08967c56/2026-10-18/official.pdf",
+     "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+     "locator": "page 517, S.B. No. 1119",
+     "quote": "An act to amend Section 22602 of, and to add Chapter 11.6 (commencing with Section 21810) to Division 8 of, the Business and Professions Code, relating to artificial intelligence."
+    }
+   ],
+   "cand_id": "US-CA-08"
+  },
+  "US-IL-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-IL-02",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/US-IL-02/2026-10-11/official.pdf",
+     "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+     "locator": "page 1, first paragraph",
+     "quote": "The Wellness and Oversight for Psychological Resources Act prohibits anyone from using AI to provide mental health and therapeutic decision-making"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-IL-02/2026-10-11/official.pdf",
+     "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+     "locator": "page 1, first paragraph",
+     "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial intelligence (AI) in therapy and psychotherapy services."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/US-IL-02/2026-10-11/official.pdf",
+     "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+     "locator": "page 1, first paragraph (release dated August 4, 2025)",
+     "quote": "Governor JB Pritzker signed legislation on Friday that protects patients by limiting the use of artificial intelligence (AI) in therapy and psychotherapy services."
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/US-IL-02/2026-10-11/official.pdf",
+     "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+     "locator": "page 2, last paragraph",
+     "quote": "goes into effect immediately with Governor Pritzker’s signature"
+    },
+    {
+     "field": "status",
+     "file": "archive/US-IL-02/2026-10-11/official.pdf",
+     "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+     "locator": "page 2, last paragraph",
+     "quote": "goes into effect immediately with Governor Pritzker’s signature"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-IL-02/2026-10-11/official.pdf",
+     "sha256": "1be6487c850918d27a5a3f8dae521722d6b4bb6cdc293372fe62c43378fd3ce4",
+     "locator": "page 2",
+     "quote": "All confirmed violations will result in a fine of up to $10,000 to IDFPR."
+    }
+   ],
+   "cand_id": "US-IL-02"
+  },
+  "IS-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate IS-01",
+   "fields": {
+    "date_published": {
+     "reason": "2025-07-01 -> 2025-07: the plan's own text (both editions' imprints) gives only 'July 2025' / 'Júlí 2025'; the day comes from the government's news items, which are announcements, and the notes already give both days (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+       "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+       "locator": "page 4, imprint",
+       "quote": "National Action Plan on AI 2025-2027 July 2025"
+      }
+     ]
+    },
+    "official_url": {
+     "reason": "the government news item of 1 July 2025 (an announcement) -> the English edition of the plan in the government library, the plan's own text (rule 7c); the English edition is one of the issuer's own texts, carries the ISBN in official_identifier and is the record's english_version",
+     "evidence": []
+    },
+    "secondary_url": {
+     "reason": "the English edition (now official_url) -> the Icelandic edition in the government library, the original-language text that gives original_title",
+     "evidence": []
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "official_identifier",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+     "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+     "locator": "page 1, cover",
+     "quote": "Iceland’s AI Action Plan 2025-2027"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2ef8770009/2026-10-18/official.pdf",
+     "sha256": "9441277a479439377774aefcacce49e97d7acb49af5784113d7c1709f19526cb",
+     "locator": "page 2, imprint",
+     "quote": "Útgefandi: Menningar-, nýsköpunar- og háskólaráðuneytið Aðgerðaáætlun um gervigreind 2025-2027 Júlí 2025"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+     "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+     "locator": "page 4, imprint",
+     "quote": "Published by: the Ministry of Culture, Innovation and Higher Education"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+     "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+     "locator": "page 4, imprint",
+     "quote": "The Government Offices of Iceland ISBN: 978-9935-570-05-5"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+     "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+     "locator": "page 10, Review",
+     "quote": "This action plan is valid for two years from the date of publication."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/IS-01/extra-2e3db80bc4/2026-10-18/official.pdf",
+     "sha256": "77fea448f9076ca0f0d43f903c564a149497ec0466546945a2da1f6536cc61f1",
+     "locator": "page 7, Foreword by the Minister",
+     "quote": "The government's first Action Plan on Artificial Intelligence sets out its main focuses and actions that support them."
+    }
+   ],
+   "cand_id": "IS-01"
+  },
+  "UA-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate UA-01",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/UA-01/2026-10-17/official.html",
+     "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+     "locator": "news item, first paragraph",
+     "quote": "Дорожня карта з регулювання штучного інтелекту в Україні допоможе українським компаніям підготуватися до ухвалення закону-аналога AI Act Європейського Союзу"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/UA-01/2026-10-17/official.html",
+     "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+     "locator": "news item, first paragraph",
+     "quote": "Дорожня карта з регулювання штучного інтелекту в Україні допоможе українським компаніям підготуватися до ухвалення закону-аналога AI Act Європейського Союзу"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/UA-01/2026-10-17/official.html",
+     "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+     "locator": "news item, headline",
+     "quote": "Регулювання штучного інтелекту в Україні: Мінцифри презентувало дорожню карту"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/UA-01/2026-10-17/official.html",
+     "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+     "locator": "news item, byline",
+     "quote": "Міністерство цифрової трансформації України, опубліковано 07 жовтня 2023"
+    },
+    {
+     "field": "status",
+     "file": "archive/UA-01/2026-10-17/official.html",
+     "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+     "locator": "news item, last paragraph",
+     "quote": "Ознайомитися з дорожньою картою можна за посиланням"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/UA-01/2026-10-17/official.html",
+     "sha256": "501e700650a15774cb1a202eac61ddf8f2fd84a33e71e11422a146aab61bc5c1",
+     "locator": "news item",
+     "quote": "спочатку ми надамо бізнесу інструменти для підготовки до майбутніх вимог, а після цього буде ухвалено закон"
+    }
+   ],
+   "cand_id": "UA-01"
+  },
+  "G20-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate G20-01",
+   "fields": {
+    "date_published": {
+     "reason": "2025-11-22 -> 2025-11: the declaration's own text gives only the summit's dates ('on 22 and 23 November 2025'), not the day of adoption; the day comes from the President's address at the leaders' reception, a speech (announcement), and from SAnews, so it moves to the notes with its sources (rule 7b), as for ASEAN-01's two-day meeting",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/G20-01/2026-10-17/official.pdf",
+       "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+       "locator": "page 1, paragraph 1",
+       "quote": "under the South African G20 Presidency, on 22 and 23 November 2025, addressed major global challenges"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence now names the sources of the adoption day (the Presidency's text of the address of 22 November 2025 and SAnews of 23 November 2025) and says the declaration itself gives only the summit's dates; the rest unchanged",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/G20-01/2026-10-17/secondary.html",
+       "sha256": "1a7daa759d73bb590ac0ed2e116da6c20c53a5a820c80bcd45d2b73c0ec9d4c6",
+       "locator": "address, header",
+       "quote": "Submitted by nolan on 22 November 2025 Saturday, 22 November 2025"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/G20-01/2026-10-17/official.pdf",
+     "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+     "locator": "page 1",
+     "quote": "G20 South Africa Summit: LEADERS’ DECLARATION"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/G20-01/2026-10-17/official.pdf",
+     "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+     "locator": "page 1, paragraph 1",
+     "quote": "under the South African G20 Presidency, on 22 and 23 November 2025, addressed major global challenges"
+    },
+    {
+     "field": "status",
+     "file": "archive/G20-01/2026-10-17/official.pdf",
+     "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+     "locator": "page 1",
+     "quote": "G20 South Africa Summit: LEADERS’ DECLARATION"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/G20-01/2026-10-17/official.pdf",
+     "sha256": "7e878591411ce6a5ad729c93151de595aca4462b52e2c5dea6f25f548b14b33a",
+     "locator": "page 12, paragraph 45",
+     "quote": "We will work to promote international cooperation and further discussions to unlock the full potential of AI, equitably share its beneﬁts and mitigate risks"
+    }
+   ],
+   "cand_id": "G20-01"
+  },
+  "ID-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate ID-02",
+   "fields": {
+    "notes": {
+     "reason": "Presidential Decree 38/2025 added (both drafts in the 2026 programme; roadmap listed for 2026-2030; the ethics regulation's subject matter); the period agreed up to 2029 at the plenary of 11 Feb 2026 added; 'enforcement relies on existing law' removed because the stored Hukumonline page does not say it",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+       "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+       "locator": "page 21, annex, entry 35",
+       "quote": "3. Identifikasi dan mitigasi risiko;"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+     "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+     "locator": "page 21, annex, entry 35",
+     "quote": "Rancangan Peraturan Presiden tentang Etika Kecerdasan Artifrsial."
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+     "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+     "locator": "page 21, annex, entry 35",
+     "quote": "Rancangan Peraturan Presiden tentang Etika Kecerdasan Artifrsial."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+     "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+     "locator": "page 21, annex, entries 35 and 36 (initiator)",
+     "quote": "6. Mekanisme pemantauan dan evaluasi. Kementerian Komunikasi dan Digital"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+     "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+     "locator": "page 3, signature",
+     "quote": "Ditetapkan di Jakarta pada tanggal 22 Desember 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+     "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+     "locator": "page 2, Diktum KESATU",
+     "quote": "Menetapkan Rancangan Peraturan Presiden sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Keputusan Presiden ini sebagai Program Penyusunan Peraturan Presiden Tahun 2026."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/ID-02/extra-df1972d996/2026-10-18/official.pdf",
+     "sha256": "0ef8b2297629f9be24460cf864403332e55ae1c34ee3de6a3aff263ff0460fdb",
+     "locator": "page 2, Diktum KESATU",
+     "quote": "Menetapkan Rancangan Peraturan Presiden sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Keputusan Presiden ini sebagai Program Penyusunan Peraturan Presiden Tahun 2026."
+    }
+   ],
+   "cand_id": "ID-02"
+  },
+  "US-IL-03": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-IL-03",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/US-IL-03/2026-10-17/official.html",
+     "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+     "locator": "First-in-the-Nation AI Safety Law",
+     "quote": "The Artificial Intelligence Safety Measures Act establishes a framework requiring developers of the largest advanced AI systems to publicly disclose safety practices"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-IL-03/2026-10-17/official.html",
+     "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+     "locator": "Holding Big Tech Accountable",
+     "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/US-IL-03/2026-10-17/official.html",
+     "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+     "locator": "release header",
+     "quote": "Landmark bipartisan legislation creates the country's strongest AI accountability framework while supporting responsible innovation July 6, 2026"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/US-IL-03/2026-10-17/official.html",
+     "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+     "locator": "Holding Big Tech Accountable",
+     "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027."
+    },
+    {
+     "field": "status",
+     "file": "archive/US-IL-03/2026-10-17/official.html",
+     "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+     "locator": "Holding Big Tech Accountable",
+     "quote": "SB 315 passed the General Assembly with bipartisan support and takes effect January 1, 2027."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-IL-03/2026-10-17/official.html",
+     "sha256": "93999aaf2ea6cc75f5c4afc240c4a415699f89cc08c50680bc6c603440f559df",
+     "locator": "first paragraph",
+     "quote": "The bipartisan law positions Illinois as the national leader by requiring the largest AI developers to identify, disclose, and mitigate risks"
+    }
+   ],
+   "cand_id": "US-IL-03"
+  },
+  "SA-04": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate SA-04",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "news release, headline",
+     "quote": "CST Publishes a Public Consultation for the Global AI Hub Law"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/SA-04/extra-b279867c23/2026-10-18/official.html",
+     "sha256": "87c350546e86e13722a94dfb9d8fd8521796ebf02b12e63fc81ad5506ef0fdeb",
+     "locator": "Arabic news release, headline",
+     "quote": "هيئة الاتصالات والفضاء والتقنية تدعو العموم لتقديم مرئياتهم حول مشروع نظام المركز العالمي للذكاء الاصطناعي"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "news release, first paragraph",
+     "quote": "The Communications, Space, and Technology Commission (CST) invites the public to submit their input on the Global AI Hub Law"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "news release, date",
+     "quote": "Date 14/4/2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "news release",
+     "quote": "The feedback starts from April 14, 2025, until May 14, 2025, through: Public Consultation Platform"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SA-04/2026-10-11/official.html",
+     "sha256": "677e98a66ee67a5c7f537f0792a6cb45cb87eaf3bda7ba1f8cbf7ebfbd40839a",
+     "locator": "news release, first paragraph",
+     "quote": "invites the public to submit their input on the Global AI Hub Law, which contributes to creating a legislative and regulatory environment"
+    }
+   ],
+   "cand_id": "SA-04"
+  },
+  "SI-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate SI-02",
+   "fields": {
+    "date_published": {
+     "reason": "the strategy's own text gives no adoption date; its timeline shows the final draft in January 2026, and the day of adoption (5 March 2026) rests on the Government's news release, an announcement, so the date becomes 2026 and the day moves to the notes (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/SI-02/2026-10-12/official.pdf",
+       "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+       "locator": "page 80, timeline of preparation",
+       "quote": "Januar 2026 Uskladitev, obravnava na seji Ekonomsko-socialnega sveta in predvideno sprejetje na seji Vlade RS"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence now names the news release as the source of the day of adoption; the nine-month deadline for the action plan is stated as the strategy states it (it rested on the English release); the planned adoption date of 22 January 2026 from the strategy's timeline added",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/SI-02/2026-10-12/secondary.html",
+       "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+       "locator": "news release, date and first paragraph",
+       "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/SI-02/2026-10-12/official.pdf",
+     "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+     "locator": "page 4, Povzetek",
+     "quote": "Slovenija z nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030) vstopa v novo"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/SI-02/2026-10-12/official.pdf",
+     "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+     "locator": "page 4, Povzetek",
+     "quote": "Slovenija z nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030) vstopa v novo"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/SI-02/2026-10-12/official.pdf",
+     "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+     "locator": "page 5, Povzetek",
+     "quote": "ki ga zaenkrat izvaja Ministrstvo za digitalno preobrazbo, ki je nacionalni upravljavec strategije"
+    },
+    {
+     "field": "status",
+     "file": "archive/SI-02/2026-10-12/official.pdf",
+     "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+     "locator": "page 1, header",
+     "quote": "NsUI 2030 – končna"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/SI-02/2026-10-12/official.pdf",
+     "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+     "locator": "page 55",
+     "quote": "Strategija kot strateški okvir ne določa enotne proračunske razčlenitve"
+    }
+   ],
+   "cand_id": "SI-02"
+  },
+  "BG-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate BG-01",
+   "fields": {
+    "original_title": {
+     "reason": "the decision's heading, now readable in the stored .doc, is longer than version 1's form: it repeats the full title of Regulation (EU) 2024/1689; original_title now gives it verbatim (sentence case for the heading's capitals)",
+     "evidence": [
+      {
+       "field": "original_title",
+       "file": "archive/BG-01/2026-10-12/official.doc",
+       "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+       "locator": "heading",
+       "quote": "Р Е Ш Е Н И Е № 398 от 18 юни 2025 година"
+      }
+     ]
+    },
+    "summary": {
+     "reason": "rewritten from the decision's own text: the reference to the high-risk AI systems of Annex III and the Minister's notification and publication duties added; the proposer and the bodies' access to AI Act documentation, which came from the Council of Ministers' sitting page and not from the decision, left out",
+     "evidence": [
+      {
+       "field": "summary",
+       "file": "archive/BG-01/2026-10-12/official.doc",
+       "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+       "locator": "legal basis",
+       "quote": "На основание чл. 77, параграф 2 от Регламент (ЕС) 2024/1689"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "heading",
+     "quote": "Р Е Ш Е Н И Е № 398 от 18 юни 2025 година"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "heading",
+     "quote": "Р Е П У Б Л И К А Б Ъ Л Г А Р И Я М И Н И С Т Е Р С К И С Ъ В Е Т"
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "heading",
+     "quote": "Р Е Ш Е Н И Е № 398 от 18 юни 2025 година"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "heading",
+     "quote": "Р Е Ш Е Н И Е № 398 от 18 юни 2025 година"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "heading",
+     "quote": "Р Е Ш Е Н И Е № 398 от 18 юни 2025 година"
+    },
+    {
+     "field": "status",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "operative part",
+     "quote": "М И Н И С Т Е Р С К И Я Т С Ъ В Е Т Р Е Ш И:"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/BG-01/2026-10-12/official.doc",
+     "sha256": "90bd0820ff93aaea0f575865762742a90b9fe9ce7071553c4a9133a3b972004a",
+     "locator": "point 1",
+     "quote": "1. Определя за национални органи, които да упражняват надзор или да осигуряват спазването на задълженията съгласно правото на Европейския съюз за защита на основните права"
+    }
+   ],
+   "cand_id": "BG-01"
+  },
+  "LV-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate LV-02",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/LV-02/2026-10-12/official.html",
+     "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+     "locator": "press release, first paragraph",
+     "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/LV-02/2026-10-12/official.html",
+     "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+     "locator": "press release, first paragraph",
+     "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/LV-02/2026-10-12/official.html",
+     "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+     "locator": "press release, date",
+     "quote": "Published: 25.02.2025."
+    },
+    {
+     "field": "status",
+     "file": "archive/LV-02/2026-10-12/official.html",
+     "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+     "locator": "press release, first paragraph",
+     "quote": "On Tuesday, 25 February, the Cabinet of Ministers considered the information report \"On the implementation of the requirements of the Artificial Intelligence Act\" prepared by the Ministry of Smart Administration and Regional Development (VARAM)"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/LV-02/2026-10-12/official.html",
+     "sha256": "d644d8e5c924bf2d0f4f8a8b6a32f7022886faaff6090704454c936ae44d3482",
+     "locator": "press release",
+     "quote": "the information report describes the current situation, the requirements of the AI Act and defines the actions to be taken by public authorities to ensure its national implementation"
+    }
+   ],
+   "cand_id": "LV-02"
+  },
+  "KR-04": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate KR-04",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/KR-04/2026-10-12/official.pdf",
+     "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+     "locator": "page 3, contents page heading",
+     "quote": "인공지능 투명성 확보 가이드라인"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/KR-04/2026-10-12/official.pdf",
+     "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+     "locator": "page 3, contents page heading",
+     "quote": "인공지능 투명성 확보 가이드라인"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+     "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+     "locator": "page 2, first paragraph of the press release",
+     "quote": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 1월 22일「인공지능 발\n전과 신뢰 기반 조성 등에 관한 기본법」(이하 ‘인공지능 기본법’)상 투명성 확보 의무(제31조)의 구체적인\n이행 방안을 담은「인공지능 투명성 확보 안내 지침(가이드라인)」을 공개하였다."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+     "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+     "locator": "page 2, release line",
+     "quote": "보도 시점 2026. 1. 21.(수) 12:00(2026. 1. 22.(목) 조간) 배포 2026. 1. 21.(수)"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-31a14a6512/2026-10-18/official.html",
+     "sha256": "da264b61d440850953c6e909f651d0a41fbf6ceeb7acbeb59678c538bca1566c",
+     "locator": "NIA notice, revision notices",
+     "quote": "[안내] 2026년 1월 27일(화), \"인공지능 투명성 확보 가이드라인\" 수정본 업로드"
+    },
+    {
+     "field": "status",
+     "file": "archive/KR-04/2026-10-12/official.pdf",
+     "sha256": "f3c9206fc9e8b33d1ac7cf973bb00422efd2b0296347fa0346456bd807ef020d",
+     "locator": "page 6, 적용 대상 및 범위",
+     "quote": "인공지능 투명성 확보 의무는 이용자에게 최종적으로 AI 제품 및 서비스를 제공하는 인공지능사업자에게 부과"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-04/extra-ae008ac8b0/2026-10-18/official-print.pdf",
+     "sha256": "55f9632f34ea9d85f75e212fa899c674decf1af61d35149209d034340b345945",
+     "locator": "page 2, headline of the press release",
+     "quote": "과기정통부, 「인공지능 투명성 확보 안내 지침(가이드라인)」 공개"
+    }
+   ],
+   "cand_id": "KR-04"
+  },
+  "KR-05": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate KR-05",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+     "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+     "locator": "NIA notice, attachment list",
+     "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+     "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+     "locator": "NIA notice, attachment list",
+     "quote": "2._260122_인공지능_안전성_확보_가이드라인.pdf"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-05/extra-31a14a6512/2026-10-18/official.html",
+     "sha256": "d09164ad890eaeac54e87871991887d8858a96cf7f05e350c24b3e6c9073ae61",
+     "locator": "NIA notice, heading and date",
+     "quote": "AI기본법 시행 및 하위법령 공개(1.22.~) 2026.01.22"
+    },
+    {
+     "field": "status",
+     "file": "archive/KR-05/2026-10-12/official.pdf",
+     "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+     "locator": "page 2, notice",
+     "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아, 해외 동향과 인공지능 기술의 발전, 서비스 형태 등을 종합적으로 반영해 작성 중인 자료입니다."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/KR-05/2026-10-12/official.pdf",
+     "sha256": "c49c4fa002e60d21a4964fbea992e1ae2f3554063db6e5da262b1d74aeb32dd5",
+     "locator": "page 2, notice",
+     "quote": "이 가이드라인(안)은 전문가, 실무자, 그리고 다양한 이해관계자의 의견을 모아, 해외 동향과 인공지능 기술의 발전, 서비스 형태 등을 종합적으로 반영해 작성 중인 자료입니다."
+    }
+   ],
+   "cand_id": "KR-05"
+  },
+  "KR-06": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate KR-06",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "date_last_updated",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/KR-06/2026-10-12/official.pdf",
+     "sha256": "c67782a5b61bbcc4753925c6fea47dbca8a522d67c0966aa8ea32782a2da005c",
+     "locator": "page 209, FAQ on how to check whether an AI is high-impact",
+     "quote": "이에 따라 수립된 「고영향 인공지능 판단 가이드라인」을 참고할 수 있습니다."
+    },
+    {
+     "field": "original_title",
+     "file": "archive/KR-06/2026-10-12/official.pdf",
+     "sha256": "c67782a5b61bbcc4753925c6fea47dbca8a522d67c0966aa8ea32782a2da005c",
+     "locator": "page 209, FAQ on how to check whether an AI is high-impact",
+     "quote": "이에 따라 수립된 「고영향 인공지능 판단 가이드라인」을 참고할 수 있습니다."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/KR-06/2026-10-12/official.pdf",
+     "sha256": "c67782a5b61bbcc4753925c6fea47dbca8a522d67c0966aa8ea32782a2da005c",
+     "locator": "page 7, section 1.1.1",
+     "quote": "과학기술정보통신부장관은 고영향 인공지능의 기준과 예시 등에 관한 가이드라인을 수립하여 보급할 수 있다."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-06/extra-31a14a6512/2026-10-18/official.html",
+     "sha256": "12b5376408108755db5c35264f35a4c085d414619e775ca21097c746d95e3d22",
+     "locator": "NIA notice, heading and date",
+     "quote": "AI기본법 시행 및 하위법령 공개(1.22.~) 2026.01.22"
+    },
+    {
+     "field": "date_last_updated",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KR-06/extra-31a14a6512/2026-10-18/official.html",
+     "sha256": "12b5376408108755db5c35264f35a4c085d414619e775ca21097c746d95e3d22",
+     "locator": "NIA notice, revision notices",
+     "quote": "[안내] 2026년 4월 29일(수), \"고영향 인공지능 판단 가이드라인\" 수정본 업로드"
+    },
+    {
+     "field": "status",
+     "file": "archive/KR-06/2026-10-12/official.pdf",
+     "sha256": "c67782a5b61bbcc4753925c6fea47dbca8a522d67c0966aa8ea32782a2da005c",
+     "locator": "page 214, FAQ on legal force",
+     "quote": "고영향 인공지능 가이드라인은 법적 구속력이 있는 것은 아니며, 사업자의 의무 이행을 지원하기 위한 목적으로 마련됩니다."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/KR-06/2026-10-12/official.pdf",
+     "sha256": "c67782a5b61bbcc4753925c6fea47dbca8a522d67c0966aa8ea32782a2da005c",
+     "locator": "page 214, FAQ on legal force",
+     "quote": "고영향 인공지능 가이드라인은 법적 구속력이 있는 것은 아니며, 사업자의 의무 이행을 지원하기 위한 목적으로 마련됩니다."
+    }
+   ],
+   "cand_id": "KR-06"
+  },
+  "KR-07": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate KR-07",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/KR-07/2026-10-12/official.pdf",
+     "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+     "locator": "page 1, cover title",
+     "quote": "고영향 인공지능 사업자 책무 가이드라인"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/KR-07/2026-10-12/official.pdf",
+     "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+     "locator": "page 1, cover title",
+     "quote": "고영향 인공지능 사업자 책무 가이드라인"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/KR-07/2026-10-12/official.pdf",
+     "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+     "locator": "page 3, 추진배경 (background)",
+     "quote": "과학기술정보통신부는 인공지능 기본법의 시행을 위한 하위법령 정비단을 출범시켰으며 고영향 인공지능 사업자의 , 책무를 구체화하고 안내하기 위해 본 가이드라인을 마련하였고"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/KR-07/2026-10-18/secondary.html",
+     "sha256": "16d33dad1523d6fafcc47efdfb82d56bf4b945293363f8f537309ae596947a1d",
+     "locator": "NIA notice, heading and date",
+     "quote": "AI기본법 시행 및 하위법령 공개(1.22.~) 2026.01.22"
+    },
+    {
+     "field": "status",
+     "file": "archive/KR-07/2026-10-12/official.pdf",
+     "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+     "locator": "page 3, 추진배경 (background)",
+     "quote": "과학기술정보통신부는 인공지능 기본법의 시행을 위한 하위법령 정비단을 출범시켰으며 고영향 인공지능 사업자의 , 책무를 구체화하고 안내하기 위해 본 가이드라인을 마련하였고"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/KR-07/2026-10-12/official.pdf",
+     "sha256": "cbbd8a304563f879b2a584860481255cfb7b7e2d990fb13916404e306eea104e",
+     "locator": "page 3, 추진배경 (background)",
+     "quote": "본 가이드라인은 사업자들이 법적 의무를 명확히 이해하고 이행할 수 있도록 지원하며"
+    }
+   ],
+   "cand_id": "KR-07"
+  },
+  "KR-08": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate KR-08",
+   "fields": {
+    "date_published": {
+     "reason": "2026-01-22 -> 2026: the guideline's own text gives only the year (cover '2026'); the day, 22 January 2026, rests on NIA's notice of that day, an announcement, so it moves to the notes (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/KR-08/2026-10-12/official.pdf",
+       "sha256": "a67ce99e960511d53f537a759aaeba6049faed220e430cc5ee1ff8817c39ea47",
+       "locator": "page 1, cover",
+       "quote": "2026인공지능영향평가가이드라인"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence now gives the day with its source, NIA's notice of 22 January 2026; the rest is unchanged",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/KR-08/2026-10-12/official.pdf",
+     "sha256": "a67ce99e960511d53f537a759aaeba6049faed220e430cc5ee1ff8817c39ea47",
+     "locator": "page 1, cover",
+     "quote": "2026인공지능영향평가가이드라인"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/KR-08/2026-10-12/official.pdf",
+     "sha256": "a67ce99e960511d53f537a759aaeba6049faed220e430cc5ee1ff8817c39ea47",
+     "locator": "page 1, cover",
+     "quote": "2026인공지능영향평가가이드라인"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/KR-08/2026-10-12/official.pdf",
+     "sha256": "a67ce99e960511d53f537a759aaeba6049faed220e430cc5ee1ff8817c39ea47",
+     "locator": "page 8, section 6 (평가 수행 및 지원체계)",
+     "quote": "과학기술정보통신부는 영향평가에 관한 법과 시행령 등 제도적 기반을 마련한 이후, 전담기관인 정보통신정책연구원을 통해 가이드라인과 절차 운영에 관한 전문적 지원을 제공하고"
+    },
+    {
+     "field": "status",
+     "file": "archive/KR-08/2026-10-18/secondary.html",
+     "sha256": "728361cff8c254d0d9ad9e5f4bf2dd556223f16a9dc80332f547730d102590c9",
+     "locator": "NIA notice, text",
+     "quote": "AI기본법 하위법령(가이드라인)의 현재본이 공개되었습니다."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/KR-08/2026-10-12/official.pdf",
+     "sha256": "a67ce99e960511d53f537a759aaeba6049faed220e430cc5ee1ff8817c39ea47",
+     "locator": "page 5, section 3 (평가 대상)",
+     "quote": "고영향 인공지능 제품 또는 서비스를 제공하는 인공지능사업자는 해당 제품ㆍ서비스에 대한 영향평가 수행에 노력할 것을 권장"
+    }
+   ],
+   "cand_id": "KR-08"
+  },
+  "BN-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate BN-01",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at AITI's press release; the guide's own text (PDF on AITI's guide-books page) becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+       "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+       "locator": "page 1, cover",
+       "quote": "Guide on Artificial Intelligence (AI) Governance and Ethics for Brunei Darussalam"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "the press release, which gives the release date and the Malay title, replaces the guide PDF, now the official_url",
+     "evidence": [
+      {
+       "field": "secondary_url",
+       "file": "archive/BN-01/2026-10-12/official.html",
+       "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+       "locator": "press release, English text",
+       "quote": "have developed the ‘Guide on Artificial Intelligence Governance and Ethics for Brunei Darussalam."
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+     "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+     "locator": "page 1, cover",
+     "quote": "Guide on Artificial Intelligence (AI) Governance and Ethics for Brunei Darussalam"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/BN-01/2026-10-12/official.html",
+     "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+     "locator": "press release, Malay text",
+     "quote": "Garis Panduan Tadbir Urus dan Etika Kecerdasan Buatan untuk Brunei Darussalam"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+     "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+     "locator": "page 12, Note",
+     "quote": "The Guide is a working document developed by Authority of Info-communications Technology Industry of Brunei Darussalam (AITI), in collaboration with the AI Governance and Ethics Working Group."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/BN-01/2026-10-12/official.html",
+     "sha256": "90c70a7c370069c3b1cd2fde736d482b2f5e4f9d20c8d75e34be3f67ab94166c",
+     "locator": "press release, date",
+     "quote": "Friday, April 11, 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+     "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+     "locator": "page 12, Note",
+     "quote": "The Guide may be amended periodically with prior notice, to ensure the document remains relevant to emerging trends, practices and technologies."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/BN-01/extra-8e9de202d3/2026-10-18/official.pdf",
+     "sha256": "c1bebec57cf3896f611ecbdba2a2c18280abb4793c8485f158fbd19f2df867ea",
+     "locator": "page 11, Purpose",
+     "quote": "It provides recommendations and guidance on the principles and safeguards which organisations should consider."
+    }
+   ],
+   "cand_id": "BN-01"
+  },
+  "KH-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate KH-01",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at MPTC's press release on the deep-dive workshop, an announcement; the draft's own text (the English PDF dated June 2025 that the OECD.AI entry links) becomes official_url (rule 7c); the OECD.AI entry stays secondary_url because it carries the Khmer title and the current status",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+       "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+       "locator": "page 1, cover",
+       "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025"
+      }
+     ]
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+     "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+     "locator": "page 1, cover",
+     "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/KH-01/2026-10-18/secondary.html",
+     "sha256": "5e3db20a614e69e44747bde7cbd3110e12316b5bd16563ff78746bce583404be",
+     "locator": "OECD.AI entry, original-language name",
+     "quote": "យុទ្ធសាស្ត្រជាតិស្តីពីបញ្ញាសិប្បនិម្មិត ២០២៥–២០៣០"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+     "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+     "locator": "page 1, cover",
+     "quote": "Prepared by the Ministry of Post and Telecommunications June 2025"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+     "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+     "locator": "page 1, cover",
+     "quote": "Prepared by the Ministry of Post and Telecommunications June 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+     "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+     "locator": "page 1, cover",
+     "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/KH-01/extra-00724980db/2026-10-18/official.pdf",
+     "sha256": "b013b93af0199a5eda7ad8a72b0fb8ba82380243a9fd1fd1a886dc740dee3323",
+     "locator": "page 1, cover",
+     "quote": "Draft National Artificial Intelligence Strategy 2025-2030 Prepared by the Ministry of Post and Telecommunications June 2025"
+    }
+   ],
+   "cand_id": "KH-01"
+  },
+  "US-HI-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-HI-01",
+   "fields": {
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "date_in_force",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+     "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+     "locator": "release of 14 Jul 2026, heading of the bill",
+     "quote": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/US-HI-01/2026-10-12/official.html",
+     "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+     "locator": "first paragraph",
+     "quote": "Governor Josh Green concluded this year’s bill signing period and issued his final veto decision with 266 of the 267 measures becoming law following the 2026 Hawai‘i State Legislative session."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+     "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+     "locator": "release of 14 Jul 2026, heading of the bill",
+     "quote": "SB 3001: RELATING TO ARTIFICIAL INTELLIGENCE, Act 248"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+     "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+     "locator": "release of 14 Jul 2026, header",
+     "quote": "FOR IMMEDIATE RELEASE July 14, 2026 HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies"
+    },
+    {
+     "field": "date_in_force",
+     "file": "archive/US-HI-01/2026-10-17/secondary.html",
+     "sha256": "98330d942d5c06d08961807761011d1a305895585c3920d046be3370b6534dd6",
+     "locator": "HAWAII, SB 3001",
+     "quote": "Sponsors: Keohokalole, et al. Enacted July 14, 2026. Effective July 14, 2026."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-HI-01/extra-20e3fe89a5/2026-10-18/official.html",
+     "sha256": "8ea0dc0174888e5e5ef985833046e743b8bbf43a1a03013bb6b1fca8b55aaa11",
+     "locator": "release of 14 Jul 2026, header",
+     "quote": "HONOLULU – Governor Josh Green today signed three measures in two bill signing ceremonies"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/US-HI-01/2026-10-12/official.html",
+     "sha256": "ae9cb1133b61f0712e5601a2a76c081749dce9de7ce4685cc33a7595db76c75b",
+     "locator": "release body, AI paragraph",
+     "quote": "It also prohibits AI companions from posing as licensed mental health professionals or encouraging harmful behavior, with violations subject to Hawaiʻi’s consumer protection laws."
+    }
+   ],
+   "cand_id": "US-HI-01"
+  },
+  "JM-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate JM-01",
+   "fields": {
+    "notes": {
+     "reason": "'The document is undated;' removed: the PDF's cover (page 1, an image with no text layer) reads 'Prepared by The National Artificial Intelligence Task Force September 2024' when the page is viewed, so the report is not undated; the rest of the notes is unchanged",
+     "evidence": [
+      {
+       "field": "notes",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/JM-01/extra-758712f60a/2026-10-18/official.html",
+       "sha256": "d72e483e1915c2ae497fdb2a8e4a129181721b66ce9e26ed1cc4f9e422f0f1f6",
+       "locator": "release of 22 May 2026",
+       "quote": "The National Artificial Intelligence Task Force was established under the Office of the Prime Minister in 2023, chaired by Mr. Christopher Reckord"
+      }
+     ]
+    },
+    "scope_note": {
+     "reason": null,
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/JM-01/2026-10-12/official.pdf",
+     "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+     "locator": "page 5, The Task Force",
+     "quote": "This document, titled National Artificial Intelligence - Policy Recommendations, represents the culmination of our detailed analysis and deliberative processes."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/JM-01/2026-10-12/official.pdf",
+     "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+     "locator": "page 5, The Task Force",
+     "quote": "Presented to the Office of the Prime Minister, these recommendations are the outcomes of a transparent, collaborative, and comprehensive approach"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/JM-01/extra-7817b22400/2026-10-18/official.html",
+     "sha256": "843c3a3731655fa4c2dd8763f3af2248f666f5ad1879065316758eddadfb420f",
+     "locator": "announcement, header",
+     "quote": "National AI Task Force Report Published Posted on February 13, 2025"
+    },
+    {
+     "field": "status",
+     "file": "archive/JM-01/2026-10-12/official.pdf",
+     "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+     "locator": "page 4, Introduction",
+     "quote": "This task force was established to lay the evidence-based foundation for a comprehensive National A.I. Policy"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/JM-01/2026-10-12/official.pdf",
+     "sha256": "6aac1964ac675e72663858390ef9432614095f57e7e005dc92b886b64d8ab1c0",
+     "locator": "page 5, The Task Force",
+     "quote": "It not only outlines actionable, SMART (Specific, Measurable, Achievable, Relevant, and Time- bound) recommendations"
+    }
+   ],
+   "cand_id": "JM-01"
+  },
+  "CN-19": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate CN-19",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at the TC260 Secretariat's call-for-comments notice, an announcement that attaches the draft; the draft PDF itself, already stored, becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+       "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+       "locator": "page 1, cover",
+       "quote": "网络安全标准实践指南 ——智能体系统开发安全指南 （征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "null -> the call-for-comments notice of 18 Sept 2026, which gives the release day, the notice number and the comment deadline",
+     "evidence": []
+    },
+    "date_published": {
+     "reason": "2026-09-18 -> 2026-09: the draft's own text gives only the month (cover '2026 年 09月'); the day, 18 Sept 2026, comes from the call-for-comments notice, an announcement, and stays in the notes (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+       "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+       "locator": "page 1, cover",
+       "quote": "网络安全标准实践指南 ——智能体系统开发安全指南 （征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first two sentences reworded: the notice is named as the source of the release day, and the draft's own date (September 2026) is added; the rest is unchanged",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——智能体系统开发安全指南"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——智能体系统开发安全指南 （征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "locator": "page 1, cover",
+     "quote": "（征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "locator": "page 1, cover",
+     "quote": "网络安全标准实践指南 ——智能体系统开发安全指南 （征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C002/2026-10-14/document-1.pdf",
+     "sha256": "27c2765673ce18e56d8e2e548a450e032b96e0092ca8d018b93eee5e9e4b3e2a",
+     "locator": "page 1, cover",
+     "quote": "（征求意见稿 v1.0-202609） 全国网络安全标准化技术委员会秘书处 2026 年 09月"
+    }
+   ],
+   "cand_id": "CN-19"
+  },
+  "JP-12": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate JP-12",
+   "fields": {
+    "official_url": {
+     "reason": "the record pointed at MIC's press release (報道資料), an announcement; the guidelines' own text, already stored, becomes official_url (rule 7c)",
+     "evidence": [
+      {
+       "field": "official_url",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+       "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+       "locator": "page 1, cover",
+       "quote": "技術的対策に係るガイドライン 令和８年３月 総務省"
+      }
+     ]
+    },
+    "secondary_url": {
+     "reason": "null -> MIC's press release of 27 March 2026, which gives the day of publication, the comment period and count and the AI Security Subcommittee",
+     "evidence": []
+    },
+    "date_published": {
+     "reason": "2026-03-27 -> 2026-03: the guidelines' own text gives only the month (cover 令和８年３月); the day, 27 March 2026, comes from MIC's press release, an announcement, and is in the notes (rule 7b)",
+     "evidence": [
+      {
+       "field": "date_published",
+       "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+       "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+       "locator": "page 1, cover",
+       "quote": "技術的対策に係るガイドライン 令和８年３月 総務省"
+      }
+     ]
+    },
+    "notes": {
+     "reason": "first sentence added: the day of publication with its source (MIC's press release) and the guidelines' own date; the rest is unchanged",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 1, cover",
+     "quote": "AI のセキュリティ確保のための 技術的対策に係るガイドライン"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 1, cover",
+     "quote": "AI のセキュリティ確保のための 技術的対策に係るガイドライン"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 1, cover",
+     "quote": "技術的対策に係るガイドライン 令和８年３月 総務省"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 1, cover",
+     "quote": "技術的対策に係るガイドライン 令和８年３月 総務省"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C017/2026-10-14/document-2.pdf",
+     "sha256": "083731c5a8e96b9a64a08a89f03c435ce620ade2260ca8b8447a59a5bd106d8c",
+     "locator": "page 14, 3.1 対策の位置づけ",
+     "quote": "各組織が自らの状況に応じて合理的な対策を選択するための指針として提供する ものである。"
+    }
+   ],
+   "cand_id": "JP-12"
+  },
+  "US-CA-14": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate US-CA-14",
+   "fields": {
+    "notes": {
+     "reason": "adds that consideration of the veto was stricken from the Assembly file on 22 Jan 2026 and the Code chapter the bill would have added, both from the Assembly's record; the rest unchanged",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "official_identifier",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+     "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+     "locator": "page 1105, Assembly bills vetoed by Governor, 2025",
+     "quote": "1064 Bauer−Kahan ........ Leading Ethical AI Development (LEAD) for Kids Act. ................ Oct. 13, 2025"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+     "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+     "locator": "page 681, A.B. No. 1064, history",
+     "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file."
+    },
+    {
+     "field": "official_identifier",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+     "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+     "locator": "page 681, A.B. No. 1064",
+     "quote": "A.B. No. 1064—Bauer−Kahan (Coauthor: Pellerin). An act to add Chapter 25.1 (commencing with Section 22757.20) to Division 8 of the Business and Professions Code, relating to artificial intelligence."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+     "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+     "locator": "page 681, A.B. No. 1064, history",
+     "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file."
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+     "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+     "locator": "page 681, A.B. No. 1064, history",
+     "quote": "Sep. 11—Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 8. Page 3334.). Sep. 23—Enrolled and presented to the Governor at 4 p.m. Oct. 13—V etoed by Governor. Oct. 13—Consideration of Governor’s veto pending. 2026 Jan. 22—Stricken from file."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-14/extra-c43578c1a0/2026-10-18/official.pdf",
+     "sha256": "04d093bcd9dfef9b3fc1fba8019a0f6127d99d33224f2374ffd81b7753b891dd",
+     "locator": "page 681, A.B. No. 1064",
+     "quote": "A.B. No. 1064—Bauer−Kahan (Coauthor: Pellerin). An act to add Chapter 25.1 (commencing with Section 22757.20) to Division 8 of the Business and Professions Code, relating to artificial intelligence."
+    }
+   ],
+   "cand_id": "US-CA-14"
+  },
+  "FR-02": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate FR-02",
+   "fields": {
+    "scope_note": {
+     "reason": "the published scope_note was a reviewer's remark ('the existing scope_note is appropriate'); rewritten as a public statement of why the strategy is borderline and included",
+     "evidence": []
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "original_title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/FR-02/2026-10-16/official.pdf",
+     "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+     "locator": "page 3, Édito",
+     "quote": "l’ensemble du Gouvernement est mobilisé autour de la stratégie AI for Humanity, nourrie par le rapport préparé par le député Cédric Villani"
+    },
+    {
+     "field": "original_title",
+     "file": "archive/FR-02/2026-10-16/official.pdf",
+     "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+     "locator": "page 3, Édito",
+     "quote": "Gouvernement est mobilisé autour de la stratégie AI for Humanity"
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/FR-02/2026-10-16/official.pdf",
+     "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+     "locator": "page 5, La stratégie AI for Humanity",
+     "quote": "Le Président de la République a annoncé que le Gouvernement consacrera 1,5 milliard d’euros sur l’ensemble du quinquennat pour développer l’intelligence artificielle (IA)"
+    },
+    {
+     "field": "date_published",
+     "file": "archive/FR-02/2026-10-16/official.pdf",
+     "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+     "locator": "page 5, La stratégie AI for Humanity",
+     "quote": "Jeudi 29 mars 2018 s’est tenu, à Paris au Collège de France, le colloque sur l’intelligence artificielle (IA)"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/FR-02/extra-859ac04fb9/2026-10-18/official.pdf",
+     "sha256": "798d3c6b52514da9597fd7a27b55c95a8644f196e87ba694fae6e1b86e3ada11",
+     "locator": "page 4, Éditorial",
+     "quote": "Le 29 mars 2018 au Collège de France, le Président de la République présentait sa vision et sa stratégie pour faire de la France un pays leader de l’intelligence artificielle . N ous arrivons aujourd’hui au terme de la première phase de cette stratégie nationale pour l’IA."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/FR-02/2026-10-16/official.pdf",
+     "sha256": "20248c82753b7b701ed65795b9e5b1c3d3df0434dfc9269d5cb33e469fc396a2",
+     "locator": "page 5, La stratégie AI for Humanity",
+     "quote": "L ’objectif de ce plan : propulser la France parmi les champions de l’intelligence artificielle"
+    }
+   ],
+   "cand_id": "FR-02"
+  },
+  "GB-10": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate GB-10",
+   "fields": {
+    "scope_note": {
+     "reason": "the published scope_note was a reviewer's remark ('the existing scope_note is kept', 'rests on secondary reporting, not on a stored official file'); rewritten as a public statement of why the bill is borderline and included, from Parliament's own description of Ten Minute Rule bills",
+     "evidence": [
+      {
+       "field": "scope_note",
+       "file": "archive/_runs/2026-10-18-refresh-level-rule-2/GB-10/extra-ee811f45ac/2026-10-18/official.json",
+       "sha256": "c4ab90ba6f78afaddd90e6bb46624df00dc24a639963426fc7646cd8eb8ba546",
+       "locator": "Bills API, bill types, id 5",
+       "quote": "Ten Minute Rule bills are often an opportunity for Members to voice an opinion on a subject or aspect of existing legislation, rather than a serious attempt to get a bill passed."
+      }
+     ]
+    },
+    "verification.level": {
+     "reason": "level computed from the evidence by tools/pipeline.py",
+     "evidence": []
+    }
+   },
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/GB-10/extra-96e45f7ea5/2026-10-18/official.json",
+     "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+     "locator": "Bills API, bill 4288",
+     "quote": "\"shortTitle\":\"Artificial Superintelligence Bill\""
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/GB-10/extra-96e45f7ea5/2026-10-18/official.json",
+     "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+     "locator": "Bills API, bill 4288, sponsors",
+     "quote": "\"name\":\"Alex Sobel\",\"party\":\"Labour\""
+    },
+    {
+     "field": "date_published",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/GB-10/extra-372e8b67ec/2026-10-18/official.json",
+     "sha256": "aca3621be2055fe8b8e69d5ab822a1b026e28ee136fe92c8c6a832aa3dfbcd55",
+     "locator": "Bills API, bill 4288 stages, 1st reading",
+     "quote": "\"description\":\"1st reading\",\"abbreviation\":\"1R\",\"house\":\"Commons\",\"stageSittings\":[{\"id\":18589,\"stageId\":6,\"billStageId\":21187,\"billId\":4288,\"date\":\"2026-09-08T00:00:00\"}]"
+    },
+    {
+     "field": "status",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/GB-10/extra-96e45f7ea5/2026-10-18/official.json",
+     "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+     "locator": "Bills API, bill 4288",
+     "quote": "\"billWithdrawn\":null,\"isDefeated\":false,\"billTypeId\":5"
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/_runs/2026-10-18-refresh-level-rule-2/GB-10/extra-96e45f7ea5/2026-10-18/official.json",
+     "sha256": "7736f57146d097e7cd601c481f59e28c9e645e30f5c01838838742919e7488e9",
+     "locator": "Bills API, bill 4288",
+     "quote": "\"includedSessionIds\":[40],\"isAct\":false"
+    }
+   ],
+   "cand_id": "GB-10"
+  },
+  "NL-01": {
+   "reason": "pipeline run 2026-10-18-refresh-level-rule-2 (refresh), candidate NL-01",
+   "fields": {},
+   "confirmed": [
+    "title",
+    "issuing_body",
+    "date_published",
+    "status",
+    "legal_force"
+   ],
+   "evidence": [
+    {
+     "field": "title",
+     "file": "archive/NL-01/2026-10-11/secondary.html",
+     "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+     "locator": "news release, first paragraph",
+     "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht."
+    },
+    {
+     "field": "issuing_body",
+     "file": "archive/NL-01/2026-10-11/secondary.html",
+     "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+     "locator": "news release, first paragraph",
+     "quote": "Staatssecretaris Aerdts (Digitale Economie en Soevereiniteit) heeft het voorstel voor de uitvoeringswet AI-verordening vandaag in internetconsultatie gebracht."
+    },
+    {
+     "field": "date_published",
+     "file": "archive/NL-01/2026-10-11/secondary.html",
+     "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+     "locator": "news release, header",
+     "quote": "Kabinet zet stap met toezicht op Europese AI-regels Nieuwsbericht20-04-2026 | 16:00"
+    },
+    {
+     "field": "status",
+     "file": "archive/NL-01/2026-10-11/secondary.html",
+     "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+     "locator": "news release, last paragraph",
+     "quote": "Het wetsvoorstel is tot en met 1 juni 2026 (online) opengesteld voor consultatie."
+    },
+    {
+     "field": "legal_force",
+     "file": "archive/NL-01/2026-10-11/secondary.html",
+     "sha256": "139650ad4200e668fc363b970d46f2267507696056c05b45e0f27d2253d113e7",
+     "locator": "news release, last paragraph",
+     "quote": "Het wetsvoorstel is tot en met 1 juni 2026 (online) opengesteld voor consultatie."
+    }
+   ],
+   "cand_id": "NL-01"
+  }
+ },
+ "assigned": {
+  "HK-02": "HK-02",
+  "US-CA-01": "US-CA-01",
+  "US-CA-02": "US-CA-02",
+  "US-CA-06": "US-CA-06",
+  "US-CA-07": "US-CA-07",
+  "US-CA-08": "US-CA-08",
+  "US-IL-02": "US-IL-02",
+  "IS-01": "IS-01",
+  "UA-01": "UA-01",
+  "G20-01": "G20-01",
+  "ID-02": "ID-02",
+  "US-IL-03": "US-IL-03",
+  "SA-04": "SA-04",
+  "SI-02": "SI-02",
+  "BG-01": "BG-01",
+  "LV-02": "LV-02",
+  "KR-04": "KR-04",
+  "KR-05": "KR-05",
+  "KR-06": "KR-06",
+  "KR-07": "KR-07",
+  "KR-08": "KR-08",
+  "BN-01": "BN-01",
+  "KH-01": "KH-01",
+  "US-HI-01": "US-HI-01",
+  "JM-01": "JM-01",
+  "CN-19": "CN-19",
+  "JP-12": "JP-12",
+  "US-CA-14": "US-CA-14",
+  "FR-02": "FR-02",
+  "GB-10": "GB-10",
+  "NL-01": "NL-01"
+ },
+ "not_added": [],
+ "needs_human": [],
+ "questions": [
+  {
+   "cand_id": "US-CA-02",
+   "record_id": "US-CA-02",
+   "why": "the checker found something possibly newer: {'url': 'https://www.senate.ca.gov/media/4621', 'what': 'Senate Weekly History No. 67 of 1 Oct 2026: SB 1000 (Becker), Chapter 861, Statutes of 2026, amending the California AI Transparency Act; urgency statute, effective immediately. Affects summary, notes and possibly date_in_force; the run does n"
+  },
+  {
+   "cand_id": "US-IL-02",
+   "record_id": "US-IL-02",
+   "why": "the checker found something possibly newer: https://ilga.gov/Legislation/PublicActs/PrinterFriendly/104-0054"
+  },
+  {
+   "cand_id": "KR-05",
+   "record_id": "KR-05",
+   "why": "issuing_body is unsupported and the checker gave no evidence-backed fix; date_last_updated is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: {'what': 'KOSA help desk version of Feb 2026 (최첨단 인공지능 안전성 확보 가이드라인)', 'where': 'sw.or.kr', 'note': 'not an official host, robots.txt blocks the archiver; no final notification found'}"
+  },
+  {
+   "cand_id": "BN-01",
+   "record_id": "BN-01",
+   "why": "checker: The guide's own PDF on aiti.gov.bn now backs the title, issuer and non-binding character (official); the date rests on the press release (alt-official), so level B. A Second Edition is listed on AITI's own site and may replace the stored edition, so the status 'current' and possibly the date and title need a person or a later run to read it.; status is unsupported and the checker gave no evidence-backed fix; the checker found something possibly newer: {'what': 'Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)', 'where': 'https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics', 'note': 'listed for download, shown in a flowpaper viewer; undated'}; {'url': 'https://78460737.flowpaper.com/GuideonAIGovernanceandEthicsforBr"
+  },
+  {
+   "cand_id": "FR-02",
+   "record_id": "FR-02",
+   "why": "the checker found something possibly newer: {'url': 'https://www.info.gouv.fr/actualite/ia-une-nouvelle-impulsion-pour-la-strategie-nationale', 'what': 'Third stage of the national AI strategy announced after the interministerial committee of 6 Feb 2025; not stored; does not change the fields this run sets.'}; https://www.economie.gouv.fr/la-"
+  }
+ ],
+ "unchecked": [],
+ "summary": "0 new, 31 update(s), 0 not added, 0 need a human, 5 merged with an open question, 0 not ready"
+}

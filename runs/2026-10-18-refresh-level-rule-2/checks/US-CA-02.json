@@ -1,0 +1,79 @@
+{
+ "cand_id": "US-CA-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported",
+   "why": "Operative date of 2 Aug 2026 for covered providers comes from the AB 2713 committee analysis (alt-official); SB 1000 (Chapter 861) may have changed duties, text not stored."
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "judgment-differs",
+   "why": "The identifier lists AB 853 and AB 2713 but omits SB 1000 (Becker), Chapter 861, Statutes of 2026, also titled California AI Transparency Act and approved 30 Sep 2026; the Senate Weekly History of 1 Oct 2026 stored in this run records it.",
+   "fix": {
+    "value": "Chapter 291, Statutes of 2024 (Senate Bill 942); amended by Chapter 674, Statutes of 2025 (Assembly Bill 853), Chapter 856, Statutes of 2026 (Assembly Bill 2713) and Chapter 861, Statutes of 2026 (Senate Bill 1000)",
+    "evidence": [
+     {
+      "file": "archive/_runs/2026-10-18-refresh-level-rule-2/US-CA-06/extra-fc08967c56/2026-10-18/official.pdf",
+      "sha256": "62d7541f17ac9f1b11d30b31001fa1984742a02c2076414ef6ac2a0026e4d2ec",
+      "locator": "page 938, Senate bills approved by the Governor, chaptered",
+      "quote": "1000 861 Becker ............. California AI Transparency Act. .......................... Sep. 30, 2026",
+      "source_kind": "official"
+     }
+    ]
+   }
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Civil penalty of $5,000 per violation",
+   "verdict": "supported",
+   "locator": "AB 853 SJUD analysis, Existing law 6)"
+  },
+  {
+   "claim": "Large online platforms from 2027 and capture-device makers from 2028",
+   "verdict": "supported",
+   "locator": "AB 2713 APCP analysis page 2, Existing law 3) and 4)"
+  },
+  {
+   "claim": "Providers with over 1,000,000 monthly users",
+   "verdict": "judgment-differs",
+   "locator": "AB 853 SJUD analysis; secondary reports say SB 1000 (Chapter 861) removes this threshold, which no stored official file shows"
+  }
+ ],
+ "newer_versions": [
+  {
+   "url": "https://www.senate.ca.gov/media/4621",
+   "what": "Senate Weekly History No. 67 of 1 Oct 2026: SB 1000 (Becker), Chapter 861, Statutes of 2026, amending the California AI Transparency Act; urgency statute, effective immediately. Affects summary, notes and possibly date_in_force; the run does not change those."
+  }
+ ],
+ "extra_urls": [
+  "https://www.senate.ca.gov/media/4621"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept-with-fixes",
+ "note": "Chaptering and amendments by Chapters 291, 674 and 856 are supported by the legislature's histories. Newer version: the Senate Weekly History of 1 Oct 2026 (already stored) lists SB 1000 (Becker), Chapter 861, an urgency statute amending sections 22757.1 to 22757.5 of the Act. I propose adding it to official_identifier. Its effect on the summary (provider threshold, detection tool), the penalty and the operative date cannot be judged from stored text; the extractor already raised this as an open question, and the summary and notes should be refreshed once Chapter 861 is stored."
+}

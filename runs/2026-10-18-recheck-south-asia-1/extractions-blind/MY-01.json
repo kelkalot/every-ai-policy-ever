@@ -1,0 +1,145 @@
+{
+ "record": {
+  "summary": "Malaysia's national voluntary AI governance and ethics guidelines, launched by MOSTI in September 2024. They are built on seven AI principles: fairness; reliability, safety and control; privacy and security; inclusiveness; transparency; accountability; and pursuit of human benefit and happiness. Separate guidance is given to end users, policymakers and developers or technology providers. The document is meant to be amended as technology and ethical norms change.",
+  "safety_topics": [
+   "accountability & liability",
+   "transparency & labelling",
+   "human oversight"
+  ],
+  "notes": "The MASTIC publication page dates the guidelines September 2024, and the MOSTI media release gives 20 September 2024 as the launch day. The National AI Action Plan 2026-2030 refers to the guidelines as issued by MOSTI in 2023, which may reflect an earlier draft; the September 2024 date of the published guidelines is used here. The guidelines call themselves a living document that MOSTI will amend over time.",
+  "verification": {
+   "note": "Stored: the MASTIC (MOSTI) publication page (title, publisher, Sep 2024), the full guidelines PDF (publisher, seven principles, voluntary adoption) and the MOSTI media release of 20 September 2024 (launch day, three stakeholder categories). The 'in 2023' remark on the Action Plan comes from that record's text and was not rechecked here."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "page heading",
+    "quote": "THE NATIONAL GUIDELINES ON AI GOVERNANCE & ETHICS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 1",
+    "quote": "THE NATIONAL GUIDELINES",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 2",
+    "quote": "Published by: Ministry of Science, Technology and Innovation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "page footer",
+    "quote": "Ministry of Science Technology and Innovation,",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/MY-01/2026-10-18/official.html",
+    "sha256": "affa8f489f0f98fd84651aacace3c8223036bd1aed10dcbecdb21686328e35bb",
+    "locator": "publication details",
+    "quote": "Publication Date :- Sep 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-e8b8be85ad/2026-10-18/official.pdf",
+    "sha256": "9e9f56fecf8182a988784364115c6017a08dc98877c4dcec374f4a546151db78",
+    "locator": "page 1",
+    "quote": "PUTRAJAYA, 20 September 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 46",
+    "quote": "This National Guidelines will be voluntarily adopted by all users.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-e8b8be85ad/2026-10-18/official.pdf",
+    "sha256": "9e9f56fecf8182a988784364115c6017a08dc98877c4dcec374f4a546151db78",
+    "locator": "page 3",
+    "quote": "Atas sifat dokumen AIGE ini yang bersifat dinamik ( a living document)",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 46",
+    "quote": "This National Guidelines will be voluntarily adopted by all users.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 8",
+    "quote": "The Malaysian government has proposed seven principles to guide the development of Trusted and Responsible AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 8",
+    "quote": "• Reliability, Safety and Control",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-e8b8be85ad/2026-10-18/official.pdf",
+    "sha256": "9e9f56fecf8182a988784364115c6017a08dc98877c4dcec374f4a546151db78",
+    "locator": "page 1",
+    "quote": "tiga (3) kategori iaitu orang awam/pengguna",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-01/extra-dc12f798d2/2026-10-18/official.pdf",
+    "sha256": "72df1a49c50749af2c4489e1e2a0b5e63774a93796d212cbac651ece3552a192",
+    "locator": "page 9",
+    "quote": "the National Guidelines will be amended from time to time to reflect",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored guidelines PDF and media release: names the seven principles and the three stakeholder groups, drops the claim that it is the reference for later instruments, which no stored text states",
+   "notes": "adds the launch day from the media release and the living-document statement",
+   "verification.note": "rewritten: the guidelines PDF is now stored, so the principles are confirmed"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "No repeal or replacement appears in the stored texts; the MASTIC page still lists the guidelines. Non-binding by its own wording (voluntary adoption).",
+  "scope_reasoning": "National AI governance and ethics guidelines; in scope without a note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The media release is a Malay-language text on a MOSTI site; no English translation of it was stored. The guidelines PDF itself is in English."
+ ],
+ "cand_id": "MY-01",
+ "target_id": "MY-01",
+ "decision": "update",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5"
+}

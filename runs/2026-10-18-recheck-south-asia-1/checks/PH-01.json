@@ -1,0 +1,19 @@
+{
+ "cand_id": "PH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {},
+ "summary_claims": [],
+ "newer_versions": [],
+ "extra_urls": [
+  "https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "The extractor decided needs-human and proposed no field values: privacy.gov.ph refused every attempt (HTTP 403), so there is no stored copy to check. The published record stays as it is. Search found no amendment of NPC Advisory No. 2024-04 and no newer version. A person can provide the PDF with archive.py --provide."
+}

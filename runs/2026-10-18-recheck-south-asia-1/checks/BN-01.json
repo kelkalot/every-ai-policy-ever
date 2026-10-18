@@ -1,0 +1,73 @@
+{
+ "cand_id": "BN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "language": {
+   "verdict": "judgment-differs",
+   "why": "The stored guide is English only; the Malay text is the press release. 'English, Malay' may overstate the guide's languages. Left to the open question."
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Seven principles listed",
+   "verdict": "supported",
+   "locator": "press release, English text"
+  },
+  {
+   "claim": "Governance framework built on people, process and technology",
+   "verdict": "supported",
+   "locator": "guide p. 30"
+  },
+  {
+   "claim": "Risk impact assessments set the level of human involvement",
+   "verdict": "supported",
+   "locator": "guide p. 33"
+  },
+  {
+   "claim": "Incident response plans among security safeguards",
+   "verdict": "supported",
+   "locator": "guide p. 23"
+  },
+  {
+   "claim": "Working group of 25 members from May 2024; consultation paper 9 July 2024; 17 respondents",
+   "verdict": "supported",
+   "locator": "AITI AI governance page"
+  }
+ ],
+ "newer_versions": [
+  {
+   "url": "https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics",
+   "note": "Lists a Second Edition of the guide, undated, text not stored"
+  }
+ ],
+ "extra_urls": [
+  "https://www.aiti.gov.bn/regulatory/ai-governance-and-ethics"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "AITI's AI governance page (official, stored in this run) lists a 'Guide on AI Governance and Ethics for Brunei Darussalam (Second Edition)' with no date, through a third-party flipbook that exposes no text. A parliamentary answer on a third-party Hansard mirror says Version 2.0 was due in the second quarter of 2026. A Second Edition may change the date_last_updated, summary or status; its text is not stored, so I cannot judge. A person needs to provide the Second Edition file. The first-edition fields all check against the stored press release and guide."
+}

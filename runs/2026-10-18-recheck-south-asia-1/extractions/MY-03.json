@@ -1,0 +1,312 @@
+{
+ "cand_id": "MY-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MY-03",
+ "record": {
+  "date_published": "2026-07-28",
+  "summary": "Malaysia's five-year national AI plan (AI Nation 2030), issued by the Ministry of Digital with AI Malaysia (National AI Office) as secretariat. Its 'Trust via Responsible Governance' enablers propose a hybrid, risk-based framework with a central AI governance authority and a principles-based regulatory framework of definitions, risk tiers and obligations as the basis for future AI legislation; a national AI Trust Function to issue AI safety and security standards, oversee testing and certification, keep a public AI incident registry and lead the ASEAN AI Safety Network; board-level AI governance; and AI training before officials approve or oversee government AI systems.",
+  "safety_topics": [
+   "risk-based classification",
+   "evaluation & testing",
+   "incident reporting",
+   "public-sector use",
+   "accountability & liability",
+   "international cooperation"
+  ],
+  "notes": "The government introduced the plan on 28 Jul 2026 at the launch of AI Malaysia Berhad, which institutionalised the National AI Office set up on 12 Dec 2024. At the same launch it announced the Malaysia AI Safety Institute (Institut Keselamatan AI Malaysia), a role AI Malaysia is to carry out, and an AI Governance Bill (RUU Tadbir Urus AI) being drafted on a risk-based approach, open to public consultation and targeted for completion by the end of 2026. The plan is published in English and Malay and bears a 2026 copyright of the Ministry of Digital. Oversight lies with the National Digital Economy and 4IR Council (MED4IRN), chaired by the Prime Minister, with AI Malaysia as central secretariat. The plan builds on the National Guidelines on AI Governance and Ethics (AIGE), which it cites as published by MOSTI in 2023, and on the Data Sharing Act 2025 (Act 864). E14 proposes amendments to the Malaysian Code on Corporate Governance on board oversight and disclosure of AI.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: AI Malaysia's homepage (ai.gov.my, copy of 18 Oct 2026; its text differs from the copy of 11 Oct 2026 only in navigation links), which links the English and Malay PDFs; the English PDF (104 pages, stored on 11 Oct 2026 from strapi.naio.okie.my, AI Malaysia's content server, which a maintainer recorded as an official host; unchanged when the archiver checked it on 18 Oct 2026), read in full, including E11 to E14 and Part 5; and, stored in this run, the Malay PDF (same host), AI Malaysia's Action Plan page (ai.gov.my/aiactionplan2030, 'Published by: MINISTRY OF DIGITAL') and the Ministry of Digital's Malay press statement of 28 Jul 2026 (same host), which says the government introduced the plan at the AI Malaysia launch that day. The plan itself states no date; the file names of both PDFs refer to a version of 18 Aug 2026, three weeks after the launch, so the text read may be a revised edition of what was introduced on 28 Jul 2026. Version 1's remarks that the text was truncated after E7 and that the plan did not mention an AI Act no longer hold: the stored text is complete, and E11 proposes a regulatory framework as the foundation for future AI legislation."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MY-03/2026-10-18/official.html",
+    "sha256": "8005bdc3bcb585f28e37fb49c4e34850ab0bc46377dcd0dd8e2a13f255fd6d93",
+    "locator": "Read the Full National AI Action Plan 2026 - 2030",
+    "quote": "Read the Full National AI Action Plan 2026 - 2030 Malaysia's five-year roadmap for a value-driven, human-centric AI nation, available in English and Bahasa Malaysia.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-d3e114ed61/2026-10-18/official.html",
+    "sha256": "fb743f875f868a0165df79c8b6326eb8a18f0dd57fa69f888c33492a61a02e54",
+    "locator": "The Action Plan Framework",
+    "quote": "The National AI Action Plan 2026-2030 (AI Nation 2030) is structured around a clear, layered framework that links national ambition to execution.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-c79afc3184/2026-10-18/official.pdf",
+    "sha256": "efee68ee99a7a91691e0207b2180816e4ca5c1d96ada1ef40ab16713173208e7",
+    "locator": "page 15",
+    "quote": "Pelan Tindakan AI Kebangsaan 2026-2030 (Negara AI 2030) disusun berasaskan satu kerangka berperingkat",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-c79afc3184/2026-10-18/official.pdf",
+    "sha256": "efee68ee99a7a91691e0207b2180816e4ca5c1d96ada1ef40ab16713173208e7",
+    "locator": "page 11",
+    "quote": "Pelan Tindakan AI Kebangsaan 2026-2030 (Negara AI 2030)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-d3e114ed61/2026-10-18/official.html",
+    "sha256": "fb743f875f868a0165df79c8b6326eb8a18f0dd57fa69f888c33492a61a02e54",
+    "locator": "page footer",
+    "quote": "Published by: MINISTRY OF DIGITAL Level 7, Menara PjH",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-d3e114ed61/2026-10-18/official.html",
+    "sha256": "fb743f875f868a0165df79c8b6326eb8a18f0dd57fa69f888c33492a61a02e54",
+    "locator": "page footer",
+    "quote": "AI MALAYSIA BERHAD (formerly known as the National AI Office)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 91",
+    "quote": "The AI Malaysia (National AI Office) serves as the central Secretariat, driving strategic coordination",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 1, dateline",
+    "quote": "CYBERJAYA, 28 Julai 2026 – YAB Perdana Menteri, Dato’ Seri Anwar Ibrahim",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 2, Pelan Tindakan AI Kebangsaan 2026-2030: Agenda Pembinaan Negara",
+    "quote": "Bersempena dengan pel ancaran ini, Kerajaan turut memperkenalkan Pelan Tindakan AI Kebangsaan 2026 -2030 sebagai agenda pembinaan negara",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/MY-03/2026-10-18/official.html",
+    "sha256": "8005bdc3bcb585f28e37fb49c4e34850ab0bc46377dcd0dd8e2a13f255fd6d93",
+    "locator": "National AI Action Plan 2026 - 2030",
+    "quote": "The complete 2026-2030 roadmap covering strategy, impact engines and governance, in English & Malay. Download PDF (ENG)Download PDF (BM)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 2",
+    "quote": "Bersempena dengan pel ancaran ini, Kerajaan turut memperkenalkan Pelan Tindakan AI Kebangsaan 2026 -2030",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 82 (E11)",
+    "quote": "Establish a hybrid, risk-based AI governance framework that sets clear national guardrails while empowering sector regulators to oversee AI use cases",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 82 (E11)",
+    "quote": "Create a central AI governance authority to set national principles, coordinate sector regulators and oversee AI governance evolution.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 83 (E11)",
+    "quote": "Codify core AI definitions, risk tiers and foundational obligations using a proportional, risk-based approach.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 83 (E11)",
+    "quote": "Use this framework as the foundation for future AI legislation.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 84 (E12)",
+    "quote": "Standards and Policy Issue AI safety and security standards, risk classifications, and safe-use guidance.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 85 (E12)",
+    "quote": "Oversee AI model and application testing, certification and assessor accreditation, and maintain a public AI incident registry.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 85 (E12)",
+    "quote": "Lead and support the ASEAN AI Safety Network to align regional safety and security standards.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 88 (E14)",
+    "quote": "Update national corporate governance codes and guidelines to address emerging technology and AI risks, ensuring board-level accountability, oversight, and transparency.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 69 (E5)",
+    "quote": "Require completion of AI training before approving, deploying, or overseeing government AI systems.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 85 (E12)",
+    "quote": "Mandate visibility of AI-related incidents across enforcement agencies by reporting to the AI Trust Function.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 87 (E13)",
+    "quote": "Risk-Based Thresholds Define thresholds based on the risk level of each application.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 1",
+    "quote": "Kebangsaan (NAIO) yang mula ditubuhkan pada 12 Disember 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 1",
+    "quote": "Institut Keselamatan AI Malaysia: Melaksanakan peranan sebagai Institut Keselamatan AI negara",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 3",
+    "quote": "Rang Undang -undang (RUU) Tadbir Urus AI kini sedang dirangka sebagai instrumen perundangan utama yang menggunakan pendekatan berasaskan risiko (risk-based).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf",
+    "sha256": "19891a2b5b321f1e6e5c890172a5606f40311fa28a7955d0dde1f74bae5100ab",
+    "locator": "page 3",
+    "quote": "Pembangunan RUU, yang kini dibuka untuk konsultansi awam, disasarkan siap menjelang hujung tahun ini",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 3",
+    "quote": "Copyright Notice© [2026] MINISTRY OF DIGITAL MALAYSIA. All rights reserved.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 91",
+    "quote": "Oversight is provided by the National Digital Economy and 4IR Council (MED4IRN), chaired by the Prime Minister",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 17, footnote 3",
+    "quote": "Ministry of Science, Technology and Innovation (MOSTI), The National Guidelines on AI Governance & Ethics (AIGE) Putrajaya: Government of Malaysia, 2023.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 8, foreword of the Minister of Digital",
+    "quote": "This is supported by strengthened AI governance and the implementation of the Akta Perkongsian Data 2025 [Akta 864]",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/MY-03/2026-10-11/secondary.pdf",
+    "sha256": "25e6058c2e7309419397465bbbadca4d9909b514fdea3567702b344063157dd2",
+    "locator": "page 89 (E14)",
+    "quote": "Explore amendments to the Malaysian Code on Corporate Governance (MCCG), building on existing disclosure practices.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the Ministry of Digital's press statement of 28 Jul 2026 says the government introduced the plan at the AI Malaysia launch that day ('Bersempena dengan pelancaran ini, Kerajaan turut memperkenalkan Pelan Tindakan AI Kebangsaan 2026-2030')",
+   "summary": "rewritten from the full stored text: version 1 rested on a truncated reading; E11's central AI governance authority and regulatory framework as the basis for future AI legislation, and E12's safety standards, incident registry and ASEAN AI Safety Network, made explicit; 'flagship' dropped",
+   "safety_topics": "added incident reporting (E12: public AI incident registry, mandated reporting of AI incidents to the AI Trust Function) and international cooperation (E12: ASEAN AI Safety Network)",
+   "notes": "version 1's remarks on a truncated text and on no mention of an AI Act are no longer true and were removed; the host and file-name remarks moved to verification.note; the 28 Jul 2026 launch with the AI Safety Institute and the AI Governance Bill, the governance structure (MED4IRN), the AIGE citation, Act 864 and E14 added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "status"
+  ],
+  "status_reasoning": "The government introduced the plan on 28 Jul 2026 and AI Malaysia's homepage of 18 Oct 2026 offers it for download as 'the complete 2026-2030 roadmap'; the plan period runs to 2030 and nothing stored shows a replacement. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2026-07-28 is the day the Ministry of Digital's press statement says the plan was introduced. The plan itself states no date; its PDF file names refer to a version of 18 Aug 2026 (in verification.note).",
+  "scope_reasoning": "National AI action plan whose governance pillar proposes a risk-based regulatory framework, an AI Trust Function with safety standards and an incident registry, and AI-specific board duties; substantial risk-governance content. Version 1 has no scope_note; safety is one of five policy shifts rather than the main focus, but the governance initiatives are extensive, so the record is left without a note."
+ },
+ "extra_urls": [
+  {
+   "url": "https://strapi.naio.okie.my/uploads/Negara_AI_2030_Pelan_Tindakan_AI_Kebangsaan_2026_2030_BM_V_180826_28c3a5894d.pdf",
+   "reason": "The Malay version of the plan, linked as 'Download PDF (BM)' on the stored homepage; needed to quote original_title. (stored in this run)"
+  },
+  {
+   "url": "https://strapi.naio.okie.my/uploads/28072026_SIARAN_MEDIA_AI_MALAYSIA_PEMACU_UTAMA_MENUJU_NEGARA_AI_2030_a6f8fbbbf3.pdf",
+   "reason": "The Ministry of Digital's press statement of 28 Jul 2026, linked from the stored homepage; gives the date the plan was introduced. (stored in this run)"
+  },
+  {
+   "url": "https://ai.gov.my/aiactionplan2030/",
+   "reason": "AI Malaysia's page for the AI Action Plan 2030; names the Ministry of Digital as publisher. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Malaysia AI Safety Institute (Institut Keselamatan AI Malaysia), announced on 28 Jul 2026; AI Malaysia's MY-AISafe page",
+   "url": "https://ai.gov.my/my-aisafe/",
+   "seen_in": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf (Ministry of Digital press statement of 28 Jul 2026, pages 1-2); the MY-AISafe menu item in archive/MY-03/2026-10-18/official.html",
+   "why": "The press statement says Malaysia is establishing a national AI Safety Institute, a role AI Malaysia Berhad is to carry out, with three pillars (safety evaluation, testing and red teaming; collaboration; governance, standards and risk management). A safety-institute mandate is in scope; not in the register. MY-AISafe is probably its page."
+  },
+  {
+   "title": "Malaysia AI Governance Bill (Rang Undang-undang Tadbir Urus AI)",
+   "seen_in": "archive/_runs/2026-10-18-recheck-south-asia-1/MY-03/extra-1e6337631f/2026-10-18/official.pdf (Ministry of Digital press statement of 28 Jul 2026, page 3)",
+   "why": "A risk-based AI governance bill being drafted by the Ministry of Digital, open for public consultation in July 2026 and targeted for completion by the end of 2026. Not in the register; the consultation document would be its first official text."
+  },
+  {
+   "title": "Boardroom Primer to AI Adoption & Governance (AI Malaysia Berhad)",
+   "url": "https://ai.gov.my/governance/boardroom-primer-to-ai-adoption-and-governance/",
+   "seen_in": "archive/MY-03/2026-10-18/official.html (Governance menu of ai.gov.my)",
+   "why": "A governance publication of the national AI agency for corporate boards, related to the plan's E14 (AI-aware stewardship). Not in the register."
+  }
+ ],
+ "open_questions": [
+  "The plan PDFs AI Malaysia now serves are named as a version of 18 Aug 2026, three weeks after the plan was introduced on 28 Jul 2026, and the plan states no date. Whether the 18 Aug version revised the text introduced on 28 Jul (which would make 2026-08-18 a date_last_updated) is not shown by any stored file."
+ ]
+}

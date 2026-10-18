@@ -1,0 +1,58 @@
+{
+ "cand_id": "IN-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "Supported by the PIB release only (alt-official); the guidelines carry no date. Level B follows."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Seven sutras listed (Trust, People First, Innovation over Restraint, Fairness & Equity, Accountability, Understandable by Design, Safety, Resilience & Sustainability)",
+   "verdict": "supported",
+   "locator": "guidelines Executive Summary, p. 7 and pp. 10-11"
+  },
+  {
+   "claim": "AI Governance Group supported by a Technology & Policy Expert Committee; graded liability system; national incident database",
+   "verdict": "supported",
+   "locator": "pp. 8, 28"
+  },
+  {
+   "claim": "Separate AI law not needed at this stage",
+   "verdict": "supported",
+   "locator": "p. 12"
+  },
+  {
+   "claim": "Drafting committee chaired by Prof. B. Ravindran",
+   "verdict": "supported",
+   "locator": "PIB release PRID 2186639"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search for a revision of the guidelines: none found. A Vikaspedia page reports that MeitY constituted an AI Governance and Economic Group in April 2026; I could not tell from it whether this is the AI Governance Group the guidelines propose, and it is not an official notification, so I add no URL. The summary keeps 'Do No Harm' out, as the guidelines do not use it."
+}

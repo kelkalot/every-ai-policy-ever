@@ -1,0 +1,176 @@
+{
+ "cand_id": "VN-09",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "VN-09",
+ "record": {
+  "date_published": "2026-08-11",
+  "date_in_force": "2026-08-11",
+  "notes": "Issued on 11 August 2026 according to the Government's legal-documents portal; the Government portal's digital signature on the published copy is dated 12 August 2026. In force on signature (Art. 2). Issued on the basis of, among others, the Law on Artificial Intelligence of 10 December 2025 (VN-02), on the proposal of the Minister of Education and Training (Submissions 1610/TTr-BGDĐT of 5 August 2026 and 1493/TTr-BGDĐT of 26 July 2026). Other 2030 targets: at least 80% of vocational learners and 90% of public-service staff trained in AI, 100,000 teachers and education managers given in-depth training, at least 10 million workers trained in basic AI skills, 1,500 experts able to master core AI technology, and at least 10 advanced AI training and research centres and 25 key universities. Tasks include a national AI competency framework, AI content in general education, controlled sandboxes for AI training and practice, and a study of financial support for retraining workers affected by AI and automation, including the unemployment insurance fund. The Ministry of Education and Training leads implementation; the Ministry of Public Security ensures cybersecurity, information-system and data safety and the protection of state secrets; ministries and provinces report each year by 30 November. Annexes set yearly targets for 2026-2030 and list the programme's projects. Decision 367/QĐ-TTg (VN-03) assigned the Ministry of Education and Training a national AI workforce programme among the AI Law's implementing tasks.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the signed decision with its four annexes from the Government portal's file server (datafiles.chinhphu.vn; 18 scanned pages, read through Tesseract OCR redone on 18 Oct 2026 with Vietnamese among the language models) and the Government legal-documents portal entry (vanban.chinhphu.vn), which gives the number 1528/QĐ-TTg, issue date 11-08-2026, the Prime Minister as issuer and Lê Tiến Châu as signer. vanban.chinhphu.vn is now listed as an official host (Department of Government Information and Communications); as the record's secondary file it counts as another official source. The OCR still garbles the number ('4528/QĐ-TTg') and the day in the date line ('ngay M tháng 8 năm 2026'), so the day 11 August 2026 in date_published and date_in_force rests on the portal entry, which the PDF's file name (1528_qd-ttg_11082026-signed) matches; the signed PDF itself confirms only August 2026. The PDF is the file stored on 14 Oct 2026 (same SHA-256). The signing block shows 'KT. THU TƯỚNG' (signed for the Prime Minister); the signer's name is not legible in the OCR. The link to Decision 367/QĐ-TTg rests on VN-03's stored copy. No English text was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1",
+    "quote": "Phê duyệt Chương trình quốc gia phat trién nhân lực trí tuệ nhân tạo den năm 2030, định hướng den năm 2035",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "page title",
+    "quote": "Quyết định số 1528/QĐ-TTg của Thủ tướng Chính phủ: Phê duyệt Chương trình quốc gia phát triển nhân lực trí tuệ nhân tạo đến năm 2030, định hướng đến năm 2035",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1",
+    "quote": "QUYẾT ĐỊNH Phê duyệt Chương trình quốc gia phat trién nhân lực trí tuệ nhân tạo den năm 2030, định hướng den năm 2035",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "page title",
+    "quote": "Quyết định số 1528/QĐ-TTg của Thủ tướng Chính phủ: Phê duyệt Chương trình quốc gia phát triển nhân lực trí tuệ nhân tạo đến năm 2030, định hướng đến năm 2035",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1",
+    "quote": "THU TUONG CHÍNH PHỦ CONG HOA XÃ HỘI CHỦ NGHĨA VIET NAM",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 11, signing block",
+    "quote": "Noi nhận: KT. THU TƯỚNG",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "document metadata",
+    "quote": "Cơ quan ban hành Thủ tướng Chính phủ Người ký Lê Tiến Châu",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "document metadata",
+    "quote": "Số ký hiệu 1528/QĐ-TTg",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "document metadata",
+    "quote": "Tài liệu đính kèm 1528_qd-ttg_11082026-signed.signed.pdf",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "document metadata",
+    "quote": "Số ký hiệu 1528/QĐ-TTg Ngày ban hành 11-08-2026",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1, date line",
+    "quote": "Hà Nội, ngay M tháng 8 năm 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 10, Article 2",
+    "quote": "Điều 2. Quyêt định này có hiệu lực thi hành kê từ ngày ký ban hành.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/secondary.html",
+    "sha256": "eb2b279691f92295b068622f1528abf3faa568fe0640fcf4551ba3fafe8afd96",
+    "locator": "document metadata",
+    "quote": "Số ký hiệu 1528/QĐ-TTg Ngày ban hành 11-08-2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 10, Article 2",
+    "quote": "Điều 2. Quyêt định này có hiệu lực thi hành kê từ ngày ký ban hành.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1, Article 1",
+    "quote": "Phê duyệt Chương trình quôc gia phát trién nhân lực trí tuệ nhân tạo đên năm 2030, định hướng đên năm 2035 (sau đây gọi tắt là Chương trình)",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1",
+    "quote": "Thời gian ký: 12.08.2026 08:46:04 +07:00",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-09/2026-10-18/official.pdf",
+    "sha256": "7f6e4800b8bc60d8b4a7a4e6882b25361c6cf78e13341463c8dc104084e3784f",
+    "locator": "page 1",
+    "quote": "Căn cứ Luật Trí tuệ nhân tạo ngày 10 tháng 12 năm 2025;",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "2026-08 -> 2026-08-11: the Government legal-documents portal (vanban.chinhphu.vn), now listed as an official host, gives the issue date 11-08-2026, matching the PDF's file name; the scanned date line is garbled in the OCR, so the month-only value was version 1's reading when the portal still counted as secondary. The record's level drops to B because the day rests on the portal entry (stored as the secondary file), not on the signed PDF",
+   "date_in_force": "2026-08 -> 2026-08-11: in force on signature (Art. 2), on the issue date the portal gives",
+   "notes": "first sentences rewritten now that date_published carries the day; the rest unchanged",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Art. 2: in force from signature; the decision was issued on 11 Aug 2026 (portal), which has passed (today 18 Oct 2026). It approves a programme, so 'Published (non-binding, current)' with legal_force 'Non-binding' stands; the portal entry, rechecked on 18 Oct 2026, shows no amendment or replacement.",
+  "date_reasoning": "Issue date 11-08-2026 on vanban.chinhphu.vn (official host, alt-official as the record's secondary file); the signed PDF's date line shows only 'tháng 8 năm 2026' in the OCR; the digital signature of 12 Aug 2026 is the portal's publication stamp (notes).",
+  "scope_reasoning": "Unchanged: mainly an education and workforce programme, included with its scope_note because it ties AI workforce development to safe, reliable and accountable AI with risk governance."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

@@ -1,0 +1,143 @@
+{
+ "cand_id": "IN-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IN-01",
+ "record": {
+  "notes": "The Minister of Electronics and IT announced the institute at a media interaction at Electronics Niketan, New Delhi, on 30 January 2025, adopting what he called a techno-legal approach, together with the empanelment of over 18,000 GPUs and a call for proposals for indigenous foundation models; the IndiaAI article on it is dated 31 January 2025. The institute is incubated by the IndiaAI Mission under its Safe and Trusted pillar. The India AI Governance Guidelines of November 2025 (IN-02) describe the recently established institute as the main body for guiding the safe and trusted development and use of AI in India: it should do research, risk assessment and capacity-building, test and evaluate AI systems for risks, advise policymakers and industry, and anchor India's participation in the International Network of AI Safety Institutes.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. The official_url (IndiaAI article on indiaai.gov.in) could not be stored on any attempt (robots.txt unreachable, DNS failures, then a TLS certificate that could not be verified). Stored instead: the Office of the Principal Scientific Adviser's PDF copy of that article (psa.gov.in, the secondary_url, dated 31 Jan 2025); the PIB release of MeitY of 30 Jan 2025 (PRID 2097709, pib.gov.in) with its annexures, and a PSA copy of the same release; and the India AI Governance Guidelines (static.pib.gov.in). The PIB release confirms the announcement by the minister on 30 Jan 2025, the Safe and Trusted pillar, the mandate, the hub-and-spoke model and the second Expression of Interest themes (watermarking and labelling, AI risk assessment and management, stress-testing tools, deepfake detection) used in the summary. The guidelines confirm the institute's later role. No stored source gives the institute's legal form or a date of formal operational launch."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, section 'Setting up IndiaAI Safety Institute'",
+    "quote": "Setting up IndiaAI Safety Institute The Union Minister announced the setting up of IndiaAI Safety Institute under the Safe and Trusted Pillar of the IndiaAI Mission to address AI risks & Safety Challenges.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 1, heading",
+    "quote": "India Takes the Lead: Establishing the IndiaAI Safety Institute for Responsible AI Innovation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, ministry and first paragraph",
+    "quote": "Union Minister for Electronics & Information Technology, Railways, Information & Broadcasting, Shri Ashwini Vaishnaw today announced this in New Delhi at Electronics Niketan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, embedded post",
+    "quote": "Ministry of Electronics & IT (@GoI_MeitY) January 30, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, embedded post",
+    "quote": "Ministry of Electronics & IT (@GoI_MeitY) January 30, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, Posted On",
+    "quote": "Posted On: 30 JAN 2025 7:48PM by PIB Delhi",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 38, B. AI Safety Institute",
+    "quote": "The recently established AI Safety Institute (AISI) should act as the main body responsible for guiding the safe and trusted development and use of AI in India.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, safety paragraph",
+    "quote": "Expressing this commitment, the Union Minister announced that India is establishing an AI Safety Institute, adopting a techno-legal approach.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, section 'Setting up IndiaAI Safety Institute'",
+    "quote": "The Institute, incubated by IndiaAI Mission will be set up on a hub and spoke model with various research and academic institutions, private sector partners joining the hub and taking up projects under the Safe and Trusted Pillar of IndiaAI Mission.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, section 'Setting up IndiaAI Safety Institute'",
+    "quote": "The Institute will advance indigenous research and development, based on Indian datasets and contextualized to India’s social, economic, cultural, and linguistic diversity.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-7e03fe7de9/2026-10-18/official.html",
+    "sha256": "cbf9096f186cfff0d9fcbdcc4ef7e3a666bc227ff439131a9cabc719dfe4391d",
+    "locator": "PIB release PRID 2097709, themes of the 2nd EoI",
+    "quote": "Watermarking & Labelling",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 2 to 3, themes of the 2nd EoI",
+    "quote": "AI Risk Assessment & Management Stress Testing Tools",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-01/extra-1a170020b5/2026-10-18/official.pdf",
+    "sha256": "87f6faff2646faefe17a7b80015fca64b4e905f7bce42d3a0958e04da3e0162f",
+    "locator": "page 38, B. AI Safety Institute",
+    "quote": "The AISI should be involved in research, risk assessment, and capacity-building. It should test and evaluate AI systems for risks and provide advice to policymakers and industry actors on issues of AI safety.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-01/2026-10-18/secondary.pdf",
+    "sha256": "e3a5200d88d0280abbb8333b2e0278c3cadb3b80117c8fc2100c4c9716045602",
+    "locator": "page 1, byline",
+    "quote": "IndiaAI Mission3 Min ReadJan 31, 2025",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "notes": "rewritten from the stored PIB release, the PSA copy of the IndiaAI article and the guidelines: the media interaction of 30 Jan 2025 and what was announced with it, the techno-legal approach, the institute's role in the November 2025 guidelines; the remark that the legal form and launch date 'were not confirmed' moved to verification.note",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": ["title", "issuing_body", "date_published", "status", "legal_force"],
+  "status_reasoning": "Announced by MeitY on 30 Jan 2025; the India AI Governance Guidelines of November 2025 call it 'recently established' and assign it a central role. Nothing stored shows it abolished. An institutional mandate without statutory force: Published (non-binding, current).",
+  "scope_reasoning": "The mandate of a national AI safety institute; in scope with no note.",
+  "title_reasoning": "The PIB section heading is 'Setting up IndiaAI Safety Institute' and the IndiaAI article's title 'India Takes the Lead: Establishing the IndiaAI Safety Institute for Responsible AI Innovation'; the published descriptive title 'IndiaAI Safety Institute (establishment announcement)' fits both and is kept.",
+  "summary_check": "The published summary (announcement under the Safe and Trusted pillar; AI risks and safety challenges; research on Indian datasets; hub-and-spoke model; EoI themes watermarking and labelling, AI risk assessment, stress-testing tools, deepfake detection) is supported by the PIB release and left unchanged."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The official_url (indiaai.gov.in article) cannot be stored from the archiver's network; the PIB release of 30 Jan 2025 (https://www.pib.gov.in/PressReleasePage.aspx?PRID=2097709), stored in this run, is MeitY's own announcement and could serve as official_url. Changing it is left to a person, since changing a URL resets the record's local copy."
+ ]
+}

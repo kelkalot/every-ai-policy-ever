@@ -1,0 +1,58 @@
+{
+ "cand_id": "MY-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "2024-09-20 is the launch date in MOSTI's press release; the guidelines PDF carries no date and the MASTIC page says 'Sep 2024'. Consistent."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Seven AI principles listed",
+   "verdict": "supported",
+   "locator": "guidelines p. 8"
+  },
+  {
+   "claim": "Human oversight HITL, HOTL, HIC",
+   "verdict": "supported",
+   "locator": "p. 37"
+  },
+  {
+   "claim": "Feasibility study for an independent national advisory agency",
+   "verdict": "supported",
+   "locator": "p. 79"
+  },
+  {
+   "claim": "Consumer rights to explanation, human contact, redress",
+   "verdict": "supported",
+   "locator": "p. 50"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search for a revised edition: none found. The change from 2024-09 to 2024-09-20 rests on MOSTI's launch press release (official, stored). The 2023 citation in MY-03 is kept in the notes as that plan's own statement."
+}

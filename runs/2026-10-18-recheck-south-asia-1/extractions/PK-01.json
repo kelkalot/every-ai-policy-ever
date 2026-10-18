@@ -1,0 +1,179 @@
+{
+ "cand_id": "PK-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "PK-01",
+ "record": {
+  "summary": "Pakistan's national AI policy, approved in July 2025, with six pillars from innovation and skills to a secure AI ecosystem, infrastructure and international partnerships. Its governance measures include an AI Council chaired by the IT Minister, an AI Directorate under the National Commission for Personal Data Protection to issue regulatory guidelines on generative AI, disinformation and privacy breaches, human oversight of critical AI operations in high-risk scenarios, mandatory disclosure of AI use with a public register of public-sector AI systems, lifecycle evaluations and impact assessments of high-impact systems, third-party audits with redress, and regulatory sandboxes.",
+  "notes": "MoITT's policies page lists the policy as approved on 31 July 2025 and still lists the earlier draft National Artificial Intelligence Policy of 25 June 2022 as a draft. The policy cites the UNESCO Recommendation on the Ethics of AI and the UN Sustainable Development Goals, and is meant to work together with the draft Personal Data Protection Act, the Pakistan Cloud First Policy, the Digital Pakistan Policy and the Digital Nation Pakistan Act. Its action matrix sets most targets for 2026, including the AI Directorate under the National Commission for Personal Data Protection and an integrated regulatory sandbox for AI led by the SECP; the policy text also mentions independent oversight bodies, including an AI ethics board.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the policy PDF on moitt.gov.pk (28 pages, stored on 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026) and MoITT's policies page (the secondary source, copy of 18 Oct 2026; its text differs from the copy of 11 Oct 2026 only by a new menu item), which lists the policy as approved on 31 July 2025. The PDF itself carries no date. Version 1's issuing body adds approval by the Federal Cabinet, which no stored file states; MoITT's own announcement of the approval (moitt.gov.pk/SliderDetail/...) could not be stored because the server returned HTTP 500, so the Cabinet approval stays unconfirmed and the issuing body is left as version 1 has it. Version 1's statement that MoITT's legislation list showed no AI-specific statute rests on no stored file and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 2, Acknowledgments",
+    "quote": "harmonizing, and ratification of the National Artificial Intelligence Policy – 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 1",
+    "quote": "National Artificial Intelligence Policy",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/PK-01/2026-10-18/secondary.html",
+    "sha256": "c61ab1d7638f20c424e766a2ca9c1c6227a30ea0fdb06dc01f80ad798a2351c8",
+    "locator": "Policies table",
+    "quote": "National Artificial Intelligence Policy Approved IT 31 July, 2025",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/PK-01/2026-10-18/secondary.html",
+    "sha256": "c61ab1d7638f20c424e766a2ca9c1c6227a30ea0fdb06dc01f80ad798a2351c8",
+    "locator": "Policies table",
+    "quote": "National Artificial Intelligence Policy Approved IT 31 July, 2025",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 2, Acknowledgments",
+    "quote": "who rigorously and relentlessly participated in the review, drafting, harmonizing, and ratification of the National Artificial Intelligence Policy – 2025",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 22, AI Council",
+    "quote": "The AI Council will be the apex body responsible for providing strategic direction and overseeing the policy implementation process.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 22, AI Council",
+    "quote": "Chair: Federal Minister for IT and Telecom",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 15, 3.7 Generative AI",
+    "quote": "AI Directorate shall provide regulatory guidelines to address the possible spread of disinformation, data privacy breaches and fake news.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 14, 3.2 Transparency and Human Oversight",
+    "quote": "Ensure implementation of human oversight mechanisms for critical AI operations, particularly in high-risk scenarios.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 14, 3.2 Transparency and Human Oversight",
+    "quote": "Mandate transparency and disclosure of the use of AI systems, including through the publishing of public sector AI systems in a public register.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 14, 3.2 Transparency and Human Oversight",
+    "quote": "Mandate lifecycle evaluations and impact assessments of high-impact AI systems, like advanced models",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 14, 3.2 Transparency and Human Oversight",
+    "quote": "to be used by third-party auditors, with mechanisms for auditing and redress in cases of unwarranted outcomes.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 16, 3.8 Sandboxes for AI Deployment",
+    "quote": "Ensure that at least 20 enterprises benefit from the regulatory sandbox by 2027",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 26, AI Policy Action Matrix item 15",
+    "quote": "Establish an AI Directorate under NCPDP for the responsible use of AI.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/PK-01/2026-10-18/secondary.html",
+    "sha256": "c61ab1d7638f20c424e766a2ca9c1c6227a30ea0fdb06dc01f80ad798a2351c8",
+    "locator": "Policies table",
+    "quote": "National Artificial Intelligence Policy Draft IT 25 June, 2022",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 8, Ethical Objectives",
+    "quote": "such as the United Nations Sustainable Development Goals, and UNESCO’s Recommendations on the Ethics of AI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 6, Foreword",
+    "quote": "Protection Act, Pakistan Cloud First Policy, Digital Pakistan Policy, and Digital Nation Pakistan Act",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/PK-01/2026-10-11/official.pdf",
+    "sha256": "0b32ffead0868dc6fe37a48092c47c2dc505a6a8266a81f482d510ba36bfad3c",
+    "locator": "page 11, Second Pillar",
+    "quote": "Having independent bodies of oversight, including an AI ethics board, can guarantee that international norms are adhered to",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "'Pakistan's first approved national AI policy' rests on no stored file and was dropped; the six pillars, the AI Directorate's placement under the NCPDP and the regulatory sandboxes made explicit; the ethics board moved to notes because the policy mentions it as a kind of oversight body rather than a measure it establishes",
+   "notes": "version 1's statement about MoITT's legislation list rests on no stored file and was removed; the 2022 draft's listing, the related instruments, the 2026 action-matrix targets and the ethics board added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status"
+  ],
+  "status_reasoning": "MoITT's policies page of 18 Oct 2026 lists the National Artificial Intelligence Policy as 'Approved' with an approval date of 31 July 2025, and the PDF's acknowledgments speak of its ratification. Nothing stored shows a replacement. 'Published (non-binding, current)' stands for an approved government policy.",
+  "date_reasoning": "date_published 2025-07-31 is the approval date on MoITT's policies page; the PDF carries no date.",
+  "scope_reasoning": "National AI policy with substantial safety and governance provisions (human oversight, impact assessments, audits, a public register, an AI Directorate); in scope with no note.",
+  "issuing_body_reasoning": "Not confirmed: 'approved by the Federal Cabinet' rests on no stored file, and MoITT's announcement could not be stored (HTTP 500). The value is left as version 1 has it; the MoITT part is supported by the PDF's foreword and the policies page, the Cabinet part is an open question."
+ },
+ "extra_urls": [
+  {
+   "url": "https://moitt.gov.pk/SliderDetail/NWIyMzEwYzktYTIwYy00ZTk0LWI5ODUtYjg5NjZmYTYyMTg2",
+   "reason": "MoITT's own announcement of the approval of the National AI Policy 2025 (found by search; the server returned HTTP 500 to a plain fetch, so a browser retry may be needed). Needed to support or correct 'approved by the Federal Cabinet' in issuing_body and to give official evidence of the approval date. (not stored: the archiver got HTTP 500)"
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "issuing_body names approval by the Federal Cabinet, which no stored file states. News reports place the Cabinet's approval on 30 July 2025, a day before the approval date of 31 July 2025 on MoITT's policies page. MoITT's announcement (https://moitt.gov.pk/SliderDetail/NWIyMzEwYzktYTIwYy00ZTk0LWI5ODUtYjg5NjZmYTYyMTg2) returned HTTP 500 to the archiver in this run; a later run, or a person through the 'Provide a document' form, could store it to settle both the Cabinet approval and the date.",
+  "date_published rests on MoITT's policies page, stored as the record's secondary source, so it counts as alt-official and the record is level B; the policy PDF itself carries no date."
+ ]
+}

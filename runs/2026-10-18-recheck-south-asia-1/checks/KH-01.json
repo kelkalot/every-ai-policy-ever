@@ -1,0 +1,56 @@
+{
+ "cand_id": "KH-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "June 2025 from the draft's cover and MPTC's consultation announcement of 1 June 2025."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Six priorities and 41 measures",
+   "verdict": "supported",
+   "locator": "draft p. 9"
+  },
+  {
+   "claim": "Priority 5 light-touch approach starting with supply-side and high-risk regulation",
+   "verdict": "supported",
+   "locator": "draft p. 20"
+  },
+  {
+   "claim": "Measures 5.5 to 5.7 and flagship activities on safety-evaluation datasets and AI-generated content",
+   "verdict": "supported",
+   "locator": "draft p. 21"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Targeted search for adoption or a final text: nothing found; every source still calls it a draft (OECD.AI entry updated June 2026). The draft read is the copy OECD.AI links, as the verification note says; whether it is the consultation text is not stated."
+}

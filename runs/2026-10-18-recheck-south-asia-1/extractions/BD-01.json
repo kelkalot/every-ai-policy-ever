@@ -1,0 +1,35 @@
+{
+ "cand_id": "BD-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BD-01",
+ "record": {
+  "notes": "Draft v1.1 was released on 25 Jan 2026 and Draft v2.0 on 9 Feb 2026; online public consultation ran from 26 Jan to 8 Feb 2026, and the policy committee was then reviewing the submissions. It replaces the April 2024 draft National AI Policy of the previous government, which was never adopted. The Independent Oversight Committee is to sit within the executive council of a proposed NDGIA body that would itself require legislation. Drafted under the interim government with a National AI Policy Steering Committee formed in July 2025.",
+  "verification": {
+   "note": "PARTIAL. Recheck of 18 Oct 2026: no source could be stored. The Draft v2.0 PDF and the home page of the ICT Division's aipolicy.gov.bd portal failed on 11, 16, 17 and 18 Oct 2026 (the site's TLS certificate could not be verified, then a TLS handshake failure), and no earlier run stored them. The title, the date, the status, the summary and the notes rest on version 1, which read the 44-page Draft v2.0 PDF ('Draft v2, February 9, 2026') and the portal home page (version history, consultation dates) on 11 Oct 2026 without storing them; adoption was still pending on the portal then. The April 2024 draft is known from press reports only."
+  }
+ },
+ "evidence": {},
+ "judgment": {
+  "changes": {
+   "notes": "'with adoption still pending at the time of checking' (a remark about the check) moved to verification.note",
+   "verification.note": "rewritten: no source could be stored in this run"
+  },
+  "confirmed": [],
+  "status_reasoning": "Not settled by any stored file. The published status 'Draft / proposed' is left as it is. Press reports of July 2026 (lead below) say the government is still formulating a national AI policy, which agrees with no policy having been adopted, but they do not say whether Draft v2.0 remains the basis.",
+  "scope_reasoning": "A draft national AI policy whose core is risk-tiered governance, prohibited practices and oversight; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Bangladesh national AI policy being formulated under the government of Prime Minister Tarique Rahman (ICT Minister Faqir Mahbub Anam at WAIC 2026, 18 July 2026)",
+   "url": "https://unb.com.bd/category/Bangladesh/bangladesh-formulating-human-centric-ai-policy-faqir-mahbub-anam/190941",
+   "note": "Press reports (UNB, The Business Standard, Financial Express) of a ministry press release: the government is formulating a 'human-centric', integrated and inclusive National AI Policy and drafting guidelines for AI in the public sector. Possibly a successor to the interim government's Draft v2.0 (BD-01); a refresh request for BD-01 rather than a new record until an official text appears."
+  }
+ ],
+ "open_questions": [
+  "title, date_published, status and every other field have no stored evidence: aipolicy.gov.bd fails the TLS handshake on every attempt. The Draft v2.0 PDF needs to be provided by a person (AGENTS.md section 7.8); no copy on another official host was found.",
+  "Status may be stale: press reports of July 2026 say the government of Prime Minister Tarique Rahman is formulating a national AI policy. Whether Draft v2.0 is still the working text, or has been dropped for a new draft, is not shown by any stored source."
+ ]
+}

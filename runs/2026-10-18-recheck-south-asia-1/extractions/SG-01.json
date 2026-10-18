@@ -1,0 +1,211 @@
+{
+ "cand_id": "SG-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-01",
+ "record": {
+  "summary": "Voluntary framework of Singapore's Personal Data Protection Commission for organisations deploying AI at scale, in any sector and regardless of technology or algorithm. It turns common AI ethics principles into practices in four areas: internal governance structures and measures; the level of human involvement in AI-augmented decisions, set with a matrix of the probability and severity of harm (human-in-the-loop, over-the-loop or out-of-the-loop); operations management, covering data, explainability, repeatability, robustness, traceability, reproducibility and auditability; and stakeholder interaction and communication.",
+  "notes": "The first edition was released on 23 Jan 2019 and the second on 21 Jan 2020, both at the World Economic Forum Annual Meeting in Davos. The second edition added industry examples, clarified the human-over-the-loop approach, added robustness, reproducibility and auditability measures, replaced the use-case annex with a separate Compendium of Use Cases and limited algorithm audits to a regulator's request. IMDA and the PDPC developed a companion Implementation and Self-Assessment Guide for Organisations (ISAGO) with the World Economic Forum. Under the Personal Data Protection Act 2012, the IMDA is designated as the PDPC.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the framework PDF on pdpc.gov.sg (copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which gives the title, the edition table (first edition 23 Jan 2019, second edition 21 Jan 2020, both released at the WEF Annual Meeting in Davos), the PDPC's role, the 2020 IMDA/PDPC copyright and the framework's voluntary character. The IMDA AI page stored as the secondary source (copy of 18 Oct 2026) holds only site navigation and a last-updated date in its text layer, so nothing rests on it. Version 1's description of the framework as being for traditional, non-generative AI, and its remark that the generative and agentic AI frameworks supplement it, rest on no stored file of this record and were removed from the summary and notes; the links to SG-04 and SG-08 stay in related."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 4 (summary of updates)",
+    "quote": "Released the Model AI Governance Framework (Second Edition) at the 2020 World Economic Forum Annual Meeting in Davos, Switzerland.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 1 (cover)",
+    "quote": "ARTIFICIAL INTELLIGENCE GOVERNANCE FRAMEWORK MODEL SECOND EDITION",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 70 (back cover)",
+    "quote": "Copyright 2020 – Info-communications Media Development Authority (IMDA) and Personal Data Protection Commission (PDPC)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 13, para 2.2",
+    "quote": "The PDPC, 1 with advice from the Advisory Council, proposes this second edition of the living and voluntary Model Framework",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 4 (summary of updates)",
+    "quote": "SECOND 21 January 2020 Released the Model AI Governance Framework (Second Edition) at the 2020 World Economic Forum Annual Meeting in Davos, Switzerland.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 13, para 2.2",
+    "quote": "proposes this second edition of the living and voluntary Model Framework as a general, ready-to-use tool",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 63, para 3.63",
+    "quote": "It is the PDPC's aim to update this Model Framework periodically with the feedback received",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 13, para 2.3",
+    "quote": "This voluntary Model Framework provides guidance on the key issues to be considered and measures that can be implemented.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 70 (back cover)",
+    "quote": "The contents herein are not intended to be an authoritative statement of the law or a substitute for legal or other professional advice.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 10, para 1.1",
+    "quote": "The Model Framework focuses primarily on four broad areas: internal governance structures and measures, human involvement in AI-augmented decision-making, operations management and stakeholder interaction and communication.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 10, para 1.1(c)",
+    "quote": "It serves as a baseline set of considerations and measures for organisations operating in any sector to adopt.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 13, para 2.2",
+    "quote": "as a general, ready-to-use tool to enable organisations that are deploying AI solutions at scale to do so in a responsible manner.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 11, para 1.2(a)",
+    "quote": "The Model Framework uses existing and common AI ethical principles (a compilation of which is set out in Annex A) and converts them into implementable practices.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 31, para 3.15",
+    "quote": "This design framework is structured along two axes: the (a) probability; and (b) severity of harm to an individual (or organisation)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 30",
+    "quote": "Human-over-the-loop (or human-on-the-loop) suggests that human oversight is involved to the extent that the human is in a monitoring or supervisory role",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 43, para 3.25",
+    "quote": "Measures such as explainability, repeatability, robustness, regular tuning, reproducibility, traceability, and auditability can enhance the transparency of algorithms found in AI models.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 4 (summary of updates)",
+    "quote": "FIRST 23 January 2019 Released the Model AI Governance Framework (First Edition) at the 2019 World Economic Forum Annual Meeting in Davos, Switzerland.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 4 (summary of updates)",
+    "quote": "Clarified the \"human-over-the-loop\" approach by explaining the human's supervisory role",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 5 (summary of updates)",
+    "quote": "Included new measures such as robustness, reproducibility and auditability",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 6 (summary of updates)",
+    "quote": "Annex C has been removed. Instead, a separate Compendium of Use Cases has been published",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 6 (summary of updates)",
+    "quote": "only at the request of a regulator (as part of a forensic investigation)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 8 (foreword)",
+    "quote": "have also partnered the World Economic Forum Centre for the Fourth Industrial Revolution to develop an Implementation and Self-Assessment Guide for Organisations",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-01/2026-10-11/official.pdf",
+    "sha256": "f2d199c826207a259c1c67b8379c0e2b0028fecf142129df9bf16447abcfb2d4",
+    "locator": "page 13, footnote 1",
+    "quote": "Under section 5 of Singapore's Personal Data Protection Act 2012, the IMDA is designated as the PDPC.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored PDF: version 1's 'traditional (non-generative) AI' is not in the 2020 text; the four areas, the probability-severity matrix, the three levels of human involvement and the operations measures are",
+   "notes": "version 1's remark that the framework remains the baseline for traditional AI and is supplemented by the 2024 and 2026 frameworks rests on no stored file of this record and was removed; the second edition's changes, ISAGO and the IMDA/PDPC designation added from the PDF",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding framework. The stored PDF calls itself a 'living and voluntary' framework that the PDPC aims to update periodically; nothing stored shows a later edition of this framework or its withdrawal. 'Published (non-binding, current)' stands as of 18 Oct 2026.",
+  "date_reasoning": "date_published 2020-01-21 is the release of the second edition in the edition table on page 4; the first edition of 23 Jan 2019 is in the notes.",
+  "scope_reasoning": "Government AI governance framework of a data protection authority dealing with AI specifically; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

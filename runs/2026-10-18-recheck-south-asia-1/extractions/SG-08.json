@@ -1,0 +1,224 @@
+{
+ "cand_id": "SG-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-08",
+ "record": {
+  "official_identifier": null,
+  "date_last_updated": "2026-06-05",
+  "summary": "Governance framework for organisations deploying AI agents, whether developed in-house or bought from third parties. It covers four dimensions: assess and bound the risks upfront by choosing suitable use cases and limiting agents' autonomy and access to tools and data; make humans meaningfully accountable, with checkpoints that require human approval and measures against automation bias; implement technical controls and processes across the agent lifecycle, such as access controls, baseline testing and continuous monitoring; and enable end-user responsibility through transparency and training.",
+  "notes": "Minister Josephine Teo announced Version 1.0 at the World Economic Forum in Davos on 22 Jan 2026; the framework builds on the governance foundations of the Model AI Governance Framework introduced in 2020. Version 1.5, published on 20 May 2026 and updated on 5 June 2026, incorporates feedback from more than 60 companies: it adds systemic and multi-agent risks, new risk factors such as system complexity and the use of third-party solutions, more practices against automation bias, an overview of types of controls, change-management recommendations and case studies, including IMDA's own on OpenClaw deployments. IMDA is also developing guidelines for testing agentic AI applications.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: MDDI's press release (mddi.gov.sg, copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site footer), which gives the title, the launch at Davos on 22 Jan 2026, IMDA as developer and the four dimensions; and the framework PDF on imda.gov.sg (secondary source, copy of 11 Oct 2026, unchanged when checked on 18 Oct 2026), whose cover reads 'Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)'. Version 1's notes said the IMDA PDF still showed Version 1.0 and that the May 2026 update rested on a law-firm note; the stored PDF is Version 1.5. official_identifier ('Version 1.0', a version label rather than an identifier) is cleared and date_last_updated set from the cover. Version 1's remarks on a publisher line of 19 January 2026 and on a Committee of Supply study of AI 'nutrition labels' rest on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "heading",
+    "quote": "Singapore Launches New Model AI Governance Framework for Agentic AI 22 January 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1 (cover)",
+    "quote": "MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI Version 1.5 | Published 20 May 2026",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "para 1",
+    "quote": "Developed by the Infocomm Media Development Authority (IMDA), this first-of-its-kind framework for reliable and safe agentic AI deployment builds upon the governance foundations of MGF for AI, which was introduced in 2020.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "para 1",
+    "quote": "DAVOS , 22 January 2026 – Minister for Digital Development and Information, Mrs Josephine Teo, announced the launch of the new Model AI Governance Framework for Agentic AI, at the World Economic Forum (WEF) today.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1 (cover)",
+    "quote": "Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "para 1",
+    "quote": "announced the launch of the new Model AI Governance Framework for Agentic AI, at the World Economic Forum (WEF) today.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 1 (cover)",
+    "quote": "Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "para 1",
+    "quote": "It provides guidance to organisations on how to deploy agents responsibly, recommending technical and non-technical measures to mitigate risks, while emphasising that humans are ultimately accountable.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "Framework provides guidance on managing risks",
+    "quote": "It is targeted at organisations looking to deploy agentic AI, whether through developing AI agents in-house or using third-party agentic solutions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "Framework provides guidance on managing risks",
+    "quote": "Assessing and bounding the risks upfront by selecting appropriate agentic use cases and placing limits on agents' powers such as agents' autonomy and access to tools and data;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "Framework provides guidance on managing risks",
+    "quote": "Making humans meaningfully accountable for agents by defining significant checkpoints at which human approval is required;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "Framework provides guidance on managing risks",
+    "quote": "Implementing technical controls and processes throughout the agent lifecycle, such as baseline testing and controlling access to whitelisted services; and,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "Framework provides guidance on managing risks",
+    "quote": "Enabling end-user responsibility through transparency and education/training.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 3, executive summary",
+    "quote": "Specifically, \"human-in-the-loop\" has to be adapted to address automation bias",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 4, executive summary",
+    "quote": "it is recommended to gradually roll out agents alongside continuous monitoring after deployment.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "This version incorporates feedback received from 60+ companies since v1.0.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "para 1",
+    "quote": "builds upon the governance foundations of MGF for AI, which was introduced in 2020.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "Systemic and multi-agent risks: Added systemic and multi-agent risks",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "Risk factors: Added new factors for risk assessment, including system complexity and usage of third-party solutions",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "Automation bias: Added more practices to guard against automation bias",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "Types of controls: Added overview of different types of controls and how to select them",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "Change management: Included recommendations for change management processes",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-11/secondary.pdf",
+    "sha256": "2636e19ff1c86e862394d2fc900592e97b83c04cc35e3c8443108114b7f1dfba",
+    "locator": "page 5, What's new in this version",
+    "quote": "Case study from IMDA on how the framework can be applied to OpenClaw deployments",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SG-08/2026-10-18/official.html",
+    "sha256": "14f3b76f3e0e24dfb1fcaf1994b39eb7cb16def5ee161e99d860eb7726f5335f",
+    "locator": "living document paragraph",
+    "quote": "IMDA is also developing guidelines for testing agentic AI applications.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "'Version 1.0' is a version label, which AGENTS.md section 5.6 excludes from official_identifier, and the stored PDF is Version 1.5; the framework has no citable number, so null",
+   "date_last_updated": "the stored IMDA PDF is 'Version 1.5 | Published 20 May 2026 (Updated 5 June 2026)'; 5 June 2026 is the last change to the text, 20 May 2026 (Version 1.5) is in the notes",
+   "summary": "updated to Version 1.5: measures against automation bias, access controls and continuous monitoring added; 'voluntary' dropped, since no stored text uses the word",
+   "notes": "Version 1.5 and its changes from the stored PDF replace version 1's unconfirmed law-firm account of a May 2026 update; the 19 January 2026 publisher line (of a Version 1.0 PDF no longer stored) and the Committee of Supply study rest on no stored file and were removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding governance framework that gives guidance and recommends measures; launched on 22 Jan 2026 and reissued as Version 1.5 on 20 May 2026 (updated 5 June 2026), which the stored IMDA PDF calls a living document. Nothing stored shows withdrawal. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2026-01-22 is the launch of Version 1.0 at Davos (MDDI press release). date_last_updated 2026-06-05 is the 'Updated' date on the cover of Version 1.5; Version 1.5's publication on 20 May 2026 is in the notes. A reader could also take 20 May 2026 (the new version) as date_last_updated.",
+  "scope_reasoning": "Government AI governance framework for agentic AI; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

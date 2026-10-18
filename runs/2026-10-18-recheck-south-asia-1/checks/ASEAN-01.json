@@ -1,0 +1,53 @@
+{
+ "cand_id": "ASEAN-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported",
+   "why": "The 2025-01 value came from the generative-AI supplement, a separate publication; null is right."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Seven guiding principles",
+   "verdict": "supported",
+   "locator": "page 11"
+  },
+  {
+   "claim": "Annex A is a risk impact assessment template and Annex B has six use cases",
+   "verdict": "supported",
+   "locator": "contents page 3"
+  },
+  {
+   "claim": "Three levels of human involvement: in, over, out of the loop",
+   "verdict": "supported",
+   "locator": "page 3"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Searched for a 2026 revision of the guide: nothing found beyond the 2025 generative-AI supplement (ASEAN-02). Quotes match the stored texts; the month-only date is what the sources support."
+}

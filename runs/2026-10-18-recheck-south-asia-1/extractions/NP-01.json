@@ -1,0 +1,222 @@
+{
+ "cand_id": "NP-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "NP-01",
+ "record": {
+  "title": "National Artificial Intelligence (A.I.) Policy, 2025",
+  "date_published": "2025",
+  "language": "Nepali",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://giwmscdnone.gov.np/media/pdf_upload/National%20AI%20Policy-Final_uxc94vg.pdf",
+   "by": "Government of Nepal"
+  },
+  "summary": "Nepal's national AI policy. It commits the government to a risk-management and AI governance framework in line with globally recognised standards, including a framework to classify AI systems by risk and mitigate the risks. Action policies include AI laws to assess risks and ensure responsible and accountable use; standards for data, algorithms and technologies; benchmarking and certification of AI systems for quality, safety and reliability; standards against cybersecurity risks and AI-driven misinformation; a regulatory sandbox; and measures against deepfakes and personal biases. An AI Regulation Council chaired by the ICT minister is to develop standards and regulate AI.",
+  "safety_topics": [
+   "risk-based classification",
+   "accountability & liability",
+   "evaluation & testing",
+   "deepfakes & synthetic media",
+   "public-sector use",
+   "research priorities"
+  ],
+  "notes": "The Cabinet endorsed the policy, presented by the Ministry of Communication and Information Technology, at its meeting of 11 August 2025, and the government spokesperson announced the decision on 14 August 2025 (The Himalayan Times, 14 August 2025); the policy text itself is undated. The Nepal Law Commission lists the policy under 6 Asoj 2083 (22 September 2026). The AI Regulation Council is chaired by the Minister for Communication and Information Technology and comprises the secretaries of the Office of the Prime Minister and Council of Ministers and of the ICT, finance and education ministries, the chair of the Nepal Telecommunications Authority, the CEO of the E-Governance Board, three experts from the private sector and universities (at least one a woman) and the chief of the National AI Centre as member secretary; it meets at least twice a year, and the National AI Centre serves as its secretariat. The Ministry reviews implementation annually, and the policy is to be reviewed every two years. Section 14 on risk identification concerns risks to the policy's implementation; the classification of AI systems by risk is to come from an AI governance framework under action policy 9.53.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: the English text of the policy, 'National Artificial Intelligence (A.I.) Policy, 2025' (56 pages including the Schedule-1 action plan), from the Government of Nepal's web platform giwmscdnone.gov.np (copy of 12 Oct 2026, re-checked unchanged on 18 Oct 2026); the Nepal Law Commission's page for the policy (lawcommission.gov.np, 18 Oct 2026), which gives the Nepali title and the listing date 6 Asoj 2083; the Nepali text embedded in that page (giwmscdnone.gov.np, 32 pages; its text layer is garbled by a legacy font encoding, so it is not quoted); remarks of Nepal's Foreign Secretary of 7 December 2025 on mofa.gov.np ('The Cabinet's approval of the National AI Policy 2082'); and The Himalayan Times of 14 August 2025 (secondary, saved with a browser). The English text confirms the title, vision, goals, policies 7.1-7.6, strategies 8.1-8.11, action policies 9.1-9.66, the AI Regulation Council, the National AI Centre, the AI Excellence Centres and sections 11-16; it names no translator and carries no date. The official text is the Nepali one, so language is now Nepali and the English text is recorded as a government translation. date_published is given at the precision of the stored official texts (the year 2025 in the English title); the Cabinet date of 11 August 2025, the Ministry's role in presenting the policy and the announcement of 14 August 2025 rest on The Himalayan Times. The record's official_url is the English translation, not the Nepali text."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 1 (cover)",
+    "quote": "National Artificial Intelligence (A.I.) Policy, 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 5, 1. Background",
+    "quote": "In this regard, the formulation of a National Artif icial Intelligence (AI) Policy is necessary for research, development, and utilization of AI",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/NP-01/2026-10-18/secondary.html",
+    "sha256": "3bbe1a9cfb128e5ef405310481642cd0121f099035bb7782d493afb152fac42f",
+    "locator": "Nepal Law Commission page, heading",
+    "quote": "राष्‍ट्रिय आर्टिफिसियल इन्टेलिजेन्स (ए.आई.) नीति, २०८२",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/NP-01/extra-074517141a/2026-10-18/official.pdf",
+    "sha256": "e49551b3f46abdb52ae3c4fbef4e5863df403fb5ee3a5889a54f08b079e3c13a",
+    "locator": "page 1 (cover; text layer garbled by font encoding)",
+    "quote": "(ए.आई.) नीसि, २०८२",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 1 (cover)",
+    "quote": "National Artificial Intelligence (A.I.) Policy, 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 22, 15.2 Policy Review",
+    "quote": "The Ministry of Communication and Information Technology shall review the implementation of this policy annually.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 21, 13. Policy Coordination and Harmonization",
+    "quote": "The Ministry of Communication and Information Technology shall play the leading role in implementing this policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-18/secondary.html",
+    "sha256": "3bbe1a9cfb128e5ef405310481642cd0121f099035bb7782d493afb152fac42f",
+    "locator": "Nepal Law Commission page, heading and date",
+    "quote": "राष्‍ट्रिय आर्टिफिसियल इन्टेलिजेन्स (ए.आई.) नीति, २०८२ ६ असोज, २०८३",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/NP-01/extra-d1070ab991/2026-10-18/official.html",
+    "sha256": "f65c9a48fdeb89052b8a71e78bd9371d8815025684bdb4d3dbe3a016cedae13e",
+    "locator": "Remarks by the Foreign Secretary, 7 December 2025",
+    "quote": "The Cabinet’s approval of the National AI Policy 2082 marks a major milestone.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 20, 11. Legal Provisions",
+    "quote": "The Government of Nepal shall make necessary legal arrangements for the implementation of this policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 20, 11. Legal Provisions",
+    "quote": "This policy shall act as a guiding policy for provinces and local levels.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 15, action policy 9.53",
+    "quote": "9.53 Prepare and implement an AI governance framework to classify AI systems based on risk and mitigate risks accordingly.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 10, action policy 9.5",
+    "quote": "Undertake benchmarking, standardization, and certification of AI systems developed and used in Nepal to ensure quality, safety, and reliability",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 17, 10.1 AI Regulation Council",
+    "quote": "To provide overall guidance, develop standards, and regulate the development and use of AI, an AI Regulation Council shall be formed as follows:",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 18, 10.1",
+    "quote": "The AI Regulation Council shall meet at least twice a year.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 22, 15.2 Policy Review",
+    "quote": "policy effectiveness shall be assessed, and the policy shall be reviewed every two years.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 22, 14. Risk Identification and Management",
+    "quote": "To manage the aforementioned risks, the National AI Centre, under the guidance of the AI Regulation Council, shall assess ex isting and potential risks, prepare action plans, and implement them accordingly.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/NP-01/extra-0df864fe71/2026-10-18/official-rendered.html",
+    "sha256": "d91bf9778eb5b2f80df9005379cd6620b775f7e2f6c3df31419ab467820bfafd",
+    "locator": "The Himalayan Times, 14 August 2025",
+    "quote": "Minister for Communications and Information Technology and government spokesperson Prithvi Subba Gurung announced the decision while unveiling the outcomes of the Council of Ministers meeting today.",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/NP-01/extra-d1070ab991/2026-10-18/official.html",
+    "sha256": "f65c9a48fdeb89052b8a71e78bd9371d8815025684bdb4d3dbe3a016cedae13e",
+    "locator": "Remarks by the Foreign Secretary, 7 December 2025",
+    "quote": "The Cabinet’s approval of the National AI Policy 2082 marks a major milestone.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/NP-01/2026-10-12/official.pdf",
+    "sha256": "c8dad816f35f455fe04973d648f3326d660dc9316943114b68a08203bce47eb2",
+    "locator": "page 21, 13. Policy Coordination and Harmonization",
+    "quote": "The Ministry of Communication and Information Technology shall play the leading role in implementing this policy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/NP-01/extra-0df864fe71/2026-10-18/official-rendered.html",
+    "sha256": "d91bf9778eb5b2f80df9005379cd6620b775f7e2f6c3df31419ab467820bfafd",
+    "locator": "The Himalayan Times, 14 August 2025, first paragraph",
+    "quote": "The policy, presented by the Ministry of Communications and Information Technology, received Cabinet endorsement during its meeting on August 11.",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the English text's own title; the published title mixed the Nepali year 2082 with the English text's 2025 ('2082 (2025)'), which no source uses; the short title keeps 2082",
+   "date_published": "the stored official text gives only the year (2025, in its title) and the Law Commission page gives only its own listing date; the day 11 August 2025 is the Cabinet meeting reported by The Himalayan Times and moves to notes (AGENTS.md section 7.7: date at the precision of the official source)",
+   "language": "the policy was adopted by the Cabinet of Nepal; the Nepal Law Commission lists it under its Nepali title and embeds a 32-page Nepali text, stored in this run; the English text names no translator, so it is a translation, not an official text",
+   "english_version": "added: the English text on the Government of Nepal's web platform (the record's official_url), a government translation",
+   "summary": "the unsupported 'first' and 'endorsed by the Cabinet in August 2025' removed; the risk-classification framework of action policy 9.53, the quality, safety and reliability aim of 9.5 and the measures against deepfakes and personal biases of 9.60 added from the text",
+   "safety_topics": "risk-based classification added (action policy 9.53: an AI governance framework to classify AI systems by risk)",
+   "notes": "the Council's composition completed (experts, member secretary) and the two-yearly review added from the text; the statement that AI-system risk classification is left to future laws and standards corrected (action policy 9.53 assigns it to an AI governance framework); the claims on 'an official English version' on the Law Commission page and on the press report of the National AI Centre's inauguration removed, since no stored file shows them; the source of the Cabinet date (The Himalayan Times) named",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "original_title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A government policy whose implementation the Ministry reviews annually; the Nepal Law Commission lists it among Nepal's policies (listing date 6 Asoj 2083). Nothing stored shows it replaced or withdrawn. A policy with no legal force of its own (section 11: the government will make the legal arrangements; it guides sectoral directives and the provinces). Published (non-binding, current).",
+  "scope_reasoning": "A national AI policy with substantial risk-governance content (risk-classification framework, AI laws on risk and accountability, certification, a regulatory council); in scope with no note.",
+  "issuing_body_check": "Confirmed: the Foreign Secretary's remarks (mofa.gov.np) state the Cabinet's approval; The Himalayan Times (secondary) says the Ministry presented the policy; the English text makes the Ministry the lead ministry."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The day of adoption (11 August 2025) rests on The Himalayan Times only; no official record of the Cabinet decision is stored, so date_published stays at the year 2025.",
+  "The official_url is the English translation on giwmscdnone.gov.np; the Nepali official text, stored in this run, is at https://giwmscdnone.gov.np/media/pdf_upload/AI-new_ce2eme0_qhxoali_sxtpdle.pdf. Whether to make the Nepali PDF the official_url is left to a person, since changing a URL resets the record's local copy."
+ ]
+}

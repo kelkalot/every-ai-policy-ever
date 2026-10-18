@@ -1,0 +1,136 @@
+{
+ "run_id": "2026-10-18-recheck-south-asia-1",
+ "type": "recheck",
+ "scope": "ids:ASEAN-01,ASEAN-02,IN-01,IN-02,IN-03,MY-01,MY-02,MY-03,PK-01,PK-02,SG-01,SG-02,SG-03,SG-04,SG-05,SG-06,SG-07,SG-08,TH-01,TH-02,ID-01,ID-02,PH-01,PH-02,BD-01,BN-01,NP-01,KH-01,VN-08,VN-09,IN-04",
+ "started": "2026-10-18",
+ "coordinator": {
+  "tool": "Claude Code",
+  "model": "claude-opus-5-5"
+ },
+ "stages": {
+  "collect": {
+   "tool": null,
+   "model": null,
+   "date": null
+  },
+  "extract": {
+   "tool": "Claude Code",
+   "model": "claude-opus-5-5",
+   "date": "2026-10-18",
+   "tokens": 1633223
+  },
+  "blind": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 124024
+  },
+  "check": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-18",
+   "tokens": 337861
+  }
+ },
+ "status": "merged",
+ "record_ids": [
+  "ASEAN-01",
+  "ASEAN-02",
+  "IN-01",
+  "IN-02",
+  "IN-03",
+  "MY-01",
+  "MY-02",
+  "MY-03",
+  "PK-01",
+  "PK-02",
+  "SG-01",
+  "SG-02",
+  "SG-03",
+  "SG-04",
+  "SG-05",
+  "SG-06",
+  "SG-07",
+  "SG-08",
+  "TH-01",
+  "TH-02",
+  "ID-01",
+  "ID-02",
+  "PH-01",
+  "PH-02",
+  "BD-01",
+  "BN-01",
+  "NP-01",
+  "KH-01",
+  "VN-08",
+  "VN-09",
+  "IN-04"
+ ],
+ "steps": [
+  {
+   "step": "archive",
+   "who": "script",
+   "do": "python3 tools/archive.py --run 2026-10-18-recheck-south-asia-1 --browser"
+  },
+  {
+   "step": "textify",
+   "who": "script",
+   "do": "python3 tools/pipeline.py textify --run 2026-10-18-recheck-south-asia-1"
+  },
+  {
+   "step": "extract",
+   "who": "extractors, about 8 candidates each",
+   "do": "pipeline/roles/extract.md -> extractions/<ID>.json; for extra_urls the coordinator (not the extractor) archives and textifies again, then sends the candidates back once"
+  },
+  {
+   "step": "evidence",
+   "who": "script",
+   "do": "python3 tools/pipeline.py evidence --run 2026-10-18-recheck-south-asia-1"
+  },
+  {
+   "step": "sample",
+   "who": "script",
+   "do": "python3 tools/pipeline.py sample --run 2026-10-18-recheck-south-asia-1"
+  },
+  {
+   "step": "blind",
+   "who": "a fresh extractor",
+   "do": "pipeline/roles/extract.md -> extractions-blind/<ID>.json; never opens extractions/"
+  },
+  {
+   "step": "agreement",
+   "who": "script",
+   "do": "python3 tools/pipeline.py compare --run 2026-10-18-recheck-south-asia-1"
+  },
+  {
+   "step": "check",
+   "who": "the checker, in a fresh context",
+   "do": "pipeline/roles/check.md -> checks/<ID>.json"
+  },
+  {
+   "step": "assemble",
+   "who": "script",
+   "do": "python3 tools/pipeline.py assemble --run 2026-10-18-recheck-south-asia-1"
+  },
+  {
+   "step": "merge",
+   "who": "script",
+   "do": "python3 tools/merge.py runs/2026-10-18-recheck-south-asia-1/pass.json --dry-run, then without --dry-run; python3 tools/build.py"
+  },
+  {
+   "step": "report",
+   "who": "script",
+   "do": "python3 tools/pipeline.py report --run 2026-10-18-recheck-south-asia-1; frame --report; questions --sync; intake"
+  },
+  {
+   "step": "gate",
+   "who": "script",
+   "do": "python3 tools/gate.py: every change against the rules; fix what fails, never skip it"
+  },
+  {
+   "step": "commit",
+   "who": "coordinator",
+   "do": "one commit on the branch run/2026-10-18-recheck-south-asia-1"
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "cand_id": "TH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "TH-01",
+ "record": {
+  "summary": "Draft general statute on artificial intelligence that ETDA and the Ministry of Digital Economy and Society put to public hearing in July 2026. It would cover AI affecting people in Thailand, even from abroad, and require foreign providers to appoint a local coordinator or representative. It prohibits AI using subliminal techniques or causing unfair broad-scale discrimination and provides for designating high-risk AI, whose deployers must manage risk, keep logs and report unforeseen risks; royal decrees may require notification, registration or licensing. Public agencies need ethical impact assessments, AI output must be machine-detectable and labelled, and liability is strict.",
+  "notes": "Tilleke & Gibbins give 2 July 2026 as the release date and about 30 days as the hearing period; comments went to the Ministry of Digital Economy and Society. The draft follows ETDA's public hearing of 11 to 24 June 2025 on the '(Draft) Principles of the Law on Artificial Intelligence', which proposed risk-based supervision of high-risk AI, legal promotion measures such as text and data mining and a regulatory sandbox, and a role for sector regulators. Regulation would be decentralised: sector regulators supervise AI in their fields and propose to a national AI planning committee which systems should count as high-risk, designated by royal decree in areas such as national security, health, environment, energy, telecommunications, transport and public utilities. Exempt would be AI used by individuals for personal or household purposes, research by higher education institutions with ethics committee approval, research and development before distribution, and systems prescribed by royal decree. Public agencies would record their AI uses in a central registry. The committee could designate 'contract-controlled AI businesses' serving government or critical infrastructure agencies and require data processing in Thailand for AI of national importance. The draft also provides for court-ordered suspension, recall or blocking through internet service providers, administrative fines of THB 1 to 5 million, a regulatory sandbox, and industry self-regulation that the committee may endorse. Core measures on launching AI products would apply on publication, and risk-control, supervision and serious-incident provisions 180 days later. After the hearing the draft goes to the Office of the Council of State, the Cabinet and the House of Representatives; the government aimed to start the legislative process by September 2026.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: Tilleke & Gibbins' note of 2 July 2026 (tilleke.com, listed as not official; copy of 16 Oct 2026), which gives the issuer, the release on 2 July 2026 for a hearing of about 30 days and the draft's content; Thai PBS Policy Watch's article of 1 Aug 2026 (policywatch.thaipbs.or.th, a public broadcaster's site, not listed as official), which gives the Thai title, MDES and ETDA as the drafters, a chapter-by-chapter outline of the draft and the steps after the hearing; and ETDA's press release of 11 June 2025 (etda.or.th), which concerns the hearing on the draft principles of the law, the predecessor document, not this draft. CAUTION: no official page or text of the 2026 draft is stored; the official hearing page on law.go.th refused the archiver on 18 Oct 2026 (HTTP 403, also in the browser). Title, original title, date, status and provisions rest on the law-firm note and the Thai PBS article; the summary was written from their descriptions, not from the draft itself. Version 1's hearing dates from Rajah & Tann (9 July to 14 August 2026) and its remarks on the 2022-2023 predecessor drafts rest on no stored file and are not repeated."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, first paragraph",
+    "quote": "Thailand’s Electronic Transactions Development Agency (ETDA) released a new version of the draft Act on Artificial Intelligence on July 2, 2026, for a public hearing period expected to be approximately 30 days.",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, first paragraph",
+    "quote": "Thailand’s Electronic Transactions Development Agency (ETDA) released a new version of the draft Act on Artificial Intelligence",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Implementation Approach and Next Steps",
+    "quote": "They are also encouraged to submit comments on the draft act to the Ministry of Digital Economy and Society during the public hearing period.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "summary box",
+    "quote": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม (ดีอี) และสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ผลักดัน (ร่าง) พระราชบัญญัติว่าด้วยปัญญาประดิษฐ์ พ.ศ. ....",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article date and headline",
+    "quote": "July 2, 2026 Thailand Releases New Draft Artificial Intelligence Act",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, first paragraph",
+    "quote": "released a new version of the draft Act on Artificial Intelligence on July 2, 2026, for a public hearing period",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, first paragraph",
+    "quote": "released a new version of the draft Act on Artificial Intelligence on July 2, 2026, for a public hearing period expected to be approximately 30 days",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, first paragraph",
+    "quote": "If enacted in its current form, the law would introduce extraterritorial obligations, a tiered risk classification system, strict liability for AI-related damages, and new transparency requirements for AI-generated content.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "article date",
+    "quote": "1 ส.ค. 256911:43 น.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "closing paragraph",
+    "quote": "หลังผ่านกระบวนการรับฟังความคิดเห็น ร่างกฎหมายจะถูกเสนอให้สำนักงานคณะกรรมการกฤษฎีกาตรวจพิจารณา ก่อนเข้าสู่การพิจารณาของคณะรัฐมนตรี และส่งต่อไปยังสภาผู้แทนราษฎร โดยรัฐบาลตั้งเป้าผลักดันเข้าสู่กระบวนการนิติบัญญัติภายในเดือนกันยายน 2569",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, first paragraph",
+    "quote": "If enacted in its current form, the law would introduce extraterritorial obligations",
+    "source_kind": "secondary"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Scope and Extraterritorial Application",
+    "quote": "The draft act applies to AI development, deployment, or any other action affecting people in Thailand, even if the action occurs outside the country.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Risk-Based Classification Framework",
+    "quote": "The act outright prohibits AI systems employing cognitive-behavioral manipulation using subliminal techniques, AI systems causing unfair broad-scale discrimination from processing irrelevant data",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Obligations for High-Risk AI System Providers and Deployers",
+    "quote": "Deployers must implement risk management systems, follow provider instructions, assign capable oversight personnel, mitigate damage from AI-related incidents, retain operational logs for a minimum period (six months under the Thai text), and notify authorities of unforeseen risks.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Transparency Obligations for AI-Generated Content",
+    "quote": "implement mitigation measures, and embed machine-readable marks to identify AI-generated content.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Strict Liability Regime",
+    "quote": "The draft act imposes joint liability for damages regardless of willful act or negligence—a strict liability standard.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Enforcement and Penalties",
+    "quote": "Administrative fines range from THB 1 million to THB 5 million, depending on the nature of the violation.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.3 (2)",
+    "quote": "การกำหนดให้หน่วยงานที่จะประยุกต์ใช้ระบบปัญญาประดิษฐ์ในบริการแก่ประชาชนต้องมีการประเมินผลกระทบทางจริยธรรม (Ethical Impact Assessment)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.4 (1)",
+    "quote": "มีส่วนประกอบที่สามารถตรวจจับได้ด้วยเครื่อง (machine-readable detection)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.4 (4)",
+    "quote": "หน้าที่ของแพลตฟอร์มในการจัดให้มีระบบตรวจจับผลลัพธ์ที่เกิดจากระบบปัญญาประดิษฐ์ และกระบวนการติดป้าย (Labelling)",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.2 (5)",
+    "quote": "กำหนดให้ผู้ให้บริการระบบปัญญาประดิษฐ์ที่ไม่มีสถานประกอบการหรือที่ตั้งในประเทศไทยต้องแต่งตั้งผู้ประสานงานในราชอาณาจักร",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.1",
+    "quote": "รวมทั้งกลไกในการตราพระราชกฤษฎีกาเพื่อกำหนดให้ระบบปัญญาประดิษฐ์ลักษณะใดหรือประเภทใด ต้องอยู่ภายใต้การกำกับก่อนการประกอบธุรกิจ ทั้งในรูปแบบจดแจ้ง ขึ้นทะเบียน หรืออนุญาต",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "article, scope",
+    "quote": "Certain activities are exempt from the draft act’s oversight, including AI used by natural persons solely for personal or household activities",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Implementation Approach and Next Steps",
+    "quote": "Risk control, supervision, and serious incident provisions take effect 180 days after publication",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-60177f08d8/2026-10-18/official.html",
+    "sha256": "bf1c89213c718214983369e6cfe71b7496af53ae26f7ee2a4dee72893ead3f9c",
+    "locator": "article date",
+    "quote": "เน้นคุมความเสี่ยงสูง ดันมาตรฐานใหม่ ใช้ A Digital Law 11 มิ.ย. 68",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-60177f08d8/2026-10-18/official.html",
+    "sha256": "bf1c89213c718214983369e6cfe71b7496af53ae26f7ee2a4dee72893ead3f9c",
+    "locator": "closing paragraph",
+    "quote": "ผ่านระบบกลางทางกฎหมายได้ที่ http://bit.ly/4kBjBTU ตั้งแต่วันนี้จนถึง 24 มิถุนายน 2568",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-60177f08d8/2026-10-18/official.html",
+    "sha256": "bf1c89213c718214983369e6cfe71b7496af53ae26f7ee2a4dee72893ead3f9c",
+    "locator": "article body",
+    "quote": "มาตรการส่งเสริมในทางกฎหมายที่จำเป็น เช่น Text and Data Mining, Regulatory Sandbox กำหนดแนวทางกำกับความเสี่ยงจาก AI โดยเฉพาะการใช้งานในกลุ่มที่มีความเสี่ยงสูง (High-Risk AI)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.2 (1)",
+    "quote": "กำหนดแนวทางการกำกับดูแลแบบกระจายอำนาจ (Decentralized Regulation) โดยให้หน่วยงานควบคุมหรือกำกับดูแลในแต่ละภาคส่วนมีบทบาทหลักในการกำกับดูแลการประยุกต์ใช้ระบบปัญญาประดิษฐ์ภายในขอบเขตอำนาจหน้าที่ของตน",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.3 (3)",
+    "quote": "ระบบทะเบียนเพื่อทราบว่าหน่วยงานของรัฐในประเทศได้มีการประยุกต์ใช้ระบบปัญญาประดิษฐ์ในรูปแบบใดบ้าง",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "3.2 (4)",
+    "quote": "เพื่อให้คณะกรรมการพิจารณารับรองหรือยกระดับเป็นมาตรการที่มีผลบังคับทางกฎหมาย",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Risk-Based Classification Framework",
+    "quote": "High-risk AI systems are those designated by royal decree as affecting national security, health, environment, energy, telecommunications, transport, or public utilities.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/TH-01/2026-10-16/secondary.html",
+    "sha256": "d68b7a81a2ce2cb6765f76193c7fc1568ebccb5ecc703abb05d5d4109ca6bc8b",
+    "locator": "Enforcement and Penalties",
+    "quote": "If providers fail to comply, the regulator may petition the court to order ISPs to block AI system dissemination in Thailand.",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "summary box",
+    "quote": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม (ดีอี) และสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (ETDA) ผลักดัน (ร่าง) พระราชบัญญัติว่าด้วยปัญญาประดิษฐ์ พ.ศ. .... ซึ่งถือเป็นกฎหมายกลางด้าน AI ฉบับแรกของประเทศไทย",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/TH-01/extra-ff67846b01/2026-10-18/official.html",
+    "sha256": "dbeb75249738d1bc6abe418b45b0c5e695972e680900fb1d2dd5aadb4ad19b91",
+    "locator": "closing paragraph",
+    "quote": "ร่างพระราชบัญญัติว่าด้วยปัญญาประดิษฐ์ พ.ศ. …. จึงไม่ใช่เพียงกฎหมายด้านเทคโนโลยี",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored Tilleke note and Thai PBS article: version 1's opening ('Thailand's first draft general AI statute ... after the June 2025 Draft Principles') rests on no stored file; MDES as co-drafter, ethical impact assessments for public agencies and machine-detectable, labelled AI output added (Thai PBS)",
+   "english_version": "required for a Thai text and missing; no English text of the draft by the issuer, a public body or a translator was found (the stored law-firm note is an analysis, not a translation)",
+   "notes": "rewritten to the stored sources: ETDA's June 2025 hearing on the draft principles (now stored), decentralised regulation, the public-agency registry, committee-endorsed self-regulation and the next steps after the hearing (Thai PBS, now stored) added; version 1's Rajah & Tann hearing dates and the 2022-2023 predecessor drafts rest on no stored file and were removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Tilleke note (2 July 2026) reports the release of the draft for a public hearing of about 30 days and describes what the law would do 'if enacted'. Thai PBS (1 Aug 2026) says that after the hearing the draft goes to the Council of State, the Cabinet and the House, with a target of entering the legislative process by September 2026. Nothing stored shows Cabinet approval, submission to the House or enactment by 18 Oct 2026. 'Draft / proposed' and 'Proposed' stand.",
+  "date_reasoning": "The only stored source is secondary and gives 2 July 2026; no official source is stored, so date_published stays at the month (2026-07) as published and the day goes in the notes with its source.",
+  "scope_reasoning": "A draft general AI statute with risk tiers, prohibitions and high-risk obligations; in scope with no note (pending bills are in)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://law.go.th/listeningDetail?survey_id=NzU4MERHQV9MQVdfRlJPTlRFTkQ=",
+   "reason": "The official hearing page of the draft Act on law.go.th. Not stored: HTTP 403, also in the browser, on 18 Oct 2026."
+  },
+  {
+   "url": "https://policywatch.thaipbs.or.th/article/government-364",
+   "reason": "Thai PBS Policy Watch article of 1 Aug 2026 (secondary): Thai title, drafters, outline of the draft, steps after the hearing. (stored in this run)"
+  },
+  {
+   "url": "https://www.etda.or.th/th/pr-news/law_ai.aspx",
+   "reason": "ETDA press release of 11 June 2025 (official host) on the hearing of the draft principles of the AI law until 24 June 2025, the predecessor of this draft. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "PDPA Guidelines on Personal Data Protection in the Development and Use of Artificial Intelligence, Personal Data Protection Committee of Thailand (2026)",
+   "url": null,
+   "seen_in": "archive/TH-01/2026-10-16/secondary.html (Tilleke & Gibbins related insight of 14 Oct 2026)",
+   "why": "AI-specific guidance by Thailand's data protection authority covering the AI lifecycle; in scope under the supervisory-authority rules; not in the register (only TH-01 to TH-03 exist for Thailand)."
+  }
+ ],
+ "open_questions": [
+  "No official source of the 2026 draft is stored, so the record stays at level C: law.go.th refused the archiver on 18 Oct 2026 (HTTP 403, also in the browser). A person could provide the draft text or the hearing page (archive.py --provide --id TH-01); it would confirm the hearing dates and the provisions and could lift the record above level C.",
+  "Stage after the hearing: Thai PBS (1 Aug 2026) says the draft goes to the Council of State, the Cabinet and the House, with a September 2026 target. Nothing stored shows Cabinet approval or submission to the House by 18 Oct 2026; a later refresh should check."
+ ]
+}

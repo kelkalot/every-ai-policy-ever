@@ -1,0 +1,122 @@
+{
+ "run_id": "2026-10-18-recheck-south-asia-1",
+ "generated": "2026-10-18",
+ "compared": 5,
+ "pending": [],
+ "overall_field_agreement": 0.167,
+ "fields": {
+  "decision": {
+   "compared": 5,
+   "agree": 5,
+   "rate": 1.0
+  },
+  "title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "original_title": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "issuing_body": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "official_identifier": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_published": {
+   "compared": 2,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_in_force": {
+   "compared": 1,
+   "agree": 0,
+   "rate": 0.0
+  },
+  "date_last_updated": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "status": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "legal_force": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "instrument_type": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "jurisdiction_level": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "region": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "country": {
+   "compared": 0,
+   "agree": 0,
+   "rate": null
+  },
+  "safety_topics": {
+   "compared": 1,
+   "agree": 1,
+   "rate": 1.0
+  }
+ },
+ "disagreements": {
+  "IN-03": [
+   {
+    "field": "official_identifier",
+    "first": "G.S.R. 120(E)",
+    "blind": null
+   }
+  ],
+  "MY-01": [
+   {
+    "field": "date_published",
+    "first": "2024-09-20",
+    "blind": null
+   }
+  ],
+  "MY-02": [],
+  "TH-02": [
+   {
+    "field": "issuing_body",
+    "first": "AI Governance Center (AIGC), Electronic Transactions Development Agency (ETDA)",
+    "blind": null
+   }
+  ],
+  "VN-09": [
+   {
+    "field": "date_published",
+    "first": "2026-08-11",
+    "blind": null
+   },
+   {
+    "field": "date_in_force",
+    "first": "2026-08-11",
+    "blind": null
+   }
+  ]
+ },
+ "resulting_record_agreement": 0.927,
+ "resulting_record_fields": 55
+}

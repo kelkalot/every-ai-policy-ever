@@ -1,0 +1,50 @@
+{
+ "cand_id": "TH-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "three-component framework with toolkits: AI Readiness Assessment, AI Use Case Canvas, Risk Assessment",
+   "verdict": "supported",
+   "locator": "secondary.pdf page 6"
+  },
+  {
+   "claim": "human involvement chosen by risk level, severity, remediability, feasibility",
+   "verdict": "supported",
+   "locator": "secondary.pdf page 15"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title and year come from the ETDA AIGC page listing; the English PDF supports content. The Thai original_title and language \"Thai\" are still unsupported by any stored file and were not changed by this run; the extractor asked whether a Thai edition exists. issuing_body narrowed to AIGC and ETDA is supported. Targeted search for an amendment, repeal or newer edition found nothing on an official site."
+}

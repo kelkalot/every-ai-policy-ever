@@ -1,0 +1,25 @@
+{
+ "cand_id": "PH-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "needs-human",
+ "target_id": "PH-01",
+ "record": {},
+ "evidence": {},
+ "judgment": {
+  "changes": {},
+  "confirmed": [],
+  "status_reasoning": "Not assessed: no file of this record could be stored in either round, so no field can be confirmed or changed in this run.",
+  "scope_reasoning": "An AI-specific advisory of the national data protection authority; in scope with no note (unchanged)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf",
+   "reason": "The December 2024 upload path of the same signed NPC Advisory No. 2024-04 on privacy.gov.ph. Not stored: HTTP 403, browser timeout, on 18 Oct 2026."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "No stored copy of NPC Advisory No. 2024-04: privacy.gov.ph refused every archiver attempt for both upload paths (2025/02 on 11, 16, 17 and 18 Oct 2026; 2024/12 on 18 Oct 2026) with HTTP 403, and the browser retries timed out. Every field rests on version 1's reading of a PDF that was never stored, so this recheck cannot confirm or change any field, and the published record stays as it is (level A from version 1, not recomputed). A person could download the signed advisory from privacy.gov.ph and store it with archive.py --provide --id PH-01 --url <official_url>; archive/needs-attention.txt lists archive/PH-01/2026-10-18/ as the place to save it by hand."
+ ]
+}

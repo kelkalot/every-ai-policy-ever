@@ -1,0 +1,56 @@
+{
+ "cand_id": "SG-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "IMDA is the overall agency, DTC does the technical work",
+   "verdict": "supported",
+   "locator": "sgaisi.sg About, Who We Are"
+  },
+  {
+   "claim": "joint testing with NAAIMES members, agentic AI testing, emotional dependency studies",
+   "verdict": "supported",
+   "locator": "sgaisi.sg About"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title and date rest on the dateline of the IMDA factsheet (text layer holds only heading and dateline); content now rests on the AISI About page, an official host. Removing the deepfakes topic is supported because the About page does not mention it. Targeted search for an amendment, repeal or newer edition found nothing on an official site."
+}

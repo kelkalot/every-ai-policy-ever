@@ -1,0 +1,53 @@
+{
+ "cand_id": "VN-08",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "15 datasets in Annex I and 39 items in Annex II",
+   "verdict": "supported",
+   "locator": "official.pdf pages 2-10 (OCR)"
+  },
+  {
+   "claim": "data work must respect data, personal data, state secret and IP law",
+   "verdict": "supported",
+   "locator": "official.pdf page 1, Article 1(2)"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Same stored PDF as before, now OCRed with Vietnamese; OCR reads the number as 904 on page 1, but the Annex II header and the portal give 804/QĐ-TTg. Date 6 May 2026 and in force on signature are supported. No amendment found. Original-language title checked against the OCR (diacritics partly lost) and the portal page title. Scope note stays."
+}

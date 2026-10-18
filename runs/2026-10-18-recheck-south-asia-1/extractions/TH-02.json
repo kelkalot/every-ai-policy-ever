@@ -1,0 +1,176 @@
+{
+ "cand_id": "TH-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "TH-02",
+ "record": {
+  "issuing_body": "AI Governance Center (AIGC), Electronic Transactions Development Agency (ETDA)",
+  "notes": "Listed under 2023 among the recommendations and reports of ETDA's AI Governance Center. The English document is an 18-slide presentation developed by the AIGC team; its cover spells the title 'Guideline for Executive' (singular), while a slide inside reads 'AI Governance Guideline for Executives'. It names ISO/IEC 23894:2023 and the NIST AI Risk Management Framework (AI RMF 1.0) as international frameworks organisations can adapt, and bases the choice of human involvement on the level of risk, the severity of potential harm, whether impacts can be remedied and whether human intervention is feasible. Its toolkits are an AI Readiness Assessment, an AI Use Case Canvas and a Risk Assessment.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the research and recommendations page of ETDA's AI Governance Center (etda.or.th, copy of 11 Oct 2026, unchanged when the archiver checked it on 18 Oct 2026), which lists 'Thailand’s AI Governance Guideline for Executive' under 2023, and the guideline's English PDF from the same site (18 slides, stored as the record's secondary source), which gives the title, the AIGC authorship, the three-component framework and its toolkits. No publication day is given; the year comes from the page listing. Neither file gives the Thai title in original_title, a Thai text of the guideline, or the Ministry of Digital Economy and Society as issuer, so issuing_body now names AIGC and ETDA only. Version 1's notes on the 2024 Generative AI guideline, the September 2025 request for Cabinet endorsement, the center's new name (AIGPC) and a 2027 sandbox rested on press and Digital Policy Alert, not on stored files, and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "Research and Recommendation, 2023",
+    "quote": "Thailand’s AI Governance Guideline for Executive",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 1",
+    "quote": "Thailand’s AI Governance Guideline for Executive Developed presentation by AIGC team, Thailand (aigc@etda.or.th)",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 1",
+    "quote": "Developed presentation by AIGC team, Thailand (aigc@etda.or.th)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "page header",
+    "quote": "สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ Electronic Transactions Development Agency",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "AIGC section menu",
+    "quote": "About AIGC | Our Services | Research and Recommendation | Knowledge Sharing | AI Readiness Assessment",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "Research and Recommendation, 2023",
+    "quote": "2023 ผลการศึกษาความพร้อมในการประยุกต์ใช้เทคโนโลยีปัญญาประดิษฐ์ (AI) สำหรับบริการดิจิทัลอย่างมีธรรมาภิบาล รายงานผลการศึกษาโครงการจัดทำร่างกฎหมายและประเมินผลกระทบของร่างกฎหมายเกี่ยวกับการประยุกต์ใช้ปัญญาประดิษฐ์ Thailand’s AI Governance Guideline for Executive",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "Research and Recommendation",
+    "quote": "เอกสารข้อเสนอแนะและรายงานที่เกี่ยวข้อง( Recommendation and Report )",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/official.html",
+    "sha256": "fe352de61013cc949c8c30bd07ca193f8cd3428f27a5014837eb1fda870fc89a",
+    "locator": "Research and Recommendation, 2023",
+    "quote": "Thailand’s AI Governance Guideline for Executive",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 9",
+    "quote": "Note: You may consider adapting existing governance structure within your organization to carry out this task, for example, the ethics board or Governance, Risk, and Compliance (GRC) team.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 14",
+    "quote": "Examples of international AI Risk Management Framework that can be adapted",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 6",
+    "quote": "AI Governance Guideline for Executives",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 6",
+    "quote": "Toolkits supporting AI Governance 1) AI Readiness Assessment 2) AI Use Case Canvas 3) Risk Assessment",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 15",
+    "quote": "The considering the level of human involvement may be based on factors such as: 1) the level of risks, 2) the severity of potential negative consequences, 3) whether the impacts can be remedied, and 4) the feasibility of human intervention in the process.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 2",
+    "quote": "Transparency & Accountability Laws Ethics & International Standards Competitiveness & Sustainability Development ReliabilityFairnessSecurity & Privacy",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 5",
+    "quote": "2.1 Responsible AI Strategy 2.2 AI Risk Management 1.1 AI Governance Council 1.2 Roles & Responsibilities 1.3 Competency Building 3.1 AI Lifecycle 3.2 AI Service and Feedback",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/TH-02/2026-10-11/secondary.pdf",
+    "sha256": "725c7a6ada05818cc75dd7c8148c8fddcbd8592300ab9fa1ec33d88c32f15254",
+    "locator": "page 15",
+    "quote": "Human-in-the-loop Human-over-the-Loop Human-out-of-the-loop",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the Ministry of Digital Economy and Society is in no stored file; the PDF names the AIGC team (aigc@etda.or.th) and the page is ETDA's",
+   "notes": "rewritten to what the stored page and PDF support; version 1's later developments (2024 Generative AI guideline, 2025 Cabinet endorsement request, AIGPC name, 2027 sandbox) rest on no stored file and were removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The AIGC page, rechecked unchanged on 18 Oct 2026, still lists the guideline among its recommendations and reports, with no sign of withdrawal or replacement; the PDF frames its content as options organisations 'may consider'. 'Published (non-binding, current)' and 'Non-binding' stand.",
+  "date_reasoning": "The page lists the guideline under the year 2023 and gives no day or month; date_published stays 2023.",
+  "scope_reasoning": "A government agency's AI governance guideline with risk-management and human-oversight content; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Generative AI Governance Guideline for Organisations (แนวทางการประยุกต์ใช้ Generative AI อย่างมีธรรมาภิบาลสำหรับองค์กร), ETDA AI Governance Center with the Ministry of Digital Economy and Society, reported 30 Oct 2024",
+   "url": null,
+   "seen_in": "https://digitalpolicyalert.org/change/11675-de-and-etda-generative-ai-governance-guideline-for-organisations",
+   "why": "ETDA's guideline on governing generative AI in organisations; not in the register (only TH-01 to TH-03 exist for Thailand)."
+  },
+  {
+   "title": "Artificial Intelligence Governance framework for the capital market, Securities and Exchange Commission of Thailand",
+   "url": "https://www.sec.or.th/TH/Documents/CyberResilience/Artificial-Intelligence-Governance.pdf",
+   "seen_in": "web search result while looking for a Thai edition of this guideline",
+   "why": "AI governance guidance by Thailand's securities supervisor for capital-market firms; in scope under the supervisory-authority rules; not in the register."
+  }
+ ],
+ "open_questions": [
+  "original_title (แนวทางการกำกับดูแลปัญญาประดิษฐ์สำหรับผู้บริหาร (AI Governance Guideline for Executives)) and 'Thai' in language rest on no stored file: the stored guideline is in English only and the ETDA page lists only the English title. Is there a Thai edition? If not, original_title should be removed and language set to 'English'. Both are left as published."
+ ]
+}

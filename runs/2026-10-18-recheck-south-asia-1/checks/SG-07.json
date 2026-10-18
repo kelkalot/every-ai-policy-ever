@@ -1,0 +1,64 @@
+{
+ "cand_id": "SG-07",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_url": {
+   "verdict": "supported"
+  },
+  "secondary_url": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "more than 100 participants from 11 countries",
+   "verdict": "supported",
+   "locator": "official.pdf page 6, Process"
+  },
+  {
+   "claim": "builds on the International AI Safety Report",
+   "verdict": "supported",
+   "locator": "official.pdf (text names the International AI Safety Report, introduction)"
+  }
+ ],
+ "newer_versions": [
+  {
+   "title": "The 2026 Singapore Consensus on Global AI Safety Research Priorities (July 2026)",
+   "url": "https://www.imda.gov.sg/assets/22dddecc-661b-4fee-9634-ea5549fa8151.pdf",
+   "note": "second edition; stored in this run; builds on and updates the 2025 report"
+  }
+ ],
+ "extra_urls": [
+  "https://www.imda.gov.sg/assets/22dddecc-661b-4fee-9634-ea5549fa8151.pdf"
+ ],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Official_url moves to the Consensus PDF on a government host and secondary_url to the SCAI page; both are supported. A second edition (July 2026) exists on an official site and is already stored; whether it is a record of its own, or this record becomes Superseded, is for a human (the extractor opened that question). issuing_body (MDDI) is not named by any stored text; left as published and flagged."
+}

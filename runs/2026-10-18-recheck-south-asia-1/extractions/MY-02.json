@@ -1,0 +1,120 @@
+{
+ "cand_id": "MY-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "MY-02",
+ "record": {
+  "summary": "Voluntary, non-binding code of AI Malaysia Berhad (National AI Office) that translates the seven AI principles of the National Guidelines on AI Governance and Ethics (AIGE) into practical implementation across the design, development, deployment and use of AI systems. It is meant for organisations, AI developers, deployers and researchers in all sectors, aims to embed responsible, human-centred and trustworthy practice throughout the AI lifecycle, and complements existing legal and regulatory frameworks without replacing or modifying them.",
+  "notes": "AI Malaysia Berhad (National AI Office) is the national agency under the Ministry of Digital mandated to lead and coordinate Malaysia's AI ecosystem towards the AI Nation 2030 vision. The code is published in English and Malay. Its page gives no publication date and says the code may be reviewed and updated as AI technologies and governance practice evolve.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: AI Malaysia's AICE page (ai.gov.my, copy of 18 Oct 2026; its text differs from the copy of 11 Oct 2026 only in navigation links), which gives the title, the issuer, the voluntary and non-binding character, the audience, the link to the AIGE principles and the two language versions. The code itself is served only after a download form with reCAPTCHA, so it could not be stored; the summary and topics rest on the page, not on the code's text. The page states no date; the cover image on the page is a file named 'Final_AI_Code_of_Ethics_July_2026', which suggests a release around July 2026 but is not a date the issuer states. Version 1's remark that the National AI Office was launched in December 2024 rests on no stored file and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page heading",
+    "quote": "Voluntary Artificial Intelligence (AI) Code Of Ethics (AICE)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page footer",
+    "quote": "AI Malaysia Berhad is the national agency under the Digital Ministry, mandated to lead, coordinate, and accelerate the nation's artificial intelligence (AI) ecosystem towards realising the AI Nation 2030 vision.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "page footer",
+    "quote": "© Copyright 2026 AI MALAYSIA BERHAD [202601028115 (1690210-V)] (National AI Office).",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "Download AI Code of Ethics (AICE)",
+    "quote": "The AI Code of Ethics (AICE) is available in English and Bahasa Melayu. Please complete the form below to access the publication.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "Frequently Asked Questions: Is AICE legally binding?",
+    "quote": "No. AICE is a voluntary, non-binding guidance document. It complements existing legal and regulatory frameworks",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "introduction",
+    "quote": "It serves as an operational bridge between the Seven (7) AI Principles outlined in the National Guidelines on AI Governance and Ethics (AIGE) and the design, development, and deployment of AI systems across sectors",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "Frequently Asked Questions: Who should use AICE?",
+    "quote": "AICE is intended for organisations, AI developers, deployers, researchers, and other stakeholders involved in the design, development, deployment, and use of AI systems across sectors.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "introduction",
+    "quote": "AICE helps embed responsible, human-centred, and trustworthy AI practices throughout the AI lifecycle, enabling organisations to operationalise ethical AI in a practical, consistent, and accountable manner.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "download form acknowledgement",
+    "quote": "I also acknowledge that the AICE does not replace, override or modify any such requirements",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/MY-02/2026-10-18/official.html",
+    "sha256": "9397f19d110166abe4092b06f2964ac275da7d0ccd88e5197257c1e12319740b",
+    "locator": "Frequently Asked Questions: Will AICE be updated over time?",
+    "quote": "AICE may be reviewed and updated to remain relevant and aligned with emerging developments.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "version 1's summary was 241 characters, below the 250 minimum; rewritten from the page's own description (audience, lifecycle scope, relation to the AIGE, non-binding character)",
+   "notes": "version 1's remark that the National AI Office was launched in December 2024 rests on no stored file and was removed; the image-file name moved to verification.note because it is about the source, not the instrument; the review clause added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "AI Malaysia's page of Oct 2026 offers the code for download in English and Malay and describes it in the present tense; nothing stored shows a replacement or withdrawal. 'Published (non-binding, current)' stands, and the FAQ states the code is voluntary and non-binding.",
+  "date_reasoning": "date_published stays null: the issuer's page states no date. The cover image's file name refers to July 2026, which is not an issuer-stated date.",
+  "scope_reasoning": "Voluntary national AI ethics code published by the government's national AI agency; in scope with no note.",
+  "topics_reasoning": "Topics left as in version 1 (accountability & liability, transparency & labelling, human oversight). The page supports accountable and human-centred practice; the code's text, which would show its specific provisions, is behind a download form."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "The code's own text is served only after a download form with reCAPTCHA, so its provisions, date and the topics transparency & labelling and human oversight cannot be checked against a stored file. A person could download it and provide it through the 'Provide a document' form."
+ ]
+}

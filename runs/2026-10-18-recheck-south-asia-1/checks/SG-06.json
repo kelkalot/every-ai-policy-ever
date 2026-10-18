@@ -1,0 +1,60 @@
+{
+ "cand_id": "SG-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-18",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "judgment-differs",
+   "why": "The addendum on agentic AI (17 Jun 2026) is a separate document that calls itself an addendum; the Guidelines and Companion Guide are unchanged since Oct 2024. Using the addendum date is defensible but a human may prefer null or a record of its own, as the extractor asked."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "judgment-differs",
+   "why": "\"incident reporting\" rests on incident management procedures in the Guidelines, not on external reporting; defensible."
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "five lifecycle stages",
+   "verdict": "supported",
+   "locator": "official.pdf page 7 section 3.1"
+  },
+  {
+   "claim": "AI safety, fairness, transparency outside scope",
+   "verdict": "supported",
+   "locator": "official.pdf page 4 scope"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [
+  "SG-08"
+ ],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Guidelines and Companion Guide are now stored from a government host and support the rewritten summary. date_last_updated from the addendum is a judgment call already raised as a question; the rest is supported. The addendum (CSA, 17 Jun 2026) is the newer item on an official site; it is stored and handled in the record, not as a replacement. Targeted search for an amendment, repeal or newer edition found only the already stored addendum."
+}

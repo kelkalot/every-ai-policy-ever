@@ -1,0 +1,163 @@
+{
+ "cand_id": "VN-08",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "VN-08",
+ "record": {
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: the signed decision with both annexes from the Government portal's file server (datafiles.chinhphu.vn; 10 scanned pages, read through Tesseract OCR redone on 18 Oct 2026 with Vietnamese among the language models, so the text now keeps most diacritics) and the Government portal's document page (chinhphu.vn, not listed as an official host), which gives the number 804/QĐ-TTg, issue date 06-05-2026, the Prime Minister as issuer and Hồ Quốc Dũng as signer. The PDF is the file stored on 14 Oct 2026 (same SHA-256), now filed as the record's official copy. The new OCR reads the number on page 1 as '904' and the date of the Law on Artificial Intelligence as 10 December 2023; the Annex II header reads 804, the portal gives 804/QĐ-TTg, and the earlier English-only OCR of the same file read the law's date as 10 December 2025, the date of VN-02. The OCR shows the date line (6 May 2026), the legal bases, Articles 1-3, the 15 Annex I datasets and the 39 Annex II items in five groups. The signer's office is not legible in the stored text. The link to Decision 367/QĐ-TTg rests on VN-03's stored copy. No English text was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1",
+    "quote": "Ban hành Danh mục bộ dữ liệu phục vụ phát trién trí tuệ nhân tạo trong các lĩnh vực thiết yêu",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/secondary.html",
+    "sha256": "f1ea1aae3de3ab21aa672fcd6193c5ce7d126248265aeb2364a97436371e70bd",
+    "locator": "page title",
+    "quote": "Quyết định số 804/QĐ-TTg của Thủ tướng Chính phủ: Ban hành Danh mục bộ dữ liệu phục vụ phát triển trí tuệ nhân tạo trong các lĩnh vực thiết yếu",
+    "source_kind": "secondary"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1",
+    "quote": "QUYÉT ĐỊNH Ban hành Danh mục bộ dữ liệu phục vụ phát trién trí tuệ nhân tạo trong các lĩnh vực thiết yêu",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/secondary.html",
+    "sha256": "f1ea1aae3de3ab21aa672fcd6193c5ce7d126248265aeb2364a97436371e70bd",
+    "locator": "page title",
+    "quote": "Quyết định số 804/QĐ-TTg của Thủ tướng Chính phủ: Ban hành Danh mục bộ dữ liệu phục vụ phát triển trí tuệ nhân tạo trong các lĩnh vực thiết yếu",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1",
+    "quote": "THỦ TƯỚNG CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1",
+    "quote": "Theo đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/secondary.html",
+    "sha256": "f1ea1aae3de3ab21aa672fcd6193c5ce7d126248265aeb2364a97436371e70bd",
+    "locator": "document metadata",
+    "quote": "Cơ quan ban hành Thủ tướng Chính phủ Người ký Hồ Quốc Dũng",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 6, Annex II header",
+    "quote": "Quyết định số 804 /OD-TTg ngày 06 tháng 5 năm 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/secondary.html",
+    "sha256": "f1ea1aae3de3ab21aa672fcd6193c5ce7d126248265aeb2364a97436371e70bd",
+    "locator": "document metadata",
+    "quote": "Số ký hiệu 804/QĐ-TTg",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1, date line",
+    "quote": "Hà Nội, ngày 06 tháng 5 năm 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 6, Annex II header",
+    "quote": "Quyết định số 804 /OD-TTg ngày 06 tháng 5 năm 2026",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1, Article 2",
+    "quote": "Điều 2. Hiệu lực thi hành Quyết định này có hiệu lực thi hành từ ngày ký.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1, date line",
+    "quote": "Hà Nội, ngày 06 tháng 5 năm 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1, Article 2",
+    "quote": "Điều 2. Hiệu lực thi hành Quyết định này có hiệu lực thi hành từ ngày ký.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 2, Article 3",
+    "quote": "Chủ tịch Ủy ban nhân dân các tỉnh, thành phô trực thuộc trung ương v4 các tô chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyét định này",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/VN-08/2026-10-18/official.pdf",
+    "sha256": "38fe67ec952fe733a330939b9340a9d4ceb91877f00b6f8eea811d5c6399852c",
+    "locator": "page 1, Article 1(2)",
+    "quote": "phải tuân thủ các quy định của pháp luật về dữ liệu, bảo vệ di liệu cá nhân, bảo vệ bí mật nhà nước, sở hữu trí tuệ",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck: new OCR of the same PDF, its readings of the number and the law's date, and the portal page's host status"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Art. 2: in force from signature; the decision is dated 6 May 2026, which has passed (today 18 Oct 2026). The portal page, rechecked on 18 Oct 2026, shows no amendment or replacement, and nothing stored shows one. 'In force' stands.",
+  "date_reasoning": "date_published and date_in_force 2026-05-06: the date line on page 1 and Art. 2 (in force from signature); the digital signature of 8 May 2026 is the portal's publication stamp, kept in the notes.",
+  "scope_reasoning": "Unchanged: mainly a data-supply instrument, included with its scope_note because it implements the Law on AI and lists datasets for testing AI systems and for AI safety and reliability evaluation."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

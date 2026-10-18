@@ -1,0 +1,218 @@
+{
+ "cand_id": "IN-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "IN-03",
+ "record": {
+  "official_identifier": "G.S.R. 120(E)",
+  "summary": "Binding amendment to India's intermediary rules on 'synthetically generated information' (SGI): content artificially or algorithmically created or altered so that it appears real and depicts a person or event as indistinguishable from reality. Intermediaries offering SGI tools must use technical measures to block unlawful SGI, such as child sexual abuse material, non-consensual intimate imagery or deceptive depictions of real people or events, and must prominently label other SGI and embed permanent metadata or a unique identifier where feasible. Significant social media intermediaries must obtain and verify user declarations of SGI and label it.",
+  "notes": "G.S.R. 120(E) of 10 February 2026 amends the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (G.S.R. 139(E) of 25 February 2021); the amendment came into force on 20 February 2026. Besides the SGI provisions, it clarifies that removing or disabling access to information, including SGI, in compliance with the rules does not breach the safe-harbour conditions of section 79(2) of the IT Act; requires intermediaries to inform users at least every three months of the consequences of non-compliance, and those offering SGI tools to warn users of penalties for misuse; and shortens deadlines: removal on a court order or a government authority's reasoned intimation from 36 to 3 hours (rule 3(1)(d) as substituted by G.S.R. 775(E) of 22 October 2025, in force from 15 November 2025), removal of intimate or impersonating imagery on complaint from 24 to 2 hours, grievance resolution from 15 to 7 days, and certain removal requests from 72 to 36 hours. A draft of the SGI amendment was published for consultation on 22 October 2025. The rules follow MeitY's non-binding AI advisories to intermediaries of 1 March 2024, revised on 15 March 2024 to drop a prior-approval requirement for under-tested models. On 30 March 2026 MeitY released a further draft amendment to the IT Rules, open for comment until 16 April 2026, under which intermediaries would have to comply with MeitY's clarifications, advisories, orders, directions, standard operating procedures and guidelines on implementing the rules as part of their due diligence.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored: MeitY's consolidated text of the IT Rules 2021 'updated as on 10.02.2026' (meity.gov.in, copy of 16 Oct 2026; the archiver's retry on 18 Oct 2026 failed with a DNS error). Its footnotes attribute to G.S.R. 120(E) dated 10.02.2026 the SGI definition (rule 2(1)(wa)), rules 2(1A) and 2(1B), the user-information duties (rule 3(1)(c) to (cb)), the SGI due diligence (rule 3(3)), the SSMI declarations (rule 4(1A)) and the 3-hour, 2-hour, 7-day and 36-hour deadlines, and to G.S.R. 775(E) of 22.10.2025 (w.e.f. 15.11.2025) the substituted rule 3(1)(d). The amendment notification itself was not found on an official host. Its short title and its commencement clause ('They shall come into force on February 20, 2026', Notification No. G.S.R. 120(E)) are quoted from TeamLease RegTech's reproduction of the notification text (a commercial compliance database, secondary). The draft amendment of 30 March 2026 rests on a Khaitan & Co client note of 8 April 2026 (secondary). The consultation draft of 22 October 2025 and the March 2024 advisories rest on version 1's law-firm sources and on no stored file."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, heading",
+    "quote": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 20211 [updated as on 10.02.2026]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, footnote 2",
+    "quote": "Ins. by G.S.R. 120(E), dated 10.02.2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-03/extra-65abec6d5e/2026-10-18/official.html",
+    "sha256": "5f0b3b256744a71f0d9133d149225a79466e7af2220880f5a0807d00688b9483",
+    "locator": "TeamLease RegTech update, first paragraph",
+    "quote": "The Ministry of Electronics and Information Technology (MeitY) on February 10, 2026, issued the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026",
+    "source_kind": "secondary"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, footnote 2",
+    "quote": "Ins. by G.S.R. 120(E), dated 10.02.2026.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, footnote 2",
+    "quote": "Ins. by G.S.R. 120(E), dated 10.02.2026.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 2, rule 2(1)(l)",
+    "quote": "the Ministry of Electronics and Information Technology, Government of India, and for the purpose of Part III of these rules",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, preamble",
+    "quote": "the Central Government hereby makes the following rules, namely:",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, heading",
+    "quote": "Rules, 20211 [updated as on 10.02.2026]",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 12, rule 3(3) and footnote 1",
+    "quote": "(3) Due diligence in relation to synthetically generated information: (a) Where an intermediary offers a computer resource which may enable, permit, or facilitate the creation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 9, rule 3(1)(d), footnote 1",
+    "quote": "Subs. by G.S.R. 120(E), dated 10.02.2026 for “thirty-six hours”.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, preamble",
+    "quote": "In exercise of the powers conferred by sub -section (1), clauses (z) and (zg) of sub -section (2) of section 87 of the Information Technology Act, 2000 (21 of 2000)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 15, rule 4(1A), proviso",
+    "quote": "such intermediary shall be deemed to have failed to exercise due diligence under this sub-rule.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 4, rule 2(1)(wa)",
+    "quote": "which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information appears to be real, authen tic or true",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 12, rule 3(3)(a)(ii)",
+    "quote": "with a permanent metadata or other appropriate technical provenance mechanisms, to the extent technically feasible, including a unique identifier",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 14, rule 4(1A)(a)",
+    "quote": "(a) require users to declare whether such information is synthetically generated information;",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 1, footnote 1",
+    "quote": "Vide G.S.R. 139(E), dated 25.2.2021, published in the Gazette of India, Extra., Pt. II, Sec. 3(i), dated 25.2.2021.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 8, footnote 1 to rule 3(1)(d)",
+    "quote": "Subs. by G.S.R. 775(E), dated 22.10.2025, for clause (d) (w.e.f. 15.11.2025).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 7, rule 3(1)(c)",
+    "quote": "an intermediary shall periodically inform its users, at least once every three months",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/IN-03/2026-10-16/official.pdf",
+    "sha256": "7881536e07458e616f6c91b841814cc95b7084edc7ded8a0897a4beaec701351",
+    "locator": "page 11, footnotes 4, 6 and 8 to rule 3(2)",
+    "quote": "Subs. by G.S.R. 120(E), dated 10.02.2026 for “twenty-four hours”.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-03/extra-88bc31a5ea/2026-10-18/official.pdf",
+    "sha256": "a92675f1e4edaab84c1d73b96f9ab44dbbc85c3fa2a29fb912c1101faa906577",
+    "locator": "page 1",
+    "quote": "On 30 March 2026, the Ministry of Electronics and Information Technology (MeitY) released a draft amendment (Draft Amendment) to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (IT Rules)",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/IN-03/extra-65abec6d5e/2026-10-18/official.html",
+    "sha256": "5f0b3b256744a71f0d9133d149225a79466e7af2220880f5a0807d00688b9483",
+    "locator": "TeamLease RegTech update, reproduced notification text, last lines",
+    "quote": "They shall come into force on February 20, 2026. [Notification No. G.S.R. 120(E)]",
+    "source_kind": "secondary"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "reduced to the citable number G.S.R. 120(E); the date and the description of what it amends moved to notes",
+   "summary": "the published summary had 721 characters, above the 700 limit; shortened to the SGI provisions, with the deadlines moved to notes",
+   "notes": "rewritten: process remarks ('according to multiple law-firm trackers', 'the fetched consolidated text does not itself state', 'no primary copy could be fetched', 'Not verified from an official source') moved to verification.note; the amendment's other changes and the G.S.R. 775(E) substitution of rule 3(1)(d) added from the stored consolidated text; the draft amendment of 30 March 2026 described from the stored Khaitan & Co note; the claims that it would 'adjust SGI labelling' and was still a draft in July 2026 dropped (no stored file shows them)",
+   "verification.note": "rewritten for what this run stored"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "G.S.R. 120(E) dated 10.02.2026; MeitY's consolidated text 'updated as on 10.02.2026' already incorporates every provision of it. The notification text, as reproduced by TeamLease RegTech (secondary), says 'They shall come into force on February 20, 2026'. 20 February 2026 is before today, 18 October 2026, and nothing stored shows the amendment repealed or stayed. In force.",
+  "scope_reasoning": "A binding rule that regulates synthetic media (deepfakes) through labelling, provenance and blocking duties; in scope with no note.",
+  "title_reasoning": "The stored official file is the consolidated principal rules, which cites the amendment only as G.S.R. 120(E) dated 10.02.2026; the short title 'Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026' is quoted from the secondary reproduction of the notification."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Draft amendment to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, released by MeitY on 30 March 2026 (proposed Second Amendment)",
+   "url": "https://www.khaitanco.com/sites/default/files/2026-04/ERGO%20-%20IT%20Rules%20(Proposed%20Second%20Amendment)%20-%208%20April%202026.pdf",
+   "note": "Would make compliance with MeitY clarifications, advisories, orders, directions, SOPs and guidelines part of intermediaries' due diligence, and extend rules 15 and 16 to news content shared by users; consultation until 16 April 2026. Not in the register; an official copy on meity.gov.in was not found."
+  },
+  {
+   "title": "MeitY advisories to intermediaries on AI models and deepfakes, 1 March 2024 and 15 March 2024",
+   "url": null,
+   "note": "Non-binding advisories that preceded the SGI rules; not in the register. No official copy has been located."
+  }
+ ],
+ "open_questions": [
+  "date_in_force (20 February 2026) and the amending instrument's short title rest only on a secondary reproduction of the notification (TeamLease RegTech); the G.S.R. 120(E) notification was not found on meity.gov.in or egazette.gov.in. An official copy would need a person to provide it (AGENTS.md section 7.8).",
+  "The consultation draft of 22 October 2025 and the March 2024 MeitY advisories in the notes rest on version 1 and on no stored file; they are left as published."
+ ]
+}

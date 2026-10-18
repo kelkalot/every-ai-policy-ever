@@ -1,0 +1,329 @@
+{
+ "cand_id": "SG-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SG-06",
+ "record": {
+  "date_last_updated": "2026-06-17",
+  "summary": "Voluntary cybersecurity guidelines of Singapore's Cyber Security Agency for owners of AI systems, which should be secure by design and secure by default. They identify threats such as supply-chain attacks and adversarial machine learning, call for a security risk assessment and set out measures across five lifecycle stages: planning and design, development, deployment (incident management, security checks before release), operations and maintenance (monitoring, vulnerability disclosure) and end of life. A Companion Guide lists practical controls, and a 2026 addendum covers agentic AI. AI safety, fairness and transparency are outside their scope.",
+  "safety_topics": [
+   "evaluation & testing",
+   "incident reporting"
+  ],
+  "notes": "CSA consulted the public from 31 Jul to 15 Sep 2024 and received 28 submissions, and launched the Guidelines and Companion Guide (version 1.0 of 15 Oct 2024) at Singapore International Cyber Week on 15 Oct 2024. The Guidelines draw on the UK NCSC and US CISA Guidelines for secure AI system development, the NIST Risk Management Framework, MITRE ATLAS and the OWASP Machine Learning Security Top 10; they also leave out the misuse of AI in cyberattacks, disinformation and scams. Neither document is mandatory; CSA maintains both as living resources. The addendum 'Securing Agentic AI', released for consultation on 22 Oct 2025 (to 31 Dec 2025) and published as version 1.0 on 17 Jun 2026, is to be read with them: it maps agentic workflows to find where threat actors could exploit vulnerabilities, lists agentic AI risks and controls by capability across the lifecycle, and gives examples such as coding assistants, automated client onboarding and fraud detection.",
+  "verification": {
+   "note": "Recheck of 18 Oct 2026. Stored and read: CSA's press release (csa.gov.sg, copy of 18 Oct 2026; its text is the same as the copy of 11 Oct 2026 except the site footer), which gives the title, the date 15 Oct 2024, the identified threats, the five life-cycle stages and the consultation; CSA's publication page (secondary source, copy of 18 Oct 2026); and, stored in this run, the Guidelines (October 2024) and the Companion Guide (version 1.0, 15 Oct 2024) as PDFs on isomer-user-content.by.gov.sg (Government of Singapore), CSA's publication page for the addendum on securing agentic AI (dated 17 Jun 2026) and the addendum PDF, whose version history gives the consultation release on 22 Oct 2025 and the official publication on 17 Jun 2026. date_last_updated records the addendum, which presents itself as an addendum to the Guidelines and Companion Guide; the Guidelines and Companion Guide themselves are unchanged since October 2024. The summary was rewritten from the Guidelines' own text. Version 1's remark that later addenda were not verified was removed from the notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "heading",
+    "quote": "Launch of Guidelines and Companion Guide on Securing Artificial Intelligence Systems 15 October 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 1 (cover)",
+    "quote": "GUIDELINES ON SECURING AI SYSTEMS CYBER SECURITY AGENCY OF SINGAPORE OCTOBER 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-7f0d63cdf9/2026-10-18/official.pdf",
+    "sha256": "a530895991287417d2a42c6a7258d4ffb7c3fdb4642081cdb7223343f214bfdc",
+    "locator": "page 1 (cover)",
+    "quote": "COMPANION GUIDE ON SECURING AI SYSTEMS OCTOBER 2024",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "para 1",
+    "quote": "The Cyber Security Agency of Singapore (CSA) has launched the Guidelines and Companion Guide on Securing Artificial Intelligence (AI) Systems at the Singapore International Cyber Week (SICW) 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 3",
+    "quote": "The Cyber Security Agency of Singapore (CSA) has developed Guidelines on Securing AI Systems for system owners to secure the use of AI throughout its lifecycle.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "heading",
+    "quote": "Launch of Guidelines and Companion Guide on Securing Artificial Intelligence Systems 15 October 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-7f0d63cdf9/2026-10-18/official.pdf",
+    "sha256": "a530895991287417d2a42c6a7258d4ffb7c3fdb4642081cdb7223343f214bfdc",
+    "locator": "version history",
+    "quote": "1.0 15 Oct 2024 First release",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/document-1.pdf",
+    "sha256": "6bb2f5a422b3ce2b6a6f8ebc64cb664d69dd08ad58a8b99f99cfb43f8676cf2b",
+    "locator": "page 4, version history",
+    "quote": "1.0 17 Jun 2026 Official publication of Addendum",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/official.html",
+    "sha256": "9c18519681655d44c3251e8acffff77615b804b39f39da26b068a6f061df8ae7",
+    "locator": "heading",
+    "quote": "Securing Agentic AI – An Addendum to the Guidelines and Companion Guide on Securing AI Systems 17 June 2026",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "para 1",
+    "quote": "The Cyber Security Agency of Singapore (CSA) has launched the Guidelines and Companion Guide on Securing Artificial Intelligence (AI) Systems",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/official.html",
+    "sha256": "9c18519681655d44c3251e8acffff77615b804b39f39da26b068a6f061df8ae7",
+    "locator": "body",
+    "quote": "In 2024, CSA published the Guidelines and Companion Guide on Securing AI Systems to help organisations adopt AI securely.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-06/2026-10-18/secondary.html",
+    "sha256": "210cb9eefbecd38ed173a8abade8b355e31d714f2bf958298aeb7ae4b30dd60e",
+    "locator": "last paragraph",
+    "quote": "As the field of AI security continues to evolve, the Guidelines and Companion Guide will be maintained as living resources.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 3",
+    "quote": "While these guidelines are not mandatory, we strongly encourage system owners to consider these key princip les",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-7f0d63cdf9/2026-10-18/official.pdf",
+    "sha256": "a530895991287417d2a42c6a7258d4ffb7c3fdb4642081cdb7223343f214bfdc",
+    "locator": "page 2",
+    "quote": "This document is intended for informational purposes only and is not mandatory, prescriptive nor exhaustive.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 3",
+    "quote": "As such, as a key principle, AI should be secure by design and secure by default , as with all software systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 6",
+    "quote": "If inadequately secured, AI systems can be undermined by supply chain attacks",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 5",
+    "quote": "the AI itself is vulnerable to novel attacks such as Adversarial Machine Learning (ML) that set out to distort the model's behaviour.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 7, section 3.1",
+    "quote": "There are five key stages – Planning and Design, Development, Deployment, Operations and Maintenance, and End of Life.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 12, Deployment 3.2",
+    "quote": "System owners should put in place appropriate incident response, escalation and remediation plans.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 12, Deployment 3.3",
+    "quote": "A good practice is to release models, applications or systems only after subjecting them to appropriate and effective security checks and evaluation.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 13, Operations and Maintenance 4.4",
+    "quote": "There should be a feedback process for users to share any findings of concern, which might uncover potential vulnerabilities to the system.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 4, scope",
+    "quote": "It does not seek to address AI safety, or other common attendant considerations for AI such as fairness, transparency or inclusion",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/document-1.pdf",
+    "sha256": "6bb2f5a422b3ce2b6a6f8ebc64cb664d69dd08ad58a8b99f99cfb43f8676cf2b",
+    "locator": "page 5, executive summary",
+    "quote": "The Cyber Security Agency of Singapore (CSA) has developed this addendum to advise system owners on securing their agentic AI systems.",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 12, Deployment 3.2",
+    "quote": "3.2. Establish incident management procedures",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 12, Deployment 3.3",
+    "quote": "release models, applications or systems only after subjecting them to appropriate and effective security checks and evaluation",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "para 6",
+    "quote": "CSA conducted a public consultation from 31 July 2024 to 15 September 2024, and received 28 submissions",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "para 3",
+    "quote": "These include Guidelines for secure AI system development (by the UK National Cyber Security Centre and US Cybersecurity and Infrastructure Security Agency), National Institute of Standards and Technology Risk Management Framework",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-06/2026-10-18/official.html",
+    "sha256": "c6795cf44a3a16dc3bfd6cf174b4bcd543b5db43b9ce13f5ea8711ce629737a5",
+    "locator": "para 3",
+    "quote": "MITRE Adversarial Threat Landscape for AI Systems and Open Web Application Security Project Machine Learning Security Top 10.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-cc17b48072/2026-10-18/official.pdf",
+    "sha256": "c174e8d9b38accd57d16d6fbc4774b621c876d041dab0d425a3bbc95a9730375",
+    "locator": "page 4, scope",
+    "quote": "It also does not address the misuse of AI in cyberattacks (AI-enabled malware), mis/disinformation, and scams (deepfakes).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SG-06/2026-10-18/secondary.html",
+    "sha256": "210cb9eefbecd38ed173a8abade8b355e31d714f2bf958298aeb7ae4b30dd60e",
+    "locator": "last paragraph",
+    "quote": "As the field of AI security continues to evolve, the Guidelines and Companion Guide will be maintained as living resources.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/document-1.pdf",
+    "sha256": "6bb2f5a422b3ce2b6a6f8ebc64cb664d69dd08ad58a8b99f99cfb43f8676cf2b",
+    "locator": "page 4, version history",
+    "quote": "0.1 22 Oct 2025 Release of Addendum on Securing Agentic AI for Public Consultation",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/official.html",
+    "sha256": "9c18519681655d44c3251e8acffff77615b804b39f39da26b068a6f061df8ae7",
+    "locator": "body",
+    "quote": "The public consultation for the Addendum was conducted from 22 October 2025 to 31 December 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/official.html",
+    "sha256": "9c18519681655d44c3251e8acffff77615b804b39f39da26b068a6f061df8ae7",
+    "locator": "body",
+    "quote": "by mapping out agentic workflows to identify where threat actors could potentially exploit vulnerabilities",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/official.html",
+    "sha256": "9c18519681655d44c3251e8acffff77615b804b39f39da26b068a6f061df8ae7",
+    "locator": "body",
+    "quote": "These include use cases such as app development and coding assistants, automated client onboarding systems, and automated fraud detection systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/document-1.pdf",
+    "sha256": "6bb2f5a422b3ce2b6a6f8ebc64cb664d69dd08ad58a8b99f99cfb43f8676cf2b",
+    "locator": "page 5, executive summary",
+    "quote": "this addendum lists agentic AI -related risks and mitigations across the development lifecycle , categorised by capabilities of agentic AI systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-18-recheck-south-asia-1/SG-06/extra-c3c6b0a5aa/2026-10-18/document-1.pdf",
+    "sha256": "6bb2f5a422b3ce2b6a6f8ebc64cb664d69dd08ad58a8b99f99cfb43f8676cf2b",
+    "locator": "page 5, executive summary",
+    "quote": "This addendum is meant to be read together with the Guidelines and Companion Guide on Securing AI Systems, which outline foundational AI security principles.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "CSA's addendum 'Securing Agentic AI – An Addendum to the Guidelines and Companion Guide on Securing AI Systems' was officially published as version 1.0 on 17 Jun 2026 (stored in this run); it extends this instrument and is to be read with it. The Guidelines and Companion Guide texts themselves are unchanged since October 2024.",
+   "summary": "rewritten from the Guidelines' own text (stored in this run): secure by design and default, risk assessment, lifecycle measures, not mandatory, scope excluding AI safety, fairness and transparency; the addendum mentioned",
+   "safety_topics": "version 1 had one topic, below the minimum of two; incident reporting added: the Guidelines require incident management procedures at deployment (section 3.2) and a vulnerability disclosure process (4.4)",
+   "notes": "Companion Guide version, scope exclusions, the not-mandatory character and the 2026 addendum added; version 1's remark that later addenda were not verified is about the research, not the instrument, and was removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Guidelines that are 'not mandatory' (Guidelines, page 3) launched on 15 Oct 2024; CSA's addendum page of 17 Jun 2026 refers to them as current, and the publication page, stored on 18 Oct 2026, offers both as living resources. Nothing stored shows replacement or withdrawal. 'Published (non-binding, current)' stands.",
+  "date_reasoning": "date_published 2024-10-15 is the press release date and the Companion Guide's version 1.0 date; the Guidelines' cover gives only October 2024. date_last_updated 2026-06-17 is the official publication of the addendum (version 1.0); its consultation release of 22 Oct 2025 is in the notes.",
+  "scope_reasoning": "Government cybersecurity guidelines specific to AI systems; in scope with no note (AI-specific guidance, not general cybersecurity guidance).",
+  "addendum_reasoning": "Recorded here rather than as a new record because the addendum calls itself an addendum to these Guidelines and Companion Guide and is to be read with them; a human may prefer a record of its own (open question)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://isomer-user-content.by.gov.sg/36/e05d8194-91c4-4314-87d4-0c0e013598fc/Guidelines%20on%20Securing%20AI%20Systems.pdf",
+   "reason": "Stored in this run (round 1 request): the Guidelines themselves."
+  },
+  {
+   "url": "https://isomer-user-content.by.gov.sg/36/3cfb3cd5-0228-4d27-a596-3860ef751708/Companion%20Guide%20on%20Securing%20AI%20Systems.pdf",
+   "reason": "Stored in this run (round 1 request): the Companion Guide, version 1.0."
+  },
+  {
+   "url": "https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems",
+   "reason": "Stored in this run (round 1 request), with the addendum PDF it links: the basis of date_last_updated."
+  }
+ ],
+ "leads": [],
+ "open_questions": [
+  "The addendum 'Securing Agentic AI' (CSA, version 1.0 of 17 Jun 2026) is recorded here as date_last_updated and in the notes, because it presents itself as an addendum to these Guidelines and Companion Guide. If the maintainers prefer it as a record of its own, date_last_updated should go back to null and a new record be made from the stored files of this run."
+ ]
+}

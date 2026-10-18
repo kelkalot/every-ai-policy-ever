@@ -633,6 +633,90 @@ changed 108, re-verified 1
 - **PY-02** verification.level: C → A — level computed from the evidence by tools/pipeline.py
 - **PY-03** summary: Policy of Paraguay's Supreme Court of Justice guiding magis… → Policy of Paraguay's Supreme Court of Justice guiding magis… — Annex Art. 8(d)-(e) read more closely: AI may not be used to determine guilt or innocence, and penalties may not be set without human intervention (version 1: 'using AI to determine guilt or set penalties'); Art. 11 bans systems whose working is 'completamente opaco', now 'wholly opaque'
 
+## 2026-10-18 · [2026-10-18-fix-related-links](runs/2026-10-18-fix-related-links/report.md)
+
+changed 79
+
+- **ASEAN-01** related: + MY-01 — two-way link added: MY-01 link(s) to ASEAN-01
+- **ASEAN-02** related: + KH-01, + SG-04 — two-way link added: KH-01, SG-04 link(s) to ASEAN-02
+- **AUS-06** related: + AUS-01, + AUS-02 — two-way link added: AUS-01, AUS-02 link(s) to AUS-06
+- **BJ-01** related: + AU-01 — two-way link added: AU-01 link(s) to BJ-01
+- **CA-01** related: + CA-ON-01 — two-way link added: CA-ON-01 link(s) to CA-01
+- **CA-08** related: + CA-02 — two-way link added: CA-02 link(s) to CA-08
+- **CL-01** related: + INT-12, + INT-17 — two-way link added: INT-12, INT-17 link(s) to CL-01
+- **CN-01** related: + CN-16 — two-way link added: CN-16 link(s) to CN-01
+- **CN-03** related: + CN-01, + CN-14, + CN-16 — two-way link added: CN-01, CN-14, CN-16 link(s) to CN-03
+- **CN-11** related: + BRICS-01 — two-way link added: BRICS-01 link(s) to CN-11
+- **CN-13** related: + CN-12 — two-way link added: CN-12 link(s) to CN-13
+- **CN-14** related: + CN-12 — two-way link added: CN-12 link(s) to CN-14
+- **CN-24** related: + CN-18, + CN-20, + CN-22, + CN-23 — two-way link added: CN-18, CN-20, CN-22, CN-23 link(s) to CN-24
+- **CN-26** related: + CN-19 — two-way link added: CN-19 link(s) to CN-26
+- **COE-01** related: + CH-01, + NO-02, + UA-01 — two-way link added: CH-01, NO-02, UA-01 link(s) to COE-01
+- **COE-02** related: + SI-02 — two-way link added: SI-02 link(s) to COE-02
+- **EU-02** related: + EU-17 — two-way link added: EU-17 link(s) to EU-02
+- **EU-03** related: + AT-01, + BG-01, + BG-02, + COE-01, + CY-01, + CZ-01, + CZ-02, + DE-01, + DK-01, + ES-02, + ES-03, + EU-01, + EU-04, + EU-05, + EU-12, + EU-13, + EU-15, + EU-17, + FI-01, + FR-01, + GR-01, + GR-02, + GR-03, + HR-01, + HU-01, + HU-02, + IE-01, + IS-01, + IT-01, + IT-02, + IT-03, + KR-08, + LT-01, + LU-01, + LV-02, + LV-03, + MT-01, + MT-02, + NL-01, + NL-02, + NO-02, + PL-01, + PT-01, + PY-01, + RO-01, + RS-02, + SE-01, + SE-02, + SI-01, + SI-02, + SK-01, + SK-02, + TR-01, + UA-01, + UA-02 — two-way link added: AT-01, BG-01, BG-02, COE-01, CY-01, CZ-01, CZ-02, DE-01, DK-01, ES-02, ES-03, EU-01, EU-04, EU-05, EU-12, EU-13, EU-15, EU-17, FI-01, FR-01, GR-01, GR-02, GR-03, HR-01, HU-01, HU-02, IE-01, IS-01, IT-01, IT-02, IT-03, KR-08, LT-01, LU-01, LV-02, LV-03, MT-01, MT-02, NL-01, NL-02, NO-02, PL-01, PT-01, PY-01, RO-01, RS-02, SE-01, SE-02, SI-01, SI-02, SK-01, SK-02, TR-01, UA-01, UA-02 link(s) to EU-03
+- **EU-10** related: + EU-02 — two-way link added: EU-02 link(s) to EU-10
+- **EU-14** related: + EU-15 — two-way link added: EU-15 link(s) to EU-14
+- **EU-18** related: + EU-02, + EU-06, + EU-09, + EU-14, + EU-15, + EU-19, + NL-01, + NO-02 — two-way link added: EU-02, EU-06, EU-09, EU-14, EU-15, EU-19, NL-01, NO-02 link(s) to EU-18
+- **G7-01** related: + G7-05, + G7-06 — two-way link added: G7-05, G7-06 link(s) to G7-01
+- **G7-02** related: + G7-03, + G7-05, + INT-20 — two-way link added: G7-03, G7-05, INT-20 link(s) to G7-02
+- **GB-03** related: + GB-04 — two-way link added: GB-04 link(s) to GB-03
+- **GB-04** related: + GB-05 — two-way link added: GB-05 link(s) to GB-04
+- **GB-07** related: + GB-05, + GB-09, + INT-19 — two-way link added: GB-05, GB-09, INT-19 link(s) to GB-07
+- **GB-08** related: + US-MN-01, + US-NJ-01 — two-way link added: US-MN-01, US-NJ-01 link(s) to GB-08
+- **IN-02** related: + NP-01 — two-way link added: NP-01 link(s) to IN-02
+- **INT-01** related: + INT-06, + INT-07 — two-way link added: INT-06, INT-07 link(s) to INT-01
+- **INT-02** related: + BRICS-02, + IN-02 — two-way link added: BRICS-02, IN-02 link(s) to INT-02
+- **INT-04** related: + INT-01 — two-way link added: INT-01 link(s) to INT-04
+- **INT-06** related: + GB-02 — two-way link added: GB-02 link(s) to INT-06
+- **INT-09** related: + INT-05, + SG-07 — two-way link added: INT-05, SG-07 link(s) to INT-09
+- **INT-10** related: + INT-08 — two-way link added: INT-08 link(s) to INT-10
+- **INT-11** related: + AUS-07, + IN-01, + INT-19, + SG-03 — two-way link added: AUS-07, IN-01, INT-19, SG-03 link(s) to INT-11
+- **INT-13** related: + INT-16, + UN-01, + UN-10 — two-way link added: INT-16, UN-01, UN-10 link(s) to INT-13
+- **INT-14** related: + NATO-01, + UN-10 — two-way link added: NATO-01, UN-10 link(s) to INT-14
+- **JP-01** related: + JP-04 — two-way link added: JP-04 link(s) to JP-01
+- **JP-02** related: + JP-03 — two-way link added: JP-03 link(s) to JP-02
+- **JP-05** related: + JP-06 — two-way link added: JP-06 link(s) to JP-05
+- **KR-01** related: + KR-03, + KR-05 — two-way link added: KR-03, KR-05 link(s) to KR-01
+- **KR-06** related: + KR-04 — two-way link added: KR-04 link(s) to KR-06
+- **KZ-01** related: + AZ-01, + UZ-02 — two-way link added: AZ-01, UZ-02 link(s) to KZ-01
+- **MY-01** related: + BN-01 — two-way link added: BN-01 link(s) to MY-01
+- **OECD-01** related: + AR-01, + EG-01, + G20-01, + G20-02, + INT-20, + NZ-01, + UNESCO-01, + ZM-01 — two-way link added: AR-01, EG-01, G20-01, G20-02, INT-20, NZ-01, UNESCO-01, ZM-01 link(s) to OECD-01
+- **OECD-02** related: + G7-03, + G7-05, + INT-20 — two-way link added: G7-03, G7-05, INT-20 link(s) to OECD-02
+- **SG-04** related: + SG-06, + SG-08 — two-way link added: SG-06, SG-08 link(s) to SG-04
+- **SN-01** related: + AU-01 — two-way link added: AU-01 link(s) to SN-01
+- **UN-01** related: + INT-14 — two-way link added: INT-14 link(s) to UN-01
+- **UN-02** related: + UN-13 — two-way link added: UN-13 link(s) to UN-02
+- **UN-05** related: + BRICS-01, + G7-05, + UN-02, + UN-03, + UN-13 — two-way link added: BRICS-01, G7-05, UN-02, UN-03, UN-13 link(s) to UN-05
+- **UN-07** related: + BRICS-01, + G20-01, + INT-01 — two-way link added: BRICS-01, G20-01, INT-01 link(s) to UN-07
+- **UNESCO-01** related: + AR-01, + GH-01, + INT-17, + JM-01, + JO-01, + PK-01, + RS-01, + SN-01, + ZM-01 — two-way link added: AR-01, GH-01, INT-17, JM-01, JO-01, PK-01, RS-01, SN-01, ZM-01 link(s) to UNESCO-01
+- **US-02** related: + US-07, + US-21, + US-MT-01 — two-way link added: US-07, US-21, US-MT-01 link(s) to US-02
+- **US-04** related: + US-01, + US-03, + US-08, + US-10 — two-way link added: US-01, US-03, US-08, US-10 link(s) to US-04
+- **US-05** related: + US-09 — two-way link added: US-09 link(s) to US-05
+- **US-06** related: + US-01 — two-way link added: US-01 link(s) to US-06
+- **US-08** related: + US-07 — two-way link added: US-07 link(s) to US-08
+- **US-09** related: + US-07 — two-way link added: US-07 link(s) to US-09
+- **US-11** related: + US-06, + US-09, + US-10, + US-28 — two-way link added: US-06, US-09, US-10, US-28 link(s) to US-11
+- **US-12** related: + US-02 — two-way link added: US-02 link(s) to US-12
+- **US-14** related: + US-MN-01, + US-NJ-01, + US-WY-01 — two-way link added: US-MN-01, US-NJ-01, US-WY-01 link(s) to US-14
+- **US-15** related: + INT-11, + US-07 — two-way link added: INT-11, US-07 link(s) to US-15
+- **US-16** related: + US-14, + US-21, + US-23, + US-28 — two-way link added: US-14, US-21, US-23, US-28 link(s) to US-16
+- **US-20** related: + US-16, + US-CO-02, + US-TX-01 — two-way link added: US-16, US-CO-02, US-TX-01 link(s) to US-20
+- **US-23** related: + INT-19, + US-09 — two-way link added: INT-19, US-09 link(s) to US-23
+- **US-24** related: + US-22, + US-CO-01 — two-way link added: US-22, US-CO-01 link(s) to US-24
+- **US-25** related: + US-15, + US-22, + US-CA-01, + US-CA-07 — two-way link added: US-15, US-22, US-CA-01, US-CA-07 link(s) to US-25
+- **US-26** related: + US-23 — two-way link added: US-23 link(s) to US-26
+- **US-CA-04** related: + US-CA-09 — two-way link added: US-CA-09 link(s) to US-CA-04
+- **US-CA-05** related: + US-CA-01, + US-CA-02, + US-CA-06, + US-CT-01 — two-way link added: US-CA-01, US-CA-02, US-CA-06, US-CT-01 link(s) to US-CA-05
+- **US-CA-06** related: + US-CT-01, + US-FL-01, + US-GA-01, + US-HI-01, + US-IA-01, + US-ID-01, + US-IL-02, + US-RI-01 — two-way link added: US-CT-01, US-FL-01, US-GA-01, US-HI-01, US-IA-01, US-ID-01, US-IL-02, US-RI-01 link(s) to US-CA-06
+- **US-CO-02** related: + US-IL-01, + US-VA-01 — two-way link added: US-IL-01, US-VA-01 link(s) to US-CO-02
+- **US-IL-02** related: + US-VT-01 — two-way link added: US-VT-01 link(s) to US-IL-02
+- **US-NY-01** related: + US-CT-01 — two-way link added: US-CT-01 link(s) to US-NY-01
+- **US-UT-01** related: + US-IL-02 — two-way link added: US-IL-02 link(s) to US-UT-01
+- **UY-01** related: + INT-17 — two-way link added: INT-17 link(s) to UY-01
+- **UZ-01** related: + AZ-01 — two-way link added: AZ-01 link(s) to UZ-01
+- **VN-01** related: + VN-03 — two-way link added: VN-03 link(s) to VN-01
+
 ## 2026-10-18 · [2026-10-18-compare-definitions-4](runs/2026-10-18-compare-definitions-4/report.md)
 
 re-verified 3

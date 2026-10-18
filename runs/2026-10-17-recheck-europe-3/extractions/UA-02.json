@@ -1,0 +1,210 @@
+{
+ "cand_id": "UA-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UA-02",
+ "record": {
+  "date_published": "2024-06-26",
+  "notes": "Presented by the Ministry of Digital Transformation on 26 June 2024 as a consultation version dated June 2024; comments were invited for three months from publication. The ministry describes it as analytical material, not a public-policy analytical document within the meaning of the Law on Law-making Activity. It was prepared with support from USAID's Cybersecurity for Critical Infrastructure in Ukraine Activity and the Digital Transformation Activity supported by USAID and UK Dev. It builds on the Roadmap for AI regulation developed by the ministry's Expert Committee on AI, and offers voluntary AI labelling of training data, algorithms and decision space through a web form. On 15 June 2026 the ministry reported the first meeting of a joint working group that is to draft a dedicated AI law aligned with EU rules during 2026.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the White Paper PDF stored from the ministry's file storage (storage.thedigital.gov.ua, 11 Oct 2026; unchanged on 17 Oct) and the ministry news item stored on 11 Oct 2026, and stored the Cabinet of Ministers' English news item of 26 June 2024 on the government portal (kmu.gov.ua). The PDF confirms the title, the June 2024 date, the consultation status and the three-month comment period, the ministry as author, the non-binding character, the two stages, the tools and the timeline chart; the Cabinet item confirms the presentation and availability on 26 June 2024 and the donor support. The ministry news item carries the date '15 чер.' without a year; the year 2026 follows from its content, which reports events of May 2026. The ministry's English translation of the White Paper could not be stored (its URL answered HTTP 404, and the copy linked from the Cabinet item on cms.thedigital.gov.ua timed out), so english_version is not recorded. Version 1's statement that no bill had been registered in the Verkhovna Rada rested on no stored file and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 1",
+    "quote": "Біла книга з регулювання ШІ в Україні: бачення Мінцифри Версія для консультацій",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 1",
+    "quote": "Біла книга з регулювання ШІ в Україні: бачення Мінцифри Версія для консультацій",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 30",
+    "quote": "Ця Біла книга відображає бачення Міністерства цифрової трансформації щодо оптимального підходу до регулювання технологій штучного інтелекту в Україні",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 4",
+    "quote": "Віцепрем’єр-міністра з інновацій, розвитку освіти, науки та технологій — Міністра цифрової трансформації",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UA-02/extra-437026c09d/2026-10-17/official.html",
+    "sha256": "becb804876cc05854219e3438856e2c4e5b9bd951836e001678bb8e750ca96bf",
+    "locator": "news item heading",
+    "quote": "Regulation of artificial intelligence in Ukraine: Ministry of Digital Transformation presents White Paper",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UA-02/extra-437026c09d/2026-10-17/official.html",
+    "sha256": "becb804876cc05854219e3438856e2c4e5b9bd951836e001678bb8e750ca96bf",
+    "locator": "news item header",
+    "quote": "Ministry of Digital Transformation of Ukraine, posted 26 June 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UA-02/extra-437026c09d/2026-10-17/official.html",
+    "sha256": "becb804876cc05854219e3438856e2c4e5b9bd951836e001678bb8e750ca96bf",
+    "locator": "news item text",
+    "quote": "The White Paper is available here.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 1",
+    "quote": "Версія для консультацій Червень 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 30",
+    "quote": "є документом для консультацій та отримання зворотного звʼязку",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 30",
+    "quote": "Очікуваний строк для отримання зворотного звʼязку – 3 місяці від дати публікації",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/secondary.html",
+    "sha256": "9a46b198da2ddb3ecee418d7b69fdf5e4299e6ddab86d2a3b3714e18eff4b140",
+    "locator": "Від саморегуляції до закону",
+    "quote": "Опублікували Дорожню карту та Білу книгу з регулювання ШІ, щоб бізнес міг адаптуватися до європейського AI Act",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UA-02/extra-437026c09d/2026-10-17/official.html",
+    "sha256": "becb804876cc05854219e3438856e2c4e5b9bd951836e001678bb8e750ca96bf",
+    "locator": "news item text",
+    "quote": "The White Paper describes in detail the approach to the regulation of artificial intelligence in Ukraine.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 2",
+    "quote": "Не є аналітичним документом публічної політики в розумінні Закону України",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 4",
+    "quote": "ми розробили підхід, який адресує виклики без упровадження обов’язкового регулювання в найближчі 2–3 роки",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 10",
+    "quote": "Експертним Комітетом з ШІ при Міністерстві цифрової трансформації було розроблено Дорожню карту з регулювання ШІ в Україні",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/official.pdf",
+    "sha256": "c0611a5df47d530c3f3f06b7215329d2b05dc1188d73f917a8ad190db545f728",
+    "locator": "page 22",
+    "quote": "добровільно надаючи інформацію про три ключові елементи — навчальні дані, алгоритми та простір прийняття рішень",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/secondary.html",
+    "sha256": "9a46b198da2ddb3ecee418d7b69fdf5e4299e6ddab86d2a3b3714e18eff4b140",
+    "locator": "lead paragraph",
+    "quote": "Саме для цього відбулося перше засідання робочої групи з правового регулювання ШІ",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/UA-02/2026-10-11/secondary.html",
+    "sha256": "9a46b198da2ddb3ecee418d7b69fdf5e4299e6ddab86d2a3b3714e18eff4b140",
+    "locator": "Наступний крок — профільний закон",
+    "quote": "Протягом 2026 року спільна робоча група розробить закон про штучний інтелект",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UA-02/extra-437026c09d/2026-10-17/official.html",
+    "sha256": "becb804876cc05854219e3438856e2c4e5b9bd951836e001678bb8e750ca96bf",
+    "locator": "news item text",
+    "quote": "The White Paper was prepared with the support from USAID’s Cybersecurity for Critical Infrastructure in Ukraine Activity and the Digital Transformation Activity supported by USAID and UK Dev.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_published": "the Cabinet of Ministers' news item (official) shows the ministry presented the White Paper and made it available on 26 June 2024; the PDF itself gives only June 2024",
+   "notes": "rewritten: the statement on the Verkhovna Rada removed (no stored file); the presentation date and the donor projects now rest on the stored Cabinet item; the three-month comment period, the link to the Roadmap, the voluntary labelling form and the June 2026 working group added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The document is a consultation version dated June 2024 that the ministry calls analytical material without legal force; it proposes two to three years without mandatory rules. The ministry's news item of June 2026 still lists the White Paper among the published groundwork and announces a separate AI law to be drafted during 2026. No final version or withdrawal appears in the stored files. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A ministry's policy paper on how AI will be regulated, with human-rights impact assessment, a sandbox, labelling and a future AI Act-style law; in scope with no note.",
+  "date_reasoning": "The PDF gives only the month (Червень 2024); the Cabinet of Ministers' news item, an official source, gives 26 June 2024 as the day the ministry presented the White Paper and made it available, so date_published becomes 2024-06-26."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Recommendations on the responsible use of artificial intelligence in the media (Ministry of Digital Transformation of Ukraine), named in the White Paper as the first sectoral recommendations",
+   "url": null,
+   "seen_in": "archive/UA-02/2026-10-11/official.pdf, page 23",
+   "why": "Government AI guidelines for a sector; not in the register."
+  },
+  {
+   "title": "Recommendations on complying with personal-data-protection law in the AI field, developed by the Office of the Ombudsman and the Ministry of Digital Transformation of Ukraine",
+   "url": null,
+   "seen_in": "archive/UA-02/2026-10-11/official.pdf, page 11",
+   "why": "AI-specific guidance with a data-protection supervisor; not in the register."
+  },
+  {
+   "title": "Draft Strategy for the development of artificial intelligence in Ukraine to 2030 (Ministry of Digital Transformation, consultation news of 31 March 2026: \"Шлях розвитку ШІ до 2030 року: знайомтеся з проєктом Стратегії\")",
+   "url": null,
+   "seen_in": "https://thedigital.gov.ua/news/shtuchnyy-intelekt/vid-samorehuliatsiyi-do-yevropeyskykh-pravyl-hotuyemo-profilnyy-zakon-pro-shtuchnyy-intelekt-v-ukrayini",
+   "why": "A national AI strategy draft; scope depends on its safety content."
+  },
+  {
+   "title": "Ukrainian AI law aligned with the EU AI Act, to be drafted by the joint working group during 2026",
+   "url": null,
+   "seen_in": "https://thedigital.gov.ua/news/shtuchnyy-intelekt/vid-samorehuliatsiyi-do-yevropeyskykh-pravyl-hotuyemo-profilnyy-zakon-pro-shtuchnyy-intelekt-v-ukrayini",
+   "why": "A future bill; a new record once a draft is published or registered."
+  }
+ ],
+ "open_questions": [
+  "english_version is not recorded: the ministry published an English translation of the White Paper (linked from the Cabinet's news item of 26 June 2024), but neither its thedigital.gov.ua URL (HTTP 404) nor the cms.thedigital.gov.ua copy (timed out) could be stored. A later run, or a provided document, can record it as a government translation by the Ministry of Digital Transformation."
+ ]
+}

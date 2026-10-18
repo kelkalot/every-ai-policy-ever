@@ -1823,6 +1823,99 @@
    "closed": null,
    "resolution": null,
    "title": "Human sample of run 2026-10-17-recheck-europe-2 (5 records)"
+  },
+  {
+   "key": "record:NZ-01@2026-10-17-recheck-europe-3",
+   "kind": "record",
+   "subject": "NZ-01",
+   "run_id": "2026-10-17-recheck-europe-3",
+   "held_back": false,
+   "why": "date_published is unsupported and the checker gave no evidence-backed fix",
+   "records": [
+    "NZ-01"
+   ],
+   "title": "NZ-01 NZ Public Service AI Framework: open question from run 2026-10-17-recheck-europe-3",
+   "state": "open",
+   "issue": 129,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/129",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:CZ-01@2026-10-17-recheck-europe-3",
+   "kind": "record",
+   "subject": "CZ-01",
+   "run_id": "2026-10-17-recheck-europe-3",
+   "held_back": false,
+   "why": "checker: Level C rests on secondary sources plus the ČTÚ annual report (alt-official), which confirms title wording, preparing ministry, unfinished comment procedure and Resolution 394. The stage after 2025 is unknown (no newer official page found). Needs a human or a provided copy of the ministry release for date_published.; the checker gave no verdict for date_published; date_published has no evidence",
+   "records": [
+    "CZ-01"
+   ],
+   "title": "CZ-01 Czech AI Act adaptation bill: open question from run 2026-10-17-recheck-europe-3",
+   "state": "open",
+   "issue": 130,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/130",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:KG-01@2026-10-17-recheck-europe-3",
+   "kind": "record",
+   "subject": "KG-01",
+   "run_id": "2026-10-17-recheck-europe-3",
+   "held_back": false,
+   "why": "checker: The Digital Code could not be stored: the stored text is the page title only. Title, original title and date are supported by that title alone; status, official_identifier, date_in_force, summary and notes have no stored evidence and cannot be checked. These values are left as published, but the evidence script reports an error for status. needs-human so that a person stores the Code (or provides it) and decides.; status is unsupported and the checker gave no evidence-backed fix; official_identifier is unsupported and the checker gave no evidence-backed fix; date_in_force is unsupported and the checker gave no evidence-backed fix; status has no evidence",
+   "records": [
+    "KG-01"
+   ],
+   "title": "KG-01 Kyrgyzstan Digital Code (AI chapter): open question from run 2026-10-17-recheck-europe-3",
+   "state": "open",
+   "issue": 131,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/131",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "record:KG-02@2026-10-17-recheck-europe-3",
+   "kind": "record",
+   "subject": "KG-02",
+   "run_id": "2026-10-17-recheck-europe-3",
+   "held_back": false,
+   "why": "checker: The order could not be stored; the stored text is a truncated page title. No factual field has evidence, so every value (title, date, status) is unsupported and nothing the run changes can be confirmed. needs-human until the order is stored or provided.; status is unsupported and the checker gave no evidence-backed fix; title is unsupported and the checker gave no evidence-backed fix; date_published is unsupported and the checker gave no evidence-backed fix; title has no evidence; date_published has no evidence; status has no evidence",
+   "records": [
+    "KG-02"
+   ],
+   "title": "KG-02 Kyrgyzstan high-risk AI conformity declaration order (1181-t): open question from run 2026-10-17-recheck-europe-3",
+   "state": "open",
+   "issue": 132,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/132",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null
+  },
+  {
+   "key": "sample:2026-10-17-recheck-europe-3",
+   "kind": "sample",
+   "subject": "2026-10-17-recheck-europe-3",
+   "run_id": "2026-10-17-recheck-europe-3",
+   "records": [
+    "CY-01",
+    "HR-01",
+    "KG-01",
+    "RU-01",
+    "SK-03"
+   ],
+   "why": "Human sample of run 2026-10-17-recheck-europe-3: check each record against its stored sources.",
+   "state": "open",
+   "issue": 133,
+   "url": "https://github.com/kelkalot/every-ai-policy-ever/issues/133",
+   "opened": "2026-10-17",
+   "closed": null,
+   "resolution": null,
+   "title": "Human sample of run 2026-10-17-recheck-europe-3 (5 records)"
   }
  ],
  "repo": "kelkalot/every-ai-policy-ever"

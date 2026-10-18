@@ -1,0 +1,53 @@
+{
+ "cand_id": "CZ-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "approved by the Government on 28 May 2025",
+   "verdict": "supported",
+   "locator": "agency release page 1"
+  },
+  {
+   "claim": "ÚNMZ is the notifying authority; ČAS builds and runs the regulatory sandbox",
+   "verdict": "supported",
+   "locator": "page 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Level B: release of the Czech Standardisation Agency (another official body) confirms the approval on 28 May 2025. Commissioner appointment rests on the association's note (secondary). Government resolution not stored; stays as an open question. Literal: 'The Czech Government approved the Proposal for the Implementation of the Act on Artificial Intelligence in the Czech Republic.'"
+}

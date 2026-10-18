@@ -1,0 +1,239 @@
+{
+ "cand_id": "HR-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "HR-01",
+ "record": {
+  "original_title": "Zakon o izmjenama i dopunama Kaznenog zakona",
+  "issuing_body": "Croatian Parliament (Hrvatski sabor)",
+  "summary": "Amendment to Croatia's Criminal Code, adopted on 24 October 2025, that adds the AI Act's definition of an AI system (Article 87(33)) and a new offence, Article 215.a 'Endangering life and property by an artificial intelligence system'. Whoever, in the development, testing, verification, supervision, management or use of an AI system, or otherwise by means of one, causes danger to human life or body or to large-scale property faces six months to five years' imprisonment, or up to three years if negligent. Serious bodily injury or large-scale damage raises this to one to ten years (six months to five if negligent), death to three to fifteen years (one to eight if negligent).",
+  "notes": "The Minister of Justice, Public Administration and Digital Transformation, Damir Habijan, presented the bill at its first reading in the Croatian Parliament in September 2025, together with amendments to the Criminal Procedure Act and the act on the anti-corruption office (USKOK); he said the definition of an AI system was taken from the AI Act and that a separate artificial intelligence act had to be adopted by 2026. Proclaimed by the President of the Republic on 30 October 2025 and published in Narodne novine No. 136/2025 on 5 November 2025; under its Article 14 it entered into force on the eighth day after publication, 13 November 2025. Article 215.a applies only where no more serious criminal offence is committed. The same act also extends Croatian criminal law to offences of legal persons committed in Croatia, on Croatian ships and aircraft and abroad, rewrites the offence of trafficking in human beings (Article 106), adds Directive (EU) 2024/1712 to the list of transposed directives and amends the bribery offences concerning members of representative bodies (Article 339).",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Narodne novine page and PDF of NN 136/2025 (stored 12 Oct 2026; the archiver found them unchanged on 17 Oct 2026). They confirm the title, adoption by the Croatian Parliament on 24 October 2025, proclamation by the President on 30 October 2025, publication on 5 November 2025, the definition of an AI system in Article 8, the new Article 215.a in Article 11 and the eight-day entry-into-force rule in Article 14; the in-force date of 13 November 2025 is computed from that rule. Stored in this run from mpudt.gov.hr: the ministry's English news item of 24 September 2025 on the first reading, which supports the minister's presentation of the bill, the AI Act origin of the definition and the minister's remark on a separate AI act. No English version of the act was found. Version 1's statements on Croatia's AI Act implementation (the ministry's 2026 consultation plan, its Article 77 list of 5 December 2024 and the Commission's list of market surveillance authorities) rested on no stored file and were removed; the ministry, which proposed the bill but did not adopt it, is no longer named as an issuing body."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "gazette page heading",
+    "quote": "NN 136/2025 (5.11.2025.), Zakon o izmjenama i dopunama Kaznenog zakona",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 11. (heading of new Article 215.a)",
+    "quote": "Dovođenje u opasnost života i imovine sustavom umjetne inteligencije",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Odluka o proglašenju",
+    "quote": "Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Odluka o proglašenju",
+    "quote": "koji je Hrvatski sabor donio na sjednici 24. listopada 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "document details",
+    "quote": "Donositelj:Hrvatski sabor",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "gazette page heading",
+    "quote": "NN 136/2025 (5.11.2025.), Zakon o izmjenama i dopunama Kaznenog zakona",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "document details",
+    "quote": "Datum tiskanog izdanja: 5.11.2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Odluka o proglašenju",
+    "quote": "Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/document-1.pdf",
+    "sha256": "986d682f44df5d76250d022df60e140afda7b4cda88aec95e01500cb06916012",
+    "locator": "page 1",
+    "quote": "koji je Hrvatski sabor donio na sjednici 24. listopada 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 14.",
+    "quote": "Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/document-1.pdf",
+    "sha256": "986d682f44df5d76250d022df60e140afda7b4cda88aec95e01500cb06916012",
+    "locator": "page 1 (gazette header)",
+    "quote": "SRIJEDA, 5. STUDENOGA 2025. BROJ 136",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 14.",
+    "quote": "Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "document details",
+    "quote": "Datum tiskanog izdanja: 5.11.2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "document details",
+    "quote": "Vrsta dokumenta: Zakon",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 11. (Article 215.a(1))",
+    "quote": "Tko u razvoju, testiranju, provjeri, nadzoru, upravljanju, uporabi sustava umjetne inteligencije ili na drugi način sustavom umjetne inteligencije izazove opasnost za život ili tijelo ljudi ili za imovinu većeg opsega",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 11. (Article 215.a(6))",
+    "quote": "Ako je kaznenim djelom iz stavka 2. ovoga članka prouzročena smrt jedne ili više osoba, počinitelj će se kazniti kaznom zatvora od jedne do osam godina.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/HR-01/extra-83428ac482/2026-10-17/official.html",
+    "sha256": "1a5fcf41bd2ce3cfb81137c4162280869678697a51fb5e5173a48c614e82b15e",
+    "locator": "ministry news item, 24.09.2025",
+    "quote": "We have taken the definition of an AI system from the AI Act, so it is identical to the way it is regulated by European Union legislation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/HR-01/extra-83428ac482/2026-10-17/official.html",
+    "sha256": "1a5fcf41bd2ce3cfb81137c4162280869678697a51fb5e5173a48c614e82b15e",
+    "locator": "ministry news item, 24.09.2025",
+    "quote": "At the 7th session of the Croatian Parliament, the Minister of Justice, Public Administration and Digital Transformation presented the Proposal of the Act on Amendments to the Criminal Code",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/HR-01/extra-83428ac482/2026-10-17/official.html",
+    "sha256": "1a5fcf41bd2ce3cfb81137c4162280869678697a51fb5e5173a48c614e82b15e",
+    "locator": "ministry news item, 24.09.2025",
+    "quote": "recalling that a separate Artificial Intelligence Act must be adopted by next year",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/HR-01/extra-83428ac482/2026-10-17/official.html",
+    "sha256": "1a5fcf41bd2ce3cfb81137c4162280869678697a51fb5e5173a48c614e82b15e",
+    "locator": "ministry news item, header",
+    "quote": "Published: 24.09.2025.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Odluka o proglašenju",
+    "quote": "Zagreb, 30. listopada 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 11. (Article 215.a(1))",
+    "quote": "a time nije počinjeno teže kazneno djelo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/HR-01/2026-10-12/official.html",
+    "sha256": "66959a42517b5b86d7563d22130beae3bf038c4f499b0411ca8def8d27f95d29",
+    "locator": "Članak 13.",
+    "quote": "Direktiva (EU) 2024/1712 Europskog parlamenta i Vijeća od 13. lipnja 2024. o izmjeni Direktive 2011/36/EU",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "verbatim title from the gazette text; version 1 appended the gazette reference '(NN 136/2025)', which is not part of the title",
+   "issuing_body": "the act was adopted by the Hrvatski sabor (proclamation decision, 'Donositelj: Hrvatski sabor'); the ministry named in version 1 neither adopted nor issued it and is not named in the stored files",
+   "summary": "rewritten from the stored text of Article 215.a: 'verification' (provjeri) and 'management' (upravljanju) added to the list of activities, 'intentionally' removed (paragraph 1 does not use the word; paragraph 2 sets the negligent form); the AI Act origin of the definition now rests on the ministry's news item stored in this run",
+   "notes": "rewritten: the minister's presentation of the bill and his remarks (ministry news item) added; publication date and the eight-day rule kept; the act's other amendments (legal persons, trafficking, Directive 2024/1712, Article 339) added from the stored text; the statements on Croatia's AI Act implementation removed (no stored file; listed as leads)",
+   "english_version": "not recorded in version 1; no English text of the act or government translation was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 14 says the act enters into force on the eighth day from the day of its publication in Narodne novine. It was published in NN 136/2025, dated 5 November 2025 (the printed issue 'Srijeda, 5. studenoga 2025.'). Counting from 6 November as day one, the eighth day is 13 November 2025, which is before today (17 October 2026). No repeal or later amendment of these provisions appears in the stored files. 'In force' stands.",
+  "scope_reasoning": "A criminal-law amendment that creates an AI-specific offence of endangering life and property by an AI system and defines an AI system; AI-specific operative provisions on safety and liability, in scope with no note, as in version 1.",
+  "date_reasoning": "date_published is the adoption by the Sabor on 24 October 2025 (the register's practice for laws, kept from version 1); proclamation on 30 October and publication on 5 November 2025 are in the notes. The in-force date is computed from Article 14 and the publication date."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Croatian law implementing Regulation (EU) 2024/1689 (AI Act), planned by the Ministry of Justice, Public Administration and Digital Transformation for public consultation in the third quarter of 2026",
+   "url": null,
+   "seen_in": "version 1 notes of HR-01 (the ministry's consultation plan for 2026; not stored)",
+   "why": "Croatia's AI Act implementing law; not in the register. If it has been published for consultation it is a pending draft in scope."
+  },
+  {
+   "title": "Croatia's list of national authorities protecting fundamental rights under Article 77 of the AI Act, published by the ministry on 5 December 2024",
+   "url": null,
+   "seen_in": "version 1 notes of HR-01 (the ministry's news item; not stored)",
+   "why": "A designation under Article 77(2), comparable to Bulgaria's Decision 398/2025 (BG-01); not in the register."
+  }
+ ],
+ "open_questions": []
+}

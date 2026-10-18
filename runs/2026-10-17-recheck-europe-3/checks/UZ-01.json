@@ -1,0 +1,69 @@
+{
+ "cand_id": "UZ-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported"
+  },
+  "safety_topics": {
+   "verdict": "judgment-differs",
+   "why": "Topics omit the security/ethics and data-protection agenda the summary describes; 'international cooperation' is thin. Defensible."
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI software and services worth USD 1.5 billion; 10% of services portal AI-based",
+   "verdict": "supported",
+   "locator": "paragraph 1(a)"
+  },
+  {
+   "claim": "harmonisation of 9 national AI standards with international ones",
+   "verdict": "supported",
+   "locator": "Appendix 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope handling kept: an AI development strategy with a regulatory and ethics agenda but mainly economic targets."
+ },
+ "overall": "accept",
+ "note": "Official Uzbek text on lex.uz in the 25 Jul 2026 edition supports the number, dates and amendments (UP-189, UP-223, UP-141). date_last_updated 2026-07-25 is the edition date (decree signed 24 Jul 2026); fine. The English translation renders the 2024 text; the note on language Russian stays an open question."
+}

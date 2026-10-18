@@ -1,0 +1,60 @@
+{
+ "cand_id": "PL-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "ELI page gives 'Issuing authority: SEJM'; the Senate also took part but the field follows the register; defensible."
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Commission: chair, two deputies, four members nominated by UOKiK, KNF, KRRiT, UKE (Art. 19(1))",
+   "verdict": "supported",
+   "locator": "page 6"
+  },
+  {
+   "claim": "Art. 63(2) decision ordering withdrawal from market or use",
+   "verdict": "supported",
+   "locator": "page 20"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Original title matches the PDF character by character. Literal translation of Art. 63(2): 'The Commission may issue a decision ordering the operator of that system to stop using the system or withdraw it from the market or from use.' Entry-into-force arithmetic (publication 27 Jul 2026; 11 Aug; 28 Oct 2026) checks out; Partially in force is right as of today because the 28 Oct 2026 provisions are still ahead. No amendment found in a targeted search; no English translation found."
+}

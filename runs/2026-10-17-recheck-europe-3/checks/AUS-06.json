@@ -1,0 +1,50 @@
+{
+ "cand_id": "AUS-06",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "3 goals, 9 actions, AI Safety Institute established to monitor, test and share information",
+   "verdict": "supported",
+   "locator": "PDF page 4 and 28"
+  },
+  {
+   "claim": "agencies and regulators keep responsibility for AI harms in their domains",
+   "verdict": "supported",
+   "locator": "PDF page 28"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Plan page and PDF confirm title, 2 Dec 2025 and the safety approach; funding and Digital Duty of Care details rest on the Government response (alt-official). Nothing newer found."
+}

@@ -1,0 +1,143 @@
+{
+ "run_id": "2026-10-17-recheck-europe-3",
+ "type": "recheck",
+ "scope": "ids:AUS-01,AUS-02,AUS-03,AUS-04,AUS-05,AUS-06,AUS-07,NZ-01,NZ-02,NZ-03,PL-01,RU-01,CZ-01,CZ-02,HU-01,UA-01,UA-02,UZ-01,UZ-02,GR-01,GR-02,GR-03,CY-01,SI-02,HR-01,RO-01,BG-01,BG-02,SK-01,LT-01,LV-01,LV-02,RS-01,KG-01,KG-02,AZ-01,SK-03,SK-04",
+ "started": "2026-10-17",
+ "coordinator": {
+  "tool": "Claude Code",
+  "model": "claude-opus-5-5"
+ },
+ "stages": {
+  "collect": {
+   "tool": null,
+   "model": null,
+   "date": null
+  },
+  "extract": {
+   "tool": "Claude Code",
+   "model": "claude-opus-5-5",
+   "date": "2026-10-17",
+   "tokens": 1998324
+  },
+  "blind": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-17",
+   "tokens": 126149
+  },
+  "check": {
+   "tool": "Claude Code",
+   "model": "claude-sonnet-5-5",
+   "date": "2026-10-17",
+   "tokens": 304563
+  }
+ },
+ "status": "merged",
+ "record_ids": [
+  "AUS-01",
+  "AUS-02",
+  "AUS-03",
+  "AUS-04",
+  "AUS-05",
+  "AUS-06",
+  "AUS-07",
+  "NZ-01",
+  "NZ-02",
+  "NZ-03",
+  "PL-01",
+  "RU-01",
+  "CZ-01",
+  "CZ-02",
+  "HU-01",
+  "UA-01",
+  "UA-02",
+  "UZ-01",
+  "UZ-02",
+  "GR-01",
+  "GR-02",
+  "GR-03",
+  "CY-01",
+  "SI-02",
+  "HR-01",
+  "RO-01",
+  "BG-01",
+  "BG-02",
+  "SK-01",
+  "LT-01",
+  "LV-01",
+  "LV-02",
+  "RS-01",
+  "KG-01",
+  "KG-02",
+  "AZ-01",
+  "SK-03",
+  "SK-04"
+ ],
+ "steps": [
+  {
+   "step": "archive",
+   "who": "script",
+   "do": "python3 tools/archive.py --run 2026-10-17-recheck-europe-3 --browser"
+  },
+  {
+   "step": "textify",
+   "who": "script",
+   "do": "python3 tools/pipeline.py textify --run 2026-10-17-recheck-europe-3"
+  },
+  {
+   "step": "extract",
+   "who": "extractors, about 8 candidates each",
+   "do": "pipeline/roles/extract.md -> extractions/<ID>.json; for extra_urls the coordinator (not the extractor) archives and textifies again, then sends the candidates back once"
+  },
+  {
+   "step": "evidence",
+   "who": "script",
+   "do": "python3 tools/pipeline.py evidence --run 2026-10-17-recheck-europe-3"
+  },
+  {
+   "step": "sample",
+   "who": "script",
+   "do": "python3 tools/pipeline.py sample --run 2026-10-17-recheck-europe-3"
+  },
+  {
+   "step": "blind",
+   "who": "a fresh extractor",
+   "do": "pipeline/roles/extract.md -> extractions-blind/<ID>.json; never opens extractions/"
+  },
+  {
+   "step": "agreement",
+   "who": "script",
+   "do": "python3 tools/pipeline.py compare --run 2026-10-17-recheck-europe-3"
+  },
+  {
+   "step": "check",
+   "who": "the checker, in a fresh context",
+   "do": "pipeline/roles/check.md -> checks/<ID>.json"
+  },
+  {
+   "step": "assemble",
+   "who": "script",
+   "do": "python3 tools/pipeline.py assemble --run 2026-10-17-recheck-europe-3"
+  },
+  {
+   "step": "merge",
+   "who": "script",
+   "do": "python3 tools/merge.py runs/2026-10-17-recheck-europe-3/pass.json --dry-run, then without --dry-run; python3 tools/build.py"
+  },
+  {
+   "step": "report",
+   "who": "script",
+   "do": "python3 tools/pipeline.py report --run 2026-10-17-recheck-europe-3; frame --report; questions --sync; intake"
+  },
+  {
+   "step": "gate",
+   "who": "script",
+   "do": "python3 tools/gate.py: every change against the rules; fix what fails, never skip it"
+  },
+  {
+   "step": "commit",
+   "who": "coordinator",
+   "do": "one commit on the branch run/2026-10-17-recheck-europe-3"
+  }
+ ]
+}

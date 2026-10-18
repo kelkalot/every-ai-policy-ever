@@ -1,0 +1,188 @@
+{
+ "cand_id": "AUS-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-02",
+ "record": {
+  "date_in_force": "2024-09-03",
+  "summary": "Amends the Criminal Code to replace section 474.17A with an offence of using a carriage service to transmit sexual material depicting a person aged 18 or older, knowing that the person does not consent or reckless as to consent, punishable by 6 years' imprisonment. The offence applies whether the material is unaltered or was created or altered using technology, including AI-generated deepfakes. Aggravated offences, punishable by 7 years, apply where the offender created or altered the material or already had 3 or more civil penalty orders against them for contraventions of the Online Safety Act 2021.",
+  "safety_topics": [
+   "deepfakes & synthetic media",
+   "accountability & liability"
+  ],
+  "notes": "Assented to on 2 September 2024; the whole Act commenced on the day after Royal Assent, 3 September 2024. Besides the new offences in sections 474.17A and 474.17AA, it repeals the definitions of private sexual material and subject in section 473.1, adds double jeopardy rules (section 474.17AB) and replaces the alternative verdict provision (section 474.17B). Material depicting a person under 18 falls under the Criminal Code's child abuse material offences. The Government's response of 1 April 2026 to the Senate Select Committee on Adopting AI refers to these August 2024 amendments as clarifying that the offences extend to material created or altered using AI or other technologies.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the Federal Register of Legislation page was stored again on 17 Oct 2026 with a browser, as a rendered page (title, No. 78, 2024, 'In force', C2024A00078, 2 September 2024) and as a printed PDF that holds the Act as made: title, assent on 2 September 2024, the commencement table (the whole Act on the day after Royal Assent, 3 September 2024) and Schedule 1. The printed text ends partway through item 6 (section 474.17B). The Government response to the Senate Select Committee on Adopting AI (industry.gov.au, 1 Apr 2026) was re-read for the note on its description of the amendments."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, section 1",
+    "quote": "This Act is the Criminal Code Amendment (Deepfake Sexual Material) Act 2024.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-rendered.html",
+    "sha256": "a40369030f03f9f057eba7b17eae19821dc191ddaffb0feb78b48995e7459999",
+    "locator": "page heading",
+    "quote": "Criminal Code Amendment (Deepfake Sexual Material) Act 2024 - Federal Register of Legislation",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, enacting formula",
+    "quote": "The Parliament of Australia enacts:",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 2, title page",
+    "quote": "Criminal Code Amendment (Deepfake Sexual Material) Act 2024 No. 78, 2024",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 2, long title",
+    "quote": "An Act to amend the Criminal Code Act 1995, and for related purposes [Assented to 2 September 2024]",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, section 2 (commencement table)",
+    "quote": "The whole of this Act The day after this Act receives the Royal Assent. 3 September 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 1, register header",
+    "quote": "Criminal Code Amendment (Deepfake Sexual Material) Act 2024 No. 78, 2024 In force Administered by Attorney-General's Department",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, section 2 (commencement table)",
+    "quote": "The whole of this Act The day after this Act receives the Royal Assent. 3 September 2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, enacting formula",
+    "quote": "The Parliament of Australia enacts:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, Schedule 1 item 5 (s 474.17A(1))",
+    "quote": "474.17A  Using a carriage service to transmit sexual material without consent",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, s 474.17A(1)(b)",
+    "quote": "the other person is, or appears to be, 18 years of age or older",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4, s 474.17A(1) penalty and (2)",
+    "quote": "Penalty: Imprisonment for 6 years. (2) For the purposes of subsection (1), it is irrelevant whether the material transmitted: (a) is in an unaltered form; or (b) has been created, or altered in any way, using technology.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4, note to s 474.17A(2)",
+    "quote": "edited or entirely created using digital technology (including artificial intelligence), generating a realistic but false depiction of the person. Examples of such material are “deepfakes”.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4, s 474.17AA(1)",
+    "quote": "3 or more civil penalty orders were made against the person under the Regulatory Powers (Standard Provisions) Act 2014",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 5, s 474.17AA(5)",
+    "quote": "the person was responsible for the creation or alteration of the material. Penalty: Imprisonment for 7 years.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 3, Schedule 1 items 1 and 2",
+    "quote": "Section 473.1 of the Criminal Code (definition of private sexual material) Repeal the definition.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-17/official-print.pdf",
+    "sha256": "a5abb9ac7d9a4965f45d998da0fa6b3edee328c097b50171d937485aab99a3bf",
+    "locator": "page 4, note to s 474.17A(1)",
+    "quote": "For material that relates to a person who is, or appears to be, under 18 years of age, see: (a) the definition of child abuse material",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-02/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "In August 2024, the government amended the Criminal Code Act 1995, including to clarify that offences criminalising the non-consensual sharing of sexually explicit material extend to material that has been created or altered using AI or other technologies.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_in_force": "the commencement table of the Act as made: the whole Act commences the day after Royal Assent, 3 September 2024",
+   "summary": "rewritten from the stored Act: the offence elements, the 6-year and 7-year penalties and both aggravated offences now rest on the text",
+   "safety_topics": "'child safety' removed (the offence covers persons aged 18 or older; minors fall under the child abuse material offences); 'accountability & liability' added for the criminal offences",
+   "notes": "rewritten: commencement now confirmed; other amendments in Schedule 1 and the Senate response reference added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Assented to on 2 September 2024; section 2 commences the whole Act on the day after Royal Assent (3 September 2024), which has passed. The Federal Register of Legislation header shows 'In force' and no later version. 'In force' stands.",
+  "scope_reasoning": "A criminal law amendment that is the operative Australian instrument against AI-generated sexual deepfakes; the existing record has no scope_note and none is added, since the Act is aimed at deepfakes by name.",
+  "date_reasoning": "date_published is the date of Royal Assent (2 September 2024); date_in_force is the commencement date in column 3 of the commencement table."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

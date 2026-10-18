@@ -1,0 +1,344 @@
+{
+ "cand_id": "RO-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "RO-01",
+ "record": {
+  "date_last_updated": "2025-11-26",
+  "summary": "Private members' bill by SOS România senators and deputies that would regulate AI use in Romania. AI in public administration would have to be transparent and periodically audited, with no administrative decisions taken without human intervention; AI could not pronounce court judgments, law-enforcement AI would need certification and AI-based medical decisions validation by a specialist. People would gain rights to an explanation and to human interaction. It bans harmful deepfakes and political profiling without consent, makes platforms label AI content and sets prison terms of two to five years and fines of up to RON 100 million. The Senate rejected it in June 2025.",
+  "notes": "Registered at the Senate on 31 March 2025 (B114) and presented to its Standing Bureau as L140/2025 on 14 May 2025, with the Senate as first chamber. The Senate rejected it on 2 June 2025 (84 for, 40 against, 2 abstentions) after negative opinions from the Legislative Council, the Economic and Social Council, the National Audiovisual Council, ANCOM and every consulted committee, and sent it to the Chamber of Deputies, the decisional chamber, where it was registered as PL-x 184/2025 on 4 June 2025 and sent for report to the Legal Committee and the Committee for Information Technology and Communications. The latter voted by majority to reject it on 16 September 2025, its chairman pointing to Regulation (EU) 2024/1689 and to the National AI Strategy 2024-2027 approved by Government Decision 832/2024; the Chamber received the two committees' rejection report on 26 November 2025, and on 17 October 2026 the bill was waiting to be put on the plenary agenda. It would be an organic law and enter into force 90 days after publication in the Monitorul Oficial. It defines AI as any computer system able to perform cognitive functions such as learning, reasoning and decision-making, and makes AI developers responsible for the impact of their algorithms, with annual independent audits of AI used in decision-making.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Senate's legislative file L140/2025 (stored again 17 Oct 2026; only the page furniture changed since 12 Oct 2026), the initiators' cover letter (Senate PDF) and the minute of the Chamber of Deputies IT and communications committee of 16 September 2025 (cdep.ro PDF). Stored in this run: the Chamber's own file for PL-x 184/2025 (cdep.ro) with its copies of the explanatory memorandum and the bill, and the initiators' text of the bill and the explanatory memorandum from senat.ro. The Chamber file gives the stage 'raport depus; urmeaza sa intre pe ordinea de zi' (report filed, to be put on the agenda) and the rejection report received on 26 November 2025; the committee minute gives the IT committee's rejection vote of 16 September 2025 (version 1 described it only as the start of debate). The summary is now written from the bill text instead of the committee's description. The committees' joint report (cdep.ro, rp184.pdf) could not be stored (the download timed out), so its content is known only from the Chamber's and the Senate's procedure lists. The Chamber file lists several initiators under parties other than SOS România as of October 2026; the record describes them as at filing, when the Senate file lists all of them as SOS. No English version was found. Version 1's statements on Romania's AI Act implementation (the Government memorandum designating ANCOM, ANCOM's statement of 24 July 2026, parliamentary question 6258A and the Commission's list of single points of contact) rested on no stored file and were removed from the notes, as was the claim that this is the only AI-specific bill before Parliament."
+  },
+  "safety_topics": [
+   "accountability & liability",
+   "transparency & labelling",
+   "human oversight",
+   "deepfakes & synthetic media",
+   "public-sector use"
+  ]
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: L140/2025",
+    "quote": "Propunere legislativă privind utilizarea responsabilă a inteligenței artificiale",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: registration numbers",
+    "quote": "Număr de înregistrare Camera Deputaților: PLX184/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-69e1e444f0/2026-10-17/official.html",
+    "sha256": "c93e4ab6b948ef81d7a8d43655724a2341662b42feeed632e4aa39e7049a1151",
+    "locator": "Chamber file heading",
+    "quote": "Pl-x nr. 184/2025 Propunere legislativă privind utilizarea responsabilă a inteligenţei artificiale",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: L140/2025",
+    "quote": "Propunere legislativă privind utilizarea responsabilă a inteligenței artificiale",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: Inițiatori",
+    "quote": "Cerva Nadia-Cosmina - senator SOS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: Inițiatori",
+    "quote": "Caragaţă Florin - deputat SOS",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: Prima cameră",
+    "quote": "Prima cameră: Senat",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: registration numbers",
+    "quote": "Număr de înregistrare Senat: L140/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative, 31-03-2025",
+    "quote": "Înregistrat la Senat pentru dezbatere cu nr.b114",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: registration numbers",
+    "quote": "Număr de înregistrare Camera Deputaților: PLX184/2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-69e1e444f0/2026-10-17/official.html",
+    "sha256": "c93e4ab6b948ef81d7a8d43655724a2341662b42feeed632e4aa39e7049a1151",
+    "locator": "Chamber file: Nr. înregistrare",
+    "quote": "- Camera Deputaţilor: 184/04.06.2025 - Senat: L140/2025",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative",
+    "quote": "31-03-2025 Înregistrat la Senat pentru dezbatere cu nr.b114",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative (CD)",
+    "quote": "26-11-2025 primire raport de respingere de la:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-69e1e444f0/2026-10-17/official.html",
+    "sha256": "c93e4ab6b948ef81d7a8d43655724a2341662b42feeed632e4aa39e7049a1151",
+    "locator": "Chamber file: Derularea procedurii legislative",
+    "quote": "26.11.2025 primire raport de respingere de la:",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-69e1e444f0/2026-10-17/official.html",
+    "sha256": "c93e4ab6b948ef81d7a8d43655724a2341662b42feeed632e4aa39e7049a1151",
+    "locator": "Chamber file: Stadiu",
+    "quote": "Stadiu: raport depus; urmeaza sa intre pe ordinea de zi",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: Stadiu",
+    "quote": "Stadiu: Trimis la Cameră pentru dezbatere",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative (CD)",
+    "quote": "26-11-2025 primire raport de respingere de la:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-12/secondary.pdf",
+    "sha256": "c5d7e96e0552bdf8b15d600ec99c1db4fd26a8602a02c5ca08532ad09c6f0db5",
+    "locator": "page 1",
+    "quote": "Senatul a respins inițiativa legislativă, în ședința din 2 iunie 2025. Camera Deputaților este Cameră decizională.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: Tip inițiativă",
+    "quote": "Tip inițiativă: Propunere legislativă",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-69e1e444f0/2026-10-17/official.html",
+    "sha256": "c93e4ab6b948ef81d7a8d43655724a2341662b42feeed632e4aa39e7049a1151",
+    "locator": "Chamber file: Tip initiativa",
+    "quote": "Tip initiativa: Propunere legislativa",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 1 (Art. 3)",
+    "quote": "Este interzisă utilizarea Al  pentru luarea deciziilor administrative fără  intervenţie umană.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 1 (Art. 4(1))",
+    "quote": "Este interzisă utilizarea Al  pentru pronunţarea hotărârilor judecătoreşti.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 1 (Art. 5(2))",
+    "quote": "Deciziile medicale bazate pe Al trebuie să fie validate de un  medic specialist.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 2 (Art. 7(2))",
+    "quote": "Cetăţenii trebuie să fie informaţi atunci când interacţionează cu un sistem Al şi să aibă opţiunea",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 2 (Art. 8(2))",
+    "quote": "Este interzisă  utilizarea Al pentru profilare politică fără consimţământ explicit.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 2 (Art. 9)",
+    "quote": "Platformele digitale au obligaţia de a eticheta conţinutul generat de Al.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 2 (Art. 11)",
+    "quote": "va fi sancţionată cu o amendă de până la  100.000.000 lei şi cu închisoare de la 2 la 5 ani",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative, 02-06-2025",
+    "quote": "respins de Senat rezultat vot pentru= 84 contra=40 abțineri=2",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative, 02-06-2025",
+    "quote": "respins de Senat rezultat vot pentru= 84 contra=40 abțineri=2",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Derularea procedurii legislative, 14-05-2025",
+    "quote": "cu nr.L140 prezentare în Biroul permanent; Senatul e prima Cameră sesizată",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-12/secondary.pdf",
+    "sha256": "c5d7e96e0552bdf8b15d600ec99c1db4fd26a8602a02c5ca08532ad09c6f0db5",
+    "locator": "page 2",
+    "quote": "Cu majoritate de voturi inițiativa legislativă a fost respinsă.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-12/secondary.pdf",
+    "sha256": "c5d7e96e0552bdf8b15d600ec99c1db4fd26a8602a02c5ca08532ad09c6f0db5",
+    "locator": "page 2",
+    "quote": "Guvernului nr.832/2024 a fost aprobată \"Strategia națională în domeniu inteligenței artificiale",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RO-01/2026-10-17/official.html",
+    "sha256": "1c120c49707643caaaaa16ebf74a2dd4f56642a7f962ecdf63cd05d2d21f2a81",
+    "locator": "Fișă act: Caracterul legii",
+    "quote": "Caracterul legii: Organică",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 2 (Art. 12)",
+    "quote": "Prezenta lege intră în vigoare la 90 de zile de la publicarea În Monitorul Oficial al României.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 1 (Art. 2)",
+    "quote": "orice sistem informatic capabil să îndeplinească funcţii cognitive precum",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-4140391e7b/2026-10-17/official.pdf",
+    "sha256": "a7859fd554c7ba8dec9a836c0a400d96d0ddf8518fbd3fed373273e9a54fe7f6",
+    "locator": "page 1 (Art. 6(2))",
+    "quote": "Orice sistem Al utilizat în procesul decizional trebuie să fie auditat anual de o entitate",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/RO-01/extra-69e1e444f0/2026-10-17/official.html",
+    "sha256": "c93e4ab6b948ef81d7a8d43655724a2341662b42feeed632e4aa39e7049a1151",
+    "locator": "Chamber file: initiators",
+    "quote": "deputati - SOS RO:",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "latest legislative step in the Senate and Chamber files: the Chamber received the committees' rejection report on 26 November 2025 (version 1 had the committee sitting of 16 September 2025)",
+   "summary": "rewritten from the bill text (initiators' version, stored in this run) instead of the committee's one-line description; the status sentence corrected: the Chamber's lead committees reported for rejection (IT committee vote of 16 September 2025, joint report received 26 November 2025), now in the notes; the claim that no decision was recorded by October 2026 removed",
+   "notes": "rewritten from the Senate and Chamber files, the committee minute and the bill (procedure, vote, committee rejection, current stage, entry into force, definition, developer duties); version 1's statements on Romania's AI Act implementation and the 'only AI-specific bill' claim removed (no stored file; listed as leads)",
+   "english_version": "not recorded in version 1; no English version of the bill was found",
+   "verification.note": "rewritten for this recheck",
+   "safety_topics": "'critical infrastructure' replaced: the bill's 'sectoare critice' are public administration, justice and law enforcement, and medicine, not critical infrastructure; 'human oversight' (no administrative decisions without human intervention, human interaction on request), 'deepfakes & synthetic media' (Art. 9) and 'public-sector use' (Art. 3-4) added from the bill"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Senate, as first chamber, rejected the bill on 2 June 2025 and sent it to the Chamber of Deputies, the decisional chamber. The Chamber's IT committee voted to reject it on 16 September 2025 and the Chamber received the joint rejection report of its two lead committees on 26 November 2025. The Chamber's own file (stored 17 October 2026) gives the stage 'raport depus; urmeaza sa intre pe ordinea de zi' (report filed, to be put on the plenary agenda) and shows no plenary vote. A committee report is not a final decision, so the bill is still pending: 'Draft / proposed' with legal force 'Proposed' stands.",
+  "scope_reasoning": "An AI-specific framework bill with transparency, accountability and fundamental-rights measures; pending bills are in scope with no note.",
+  "date_reasoning": "date_published is the registration at the Senate on 31 March 2025, as in version 1. date_last_updated follows the record's existing use of the latest legislative step for this bill."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Strategia națională în domeniul inteligenței artificiale 2024-2027 (Romania's National AI Strategy), approved by Government Decision 832/2024",
+   "url": null,
+   "seen_in": "archive/RO-01/2026-10-12/secondary.pdf (minute of the Chamber IT committee, 16 September 2025, page 2)",
+   "why": "Romania's national AI strategy; not in the register (RO-01 is the only Romanian record). Likely in scope with a scope_note if safety is not its main content."
+  },
+  {
+   "title": "Romanian Government memorandum designating ANCOM as AI Act market surveillance authority and single point of contact, and the national law implementing the AI Act that the designated authorities are drafting",
+   "url": null,
+   "seen_in": "version 1 notes of RO-01 (ANCOM press release of 24 July 2026; not stored)",
+   "why": "Romania's AI Act designation and implementing law; not in the register."
+  }
+ ],
+ "open_questions": []
+}

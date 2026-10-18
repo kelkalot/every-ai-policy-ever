@@ -1,0 +1,53 @@
+{
+ "cand_id": "UA-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "bottom-up approach: voluntary codes of conduct, White Paper, general and sector recommendations",
+   "verdict": "supported",
+   "locator": "Cabinet portal news item"
+  },
+  {
+   "claim": "balance between business interests and protection of citizens' rights",
+   "verdict": "supported",
+   "locator": "news item"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Cabinet portal item of 7 Oct 2023 supports title, date and ministry; roadmap PDF itself not stored. Literal: 'The roadmap for AI regulation in Ukraine will help Ukrainian companies prepare for the adoption of a law analogous to the EU AI Act'. Later-instruments notes rest on the ministry's own page (alt-official). No official English version found."
+}

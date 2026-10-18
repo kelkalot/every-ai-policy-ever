@@ -1,0 +1,56 @@
+{
+ "cand_id": "SK-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Regulation (EU) 2024/1689 added to footnote 26 of Act 56/2018; Articles 36 and 45 cited for authorised bodies",
+   "verdict": "supported",
+   "locator": "Art. I, points 17 and 22"
+  },
+  {
+   "claim": "Fine under Article 99(4)(f) in new section 28(6); report to the Commission in section 29(1)(h)",
+   "verdict": "supported",
+   "locator": "Art. I, points 61 and 69"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Omnibus amendment of the conformity-assessment act; included because it adds Regulation (EU) 2024/1689 to the notified-body regime and sets fines under Article 99 of the AI Act."
+ },
+ "overall": "accept",
+ "note": "Act 318/2025 text confirms number, dates and the AI Act provisions (points 17, 22, 61, 69). Entry into force 1 January 2026. A later Act 88/2026 amends Act 56/2018, not this act, so the status holds. Borderline scope note suggested."
+}

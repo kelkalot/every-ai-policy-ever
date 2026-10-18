@@ -1,0 +1,308 @@
+{
+ "cand_id": "AZ-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AZ-01",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  },
+  "summary": "National AI strategy for 2025–2028, approved by presidential order on 19 March 2025. Its first priority direction is AI governance: identifying national priority sectors and responsible state bodies, a normative legal framework for responsible and ethical AI, rules to identify and prevent personal-data risks in AI systems, and AI standards. Its goals include legal norms and ethical rules for AI, responsible use that protects citizens' rights and data privacy, preventing data bias and use against the interests of the state, society and citizens, reducing the risks of innovative solutions, and protecting national and information security against manipulation and disinformation.",
+  "safety_topics": [
+   "accountability & liability",
+   "public-sector use",
+   "national security & military",
+   "research priorities",
+   "international cooperation"
+  ],
+  "notes": "The order makes the Cabinet of Ministers coordinate and supervise the strategy's measures and report to the President once a year, tasks the State Service for Special Communications and Information Security with analysing information-security risks where state bodies use AI, and has the Center for Analysis of Economic Reforms and Communication monitor and evaluate implementation on the Cabinet's commission. The action plan (section 8) gives the Cabinet, with the Ministry of Digital Development and Transport and other bodies, 2025–2027 to create a normative legal framework for responsible and ethical AI (measure 8.1.3) and to approve rules on identifying and preventing personal-data risks in AI systems (8.1.4), and 2025–2026 to identify national priority sectors for AI and the responsible state bodies (8.1.1). By Order No. 253s of 28 April 2025 the Cabinet asked the Ministry of Digital Development and Transport to submit proposals on measure 8.1.1 by 1 July 2026 and on measures 8.1.3 and 8.1.4 by 1 July 2027, had the Center build a module for monitoring and reporting on the strategy, and set up a working group led by the head of the Cabinet's Office. By Decision No. 226 of 21 July 2026 the Cabinet approved the list of national priority sectors for AI development and the responsible state bodies. A presidential decree of 27 February 2026 created a Digital Development Council, chaired by the First Vice-President, to oversee state programmes and coordinate policy in digitalisation, e-government, AI and innovation and to take measures to improve the legislation.",
+  "scope_note": "Mainly a strategy for AI industry, skills, data and computing infrastructure and public-sector use; included because its first priority direction is AI governance, with a legal framework for responsible and ethical AI and rules on personal-data risks.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the order's page on president.az (stored again 17 Oct 2026; only the page's news list changed) and the strategy PDF linked from president.az (24 pages, stored 12 Oct 2026). The page confirms the title, the date of 19 March 2025, the President's signature and clauses 1-4; the PDF confirms goals 5.1.7 and 5.1.10-5.1.13, priority direction 6.1.1 with measures 6.1.1.2.1-6.1.1.2.5 and action-plan items 8.1.1, 8.1.3 and 8.1.4. Neither prints the order's number. Stored in this run from nk.gov.az: the Cabinet of Ministers' Order No. 253s of 28 April 2025 on implementing the order and its Decision No. 226 of 21 July 2026 approving the list of priority sectors, both of which cite the order as No. 530 of 19 March 2025; and, from mincom.gov.az, a copy of the presidential decree of 27 February 2026 on the Digital Development Council. No English translation of the order or the strategy was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "page heading",
+    "quote": "“Azərbaycan Respublikasının 2025–2028-ci illər üçün süni intellekt Strategiyası”nın təsdiq edilməsi haqqında Azərbaycan Respublikası Prezidentinin Sərəncamı",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b0055fa59/2026-10-17/official.pdf",
+    "sha256": "64039496d70f32481f0a7df2dc83d2eeb47622ca91585486913d826f3b41a0cd",
+    "locator": "page 1, title",
+    "quote": "Prezidentinin 2025-ci il 19 mart tarixli 530 nömrəli Sərəncamının icrasının təmin edilməsi barədə",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, clause 1",
+    "quote": "1. “Azərbaycan Respublikasının 2025–2028-ci illər üçün süni intellekt Strategiyası” (bundan sonra – Strategiya) təsdiq edilsin",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 1",
+    "quote": "Azərbaycan Respublikasının 2025–2028-ci illər üçün süni intellekt Strategiyası",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, signature",
+    "quote": "İlham Əliyev Azərbaycan Respublikasının Prezidenti",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, clause 2.1",
+    "quote": "2.1. bu Sərəncamın 1-ci hissəsi ilə təsdiq edilən Strategiyada nəzərdə tutulmuş tədbirlərin əlaqələndirilməsini və icrasına nəzarəti həyata keçirsin",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, place and date",
+    "quote": "Bakı şəhəri, 19 mart 2025-ci il",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, clause 1",
+    "quote": "1. “Azərbaycan Respublikasının 2025–2028-ci illər üçün süni intellekt Strategiyası” (bundan sonra – Strategiya) təsdiq edilsin (əlavə olunur).",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, clause 2.2",
+    "quote": "2.2. Strategiyada nəzərdə tutulmuş tədbirlərin icrası barədə ildə bir dəfə Azərbaycan Respublikasının Prezidentinə məlumat versin",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 11, 6.1.1",
+    "quote": "6.1.1. Süni intellektin idarə edilməsinin inkişafı və təkmilləşdirilməsi",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 11, 6.1.1.2.3",
+    "quote": "6.1.1.2.3. məsuliyyətli v ə etik süni intellekt üzr ə normativ hüquqi bazanın yaradılması",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 11, 6.1.1.2.4",
+    "quote": "6.1.1.2.4. süni intellekt sisteml ərinin dizaynı, t ətbiqi v ə istifadəsi zamanı fərdi məlumatların mühafizəsi ilə bağlı risklərin müəyyən edilməsi və qarşısının alınması qaydalarının təsdiq edilməsi",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 10, 5.1.7",
+    "quote": "5.1.7. ölkə qanunvericiliyində süni intellektin əsaslarının və normalarının işlənilməsi və süni intellektdən istifadə üçün etik prinsiplər və qaydaların formalaşdırılması",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 10, 5.1.10",
+    "quote": "5.1.10. süni intellektdən məsuliyyətli istifadənin təmin edilməsi və vətəndaşların hüquqlarının və məlumatların məxfiliyinin qorunması",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 10, 5.1.11",
+    "quote": "5.1.11. süni intellektin məlumat qərəzi törətməməsi, ondan dövlətin, cəmiyyətin və vətəndaşların maraqlarına zidd məqsədlər üçün istifadənin qarşısının alınması",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 10, 5.1.13",
+    "quote": "5.1.13. milli təhlükəsizliyin , o cümlədən informasiya təhlükəsizliyinin, informasiyanın manipulyasiyası nın, habelə dezinformasiya hücumlarının qarşısının alınması",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, clause 3",
+    "quote": "3. Azərbaycan Respublikasının Xüsusi Rabitə və İnformasiya Təhlükəsizliyi Dövlət Xidməti dövlət orqanlarında (qurumlarında) süni intellektin tətbiq edildiyi sahələrdə informasiya təhlükəsizliyi risklərinin təhlilini həyata keçirsin",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-17/official.html",
+    "sha256": "2f11f6229acd5fdeb800260629698209a6890ca2f731a7084269c1d965ef8b81",
+    "locator": "order text, clause 4",
+    "quote": "4. Strategiyada nəzərdə tutulmuş tədbirlərin icrasının monitorinqi və qiymətləndirilməsi Azərbaycan Respublikası Nazirlər Kabinetinin sifarişi əsasında İqtisadi İslahatların Təhlili və Kommunikasiya Mərkəzi tərəfindən həyata keçirilsin.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 17, action plan 8.1.3",
+    "quote": "8.1.3. Məsuliyyətli və etik süni intellekt üzr ə normativ hüquqi bazanın yaradılması NK RİNN, İN, DTX, XRİTDX 2025– 2027",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AZ-01/2026-10-12/secondary.pdf",
+    "sha256": "aafab72084ef1cb64e005c76e0e1ee02c6b41e2727b0077e4ff69511eaf397ee",
+    "locator": "page 23, acronyms",
+    "quote": "RİNN – Azərbaycan Respublikasının Rəqəmsal İnkişaf və Nəqliyyat Nazirliyi",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b0055fa59/2026-10-17/official.pdf",
+    "sha256": "64039496d70f32481f0a7df2dc83d2eeb47622ca91585486913d826f3b41a0cd",
+    "locator": "page 1, point 1.2",
+    "quote": "Tədbirlər Planının 8.1.3-cü yarımbəndinin icrası ilə bağlı təkliflərini 2027-ci il iyulun 1-dək Azərbaycan Respublikasının Nazirlər Kabinetinə təqdim etsin",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b0055fa59/2026-10-17/official.pdf",
+    "sha256": "64039496d70f32481f0a7df2dc83d2eeb47622ca91585486913d826f3b41a0cd",
+    "locator": "page 1, point 1.1",
+    "quote": "8.1.1-ci yarımb əndinin icrası il ə bağlı təkliflərini 202 6-cı il iyulun 1 -dək",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b0055fa59/2026-10-17/official.pdf",
+    "sha256": "64039496d70f32481f0a7df2dc83d2eeb47622ca91585486913d826f3b41a0cd",
+    "locator": "page 3, signature",
+    "quote": "Bakı şəhəri, “ 28 ” “ aprel ” 2025-ci il № 253s",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b3eb6a3aa/2026-10-17/official.pdf",
+    "sha256": "f873a6ff4d229ba1cab984611247f3f4e97b489fccb9dbe1cf2fb0d94782551f",
+    "locator": "page 1",
+    "quote": "“Süni intellektin inkişafı üçün milli prioritet sektorların və sektor üzrə məsul dövlət orqanlarının (qurumlarının) siyahısı” təsdiq edilsin",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b3eb6a3aa/2026-10-17/official.pdf",
+    "sha256": "f873a6ff4d229ba1cab984611247f3f4e97b489fccb9dbe1cf2fb0d94782551f",
+    "locator": "page 1, signature",
+    "quote": "Bakı şəhəri, “ 21 ” “ iyul ” 2026-cı il № 226",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-40cf838676/2026-10-17/official.pdf",
+    "sha256": "9e239e26754babb989057a089e08143d894e8bb8380f076f8eda7a8c07f088d6",
+    "locator": "page 1, point 1",
+    "quote": "1. Azərbaycan Respublikasının Rəqəmsal İnkişaf Şurası (bundan sonra – Şura) yaradılsın.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-40cf838676/2026-10-17/official.pdf",
+    "sha256": "9e239e26754babb989057a089e08143d894e8bb8380f076f8eda7a8c07f088d6",
+    "locator": "page 1, point 2",
+    "quote": "Şuranın sədri Azərbaycan Respublikasının Birinci vitse-prezidenti",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-40cf838676/2026-10-17/official.pdf",
+    "sha256": "9e239e26754babb989057a089e08143d894e8bb8380f076f8eda7a8c07f088d6",
+    "locator": "page 1, signature",
+    "quote": "Bakı şəhəri, 27 fevral 2026-cı il",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b0055fa59/2026-10-17/official.pdf",
+    "sha256": "64039496d70f32481f0a7df2dc83d2eeb47622ca91585486913d826f3b41a0cd",
+    "locator": "page 2, point 2.1",
+    "quote": "2.1. Azərbaycan Respublikası Prezidentinin 2025-ci il 19 mart tarixli 530 nömrəli Sərəncamı",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AZ-01/extra-6b3eb6a3aa/2026-10-17/official.pdf",
+    "sha256": "f873a6ff4d229ba1cab984611247f3f4e97b489fccb9dbe1cf2fb0d94782551f",
+    "locator": "page 1, preamble",
+    "quote": "19 mart tarixli 530 nömrəli Sərəncamı ilə təsdiq edilmiş “Azərbaycan Respublikasının 2025–2028-ci illər üçün süni intellekt Strategiyası”",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "no English translation of the order or the strategy was found",
+   "summary": "rewritten from the strategy text: version 1 called the analysis items on page 9 (legislation, data-privacy and cybersecurity laws, public awareness of risks) 'goals'; the goals in section 5 with safety content (5.1.7, 5.1.10-5.1.13) are now named; 'first national AI strategy' dropped (not in the text); the order's information-security clause moved to the notes",
+   "safety_topics": "'national security & military' added for goal 5.1.13 (national and information security, manipulation and disinformation) and clause 3 of the order",
+   "notes": "rewritten from the stored order and action plan, then extended from the Cabinet documents and the February 2026 decree stored in this run (Order No. 253s, Decision No. 226, Digital Development Council); the remark on regional grouping removed (it describes the register, not the instrument)",
+   "scope_note": "added: mainly a development strategy whose first priority direction is AI governance",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force",
+   "official_identifier"
+  ],
+  "status_reasoning": "The order of 19 March 2025 approves the strategy for 2025–2028 and sets annual reporting; the period runs to 2028 and no stored file shows it replaced. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A national AI strategy whose main content is development (industry, skills, data, computing, public-sector use), with AI governance as its first priority direction; borderline, included with a scope_note as for NO-01, PT-01 and VN-01."
+ },
+ "extra_urls": [
+  {
+   "url": "https://nk.gov.az/uploads/doc/docs/6811d193d81e5.pdf",
+   "reason": "Cabinet of Ministers order on implementing Presidential Order No. 530 of 19 March 2025 (found by a web search and opened, plain-text PDF on nk.gov.az): it cites the order as '2025-ci il 19 mart tarixli 530 nömrəli Sərəncamı', which would support official_identifier and the number in the title, and assigns action-plan items 8.1.1, 8.1.3 and 8.1.4 with deadlines (notes). (stored in this run)"
+  },
+  {
+   "url": "https://nk.gov.az/uploads/doc/docs/6a5f5bf618cd0.pdf",
+   "reason": "Cabinet of Ministers decision approving the list of national priority sectors for AI development and the responsible state bodies under action-plan item 8.1.1 (plain-text PDF on nk.gov.az); it also cites Order No. 530 of 19 March 2025. Supports version 1's note that such a decision followed. (stored in this run)"
+  },
+  {
+   "url": "https://mincom.gov.az/storage/pages/3990/azerbaycan-respublikasinda-reqemsallasma-elektron-hokumet-suni-intellekt-ve-innovasiya-sahelerinde-fealiyyetin-tekmillesdirilmesi-ile-bagli-bezi-tedbirler-haqqinda.pdf",
+   "reason": "Copy on a government site (mincom.gov.az) of the presidential decree of 27 February 2026 on digitalisation, e-government, AI and innovation, which creates the Digital Development Council chaired by the First Vice-President; supports version 1's sentence on it in the notes. (stored in this run)"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Decision of the Cabinet of Ministers of Azerbaijan approving the list of national priority sectors for AI development and the responsible state bodies (21 July 2026)",
+   "url": "https://nk.gov.az/uploads/doc/docs/6a5f5bf618cd0.pdf",
+   "note": "Implements action-plan item 8.1.1 of the strategy; probably a strategy-implementation act with little safety content. Not in the register."
+  },
+  {
+   "title": "Presidential decree of 27 February 2026 on improving activity in digitalisation, e-government, AI and innovation (Digital Development Council), and the 2026-2028 action plan on accelerating digital development",
+   "url": "https://mincom.gov.az/storage/pages/3994/azerbaycan-respublikasinda-reqemsal-inkisafin-suretlendirilmesine-dair-20262028-ci-iller-ucun-fealiyyet-planinin-tesdiq-edilmesi-haqqinda.pdf",
+   "note": "Seen in search results on mincom.gov.az; the action plan reportedly covers AI and cybersecurity. Not in the register."
+  },
+  {
+   "title": "Azerbaijan state standard for artificial intelligence management systems",
+   "url": "https://en.apa.az/ict/azerbaijan-adopts-state-standard-for-artificial-intelligence-management-systems-473871",
+   "note": "News report seen in search results: a state standard adopted to implement an item of the strategy's action plan. Not in the register."
+  }
+ ],
+ "open_questions": []
+}

@@ -1,0 +1,69 @@
+{
+ "cand_id": "KG-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "KG-01",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "PARTIAL. Recheck of 17 Oct 2026: the Code could not be stored. The copies of the Ministry of Justice central register of legal acts (cbd.minjust.gov.kg) stored on 12 Oct 2026 are the register's JavaScript application shell, whose text is only the page title 'Цифровой Кодекс Кыргызской Республики от 31 июля 2025 года'; the browser retry then failed with an HTTP/2 protocol error, and on 17 Oct 2026 the site refused the archiver's connection (TLS protocol version). The number 178, Law No. 179 and its six-month rule, the entry-into-force date, the status, the summary and the notes rest on version 1, which read the Code and the register's metadata through the site's data interface without storing them. The September 2026 draft ethics regulation in the notes rests on an Economist.kg report that is not stored. No English translation of the Code was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/KG-01/2026-10-12/official.html",
+    "sha256": "ed7eb871d2061cf3a0bac825cbe70bda87a17304765a47e4ea5cec2b6a6593b0",
+    "locator": "page title",
+    "quote": "Цифровой Кодекс Кыргызской Республики",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/KG-01/2026-10-12/official.html",
+    "sha256": "ed7eb871d2061cf3a0bac825cbe70bda87a17304765a47e4ea5cec2b6a6593b0",
+    "locator": "page title",
+    "quote": "Цифровой Кодекс Кыргызской Республики",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/KG-01/2026-10-12/official.html",
+    "sha256": "ed7eb871d2061cf3a0bac825cbe70bda87a17304765a47e4ea5cec2b6a6593b0",
+    "locator": "page title",
+    "quote": "Цифровой Кодекс Кыргызской Республики от 31 июля 2025 года",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "no English translation of the Code was found in a search",
+   "verification.note": "rewritten: nothing beyond the Code's name and date could be stored"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "date_published"
+  ],
+  "status_reasoning": "Not settled by any stored file. The stored page title shows only the Code's name and the date 31 July 2025; the six-month rule of Law No. 179 and the register's entry-into-force date of 6 February 2026 are in no stored file. The published status 'In force' is left as it is.",
+  "scope_reasoning": "A binding national code whose Chapter 23 regulates AI systems (danger assessment, increased-danger systems, prohibited use); in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Resolution of the Cabinet of Ministers of the Kyrgyz Republic No. 770 of 2 December 2025 on requirements for assessing the danger of AI systems and for increased-danger AI systems",
+   "url": "https://economist.kg/novosti/2025/12/05/kyrghyzstan-zakriepil-triebovaniia-k-sistiemam-ii-s-vysokoi-stiepieniu-opasnosti/",
+   "note": "Press report (Economist.kg, 5 December 2025): criteria for the danger-assessment methodology, risk management, system characteristics, data quality and technical documentation under the Digital Code; appears to be the Article 194(4) act that KG-02's notes could not locate. Not in the register; the official text is on cbd.minjust.gov.kg, which the archiver cannot reach now."
+  }
+ ],
+ "open_questions": [
+  "status, official_identifier, date_in_force, the summary and the notes have no stored evidence: cbd.minjust.gov.kg serves a JavaScript application whose stored text is only the page title, and on 17 Oct 2026 it refused the archiver's TLS connection. They are left as published. The Code (edition 35412) and Law No. 179 need to be stored by a browser retry or provided by a person (AGENTS.md section 7.8).",
+  "The notes' sentence on the September 2026 draft Regulation on AI ethics ends with '(press report)' and rests on an unstored Economist.kg article; it should become a lead or be removed when the record is next changed."
+ ]
+}

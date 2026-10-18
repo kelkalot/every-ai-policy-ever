@@ -1,0 +1,49 @@
+{
+ "cand_id": "GR-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "quote is weak but shows the report is advisory and does not contradict the value"
+  },
+  "legal_force": {
+   "verdict": "supported",
+   "why": "quote is weak but shows the report is advisory and does not contradict the value"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Proposal 5.1 establishes a National AI Supervisory Authority",
+   "verdict": "supported",
+   "locator": "page 83"
+  },
+  {
+   "claim": "Proposal 5.6 regulation to preserve information integrity",
+   "verdict": "supported",
+   "locator": "page 89"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Report title, authors and 25 November 2024 date are supported (the date only by the study page, alt-official). Status and legal_force quotes are weak but the values are not contradicted. The note on Law 5321/2026 rests on GR-01's stored gazette."
+}

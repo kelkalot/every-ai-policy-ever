@@ -1,0 +1,220 @@
+{
+ "cand_id": "LT-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "LT-01",
+ "record": {
+  "date_last_updated": null,
+  "summary": "Amendment of Lithuania's Law on Technology and Innovation that adds Regulation (EU) 2024/1689 to the law's annex of implemented EU acts and makes the AI Act's definitions apply to the law's other terms. The institution the Government authorises to implement technology and innovation policy is to act as national competent authority and notifying authority under Articles 28(1) and 70(1) of the AI Act from 2 August 2025, and to set up and supervise a limited AI regulatory sandbox under Article 57(1) from 1 January 2026, both under procedures set by the Minister of Economy and Innovation. It sets no penalties and names no market surveillance authority.",
+  "notes": "Adopted by the Seimas on 14 January 2025, signed by President Gitanas Nausėda and published in the Register of Legal Acts (TAR) on 22 January 2025. In force from 1 April 2025; Article 9(4) and (5), which set deadlines for implementing acts, from 23 January 2025; the notifying-authority provision (Article 5(4)) from 2 August 2025; and the sandbox provision (Article 5(5)) from 1 January 2026. The Government and the Minister of Economy and Innovation had to adopt the implementing acts by 31 March 2025, those for the notifying-authority provision by 1 August 2025 and those for the sandbox by 31 December 2025. The law also changes the Law on Technology and Innovation's rules on state support for innovative businesses, experimental development, science and technology parks and national programmes.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the e-seimas record page and the e-seimas text of Law XV-105 (both stored 12 Oct 2026). They confirm the title, number, adoption on 14 January 2025, publication in TAR on 22 January 2025 (No. 715), the staggered entry into force, the notifying-authority and sandbox provisions, the annex and that the law has no amendments or consolidated versions. date_last_updated was 1 January 2026, the commencement of the sandbox provision; a partial commencement is not a new version, so it moved to the notes and the field is empty. The identification of the authorised institution as the Innovation Agency, the content of the companion law XV-106, the Commission's list of single points of contact and the 2026 government draft implementing law rested on regulations.ai or on pages that were not stored, and were removed; the Ministry of the Economy and Innovation's English news item on the adoption, requested to name the authorised institution, could not be stored (eimin.lrv.lt answered HTTP 403). No English version of the law was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record heading",
+    "quote": "Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 1, 2, 11, 13, 14, 17, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Ryšys su ES teisės aktais",
+    "quote": "Ryšys su ES teisės aktais: Reglamentas 2024/1689",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record heading",
+    "quote": "Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 1, 2, 11, 13, 14, 17, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Priėmė",
+    "quote": "Priėmė: Lietuvos Respublikos Seimas",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Dokumento Nr.",
+    "quote": "Dokumento Nr.: XV-105",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Paskelbta",
+    "quote": "Paskelbta: TAR, 2025-01-22, Nr. 715",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Priėmimo data",
+    "quote": "Priėmimo data: 2025-01-14",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "law text heading",
+    "quote": "2025 m. sausio 14 d. Nr. XV-105",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Chronologija",
+    "quote": "Įsigalioja 2025-04-01",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "Article 9(1)",
+    "quote": "Šis įstatymas, išskyrus 5 straipsnio 4 ir 5 dalis bei šio straipsnio 4 ir 5 dalis, įsigalioja 2025 m. balandžio 1 d.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Chronologija",
+    "quote": "Galioja Chronologija",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Chronologija",
+    "quote": "Įstatymo 5 straipsnio 5 dalis įsigalioja 2026-01-01.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Rūšis",
+    "quote": "Rūšis: Įstatymas",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "Article 5(4) (new Article 14(2)(12-2))",
+    "quote": "pagal Reglamento (ES) 2024/1689 28 straipsnio 1 dalį ir 70 straipsnio 1 dalį atlieka nacionalinės kompetentingos institucijos – notifikuojančiosios institucijos – funkcijas",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "Article 5(5) (new Article 14(2)(12-3))",
+    "quote": "pagal Reglamento (ES) 2024/1689 57 straipsnio 1 dalį sukuria apribotą bandomąją dirbtinio intelekto reglamentavimo aplinką ir kontroliuoja šios aplinkos veikimą ekonomikos ir inovacijų ministro nustatyta tvarka",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "Article 4 (new Article 13)",
+    "quote": "įgyvendina Vyriausybės įgaliota institucija (toliau – valstybės technologijų ir inovacijų politiką įgyvendinanti institucija)",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "Article 2 (Article 2(17))",
+    "quote": "Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2024/1689",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/LT-01/2026-10-12/official.html",
+    "sha256": "2be8cf5fef5fecc28226994cca88a45c6e8c97343a68b6846b9e83cda5afc014",
+    "locator": "e-seimas record: Chronologija",
+    "quote": "Įsigalioja 2025-04-01 (Įstatymo 9 straipsnio 4 ir 5 dalys įsigalioja 2025-01-23;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "Article 9(5)",
+    "quote": "Ekonomikos ir inovacijų ministras iki 2025 m. rugpjūčio 1 d. priima šio įstatymo 5 straipsnio 4 dalies ir iki 2025 m. gruodžio 31 d. – šio įstatymo 5 straipsnio 5 dalies įgyvendinamuosius teisės aktus.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/LT-01/2026-10-12/secondary.html",
+    "sha256": "e68d51a298f47edd902dc6b51f0cbbd18d1de367b80b54e5f7f891e8b9e95006",
+    "locator": "signature",
+    "quote": "Respublikos Prezidentas Gitanas Nausėda",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "1 January 2026 is the commencement of the sandbox provision (Article 9(3)), a partial commencement, which belongs in the notes; the e-seimas record shows no amendment and no consolidated version of XV-105, so there is no later version",
+   "summary": "the hedge 'according to secondary descriptions' and the unsupported 'Innovation Agency' and 'first Lithuanian legislation' removed; the authorised institution described as the law defines it (Article 13); the notifying authority rendered as the law words it ('national competent authority - notifying authority')",
+   "notes": "the staggered dates and implementing-act deadlines kept from the stored text; XV-106, the Commission's list and the 2026 draft implementing law removed (no stored file; listed as leads); the process remark 'could not be confirmed' removed from the notes",
+   "english_version": "not recorded in version 1; no English version of the law was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 9: the law is in force from 1 April 2025, Article 9(4)-(5) from 23 January 2025, Article 5(4) from 2 August 2025 and Article 5(5) from 1 January 2026. All these dates are before today (17 October 2026), and e-seimas marks the act 'Galioja' (valid) with no amendments. 'In force' stands.",
+  "scope_reasoning": "An AI Act implementing amendment that designates the national competent and notifying authority and the AI regulatory sandbox; in scope with no note.",
+  "date_reasoning": "date_published is the adoption on 14 January 2025; date_in_force the general commencement on 1 April 2025; the later commencements are in the notes."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Law No. XV-106 of 14 January 2025 amending the Law on Information Society Services of Lithuania (companion to XV-105; reportedly ties the Communications Regulatory Authority to AI Act market surveillance)",
+   "url": null,
+   "seen_in": "version 1 notes of LT-01 (regulations.ai; not stored)",
+   "why": "Lithuania's second AI Act implementing law of the same date; not in the register."
+  },
+  {
+   "title": "Draft Law on the implementation of the EU Artificial Intelligence Act (Lithuania), cleared by the Government in May 2026, with amendments to the Law on Technology and Innovation, the information society law and the Bank of Lithuania law",
+   "url": null,
+   "seen_in": "version 1 notes of LT-01 (lrv.lt; not stored)",
+   "why": "Lithuania's general AI Act implementing bill; not in the register. Check its registration in the Seimas."
+  }
+ ],
+ "open_questions": [
+  "Which institution the Government has authorised to implement technology and innovation policy, and so acts as the AI Act notifying authority and runs the sandbox, is not named in the stored files (version 1 named the Innovation Agency from a secondary source); the ministry's news item that may name it could not be stored."
+ ]
+}

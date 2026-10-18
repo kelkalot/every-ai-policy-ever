@@ -1,0 +1,50 @@
+{
+ "cand_id": "NZ-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "voluntary resource for businesses incl. sole traders and non-profits",
+   "verdict": "supported",
+   "locator": "PDF page 4"
+  },
+  {
+   "claim": "risks to cybersecurity, privacy, human rights, workplace culture, environment, IP, physical safety",
+   "verdict": "supported",
+   "locator": "PDF page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Stored 43-page PDF from mbie.govt.nz supports title, July 2025 (cover and ISBN page), voluntary status, MBIE authorship with the Government Chief Digital Office."
+}

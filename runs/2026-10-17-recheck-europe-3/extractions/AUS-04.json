@@ -1,0 +1,234 @@
+{
+ "cand_id": "AUS-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-04",
+ "record": {
+  "notes": "Published in September 2024; consultation ran from 5 September to 4 October 2024, and public responses were published. The paper followed the government's interim response to the Safe and Responsible AI in Australia discussion paper, and its guardrails were consistent with the Voluntary AI Safety Standard released for businesses in the meantime. The government later announced that it will not proceed at this time with the proposals to introduce mandatory guardrails; feedback on the paper informed the National AI Plan of 2 December 2025, which builds on existing, largely technology-neutral legal frameworks, with regulators keeping responsibility for AI harms in their domains, and establishes an AI Safety Institute.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the DISR consultation hub page as rendered in a browser (stored 11 Oct 2026) and as printed to PDF (stored again 17 Oct 2026, same text): title, department, consultation dates, the questions consulted on and the update that the Australian Government will not proceed at this time with mandatory guardrails. The plain download of the page is a JavaScript shell. Stored in this run: the proposals paper (September 2024), linked from the consultation page but hosted on a generic cloud storage host (storage.googleapis.com), so its quotes count as secondary; and DISR's National AI Plan page and PDF (2 December 2025). The consultation page gives no date for the decision not to proceed and the Plan does not mention the guardrails, so date_last_updated stays empty; the earlier notes' statement that it used the National AI Plan release date was removed."
+  },
+  "summary": "Consultation paper proposing 10 mandatory guardrails for organisations developing or deploying AI in high-risk settings: accountability processes, risk management, data governance, testing and monitoring, human oversight, informing end-users, ways to challenge AI outcomes, supply-chain transparency, record-keeping and conformity assessment. It sought views on principles for defining high-risk AI and their application to general-purpose AI models, and on 3 regulatory options: adapting existing frameworks, framework legislation, or a new cross-economy AI Act."
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "page title",
+    "quote": "Introducing mandatory guardrails for AI in high-risk settings: proposals paper - Department of Industry, Science and Resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 1, cover",
+    "quote": "Proposals paper for introducing mandatory guardrails for AI in high-risk settings September 2024",
+    "source_kind": "secondary"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "page title",
+    "quote": "Introducing mandatory guardrails for AI in high-risk settings: proposals paper - Department of Industry, Science and Resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 2, copyright notice",
+    "quote": "Content contained herein should be attributed as Proposals Paper for Introducing Mandatory Guardrails for AI in High-Risk Settings, Australian Government Department of Industry, Science and Resources.",
+    "source_kind": "secondary"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Timeline",
+    "quote": "Opened closed 5 September 2024 Closed closed 4 October 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-04/2026-10-17/official-print.pdf",
+    "sha256": "23a44ffbf40680fd30057cc178f9c0f552862da7d71915c37e9f4a015b88ce1c",
+    "locator": "page 1, Timeline",
+    "quote": "Opened 5 September 2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Update",
+    "quote": "The Australian Government will not proceed at this time with previous proposals to introduce mandatory guardrails for AI development and deployment. Feedback on this proposals paper informed development of the National AI Plan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-04/2026-10-17/official-print.pdf",
+    "sha256": "23a44ffbf40680fd30057cc178f9c0f552862da7d71915c37e9f4a015b88ce1c",
+    "locator": "page 1, Update",
+    "quote": "The Australian Government will not proceed at this time with previous proposals to introduce mandatory guardrails for AI development and deployment.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Overview",
+    "quote": "We want your views on: the proposed guardrails how we’re proposing to define high-risk AI regulatory options for mandating the guardrails.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 37, Proposed mandatory guardrails for high-risk AI at a glance",
+    "quote": "Organisations developing or deploying high-risk AI systems are required to: 1. Establish, implement and publish an accountability process including governance, internal capability and a strategy for regulatory compliance",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 37",
+    "quote": "3. Protect AI systems, and implement data governance measures to manage data quality and provenance",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 37",
+    "quote": "7. Establish processes for people impacted by AI systems to challenge use or outcomes",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 37",
+    "quote": "10. Undertake conformity assessments to demonstrate and certify compliance with the guardrails",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 4, Executive summary",
+    "quote": "Defining high-risk AI – the proposed principles for determining high-risk AI settings and their potential application to general-purpose AI (GPAI) models.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 4, Executive summary",
+    "quote": "Option 1 – Domain specific approach – adapting existing regulatory frameworks to include the proposed mandatory guardrails",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 4, Executive summary",
+    "quote": "Option 3 – Whole of economy approach – introducing a new cross-economy AI Act.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Overview",
+    "quote": "We want your views on: the proposed guardrails how we’re proposing to define high-risk AI regulatory options for mandating the guardrails.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Overview",
+    "quote": "In the Australian Government’s interim response to the Safe and Responsible AI in Australia discussion paper, we committed to developing a regulatory environment that builds community trust and promotes AI adoption.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Timeline",
+    "quote": "Feedback published closed Read public responses",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-04/2026-10-11/official-rendered.html",
+    "sha256": "dc0dd359d0e4eac1825e82b8db73cd146c77dd5d43e6a60178024a151cd4ba97",
+    "locator": "Update",
+    "quote": "The Australian Government will not proceed at this time with previous proposals to introduce mandatory guardrails for AI development and deployment. Feedback on this proposals paper informed development of the National AI Plan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-1d3601cb57/2026-10-17/official.pdf",
+    "sha256": "96438ff360b4b564c983f6a1a532138a4449338e4f8e72a9adcd4b87f70c3116",
+    "locator": "page 37",
+    "quote": "To support businesses to develop and deploy AI safely and responsibly while the Australian Government considers options for mandatory guardrails, a Voluntary AI Safety Standard has been developed.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "page details",
+    "quote": "National AI Plan Date published: 2 December 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Keep Australians Safe",
+    "quote": "Agencies and regulators will retain responsibility for identifying, assessing, and addressing potential AI-related harms within their respective policy and regulatory domains.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Action 7: Mitigate harms",
+    "quote": "Australia has strong existing, largely technology-neutral legal frameworks, including sector-specific guidance and standards, that can apply to AI and other emerging technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-04/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Keep Australians Safe",
+    "quote": "To support this approach, the government is establishing an AI Safety Institute (AISI).",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored proposals paper: the 10 proposed guardrails, the principles for defining high-risk AI and their application to general-purpose AI, and the 3 regulatory options",
+   "notes": "rewritten from the stored consultation page, the paper and the National AI Plan: dates, the interim response it followed, the link to the Voluntary AI Safety Standard and the outcome; the sentence on date_last_updated contradicted the record (the field is empty)",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The consultation page's update says the Australian Government 'will not proceed at this time' with the proposals to introduce mandatory guardrails, and the timeline marks 'Outcomes published' as the current stage. The proposal was not pursued, so 'Revoked / withdrawn' stands, with legal_force 'Proposed'.",
+  "scope_reasoning": "A government consultation paper proposing mandatory AI guardrails for high-risk settings; in scope with no note as a proposal that was not pursued.",
+  "date_reasoning": "date_published stays 5 September 2024, the day the consultation on the paper opened; the paper itself is dated 'September 2024'. No stored file gives a date for the decision not to proceed, so date_last_updated stays null."
+ },
+ "extra_urls": [
+  {
+   "url": "https://storage.googleapis.com/converlens-au-industry/industry/p/prj2f6f02ebfe6a8190c7bdc/page/proposals_paper_for_introducing_mandatory_guardrails_for_ai_in_high_risk_settings.pdf",
+   "reason": "the proposals paper itself, linked from the stored consultation page; stored in this run, for the summary and the notes"
+  },
+  {
+   "url": "https://www.industry.gov.au/publications/national-ai-plan",
+   "reason": "the National AI Plan page linked from the consultation update; stored in this run with the Plan PDF, for the notes"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

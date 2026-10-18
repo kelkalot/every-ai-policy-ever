@@ -1,0 +1,410 @@
+{
+ "cand_id": "UZ-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "UZ-01",
+ "record": {
+  "original_title": "Сунъий интеллект технологияларини 2030 йилга қадар ривожлантириш стратегиясини тасдиқлаш тўғрисида / Об утверждении Стратегии развития технологий искусственного интеллекта до 2030 года",
+  "date_last_updated": "2026-07-25",
+  "summary": "Presidential resolution approving Uzbekistan's strategy for AI technologies to 2030, within the Digital Uzbekistan 2030 strategy. Beside economic targets (AI-based software and services worth USD 1.5 billion, 10% of services on the public-services portal AI-based), it sets a regulatory agenda: a legal framework for AI, security and ethics requirements with ethical rules for developing and applying AI (draft legal act due December 2025), better rules on data protection and security, and harmonisation of nine national AI standards with international ones. A new Center for the Development of AI and the Digital Economy examines whether information systems and software are built on AI.",
+  "safety_topics": [
+   "international cooperation",
+   "public-sector use",
+   "research priorities"
+  ],
+  "notes": "Signed on 14 October 2024 and in force from 17 October 2024. The number is given as PQ-358 by the Ministry of Digital Technologies and as RP-358 in the English translation on lex.uz. The Minister of Digital Technologies is responsible for organising implementation and the Prime Minister oversees it; the Coordination Commission for the Digital Uzbekistan 2030 strategy reviews the priority AI projects. Presidential decrees amended the resolution: UP-189 of 22 October 2025 (loan terms, the Center's tasks, a restated 2024-2026 action plan), UP-223 of 21 November 2025 (the big-data list) and UP-141 of 24 July 2026 (targets, now 20 AI research laboratories; half-yearly monitoring by the Ministry of Digital Technologies; new chapters on monitoring and evaluation). lex.uz marks the Russian text of the Strategy, the action plan and the amendments as unofficial translations. Law ZRU-1115 of 21 January 2026 later added a definition of AI and general rules on its use to the Law on Informatization.",
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://lex.uz/uz/docs/7159258",
+   "by": "National Legal Information Centre \"Adolat\" under the Ministry of Justice of the Republic of Uzbekistan (lex.uz), marked as an unofficial translation"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the lex.uz English translation (document 7159258, stored 11 Oct 2026) and the Ministry of Digital Technologies release on gov.uz (stored again 17 Oct 2026), and stored on 17 Oct 2026 the official Uzbek text in its current edition (lex.uz document 7158604), the Russian text (7158606), the card of Decree UP-141 (8352898) and Decree UP-189 (7790236). The Uzbek text confirms the title, number, signature, entry into force on 17 October 2024, the editions of 27 October 2025, 22 November 2025 and 25 July 2026 with their amending decrees, and the provisions in the summary; the summary now follows the current Uzbek edition. The English translation on lex.uz renders the original 2024 text (for example 10, not 20, research laboratories). The archiver flagged the new lex.uz pages for review because the page title is short; their text is this resolution. The sentence on Law ZRU-1115 rests on the stored lex.uz text of that law (UZ-02)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "document heading",
+    "quote": "On the approval of the Strategy for the Development of Artificial Intelligence Technologies until 2030",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "document card",
+    "quote": "Resolution of the President of the Republic of Uzbekistan, от 14.10.2024 г. № RP-358",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document card",
+    "quote": "Ўзбекистон Республикаси Президентининг қарори, 14.10.2024 йилдаги ПҚ-358-сон",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "signature",
+    "quote": "President of the Republic Uzbekistan SH. MIRZIYOYEV",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "signature",
+    "quote": "Ўзбекистон Республикаси Президенти Ш. МИРЗИЁЕВ",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "Appendix 1 heading",
+    "quote": "to the Resolution of the President of the Republic of Uzbekistan No. RP-358 dated 14 October 2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-17/secondary.html",
+    "sha256": "5952409d8bccce34d29f196ea606fe7f47a7d35726b11775463653c5719edcb2",
+    "locator": "release text",
+    "quote": "The President of Uzbekistan has issued Decree No. PQ-358, dated October 14, 2024",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document heading",
+    "quote": "14.10.2024 йилдаги ПҚ-358-сон",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-e95d9aaefa/2026-10-17/official.html",
+    "sha256": "dc089dff048d79e5a7f0004d672ea5d3869248e34ed428ea97b1e4170c82f8a1",
+    "locator": "document card",
+    "quote": "Постановление Президента Республики Узбекистан, от 14.10.2024 г. № ПП-358",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "document card",
+    "quote": "от 14.10.2024 г. № RP-358",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "signature block",
+    "quote": "October 14, 2024,",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "signature block",
+    "quote": "2024 йил 14 октябрь,",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "document card (date of entry into force)",
+    "quote": "Kuchga kirish sanasi 17.10.2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document card (date of entry into force)",
+    "quote": "Кучга кириш санаси 17.10.2024",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document card (date of entry into force)",
+    "quote": "Кучга кириш санаси 17.10.2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document card (editions)",
+    "quote": "Расмий нашр манбаси 25.07.2026 22.11.2025 27.10.2025 17.10.2024",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "paragraph 1",
+    "quote": "The Strategy for the Development of Artificial Intelligence Technologies until 2030 (hereinafter referred to as the “Strategy”), which includes the following provisions, shall be approved",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 1",
+    "quote": "Сунъий интеллект технологияларини 2030 йилга қадар ривожлантириш стратегияси (кейинги ўринларда — Стратегия) 1-иловага мувофиқ тасдиқлансин",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "document text, first line",
+    "quote": "Unofficial translation Hujjatga taklif yuborishAudioni tinglashHujjat elementidan havola olish Resolution",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "page footer",
+    "quote": "O‘zbekiston Respublikasi Adliya vazirligi qoshidagi “Adolat” milliy huquqiy axborot markazi davlat muassasasi",
+    "source_kind": "official"
+   }
+  ],
+  "safety_topics": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "Appendix 2, section II",
+    "quote": "Harmonization of 9 national standards regulating artificial intelligence technologies with international standards.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "paragraph 1(a)",
+    "quote": "to increase the share of services based on artificial intelligence provided through the Unified Interactive Public Services Portal to 10 percent;",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "paragraph 1(a)",
+    "quote": "to increase the number of research laboratories working in the field of artificial intelligence to 10",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "paragraph 12",
+    "quote": "The Minister of Digital Technologies, Sh. K. Shermatov, shall be appointed responsible and personally accountable for the effective organization of the implementation of this resolution.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "paragraph 12",
+    "quote": "The Prime Minister of the Republic of Uzbekistan, A. N. Aripov, shall be entrusted with overseeing the implementation of the resolution",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/UZ-01/2026-10-11/official.html",
+    "sha256": "47b0e083a3d2565cce6e9155e382c02ecc4ea69eab91775557bd425f35c2bff1",
+    "locator": "paragraph 7",
+    "quote": "The “Center for the Development of Artificial Intelligence and the Digital Economy” (hereinafter referred to as the “Center”) shall be established",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 1(a)",
+    "quote": "сунъий интеллект йўналишида фаолият юритувчи илмий лабораториялар сонини 20 тага етказиш",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 1(a), amendment note",
+    "quote": "(1-банд «а» кичик бандининг тўртинчи хатбошиси Ўзбекистон Республикаси Президентининг 2026 йил 24 июлдаги ПФ-141-сонли Фармони таҳририда",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 7-1, amendment note",
+    "quote": "(71-банд Ўзбекистон Республикаси Президентининг 2025 йил 22 октябрдаги ПФ-189-сонли Фармонига асосан киритилган",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Appendix 2, amendment note",
+    "quote": "(2-илова Ўзбекистон Республикаси Президентининг 2025 йил 22 октябрдаги ПФ-189-сонли Фармони таҳририда",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Appendix 3, amendment note",
+    "quote": "(3-илова Ўзбекистон Республикаси Президентининг 2025 йил 21 ноябрдаги ПФ-223-сонли Фармони таҳририда",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 10-1",
+    "quote": "Рақамли технологиялар вазирлиги ҳар ярим йиллик якуни билан кейинги ойнинг 15-санасига қадар",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-e95d9aaefa/2026-10-17/official.html",
+    "sha256": "dc089dff048d79e5a7f0004d672ea5d3869248e34ed428ea97b1e4170c82f8a1",
+    "locator": "Appendix 1 heading",
+    "quote": "Приложение № 1 неофициальный перевод",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-e95d9aaefa/2026-10-17/official.html",
+    "sha256": "dc089dff048d79e5a7f0004d672ea5d3869248e34ed428ea97b1e4170c82f8a1",
+    "locator": "Strategy, note after Chapter 6",
+    "quote": "Неофициальный перевод. Главы 5 и 6 введена Указом Президента Республики Узбекистан от 24 июля 2026 года № УП-141. См. официальный текст на узбекском языке.",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document heading",
+    "quote": "ПҚ-358-сон 14.10.2024. Сунъий интеллект технологияларини 2030 йилга қадар ривожлантириш стратегиясини тасдиқлаш тўғрисида",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-e95d9aaefa/2026-10-17/official.html",
+    "sha256": "dc089dff048d79e5a7f0004d672ea5d3869248e34ed428ea97b1e4170c82f8a1",
+    "locator": "document heading",
+    "quote": "ПП-358-сон 14.10.2024. Об утверждении Стратегии развития технологий искусственного интеллекта до 2030 года",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "document card (editions)",
+    "quote": "Расмий нашр манбаси 25.07.2026 22.11.2025 27.10.2025 17.10.2024",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Strategy, note after Chapter 6",
+    "quote": "(5-6-боблар Ўзбекистон Республикаси Президентининг 2026 йил 24 июлдаги ПФ-141-сонли Фармонига асосан киритилган — Қонунчилик маълумотлари миллий базаси, 25.07.2026 й., 06/26/141/0776-сон)",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 1(a)",
+    "quote": "Ягона интерактив давлат хизматлари порталида сунъий интеллект асосида кўрсатилаётган хизматлар улушини 10 фоизга етказиш",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Strategy, Chapter 3, section 1",
+    "quote": "Хавфсизлик ва этика талабларини жорий этиш мақсадида қуйидаги чоралар кўрилади:",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Strategy, Chapter 3, section 1",
+    "quote": "маълумотларни йиғиш, сақлаш ва қайта ишлаш ҳамда уларни муҳофаза қилиш ва хавфсизлигини таъминлаш бўйича норматив-ҳуқуқий ҳужжатларни такомиллаштириш",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Appendix 2, item 2",
+    "quote": "Сунъий интеллект технологияларини ишлаб чиқиш ҳамда қўллашдаги этика қоидалари ва тамойилларини ишлаб чиқиш.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "Appendix 2, item 8",
+    "quote": "Сунъий интеллект технологияларини тартибга солувчи 9 та миллий стандартни халқаро стандартларга мувофиқлаштириш.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/UZ-01/extra-09a2f63800/2026-10-17/official.html",
+    "sha256": "a2ee8d8310917e038c12dfe848132cd4783e42c097653d8acbcb0e3e998c7852",
+    "locator": "paragraph 7",
+    "quote": "ахборот тизимлари ва дастурий таъминотларнинг сунъий интеллект технологиялари асосида яратилганлиги ва бундай технология қўлланганлиги Марказ томонидан экспертизадан ўтказилади",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "replaced with the verbatim titles of the stored official Uzbek text (lex.uz 7158604, Cyrillic) and the Russian text (7158606); version 1's Latin-script Uzbek title appears in no stored file and differs in wording",
+   "date_last_updated": "the current edition dates from 25 July 2026, when Decree UP-141 of 24 July 2026 was published in the National Database of Legislation",
+   "summary": "rewritten from the current Uzbek edition: the action-plan item on personal-data security in AI was replaced by UP-189, so the summary cites the Strategy's own data-protection task; the Center's role rendered literally (it examines whether systems are built on or use AI, not their safety)",
+   "safety_topics": "'accountability & liability' (no liability rules) and 'evaluation & testing' (the Center's examination is of whether a system is AI-based, not a safety evaluation) replaced by 'public-sector use'",
+   "notes": "rewritten: implementation responsibility corrected, the three amending decrees and the unofficial status of the Russian translation added, the research-process remark removed",
+   "english_version": "the stored lex.uz document 7159258 is an English translation marked \"Unofficial translation\" and published by the Adolat centre of the Ministry of Justice, a public body",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "lex.uz gives 17 October 2024 as the date of entry into force, which has passed. The later editions (27 October 2025, 22 November 2025, 25 July 2026) amend the resolution through decrees UP-189, UP-223 and UP-141; none repeals it. 'In force' stands.",
+  "scope_reasoning": "A presidential resolution approving the national AI strategy, which includes a legal framework, security and ethical requirements for AI, standards and expert evaluation of AI systems; in scope with no note.",
+  "date_reasoning": "date_published is the signing date (14 October 2024), date_in_force the lex.uz entry-into-force date (17 October 2024), date_last_updated the date of the current edition (25 July 2026, publication of UP-141 in the National Database of Legislation).",
+  "language_reasoning": "language stays 'Uzbek, Russian': lex.uz marks the Russian text of the appendices and of the amendments as unofficial translations and refers to the official Uzbek text, but the Russian text of the resolution's own paragraphs carries no such mark."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Resolution of the President of Uzbekistan No. PQ-4996 of 17 February 2021 \"On measures to create conditions for the accelerated introduction of artificial intelligence technologies\"",
+   "url": null,
+   "seen_in": "https://lex.uz/uz/docs/7159258 (Strategy, Chapter 2)",
+   "why": "An earlier AI-specific presidential resolution; not in the register."
+  },
+  {
+   "title": "Regulatory act on ethical rules and principles for developing and applying AI technologies (PQ-358 action plan, item I.2, draft due December 2025)",
+   "url": null,
+   "seen_in": "https://lex.uz/uz/docs/7159258 (Appendix 2)",
+   "why": "If adopted, an AI ethics instrument; not in the register."
+  },
+  {
+   "title": "Decree of the President of Uzbekistan No. UP-141 of 24 July 2026 on amendments to certain presidential acts in connection with strategic planning in digital technologies and further improvement of state control in this area",
+   "url": "https://lex.uz/docs/8352898",
+   "seen_in": "https://lex.uz/docs/7158604",
+   "why": "Amended the AI strategy (targets, monitoring and evaluation chapters); its other content was not read and may hold further AI provisions."
+  }
+ ],
+ "open_questions": [
+  "Whether Russian belongs in language: lex.uz marks the Russian text of the Strategy, action plan and amendments as unofficial translations but not the resolution's own paragraphs. The record keeps 'Uzbek, Russian'; UZ-02, whose whole Russian text is marked unofficial, now lists Uzbek only."
+ ]
+}

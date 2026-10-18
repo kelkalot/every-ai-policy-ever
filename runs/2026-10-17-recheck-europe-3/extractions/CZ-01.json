@@ -1,0 +1,222 @@
+{
+ "cand_id": "CZ-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CZ-01",
+ "record": {
+  "title": "Draft Act on Artificial Intelligence and amending Act No. 87/2023 Coll., on Market Surveillance of Products and on Amendments to Certain Related Acts, as amended",
+  "original_title": "návrh zákona o umělé inteligenci a o změně zákona č. 87/2023 Sb., o dozoru nad trhem s výrobky a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",
+  "summary": "Draft national law adapting Czech law to the EU AI Act, prepared by the Ministry of Industry and Trade and sent for inter-ministerial comments in September 2025. It adds no regulation beyond the AI Act and organises its supervision: the Czech Telecommunication Office as the central market surveillance authority, the Czech National Bank for AI in the financial sector, and the Office for Personal Data Protection for risky systems and the protection of privacy and fundamental rights. The standards office ÚNMZ founds a regulatory sandbox run by the Czech Standardisation Agency and handles offences; small and medium-sized firms first receive calls to remedy shortcomings rather than fines.",
+  "notes": "By Resolution No. 394 of 28 May 2025 the Government decided that the Czech Telecommunication Office would be one of the market surveillance authorities under the AI Act (see the implementation plan, CZ-02). The draft had 10 pages and 25 sections when it went out for comments. The inter-ministerial comment procedure had not been completed by the end of 2025; the Czech Telecommunication Office, which took part in drafting the law, reported that it cannot carry out AI supervision without it. Its AI supervision unit started work on 1 September 2026 and is to exercise its powers once the legislation is approved. The Commission's list of single points of contact (last updated 7 September 2026) names the Czech Telecommunication Office, with the national designation still pending final adoption.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "PARTIAL. Recheck of 17 Oct 2026: the official source, the Ministry of Industry and Trade's press release of 26 September 2025 on mpo.gov.cz, cannot be stored, because the site's robots.txt admits only named search-engine crawlers; BusinessInfo.cz's copy returned HTTP 403. Stored: the Commission's list of AI Act single points of contact (11 Oct 2026) and, in this run, the Czech Telecommunication Office's annual report for 2025 (ctu.gov.cz, approved by its Council on 17 April 2026) and two Lupa.cz articles (29 Sep 2025 and 1 Sep 2026). The ČTÚ report, another official body's document, confirms the draft's title, that the ministry prepared it, that the inter-ministerial comment procedure was not completed by the end of 2025, Resolution No. 394, and the Office for Personal Data Protection and the Czech National Bank as the other intended market surveillance authorities. The sandbox, the offences, the treatment of small firms, the absence of added regulation, the draft's length and the September 2025 comment round rest on Lupa.cz only; the start of the ČTÚ unit on 1 September 2026 rests on Lupa.cz quoting the office. The date of 26 September 2025 rests on version 1's reading of the ministry's release and on no stored file. Removed: the Public Defender of Rights, 'lower fine ceilings for SMEs', the notifying authority (not in the stored sources on the draft), material number 503/26, the Legislative Council's interruption of 6 August 2026 and the absence of a Chamber print (tracker only)."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 75, section 2.5 Umělá inteligence",
+    "quote": "je v působnosti MPO, které připravilo návrh zákona o umělé inteligenci a o změně zákona č. 87/2023 Sb., o dozoru nad trhem s výrobky a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 75, section 2.5 Umělá inteligence",
+    "quote": "návrh zákona o umělé inteligenci a o změně zákona č. 87/2023 Sb., o dozoru nad trhem s výrobky a o změně některých souvisejících zákonů, ve znění pozdějších předpisů",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 75, section 2.5 Umělá inteligence",
+    "quote": "Adaptace právního řádu ČR na nařízení o umělé inteligenci je v působnosti MPO, které připravilo návrh zákona o umělé inteligenci",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Ministerstvo průmyslu a obchodu (MPO) společně s dalšími resorty a zástupci akademického a soukromého sektoru připravilo první český zákon o umělé inteligenci.",
+    "source_kind": "secondary"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 75, section 2.5 Umělá inteligence",
+    "quote": "Meziresortní připomínkové řízení však do konce roku 2025 nebylo dokončeno.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 40, chapter 4 Umělá inteligence",
+    "quote": "Ačkoli se hlavní pravomoci ČTÚ v oblasti dozoru nad AI uplatní až po přijetí adaptačního zákona",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-2ea8c7dfc2/2026-10-17/official.html",
+    "sha256": "704eb04bb3eace44e5a5197130c6bbdd6168923fd2dd9a60b362dc5aff8619c2",
+    "locator": "report of 1 Sep 2026",
+    "quote": "Nové oddělení bude po schválení příslušné legislativy zajišťovat výkon dozorových pravomocí ČTÚ v oblasti umělé inteligence",
+    "source_kind": "secondary"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 75, section 2.5 Umělá inteligence",
+    "quote": "Meziresortní připomínkové řízení však do konce roku 2025 nebylo dokončeno.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Český zákon právě zamířil do mezirezortního připomínkového řízení",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Zákon oproti AI Actu nemá žádnou přidanou regulaci.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Dozor nad trhem budou mít podle zákona Český telekomunikační úřad (centrální entita a koordinace státního dohledu), Česká národní banka (AI ve finančním sektoru) a Úřad pro ochranu osobních údajů (rizikové systémy a ochrana soukromí a základních práv).",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 41, chapter 4 Umělá inteligence",
+    "quote": "s ostatními zamýšlenými orgány dozoru nad trhem, a to Úřadem pro ochranu osobních údajů a Českou národní bankou",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Zřizovatelem sandboxu má být Úřad pro technickou normalizaci, metrologii a státní zkušebnictví a provozovatelem bude Česká agentura pro standardizaci.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Bude například řešit přestupky.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "menší a střední firmy nebudou v případě nedostatků hned pokutovány, ale budou jim zaslány výzvy k nápravě",
+    "source_kind": "secondary"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 40, chapter 4 Umělá inteligence",
+    "quote": "Vláda České republiky svým usnesením č. 394 ze dne 28. května 2025 rozhodla, že ČTÚ bude jedním z orgánů dozoru nad trhem podle AIA",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-ef780a4004/2026-10-17/official.html",
+    "sha256": "145492e71ff3755430fc082f408f13d9682b637b4eeebac2397cc58c3d8c551b",
+    "locator": "article of 29 Sep 2025",
+    "quote": "Návrh zákona má 10 stran a 25 paragrafů.",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 75, section 2.5 Umělá inteligence",
+    "quote": "ČTÚ by měl být jedním z orgánů dozoru nad trhem, bez příslušného zákonného zmocnění však není možné tuto dozorovou činnost naplňovat.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-3076b767cc/2026-10-17/official.pdf",
+    "sha256": "7580429cc992b85292d4fe8420dafb4abd02bb7396c4128f187094fc02288cea",
+    "locator": "page 40, chapter 4 Umělá inteligence",
+    "quote": "Zároveň byl vytvářen návrh českého adaptačního zákona, na jehož tvorbě se ČTÚ podílel.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/CZ-01/extra-2ea8c7dfc2/2026-10-17/official.html",
+    "sha256": "704eb04bb3eace44e5a5197130c6bbdd6168923fd2dd9a60b362dc5aff8619c2",
+    "locator": "report of 1 Sep 2026",
+    "quote": "Český telekomunikační úřad (ČTÚ) podle plánů od prvního září rozjel nové oddělení pro dohled nad umělou inteligencí",
+    "source_kind": "secondary"
+   },
+   {
+    "file": "archive/CZ-01/2026-10-11/secondary.html",
+    "sha256": "db95eaac7c27c90e7928e619e8ddd57c31bf8e8e5e950ed5595e09a3e03ff4cf",
+    "locator": "Single Points of Contact, Czech Republic",
+    "quote": "*Český telekomunikační úřad | Czech Telecommunication Office",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-01/2026-10-11/secondary.html",
+    "sha256": "db95eaac7c27c90e7928e619e8ddd57c31bf8e8e5e950ed5595e09a3e03ff4cf",
+    "locator": "Single Points of Contact",
+    "quote": "For Single Points of Contact marked with *, the national designation decision is still pending final adoption.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CZ-01/2026-10-11/secondary.html",
+    "sha256": "db95eaac7c27c90e7928e619e8ddd57c31bf8e8e5e950ed5595e09a3e03ff4cf",
+    "locator": "page footer",
+    "quote": "Last update 7 September 2026",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "title": "the only stored source that names the draft, the Czech Telecommunication Office's annual report for 2025, gives its full title as an act on AI amending Act No. 87/2023 Coll. on market surveillance of products; version 1's shorter title came from the ministry's release, which cannot be stored",
+   "original_title": "as given in the ČTÚ report (see title)",
+   "summary": "rewritten to what the stored sources support: the supervisory set-up, the sandbox, the offences and the treatment of small firms from Lupa.cz, the other intended authorities also from the ČTÚ report; the Public Defender of Rights, 'lower fine ceilings', the notifying authority and the single point of contact removed (not in the stored sources on the draft)",
+   "notes": "rewritten from the stored files: Resolution No. 394, the draft's length, the unfinished comment procedure at the end of 2025, the ČTÚ unit from 1 September 2026 and the Commission's list; the tracker-only statements removed",
+   "english_version": "no English text of the draft was found",
+   "verification.note": "rewritten for what this run could and could not store"
+  },
+  "confirmed": [
+   "issuing_body",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The ČTÚ annual report for 2025, approved on 17 April 2026, says the inter-ministerial comment procedure was not completed by the end of 2025 and that ČTÚ's AI powers apply only once the adaptation law is adopted. On 1 September 2026 the office said (Lupa.cz) that its new unit would exercise its powers after the legislation is approved, and the Commission's list of 7 September 2026 still marks the designation as pending. Nothing stored shows the draft adopted or withdrawn; 'Draft / proposed' stands.",
+  "scope_reasoning": "A draft national law implementing the EU AI Act; a pending bill, in scope with no note.",
+  "date_reasoning": "date_published (26 September 2025, the ministry's release of the draft) is left as published: no stored file gives the day. Lupa.cz of 29 September 2025 says the draft had just gone out for inter-ministerial comments, which fits it but does not show the day."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": [
+  "date_published (26 September 2025) has no stored evidence: the ministry's release cannot be stored (robots.txt) and BusinessInfo.cz's copy returned HTTP 403. A person could provide the release or the eKLEP record of the draft (AGENTS.md section 7.8).",
+  "The title now follows the Czech Telecommunication Office's annual report for 2025 (an act on AI amending Act No. 87/2023 Coll.); version 1 had 'Návrh zákona o umělé inteligenci a o změně některých souvisejících zákonů' from the ministry's release. The draft's own text or the eKLEP record would settle which is current.",
+  "The draft's stage in 2026 beyond the unfinished comment procedure at the end of 2025 is not shown by any stored file; whether the Government has approved it or sent it to the Chamber of Deputies is open.",
+  "The ČTÚ report gives Government Resolution No. 394 of 28 May 2025, the day the Government approved the implementation plan (CZ-02), whose record has no official_identifier; it is not stored for CZ-02."
+ ]
+}

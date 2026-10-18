@@ -1,0 +1,66 @@
+{
+ "cand_id": "UZ-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported",
+   "why": "Number ZRU-1115 and database reference both quoted; identifier carries variants but is citable."
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "language": {
+   "verdict": "supported"
+  },
+  "english_version": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "AI defined as technological solutions imitating human knowledge and skills incl. independent learning",
+   "verdict": "supported",
+   "locator": "Article 1(1)"
+  },
+  {
+   "claim": "fine of 50 to 100 base calculation units for unlawful AI personal-data processing",
+   "verdict": "supported",
+   "locator": "Article 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Official Uzbek lex.uz text supports title, number, chamber dates, signature 21 Jan 2026 and entry into force on publication. Literal Russian: 'Law on additions and amendments to certain legislative acts in connection with regulating relations arising from the use of AI'. No English version found."
+}

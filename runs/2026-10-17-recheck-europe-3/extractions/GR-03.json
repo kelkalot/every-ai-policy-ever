@@ -1,0 +1,148 @@
+{
+ "cand_id": "GR-03",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GR-03",
+ "record": {
+  "summary": "154-page report of the advisory committee set up under the Prime Minister in November 2023 and chaired by Constantinos Daskalakis to outline a national AI strategy that exploits AI's potential while mitigating its risks, with guiding principles, six flagship programmes and recommendations in four domains. The regulatory chapter proposes a National AI Supervisory Authority to balance rights protection and innovation, supervise AI systems, advise the legislator and oversee regulatory sandboxes; harmonising national law with the EU AI Act; labour-law updates; measures protecting democracy; regulating AI to preserve information integrity; and a Chief AI Strategy Officer and a Data and AI Office.",
+  "notes": "Published on 25 November 2024 on the Special Secretariat of Foresight's site. The chapters cover innovation and entrepreneurship, education and research, the regulatory framework and AI in the State (health, defence, civil protection, culture, justice, revenue, government efficiency, smart cities), with appendices of guidelines for working with AI and of the Chief AI Strategy Officer's mandates. The proposal for a new supervisory authority was not followed: Law 5321/2026 made the Hellenic Data Protection Authority market surveillance authority and single point of contact, made EETT the notifying authority and set up the AI regulatory sandbox at EETT, run jointly with the Data Protection Authority.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the report PDF stored from foresight.gov.gr on 12 Oct 2026 (unchanged on 17 Oct) and the study page stored again on 17 Oct 2026 (only its list of related posts changed). The PDF confirms the title, authors, mission, structure and Proposals 5.1-5.7; the study page confirms the 25 November 2024 date and that the committee was established under the Prime Minister in November 2023 and coordinated by the Special Secretariat of Foresight. The publication date appears only on the study page, which the archiver stored as the record's secondary source. The sentence on Law 5321/2026 rests on the gazette stored for GR-01 (archive/GR-01/2026-10-12/official.pdf, Articles 3-5 and 12). No Prime Ministerial decision establishing the committee was stored."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 1",
+    "quote": "GREECE’S AI A BLUEPRINT FOR TRANSFORMATION HIGH-LEVEL ADVISORY COMMITTEE ΟΝ ARTIFICIAL INTELLIGENCE",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-17/secondary.html",
+    "sha256": "6c253243152b234f2081dcd16e874a2441c5b07cba4f8d21db50a9d9fd1cb096",
+    "locator": "study page heading",
+    "quote": "A Blueprint for Greece' s AI Transformation AuthorHigh - Level Advisory Committee on Artificial Intelligence",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 3",
+    "quote": "Constantinos Daskalakis – Chair of the Committee",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-17/secondary.html",
+    "sha256": "6c253243152b234f2081dcd16e874a2441c5b07cba4f8d21db50a9d9fd1cb096",
+    "locator": "study page text",
+    "quote": "The High Level Advisory Committee on Artificial Intelligence (AI) under the Prime Minister was established in November 2023 and coordinated by the Special Secretariat of Foresight.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GR-03/2026-10-17/secondary.html",
+    "sha256": "6c253243152b234f2081dcd16e874a2441c5b07cba4f8d21db50a9d9fd1cb096",
+    "locator": "study page heading",
+    "quote": "AuthorHigh - Level Advisory Committee on Artificial Intelligence 25 November, 2024",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 11",
+    "quote": "This report was developed by leveraging this committee’s own expertise and perspective",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-17/secondary.html",
+    "sha256": "6c253243152b234f2081dcd16e874a2441c5b07cba4f8d21db50a9d9fd1cb096",
+    "locator": "study page text",
+    "quote": "You can find the report here A Blueprint for Greece's AI Transformation",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 11",
+    "quote": "This report was developed by leveraging this committee’s own expertise and perspective",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-17/secondary.html",
+    "sha256": "6c253243152b234f2081dcd16e874a2441c5b07cba4f8d21db50a9d9fd1cb096",
+    "locator": "study page text",
+    "quote": "Its mission was to formulate a national policy for leveraging the potential of AI.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 10",
+    "quote": "It has become equally urgent to anticipate and mitigate the risks associated with the use of this technology",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 83",
+    "quote": "Proposal 5.1: Establish the National Artificial Intelligence Supervisory Authority (NAIA)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 89",
+    "quote": "Proposal 5.6: Introduce regu - lation to preserve information integrity.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 5, table of contents",
+    "quote": "Appendix I: Guidelines for working with AI",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-03/2026-10-12/official.pdf",
+    "sha256": "b14ad702816ded20bda12a628d4d1a18b58374b81e8a9b997731546be3dc376d",
+    "locator": "page 5, table of contents",
+    "quote": "Appendix II: Chief AI Strategy Officer Mandates",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "'set up by the Prime Minister' corrected to 'set up under the Prime Minister', as the publisher's study page puts it",
+   "notes": "the sandbox corrected (set up at EETT, with EETT and the Data Protection Authority as competent authorities, Article 12 of Law 5321/2026); the DPA's role as single point of contact and the second appendix added",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A non-binding advisory report published on 25 November 2024 and still offered on the publisher's study page as of 17 October 2026; no replacement or withdrawal appears. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A report written by an advisory committee the government set up under the Prime Minister to propose a national AI strategy, with a regulatory chapter on supervision, AI Act harmonisation and information integrity: a government-commissioned report, in scope with no note.",
+  "date_reasoning": "The PDF carries no date; 25 November 2024 comes from the publisher's study page."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

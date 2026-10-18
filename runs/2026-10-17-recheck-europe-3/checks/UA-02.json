@@ -1,0 +1,50 @@
+{
+ "cand_id": "UA-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "consultation version, comments expected 3 months from publication",
+   "verdict": "supported",
+   "locator": "PDF page 30"
+  },
+  {
+   "claim": "voluntary labelling of training data, algorithms and decision space",
+   "verdict": "supported",
+   "locator": "PDF page 22"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "PDF and Cabinet English news item support title, 26 Jun 2024 and consultation status. english_version is absent although the text is Ukrainian: the ministry's English translation could not be stored; flagged by the extractor as an open question. original_title matches the PDF cover."
+}

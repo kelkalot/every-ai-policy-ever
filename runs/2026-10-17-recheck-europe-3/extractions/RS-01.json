@@ -1,0 +1,184 @@
+{
+ "cand_id": "RS-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "RS-01",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  },
+  "summary": "Non-binding guidelines adopted by Government Conclusion on 23 March 2023 as a preventive mechanism for checking that machine-learning systems meet the highest ethical and security standards. The Government recommends that state, provincial and local bodies, public institutions and enterprises, regulators and holders of public powers apply them to the AI systems they set up and use, and other developers and users too. It defines AI systems and high-risk AI systems, lists high-risk areas such as biometrics, critical infrastructure and law enforcement, and sets four principles and seven conditions for reliable and responsible AI, with recommendations and an assessment questionnaire.",
+  "safety_topics": [
+   "risk-based classification",
+   "human oversight",
+   "transparency & labelling",
+   "accountability & liability",
+   "public-sector use"
+  ],
+  "notes": "The four principles are explainability and verifiability, dignity, prohibition of harm and fairness. The seven conditions are agency and oversight; technical reliability and safety; privacy, personal data protection and data governance; transparency; diversity, non-discrimination and equality; social and environmental well-being; and accountability. The guidelines rest on the AI Development Strategy for 2020-2025 (Službeni glasnik RS 96/2019), one of whose five goals is ethical and safe AI, and its Action Plan for 2020-2022 (Službeni glasnik RS 81/2020), and draw on the 2021 UNESCO Recommendation on the Ethics of AI and the European Commission's April 2021 AI Act proposal. The competent minister determines how their application is integrated. They do not cover systems prohibited by a law regulating AI, and they record that AI needs to be regulated by law. The text is dated February 2023.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Government of Serbia's English news item of 23 March 2023 on srbija.gov.rs (stored again 17 Oct 2026; only the page's list of other news changed) and the Serbian text of the guidelines (February 2023, 41 pages) in the copy hosted by the Regional School of Public Administration (ReSPA, kmp.respaweb.eu), stored 12 Oct 2026. The news item confirms adoption by Government Conclusion on 23 March 2023, the English title and the purpose; the summary and notes are written from the Serbian text, including the assessment questionnaire in section 4, which version 1 had not located. No copy of the text on a Serbian government site and no English translation were found; the number of the Government Conclusion and any Službeni glasnik reference were not found. Version 1's statements that no later edition exists and on a 2026 working draft of an AI law rested on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/RS-01/2026-10-17/official.html",
+    "sha256": "0cc9786d2cc463ce385abcaf269b100b8aabfbd0e44f4261c1d83b060188e519",
+    "locator": "news item 'Ethical guidelines for development, use of artificial intelligence adopted'",
+    "quote": "ethical guidelines for the development, application and use of reliable and responsible artificial intelligence",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 1",
+    "quote": "ЕТИЧКЕ СМЕРНИЦЕ ЗА РАЗВОЈ, ПРИМЕНУ И УПОТРЕБУ ПОУЗДАНЕ И ОДГОВОРНЕ ВЕШТАЧКЕ ИНТЕЛИГЕНЦИЈЕ",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 2, running head",
+    "quote": "Етичке смернице за развој, примену и употребу поуздане и одговорне вештачке интелигенције",
+    "source_kind": "alt-official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/RS-01/2026-10-17/official.html",
+    "sha256": "0cc9786d2cc463ce385abcaf269b100b8aabfbd0e44f4261c1d83b060188e519",
+    "locator": "news item 'Ethical guidelines for development, use of artificial intelligence adopted'",
+    "quote": "The Serbian government adopted today the Conclusion by which ethical guidelines for the development, application and use of reliable and responsible artificial intelligence are being adopted",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/RS-01/2026-10-17/official.html",
+    "sha256": "0cc9786d2cc463ce385abcaf269b100b8aabfbd0e44f4261c1d83b060188e519",
+    "locator": "news item 'Ethical guidelines for development, use of artificial intelligence adopted', date line",
+    "quote": "Belgrade, 23 March 2023",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/RS-01/2026-10-17/official.html",
+    "sha256": "0cc9786d2cc463ce385abcaf269b100b8aabfbd0e44f4261c1d83b060188e519",
+    "locator": "news item 'Ethical guidelines for development, use of artificial intelligence adopted'",
+    "quote": "The Serbian government adopted today the Conclusion by which ethical guidelines for the development, application and use of reliable and responsible artificial intelligence are being adopted",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 4, section 1.2",
+    "quote": "Влада Закључком усваја документ Смерница којим препоручује да их примењују сви државни органи и организације",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/RS-01/2026-10-17/official.html",
+    "sha256": "0cc9786d2cc463ce385abcaf269b100b8aabfbd0e44f4261c1d83b060188e519",
+    "locator": "news item 'Ethical guidelines for development, use of artificial intelligence adopted'",
+    "quote": "the goal is to introduce a preventive mechanism that will enable the responsible development of this type of intelligence and ways of verification - that the systems based on machine learning are in accordance with the highest ethical and security standards",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 5, section 1.2",
+    "quote": "Препорука је да ове Смернице примењују и друга правна и физичка лица која развијају и/или употребљавају системе вештачке интелигенције",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 2, contents",
+    "quote": "2.3 Високоризични системи вештачке интелигенције",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 14, section 4",
+    "quote": "Упитник пружа подршку лицима, односно организацијама које развијају, стављају на тржиште, набављају, примењују и/или користе системе вештачке интелигенције да процене усклађеност с наведеним Условима",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 14, section 4",
+    "quote": "1. Деловање (посредовање, контрола, учешће) и надзор; 2. Техничку поузданост и безбедност; 3. Приватност, заштиту података о личности и управљање подацима; 4. Транспарентност;",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 3, section 1.2",
+    "quote": "Основ за доношење Смерница садржан је у Стратегији развоја вештачке интелигенције у Републици Србији за период 2020–2025,1 која је као један од својих пет циљева поставила етичку, безбедну примену вештачке интелигенције",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 5, section 1.3",
+    "quote": "Надлежни министар ближе одређује начин интеграције примене Смерница.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 8, section 2.3",
+    "quote": "Смернице се не односе на Системе који су забрањени у смислу закона којим се регулишу системи вештачке интелигенције.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/RS-01/2026-10-12/secondary.pdf",
+    "sha256": "e0e1e15427502ae80e5763c71340c4f30cd2237a1adf0c7dd9a04dab32f9c75e",
+    "locator": "page 1",
+    "quote": "Београд, фебруар 2023.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "no English translation of the text was found; the English title comes from the Government's own English news item",
+   "summary": "rewritten from the Serbian text: the Government recommends the guidelines to public bodies (1.2), it does not make them apply; the four principles, seven conditions, high-risk areas and the assessment questionnaire added",
+   "safety_topics": "'human oversight' (condition 1, agency and oversight) and 'public-sector use' (recommended to all public bodies) added",
+   "notes": "rewritten from the text: principles, conditions, basis, minister's role, prohibited systems excluded, need for a law; process remarks moved to verification.note and unstored claims removed",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Government adopted the guidelines by Conclusion on 23 March 2023 (news item). They recommend, and do not oblige. No stored file shows a replacement or withdrawal. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "AI-specific ethics and safety guidelines adopted by a national government; in scope with no note."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Strategy for the Development of Artificial Intelligence in the Republic of Serbia for 2020-2025 (Službeni glasnik RS 96/2019) and its Action Plan 2020-2022 (Službeni glasnik RS 81/2020)",
+   "url": "https://www.srbija.gov.rs/tekst/en/149169/strategy-for-the-development-of-artificial-intelligence-in-the-republic-of-serbia.php",
+   "note": "Linked from the stored government news page (not opened). The guidelines name the strategy and action plan as their basis; one of the strategy's five goals is ethical and safe AI. Neither is in the register (RS-02 is the 2025-2030 strategy)."
+  }
+ ],
+ "open_questions": [
+  "official_identifier stays null: the number of the Government Conclusion is in no stored file."
+ ]
+}

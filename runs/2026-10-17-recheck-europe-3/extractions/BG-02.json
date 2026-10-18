@@ -1,0 +1,86 @@
+{
+ "cand_id": "BG-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "BG-02",
+ "record": {
+  "issuing_body": "National Assembly of the Republic of Bulgaria (52nd), private members' bill by Bozhidar Bozhanov and nine other MPs",
+  "summary": "Private members' bill that would apply Regulation (EU) 2024/1689 and govern AI in the public sector, AI skills, investment and AI risks to national security and children. It splits market surveillance among sector regulators, makes the Minister of Innovation and Digital Transformation the notifying authority and the Communications Regulation Commission the single point of contact. It bans remote biometric identification and the AI Act's prohibited practices, prohibits publishing convincing AI fakes of senior officials, or of others without consent, with removal orders, bars training models on children's data save narrow exceptions with parental consent, and sets fines up to BGN 5 million.",
+  "notes": "Filed on 24 September 2026 by ten members of the 52nd National Assembly, led by Bozhidar Bozhanov, and distributed on 25 September 2026 (order 52-650-01-318) to the Committee on Innovation and Digital Transformation as lead committee and to sixteen other committees. By 17 October 2026 no committee report for first reading was listed; opinions had been filed by, among others, the Ministry of Innovation and Digital Transformation and the State Agency for National Security (15 October 2026). The bill would enter into force two months after promulgation, except Article 22, § 7 and § 21, from 1 July 2027. It would also create a national AI coordinator appointed by the Prime Minister, an advisory council at the Council of Ministers and an AI regulatory sandbox, require AI systems that the Council of Ministers designates as high-risk for national security, such as recommender systems of very large online platforms, to give the State Agency for National Security and the ministry their source code, documentation and a description of their training data, and amend the Criminal Code (AI-generated pornographic content), the Election Code (labelling of campaign material made with AI) and the Judiciary Act (courts may not use AI to interpret facts and law).",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the National Assembly's bill page (browser-rendered copy and print PDF, stored again 17 Oct 2026) and the official bill PDF 52-654-01-151.pdf (stored 12 Oct 2026), which now has an OCR text layer, so the provisions were read from the 2026 bill itself (version 1 had relied on the sponsors' 2025 text and press reports). The bill page confirms the signature, title, filing date, the ten sponsors, the distribution to the lead and sixteen participating committees on 25 September 2026 (version 1 said seven) and the opinions filed between 12 and 15 October 2026; no committee report or vote is listed. The bill PDF is an OCR text, so Cyrillic letters are sometimes misread; the quotes are taken as the OCR gives them. No English version was found. Version 1's party affiliation of the sponsors, the statement that the bill re-submits a 2025 bill of the 51st Assembly and the remarks on the government's framework rested on no stored file and were removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page heading", "quote": "Законопроект за използването и развитието на изкуствения интелект", "source_kind": "official"},
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Сигнатура", "quote": "Сигнатура 52-654-01-151", "source_kind": "official"}
+  ],
+  "original_title": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page heading", "quote": "Законопроект за използването и развитието на изкуствения интелект", "source_kind": "official"}
+  ],
+  "issuing_body": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Вносители", "quote": "Вносители БОЖИДАР ПЛАМЕНОВ БОЖАНОВ;", "source_kind": "official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 1 (cover letter)", "quote": "ПРЕДСЕДАТЕЛЯ НА 52-ро НАРОДНО СЪБРАНИЕ", "source_kind": "alt-official"}
+  ],
+  "official_identifier": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Сигнатура", "quote": "Сигнатура 52-654-01-151", "source_kind": "official"}
+  ],
+  "date_published": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Дата на постъпване", "quote": "Дата на постъпване 24/09/2026", "source_kind": "official"}
+  ],
+  "date_last_updated": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Разпределение по комисии", "quote": "Разпореждане на председателя № 52-650-01-318 от 25/09/2026", "source_kind": "official"}
+  ],
+  "status": [
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Становища", "quote": "Становище по проект на Закон за използването и развитието на изкуствения интелект, № 52-654-01-151, внесен на 24.09.2026 г. - МИДТ (първо гласуване)", "source_kind": "official"},
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Разпределение по комисии", "quote": "Комисия по иновациите и дигиталната трансформация (водеща)", "source_kind": "official"}
+  ],
+  "legal_force": [
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 1 (cover letter)", "quote": "внасяме проект на Закон за използването и развитието на изкуствения интелект", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page heading", "quote": "Законопроект за използването и развитието на изкуствения интелект", "source_kind": "official"}
+  ],
+  "summary": [
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 5 (Art. 5(2))", "quote": "Министьрьт на иновациите и дигиталната трансформация е нотифициращ орган", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 6 (Art. 5(4))", "quote": "Комисията за регулиране на съобщенията е единно звено за контакт", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 9 (Art. 12(1))", "quote": "1. използването на системи с дистанционна биометрична идентификация.", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 11 (Art. 15(2))", "quote": "За преустановяване публикуването на незаконно съдържание по ал. 1 без забавяне се", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 19 (Art. 32)", "quote": "Забранява се използването на лични данни на деца", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 20 (Art. 33(4))", "quote": "се наказва с имуществена санкция от 1 000 000 до 5 000 000 лв", "source_kind": "alt-official"}
+  ],
+  "notes": [
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 30 (§ 32)", "quote": "Този закон влиза в сила два месеца след обнародването му в Дьржавен вестник", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-17/official-rendered.html", "sha256": "bb8b145fad1810ce399227ff46408dad56c9d949cbde867f4151c68b47fe6cc0", "locator": "bill page: Становища", "quote": "Становище ДАНС (първо гласуване)", "source_kind": "official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 25 (§ 12)", "quote": "органите на съдебната власт нямат право да", "source_kind": "alt-official"},
+   {"file": "archive/BG-02/2026-10-12/secondary.pdf", "sha256": "26fa41253c29908350a9f512df999e276614afad12bdf72cda3a9d6a963ca0bd", "locator": "page 10 (Art. 13(2))", "quote": "изходният код и техническата документация на системата за препоръчване", "source_kind": "alt-official"}
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "issuing_body": "the party affiliation 'of Democratic Bulgaria' is not in the stored files (the bill page lists the ten sponsors by name only); the sponsors and the 52nd Assembly are",
+   "summary": "rewritten from the 2026 bill text (now readable through OCR): competent authorities (Art. 5), bans (Art. 12), AI fakes and removal orders (Art. 15), children's data (Art. 32) and fines (Art. 33, up to BGN 5 million). Version 1's 'opposition bill' and 'fines of up to BGN 50,000' were not supported (fines range up to BGN 200,000 outside the platform case and BGN 5 million for very large platforms)",
+   "notes": "rewritten: sixteen participating committees, not seven; opinions of 12 to 15 October 2026 added; entry into force and further content from the bill; statements resting on press reports and the sponsors' 2025 text removed",
+   "english_version": "not recorded in version 1; no English version of the bill was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "official_identifier",
+   "date_published",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The bill was filed on 24 September 2026 and distributed to committees on 25 September 2026. On the bill page stored on 17 October 2026 the sections for committee reports for first reading, proposals between readings and reports for second reading are empty, and the only later entries are opinions submitted for the first reading (12 to 15 October 2026). It has not been voted on: 'Draft / proposed' with legal force 'Proposed' stands.",
+  "scope_reasoning": "An AI-specific framework bill that would implement the AI Act and add national rules on prohibited uses, AI fakes and child safety; pending bills are in scope with no note.",
+  "date_reasoning": "date_published is the filing date (24 September 2026); date_last_updated stays the committee distribution of 25 September 2026, the National Assembly's latest step on the bill. The opinions filed by outside bodies in October 2026 are not a new version and go in the notes."
+ },
+ "extra_urls": [],
+ "leads": [],
+ "open_questions": []
+}

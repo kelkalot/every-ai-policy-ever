@@ -1,0 +1,50 @@
+{
+ "cand_id": "NZ-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "deliberately focused on practical adoption; light-touch principles-based approach",
+   "verdict": "supported",
+   "locator": "PDF page 4 and 12"
+  },
+  {
+   "claim": "commits to engage in global AI governance fora incl. protecting people from harmful or negligent AI use",
+   "verdict": "supported",
+   "locator": "PDF page 16"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Light-touch adoption-focused strategy with limited safety content (OECD principles, existing-law approach); inclusion with a scope note is consistent with the strategy precedents."
+ },
+ "overall": "accept",
+ "note": "MBIE web pages are bot-check shells; the stored 22-page PDF supports title, July 2025, MBIE, foreword. Title now follows the cover."
+}

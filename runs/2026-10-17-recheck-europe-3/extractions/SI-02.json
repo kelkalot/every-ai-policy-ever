@@ -1,0 +1,227 @@
+{
+ "cand_id": "SI-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SI-02",
+ "record": {
+  "title": "National Strategy for Artificial Intelligence until 2030 (NsUI 2030)",
+  "original_title": "Nacionalna strategija za umetno inteligenco do leta 2030 (NsUI 2030)",
+  "notes": "Adopted by the Government on 5 March 2026 as successor to the national programme NpUI 2025, adopted in May 2021; the Government instructed the Ministry of Digital Transformation to prepare an action plan with measures, a schedule and financial resources within nine months. The strategy sets ten guiding principles, five strategic objectives and six horizontal building blocks, and names the Ministry of Digital Transformation as its national manager, with an interministerial coordination group, a Government Council for AI and an AI observatory. Its draft was in public consultation for 30 days from 17 November 2025, and the final draft was scheduled for the Economic and Social Council on 16 January 2026. For fundamental-rights impact assessment it refers to the Council of Europe's methodology for human rights, democracy and the rule of law.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the strategy PDF stored from gov.si on 12 Oct 2026 (102 pages, marked 'končna', final; unchanged on 17 Oct) and the Government's Slovenian news release of 5 March 2026 stored the same day, and stored on 17 Oct 2026 the Government's English translation of the strategy (108 pages) and its English release on the 193rd session of 5 March 2026. The PDF confirms the principles, objectives, building blocks, the HG5 measures 5.1-5.5, the governance structure and the preparation timeline; the English release confirms adoption on 5 March 2026, the English title and the nine-month deadline for the action plan; the English PDF uses the same title with the acronym NSAI 2030 and names no translator. The original title in version 1 ('strategija umetne inteligence') appears only in the release's web address; the release and the PDF use 'strategija za umetno inteligenco'. Version 1's endorsement date by the Economic and Social Council rested on a news title that was not stored, and the separate annex on vulnerable groups was not stored; both were removed from the notes."
+  },
+  "english_version": {
+   "kind": "government translation",
+   "url": "https://www.gov.si/assets/ministrstva/MDP/Dokumenti/Umetna-inteligenca/NsUI2030_ang.pdf",
+   "by": "Ministry of Digital Transformation of the Republic of Slovenia (published on gov.si)"
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-4854c10a22/2026-10-17/official.html",
+    "sha256": "cfaedcb3a88a1ddb4d8222346da9846f5296b613ac8db9da6b99359a1f7764b6",
+    "locator": "release text",
+    "quote": "At today's session, the Government adopted the National Strategy for Artificial Intelligence until 2030 (NsUI 2030)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-7b46e1d864/2026-10-17/official.pdf",
+    "sha256": "fb5d51e5f0d6d3d45853d9e50c0ed247222c618ec23b881d3f2f2345d83a49ff",
+    "locator": "page 4",
+    "quote": "With its National Strategy for Artificial Intelligence until 2030 (NSAI 2030), Slovenia is entering",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 4, Povzetek",
+    "quote": "Slovenija z nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "link to the strategy PDF",
+    "quote": "Nacionalna strategija za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "link to the strategy PDF",
+    "quote": "Nacionalna strategija za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 4, Povzetek",
+    "quote": "Slovenija z nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030)",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "release text",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 5, Povzetek",
+    "quote": "ki ga zaenkrat izvaja Ministrstvo za digitalno preobrazbo, ki je nacionalni upravljavec strategije",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-4854c10a22/2026-10-17/official.html",
+    "sha256": "cfaedcb3a88a1ddb4d8222346da9846f5296b613ac8db9da6b99359a1f7764b6",
+    "locator": "release text",
+    "quote": "The Government instructed the Ministry of Digital Transformation to prepare an action plan with precisely defined measures, a schedule and financial resources within nine months.",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-4854c10a22/2026-10-17/official.html",
+    "sha256": "cfaedcb3a88a1ddb4d8222346da9846f5296b613ac8db9da6b99359a1f7764b6",
+    "locator": "release heading and text",
+    "quote": "193rd regular session of the Government of the Republic of Slovenia 5. 3. 2026 Government of the Republic of Slovenia At today's session, the Government adopted the National Strategy for Artificial Intelligence until 2030",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "release date and text",
+    "quote": "5. 3. 2026 Ministrstvo za digitalno preobrazbo Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030",
+    "source_kind": "alt-official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-4854c10a22/2026-10-17/official.html",
+    "sha256": "cfaedcb3a88a1ddb4d8222346da9846f5296b613ac8db9da6b99359a1f7764b6",
+    "locator": "release text",
+    "quote": "At today's session, the Government adopted the National Strategy for Artificial Intelligence until 2030 (NsUI 2030)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 1, header",
+    "quote": "NsUI 2030 – končna",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/secondary.html",
+    "sha256": "bb22f281bfab0a8c936d3aa2ac1e229d544b78c8084322a3bdce0f4845ad3b3b",
+    "locator": "release text",
+    "quote": "Vlada Republike Slovenije je na današnji seji sprejela Nacionalno strategijo za umetno inteligenco do leta 2030 (NsUI 2030).",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 4, Povzetek",
+    "quote": "Dokument je zasnovan kot strateški okvir za uresničevanje javnega interesa",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 5, Povzetek",
+    "quote": "NsUI 2030 bo nadgrajen z ustreznimi akcijskimi načrti, ki bodo opredelili ukrepe, odgovorne nosilce, časovnice, vire financiranja in kazalnike uspešnosti.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 6, 1. Uvod in mandat",
+    "quote": "Nacionalni program spodbujanja razvoja in uporabe umetne inteligence do leta 2025 (NpUI 2025), sprejet maja 2021",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 80, Priloga 2",
+    "quote": "17. novembra 2025 smo objavili predlog NsUI 2030 za javno obravnavo, ta je potekala 30 dni.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 80, Priloga 2",
+    "quote": "Predlog bo na seji Ekonomsko-socialnega sveta obravnavan 16.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 5, Povzetek",
+    "quote": "Svet Vlade Republike Slovenije za umetno inteligenco pa bo skrbel za dialog s civilno družbo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SI-02/2026-10-12/official.pdf",
+    "sha256": "a6fd223df318e10f52d0fb7a67c52201eda11e7dcf87b277678568567962edd2",
+    "locator": "page 46, HG5",
+    "quote": "vključno z metodologijo za oceno učinka na človekove pravice, demokracijo in pravno državo",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-4854c10a22/2026-10-17/official.html",
+    "sha256": "cfaedcb3a88a1ddb4d8222346da9846f5296b613ac8db9da6b99359a1f7764b6",
+    "locator": "release text",
+    "quote": "The Government instructed the Ministry of Digital Transformation to prepare an action plan with precisely defined measures, a schedule and financial resources within nine months.",
+    "source_kind": "official"
+   }
+  ],
+  "english_version": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SI-02/extra-7b46e1d864/2026-10-17/official.pdf",
+    "sha256": "fb5d51e5f0d6d3d45853d9e50c0ed247222c618ec23b881d3f2f2345d83a49ff",
+    "locator": "page 1, header",
+    "quote": "NSAI 2030 – final",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "original_title": "the Government's release and the strategy itself call it 'Nacionalna strategija za umetno inteligenco do leta 2030 (NsUI 2030)'; version 1's wording appears only in the release's web address",
+   "title": "set to the Government's own English title, 'National Strategy for Artificial Intelligence until 2030 (NsUI 2030)', as in its English release; the English translation uses the same title with the acronym NSAI 2030",
+   "notes": "rewritten: the Economic and Social Council date (from an unstored news title) replaced by the preparation timeline in the strategy's Annex 2; the nine-month action-plan deadline and the governance bodies added; the vulnerable-groups annex and the research-process remark removed",
+   "english_version": "the Government published an English translation on gov.si under the Ministry of Digital Transformation's documents",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Government adopted the strategy on 5 March 2026 (release of that date); the stored PDF is the final version ('končna'). It is a non-binding strategic framework to be implemented through action plans, and no replacement appears. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "National AI strategy whose goals and ethics-and-regulation building block cover AI Act implementation, fundamental-rights impact assessment, security testing and an AI ethics council; in scope with no note.",
+  "date_reasoning": "date_published is the Government's adoption on 5 March 2026, from its English and Slovenian releases; the PDF has no date of its own."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Action plan for the National Strategy for Artificial Intelligence until 2030 (NsUI 2030), with measures, a schedule and financial resources, which the Government asked the Ministry of Digital Transformation to prepare within nine months of 5 March 2026",
+   "url": null,
+   "seen_in": "https://www.gov.si/en/news/2026-03-05-193rd-regular-session-of-the-government-of-the-republic-of-slovenia/",
+   "why": "Implementing plan of SI-02, due about December 2026; a new record once adopted."
+  }
+ ],
+ "open_questions": []
+}

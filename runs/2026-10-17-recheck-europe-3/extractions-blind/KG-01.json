@@ -1,0 +1,54 @@
+{
+ "decision": "update",
+ "target_id": "KG-01",
+ "record": {
+  "english_version": {
+   "kind": "none found"
+  }
+ },
+ "evidence": {
+  "original_title": [
+   {
+    "file": "archive/KG-01/2026-10-12/official.html",
+    "sha256": "ed7eb871d2061cf3a0bac825cbe70bda87a17304765a47e4ea5cec2b6a6593b0",
+    "locator": "page title",
+    "quote": "Цифровой Кодекс Кыргызской Республики от 31 июля 2025 года",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/KG-01/2026-10-12/official.html",
+    "sha256": "ed7eb871d2061cf3a0bac825cbe70bda87a17304765a47e4ea5cec2b6a6593b0",
+    "locator": "page title",
+    "quote": "Цифровой Кодекс Кыргызской Республики от 31 июля 2025 года",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "english_version": "required for a Russian/Kyrgyz text; none among stored files"
+  },
+  "confirmed": [
+   "original_title",
+   "date_published"
+  ],
+  "status_reasoning": "Not settled: the stored official page is a JavaScript shell whose text layer holds only the page title, so the commencement clause, entry-into-force date and status cannot be quoted from stored text. The record's current values (In force, 2026-02-06) are left as they are.",
+  "scope_reasoning": "Chapter 23 of the code is binding AI regulation; in scope as before (not re-read this run)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://cbd.minjust.gov.kg/3-48/edition/35412/ru",
+   "reason": "stored copy is an empty JavaScript shell (58 characters of text); needs a rendered or print copy with the code's text, Chapter 23 and the entry-into-force data"
+  }
+ ],
+ "open_questions": [
+  "status, date_in_force, official_identifier (No. 178), title, summary and every other field could not be re-confirmed from stored text: official.html.txt holds only the title line and secondary.html.txt only the register's generic heading. The raw HTML meta description gives 'Code of 31 July 2025 No. 178' but it is not in the text layer and so is not quoted.",
+  "The title 'Digital Code ... (Chapter 23 on artificial intelligence systems)' is an English rendering; no English text stored."
+ ],
+ "cand_id": "KG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "leads": []
+}

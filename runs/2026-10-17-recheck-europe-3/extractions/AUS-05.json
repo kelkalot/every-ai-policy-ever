@@ -1,0 +1,209 @@
+{
+ "cand_id": "AUS-05",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-05",
+ "record": {
+  "summary": "Australia's core guidance for the responsible adoption of AI across the economy, for both developers and deployers of AI systems. It sets out 6 practices aligned with Australia's AI Ethics Principles and international standards: decide who is accountable, understand impacts and plan accordingly, measure and manage risks, share essential information, test and monitor, and maintain human control. It comes as Foundations, for organisations such as small and medium-sized enterprises and not-for-profits, and as Implementation practices for governance professionals and technical experts.",
+  "notes": "Published in October 2025 as the first update of the Voluntary AI Safety Standard of September 2024. The update condensed the standard's 10 guardrails into 6 essential practices, removed redundant language and extended the guidance to AI developers as well as deployers; an appendix maps each practice of the standard to the new implementation practices. Supporting tools referred to in the guidance include AI screening questions, a triage template and an AI register template.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the record's DISR URL now redirects to the National AI Centre's ai.gov.au page of the implementation guidance (stored 11 Oct 2026; the page is marked 'Published 05 May 2026'). Re-read that page and the implementation guidance PDF (National Artificial Intelligence Centre, dated October 2025, stored 11 Oct 2026): title, the 6 practices, the Foundations and Implementation practices versions, alignment with the AI Ethics Principles and international standards, and its account of updating the VAISS. Stored in this run: DISR's page of the Voluntary AI Safety Standard, which gives the publication day ('On 21 October 2025, we published the Guidance for AI Adoption') and shows the National Artificial Intelligence Centre publishing on the Department of Industry, Science and Resources site. The earlier summary's 'AI policy template' is not in this record's stored files and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, Introduction",
+    "quote": "The Guidance for AI Adoption forms the core guidance for the responsible adoption of AI across Australia’s economy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/official.html",
+    "sha256": "8aa911839ad03771161db42f754856f432e886e7d864e931be13de5d381c24d1",
+    "locator": "page title",
+    "quote": "Guidance for AI adoption: implementation guidance | National AI Centre",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 1, cover",
+    "quote": "Guidance for AI adoption: implementation guidance National Artificial Intelligence centre October 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-05/extra-c1e7da31bf/2026-10-17/official.html",
+    "sha256": "06d8df567a568d0afb0066157b9057f5a0fc24189352bd1ff00ead102f982be9",
+    "locator": "page details",
+    "quote": "Publisher National Artificial Intelligence Centre",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-05/extra-c1e7da31bf/2026-10-17/official.html",
+    "sha256": "06d8df567a568d0afb0066157b9057f5a0fc24189352bd1ff00ead102f982be9",
+    "locator": "page title",
+    "quote": "Voluntary AI Safety Standard | Department of Industry Science and Resources",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-05/extra-c1e7da31bf/2026-10-17/official.html",
+    "sha256": "06d8df567a568d0afb0066157b9057f5a0fc24189352bd1ff00ead102f982be9",
+    "locator": "notice above Introduction",
+    "quote": "On 21 October 2025, we published the Guidance for AI Adoption, which outlines 6 essential practices for safe and responsible AI governance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 17, How we developed the guidance",
+    "quote": "In September 2024, we released the Voluntary AI Safety Standard (VAISS). This guidance, published in October 2025, is the first update of the VAISS.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, Introduction",
+    "quote": "The Guidance for AI Adoption forms the core guidance for the responsible adoption of AI across Australia’s economy.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/official.html",
+    "sha256": "8aa911839ad03771161db42f754856f432e886e7d864e931be13de5d381c24d1",
+    "locator": "Download",
+    "quote": "Guidance-for-AI-adoption-implementation-guidance_0_0_0.pdf pdf 4.89 MB ‧ Published 05 May 2026",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, Introduction",
+    "quote": "Best -practice industry guidance plays an important role in building the confidence and capability of Australian workers and organisations",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, Introduction",
+    "quote": "The guidance details 6 key responsible AI practices. These practices align with Australia’s AI Ethics Principles, as well as international standards and governance approaches.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, Introduction",
+    "quote": "Foundations: a high-level, accessible guide to establish the foundations of the 6 responsible AI adoption practices, for organisations such as small and medium-sized enterprises and not-for- profits.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, Introduction",
+    "quote": "Implementation practices: comprehensive guidance for governance professionals and technical experts to implement the 6 responsible AI adoption practices.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 3, How to use this guidance",
+    "quote": "This guidance applies to both developers and deployers of AI systems.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/official.html",
+    "sha256": "8aa911839ad03771161db42f754856f432e886e7d864e931be13de5d381c24d1",
+    "locator": "headings 1 to 6",
+    "quote": "1. Decide who is accountable",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/official.html",
+    "sha256": "8aa911839ad03771161db42f754856f432e886e7d864e931be13de5d381c24d1",
+    "locator": "headings 1 to 6",
+    "quote": "3. Measure and manage risks: implement AI-specific risk management",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/official.html",
+    "sha256": "8aa911839ad03771161db42f754856f432e886e7d864e931be13de5d381c24d1",
+    "locator": "headings 1 to 6",
+    "quote": "6. Maintain human control",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 17, How we developed the guidance",
+    "quote": "condensed 10 guardrails into 6 essential practices • removed redundant language • expanded our audience to developers as well as deployers.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "page 2, Contents",
+    "quote": "Appendix 2 – Crosswalk VAISS x Guidance for AI adoption: Implementation practices",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "AI register practice",
+    "quote": "See the AI register template for additional guidance.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-05/2026-10-11/document-1.pdf",
+    "sha256": "54d7d8f5c416add39981cc57f29a4dc98ad20c0840cde7673a6cc0f4190d39bc",
+    "locator": "practice 3.2.1",
+    "quote": "Foundations Triage template",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored guidance: the 6 practices named, the developer and deployer audience, and the two versions with the audiences the guidance gives them; the 'AI policy template' is not in the stored files",
+   "notes": "rewritten: the guidance's own account of updating the VAISS (condensed 10 guardrails into 6 practices, extended to developers, crosswalk appendix) and the tools it refers to",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The guidance describes itself as 'the core guidance for the responsible adoption of AI across Australia's economy', and the National AI Centre's ai.gov.au page still offers it for download (page dated 5 May 2026; stored 11 Oct 2026). No replacement is shown. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "Government AI governance and risk-management guidance for industry; in scope with no note.",
+  "date_reasoning": "The guidance PDF gives only 'October 2025'; DISR's page of the Voluntary AI Safety Standard, stored in this run, gives the day: 'On 21 October 2025, we published the Guidance for AI Adoption'. date_published stays 2025-10-21."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.industry.gov.au/publications/voluntary-ai-safety-standard",
+   "reason": "DISR's page of the Voluntary AI Safety Standard, stored in this run: 'On 21 October 2025, we published the Guidance for AI Adoption', with the National Artificial Intelligence Centre as publisher on the DISR site; for date_published and issuing_body"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Being Clear About AI-Generated Content (National AI Centre guide, December 2025)",
+   "url": null,
+   "seen_in": "archive/AUS-06/2026-10-11/official.html (Part 2: AI capability and adoption); the ai.gov.au page in archive/AUS-05/2026-10-11/official.html links 'Be clear about AI-generated content' as the next page",
+   "why": "NAIC guidance to businesses on telling users about AI-generated or modified content (transparency and labelling); not in the register."
+  }
+ ],
+ "open_questions": []
+}

@@ -1,0 +1,30 @@
+{
+ "cand_id": "KG-02",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "status": {
+   "verdict": "unsupported",
+   "why": "no stored text supports the value; stored file is a JavaScript shell with only the page title"
+  },
+  "title": {
+   "verdict": "unsupported",
+   "why": "only a truncated page title is stored; it does not show the title or date"
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "only a truncated page title is stored; it does not show the title or date"
+  }
+ },
+ "summary_claims": [],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "needs-human",
+ "note": "The order could not be stored; the stored text is a truncated page title. No factual field has evidence, so every value (title, date, status) is unsupported and nothing the run changes can be confirmed. needs-human until the order is stored or provided."
+}

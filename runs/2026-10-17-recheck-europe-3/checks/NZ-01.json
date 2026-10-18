@@ -1,0 +1,55 @@
+{
+ "cand_id": "NZ-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported",
+   "why": "Government Chief Digital Officer named on the page; the Department of Internal Affairs part is shown by NZ-03's stored PDF (page 33), not by this record's files."
+  },
+  "date_published": {
+   "verdict": "unsupported",
+   "why": "The quote is the page's 'Last updated 29 January 2025' stamp, not a publication date, and the page refers to the strategy launched in July 2025, so 2025-01 is doubtful. The value is unchanged by this run; it stays an open question."
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "5 principles informed by OECD AI principles and 6 pillars",
+   "verdict": "supported",
+   "locator": "framework page"
+  },
+  {
+   "claim": "agencies should disclose when AI systems are used and provide human oversight",
+   "verdict": "supported",
+   "locator": "framework page, principles"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Content, status and non-binding character confirmed. date_published rests on a page-stamp that is inconsistent with a July 2025 reference; no fix can be quoted, so it is left to a question (not a value the run changes)."
+}

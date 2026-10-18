@@ -1,0 +1,169 @@
+{
+ "cand_id": "AUS-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-01",
+ "record": {
+  "official_identifier": null,
+  "date_last_updated": "2025-12-15",
+  "summary": "Whole-of-government policy that sets mandatory requirements for the use of AI by all non-corporate Commonwealth entities, with some exceptions. Version 2.0, effective 15 December 2025, requires departments and agencies to have accountable officials, publish AI transparency statements, develop a strategic approach to AI adoption, operationalise the responsible use of AI, assign accountability for each AI use case, keep internal use case registers, train staff on AI and carry out AI use case impact assessments. It aims to keep government an exemplar in responsible AI use.",
+  "safety_topics": [
+   "public-sector use",
+   "accountability & liability",
+   "transparency & labelling",
+   "risk-based classification"
+  ],
+  "notes": "Version 2.0, the December 2025 update, took effect on 15 December 2025 and replaced version 1.1, which took effect on 1 September 2024. The update added requirements for a strategic approach to AI adoption, for operationalising the responsible use of AI, for designated accountability for AI use cases and for risk-based actions at the level of each use case. The policy is organised in three sections: strategy and oversight, preparedness and operations, and AI use case impact assessment. The DTA publishes with it a technical standard for government's use of AI, an agentic AI addendum, an AI impact assessment tool and the APS AI Plan 2025.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the DTA policy page stored on 11 Oct 2026 (the archiver found it unchanged on 17 Oct 2026). It now shows version 2.0, effective 15 December 2025, and its mandatory requirements; the earlier record described version 1.1. The PDF of version 2.0 linked from the page is not stored (the site's robots.txt does not allow automated downloads), so the requirements rest on the policy page. The page gives the date version 1.1 took effect (1 September 2024), not its issue date, so date_published stays at that date. The version 1.1 deadlines for accountable officials (30 Nov 2024) and transparency statements (28 Feb 2025) in the earlier summary are not on the stored page and were removed; the version label 'Version 1.1' was removed from official_identifier."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "page heading",
+    "quote": "Policy for the responsible use of AI in government Version 2.0",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "page footer",
+    "quote": "An initiative of the Digital Transformation Agency",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Need to know",
+    "quote": "The first version (v1.1) took effect on 1 September 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Need to know",
+    "quote": "The first version (v1.1) took effect on 1 September 2024.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Need to know",
+    "quote": "This version of the policy (v2.0) is effective 15 December 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Need to know",
+    "quote": "This version of the policy (v2.0) is effective 15 December 2025.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Need to know",
+    "quote": "It applies to all non-corporate Commonwealth entities, with some exceptions. Departments and agencies must meet the mandatory requirements for",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Need to know",
+    "quote": "accountable official(s) transparency statements developing a strategic approach to AI adoption operationalising the responsible use of AI AI use case accountability internal use case registers staff training on AI AI use case impact assessment",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Policy overview",
+    "quote": "It allows them to embrace AI while continuing to position government as an exemplar in responsible AI use, in line with the Australian community's expectations.",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Policy introduction",
+    "quote": "It introduces requirements for agencies to develop a strategic approach to adopting AI, establish an approach to operationalise the responsible use of AI, ensure designated accountability for AI use cases, and undertake risk-based use case-level actions.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Policy overview",
+    "quote": "The policy outlines principles and requirements under the following sections: strategy and oversight, preparedness and operations, and AI use case impact assessment.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-01/2026-10-11/official.html",
+    "sha256": "0a762bac3945e1e6a8e8a879c03eaf72b8613bd6b4cc5c22c2e15f727819ff6f",
+    "locator": "Artificial intelligence menu",
+    "quote": "Technical standard for government’s use of artificial intelligence",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_identifier": "'Version 1.1' is a version label, which the field excludes, and the stored page now shows version 2.0; the policy has no citable number",
+   "date_last_updated": "version 2.0 (the December 2025 update) is effective 15 December 2025",
+   "summary": "rewritten for version 2.0 from the stored page: its eight mandatory requirement areas; the version 1.1 deadlines are not on the stored page",
+   "safety_topics": "'risk-based classification' added: version 2.0 requires risk-based actions per use case and an AI use case impact assessment",
+   "notes": "rewritten: version 2.0 and what the December 2025 update added, the three sections, and the companion DTA instruments listed on the page",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "date_in_force",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The stored page (last modified 7 Oct 2026) says version 2.0 is effective 15 December 2025, which has passed, and the first version took effect on 1 September 2024. No withdrawal or replacement is shown. 'In force' stands.",
+  "scope_reasoning": "An AI-specific whole-of-government policy with mandatory requirements for agencies' use of AI; in scope with no note.",
+  "date_reasoning": "date_published and date_in_force stay 1 September 2024, the date version 1.1 took effect; the stored page gives no separate issue date. date_last_updated is the effective date of version 2.0 (15 December 2025); the page itself shows 'LAST UPDATED: 1 Dec 2025'."
+ },
+ "extra_urls": [],
+ "leads": [
+  {
+   "title": "Technical standard for government's use of artificial intelligence (Digital Transformation Agency)",
+   "url": "https://www.digital.gov.au/policy/ai/AI-technical-standard",
+   "seen_in": "archive/AUS-01/2026-10-11/official.html (Artificial intelligence menu)",
+   "why": "DTA technical standard with 42 statements across the AI lifecycle (testing for safety, robustness and reliability, watermarking, incident resolution); not in the register."
+  },
+  {
+   "title": "Agentic AI addendum (Digital Transformation Agency)",
+   "url": "https://www.digital.gov.au/policy/ai/agentic-ai-addendum",
+   "seen_in": "archive/AUS-01/2026-10-11/official.html (Artificial intelligence menu)",
+   "why": "DTA addendum on agentic AI for government use, published with the policy and the technical standard; not in the register."
+  },
+  {
+   "title": "AI Plan for the Australian Public Service 2025, with the Statement of Intent on AI in the Australian Public Service",
+   "url": "https://www.digital.gov.au/policy/ai/australian-public-service-ai-plan-2025",
+   "seen_in": "archive/AUS-01/2026-10-11/official.html (Artificial intelligence menu); release on 12 November 2025 stated in archive/AUS-06/2026-10-11/official.html (Part 2)",
+   "why": "Government plan for AI use across the APS with a 'Trust: Transparency, ethics and governance' part; possibly in scope with a scope_note as an adoption plan."
+  }
+ ],
+ "open_questions": []
+}

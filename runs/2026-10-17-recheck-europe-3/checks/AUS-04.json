@@ -1,0 +1,51 @@
+{
+ "cand_id": "AUS-04",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "'Will not proceed at this time' on the consultation page supports Revoked / withdrawn; judgment call."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "10 proposed mandatory guardrails ending with conformity assessment",
+   "verdict": "supported",
+   "locator": "proposals paper page 37"
+  },
+  {
+   "claim": "3 regulatory options incl. new cross-economy AI Act",
+   "verdict": "supported",
+   "locator": "proposals paper page 4"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Consultation dates 5 Sep to 4 Oct 2024 and the not-proceeding update confirmed on the rendered page and PDF. Paper quotes count as secondary (storage.googleapis.com) but the official consultation page carries title, dates and status."
+}

@@ -1,0 +1,54 @@
+{
+ "cand_id": "BG-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "judgment-differs",
+   "why": "the quote is the adoption date; no entry-into-force rule is stored, so equating the two is an assumption"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Government adopted a decision under Article 77 designating national fundamental-rights authorities, proposed by the Minister of e-Government",
+   "verdict": "supported",
+   "locator": "sitting page"
+  },
+  {
+   "claim": "Designated bodies may request and obtain access to documentation under the AI Act",
+   "verdict": "supported",
+   "locator": "press summary of the sitting"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Title, date and adoption rest on the gov.bg sitting page (official); the decision number 398 and the seven bodies rest only on strategy.bg and BTA, which count as secondary, so the level will not be A. The .doc text could not be read. date_in_force equal to the adoption date is an assumption (no entry-into-force rule seen), shown as judgment-differs. One search found no 2026 Council of Ministers decision on AI Act authorities."
+}

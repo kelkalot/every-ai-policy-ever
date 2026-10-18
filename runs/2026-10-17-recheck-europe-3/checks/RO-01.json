@@ -1,0 +1,56 @@
+{
+ "cand_id": "RO-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. 3 bans AI for administrative decisions without human intervention; Art. 4 bans AI pronouncing court judgments",
+   "verdict": "supported",
+   "locator": "bill text, page 1"
+  },
+  {
+   "claim": "Art. 11 fines up to RON 100,000,000 and two to five years' imprisonment",
+   "verdict": "supported",
+   "locator": "bill text, page 2"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Private members' bill rejected by the Senate and by the Chamber's committees, with little chance of passing; included because it is the only AI-specific bill before the Romanian Parliament."
+ },
+ "overall": "accept",
+ "note": "Procedural facts match the Senate and Chamber files (31 Mar 2025 filing, 2 Jun rejection 84-40-2, 26 Nov 2025 rejection report); summary now matches the bill text. date_last_updated moves to 2025-11-26. Search found no plenary vote. Status Draft / proposed stays. Private members' bill, so borderline with a scope note."
+}

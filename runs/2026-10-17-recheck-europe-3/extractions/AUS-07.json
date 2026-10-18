@@ -1,0 +1,255 @@
+{
+ "cand_id": "AUS-07",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-07",
+ "record": {
+  "summary": "Sets up an Australian AI Safety Institute, to become operational in early 2026, to monitor, test and share information on emerging AI technologies, risks and harms. It will help ministers, agencies and regulators keep laws in step with AI developments, test frontier AI models for safety, act as a central hub for coordinated government action, give guidance through the National AI Centre and support Australia's commitments under international AI safety agreements. It will not be a regulator, and its work complements existing legal and regulatory frameworks.",
+  "notes": "Announced on 25 November 2025 in a joint media release of the Minister for Industry and Innovation and the Assistant Minister for Science, Technology and the Digital Economy, a week before the National AI Plan of 2 December 2025, which includes establishing the Institute. Funding is $29.8 million over 4 years from 2025-26 and $7.9 million a year ongoing from 2029-30. The Institute is part of the Department of Industry, Science and Resources. Its page, as of October 2026, sets 3 goals: analyse and test new AI models and applications, support regulators and agencies in responding to emerging AI risks and harms, and shape safe AI development, deployment and international governance. It takes part in joint testing of frontier AI systems through the International Network for Advanced AI Measurement, Evaluation and Science, the renamed International Network of AI Safety Institutes, of which Australia is a founding member.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the DISR news page (stored 11 Oct 2026; the archiver found it unchanged on 17 Oct 2026): dated 25 November 2025, the Institute's tasks, its complementary role, operation from early 2026, network membership and the 17 December update on the network's new name. Stored in this run: the minister's joint media release of 25 November 2025 and the Institute's own DISR page, which shows it as part of DISR, its 3 goals, joint testing exercises and publications up to October 2026. Funding, frontier-model testing and the statement that the Institute will not be a regulator rest on the Government response to the Senate Select Committee on Adopting AI (industry.gov.au, 1 Apr 2026), stored as this record's secondary source. The earlier notes' MoU with Canada of 5 Mar 2026 is not in the stored files and was removed."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item",
+    "quote": "The Australian Government is establishing an Australian Artificial Intelligence Safety Institute to respond to AI-related risks and harms.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "page heading",
+    "quote": "Australia to establish new institute to strengthen AI safety",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "page title",
+    "quote": "Australia to establish new institute to strengthen AI safety | Department of Industry Science and Resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item",
+    "quote": "The Australian Government is establishing an Australian Artificial Intelligence Safety Institute to respond to AI-related risks and harms.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-2eca4c3b4b/2026-10-17/official.html",
+    "sha256": "706b99d6c9bb1f79e98a733657349d7578c0dc773d61d1ee71dfb518e26c7189",
+    "locator": "media release",
+    "quote": "Joint media release with Assistant Minister for Science, Technology and the Digital Economy, Dr Andrew Charlton",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "More information",
+    "quote": "The minister announced the Australian AI Safety Institute on 25 November 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-2eca4c3b4b/2026-10-17/official.html",
+    "sha256": "706b99d6c9bb1f79e98a733657349d7578c0dc773d61d1ee71dfb518e26c7189",
+    "locator": "media release heading",
+    "quote": "Establishment of Australian AI Safety Institute 25 November 2025 Media release",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item",
+    "quote": "The AI Safety Institute will become operational in early 2026.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "the Australian Government provided $29.8 million over 4 years from 2025–26 (and $7.9 million per year ongoing from 2029–2030) to establish the Australian AI Safety Institute.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-0335e7b7b2/2026-10-17/official.html",
+    "sha256": "2cb114371bf23c0196064487d1d030f55d8481f90cecae79ac1f0b61e86c6982",
+    "locator": "About us",
+    "quote": "Australia’s AI Safety Institute was announced as a key action under the National AI Plan. It is part of the Department of Industry, Science and Resources.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item",
+    "quote": "Its work will complement existing legal and regulatory frameworks that already protect Australians’ rights and safety.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "The AI Safety Institute will not be a regulator.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item",
+    "quote": "The AI Safety Institute will provide trusted, expert capability to monitor, test and share information on emerging AI technologies, risks and harms.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item, its work will include",
+    "quote": "serving as a central hub to share insights and support coordinated government action",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item, its work will include",
+    "quote": "giving guidance on AI opportunity, risk and safety for businesses, government and the public through established channels including the National AI Centre (NAIC)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item, its work will include",
+    "quote": "supporting Australia’s commitments under international AI safety agreements.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "The role of the AI Safety Institute will be to assist Ministers, agencies, and regulators to ensure Australia’s laws keep pace with AI developments to protect people and businesses.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "monitoring and testing frontier AI models for safety",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-2eca4c3b4b/2026-10-17/official.html",
+    "sha256": "706b99d6c9bb1f79e98a733657349d7578c0dc773d61d1ee71dfb518e26c7189",
+    "locator": "page title",
+    "quote": "Establishment of Australian AI Safety Institute | Senator the Hon Tim Ayres | Ministers for the Department of Industry, Science and Resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-2eca4c3b4b/2026-10-17/official.html",
+    "sha256": "706b99d6c9bb1f79e98a733657349d7578c0dc773d61d1ee71dfb518e26c7189",
+    "locator": "media release",
+    "quote": "Joint media release with Assistant Minister for Science, Technology and the Digital Economy, Dr Andrew Charlton",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-2eca4c3b4b/2026-10-17/official.html",
+    "sha256": "706b99d6c9bb1f79e98a733657349d7578c0dc773d61d1ee71dfb518e26c7189",
+    "locator": "About Minister Ayres",
+    "quote": "Senator the Hon Tim Ayres was sworn in as Minister for Industry and Innovation and Minister for Science on 13 May 2025.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Overview",
+    "quote": "On 2 December 2025, the Australian Government released its National AI Plan (the plan).",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/secondary.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "the Australian Government provided $29.8 million over 4 years from 2025–26 (and $7.9 million per year ongoing from 2029–2030) to establish the Australian AI Safety Institute.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-0335e7b7b2/2026-10-17/official.html",
+    "sha256": "2cb114371bf23c0196064487d1d030f55d8481f90cecae79ac1f0b61e86c6982",
+    "locator": "About us",
+    "quote": "Australia’s AI Safety Institute was announced as a key action under the National AI Plan. It is part of the Department of Industry, Science and Resources.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-0335e7b7b2/2026-10-17/official.html",
+    "sha256": "2cb114371bf23c0196064487d1d030f55d8481f90cecae79ac1f0b61e86c6982",
+    "locator": "What Australia’s AI Safety Institute does",
+    "quote": "Analyse and test new AI models and applications. Support regulators and agencies in responding to emerging AI risks and harms. Shape safe AI development, deployment and international governance in Australia's interests.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-0335e7b7b2/2026-10-17/official.html",
+    "sha256": "2cb114371bf23c0196064487d1d030f55d8481f90cecae79ac1f0b61e86c6982",
+    "locator": "Joint testing exercises",
+    "quote": "Australia contributes to joint testing of frontier AI systems through the NAAIMES.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-07/extra-0335e7b7b2/2026-10-17/official.html",
+    "sha256": "2cb114371bf23c0196064487d1d030f55d8481f90cecae79ac1f0b61e86c6982",
+    "locator": "International engagement and influence",
+    "quote": "Australia is a founding member of NAAIMES.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-07/2026-10-11/official.html",
+    "sha256": "7c109a0cbac1c86b9dede35ce1f6218ca07366753755c8640db20e3c6f28bab8",
+    "locator": "news item",
+    "quote": "Updated 17 December: The International Network of AI Safety Institutes is now called the International Network for Advanced AI Measurement, Evaluation and Science.",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the stored news page and the Senate committee response: planned start of operation, the tasks in the page's words, frontier-model testing and the non-regulatory role",
+   "notes": "rewritten: announcement in the ministers' joint media release, link to the National AI Plan, funding, the Institute's place in DISR and its 3 goals and joint testing (its DISR page, stored in this run), and the network's new name; the Canada MoU is not in the stored files",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The news page of 25 November 2025 says the Institute is being established and will become operational in early 2026. The Institute's own DISR page (stored 17 Oct 2026) describes it as part of DISR, with 3 goals, joint testing exercises and publications up to October 2026, so the mandate is in effect and nothing shows it withdrawn. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "The mandate of a national AI safety institute; in scope with no note.",
+  "date_reasoning": "date_published is the announcement date the page gives (25 November 2025)."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute",
+   "reason": "the AI Safety Institute's own page on industry.gov.au, stored in this run; for the status and the notes"
+  },
+  {
+   "url": "https://www.minister.industry.gov.au/ministers/timayres-chisholm/media-releases/establishment-australian-ai-safety-institute",
+   "reason": "the ministers' joint media release of 25 November 2025, stored in this run; for date_published, issuing_body and the notes"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

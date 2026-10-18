@@ -1,0 +1,54 @@
+{
+ "cand_id": "AUS-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_last_updated": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported",
+   "why": "Superseded is defensible: the Guidance calls itself the first update and integrates all VAISS practices, though DISR words it as 'evolves'."
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "10 guardrails incl. risk management, testing and monitoring, supply-chain transparency",
+   "verdict": "supported",
+   "locator": "10 guardrails at a glance (stored extra page)"
+  },
+  {
+   "claim": "Guidance for AI Adoption condensed 10 guardrails into 6 practices and calls itself first update of VAISS",
+   "verdict": "supported",
+   "locator": "Guidance PDF page 17"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Status Superseded rests on DISR's 'evolves' notice and the Guidance PDF (page 17-18); judgment call, defensible. date_updated 2 Dec 2025 on page is a page stamp; record keeps 21 Oct 2025 as new-version date. Web search found no contrary official statement."
+}

@@ -1,0 +1,51 @@
+{
+ "cand_id": "AUS-05",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported",
+   "why": "DISR page: 'On 21 October 2025, we published the Guidance for AI Adoption'; the PDF quote alone gives the month only."
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "summary": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "6 practices, Foundations and Implementation versions",
+   "verdict": "supported",
+   "locator": "PDF page 3 Introduction"
+  },
+  {
+   "claim": "applies to both developers and deployers",
+   "verdict": "supported",
+   "locator": "PDF page 3, How to use this guidance"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Day-level date supported by the stored DISR VAISS page; month-only warning concerns the PDF quote. The ai.gov.au 'Published 05 May 2026' stamp is a file/page stamp, not the guidance date (PDF is dated October 2025)."
+}

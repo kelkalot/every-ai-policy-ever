@@ -1,0 +1,227 @@
+{
+ "cand_id": "CY-01",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "CY-01",
+ "record": {
+  "date_last_updated": null,
+  "summary": "Draft Cypriot law to apply and supervise the EU AI Act, published for consultation by the Commissioner of Communications on 16 August 2026. The Commissioner, acting through an AI Regulation Directorate, would be notifying authority, market surveillance authority and single point of contact; the Commissioner for Personal Data Protection would supervise high-risk systems in law enforcement, migration and border control, and justice and democracy, with related prohibited practices, and the Central Bank those of financial institutions. It sets serious-incident reporting, investigation powers, fines of up to EUR 35 million or 7% of turnover for prohibited practices, and an AI regulatory sandbox.",
+  "notes": "Posted on the government's e-consultation platform on 16 August 2026, with comments open until 16 September 2026; the platform shows 102 comments and marks the bill as under processing. The draft's long title refers to the application of Regulation (EU) 2024/1689 and its short title is the Artificial Intelligence Law; it would enter into force on publication in the Official Gazette. Other non-compliance carries fines of up to EUR 30,000 (EUR 60,000 for a repeat), and public authorities and bodies fines of up to EUR 50,000 per non-compliance and EUR 50 a day, amounts the draft marks as indicative. The Commissioner could authorise real-time remote biometric identification in publicly accessible spaces for law enforcement, within the AI Act's limits, by secondary legislation on criteria approved by the Council of Ministers. The Commission's list of single points of contact (last updated 7 September 2026) shows the Commissioner of Communications for Cyprus, marked as a designation still pending final adoption.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the e-consultation.gov.cy bill page and the draft bill PDF linked from it (9 pages), both stored on 12 Oct 2026 and unchanged on 17 Oct, and the Commission's list of market surveillance authorities stored the same day. The page confirms the title, the Commissioner of Communications as publisher, the posting and closing dates, the 25 article headings, the comment count and the status 'under processing'; the bill text confirms the authorities (Article 5), fines (Article 14), the biometric exception (Article 21), the sandbox (Article 22) and entry into force (Article 25). Version 1's statements on a companion bill creating the AI Regulation Directorate, on the January 2025 Council of Ministers designation and the national AI Taskforce (InBusinessNews), and the Cyprus Mail report rested on no stored file and were removed; the fines and the Central Bank's role now rest on the bill text. No English version was found. Whether the bill has since been tabled in the House of Representatives was not checked against a stored file."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation announcement",
+    "quote": "Ο περί Τεχνητής Νοημοσύνης Νόμος του 2026 έχει ως αντικείμενο την εφαρμογή του Κανονισμού (ΕΕ) 2024/1689",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 1",
+    "quote": "Ο ΠΕΡΙ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΤΟΥ ΚΑΝΟΝΙΣΜΟΥ (ΕΕ) 2024/1689 ΓΙΑ ΤΗ ΘΕΣΠΙΣΗ ΕΝΑΡΜΟΝΙΣΜΕΝΩΝ ΚΑΝΟΝΩΝ ΓΙΑ ΤΗΝ ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ ΝΟΜΟΣ ΤΟΥ 2026",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation announcement",
+    "quote": "Ο περί Τεχνητής Νοημοσύνης Νόμος του 2026 έχει ως αντικείμενο την εφαρμογή του Κανονισμού (ΕΕ) 2024/1689",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation announcement",
+    "quote": "ΕΠΙΤΡΟΠΟΣ ΕΠΙΚΟΙΝΩΝΙΩΝ Ανακοινώνεται η έναρξη Δημόσιας Διαβούλευσης για το εξής Νομοσχέδιο:",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation details",
+    "quote": "Αναρτήθηκε 16 Αυγ 2026 @ 0:00",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation details",
+    "quote": "Νομοσχέδιο Υπό επεξεργασία Αναρτήθηκε 16 Αυγ 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 2",
+    "quote": "Η Βουλή των Αντιπροσώπων ψηφίζει ως ακολούθως:",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation announcement",
+    "quote": "Ανακοινώνεται η έναρξη Δημόσιας Διαβούλευσης για το εξής Νομοσχέδιο:",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 3, Article 5(1)(a)",
+    "quote": "Ο Επίτροπος, ως Κοινοποιούσα Αρχή και ως Αρχή Εποπτείας της Αγοράς, η οποία ενεργεί ως το Ενιαίο Σημείο Επαφής για τον Κανονισμό.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 3, Article 5(1)(a)",
+    "quote": "ανατίθεται στη Διεύθυνση Ρύθμισης Τεχνητής Νοημοσύνης",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 4, Article 5(1)(b)",
+    "quote": "για τα συστήματα ΤΝ υψηλού κινδύνου που απαριθμούνται στ α σημεία 6, 7 και 8 του Παραρτήματος ΙΙΙ του Κανονισμού, και για απαγορευμένα συστήματα",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 4, Article 5(1)(c)",
+    "quote": "Η Κεντρική Τράπεζα, η οποία ενεργεί ως Αρχή Εποπτείας της Αγοράς, για συστήματα ΤΝ υψηλού κινδύνου",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 6, Article 14(2)",
+    "quote": "εκατομμύρια (35.000. 000) ευρώ ή εάν ο παραβάτης είναι επιχείρηση, έως το 7 % του συνολικού παγκόσμιου ετήσιου κύκλου εργασιών",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 5, Article 11",
+    "quote": "Κάθε Αρμόδια Αρχή κοινοποιεί αμέσως κάθε σοβαρό περιστατικό",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation announcement",
+    "quote": "μέσω της πλατφόρμας «η-Διαβούλευση» μέχρι 16 Σεπτεμβρίου 2026",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/official.html",
+    "sha256": "d776fbe355f2af7b2375c8bfb209c8e5c807ebfc66ada052457f053255ef3d20",
+    "locator": "consultation details",
+    "quote": "102 σχόλια",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 2, Article 1",
+    "quote": "Ο παρών Νόμος θα αναφέρεται ως ο περί της Τεχνητής Νοημοσύνης Νόμος.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 9, Article 25",
+    "quote": "Ο παρών Νόμος τίθεται σε ισχύ από την ημέρα δημοσίευσης του στην Επίσημη Εφημερίδα της Δημοκρατίας.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 5, Article 14(1)(c)(iv)",
+    "quote": "Διοικητικό πρόστιμο το οποίο δεν υπερβαίνει τις τριάντα χιλιάδες (30.000) ευρώ",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 7, Article 14(10)",
+    "quote": "Το εν λόγω διοικητικό πρόστιμο δεν θα υπερβαίνει το ποσό των πενήντα χιλιάδων ευρώ (€50.000) (ενδεικτικά) για κάθε μη συμμόρφωση",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/document-1.pdf",
+    "sha256": "b1e347e5fa6061486aced5d8363714aa04e4fe5e2904a746bfe225b5458d9ff8",
+    "locator": "page 8, Article 21",
+    "quote": "βάσει κριτηρίων που εγκρίνονται από το Υπουργικό Συμβούλιο",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/secondary.html",
+    "sha256": "846b561e81c3257c82c75132183296cd57112fa9cbeaa9e29ed90be8fb1b0f7e",
+    "locator": "Single Points of Contact",
+    "quote": "Cyprus *ΕΠΙΤΡΟΠΟΣ ΕΠΙΚΟΙΝΩΝΙΩΝ | Commissioner of Communications",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/CY-01/2026-10-12/secondary.html",
+    "sha256": "846b561e81c3257c82c75132183296cd57112fa9cbeaa9e29ed90be8fb1b0f7e",
+    "locator": "Single Points of Contact",
+    "quote": "For Single Points of Contact marked with *, the national designation decision is still pending final adoption.",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "date_last_updated": "cleared: 16 September 2026 is the consultation's closing date, which section 5.6 keeps out of date_last_updated; no new version of the draft appears in the stored files",
+   "summary": "rewritten from the stored bill text: the authorities and their remits (Article 5), the Directorate, the fine ceiling for prohibited practices and the sandbox; the companion-bill sentence removed (no stored file)",
+   "notes": "rewritten: companion bill, January 2025 Council of Ministers decision, AI Taskforce and press reports removed (no stored file); fines, the biometric exception and entry into force added from the bill text",
+   "english_version": "no English text was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "A draft bill posted for public consultation on 16 August 2026; the consultation closed on 16 September 2026 and the platform marks it 'Υπό επεξεργασία' (under processing) on the page stored on 12 October 2026. The text is addressed to the House of Representatives ('Η Βουλή των Αντιπροσώπων ψηφίζει ως ακολούθως') and has not been enacted. 'Draft / proposed' with legal force 'Proposed' stands.",
+  "scope_reasoning": "Draft national law implementing the EU AI Act (pending bill); in scope with no note.",
+  "date_reasoning": "date_published is the consultation posting date (16 August 2026). The consultation's closing date is not a new version, so date_last_updated is cleared and the closing date stays in the notes."
+ },
+ "leads": [
+  {
+   "title": "Decision of the Council of Ministers of Cyprus (January 2025) designating the Commissioner of Communications and the Commissioner for Personal Data Protection as AI Act authorities and setting up a national AI Taskforce",
+   "url": null,
+   "seen_in": "CY-01 version 1 notes (InBusinessNews/Reporter, 22 January 2025)",
+   "why": "A government decision on AI Act supervision; not in the register and not stored."
+  }
+ ],
+ "extra_urls": [],
+ "open_questions": []
+}

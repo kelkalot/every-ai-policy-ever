@@ -1,0 +1,213 @@
+{
+ "cand_id": "GR-02",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "GR-02",
+ "record": {
+  "summary": "AI chapter of a 2022 digital-governance law (Articles 3-14). Public-sector bodies may use AI systems to take or support decisions affecting a person's rights only where a specific law expressly allows it with safeguards; the defence and citizen-protection ministries and the intelligence service are excluded. Before use a body must carry out an algorithmic impact assessment, publish information about the system and keep a register of its systems, and contractors must disclose how systems work. Private employers must inform workers and candidates before using AI that affects decisions about them, and medium and large firms must register AI used for consumer profiling or staff evaluation.",
+  "notes": "Signed on 26 July 2022 and published on 27 July 2022; the AI chapter applied from 1 January 2023 (Article 116(2)). The National Transparency Authority handles complaints about breaches of the public-sector transparency duties. The rest of the law covers cybersecurity, Internet of Things devices, unmanned aircraft for postal services, distributed ledger technology, 3D printing and other digital-governance matters. Chapter B of Part A was repealed by Article 26 of Law 5321/2026 from 20 July 2026, which re-established the public-sector AI register and the AI Observatory and set up the AI Act supervisory structure.",
+  "english_version": {
+   "kind": "none found"
+  },
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: re-read the Government Gazette PDF of Law 4961/2022 (ΦΕΚ Α΄ 146/27.07.2022, 44 pages) stored on 12 Oct 2026 from the National Printing House file store and unchanged on 17 Oct, and stored for this record on 17 Oct 2026 the Government Gazette of Law 5321/2026 (ΦΕΚ Α΄ 114/20.07.2026, the same file as GR-01's). The first confirms the title, number, dates, signatures, the full text of Articles 3-14 and Article 116 on entry into force; the second confirms the repeal of the AI chapter by Article 26 and the new register and observatory (Articles 21-22). No English translation of the law was found."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "NOMOΣ ΥΠ’ ΑΡΙΘΜ. 4961 Αναδυόμενες τεχνολογίες πληροφορικής και επικοινωνιών, ενίσχυση της ψηφιακής διακυβέρνησης και άλλες διατάξεις.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "ΚΕΦΑΛΑΙΟ Β’- ΡΥΘΜΙΣΕΙΣ ΓΙΑ ΤΗΝ ΑΝΑΠΤΥΞΗ ΤΗΣ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "NOMOΣ ΥΠ’ ΑΡΙΘΜ. 4961 Αναδυόμενες τεχνολογίες πληροφορικής και επικοινωνιών, ενίσχυση της ψηφιακής διακυβέρνησης και άλλες διατάξεις.",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "Εκδίδομε τον ακόλουθο νόμο που ψήφισε η Βουλή:",
+    "source_kind": "official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "27 Ιουλίου 2022 ΤΕΥΧΟΣ ΠΡΩΤΟ Αρ. Φύλλου 146",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "NOMOΣ ΥΠ’ ΑΡΙΘΜ. 4961",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 1",
+    "quote": "27 Ιουλίου 2022 ΤΕΥΧΟΣ ΠΡΩΤΟ Αρ. Φύλλου 146",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 43",
+    "quote": "Θεωρήθηκε και τέθηκε η Μεγάλη Σφραγίδα του Κράτους. Αθήνα, 27 Ιουλίου 2022",
+    "source_kind": "official"
+   }
+  ],
+  "date_in_force": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 42, Article 116(2)",
+    "quote": "2. Η ισχύς του Κεφαλαίου Β’ του Μέρους Α’ αρχίζει την 1η.1.2023.",
+    "source_kind": "official"
+   }
+  ],
+  "date_last_updated": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-02/extra-aa413ff68c/2026-10-17/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 14, Article 26 of Law 5321/2026",
+    "quote": "Από την έναρξη ισχύος του παρόντος νόμου καταργείται το Κεφάλαιο Β’ του Μέρους Α’ του ν. 4961/2022 (Α’ 146).",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-02/extra-aa413ff68c/2026-10-17/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 1, gazette header of Law 5321/2026",
+    "quote": "20 Ιουλίου 2026 ΤΕΥΧΟΣ ΠΡΩΤΟ Αρ. Φύλλου 114",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-02/extra-aa413ff68c/2026-10-17/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 14, Article 26 of Law 5321/2026",
+    "quote": "Από την έναρξη ισχύος του παρόντος νόμου καταργείται το Κεφάλαιο Β’ του Μέρους Α’ του ν. 4961/2022 (Α’ 146).",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 43",
+    "quote": "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους.",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 4, Article 4(1)",
+    "quote": "μόνον εφόσον η χρήση αυτή προβλέπεται ρητά σε ειδική διάταξη νόμου που περιλαμβάνει κατάλληλες εγγυήσεις για την προστασία των δικαιωμάτων αυτών",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 4, Article 4(2)",
+    "quote": "εξαιρούνται τα Υπουργεία Εθνικής Άμυνας και Προστασίας του Πολίτη, οι εποπτευόμενοι φορείς αυτών, καθώς και η Εθνική Υπηρεσία Πληροφοριών",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 4, Article 5(1)",
+    "quote": "πριν από την έναρξη λειτουργίας του συστήματος, εκπονεί αλγοριθμική εκτίμηση αντικτύπου",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 5, Article 9(1)",
+    "quote": "σε κάθε περίπτωση πριν την πρώτη χρήση του, παρέχει επαρκή και σαφή πληροφόρηση σε κάθε εργαζόμενο ή υποψήφιο εργαζόμενο",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 6, Article 10(1)",
+    "quote": "είτε στο πλαίσιο κατάρτισης προφίλ καταναλωτών είτε στο πλαίσιο αξιολόγησης των πάσης φύσεως εργαζο- μένων της",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 4, Article 6(3)",
+    "quote": "Η Εθνική Αρχή Διαφάνειας (Ε.Α.Δ.), με σκοπό την ενίσχυση της διαφάνειας, της ακεραιότητας και της λογοδοσίας",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/GR-02/2026-10-12/official.pdf",
+    "sha256": "efd553d9411f4039375c74e9e332456401b51c7470d6567f4f13cfeb55d2a43d",
+    "locator": "page 43",
+    "quote": "Αθήνα, 26 Ιουλίου 2022",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/GR-02/extra-aa413ff68c/2026-10-17/official.pdf",
+    "sha256": "f5d3ccb03a811b872a7babd4733c523a66e2635f6e05e36fa2f8e74e1dd8e73b",
+    "locator": "page 13, Article 22 of Law 5321/2026",
+    "quote": "Συστήνεται στο Υπουργείο Ψηφιακής Διακυβέρνησης Παρατηρητήριο ΤΝ",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "summary": "rewritten from the full text of Articles 3-14, now read beyond their headings: exact exclusion (the Ministries of National Defence and Citizen Protection, their supervised bodies and the National Intelligence Service), the publication and register duties, and Article 10's register for medium and large firms added; 'Greece's first' removed (not stated in the text)",
+   "notes": "the National Transparency Authority's complaint role added (Article 6(3)); the list of the law's other subjects made specific",
+   "english_version": "no English text of the law was found",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "official_identifier",
+   "date_published",
+   "date_in_force",
+   "date_last_updated",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "Article 26 of Law 5321/2026 (ΦΕΚ Α΄ 114/20.07.2026, stored for this record) repeals Chapter B of Part A of Law 4961/2022 from that law's entry into force on 20 July 2026, and Articles 21-22 re-establish its register and observatory under the AI Act implementation framework. The record covers the AI chapter, which has been replaced, so 'Superseded' stands.",
+  "scope_reasoning": "AI-specific statutory provisions on public-sector and workplace use of AI; in scope with no note. Kept after repeal as a superseded instrument (AGENTS.md section 4, rule 7).",
+  "date_reasoning": "date_published is the gazette date (27 July 2022), date_in_force the AI chapter's commencement under Article 116(2) (1 January 2023), date_last_updated the repeal by Law 5321/2026 (20 July 2026)."
+ },
+ "extra_urls": [],
+ "open_questions": [],
+ "leads": []
+}

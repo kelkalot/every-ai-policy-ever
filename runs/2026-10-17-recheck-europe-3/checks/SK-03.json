@@ -1,0 +1,53 @@
+{
+ "cand_id": "SK-03",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Art. V: the act takes effect on 1 January 2027",
+   "verdict": "supported",
+   "locator": "bill text"
+  },
+  {
+   "claim": "Resolution no. 1497 sets the second reading in the Constitutional Law Committee",
+   "verdict": "supported",
+   "locator": "resolution no. 1497"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "borderline",
+  "note": "Existing scope note kept."
+ },
+ "overall": "accept",
+ "note": "Only the verification note changes. Parliamentary page, bill text and resolution no. 1497 match the record: filed 27 March 2026, Draft / proposed, in committee. Scope note already present."
+}

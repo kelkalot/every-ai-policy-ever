@@ -1,0 +1,313 @@
+{
+ "cand_id": "AUS-06",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "AUS-06",
+ "record": {
+  "summary": "Australia's national AI plan, anchored in 3 goals with 3 actions each: capture the opportunity, spread the benefits and keep Australians safe. Its safety approach builds on existing, largely technology-neutral laws, with agencies and regulators keeping responsibility for AI harms in their domains, practical and risk-based protections, and targeted laws where needed. It establishes an AI Safety Institute to monitor, test and share information on emerging AI capabilities, risks and harms, and it promotes responsible practices and international engagement on AI safety.",
+  "notes": "Released by the ministers on 2 December 2025; the Plan calls itself a starting point to be adapted as technology develops. Its 9 actions are: build smart infrastructure, back Australian AI capability, attract investment, scale AI adoption, support and train Australians, improve public services, mitigate harms, promote responsible practices and partner on global norms. Existing regulators are to report gaps in laws to the AI Safety Institute, and the government says it will intervene if more regulation is needed. Feedback on the 2024 proposals paper on mandatory guardrails informed the Plan, and the government will not proceed at this time with mandatory guardrails. The Government's response of 1 April 2026 to the Senate Select Committee on Adopting AI reports $29.8 million over 4 years from 2025-26, and $7.9 million a year from 2029-30, to establish the Institute; a committed Digital Duty of Care for technology companies; a legislative framework for automated decision-making in government services under development; and a Privacy Act requirement, from 10 December 2026, to explain substantially automated decisions in privacy policies.",
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: stored in this run the Plan's own DISR page and the National AI Plan PDF (industry.gov.au, 2 December 2025), which now support the title, date, publisher, the 3 goals and 9 actions, the safety approach and the AI Safety Institute; official_url now points to the Plan's page. The Government response to the Senate Select Committee on Adopting AI (DISR, tabled 1 April 2026), until now the record's official_url, becomes its secondary_url and supports the funding and the related measures in the notes. A browser copy of the DISR consultation hub page on mandatory guardrails (the earlier secondary source, stored before only as a JavaScript shell) supports the decision not to proceed with mandatory guardrails. The earlier notes' MoUs with Anthropic and Microsoft are not in the stored files and were removed."
+  },
+  "official_url": "https://www.industry.gov.au/publications/national-ai-plan",
+  "secondary_url": "https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report"
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "page heading",
+    "quote": "National AI Plan Date published: 2 December 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 2, copyright notice",
+    "quote": "Content contained herein should be attributed as National AI Plan, Australian Government Department of Industry, Science and Resources",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "page details",
+    "quote": "Publisher Department of Industry, Science and Resources",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "Introduction",
+    "quote": "The National AI Plan is the Australian Government's plan to grow the AI industry in Australia.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 2, copyright notice",
+    "quote": "Content contained herein should be attributed as National AI Plan, Australian Government Department of Industry, Science and Resources",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "page heading",
+    "quote": "National AI Plan Date published: 2 December 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "More information",
+    "quote": "The ministers launched the plan on 2 December 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 8, Implementing the plan and measuring success",
+    "quote": "The National AI Plan sets out the government’s direction on AI and is designed to support iterative, adaptive action to reflect the dynamism of AI technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 7, Our goals",
+    "quote": "This plan is a starting point for the government’s vision.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-06/2026-10-11/official.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "About the response",
+    "quote": "The government tabled this response in the House of Representatives on 1 April 2026.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 2, Disclaimer",
+    "quote": "This publication does not indicate commitment by the Commonwealth to a particular",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 8, Implementing the plan and measuring success",
+    "quote": "The National AI Plan sets out the government’s direction on AI",
+    "source_kind": "official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "Introduction",
+    "quote": "Keep Australians safe with legislative and regulatory frameworks that mitigate AI harms, while promoting widespread responsible practices and international engagement that upholds Australia’s values.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "Introduction",
+    "quote": "The plan has 3 goals: Capture the opportunity by building smart infrastructure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Keep Australians Safe",
+    "quote": "Agencies and regulators will retain responsibility for identifying, assessing, and addressing potential AI-related harms within their respective policy and regulatory domains.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Action 7: Mitigate harms",
+    "quote": "Australia has strong existing, largely technology-neutral legal frameworks, including sector-specific guidance and standards, that can apply to AI and other emerging technologies.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Keep Australians Safe",
+    "quote": "Our approach focuses on harnessing the opportunities of AI while taking practical, risk-based protections that are proportionate, targeted and responsive to emerging AI risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Keep Australians Safe",
+    "quote": "A proactive approach to harms as they emerge ensures that government is continuing to update and introduce targeted laws where needed.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 28, Keep Australians Safe",
+    "quote": "The AISI will monitor, test and share information on emerging AI capabilities, risks and harms.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 4, Contents",
+    "quote": "Action 8: Promote responsible practices",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 4, Contents",
+    "quote": "Action 9: Partner on global norms",
+    "source_kind": "official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/official.html",
+    "sha256": "ca6ad7bf7dea200932638f1678d45d6581894a8150ba73335c33711b23961985",
+    "locator": "More information",
+    "quote": "The ministers launched the plan on 2 December 2025",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 7, Our goals",
+    "quote": "As technology develops and confidence in AI use becomes more widespread, we will adapt and evolve the plan to capture emerging opportunities and manage new risks.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 4, Contents",
+    "quote": "Action 1: Build smart infrastructure",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 4, Contents",
+    "quote": "Action 6: Improve public services",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 4, Contents",
+    "quote": "Action 7: Mitigate harms",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 36, Building on Actions 7–9: What’s next",
+    "quote": "Existing regulators will continue to identify and manage harms and report any gaps in laws to the AISI.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf",
+    "sha256": "726535cb0003e33b9c08b70d437c7ece445ec1fc46799a6a683102c5b65e269f",
+    "locator": "page 36, Building on Actions 7–9: What’s next",
+    "quote": "If more regulation is needed to address bad actors or broader harms, the government will not hesitate to intervene.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-08659a7f70/2026-10-17/official-rendered.html",
+    "sha256": "f012e5a30acded6512235fe407fd6fc3104821690e6e243309f06e648ded457d",
+    "locator": "Update",
+    "quote": "The Australian Government will not proceed at this time with previous proposals to introduce mandatory guardrails for AI development and deployment. Feedback on this proposals paper informed development of the National AI Plan.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/AUS-06/2026-10-11/official.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "the Australian Government provided $29.8 million over 4 years from 2025–26 (and $7.9 million per year ongoing from 2029–2030) to establish the Australian AI Safety Institute.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-06/2026-10-11/official.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 3: AI safety and regulation",
+    "quote": "The government has also committed to legislating a Digital Duty of Care to place the onus on technology companies to make their products safer for Australian users",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-06/2026-10-11/official.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 6: Automated decision-making",
+    "quote": "AGD is developing a consistent legislative framework for the use of ADM in the delivery of government services",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/AUS-06/2026-10-11/official.html",
+    "sha256": "a3977e8d6c82e0233b1ff9b1e326483f4538031d1dc0b7e1a1f3d89368600c3e",
+    "locator": "Part 6: Automated decision-making",
+    "quote": "From 10 December 2026, the Privacy Act will require regulated entities to include information in their privacy policies about how personal information is used in substantially automated decisions",
+    "source_kind": "alt-official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "official_url": "the Plan's own DISR publication page, stored in this run; the Senate committee response it replaces is not the Plan itself",
+   "secondary_url": "the Government response to the Senate Select Committee on Adopting AI (1 Apr 2026), until now the official_url, supports the funding and related measures in the notes",
+   "summary": "rewritten from the stored Plan: the 3 goals and their actions, the safety approach in the Plan's words (existing, largely technology-neutral laws; regulators keep responsibility; risk-based protections and targeted laws) and the AI Safety Institute",
+   "notes": "rewritten: release, the 9 actions, regulators reporting gaps to the Institute, the guardrails decision (consultation hub page) and the related measures in the Senate committee response; the MoUs with Anthropic and Microsoft are not in the stored files",
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force"
+  ],
+  "status_reasoning": "The Plan (2 December 2025) presents itself as the government's direction on AI, to be adapted over time, and the Government's response of 1 April 2026 still describes it as current; the DISR page is live (stored 17 Oct 2026). Nothing shows it replaced. 'Published (non-binding, current)' stands.",
+  "scope_reasoning": "A national AI plan with one of three goals devoted to keeping Australians safe from AI harms and the creation of an AI Safety Institute; the existing record has no scope_note and none is added, since the safety goal and the institute are a main part of it.",
+  "date_reasoning": "date_published is the 'Date published: 2 December 2025' of the Plan's own page, which also says the ministers launched it that day."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.industry.gov.au/publications/national-ai-plan",
+   "reason": "the National AI Plan's own DISR publication page, stored in this run with the Plan PDF; the record's new official_url"
+  },
+  {
+   "url": "https://consult.industry.gov.au/ai-mandatory-guardrails",
+   "reason": "the DISR consultation hub page on mandatory guardrails, stored in this run with a browser; for the decision not to proceed with mandatory guardrails in the notes"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Electoral Legislation Amendment (Electoral Communications) Bill 2024",
+   "url": null,
+   "seen_in": "archive/AUS-06/2026-10-11/official.html (Part 7: AI in electoral contexts)",
+   "why": "Federal bill to require electoral and referendum communications modified using digital technology, including AI, to carry a statement saying so; not in the register."
+  },
+  {
+   "title": "Australian Framework for Generative Artificial Intelligence in Schools (1 December 2023)",
+   "url": null,
+   "seen_in": "archive/AUS-06/2026-10-11/official.html (Part 3: AI safety and regulation)",
+   "why": "Nationally consistent guidance, developed by the states, territories and non-government bodies, on responsible and ethical use of generative AI in schools; not in the register."
+  },
+  {
+   "title": "Australian Government Strategy for International Engagement and Regional Leadership on Artificial Intelligence (planned; DFAT with DISR)",
+   "url": null,
+   "seen_in": "archive/_runs/2026-10-17-recheck-europe-3/AUS-06/extra-2fd4234106/2026-10-17/document-1.pdf (page 35)",
+   "why": "Announced in the National AI Plan to align foreign and domestic AI policy settings; a candidate once published."
+  }
+ ],
+ "open_questions": []
+}

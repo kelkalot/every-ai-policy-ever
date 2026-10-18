@@ -1,0 +1,56 @@
+{
+ "cand_id": "GR-01",
+ "tool": "Claude Code",
+ "model": "claude-sonnet-5-5",
+ "checked_on": "2026-10-17",
+ "fields": {
+  "title": {
+   "verdict": "supported"
+  },
+  "original_title": {
+   "verdict": "supported"
+  },
+  "issuing_body": {
+   "verdict": "supported"
+  },
+  "official_identifier": {
+   "verdict": "supported"
+  },
+  "date_published": {
+   "verdict": "supported"
+  },
+  "date_in_force": {
+   "verdict": "supported"
+  },
+  "status": {
+   "verdict": "supported"
+  },
+  "legal_force": {
+   "verdict": "supported"
+  },
+  "notes": {
+   "verdict": "supported"
+  }
+ },
+ "summary_claims": [
+  {
+   "claim": "Article 26 repeals Chapter B of Part A of Law 4961/2022 (AI chapter)",
+   "verdict": "supported",
+   "locator": "page 14"
+  },
+  {
+   "claim": "Article 58: in force from publication in the Government Gazette",
+   "verdict": "supported",
+   "locator": "page 44"
+  }
+ ],
+ "newer_versions": [],
+ "extra_urls": [],
+ "related_missing": [],
+ "scope": {
+  "assessment": "core",
+  "note": ""
+ },
+ "overall": "accept",
+ "note": "Gazette quotes and the Commission single-point-of-contact page all match; status In force follows from Article 58. Removal of the consultation dates is right, since they rested on no stored file. One search found no ministerial decision or amendment to Law 5321/2026. Core scope."
+}

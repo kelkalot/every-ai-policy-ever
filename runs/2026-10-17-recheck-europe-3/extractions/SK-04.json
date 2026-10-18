@@ -1,0 +1,175 @@
+{
+ "cand_id": "SK-04",
+ "tool": "Claude Code",
+ "model": "claude-opus-5-5",
+ "decision": "update",
+ "target_id": "SK-04",
+ "record": {
+  "verification": {
+   "note": "Recheck of 17 Oct 2026: the National Council's page for parliamentary print 1029 (nrsr.sk, stored again 17 Oct 2026; its text is unchanged) confirms the title, the sponsors, receipt on 25 September 2025, the committees proposed by the Speaker and the first-reading outcome. Resolution no. 1407 of 14 April 2026, stored again in this run, records the decision under § 73(4) of the Rules of Procedure not to continue deliberating the bill. The bill text (7 articles, stored again 17 Oct 2026) and the explanatory memorandum with its EU-compatibility and impact clauses (stored 14 Oct 2026) support the summary and notes."
+  }
+ },
+ "evidence": {
+  "title": [
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "na vydanie zákona, ktorým sa menia a dopĺňajú niektoré zákony v súvislosti s ochranou pred zneužívaním syntetického obsahu generovaného umelou inteligenciou",
+    "source_kind": "official"
+   }
+  ],
+  "original_title": [
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C025/2026-10-14/official.html",
+    "sha256": "063c0fd72de12c939afd0c65b3e31ad209ca5edc2dd530d6a2ce35e20e2e842a",
+    "locator": "Doložka zlučiteľnosti, point 2",
+    "quote": "Názov návrhu právneho predpisu: : Návrh zákona, ktorým sa menia a dopĺňajú niektoré zákony v súvislosti s ochranou pred zneužívaním syntetického obsahu generovaného umelou inteligenciou",
+    "source_kind": "official"
+   }
+  ],
+  "issuing_body": [
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "Navrhovateľ: poslanci NR SR (I. Janckulík, F. Mikloško)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "Návrh poslancov Národnej rady Slovenskej republiky Františka MIKLOŠKA a Igora JANCKULÍKA na vydanie zákona",
+    "source_kind": "official"
+   }
+  ],
+  "date_published": [
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "Dátum doručenia: 25. 9. 2025",
+    "source_kind": "official"
+   }
+  ],
+  "status": [
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "Stav legislatívneho procesu: Uzavretá úloha (NR SR nebude pokračovať v rokovaní o návrhu zákona)",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona, I. čítanie",
+    "quote": "NZ bol prerokovaný na 49. schôdzi NR SR, uznesenie číslo 1407 zo dňa 14. 4. 2026. Výsledok štádia procesu: NR SR nebude pokračovať v rokovaní o návrhu zákona.",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SK-04/extra-97de9fc575/2026-10-17/official.html",
+    "sha256": "30075f149c5c1286ffffc55da0dd02411d9e776361ebdd6e910c481ecd55788b",
+    "locator": "resolution no. 1407",
+    "quote": "podľa § 73 ods. 4 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov nebude pokračovať v rokovaní o tomto návrhu zákona.",
+    "source_kind": "official"
+   }
+  ],
+  "legal_force": [
+   {
+    "file": "archive/SK-04/2026-10-17/secondary.html",
+    "sha256": "92773f3cb9c0c3292cc64a6480bb50543644a2dd3c05076779ab591c4443fb74",
+    "locator": "bill text, heading",
+    "quote": "IX. volebné obdobie NÁVRH ZÁKON",
+    "source_kind": "alt-official"
+   }
+  ],
+  "official_identifier": [
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "Novela zákona, parlamentná tlač 1029",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SK-04/2026-10-17/secondary.html",
+    "sha256": "92773f3cb9c0c3292cc64a6480bb50543644a2dd3c05076779ab591c4443fb74",
+    "locator": "bill text, heading",
+    "quote": "NÁRODNÁ RADA SLOVENSKEJ REPUBLIKY IX. volebné obdobie",
+    "source_kind": "alt-official"
+   }
+  ],
+  "summary": [
+   {
+    "file": "archive/SK-04/2026-10-17/secondary.html",
+    "sha256": "92773f3cb9c0c3292cc64a6480bb50543644a2dd3c05076779ab591c4443fb74",
+    "locator": "bill text, Art. I (§ 11a(3) Civil Code)",
+    "quote": "Právo na ochranu digitálnej identity trvá aj po smrti fyzickej osoby",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/SK-04/2026-10-17/secondary.html",
+    "sha256": "92773f3cb9c0c3292cc64a6480bb50543644a2dd3c05076779ab591c4443fb74",
+    "locator": "bill text, Art. III (§ 6(2)-(3) E-Commerce Act)",
+    "quote": "najneskôr však do 24 hodín od prijatia oznámenia, odstrániť alebo znemožniť prístup k obsahu, pokiaľ je jeho nezákonná povaha zjavná. (3) Za porušenie povinností podľa odsekov 1 a 2 môže orgán dozoru uložiť pokutu až do výšky 500 000 eur.",
+    "source_kind": "alt-official"
+   }
+  ],
+  "notes": [
+   {
+    "file": "archive/SK-04/2026-10-17/official.html",
+    "sha256": "3b4941f3aef7b93a675874c18993484d8943fc4d61f0ec27e36ec039e3d75234",
+    "locator": "print 1029, Detaily návrhu zákona",
+    "quote": "Predseda NR SR navrhol ako výbory Ústavnoprávny výbor NR SR a Výbor NR SR pre ľudské práva a národnostné menšiny",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/SK-04/2026-10-17/secondary.html",
+    "sha256": "92773f3cb9c0c3292cc64a6480bb50543644a2dd3c05076779ab591c4443fb74",
+    "locator": "bill text, Art. VII",
+    "quote": "Tento zákon nadobúda účinnosť 1. januára 2026.",
+    "source_kind": "alt-official"
+   },
+   {
+    "file": "archive/_runs/2026-10-14-discover-leads-2026-10-14/C025/2026-10-14/official.html",
+    "sha256": "063c0fd72de12c939afd0c65b3e31ad209ca5edc2dd530d6a2ce35e20e2e842a",
+    "locator": "Dôvodová správa, A. Všeobecná časť",
+    "quote": "Pri tvorbe tohto návrhu sme sa inšpirovali priekopníckym legislatívnym prístupom Dánskeho kráľovstva",
+    "source_kind": "official"
+   },
+   {
+    "file": "archive/_runs/2026-10-17-recheck-europe-3/SK-04/extra-97de9fc575/2026-10-17/official.html",
+    "sha256": "30075f149c5c1286ffffc55da0dd02411d9e776361ebdd6e910c481ecd55788b",
+    "locator": "resolution no. 1407, heading",
+    "quote": "UZNESENIE NÁRODNEJ RADY SLOVENSKEJ REPUBLIKY zo 14. apríla 2026",
+    "source_kind": "official"
+   }
+  ]
+ },
+ "judgment": {
+  "changes": {
+   "verification.note": "rewritten for this recheck"
+  },
+  "confirmed": [
+   "title",
+   "original_title",
+   "issuing_body",
+   "date_published",
+   "status",
+   "legal_force",
+   "official_identifier"
+  ],
+  "status_reasoning": "At first reading on 14 April 2026 (resolution no. 1407) the National Council decided not to continue deliberating the bill; the print page shows the process closed ('Uzavretá úloha'). A bill whose passage ended keeps legal_force 'Proposed' with status 'Lapsed'. Unchanged.",
+  "scope_reasoning": "A private members' bill amending general laws against misuse of AI-generated synthetic content; the existing scope_note fits."
+ },
+ "extra_urls": [
+  {
+   "url": "https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?DocID=588248",
+   "reason": "Resolution no. 1407 of 14 April 2026 (stored 14 Oct 2026 in run 2026-10-14-discover-leads-2026-10-14 as C025's extra, not a stored file of this run): the decision under § 73(4) of the Rules of Procedure not to continue deliberating the bill, cited in the notes. (stored in this run)"
+  }
+ ],
+ "leads": [],
+ "open_questions": []
+}

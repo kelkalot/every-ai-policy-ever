@@ -31,6 +31,7 @@ Needs: huggingface_hub and pyarrow (pip install huggingface_hub pyarrow), and `h
 """
 import argparse
 import base64
+import csv
 import datetime as dt
 import hashlib
 import json
@@ -44,6 +45,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build  # noqa: E402
+from archive import ROLE_LABELS  # noqa: E402
 import history  # noqa: E402
 import validate  # noqa: E402
 
@@ -147,14 +149,21 @@ def known_urls(db):
     return urls
 
 
-def evidence_rows(db, current, archive_repo_url):
-    """source_files rows for the quoted files that are not a record's current copy: copies a pipeline run stored
-    (archive/_runs/...) and earlier snapshots that a newer copy replaced. They are published with the archive so that
-    every quote in the history and the definitions can be checked against the file it names. A file whose URL is not
-    known (an earlier snapshot) counts as third-party when any URL its record's field ever had is third-party."""
-    urls = known_urls(db)
-    by = {r["id"]: r for r in db["records"]}
-    past = defaultdict(set)  # (record, field) -> every value official_url / secondary_url had
+STORED_ROLE = re.compile(r"^(official-print|official-rendered|official|secondary|provided|document-\d+)(?:-(\d+))?$")
+STATUSES = ("current", "earlier version", "no longer used", "run copy", "register file")
+OFFICIAL_ROLES = ("official", "official-rendered", "official-print", "provided")
+
+
+def role_of(name):
+    """The archiver's role of a stored file and its copy number, from the file name: official.pdf -> (official, 1),
+    official-2.html (a second copy stored the same day) -> (official, 2), document-3.pdf -> (document-3, 1)."""
+    m = STORED_ROLE.match(name.split(".", 1)[0])
+    return (m.group(1), int(m.group(2) or 1)) if m else (name.split(".", 1)[0], 1)
+
+
+def past_urls(db):
+    """(record ID, field) -> every value official_url or secondary_url had, from the record and its history."""
+    past = defaultdict(set)
     for r in db["records"]:
         for k in ("official_url", "secondary_url"):
             if r.get(k):
@@ -164,33 +173,138 @@ def evidence_rows(db, current, archive_repo_url):
             for v in (e.get("old"), e.get("new")):
                 if isinstance(v, str) and v:
                     past[(e.get("record_id"), e["field"])].add(v)
+    return past
+
+
+def other_row(rid, path, archive_repo_url, status, role, url=None, final=None, third=False, retrieved=None,
+              replaced_by=None):
+    """A source_files row for a stored file that is not one of a record's current copies."""
+    p = ROOT / path
+    present = p.is_file()
+    published = present and not third
+    digest = hashlib.sha256(p.read_bytes()).hexdigest() if present else None
+    return {
+        "record_id": rid, "role": role, "path": path, "url": url, "final_url": final,
+        "host": host_of({"url": url, "final_url": final}), "http_status": None, "content_type": None,
+        "bytes": p.stat().st_size if present else None, "sha256": digest, "retrieved_at": retrieved, "last_checked": None,
+        "method": None, "stale": False, "integrity": "ok" if present else None, "in_archive_dataset": published,
+        "archive_url": "%s/blob/main/%s" % (archive_repo_url, path) if published else None,
+        "redacted": False, "published_sha256": digest if published else None, "redaction_note": None,
+        "status": status, "replaced_by": replaced_by, "replaced_on": replaced_by.split("/")[2] if replaced_by else None,
+        "quoted": False, "_missing": not present,
+    }
+
+
+def earlier_rows(db, current, archive_repo_url, past):
+    """Every other copy the archiver stored under archive/<ID>/<date>/ (its SHA256SUMS lists them): earlier versions
+    that a newer copy replaced, or copies of a source the record no longer has. Each earlier version names the file
+    that replaced it: the current copy whose previous_path it is, else the next newer copy of the same role, else (for
+    an official copy stored another way before) the record's current official copy. A second identical copy stored on
+    the same day is left out. A copy counts as third-party when any URL its record's field ever had is."""
+    by = {r["id"]: r for r in db["records"]}
+    after = {}  # earlier path -> the current copy that replaced it (the archiver's previous_path link)
+    official_now = {}  # record -> its current official copy, for official copies stored another way before
+    for r in db["records"]:
+        files = [f for f in (r.get("local_copy") or {}).get("files") or [] if f.get("path")]
+        for f in files:
+            if f.get("previous_path"):
+                after[f["previous_path"]] = f["path"]
+        for role in OFFICIAL_ROLES:
+            hit = next((f["path"] for f in files if role_of(Path(f["path"]).name)[0] == role and not f.get("stale")), None)
+            if hit:
+                official_now[r["id"]] = hit
+                break
+    copies = defaultdict(list)  # (record, role) -> [(date, copy number, path, sha256)]
+    for sums in sorted((ROOT / "archive").glob("*/*/SHA256SUMS")):
+        rid, date = sums.parent.parent.name, sums.parent.name
+        if rid not in by:
+            continue  # archive/_runs, archive/_provided and folders of no record
+        for line in sums.read_text(encoding="utf-8").splitlines():
+            if "  " in line:
+                digest, name = line.split("  ", 1)
+                role, n = role_of(name)
+                copies[(rid, role)].append((date, n, "archive/%s/%s/%s" % (rid, date, name), digest))
+    rows = []
+    for (rid, role), items in sorted(copies.items()):
+        items.sort()
+        sha_of = {path: digest for _, _, path, digest in items}
+        for i, (date, n, path, digest) in enumerate(items):
+            if path in current or not (ROOT / path).is_file():
+                continue
+            nxt = after.get(path) or next((x[2] for x in items[i + 1:]), None)
+            if not nxt and role in OFFICIAL_ROLES:
+                nxt = official_now.get(rid)  # the official source is stored another way now (e.g. no longer rendered)
+            if nxt and sha_of.get(nxt) == digest and nxt.split("/")[2] == date:
+                continue  # the same bytes stored twice on one day; an identical copy from an earlier day stays, since a
+                # citation of an earlier version names its path
+            field = "secondary_url" if role == "secondary" else "official_url"
+            cands = past.get((rid, field), set())
+            url = next(iter(cands)) if len(cands) == 1 and not role.startswith("document") else None
+            rows.append(other_row(rid, path, archive_repo_url, "earlier version" if nxt else "no longer used",
+                                  ROLE_LABELS.get(role, role), url=url,
+                                  third=any(is_third_party({"url": u}) for u in cands), retrieved=date,
+                                  replaced_by=nxt))
+    return rows
+
+
+def first_copies():
+    """path -> record ID, for the copies a discover run stored that were a new record's first local copy (pass.json);
+    the archiver stores the record's later copies under archive/<ID>/, so these became earlier versions."""
+    out = {}
+    for p in sorted((ROOT / "runs").glob("*/pass.json")):
+        try:
+            records = json.load(open(p, encoding="utf-8")).get("records") or []
+        except ValueError:
+            continue
+        for rec in records:
+            for f in (rec.get("local_copy") or {}).get("files") or []:
+                if f.get("path") and rec.get("id"):
+                    out[f["path"]] = rec["id"]
+    return out
+
+
+def first_copy_rows(db, listed, archive_repo_url):
+    """Earlier versions among the first copies of records made by discover runs (see first_copies)."""
+    now = {}  # (record, role) -> current path
+    for r in db["records"]:
+        for f in (r.get("local_copy") or {}).get("files") or []:
+            if f.get("path") and not f.get("stale"):
+                now.setdefault((r["id"], role_of(Path(f["path"]).name)[0]), f["path"])
+    rows = []
+    for path, rid in sorted(first_copies().items()):
+        if path in listed or not (ROOT / path).is_file():
+            continue
+        role = role_of(Path(path).name)[0]
+        nxt = now.get((rid, role)) or (next((now[(rid, x)] for x in OFFICIAL_ROLES if (rid, x) in now), None)
+                                       if role in OFFICIAL_ROLES else None)
+        rows.append(other_row(rid, path, archive_repo_url, "earlier version" if nxt else "no longer used",
+                              ROLE_LABELS.get(role, role), replaced_by=nxt))
+    return rows
+
+
+def run_rows(db, listed, archive_repo_url, past):
+    """The quoted files that are neither a record's copy nor an earlier version: copies a pipeline run stored
+    (archive/_runs/...), and register files such as a quality check's findings. They are published so that every
+    quote in the history and the definitions can be checked against the file it names."""
+    urls = known_urls(db)
     rows = []
     for path, rids in sorted(quoted_files(db).items()):
-        if path in current:
+        if path in listed:
             continue
         rid = sorted(x for x in rids if x)[0] if any(rids) else None
-        p = ROOT / path
-        present = p.is_file()
         url, final = urls.get(path, (None, None))
         if url:
             third = is_third_party({"url": url, "final_url": final})
         else:
             field = "secondary_url" if Path(path).name.startswith("secondary") else "official_url"
             cands = set().union(*(past.get((x, field), set()) for x in rids)) if rids else set()
-            url = sorted(cands)[0] if len(cands) == 1 else None
+            url = next(iter(cands)) if len(cands) == 1 else None
             third = any(is_third_party({"url": u}) for u in cands)
-        published = present and not third
-        digest = hashlib.sha256(p.read_bytes()).hexdigest() if present else None
-        rows.append({
-            "record_id": rid, "role": "evidence: run copy" if path.startswith("archive/_runs/") else "evidence: earlier snapshot",
-            "path": path, "url": url, "final_url": final, "host": host_of({"url": url, "final_url": final}),
-            "http_status": None, "content_type": None, "bytes": p.stat().st_size if present else None, "sha256": digest,
-            "retrieved_at": None, "last_checked": None, "method": None, "stale": False, "integrity": "ok" if present else None,
-            "in_archive_dataset": published,
-            "archive_url": "%s/blob/main/%s" % (archive_repo_url, path) if published else None,
-            "redacted": False, "published_sha256": digest if published else None, "redaction_note": None,
-            "_missing": not present, "_evidence": True,
-        })
+        run = path.startswith("archive/_runs/")
+        status = "run copy" if run else ("no longer used" if path.startswith("archive/") else "register file")
+        rows.append(other_row(rid, path, archive_repo_url, status,
+                              "copy stored by run %s" % path.split("/")[2] if run else status,
+                              url=url, final=final, third=third))
     return rows
 
 
@@ -218,9 +332,15 @@ def tables(db, archive_repo_url):
                 "in_archive_dataset": published,
                 "archive_url": "%s/blob/main/%s" % (archive_repo_url, f["path"]) if published else None,
                 "redacted": False, "published_sha256": f.get("sha256") if published else None, "redaction_note": None,
-                "_missing": not present,
+                "status": "current", "replaced_by": None, "replaced_on": None, "quoted": False, "_missing": not present,
             })
-    files += evidence_rows(db, {f["path"] for f in files if f.get("path")}, archive_repo_url)
+    past = past_urls(db)
+    files += earlier_rows(db, {f["path"] for f in files if f.get("path")}, archive_repo_url, past)
+    files += first_copy_rows(db, {f["path"] for f in files if f.get("path")}, archive_repo_url)
+    files += run_rows(db, {f["path"] for f in files if f.get("path")}, archive_repo_url, past)
+    quoted = quoted_files(db)
+    for row in files:
+        row["quoted"] = row.get("path") in quoted
     plan = redaction_plan(files)
     for row in files:
         if row["path"] in plan:
@@ -257,7 +377,8 @@ def schemas():
                                    ("http_status", i), ("content_type", s), ("bytes", i), ("sha256", s),
                                    ("retrieved_at", s), ("last_checked", s), ("method", s), ("stale", b),
                                    ("integrity", s), ("in_archive_dataset", b), ("archive_url", s),
-                                   ("redacted", b), ("published_sha256", s), ("redaction_note", s)]),
+                                   ("redacted", b), ("published_sha256", s), ("redaction_note", s), ("status", s),
+                                   ("replaced_by", s), ("replaced_on", s), ("quoted", b)]),
     }
 
 
@@ -277,7 +398,11 @@ def stats(db, files):
         "states": len(states), "intl": intl, "files": len(files), "pub_files": len(pub),
         "pub_mb": sum(f["bytes"] or 0 for f in pub) / 1e6,
         "missing": sum(1 for f in files if f.get("_missing")),
-        "evidence": sum(1 for f in files if f.get("_evidence") and f["in_archive_dataset"]),
+        "n_current": sum(1 for f in files if f.get("status") == "current" and f["in_archive_dataset"]),
+        "n_earlier": sum(1 for f in files if f.get("status") == "earlier version" and f["in_archive_dataset"]),
+        "n_unused": sum(1 for f in files if f.get("status") == "no longer used" and f["in_archive_dataset"]),
+        "n_run": sum(1 for f in files if f.get("status") == "run copy" and f["in_archive_dataset"]),
+        "n_register": sum(1 for f in files if f.get("status") == "register file" and f["in_archive_dataset"]),
         "excluded": sum(1 for f in files if not f["in_archive_dataset"] and not f.get("_missing")),
         "redacted": sum(1 for f in files if f.get("redacted")),
         "with_copy": sum(1 for r in R if (r.get("local_copy") or {}).get("status") == "archived"),
@@ -399,7 +524,7 @@ df.groupby(["region", "legal_force"]).size().unstack(fill_value=0)
 | `records` (default) | {n} | instrument |
 | `topics` | {n_topics} | instrument and safety topic |
 | `related` | {n_related} | link between two records |
-| `source_files` | {files} | stored copy of a source, with URL, hash, retrieval time and a link into the archive dataset; `redacted` marks the few published copies in which a live access token embedded by the source site was replaced |
+| `source_files` | {files} | stored copy of a source, with URL, hash, retrieval time and a link into the archive dataset; `status` says whether it is a record's `current` copy, an `earlier version` (with `replaced_by` and `replaced_on`), `no longer used`, a `run copy` or a `register file`, and `quoted` whether the history or the definitions quote it; `redacted` marks the few published copies in which a live access token embedded by the source site was replaced |
 {history_row}{definitions_row}
 `raw/records.json` is the full nested source of truth, with the complete verification and local-copy history of each record. `raw/records.csv` and `raw/register.xlsx` hold the same records for spreadsheets.
 
@@ -503,13 +628,27 @@ extra_gated_button_content: Access the documents
 
 Stored copies of the official sources behind the records of [{ns}/{name}]({main}): {pub_files} files, about {pub_mb:.0f} MB, mostly PDFs and HTML pages of laws, decrees, gazette entries, guidelines and declarations.
 
-Each file sits at `archive/<record ID>/<retrieval date>/`, next to a `SHA256SUMS` file. {evidence} of the files are not a record's current copy but are quoted as evidence in the register's history or definitions: copies that a pipeline run stored under `archive/_runs/<run ID>/<candidate>/`, and earlier snapshots that a newer copy replaced. They are here so that every quote can be checked against the file it names; `source_files` lists them with the role `evidence: run copy` or `evidence: earlier snapshot`.
+Each file sits at `archive/<record ID>/<retrieval date>/`, next to a `SHA256SUMS` file:
 
 ```bash
 cd archive/EU-03/2026-10-11 && sha256sum -c SHA256SUMS
 ```
 
-The `source_files` table of the main dataset lists every stored file with its original URL, retrieval time, HTTP status and hash, and links each file here.
+## Which copy is which
+
+A record can have several copies of the same source: the archiver stores a new copy whenever the visible text of a source changes, and keeps the earlier ones. The folder date is the day a copy was stored, so the newest folder is not always the current copy (a record's official text can date from one day and its secondary source from another). `FILES.csv`, next to this card, lists every published file with its record, its role and its status:
+
+| Status | Files | What it is |
+|---|---:|---|
+| `current` | {n_current} | a copy the record uses now; the app and the record's `local_copy` point to it |
+| `earlier version` | {n_earlier} | a copy that a newer one replaced; `replaced_by` names the newer file and `replaced_on` the day the newer file was stored |
+| `no longer used` | {n_unused} | a copy of a source the record no longer has, such as a linked document its official page no longer links |
+| `run copy` | {n_run} | a source a pipeline run stored under `archive/_runs/<run ID>/<candidate>/` and quoted as evidence |
+| `register file` | {n_register} | a file of the register itself that its history quotes, such as a quality check's findings |
+
+The column `quoted` says whether the register's history or definitions quote the file as evidence. The main dataset's `source_files` table has the same columns for these files and for the third-party copies that are not published here.
+
+A release adds files and never deletes them, so every earlier version stays here and every quote can be checked against the file it names. Version 1.17 was the exception: it removed 189 files from this branch, mostly earlier versions (they remain in the revision tagged `v1.16`); version 1.18 restored them and stopped releases from deleting files.
 
 ## What is not included
 
@@ -649,6 +788,13 @@ def build_all(out, ns, name, github_url, changes_md=""):
                                          "The original hash identifies the exact page as it was served.\n\n%s\n"
                                          % (PLACEHOLDER.decode(), "\n".join(rows)), encoding="utf-8")
     (ar / "README.md").write_text(card, encoding="utf-8")
+    with open(ar / "FILES.csv", "w", encoding="utf-8", newline="") as fh:  # the archive's own index of what is here
+        cols = ["path", "record_id", "role", "status", "replaced_by", "replaced_on", "quoted", "url", "retrieved_at",
+                "sha256", "published_sha256", "redacted"]
+        w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
+        w.writeheader()
+        for f in sorted((f for f in files if f["in_archive_dataset"]), key=lambda f: f["path"]):
+            w.writerow(f)
     (ar / "LICENSE.md").write_text(lic, encoding="utf-8")
 
     # space
@@ -781,6 +927,18 @@ def release_checks(db, st, out, ns, name, prev, api):
             if p.is_file() and p.suffix.lower() in (".html", ".htm", ".txt", ".json", ".xml", ".js") and live_tokens(p.read_bytes())]
     if live:
         problems.append("live access tokens in the built archive: %s" % ", ".join(live[:5]))
+    # the archive only grows: a release never deletes a file, so the build has to list every file published so far
+    try:
+        remote = {f for f in api.list_repo_files("%s/%s-archive" % (ns, name), repo_type="dataset")
+                  if f.startswith(("archive/", "docs/")) and not f.endswith("SHA256SUMS")}
+        built = {str(p.relative_to(out / "archive")) for p in (out / "archive").rglob("*") if p.is_file()}
+        lost = sorted(remote - built)
+        if lost:
+            problems.append("%d file(s) on the archive dataset are not in this build, so FILES.csv would not list them "
+                            "(a release never deletes): %s" % (len(lost), ", ".join(lost[:5])))
+    except Exception as e:  # a repository that does not exist yet has no files
+        if "RepositoryNotFound" not in type(e).__name__:
+            problems.append("could not list the archive dataset's files (%s)" % type(e).__name__)
     # a token that can write to all three repositories
     try:
         tok = (api.whoami().get("auth") or {}).get("accessToken") or {}
@@ -834,7 +992,7 @@ def push(out, ns, name, private, only=("dataset", "archive", "space"), squash_ar
     if "archive" in only:
         api.create_repo(ar_id, repo_type="dataset", private=private, exist_ok=True)
         api.upload_folder(repo_id=ar_id, repo_type="dataset", folder_path=str(out / "archive"),
-                          commit_message="Publish stored source documents (%s)" % stamp, delete_patterns=["archive/**"])
+                          commit_message="Publish stored source documents (%s)" % stamp)  # adds and updates, never deletes
         api.update_repo_settings(ar_id, repo_type="dataset", gated="auto")
         print("uploaded", ar_id, "(gated, automatic approval)")
         if squash_archive:

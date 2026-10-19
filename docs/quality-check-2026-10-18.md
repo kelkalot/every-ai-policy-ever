@@ -95,3 +95,9 @@ Since the blind extractions on the mid-sized model agreed with the larger model 
 - The 25 queued records (leads L019 to L043) and the California decision above.
 - An OCR layer for image pages inside text PDFs. The covers of KR-04 to KR-07 are images and probably carry the date that would keep those records at level A.
 - The human samples.
+
+## Addendum, 19 October 2026: earlier versions in the archive
+
+The app links each stored copy that changed to its earlier version. On 19 October such a link (UN-13's earlier secondary source) led to an empty page. Each release had uploaded only the records' current copies (and, from 1.17, the quoted evidence files) and deleted every other file from the archive dataset's main branch. Version 1.17 removed 189 files that way, mostly earlier versions; 51 of the app's 57 links to earlier versions pointed to removed files. The files had stayed on the publishing machine and in the archive's tagged revisions.
+
+From version 1.18 on, a release publishes every copy the archiver stored of a record's sources, never deletes a file, and refuses to run when the archive holds a file the build would not list. Every file the archive ever published is in it again. `FILES.csv` in the archive and the `source_files` table mark each file `current`, `earlier version` (with the file that replaced it and when), `no longer used`, `run copy` or `register file`. The release test now checks the index and every stored file the app links.

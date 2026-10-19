@@ -7,8 +7,8 @@
 
 publish_hf.py --release runs these tests on its own build before it uploads, next to its release checks (gate,
 version, tags, deleted records, history, stored files, tokens in the archive). These tests look at the built files
-themselves: the dataset tables against data/records.json, the archive copies against their hashes, the Space and its
-record pages and links, the app in a headless browser, the history replayed against the data, and every uploaded
+themselves: the dataset tables against data/records.json, the archive copies against their hashes, the archive's index of
+which copy is current, every stored file the app links, the Space and its record pages and links, the app in a headless browser, the history replayed against the data, and every uploaded
 text file for credentials. Exit status 1 when a test fails; warnings do not fail.
 """
 import argparse
@@ -159,6 +159,48 @@ def test_archive(rep, root, out, db, hist, defs):
               % (len(quoted) - len(missing) - len(third), len(quoted), len(third)))
 
 
+def test_archive_index(rep, out, db):
+    """FILES.csv lists exactly the published files, each with a known status; an earlier version names what replaced it."""
+    a = out / "archive"
+    meta_files = {"README.md", "LICENSE.md", "REDACTIONS.md", "FILES.csv", ".gitattributes"}
+    built = {str(p.relative_to(a)) for p in a.rglob("*") if p.is_file() and p.name != "SHA256SUMS"
+             and str(p.relative_to(a)) not in meta_files}
+    if not (a / "FILES.csv").is_file():
+        rep.check("archive index", ["FILES.csv missing"])
+        return
+    with open(a / "FILES.csv", encoding="utf-8", newline="") as f:
+        rows = list(csv.DictReader(f))
+    listed = {r["path"] for r in rows}
+    probs = ["%s is in the archive but not in FILES.csv" % x for x in sorted(built - listed)][:5]
+    probs += ["%s is in FILES.csv but not in the archive" % x for x in sorted(listed - built)][:5]
+    probs += ["%s has status %r" % (r["path"], r["status"]) for r in rows
+              if r["status"] not in ("current", "earlier version", "no longer used", "run copy", "register file")][:5]
+    probs += ["%s is an earlier version without replaced_by" % r["path"] for r in rows
+              if r["status"] == "earlier version" and not r["replaced_by"]][:5]
+    n = Counter(r["status"] for r in rows)
+    rep.check("archive index", probs, "FILES.csv lists the %d published files: %s" % (
+        len(rows), ", ".join("%d %s" % (v, k) for k, v in sorted(n.items()))))
+
+
+def test_app_links(rep, out, db):
+    """Every stored file the app links (a record's copies and their earlier versions) is in the archive dataset, unless
+    the Space's site-config marks it as not published (a third-party copy)."""
+    a = out / "archive"
+    cfg = (out / "space" / "assets" / "site-config.js").read_text(encoding="utf-8")
+    m = re.search(r"window\.SITE_CONFIG\s*=\s*(\{.*\})\s*;", cfg, re.S)
+    excluded = set((json.loads(m.group(1)) if m else {}).get("archiveExcluded") or [])
+    links, probs = 0, []
+    for r in db["records"]:
+        for f in (r.get("local_copy") or {}).get("files") or []:
+            for path, what in ((f.get("path"), "copy"), (f.get("previous_path") if f.get("changed") else None, "earlier version")):
+                if not path or path in excluded:
+                    continue
+                links += 1
+                if not (a / path).is_file():
+                    probs.append("%s: %s %s" % (r["id"], what, path))
+    rep.check("app links to stored files", probs, "%d linked files (copies and earlier versions) are published" % links)
+
+
 def test_space(rep, out, db):
     sp = out / "space"
     meta, R = db["meta"], db["records"]
@@ -285,6 +327,8 @@ def main(argv=None):
     test_tables(rep, root, out, db, hist, defs)
     test_generated(rep, root, db)
     test_archive(rep, root, out, db, hist, defs)
+    test_archive_index(rep, out, db)
+    test_app_links(rep, out, db)
     test_space(rep, out, db)
     test_cards(rep, out, db)
     test_history_replay(rep, db, hist)
